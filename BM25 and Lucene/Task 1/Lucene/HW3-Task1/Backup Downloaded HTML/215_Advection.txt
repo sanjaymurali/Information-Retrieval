@@ -1,0 +1,1192 @@
+https://en.wikipedia.org/wiki/Advection
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Advection - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Advection","wgTitle":"Advection","wgCurRevisionId":765881435,"wgRevisionId":765881435,"wgArticleId":166377,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from April 2013","Vector calculus","Atmospheric dynamics","Conservation equations","Equations of fluid dynamics","Oceanography","Convection","Heat transfer","Transport phenomena"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Advection","wgRelevantArticleId":166377,"wgRequestId":"WdQpMApAAEEAAF8bQM0AAACR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q379788","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Advection" rel="alternate"/>
+<link href="/w/index.php?title=Advection&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Advection&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Advection" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Advection rootpage-Advection vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Advection</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a href="/wiki/Physics" title="Physics">physics</a>, <a href="/wiki/Engineering" title="Engineering">engineering</a>, and <a href="/wiki/Earth_science" title="Earth science">earth sciences</a>, <b>advection</b> is the <a href="/wiki/Transport" title="Transport">transport</a> of a substance by bulk motion. The properties of that substance are carried with it. Generally the majority of the advected substance is a fluid. The properties that are carried with the advected substance are <a href="/wiki/Conservation_of_energy" title="Conservation of energy">conserved</a> properties such as <a href="/wiki/Energy" title="Energy">energy</a>. An example of advection is the transport of <a href="/wiki/Pollutant" title="Pollutant">pollutants</a> or <a href="/wiki/Silt" title="Silt">silt</a> in a <a href="/wiki/River" title="River">river</a> by bulk water flow downstream. Another commonly advected quantity is energy or <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a>. Here the fluid may be any material that contains thermal energy, such as <a href="/wiki/Water" title="Water">water</a> or <a class="mw-redirect" href="/wiki/Air" title="Air">air</a>. In general, any substance or conserved, <a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">extensive</a> quantity can be advected by a <a href="/wiki/Fluid" title="Fluid">fluid</a> that can hold or contain the quantity or substance.</p>
+<p>During advection, a fluid transports some conserved quantity or material via bulk motion. The fluid's motion is described <a href="/wiki/Mathematics" title="Mathematics">mathematically</a> as a <a href="/wiki/Vector_field" title="Vector field">vector field</a>, and the transported material is described by a <a href="/wiki/Scalar_field" title="Scalar field">scalar field</a> showing its distribution over space. Advection requires currents in the fluid, and so cannot happen in rigid solids. It does not include transport of substances by <a href="/wiki/Molecular_diffusion" title="Molecular diffusion">molecular diffusion</a>.</p>
+<p>Advection is sometimes confused with the more encompassing process of <a href="/wiki/Convection" title="Convection">convection</a> which is the combination of advective transport and diffusive transport.</p>
+<p>In <a href="/wiki/Meteorology" title="Meteorology">meteorology</a> and <a href="/wiki/Physical_oceanography" title="Physical oceanography">physical oceanography</a>, advection often refers to the transport of some property of the atmosphere or <a href="/wiki/Ocean" title="Ocean">ocean</a>, such as <a href="/wiki/Heat" title="Heat">heat</a>, humidity (see <a href="/wiki/Water_vapor" title="Water vapor">moisture</a>) or <a href="/wiki/Salinity" title="Salinity">salinity</a>. Advection is important for the formation of <a class="mw-redirect" href="/wiki/Orographic" title="Orographic">orographic</a> clouds and the precipitation of water from clouds, as part of the <a class="mw-redirect" href="/wiki/Hydrological_cycle" title="Hydrological cycle">hydrological cycle</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Distinction_between_advection_and_convection"><span class="tocnumber">1</span> <span class="toctext">Distinction between advection and convection</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Meteorology"><span class="tocnumber">2</span> <span class="toctext">Meteorology</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Other_quantities"><span class="tocnumber">3</span> <span class="toctext">Other quantities</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Mathematics_of_advection"><span class="tocnumber">4</span> <span class="toctext">Mathematics of advection</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#The_advection_equation"><span class="tocnumber">4.1</span> <span class="toctext">The advection equation</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Solving_the_equation"><span class="tocnumber">4.2</span> <span class="toctext">Solving the equation</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Treatment_of_the_advection_operator_in_the_incompressible_Navier_Stokes_equations"><span class="tocnumber">4.3</span> <span class="toctext">Treatment of the advection operator in the incompressible Navier Stokes equations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Distinction_between_advection_and_convection">Distinction between advection and convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Advection&amp;action=edit&amp;section=1" title="Edit section: Distinction between advection and convection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term <i>advection</i> sometimes serves as a synonym for <i><a href="/wiki/Convection" title="Convection">convection</a></i>, but technically, <i>convection</i> covers the sum of transport both by <a href="/wiki/Diffusion" title="Diffusion">diffusion</a> and by advection. Advective transport describes the movement of some quantity via the bulk flow of a fluid (as in a river or pipeline).<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Meteorology">Meteorology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Advection&amp;action=edit&amp;section=2" title="Edit section: Meteorology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Meteorology" title="Meteorology">meteorology</a> and <a href="/wiki/Physical_oceanography" title="Physical oceanography">physical oceanography</a>, advection often refers to the horizontal transport of some property of the atmosphere or <a href="/wiki/Ocean" title="Ocean">ocean</a>, such as <a href="/wiki/Heat" title="Heat">heat</a>, humidity or salinity, and convection generally refers to vertical transport (vertical advection). Advection is important for the formation of <a class="mw-redirect" href="/wiki/Orographic_cloud" title="Orographic cloud">orographic clouds</a> (terrain-forced convection) and the precipitation of water from clouds, as part of the <a class="mw-redirect" href="/wiki/Hydrological_cycle" title="Hydrological cycle">hydrological cycle</a>.</p>
+<h2><span class="mw-headline" id="Other_quantities">Other quantities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Advection&amp;action=edit&amp;section=3" title="Edit section: Other quantities">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The advection equation also applies if the quantity being advected is represented by a <a href="/wiki/Probability_density_function" title="Probability density function">probability density function</a> at each point, although accounting for diffusion is more difficult.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Mathematics_of_advection">Mathematics of advection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Advection&amp;action=edit&amp;section=4" title="Edit section: Mathematics of advection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <b>advection equation</b> is the <a href="/wiki/Partial_differential_equation" title="Partial differential equation">partial differential equation</a> that governs the motion of a conserved <a href="/wiki/Scalar_field" title="Scalar field">scalar field</a> as it is advected by a known <a class="mw-redirect" href="/wiki/Velocity_field" title="Velocity field">velocity vector field</a>. It is derived using the scalar field's <a href="/wiki/Conservation_law" title="Conservation law">conservation law</a>, together with <a class="mw-redirect" href="/wiki/Gauss%27s_theorem" title="Gauss's theorem">Gauss's theorem</a>, and taking the <a href="/wiki/Infinitesimal" title="Infinitesimal">infinitesimal</a> limit.</p>
+<p>One easily visualized example of advection is the transport of ink dumped into a river. As the river flows, ink will move downstream in a "pulse" via advection, as the water's movement itself transports the ink. If added to a lake without significant bulk water flow, the ink would simply disperse outwards from its source in a <a href="/wiki/Diffusion" title="Diffusion">diffusive</a> manner, which is not advection. Note that as it moves downstream, the "pulse" of ink will also spread via diffusion. The sum of these processes is called <a href="/wiki/Convection" title="Convection">convection</a>.</p>
+<h3><span class="mw-headline" id="The_advection_equation">The advection equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Advection&amp;action=edit&amp;section=5" title="Edit section: The advection equation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In Cartesian coordinates the advection <a href="/wiki/Operator_(mathematics)" title="Operator (mathematics)">operator</a> is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>=</mo>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} \cdot \nabla =u_{x}{\frac {\partial }{\partial x}}+u_{y}{\frac {\partial }{\partial y}}+u_{z}{\frac {\partial }{\partial z}}}</annotation>
+</semantics>
+</math></span><img alt="\mathbf{u} \cdot \nabla = u_x \frac{\partial}{\partial x} + u_y \frac{\partial}{\partial y} + u_z \frac{\partial}{\partial z}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f7167ba045d345a9bfac39c2db9849e1d6e4611f" style="vertical-align: -2.505ex; width:31.307ex; height:6.009ex;"/></span>.</dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} =(u_{x},u_{y},u_{z})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {u} =(u_{x},u_{y},u_{z})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3cbb47d56ee9442a0c7943bfdf250aea77020a6f" style="vertical-align: -1.005ex; width:15.79ex; height:3.009ex;"/></span> is the <a class="mw-redirect" href="/wiki/Velocity_field" title="Velocity field">velocity field</a>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla }</annotation>
+</semantics>
+</math></span><img alt="\nabla " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a3d0e93b78c50237f9ea83d027e4ebbdaef354b2" style="vertical-align: -0.338ex; width:1.946ex; height:2.176ex;"/></span> is the <a href="/wiki/Del" title="Del">del</a> operator (note that <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">Cartesian coordinates</a> are used here).</p>
+<p>The advection equation for a conserved quantity described by a <a href="/wiki/Scalar_field" title="Scalar field">scalar field</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ψ<!-- ψ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \psi }</annotation>
+</semantics>
+</math></span><img alt="\psi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45e5789e5d9c8f7c79744f43ecaaf8ba42a8553a" style="vertical-align: -0.671ex; width:1.524ex; height:2.509ex;"/></span> is expressed mathematically by a <a href="/wiki/Continuity_equation" title="Continuity equation">continuity equation</a>:</p>
+<dl>
+<dd>
+<table cellpadding="5" style="border:2px solid #50C878;background: #ECFCF4; text-align: center;">
+<tr>
+<td>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>ψ<!-- ψ --></mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow>
+<mo>(</mo>
+<mi>ψ<!-- ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\partial \psi }{\partial t}}+\nabla \cdot \left(\psi {\mathbf {u}}\right)=0}</annotation>
+</semantics>
+</math></span><img alt=" \frac{\partial\psi}{\partial t} +\nabla\cdot\left( \psi{\bold u}\right) =0 " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8a0cfac87c51a1e619d1f82a39abc979466d801a" style="vertical-align: -2.005ex; width:19.306ex; height:5.676ex;"/></span></p>
+</td>
+</tr>
+</table>
+</dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla \cdot }</annotation>
+</semantics>
+</math></span><img alt="\nabla \cdot" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6df6024211b717870f07844116e116b2eb314d12" style="vertical-align: -0.338ex; width:3.12ex; height:2.176ex;"/></span> is the <a href="/wiki/Divergence" title="Divergence">divergence</a> operator and again <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf {u} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/261e20fe101de02a771021d9d4466c0ad3e352d7" style="vertical-align: -0.338ex; width:1.496ex; height:1.676ex;"/></span> is the <a class="mw-redirect" href="/wiki/Velocity_field" title="Velocity field">velocity vector field</a>. Frequently, it is assumed that the flow is <a href="/wiki/Incompressible_flow" title="Incompressible flow">incompressible</a>, that is, the <a class="mw-redirect" href="/wiki/Velocity_field" title="Velocity field">velocity field</a> satisfies</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla \cdot {\mathbf {u}}=0}</annotation>
+</semantics>
+</math></span><img alt="\nabla\cdot{\bold u}=0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/12832347cf44654cb27283b8a040eb218ae7412a" style="vertical-align: -0.338ex; width:9.413ex; height:2.176ex;"/></span></dd>
+</dl>
+<p>and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf {u} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/261e20fe101de02a771021d9d4466c0ad3e352d7" style="vertical-align: -0.338ex; width:1.496ex; height:1.676ex;"/></span> is said to be <a class="mw-redirect" href="/wiki/Solenoidal" title="Solenoidal">solenoidal</a>. If this is so, the above equation can be rewritten as</p>
+<dl>
+<dd>
+<table cellpadding="5" style="border:2px solid #0073CF;background: #F5FFFA; text-align: center;">
+<tr>
+<td>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>ψ<!-- ψ --></mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>ψ<!-- ψ --></mi>
+<mo>=</mo>
+<mn>0.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\partial \psi }{\partial t}}+{\mathbf {u}}\cdot \nabla \psi =0.}</annotation>
+</semantics>
+</math></span><img alt=" \frac{\partial\psi}{\partial t} +{\bold u}\cdot\nabla\psi=0. " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2631e8876be72ced962756a2afb8bfaee5e778c4" style="vertical-align: -2.005ex; width:18.133ex; height:5.676ex;"/></span></p>
+</td>
+</tr>
+</table>
+</dd>
+</dl>
+<p>In particular, if the flow is steady, then</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>ψ<!-- ψ --></mi>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathbf {u}}\cdot \nabla \psi =0}</annotation>
+</semantics>
+</math></span><img alt="{\bold u}\cdot\nabla\psi=0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8834dd82fa0016fd08c9292eb39a8b0e477efc44" style="vertical-align: -0.671ex; width:10.937ex; height:2.509ex;"/></span></dd>
+</dl>
+<p>which shows that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ψ<!-- ψ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \psi }</annotation>
+</semantics>
+</math></span><img alt="\psi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45e5789e5d9c8f7c79744f43ecaaf8ba42a8553a" style="vertical-align: -0.671ex; width:1.524ex; height:2.509ex;"/></span> is constant along a <a class="mw-redirect" href="/wiki/Streamlines,_streaklines_and_pathlines" title="Streamlines, streaklines and pathlines">streamline</a>. Hence, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>ψ<!-- ψ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>t</mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial \psi /\partial t=0,}</annotation>
+</semantics>
+</math></span><img alt=" \partial\psi/\partial t=0," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b6c5943f28d7d9caffad8c6a94cad985ec06ede3" style="vertical-align: -0.838ex; width:11.143ex; height:2.843ex;"/></span> so <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ψ<!-- ψ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \psi }</annotation>
+</semantics>
+</math></span><img alt="\psi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45e5789e5d9c8f7c79744f43ecaaf8ba42a8553a" style="vertical-align: -0.671ex; width:1.524ex; height:2.509ex;"/></span> doesn't vary in time.</p>
+<p>If a vector quantity <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {a} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf {a} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a957216653a9ee0d0133dcefd13fb75e36b8b9d" style="vertical-align: -0.338ex; width:1.31ex; height:1.676ex;"/></span> (such as a <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic field</a>) is being advected by the <a class="mw-redirect" href="/wiki/Solenoidal" title="Solenoidal">solenoidal</a> <a class="mw-redirect" href="/wiki/Velocity_field" title="Velocity field">velocity field</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf {u} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/261e20fe101de02a771021d9d4466c0ad3e352d7" style="vertical-align: -0.338ex; width:1.496ex; height:1.676ex;"/></span>, the advection equation above becomes:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mn>0.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\partial {\mathbf {a}}}{\partial t}}+\left({\mathbf {u}}\cdot \nabla \right){\mathbf {a}}=0.}</annotation>
+</semantics>
+</math></span><img alt=" \frac{\partial{\bold a}}{\partial t} + \left( {\bold u} \cdot \nabla \right) {\bold a} =0. " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f98756351248ba09eb11ddb0d85a8ce4d68970c6" style="vertical-align: -2.005ex; width:19.923ex; height:5.509ex;"/></span></dd>
+</dl>
+<p>Here, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">a</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {a} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf {a} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a957216653a9ee0d0133dcefd13fb75e36b8b9d" style="vertical-align: -0.338ex; width:1.31ex; height:1.676ex;"/></span> is a <a href="/wiki/Vector_field" title="Vector field">vector field</a> instead of the <a href="/wiki/Scalar_field" title="Scalar field">scalar field</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ψ<!-- ψ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \psi }</annotation>
+</semantics>
+</math></span><img alt="\psi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45e5789e5d9c8f7c79744f43ecaaf8ba42a8553a" style="vertical-align: -0.671ex; width:1.524ex; height:2.509ex;"/></span>.</p>
+<h3><span class="mw-headline" id="Solving_the_equation">Solving the equation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Advection&amp;action=edit&amp;section=6" title="Edit section: Solving the equation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:GaussianUpwind2D.gif"><img alt="" class="thumbimage" data-file-height="600" data-file-width="800" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/GaussianUpwind2D.gif/220px-GaussianUpwind2D.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/GaussianUpwind2D.gif/330px-GaussianUpwind2D.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/GaussianUpwind2D.gif/440px-GaussianUpwind2D.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:GaussianUpwind2D.gif" title="Enlarge"></a></div>
+A simulation of the advection equation where <b>u</b> = (sin <i>t</i>, cos <i>t</i>) is solenoidal.</div>
+</div>
+</div>
+<p>The advection equation is not simple to solve <a href="/wiki/Numerical_analysis" title="Numerical analysis">numerically</a>: the system is a <a href="/wiki/Hyperbolic_partial_differential_equation" title="Hyperbolic partial differential equation">hyperbolic partial differential equation</a>, and interest typically centers on <a href="/wiki/Continuous_function" title="Continuous function">discontinuous</a> "shock" solutions (which are notoriously difficult for numerical schemes to handle).</p>
+<p>Even with one space dimension and a constant <a class="mw-redirect" href="/wiki/Velocity_field" title="Velocity field">velocity field</a>, the system remains difficult to simulate. The equation becomes</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>ψ<!-- ψ --></mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>ψ<!-- ψ --></mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\partial \psi }{\partial t}}+u_{x}{\frac {\partial \psi }{\partial x}}=0}</annotation>
+</semantics>
+</math></span><img alt=" \frac{\partial\psi}{\partial t}+u_x \frac{\partial\psi}{\partial x}=0 " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5c0c1641d9d6c1e1e26e7b881701a11ae47429d" style="vertical-align: -2.005ex; width:17.029ex; height:5.676ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ψ<!-- ψ --></mi>
+<mo>=</mo>
+<mi>ψ<!-- ψ --></mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \psi =\psi (x,t)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \psi =\psi (x,t)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/34337d4f5331ab9699c070fbab68059453477e1d" style="vertical-align: -0.838ex; width:11.221ex; height:2.843ex;"/></span> is the <a href="/wiki/Scalar_field" title="Scalar field">scalar field</a> being advected and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle u_{x}}</annotation>
+</semantics>
+</math></span><img alt="u_{x}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/045896a773b67c720bdff8d660cfcc906f5f6b20" style="vertical-align: -0.671ex; width:2.52ex; height:2.009ex;"/></span> is the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>x</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle x}</annotation>
+</semantics>
+</math></span><img alt="x" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87f9e315fd7e2ba406057a97300593c4802b53e4" style="vertical-align: -0.338ex; width:1.34ex; height:1.676ex;"/></span> component of the vector <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<mn>0</mn>
+<mo>,</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} =(u_{x},0,0)}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {u} =(u_{x},0,0)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7f4c4f1e5e7e04fcf1c80ba56d39b5922ccdde3f" style="vertical-align: -0.838ex; width:13.389ex; height:2.843ex;"/></span>.</p>
+<h3><span class="mw-headline" id="Treatment_of_the_advection_operator_in_the_incompressible_Navier_Stokes_equations">Treatment of the advection operator in the incompressible Navier Stokes equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Advection&amp;action=edit&amp;section=7" title="Edit section: Treatment of the advection operator in the incompressible Navier Stokes equations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>According to Zang,<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> numerical simulation can be aided by considering the <a href="/wiki/Skew-symmetric_matrix" title="Skew-symmetric matrix">skew symmetric</a> form for the advection operator.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{2}}{\mathbf {u}}\cdot \nabla {\mathbf {u}}+{\frac {1}{2}}\nabla ({\mathbf {u}}{\mathbf {u}})}</annotation>
+</semantics>
+</math></span><img alt=" \frac{1}{2} {\bold u} \cdot \nabla {\bold u} + \frac{1}{2} \nabla ({\bold u} {\bold u}) " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8781f3168c2a3c1c3427ea4c382fc7065e837b66" style="vertical-align: -1.838ex; width:20.264ex; height:5.176ex;"/></span></dd>
+</dl>
+<p>where</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo stretchy="false">[</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mrow>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">]</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla ({\mathbf {u}}{\mathbf {u}})=[\nabla ({\mathbf {u}}u_{x}),\nabla ({\mathbf {u}}u_{y}),\nabla ({\mathbf {u}}u_{z})]}</annotation>
+</semantics>
+</math></span><img alt=" \nabla ({\bold u} {\bold u}) = [\nabla ({\bold u} u_x),\nabla ({\bold u} u_y),\nabla ({\bold u} u_z)]" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f96433d78598c9e89322a5ac27ec4f1804855880" style="vertical-align: -1.005ex; width:36.363ex; height:3.009ex;"/></span></dd>
+</dl>
+<p>and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf {u} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/261e20fe101de02a771021d9d4466c0ad3e352d7" style="vertical-align: -0.338ex; width:1.496ex; height:1.676ex;"/></span> is the same as above.</p>
+<p>Since skew symmetry implies only <a href="/wiki/Imaginary_number" title="Imaginary number">imaginary</a> <a class="mw-redirect" href="/wiki/Eigenvalues" title="Eigenvalues">eigenvalues</a>, this form reduces the "blow up" and "spectral blocking" often experienced in numerical solutions with sharp discontinuities (see Boyd<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup>).</p>
+<p>Using <a href="/wiki/Vector_calculus_identities#Vector_dot_product" title="Vector calculus identities">vector calculus identities</a>, these operators can also be expressed in other ways, available in more software packages for more coordinate systems.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>=</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo fence="false" stretchy="false">∥<!-- ∥ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<msup>
+<mo fence="false" stretchy="false">∥<!-- ∥ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {u} \cdot \nabla \mathbf {u} =\nabla \left({\frac {\|\mathbf {u} \|^{2}}{2}}\right)+\left(\nabla \times \mathbf {u} \right)\times \mathbf {u} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf{u} \cdot \nabla \mathbf{u} = \nabla \left( \frac{\|\mathbf{u}\|^2}{2} \right)  + \left( \nabla \times \mathbf{u} \right) \times \mathbf{u}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a861115c7376acaf8ddf8ed765fedf26207e2d4" style="vertical-align: -3.171ex; width:36.832ex; height:7.509ex;"/></span></dd>
+</dl>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo fence="false" stretchy="false">∥<!-- ∥ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<msup>
+<mo fence="false" stretchy="false">∥<!-- ∥ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">u</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{2}}\mathbf {u} \cdot \nabla \mathbf {u} +{\frac {1}{2}}\nabla (\mathbf {u} \mathbf {u} )=\nabla \left({\frac {\|\mathbf {u} \|^{2}}{2}}\right)+\left(\nabla \times \mathbf {u} \right)\times \mathbf {u} +{\frac {1}{2}}\mathbf {u} (\nabla \cdot \mathbf {u} )}</annotation>
+</semantics>
+</math></span><img alt=" \frac{1}{2} \mathbf{u} \cdot \nabla \mathbf{u} + \frac{1}{2} \nabla (\mathbf{u} \mathbf{u}) = \nabla \left( \frac{\|\mathbf{u}\|^2}{2} \right)  + \left( \nabla \times \mathbf{u} \right) \times \mathbf{u} + \frac{1}{2} \mathbf{u} (\nabla \cdot \mathbf{u}) " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ab3f3ee3953017d5a3dd93c2683167127a59ad19" style="vertical-align: -3.171ex; width:63.786ex; height:7.509ex;"/></span></dd>
+</dl>
+<p>This form also makes visible that the <a href="/wiki/Skew-symmetric_matrix" title="Skew-symmetric matrix">skew symmetric</a> operator introduces error when the velocity field diverges. Solving the advection equation by numerical methods is very challenging and there is a large scientific literature about this.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Advection&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Conservation_law" title="Conservation law">Conservation equation</a></li>
+<li><a href="/wiki/Convection" title="Convection">Convection</a></li>
+<li><a class="mw-redirect" href="/wiki/Courant_number" title="Courant number">Courant number</a></li>
+<li><a href="/wiki/P%C3%A9clet_number" title="Péclet number">Péclet number</a></li>
+<li><a href="/wiki/Overshoot_(signal)" title="Overshoot (signal)">Overshoot (signal)</a></li>
+<li><a href="/wiki/Del" title="Del">Del</a></li>
+<li><a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">Earth's atmosphere</a></li>
+<li><a href="/wiki/Diffusion" title="Diffusion">Diffusion</a></li>
+<li><a href="/wiki/Radiation" title="Radiation">Radiation</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Advection&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Suthan S. Suthersan, "Remediation engineering: design concepts", CRC Press, 1996. <a class="external text" href="https://books.google.com/books?id=Rd2QIcNKl1UC&amp;pg=PA13&amp;dq=advection+and+convection#v=onepage&amp;q=advection%20and%20convection&amp;f=false" rel="nofollow">(Google books)</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Jacques Willy Delleur, "The handbook of groundwater engineering", CRC Press, 2006. <a class="external text" href="https://books.google.com/books?id=EiXxaGH3CzcC&amp;pg=PT485&amp;dq=advection+versus+convection#v=onepage&amp;q=advection%20versus%20convection&amp;f=false" rel="nofollow">(Google books)</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zang, Thomas (1991). "On the rotation and skew-symmetric forms for incompressible flow simulations". <i>Applied Numerical Mathematics</i>. <b>7</b>: 27–40. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0168-9274%2891%2990102-6" rel="nofollow">10.1016/0168-9274(91)90102-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdvection&amp;rft.atitle=On+the+rotation+and+skew-symmetric+forms+for+incompressible+flow+simulations&amp;rft.aufirst=Thomas&amp;rft.aulast=Zang&amp;rft.date=1991&amp;rft.genre=article&amp;rft.jtitle=Applied+Numerical+Mathematics&amp;rft.pages=27-40&amp;rft.volume=7&amp;rft_id=info%3Adoi%2F10.1016%2F0168-9274%2891%2990102-6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Boyd, John P. (2000). <a class="external text" href="http://www-personal.engin.umich.edu/~jpboyd/BOOK_Spectral2000.html" rel="nofollow"><i>Chebyshev and Fourier Spectral Methods 2nd edition</i></a>. Dover. p. 213.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAdvection&amp;rft.aufirst=John+P.&amp;rft.aulast=Boyd&amp;rft.btitle=Chebyshev+and+Fourier+Spectral+Methods+2nd+edition&amp;rft.date=2000&amp;rft.genre=book&amp;rft.pages=213&amp;rft.pub=Dover&amp;rft_id=http%3A%2F%2Fwww-personal.engin.umich.edu%2F~jpboyd%2FBOOK_Spectral2000.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<div aria-labelledby="Meteorological_data_and_variables" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_variables" title="Template:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_variables" title="Template talk:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_variables&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Meteorological_data_and_variables" style="font-size:114%;margin:0 4em">Meteorological data and variables</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic processes</a></li>
+<li><a class="mw-selflink selflink">Advection</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Lapse_rate" title="Lapse rate">Lapse rate</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">Surface solar radiation</a></li>
+<li><a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Surface weather analysis</a></li>
+<li><a href="/wiki/Visibility" title="Visibility">Visibility</a></li>
+<li><a href="/wiki/Vorticity" title="Vorticity">Vorticity</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Wind_shear" title="Wind shear">Wind shear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Condensation" title="Condensation">Condensation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">Cloud condensation nuclei (CCN)</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Convective_condensation_level" title="Convective condensation level">Convective condensation level (CCL)</a></li>
+<li><a href="/wiki/Lifted_condensation_level" title="Lifted condensation level">Lifted condensation level (LCL)</a></li>
+<li><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></li>
+<li><a href="/wiki/Water_vapor" title="Water vapor">Water vapor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Convection</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">Convective available potential energy (CAPE)</a></li>
+<li><a href="/wiki/Convective_inhibition" title="Convective inhibition">Convective inhibition (CIN)</a></li>
+<li><a href="/wiki/Convective_instability" title="Convective instability">Convective instability</a></li>
+<li><a href="/wiki/Convective_momentum_transport" title="Convective momentum transport">Convective momentum transport</a></li>
+<li><a href="/wiki/Convective_temperature" title="Convective temperature">Convective temperature (<i>T</i><sub>c</sub>)</a></li>
+<li><a href="/wiki/Equilibrium_level" title="Equilibrium level">Equilibrium level (EL)</a></li>
+<li><a href="/wiki/Free_convective_layer" title="Free convective layer">Free convective layer (FCL)</a></li>
+<li><a class="mw-redirect" href="/wiki/Helicity_(fluid_mechanics)#Meteorology" title="Helicity (fluid mechanics)">Helicity</a></li>
+<li><a href="/wiki/K-index_(meteorology)" title="K-index (meteorology)">K Index</a></li>
+<li><a href="/wiki/Level_of_free_convection" title="Level of free convection">Level of free convection (LFC)</a></li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index (LI)</a></li>
+<li><a href="/wiki/Maximum_parcel_level" title="Maximum parcel level">Maximum parcel level (MPL)</a></li>
+<li><a href="/wiki/Bulk_Richardson_number" title="Bulk Richardson number">Bulk Richardson number (BRN)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Temperature" title="Temperature">Temperature</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dew_point" title="Dew point">Dew point (<i>T</i><sub>d</sub>)</a></li>
+<li><a href="/wiki/Dew_point_depression" title="Dew point depression">Dew point depression</a></li>
+<li><a href="/wiki/Dry-bulb_temperature" title="Dry-bulb temperature">Dry-bulb temperature</a></li>
+<li><a href="/wiki/Equivalent_temperature" title="Equivalent temperature">Equivalent temperature (<i>T</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Forest_fire_weather_index" title="Forest fire weather index">Forest fire weather index</a></li>
+<li><a href="/wiki/Haines_Index" title="Haines Index">Haines Index</a></li>
+<li><a href="/wiki/Heat_index" title="Heat index">Heat index</a></li>
+<li><a href="/wiki/Humidex" title="Humidex">Humidex</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Relative_humidity" title="Relative humidity">Relative humidity (RH)</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Potential_temperature" title="Potential temperature">Potential temperature (<i>θ</i>)</a></li>
+<li><a href="/wiki/Equivalent_potential_temperature" title="Equivalent potential temperature">Equivalent potential temperature (<i>θ</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature (SST)</a></li>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Thermodynamic temperature</a></li>
+<li><a href="/wiki/Vapor_pressure" title="Vapor pressure">Vapor pressure</a></li>
+<li><a href="/wiki/Virtual_temperature" title="Virtual temperature">Virtual temperature</a></li>
+<li><a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">Wet-bulb temperature</a></li>
+<li><a href="/wiki/Wet-bulb_potential_temperature" title="Wet-bulb potential temperature">Wet-bulb potential temperature</a></li>
+<li><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pressure" title="Pressure">Pressure</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a class="mw-redirect" href="/wiki/Barotropic" title="Barotropic">Barotropicity</a></li>
+<li><a href="/wiki/Pressure_gradient" title="Pressure gradient">Pressure gradient</a></li>
+<li><a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">Pressure-gradient force (PGF)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1194
+Cached time: 20170921000447
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.821 seconds
+Preprocessor visited node count: 575/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18802/2097152 bytes
+Template argument size: 564/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.094/10.000 seconds
+Lua memory usage: 1.97 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  231.399      1 -total
+ 42.65%   98.702      1 Template:Citation_needed
+ 32.88%   76.082      1 Template:Fix
+ 27.65%   63.972      1 Template:Cite_journal
+ 17.20%   39.791      2 Template:Category_handler
+ 12.51%   28.940      1 Template:Delink
+  9.29%   21.494      1 Template:Meteorological_variables
+  8.17%   18.894      1 Template:Navbox
+  5.60%   12.960      1 Template:Cite_book
+  3.11%    7.188      2 Template:Equation_box_1
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:166377-0!canonical!math=5 and timestamp 20170921000446 and revision id 765881435
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Advection&amp;oldid=765881435">https://en.wikipedia.org/w/index.php?title=Advection&amp;oldid=765881435</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Vector_calculus" title="Category:Vector calculus">Vector calculus</a></li><li><a href="/wiki/Category:Atmospheric_dynamics" title="Category:Atmospheric dynamics">Atmospheric dynamics</a></li><li><a href="/wiki/Category:Conservation_equations" title="Category:Conservation equations">Conservation equations</a></li><li><a href="/wiki/Category:Equations_of_fluid_dynamics" title="Category:Equations of fluid dynamics">Equations of fluid dynamics</a></li><li><a href="/wiki/Category:Oceanography" title="Category:Oceanography">Oceanography</a></li><li><a href="/wiki/Category:Convection" title="Category:Convection">Convection</a></li><li><a href="/wiki/Category:Heat_transfer" title="Category:Heat transfer">Heat transfer</a></li><li><a href="/wiki/Category:Transport_phenomena" title="Category:Transport phenomena">Transport phenomena</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2013" title="Category:Articles with unsourced statements from April 2013">Articles with unsourced statements from April 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Advection" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Advection" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Advection" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Advection" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Advection">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Advection&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Advection&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Advection" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Advection" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Advection&amp;oldid=765881435" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Advection&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q379788" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Advection&amp;id=765881435" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Advection">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Advection&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAdvection%26returnto%3DAdvection%26oldid%3D765881435%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Advection&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%86%D9%82%D9%84_(%D9%85%D9%88%D8%A7%D8%A6%D8%B9)" hreflang="ar" lang="ar" title="نقل (موائع) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Adveksiya" hreflang="az" lang="az" title="Adveksiya – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Advecci%C3%B3" hreflang="ca" lang="ca" title="Advecció – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Advektion" hreflang="da" lang="da" title="Advektion – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Advektion" hreflang="de" lang="de" title="Advektion – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Advektsioon" hreflang="et" lang="et" title="Advektsioon – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Advecci%C3%B3n" hreflang="es" lang="es" title="Advección – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AA%D9%82%D8%A7%D9%84_(%D9%81%DB%8C%D8%B2%DB%8C%DA%A9)" hreflang="fa" lang="fa" title="انتقال (فیزیک) – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Advection" hreflang="fr" lang="fr" title="Advection – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EB%A5%98_(%EB%AC%BC%EB%A6%AC%ED%95%99)" hreflang="ko" lang="ko" title="이류 (물리학) – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%A4%D5%BE%D5%A5%D5%AF%D6%81%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Ադվեկցիա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Avvezione" hreflang="it" lang="it" title="Avvezione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%93%E1%83%95%E1%83%94%E1%83%A5%E1%83%AA%E1%83%98%E1%83%90" hreflang="ka" lang="ka" title="ადვექცია – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B2%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Адвекция – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D0%B4%D0%B2%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Адвекция – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Advekcija" hreflang="lv" lang="lv" title="Advekcija – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%AD%E0%B4%BF%E0%B4%B5%E0%B4%B9%E0%B4%A8%E0%B4%82" hreflang="ml" lang="ml" title="അഭിവഹനം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Alir_lintang" hreflang="ms" lang="ms" title="Alir lintang – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Advectie" hreflang="nl" lang="nl" title="Advectie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%A7%BB%E6%B5%81" hreflang="ja" lang="ja" title="移流 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Adveksjon" hreflang="no" lang="no" title="Adveksjon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Adveksjon" hreflang="nn" lang="nn" title="Adveksjon – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Adveksiya" hreflang="uz" lang="uz" title="Adveksiya – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Adwekcja_(mechanika_p%C5%82yn%C3%B3w)" hreflang="pl" lang="pl" title="Adwekcja (mechanika płynów) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Advec%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Advecção – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Advec%C8%9Bie_(fizic%C4%83)" hreflang="ro" lang="ro" title="Advecție (fizică) – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%B4%D0%B2%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Адвекция – Russian">Русский</a></li><li class="interlanguage-link interwiki-sah"><a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%90%D0%B4%D0%B2%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" hreflang="sah" lang="sah" title="Адвекция – Sakha">Саха тыла</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Advekcia" hreflang="sk" lang="sk" title="Advekcia – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Advektio" hreflang="fi" lang="fi" title="Advektio – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Advektion" hreflang="sv" lang="sv" title="Advektion – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%90%D0%B4%D0%B2%D0%B5%D0%BA%D1%81%D0%B8%D1%8F" hreflang="tg" lang="tg" title="Адвексия – Tajik">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%B4%D0%B2%D0%B5%D0%BA%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Адвекція – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/B%C3%ACnh_l%C6%B0u" hreflang="vi" lang="vi" title="Bình lưu – Vietnamese">Tiếng Việt</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q379788#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 16 February 2017, at 23:28.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Advection&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.821","ppvisitednodes":{"value":575,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18802,"limit":2097152},"templateargumentsize":{"value":564,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  231.399      1 -total"," 42.65%   98.702      1 Template:Citation_needed"," 32.88%   76.082      1 Template:Fix"," 27.65%   63.972      1 Template:Cite_journal"," 17.20%   39.791      2 Template:Category_handler"," 12.51%   28.940      1 Template:Delink","  9.29%   21.494      1 Template:Meteorological_variables","  8.17%   18.894      1 Template:Navbox","  5.60%   12.960      1 Template:Cite_book","  3.11%    7.188      2 Template:Equation_box_1"]},"scribunto":{"limitreport-timeusage":{"value":"0.094","limit":"10.000"},"limitreport-memusage":{"value":2063608,"limit":52428800}},"cachereport":{"origin":"mw1194","timestamp":"20170921000447","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1270"});});</script>
+</body>
+</html>

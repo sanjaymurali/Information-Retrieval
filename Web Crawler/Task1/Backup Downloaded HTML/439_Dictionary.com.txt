@@ -1,0 +1,355 @@
+https://en.wikipedia.org/wiki/Dictionary.com
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Dictionary.com - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dictionary.com","wgTitle":"Dictionary.com","wgCurRevisionId":803182363,"wgRevisionId":803182363,"wgArticleId":3148197,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2016","All articles needing additional references","Online dictionaries","Thesauri","Internet properties established in 1995","IAC (company)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dictionary.com","wgRelevantArticleId":3148197,"wgRequestId":"WdA3YgpAEK4AACFM2kEAAAAU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q16960686","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dictionary.com" rel="alternate"/>
+<link href="/w/index.php?title=Dictionary.com&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Dictionary.com&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Dictionary.com" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dictionary_com rootpage-Dictionary_com vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Dictionary.com</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Dictionary.com&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(June 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="infobox vcard" style="width:22em">
+<caption class="fn org">Dictionary.com</caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Dictionary-com_Logo.png"><img alt="Dictionary-com Logo.png" data-file-height="62" data-file-width="199" height="78" src="//upload.wikimedia.org/wikipedia/en/b/bc/Dictionary-com_Logo.png" width="250"/></a></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Type of site</div>
+</th>
+<td><a href="/wiki/Dictionary" title="Dictionary">Dictionary</a></td>
+</tr>
+<tr>
+<th scope="row">Available in</th>
+<td><a href="/wiki/English_language" title="English language">English</a></td>
+</tr>
+<tr>
+<th scope="row">Created by</th>
+<td>Brian Kariger<br/>
+Daniel Fierro</td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td class="url"><span class="url"><a class="external text" href="http://dictionary.com" rel="nofollow">dictionary<wbr/>.com</a></span></td>
+</tr>
+<tr>
+<th scope="row">Commercial</th>
+<td>Yes</td>
+</tr>
+<tr>
+<th scope="row">Launched</th>
+<td>May 14, 1995<span class="noprint">; 22 years ago</span><span style="display:none"> (<span class="bday dtstart published updated">1995-05-14</span>)</span></td>
+</tr>
+</table>
+<p><b>Dictionary.com</b> is an online dictionary whose domain was first registered on May 14, 1995.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The company was founded by Brian Kariger and Daniel Fierro as part of Lexico Publishing, which also started Thesaurus.com and <a href="/wiki/Reference.com" title="Reference.com">Reference.com</a>.<sup class="reference" id="cite_ref-Lexico_Dictionary.com_acquired_by_ask.com_2-0"><a href="#cite_note-Lexico_Dictionary.com_acquired_by_ask.com-2">[2]</a></sup></p>
+<p>In 2008, Dictionary.com was acquired by <a href="/wiki/Ask.com" title="Ask.com">Ask.com</a>, an <a href="/wiki/IAC_(company)" title="IAC (company)">IAC company</a>.<sup class="reference" id="cite_ref-Lexico_Dictionary.com_acquired_by_ask.com_2-1"><a href="#cite_note-Lexico_Dictionary.com_acquired_by_ask.com-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Content"><span class="tocnumber">1</span> <span class="toctext">Content</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Features_and_apps"><span class="tocnumber">2</span> <span class="toctext">Features and apps</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Content">Content</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary.com&amp;action=edit&amp;section=1" title="Edit section: Content">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The content for Dictionary.com is based on the <i><a class="mw-redirect" href="/wiki/Random_House_Unabridged_Dictionary" title="Random House Unabridged Dictionary">Random House Unabridged Dictionary</a></i>, with other content from the <i><a href="/wiki/Collins_English_Dictionary" title="Collins English Dictionary">Collins English Dictionary</a></i>, <i><a class="mw-redirect" href="/wiki/American_Heritage_Dictionary" title="American Heritage Dictionary">American Heritage Dictionary</a></i> and others.<sup class="reference" id="cite_ref-Dictionary.com_About_Us_3-0"><a href="#cite_note-Dictionary.com_About_Us-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Features_and_apps">Features and apps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary.com&amp;action=edit&amp;section=2" title="Edit section: Features and apps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On Monday, May 3, 1999, Dictionary.com began its Word of the Day feature.<sup class="reference" id="cite_ref-Dictionary.com_Word_of_the_Day_4-0"><a href="#cite_note-Dictionary.com_Word_of_the_Day-4">[4]</a></sup></p>
+<p>In April 2009, Dictionary.com offered their first dictionary <a href="/wiki/Mobile_app" title="Mobile app">app</a> in the <a href="/wiki/IOS" title="IOS">iOS</a> <a href="/wiki/App_Store_(iOS)" title="App Store (iOS)">App Store</a>. Since then, they have released the Android version, as well as a standalone <a href="/wiki/Thesaurus" title="Thesaurus">thesaurus</a> app called <i>Thesaurus Rex</i>, along with education apps, <i>Dictionary.com Flashcards</i>, <i>Word Dynamo</i>, and <i>Learning to Read with Zoo Animals</i>.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary.com&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://whois.domaintools.com/dictionary.com" rel="nofollow">Dictionary.com WHOIS, DNS, &amp; Domain Info - DomainTools</a> page at <a class="mw-redirect" href="/wiki/DomainTools.com" title="DomainTools.com">DomainTools.com</a>. Retrieved June 16, 2016.</span></li>
+<li id="cite_note-Lexico_Dictionary.com_acquired_by_ask.com-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Lexico_Dictionary.com_acquired_by_ask.com_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Lexico_Dictionary.com_acquired_by_ask.com_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://gigaom.com/2008/05/15/419-lexico-dictionarycom-being-acquired-by-askcom-after-100-million-answers/" rel="nofollow">"Lexico, Dictionary.com Being Acquired By Ask.com; Price In $100 Million Range"</a>. Gigacom<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-01-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADictionary.com&amp;rft.btitle=Lexico%2C+Dictionary.com+Being+Acquired+By+Ask.com%3B+Price+In+%24100+Million+Range&amp;rft.genre=unknown&amp;rft.pub=Gigacom&amp;rft_id=http%3A%2F%2Fgigaom.com%2F2008%2F05%2F15%2F419-lexico-dictionarycom-being-acquired-by-askcom-after-100-million-answers%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Dictionary.com_About_Us-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dictionary.com_About_Us_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://content.dictionary.com/" rel="nofollow">"Dictionary.com - About Us"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">October 8,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADictionary.com&amp;rft.btitle=Dictionary.com+-+About+Us&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fcontent.dictionary.com%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Dictionary.com_Word_of_the_Day-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-Dictionary.com_Word_of_the_Day_4-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://dictionary.reference.com/wordoftheday/1999/05/03/emolument" rel="nofollow">"emolument - Word of The Day"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADictionary.com&amp;rft.btitle=emolument+-+Word+of+The+Day&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdictionary.reference.com%2Fwordoftheday%2F1999%2F05%2F03%2Femolument&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dictionary.com&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://dictionary.reference.com" rel="nofollow">Official website</a></span></span></li>
+</ul>
+<div aria-labelledby="IAC" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:IAC" title="Template:IAC"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:IAC" title="Template talk:IAC"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:IAC&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="IAC" style="font-size:114%;margin:0 4em"><a href="/wiki/IAC_(company)" title="IAC (company)">IAC</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Match_Group" title="Match Group">Match Group</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Chemistry.com" title="Chemistry.com">Chemistry.com</a></li>
+<li><a class="mw-redirect" href="/wiki/HowAboutWe" title="HowAboutWe">HowAboutWe</a></li>
+<li><a href="/wiki/Match.com" title="Match.com">Match.com</a></li>
+<li><a href="/wiki/Meetic" title="Meetic">Meetic</a></li>
+<li><a href="/wiki/OkCupid" title="OkCupid">OkCupid</a></li>
+<li><a href="/wiki/People_Media" title="People Media">People Media</a></li>
+<li><a href="/wiki/PlentyOfFish" title="PlentyOfFish">PlentyOfFish</a></li>
+<li><a href="/wiki/Tinder_(app)" title="Tinder (app)">Tinder</a></li>
+<li><a href="/wiki/The_Princeton_Review" title="The Princeton Review">The Princeton Review</a></li>
+<li><a href="/wiki/Tutor.com" title="Tutor.com">Tutor.com</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">IAC Publishing</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ask.com" title="Ask.com">Ask.com</a></li>
+<li><a href="/wiki/Citysearch" title="Citysearch">CityGrid</a></li>
+<li><a class="mw-selflink selflink">Dictionary.com</a></li>
+<li><a href="/wiki/Dotdash" title="Dotdash">Dotdash</a></li>
+<li><a href="/wiki/Investopedia" title="Investopedia">Investopedia</a></li>
+<li><i><a href="/wiki/The_Daily_Beast" title="The Daily Beast">The Daily Beast</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Video</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CollegeHumor" title="CollegeHumor">CollegeHumor</a></li>
+<li><a href="/wiki/DailyBurn" title="DailyBurn">DailyBurn</a></li>
+<li><a href="/wiki/Electus" title="Electus">Electus</a></li>
+<li><a href="/wiki/Vimeo" title="Vimeo">Vimeo</a>
+<ul>
+<li><a href="/wiki/Livestream" title="Livestream">Livestream</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/HomeAdvisor" title="HomeAdvisor">HomeAdvisor</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/HomeAdvisor" title="HomeAdvisor">HomeAdvisor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1228
+Cached time: 20171001002731
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.196 seconds
+Real time usage: 0.289 seconds
+Preprocessor visited node count: 931/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 18769/2097152 bytes
+Template argument size: 536/2097152 bytes
+Highest expansion depth: 17/40
+Expensive parser function count: 1/500
+Lua time usage: 0.096/10.000 seconds
+Lua memory usage: 3.02 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  259.009      1 -total
+ 31.97%   82.801      1 Template:Infobox_website
+ 27.81%   72.031      1 Template:Infobox
+ 26.95%   69.809      1 Template:Reflist
+ 24.55%   63.581      1 Template:Refimprove
+ 19.91%   51.566      3 Template:Cite_web
+ 17.38%   45.024      1 Template:Ambox
+ 10.65%   27.577      1 Template:Official_website
+  8.12%   21.034      1 Template:Start_date_and_age
+  3.87%   10.011      1 Template:IAC
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3148197-0!canonical and timestamp 20171001002731 and revision id 803182363
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dictionary.com&amp;oldid=803182363">https://en.wikipedia.org/w/index.php?title=Dictionary.com&amp;oldid=803182363</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Online_dictionaries" title="Category:Online dictionaries">Online dictionaries</a></li><li><a href="/wiki/Category:Thesauri" title="Category:Thesauri">Thesauri</a></li><li><a href="/wiki/Category:Internet_properties_established_in_1995" title="Category:Internet properties established in 1995">Internet properties established in 1995</a></li><li><a href="/wiki/Category:IAC_(company)" title="Category:IAC (company)">IAC (company)</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2016" title="Category:Articles needing additional references from June 2016">Articles needing additional references from June 2016</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dictionary.com" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Dictionary.com" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Dictionary.com" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Dictionary.com" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Dictionary.com">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Dictionary.com&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Dictionary.com&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Dictionary.com" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Dictionary.com" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dictionary.com&amp;oldid=803182363" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dictionary.com&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q16960686" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dictionary.com&amp;id=803182363" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dictionary.com">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dictionary.com&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DDictionary.com%26returnto%3DDictionary.com%26oldid%3D803182363%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Dictionary.com&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Dictionary.com" hreflang="id" lang="id" title="Dictionary.com – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/Dictionary.com" hreflang="si" lang="si" title="Dictionary.com – Sinhala">සිංහල</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q16960686#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 October 2017, at 00:27.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Dictionary.com&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.289","ppvisitednodes":{"value":931,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":18769,"limit":2097152},"templateargumentsize":{"value":536,"limit":2097152},"expansiondepth":{"value":17,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  259.009      1 -total"," 31.97%   82.801      1 Template:Infobox_website"," 27.81%   72.031      1 Template:Infobox"," 26.95%   69.809      1 Template:Reflist"," 24.55%   63.581      1 Template:Refimprove"," 19.91%   51.566      3 Template:Cite_web"," 17.38%   45.024      1 Template:Ambox"," 10.65%   27.577      1 Template:Official_website","  8.12%   21.034      1 Template:Start_date_and_age","  3.87%   10.011      1 Template:IAC"]},"scribunto":{"limitreport-timeusage":{"value":"0.096","limit":"10.000"},"limitreport-memusage":{"value":3164730,"limit":52428800}},"cachereport":{"origin":"mw1228","timestamp":"20171001002731","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":69,"wgHostname":"mw1219"});});</script>
+</body>
+</html>

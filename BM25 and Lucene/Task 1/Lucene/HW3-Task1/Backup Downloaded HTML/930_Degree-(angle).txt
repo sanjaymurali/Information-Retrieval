@@ -1,0 +1,576 @@
+https://en.wikipedia.org/wiki/Degree_(angle)
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Degree (angle) - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Degree_(angle)","wgTitle":"Degree (angle)","wgCurRevisionId":802850616,"wgRevisionId":802850616,"wgArticleId":1195294,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from January 2008","Articles with unsourced statements from April 2009","Units of plane angle","Imperial units","Mathematical constants","Customary units of measurement in the United States"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Degree_(angle)","wgRelevantArticleId":1195294,"wgRequestId":"Wc1uGApAMFwAAF9j@W0AAABQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q28390","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Degree_diagram.svg/1200px-Degree_diagram.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Degree_(angle)" rel="alternate"/>
+<link href="/w/index.php?title=Degree_(angle)&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Degree_(angle)&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Degree_(angle)" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Degree_angle rootpage-Degree_angle vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Degree (angle)</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox" style="width:22em;background:;">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold">Degree</th>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/System_of_measurement" title="System of measurement">Unit system</a></th>
+<td><a href="/wiki/Non-SI_units_mentioned_in_the_SI" title="Non-SI units mentioned in the SI">Non-SI accepted unit</a></td>
+</tr>
+<tr>
+<th scope="row">Unit of</th>
+<td><a href="/wiki/Angle" title="Angle">Angle</a></td>
+</tr>
+<tr>
+<th scope="row">Symbol</th>
+<td>°<sup class="reference" id="cite_ref-HP48_UG_1-0"><a href="#cite_note-HP48_UG-1">[1]</a></sup><sup class="reference" id="cite_ref-HP50g_UG_2-0"><a href="#cite_note-HP50g_UG-2">[2]</a></sup> or deg<sup class="reference" id="cite_ref-HP-Prime_UG_3-0"><a href="#cite_note-HP-Prime_UG-3">[3]</a></sup> </td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center">Unit conversions</th>
+</tr>
+<tr class="nowrap">
+<td><i>1 °<sup class="reference" id="cite_ref-HP48_UG_1-0"><a href="#cite_note-HP48_UG-1">[1]</a></sup><sup class="reference" id="cite_ref-HP50g_UG_2-0"><a href="#cite_note-HP50g_UG-2">[2]</a></sup> in ...</i></td>
+<td><i>... is equal to ...</i></td>
+</tr>
+<tr style="display:none">
+<th colspan="2"></th>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">   </span><a class="mw-redirect" href="/wiki/Turn_(unit)" title="Turn (unit)">turns</a></th>
+<td><span class="nowrap">   </span><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">360</span></span> turn</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">   </span><a href="/wiki/Radian" title="Radian">radians</a></th>
+<td><span class="nowrap">   </span><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">180</span></span> rad</td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">   </span><a class="mw-redirect" href="/wiki/Gon_(unit)" title="Gon (unit)">gons</a></th>
+<td><span class="nowrap">   </span><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">10</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">9</span></span><sup>g</sup></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Degree_diagram.svg"><img alt="" class="thumbimage" data-file-height="600" data-file-width="600" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Degree_diagram.svg/220px-Degree_diagram.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Degree_diagram.svg/330px-Degree_diagram.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Degree_diagram.svg/440px-Degree_diagram.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Degree_diagram.svg" title="Enlarge"></a></div>
+One degree (shown in red) and<br/>
+eighty nine degrees (shown in blue)</div>
+</div>
+</div>
+<p>A <b>degree</b> (in full, a <b>degree of arc</b>, <b>arc degree</b>, or <b>arcdegree</b>), usually denoted by <b>°</b> (the <a href="/wiki/Degree_symbol" title="Degree symbol">degree symbol</a>), is a measurement of a <a class="mw-redirect" href="/wiki/Plane_(mathematics)" title="Plane (mathematics)">plane</a> <a href="/wiki/Angle" title="Angle">angle</a>, defined so that a <a href="/wiki/Turn_(geometry)" title="Turn (geometry)">full rotation</a> is 360 degrees.</p>
+<p>It is not an <a class="mw-redirect" href="/wiki/SI_unit" title="SI unit">SI unit</a>, as the SI unit of angular measure is the <a href="/wiki/Radian" title="Radian">radian</a>, but it is mentioned in the SI brochure as an <a href="/wiki/Non-SI_units_mentioned_in_the_SI" title="Non-SI units mentioned in the SI">accepted unit</a>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Because a full rotation equals 2<span class="texhtml">π</span> radians, one degree is equivalent to <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">180</span></span> radians.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Subdivisions"><span class="tocnumber">2</span> <span class="toctext">Subdivisions</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Alternative_units"><span class="tocnumber">3</span> <span class="toctext">Alternative units</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Degree_(angle)&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Equilateral_chord_with_length_equal_to_radius.svg"><img alt="" class="thumbimage" data-file-height="900" data-file-width="900" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Equilateral_chord_with_length_equal_to_radius.svg/220px-Equilateral_chord_with_length_equal_to_radius.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Equilateral_chord_with_length_equal_to_radius.svg/330px-Equilateral_chord_with_length_equal_to_radius.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Equilateral_chord_with_length_equal_to_radius.svg/440px-Equilateral_chord_with_length_equal_to_radius.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Equilateral_chord_with_length_equal_to_radius.svg" title="Enlarge"></a></div>
+A circle with an equilateral <a href="/wiki/Chord_(geometry)" title="Chord (geometry)">chord</a> (red). One sixtieth of this arc is a degree. Six such chords complete the circle.</div>
+</div>
+</div>
+<p>The original motivation for choosing the degree as a unit of rotations and angles is unknown. One theory states that it is related to the fact that 360 is approximately the number of days in a year.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Ancient <a class="mw-redirect" href="/wiki/Astronomers" title="Astronomers">astronomers</a> noticed that the sun, which follows through the <a href="/wiki/Ecliptic" title="Ecliptic">ecliptic</a> path over the course of the year, seems to advance in its path by approximately one degree each day. Some ancient <a href="/wiki/Calendar" title="Calendar">calendars</a>, such as the <a class="mw-redirect" href="/wiki/Iranian_calendar" title="Iranian calendar">Persian calendar</a>, used 360 days for a year. The use of a calendar with 360 days may be related to the use of <a href="/wiki/Sexagesimal" title="Sexagesimal">sexagesimal</a> numbers.</p>
+<p>Another theory is that the Babylonians subdivided the circle using the angle of an <a href="/wiki/Equilateral_triangle" title="Equilateral triangle">equilateral triangle</a> as the basic unit and further subdivided the latter into 60 parts following their <a href="/wiki/Sexagesimal" title="Sexagesimal">sexagesimal</a> numeric system.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> The <a href="/wiki/History_of_trigonometry" title="History of trigonometry">earliest trigonometry</a>, used by the <a href="/wiki/Babylonian_astronomy" title="Babylonian astronomy">Babylonian astronomers</a> and their <a class="mw-redirect" href="/wiki/Greek_astronomy" title="Greek astronomy">Greek</a> successors, was based on <a href="/wiki/Chord_(geometry)" title="Chord (geometry)">chords</a> of a circle. A chord of length equal to the radius made a natural base quantity. One sixtieth of this, using their standard <a href="/wiki/Sexagesimal" title="Sexagesimal">sexagesimal</a> divisions, was a degree.</p>
+<p><a href="/wiki/Aristarchus_of_Samos" title="Aristarchus of Samos">Aristarchus of Samos</a> and <a href="/wiki/Hipparchus" title="Hipparchus">Hipparchus</a> seem to have been among the first <a class="mw-redirect" href="/wiki/Greek_astronomy" title="Greek astronomy">Greek scientists</a> to exploit Babylonian astronomical knowledge and techniques systematically.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> <a href="/wiki/Timocharis" title="Timocharis">Timocharis</a>, Aristarchus, <a class="mw-redirect" href="/wiki/Aristillus" title="Aristillus">Aristillus</a>, <a href="/wiki/Archimedes" title="Archimedes">Archimedes</a>, and Hipparchus were the first Greeks known to divide the circle in 360 degrees of 60 <a class="mw-redirect" href="/wiki/Arc_minute" title="Arc minute">arc minutes</a>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> <a href="/wiki/Eratosthenes" title="Eratosthenes">Eratosthenes</a> used a simpler <a href="/wiki/Sexagesimal" title="Sexagesimal">sexagesimal</a> system dividing a circle into 60 parts.</p>
+<p>The division of the circle into 360 parts also occurred in ancient <a href="/wiki/India" title="India">India</a>, as evidenced in the <a href="/wiki/Rigveda" title="Rigveda">Rigveda</a>:<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<blockquote class="templatequote">
+<p>Twelve spokes, one wheel, navels three.<br/></p>
+<p>Who can comprehend this?<br/>
+On it are placed together<br/>
+three hundred and sixty like pegs.<br/>
+They shake not in the least.</p>
+<div class="templatequotecite"><cite>— <a href="/wiki/Dirghatamas" title="Dirghatamas">Dirghatamas</a>, Rigveda 1.164.48</cite></div>
+</blockquote>
+<p>Another motivation for choosing the number 360 may have been that it is <a href="/wiki/Highly_composite_number" title="Highly composite number">readily divisible</a>: 360 has 24 <a href="/wiki/Divisor" title="Divisor">divisors</a>,<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[note 1]</a></sup> making it one of only 7 numbers such that no number less than twice as much has more divisors (sequence <span class="nowrap"><a class="extiw" href="//oeis.org/A072938" title="oeis:A072938">A072938</a></span> in the <a href="/wiki/On-Line_Encyclopedia_of_Integer_Sequences" title="On-Line Encyclopedia of Integer Sequences">OEIS</a>).<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[12]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[13]</a></sup> Furthermore, it is divisible by every number from 1 to 10 except 7.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[note 2]</a></sup> This property has many useful applications, such as dividing the world into 24 <a href="/wiki/Time_zone" title="Time zone">time zones</a>, each of which is nominally 15° of <a href="/wiki/Longitude" title="Longitude">longitude</a>, to correlate with the established <a href="/wiki/Hour" title="Hour">24-hour</a> <a href="/wiki/Day" title="Day">day</a> convention.</p>
+<p>Finally, it may be the case that more than one of these factors has come into play. According to that theory, the number is approximately 365 because of the apparent movement of the sun against the celestial sphere and that it was rounded to 360 for some of the mathematical reasons cited above.</p>
+<h2><span class="mw-headline" id="Subdivisions">Subdivisions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Degree_(angle)&amp;action=edit&amp;section=2" title="Edit section: Subdivisions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For many practical purposes, a degree is a small enough angle that whole degrees provide sufficient precision. When this is not the case, as in <a href="/wiki/Astronomy" title="Astronomy">astronomy</a> or for <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">geographic coordinates</a> (<a href="/wiki/Latitude" title="Latitude">latitude</a> and <a href="/wiki/Longitude" title="Longitude">longitude</a>), degree measurements may be written using <a href="/wiki/Decimal_degrees" title="Decimal degrees">decimal degrees</a>, with the degree symbol behind the decimals; for example, 40.1875°.</p>
+<p>Alternatively, the traditional <a href="/wiki/Sexagesimal" title="Sexagesimal">sexagesimal</a> <a href="/wiki/Units_of_measurement" title="Units of measurement">unit</a> subdivisions can be used. One degree is divided into 60 <i>minutes (of arc)</i>, and one minute into 60 <i>seconds (of arc)</i>. Use of degrees-minutes-seconds is also called DMS notation. These subdivisions, also called the <i><a class="mw-redirect" href="/wiki/Arcminute" title="Arcminute">arcminute</a></i> and <i><a class="mw-redirect" href="/wiki/Arcsecond" title="Arcsecond">arcsecond</a></i>, are respectively represented by a single and double <a href="/wiki/Prime_(symbol)" title="Prime (symbol)">prime</a>. For example, <span class="nowrap">40.1875° = 40° 11′ 15″</span>, or, using <a href="/wiki/Quotation_mark" title="Quotation mark">quotation mark</a> characters, <span class="nowrap">40° 11' 15"</span>. Additional precision can be provided using decimals for the arcseconds component.</p>
+<p>The older system of <a class="mw-redirect" href="/wiki/Third_(angle)" title="Third (angle)">thirds</a>, <a class="mw-redirect" href="/wiki/Fourth_(angle)" title="Fourth (angle)">fourths</a>, etc., which continues the sexagesimal unit subdivision, was used by <a class="mw-redirect" href="/wiki/Al-Kashi" title="Al-Kashi">al-Kashi</a> and other ancient astronomers, but is rarely used today. These subdivisions were denoted<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2008)">citation needed</span></a></i>]</sup> by writing the <a class="mw-redirect" href="/wiki/Roman_numeral" title="Roman numeral">Roman numeral</a> for the number of sixtieths in superscript: 1<sup>I</sup> for a "<a href="/wiki/Prime_(symbol)" title="Prime (symbol)">prime</a>" (minute of arc), 1<sup>II</sup> for a <a class="mw-redirect" href="/wiki/Double_prime" title="Double prime">second</a>, 1<sup>III</sup> for a <a class="mw-redirect" href="/wiki/Triple_prime" title="Triple prime">third</a>, 1<sup>IV</sup> for a <a class="new" href="/w/index.php?title=Quarter_prime&amp;action=edit&amp;redlink=1" title="Quarter prime (page does not exist)">fourth</a>, etc. Hence the modern symbols for the minute and second of arc, and the word "second" also refer to this system.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (April 2009)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Alternative_units">Alternative units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Degree_(angle)&amp;action=edit&amp;section=3" title="Edit section: Alternative units">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Angle#Measuring_angles" title="Angle">Measuring angles</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Degree-Radian_Conversion.svg"><img alt="" class="thumbimage" data-file-height="700" data-file-width="700" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Degree-Radian_Conversion.svg/300px-Degree-Radian_Conversion.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Degree-Radian_Conversion.svg/450px-Degree-Radian_Conversion.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9a/Degree-Radian_Conversion.svg/600px-Degree-Radian_Conversion.svg.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Degree-Radian_Conversion.svg" title="Enlarge"></a></div>
+A chart to convert between degrees and radians</div>
+</div>
+</div>
+<p>In most <a href="/wiki/Mathematics" title="Mathematics">mathematical</a> work beyond practical geometry, angles are typically measured in <a href="/wiki/Radian" title="Radian">radians</a> rather than degrees. This is for a variety of reasons; for example, the <a class="mw-redirect" href="/wiki/Trigonometric_function" title="Trigonometric function">trigonometric functions</a> have simpler and more "natural" properties when their arguments are expressed in radians. These considerations outweigh the convenient divisibility of the number 360. One complete <a href="/wiki/Turn_(geometry)" title="Turn (geometry)">turn</a> (360°) is equal to 2<i><a href="/wiki/Pi" title="Pi"><span class="texhtml">π</span></a></i> radians, so 180° is equal to <span class="texhtml">π</span> radians, or equivalently, the degree is a <a href="/wiki/Mathematical_constant" title="Mathematical constant">mathematical constant</a>: 1° = <span class="nowrap"> </span><span class="frac nowrap"><sup><span class="texhtml">π</span></sup>⁄<sub>180</sub></span>.</p>
+<p>The <a href="/wiki/Turn_(geometry)" title="Turn (geometry)">turn</a> (or revolution, full circle, full rotation, cycle) is used in technology and science. One turn is equal to 360°.</p>
+<p>With the invention of the <a href="/wiki/Metric_system" title="Metric system">metric system</a>, based on powers of ten, there was an attempt to replace degrees by decimal "degrees"<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[note 3]</a></sup> called <i><a class="mw-redirect" href="/wiki/Grad_(angle)" title="Grad (angle)">grad</a></i> or <i><a class="mw-redirect" href="/wiki/Gon_(angle)" title="Gon (angle)">gon</a></i>, where the number in a right angle is equal to 100 gon with 400 gon in a full circle (1° = <span class="nowrap"> </span><span class="frac nowrap"><sup>10</sup>⁄<sub>9</sub></span> gon). Although that idea was abandoned by Napoleon, grades continued to be used in several fields and many <a href="/wiki/Scientific_calculator" title="Scientific calculator">scientific calculators</a> support them. Decigrades (<span class="nowrap"> </span><span class="frac nowrap"><sup>1</sup>⁄<sub>4,000</sub></span>) were used with French artillery sights in World War I.</p>
+<p>An <a class="mw-redirect" href="/wiki/Angular_mil" title="Angular mil">angular mil</a>, which is most used in military applications, has at least three specific variants, ranging from <span class="nowrap"> </span><span class="frac nowrap"><sup>1</sup>⁄<sub>6,400</sub></span> to <span class="nowrap"> </span><span class="frac nowrap"><sup>1</sup>⁄<sub>6,000</sub></span>. It is approximately equal to one milliradian (<abbr title="circa">c.</abbr> <span class="nowrap"> </span><span class="frac nowrap"><sup>1</sup>⁄<sub>6,283</sub></span>). A mil measuring <span class="nowrap"> </span><span class="frac nowrap"><sup>1</sup>⁄<sub>6,000</sub></span> of a revolution originated in the imperial Russian army, where an equilateral chord was divided into tenths to give a circle of 600 units. This may be seen on a lining plane (an early device for aiming <a href="/wiki/Indirect_fire" title="Indirect fire">indirect fire</a> artillery) dating from about 1900 in the <a class="mw-redirect" href="/wiki/St._Petersburg" title="St. Petersburg">St. Petersburg</a> Museum of Artillery.</p>
+<table class="wikitable" style="text-align:center;">
+<caption>Conversion of common angles</caption>
+<tr>
+<th><a href="/wiki/Turn_(geometry)" title="Turn (geometry)">Turns</a></th>
+<th><a href="/wiki/Radian" title="Radian">Radians</a></th>
+<th><a class="mw-selflink selflink">Degrees</a></th>
+<th><a href="/wiki/Gradian" title="Gradian">Gradians</a> (<a class="mw-redirect" href="/wiki/Gon_(unit)" title="Gon (unit)">Gons</a>)</th>
+</tr>
+<tr>
+<td>0</td>
+<td>0</td>
+<td>0°</td>
+<td>0<sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">24</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">12</span></span></td>
+<td>15°</td>
+<td><span class="sfrac nowrap">16<span class="visualhide"> </span><span style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">2</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span></span><sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">12</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">6</span></span></td>
+<td>30°</td>
+<td><span class="sfrac nowrap">33<span class="visualhide"> </span><span style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span></span><sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">10</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span></td>
+<td>36°</td>
+<td>40<sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">8</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">4</span></span></td>
+<td>45°</td>
+<td>50<sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2<span class="texhtml">π</span></span></span></td>
+<td>1</td>
+<td><abbr title="circa">c.</abbr> 57.3°</td>
+<td><abbr title="circa">c.</abbr> 63.7<sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">6</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span></td>
+<td>60°</td>
+<td><span class="sfrac nowrap">66<span class="visualhide"> </span><span style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">2</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span></span><sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">2<span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span></td>
+<td>72°</td>
+<td>80<sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">4</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span></td>
+<td>90°</td>
+<td>100<sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">2<span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span></td>
+<td>120°</td>
+<td><span class="sfrac nowrap">133<span class="visualhide"> </span><span style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span></span><sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">2</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">4<span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">5</span></span></td>
+<td>144°</td>
+<td>160<sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span></td>
+<td><span class="texhtml">π</span></td>
+<td>180°</td>
+<td>200<sup>g</sup></td>
+</tr>
+<tr>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">3</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">4</span></span></td>
+<td><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">3<span class="texhtml">π</span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span></td>
+<td>270°</td>
+<td>300<sup>g</sup></td>
+</tr>
+<tr>
+<td>1</td>
+<td>2<span class="texhtml">π</span></td>
+<td>360°</td>
+<td>400<sup>g</sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Degree_(angle)&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Compass" title="Compass">Compass</a></li>
+<li><a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">Geographic coordinate system</a></li>
+<li><a href="/wiki/Gradian" title="Gradian">Gradian</a></li>
+<li><a href="/wiki/Meridian_arc" title="Meridian arc">Meridian arc</a></li>
+<li><a href="/wiki/Square_degree" title="Square degree">Square degree</a></li>
+<li><a class="mw-redirect" href="/wiki/Square_minute" title="Square minute">Square minute</a></li>
+<li><a class="mw-redirect" href="/wiki/Square_second" title="Square second">Square second</a></li>
+<li><a href="/wiki/Steradian" title="Steradian">Steradian</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Degree_(angle)&amp;action=edit&amp;section=5" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">The divisors of 360 are 1, 2, 3, 4, 5, 6, 8, 9, 10, 12, 15, 18, 20, 24, 30, 36, 40, 45, 60, 72, 90, 120, 180, and 360.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Contrast this with the relatively unwieldy <a href="/wiki/2520_(number)" title="2520 (number)">2520</a>, which is the <a href="/wiki/Least_common_multiple" title="Least common multiple">least common multiple</a> for every number from 1 to 10.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">These new and decimal "degrees" must not be confused with <a href="/wiki/Decimal_degrees" title="Decimal degrees">decimal degrees</a>.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Degree_(angle)&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-HP48_UG-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-HP48_UG_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="http://www.hpcalc.org/details.php?id=3937" rel="nofollow"><i>HP 48G Series – User's Guide (UG)</i></a> (8 ed.). <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">Hewlett-Packard</a>. December 1994 [1993]. HP 00048-90126, (00048-90104)<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-09-06</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.btitle=HP+48G+Series+%E2%80%93+User%27s+Guide+%28UG%29&amp;rft.date=1994-12&amp;rft.edition=8&amp;rft.genre=book&amp;rft.pub=Hewlett-Packard&amp;rft_id=http%3A%2F%2Fwww.hpcalc.org%2Fdetails.php%3Fid%3D3937&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-HP50g_UG-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-HP50g_UG_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="http://www.hpcalc.org/details.php?id=6512" rel="nofollow"><i>HP 50g graphing calculator user's guide (UG)</i></a> (1 ed.). <a href="/wiki/Hewlett-Packard" title="Hewlett-Packard">Hewlett-Packard</a>. 2006-04-01. HP F2229AA-90006<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.btitle=HP+50g+graphing+calculator+user%27s+guide+%28UG%29&amp;rft.date=2006-04-01&amp;rft.edition=1&amp;rft.genre=book&amp;rft.pub=Hewlett-Packard&amp;rft_id=http%3A%2F%2Fwww.hpcalc.org%2Fdetails.php%3Fid%3D6512&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-HP-Prime_UG-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-HP-Prime_UG_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="http://h10032.www1.hp.com/ctg/Manual/c04119981.pdf" rel="nofollow"><i>HP Prime Graphing Calculator User Guide (UG)</i></a> <span style="font-size:85%;">(PDF)</span> (1 ed.). <a class="mw-redirect" href="/wiki/Hewlett-Packard_Development_Company,_L.P." title="Hewlett-Packard Development Company, L.P.">Hewlett-Packard Development Company, L.P.</a> October 2014. HP 788996-001<span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.btitle=HP+Prime+Graphing+Calculator+User+Guide+%28UG%29&amp;rft.date=2014-10&amp;rft.edition=1&amp;rft.genre=book&amp;rft.pub=Hewlett-Packard+Development+Company%2C+L.P.&amp;rft_id=http%3A%2F%2Fh10032.www1.hp.com%2Fctg%2FManual%2Fc04119981.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation news">Bureau International des Poid et Mesures (2006). <a class="external text" href="https://web.archive.org/web/20091001100650/http://www.bipm.org/en/si/si_brochure/chapter4/table6.html" rel="nofollow">"The International System of Units (SI)"</a> (8 ed.). Archived from <a class="external text" href="http://www.bipm.org/en/si/si_brochure/chapter4/table6.html" rel="nofollow">the original</a> on 2009-10-01.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.atitle=The+International+System+of+Units+%28SI%29&amp;rft.au=Bureau+International+des+Poid+et+Mesures&amp;rft.date=2006&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.bipm.org%2Fen%2Fsi%2Fsi_brochure%2Fchapter4%2Ftable6.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://mathworld.wolfram.com/Degree.html" rel="nofollow">"Degree"</a>. MathWorld.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.btitle=Degree&amp;rft.genre=unknown&amp;rft.pub=MathWorld&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FDegree.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="mw-redirect" href="/wiki/James_Hopwood_Jeans" title="James Hopwood Jeans">Jeans, James Hopwood</a> (1947). <a class="external text" href="https://books.google.com/books?hl=en&amp;lr=&amp;id=JX49AAAAIAAJ&amp;oi=fnd&amp;pg=PA7" rel="nofollow"><i>The Growth of Physical Science</i></a>. p. 7.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.aufirst=James+Hopwood&amp;rft.aulast=Jeans&amp;rft.btitle=The+Growth+of+Physical+Science&amp;rft.date=1947&amp;rft.genre=book&amp;rft.pages=7&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fhl%3Den%26lr%3D%26id%3DJX49AAAAIAAJ%26oi%3Dfnd%26pg%3DPA7&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Francis_Dominic_Murnaghan_(mathematician)" title="Francis Dominic Murnaghan (mathematician)">Murnaghan, Francis Dominic</a> (1946). <i>Analytic Geometry</i>. p. 2.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.aufirst=Francis+Dominic&amp;rft.aulast=Murnaghan&amp;rft.btitle=Analytic+Geometry&amp;rft.date=1946&amp;rft.genre=book&amp;rft.pages=2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Rawlins, Dennis. <a class="external text" href="http://www.dioi.org/cot.htm#dqsr" rel="nofollow">"On Aristarchus"</a>. <i>DIO - The International Journal of Scientific History</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.atitle=On+Aristarchus&amp;rft.aufirst=Dennis&amp;rft.aulast=Rawlins&amp;rft.genre=unknown&amp;rft.jtitle=DIO+-+The+International+Journal+of+Scientific+History&amp;rft_id=http%3A%2F%2Fwww.dioi.org%2Fcot.htm%23dqsr&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="mw-redirect" href="/wiki/G._J._Toomer" title="G. J. Toomer">Toomer, Gerald J.</a> <i>Hipparchus and Babylonian astronomy</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.aufirst=Gerald+J.&amp;rft.aulast=Toomer&amp;rft.btitle=Hipparchus+and+Babylonian+astronomy&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation book">"2 (Footnote 24)". <a class="external text" href="http://www.dioi.org/vols/we0.pdf" rel="nofollow"><i>Aristarchos Unbound: Ancient Vision / The Hellenistic Heliocentrists' Colossal Universe-Scale / Historians' Colossal Inversion of Great &amp; Phony Ancients / History-of-Astronomy and the Moon in Retrograde!</i></a> <span style="font-size:85%;">(PDF)</span>. <i>DIO - The International Journal of Scientific History</i>. <b>14</b>. March 2008. p. 19. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1041-5440" rel="nofollow">1041-5440</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-10-16</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.atitle=2+%28Footnote+24%29&amp;rft.btitle=Aristarchos+Unbound%3A+Ancient+Vision+%2F+The+Hellenistic+Heliocentrists%27+Colossal+Universe-Scale+%2F+Historians%27+Colossal+Inversion+of+Great+%26+Phony+Ancients+%2F+History-of-Astronomy+and+the+Moon+in+Retrograde%21&amp;rft.date=2008-03&amp;rft.genre=bookitem&amp;rft.issn=1041-5440&amp;rft.pages=19&amp;rft_id=http%3A%2F%2Fwww.dioi.org%2Fvols%2Fwe0.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Dirghatamas" title="Dirghatamas">Dirghatamas</a>. <i>Rigveda</i>. pp. 1.164.48.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.au=Dirghatamas&amp;rft.btitle=Rigveda&amp;rft.genre=book&amp;rft.pages=1.164.48&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Brefeld, Werner. <a class="external text" href="https://translate.google.com/translate?sl=auto&amp;tl=en&amp;js=n&amp;prev=_t&amp;hl=en&amp;ie=UTF-8&amp;layout=2&amp;eotf=1&amp;u=http%3A%2F%2Fwww.brefeld.homepage.t-online.de%2Fteilbarkeit.html&amp;act=url" rel="nofollow">"Divisibility highly composite numbers"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.aufirst=Werner&amp;rft.aulast=Brefeld&amp;rft.btitle=Divisibility+highly+composite+numbers&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Ftranslate.google.com%2Ftranslate%3Fsl%3Dauto%26tl%3Den%26js%3Dn%26prev%3D_t%26hl%3Den%26ie%3DUTF-8%26layout%3D2%26eotf%3D1%26u%3Dhttp%253A%252F%252Fwww.brefeld.homepage.t-online.de%252Fteilbarkeit.html%26act%3Durl&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Brefeld, Werner (2015). <i>(not defined)</i>. <a href="/wiki/Rowohlt_Verlag" title="Rowohlt Verlag">Rowohlt Verlag</a>. pp. <i>Not yet published</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.aufirst=Werner&amp;rft.aulast=Brefeld&amp;rft.btitle=%28not+defined%29&amp;rft.date=2015&amp;rft.genre=book&amp;rft.pages=%27%27Not+yet+published%27%27&amp;rft.pub=Rowohlt+Verlag&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Degree_(angle)&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Degree_(angle)" title="commons:Category:Degree (angle)">Degree (angle)</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><cite class="citation web"><a class="external text" href="http://www.mathopenref.com/degrees.html" rel="nofollow">"Degrees as an angle measure"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.btitle=Degrees+as+an+angle+measure&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.mathopenref.com%2Fdegrees.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span>, with interactive animation</li>
+<li><cite class="citation web"><a class="external text" href="http://mathworld.wolfram.com/Degree.html" rel="nofollow">"Degree"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.btitle=Degree&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FDegree.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> at <a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></li>
+<li><cite class="citation web">Gray, Meghan; Merrifield, Michael; Moriarty, Philip (2009). <a class="external text" href="http://www.sixtysymbols.com/videos/degree.htm" rel="nofollow">"° Degree of Angle"</a>. <i>Sixty Symbols</i>. <a href="/wiki/Brady_Haran" title="Brady Haran">Brady Haran</a> for the <a href="/wiki/University_of_Nottingham" title="University of Nottingham">University of Nottingham</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADegree+%28angle%29&amp;rft.atitle=%C2%B0+Degree+of+Angle&amp;rft.au=Merrifield%2C+Michael&amp;rft.au=Moriarty%2C+Philip&amp;rft.aufirst=Meghan&amp;rft.aulast=Gray&amp;rft.date=2009&amp;rft.genre=unknown&amp;rft.jtitle=Sixty+Symbols&amp;rft_id=http%3A%2F%2Fwww.sixtysymbols.com%2Fvideos%2Fdegree.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<div aria-labelledby="SI_units" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:SI_units" title="Template:SI units"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:SI_units" title="Template talk:SI units"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:SI_units&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="SI_units" style="font-size:114%;margin:0 4em"><a href="/wiki/International_System_of_Units" title="International System of Units">SI units</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>Authority: <a href="/wiki/International_System_of_Units" title="International System of Units">International System of Units</a> <span style="font-weight:normal;">(BIPM)</span></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/SI_base_unit" title="SI base unit">Base units</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ampere" title="Ampere">ampere</a></li>
+<li><a href="/wiki/Candela" title="Candela">candela</a></li>
+<li><a href="/wiki/Kelvin" title="Kelvin">kelvin</a></li>
+<li><a href="/wiki/Kilogram" title="Kilogram">kilogram</a></li>
+<li><a href="/wiki/Metre" title="Metre">metre</a></li>
+<li><a href="/wiki/Mole_(unit)" title="Mole (unit)">mole</a></li>
+<li><a href="/wiki/Second" title="Second">second</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:SI_base_units.svg" title="SI base unit"><img alt="SI base unit" data-file-height="600" data-file-width="600" height="125" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/125px-SI_base_units.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/188px-SI_base_units.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/38/SI_base_units.svg/250px-SI_base_units.svg.png 2x" width="125"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/SI_derived_unit" title="SI derived unit">Derived units with special names</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Becquerel" title="Becquerel">becquerel</a></li>
+<li><a href="/wiki/Coulomb" title="Coulomb">coulomb</a></li>
+<li><a href="/wiki/Celsius" title="Celsius">degree Celsius</a></li>
+<li><a href="/wiki/Farad" title="Farad">farad</a></li>
+<li><a href="/wiki/Gray_(unit)" title="Gray (unit)">gray</a></li>
+<li><a href="/wiki/Henry_(unit)" title="Henry (unit)">henry</a></li>
+<li><a href="/wiki/Hertz" title="Hertz">hertz</a></li>
+<li><a href="/wiki/Joule" title="Joule">joule</a></li>
+<li><a href="/wiki/Katal" title="Katal">katal</a></li>
+<li><a href="/wiki/Lumen_(unit)" title="Lumen (unit)">lumen</a></li>
+<li><a href="/wiki/Lux" title="Lux">lux</a></li>
+<li><a href="/wiki/Newton_(unit)" title="Newton (unit)">newton</a></li>
+<li><a href="/wiki/Ohm" title="Ohm">ohm</a></li>
+<li><a href="/wiki/Pascal_(unit)" title="Pascal (unit)">pascal</a></li>
+<li><a href="/wiki/Radian" title="Radian">radian</a></li>
+<li><a href="/wiki/Siemens_(unit)" title="Siemens (unit)">siemens</a></li>
+<li><a href="/wiki/Sievert" title="Sievert">sievert</a></li>
+<li><a href="/wiki/Steradian" title="Steradian">steradian</a></li>
+<li><a href="/wiki/Tesla_(unit)" title="Tesla (unit)">tesla</a></li>
+<li><a href="/wiki/Volt" title="Volt">volt</a></li>
+<li><a href="/wiki/Watt" title="Watt">watt</a></li>
+<li><a href="/wiki/Weber_(unit)" title="Weber (unit)">weber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Non-SI_units_mentioned_in_the_SI" title="Non-SI units mentioned in the SI">Other accepted units</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astronomical_unit" title="Astronomical unit">astronomical unit</a></li>
+<li><a href="/wiki/Bar_(unit)" title="Bar (unit)">bar</a></li>
+<li><a class="mw-redirect" href="/wiki/Atomic_mass_unit" title="Atomic mass unit">dalton</a></li>
+<li><a href="/wiki/Day" title="Day">day</a></li>
+<li><a href="/wiki/Decibel" title="Decibel">decibel</a></li>
+<li><a class="mw-selflink selflink">degree of arc</a></li>
+<li><a href="/wiki/Electronvolt" title="Electronvolt">electronvolt</a></li>
+<li><a href="/wiki/Hectare" title="Hectare">hectare</a></li>
+<li><a href="/wiki/Hour" title="Hour">hour</a></li>
+<li><a href="/wiki/Litre" title="Litre">litre</a></li>
+<li><a href="/wiki/Minute" title="Minute">minute</a></li>
+<li><a href="/wiki/Minute_and_second_of_arc" title="Minute and second of arc">minute of arc</a></li>
+<li><a href="/wiki/Neper" title="Neper">neper</a></li>
+<li><a href="/wiki/Minute_and_second_of_arc" title="Minute and second of arc">second of arc</a></li>
+<li><a href="/wiki/Tonne" title="Tonne">tonne</a></li>
+<li><a href="/wiki/Atomic_units" title="Atomic units">atomic units</a></li>
+<li><a href="/wiki/Natural_units" title="Natural units">natural units</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">See also</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Conversion_of_units" title="Conversion of units">Conversion of units</a></li>
+<li><a href="/wiki/Metric_prefix" title="Metric prefix">Metric prefixes</a></li>
+<li><a href="/wiki/Proposed_redefinition_of_SI_base_units" title="Proposed redefinition of SI base units">Proposed redefinitions</a></li>
+<li><a href="/wiki/System_of_measurement" title="System of measurement">Systems of measurement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div>
+<ul>
+<li><b><img alt="Wikipedia book" data-file-height="185" data-file-width="180" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/16px-Symbol_book_class2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/23px-Symbol_book_class2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Symbol_book_class2.svg/31px-Symbol_book_class2.svg.png 2x" title="Wikipedia book" width="16"/> <a href="/wiki/Book:International_System_of_Units" title="Book:International System of Units">Book</a></b></li>
+<li><b><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:SI_units" title="Category:SI units">Category</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1204
+Cached time: 20170928212907
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.492 seconds
+Real time usage: 0.612 seconds
+Preprocessor visited node count: 2853/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 81683/2097152 bytes
+Template argument size: 5776/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.223/10.000 seconds
+Lua memory usage: 4.64 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  514.701      1 -total
+ 17.87%   91.997      1 Template:Infobox_Unit
+ 16.85%   86.729      9 Template:Cite_book
+ 15.46%   79.581      1 Template:Infobox
+ 15.20%   78.241      2 Template:Citation_needed
+ 14.26%   73.414      2 Template:Fix
+  9.08%   46.746     30 Template:Sfrac
+  7.81%   40.203      1 Template:Commons_category
+  7.80%   40.166      1 Template:Table_of_angles
+  7.19%   36.999      4 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1195294-0!canonical and timestamp 20170928212910 and revision id 802850616
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Degree_(angle)&amp;oldid=802850616">https://en.wikipedia.org/w/index.php?title=Degree_(angle)&amp;oldid=802850616</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Units_of_plane_angle" title="Category:Units of plane angle">Units of plane angle</a></li><li><a href="/wiki/Category:Imperial_units" title="Category:Imperial units">Imperial units</a></li><li><a href="/wiki/Category:Mathematical_constants" title="Category:Mathematical constants">Mathematical constants</a></li><li><a href="/wiki/Category:Customary_units_of_measurement_in_the_United_States" title="Category:Customary units of measurement in the United States">Customary units of measurement in the United States</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2008" title="Category:Articles with unsourced statements from January 2008">Articles with unsourced statements from January 2008</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_April_2009" title="Category:Articles with unsourced statements from April 2009">Articles with unsourced statements from April 2009</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Degree+%28angle%29" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Degree+%28angle%29" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Degree_(angle)" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Degree_(angle)" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Degree_(angle)">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Degree_(angle)&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Degree_(angle)&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Degree_(angle)" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Degree_(angle)" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Degree_(angle)&amp;oldid=802850616" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Degree_(angle)&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q28390" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Degree_%28angle%29&amp;id=802850616" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Degree+%28angle%29">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Degree+%28angle%29&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DDegree%2B%2528angle%2529%26returnto%3DDegree%2B%2528angle%2529%26oldid%3D802850616%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Degree_(angle)&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Degree_(angle)" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Graad_(meetkunde)" hreflang="af" lang="af" title="Graad (meetkunde) – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D8%B1%D8%AC%D8%A9_(%D8%B2%D8%A7%D9%88%D9%8A%D8%A9)" hreflang="ar" lang="ar" title="درجة (زاوية) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Grau_sexaxesimal" hreflang="ast" lang="ast" title="Grau sexaxesimal – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%A1%E0%A6%BF%E0%A6%97%E0%A7%8D%E0%A6%B0%E0%A7%80_(%E0%A6%95%E0%A7%8B%E0%A6%A3)" hreflang="bn" lang="bn" title="ডিগ্রী (কোণ) – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%92%D1%83%D0%B3%D0%BB%D0%B0%D0%B2%D1%8B_%D0%B3%D1%80%D0%B0%D0%B4%D1%83%D1%81" hreflang="be" lang="be" title="Вуглавы градус – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bh"><a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%A1%E0%A4%BF%E0%A4%97%E0%A5%8D%E0%A4%B0%E0%A5%80_(%E0%A4%95%E0%A5%8B%E0%A4%A3)" hreflang="bh" lang="bh" title="डिग्री (कोण) – Bhojpuri">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%83%D1%81_(%D1%8A%D0%B3%D1%8A%D0%BB)" hreflang="bg" lang="bg" title="Градус (ъгъл) – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Stepen_(ugao)" hreflang="bs" lang="bs" title="Stepen (ugao) – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Grau_sexagesimal" hreflang="ca" lang="ca" title="Grau sexagesimal – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Stupe%C5%88_(%C3%BAhel)" hreflang="cs" lang="cs" title="Stupeň (úhel) – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Grad_(vinkelm%C3%A5l)" hreflang="da" lang="da" title="Grad (vinkelmål) – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Grad_(Winkel)" hreflang="de" lang="de" title="Grad (Winkel) – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kraad_(geomeetria)" hreflang="et" lang="et" title="Kraad (geomeetria) – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%BF%CE%AF%CF%81%CE%B1_(%CE%B3%CE%B5%CF%89%CE%BC%CE%B5%CF%84%CF%81%CE%AF%CE%B1)" hreflang="el" lang="el" title="Μοίρα (γεωμετρία) – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Grado_sexagesimal" hreflang="es" lang="es" title="Grado sexagesimal – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Grado" hreflang="eo" lang="eo" title="Grado – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Gradu_sexagesimal" hreflang="eu" lang="eu" title="Gradu sexagesimal – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AF%D8%B1%D8%AC%D9%87_(%D8%B2%D8%A7%D9%88%DB%8C%D9%87)" hreflang="fa" lang="fa" title="درجه (زاویه) – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Degr%C3%A9_(angle)" hreflang="fr" lang="fr" title="Degré (angle) – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/C%C3%A9im_(matamaitic)" hreflang="ga" lang="ga" title="Céim (matamaitic) – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Grao_sesaxesimal" hreflang="gl" lang="gl" title="Grao sesaxesimal – Galician">Galego</a></li><li class="interlanguage-link interwiki-gan"><a class="interlanguage-link-target" href="https://gan.wikipedia.org/wiki/%E5%BA%A6_(%E8%A7%92%E5%BA%A6)" hreflang="gan" lang="gan" title="度 (角度) – Gan Chinese">贛語</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%8F%84_(%EA%B0%81%EB%8F%84)" hreflang="ko" lang="ko" title="도 (각도) – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%BD%D5%BF%D5%AB%D5%B3%D5%A1%D5%B6_(%D5%A5%D6%80%D5%AF%D6%80%D5%A1%D5%B9%D5%A1%D6%83%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6)" hreflang="hy" lang="hy" title="Աստիճան (երկրաչափություն) – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Stupanj_(kut)" hreflang="hr" lang="hr" title="Stupanj (kut) – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-ilo"><a class="interlanguage-link-target" href="https://ilo.wikipedia.org/wiki/Grado_(anggulo)" hreflang="ilo" lang="ilo" title="Grado (anggulo) – Iloko">Ilokano</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Derajat_(satuan_sudut)" hreflang="id" lang="id" title="Derajat (satuan sudut) – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Grado_(angulo)" hreflang="ia" lang="ia" title="Grado (angulo) – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Gr%C3%A1%C3%B0a_(horn)" hreflang="is" lang="is" title="Gráða (horn) – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Grado_d%27arco" hreflang="it" lang="it" title="Grado d'arco – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A2%D7%9C%D7%94_(%D7%96%D7%95%D7%95%D7%99%D7%AA)" hreflang="he" lang="he" title="מעלה (זווית) – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Nyuzi" hreflang="sw" lang="sw" title="Nyuzi – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Gradus_anguli" hreflang="la" lang="la" title="Gradus anguli – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Gr%C4%81ds_(le%C5%86%C4%B7is)" hreflang="lv" lang="lv" title="Grāds (leņķis) – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Grad_(W%C3%A9nkel)" hreflang="lb" lang="lb" title="Grad (Wénkel) – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Fok_(sz%C3%B6g)" hreflang="hu" lang="hu" title="Fok (szög) – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A1%D1%82%D0%B5%D0%BF%D0%B5%D0%BD_(%D0%B0%D0%B3%D0%BE%D0%BB)" hreflang="mk" lang="mk" title="Степен (агол) – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Darjah_(sudut)" hreflang="ms" lang="ms" title="Darjah (sudut) – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Booggraad" hreflang="nl" lang="nl" title="Booggraad – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%BA%A6_(%E8%A7%92%E5%BA%A6)" hreflang="ja" lang="ja" title="度 (角度) – Japanese">日本語</a></li><li class="interlanguage-link interwiki-frr"><a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Winkelgraad" hreflang="frr" lang="frr" title="Winkelgraad – Northern Frisian">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Grad_(vinkel)" hreflang="no" lang="no" title="Grad (vinkel) – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Vinkeleininga_grad" hreflang="nn" lang="nn" title="Vinkeleininga grad – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%A1%E0%A8%BF%E0%A8%97%E0%A8%B0%E0%A9%80_(%E0%A8%95%E0%A9%8B%E0%A8%A3)" hreflang="pa" lang="pa" title="ਡਿਗਰੀ (ਕੋਣ) – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-jam"><a class="interlanguage-link-target" href="https://jam.wikipedia.org/wiki/Digrii" hreflang="jam" lang="jam" title="Digrii – Jamaican Creole English">Patois</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Grad_(Winkel)" hreflang="nds" lang="nds" title="Grad (Winkel) – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Stopie%C5%84_(k%C4%85t)" hreflang="pl" lang="pl" title="Stopień (kąt) – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Grau_(geometria)" hreflang="pt" lang="pt" title="Grau (geometria) – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Grad_sexagesimal" hreflang="ro" lang="ro" title="Grad sexagesimal – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%83%D1%81_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D0%B8%D1%8F)" hreflang="ru" lang="ru" title="Градус (геометрия) – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Degree_(angle)" hreflang="sco" lang="sco" title="Degree (angle) – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Degree_(angle)" hreflang="simple" lang="simple" title="Degree (angle) – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Stupe%C5%88_(uhol)" hreflang="sk" lang="sk" title="Stupeň (uhol) – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kotna_stopinja" hreflang="sl" lang="sl" title="Kotna stopinja – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%BE%D9%84%DB%95_(%DA%AF%DB%86%D8%B4%DB%95)" hreflang="ckb" lang="ckb" title="پلە (گۆشە) – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9B%D1%83%D1%87%D0%BD%D0%B8_%D1%81%D1%82%D0%B5%D0%BF%D0%B5%D0%BD" hreflang="sr" lang="sr" title="Лучни степен – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Stepen_(ugao)" hreflang="sh" lang="sh" title="Stepen (ugao) – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Aste" hreflang="fi" lang="fi" title="Aste – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Grad_(vinkelenhet)" hreflang="sv" lang="sv" title="Grad (vinkelenhet) – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AE%BE%E0%AE%95%E0%AF%88_(%E0%AE%85%E0%AE%B2%E0%AE%95%E0%AF%81)" hreflang="ta" lang="ta" title="பாகை (அலகு) – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AD%E0%B8%87%E0%B8%A8%E0%B8%B2_(%E0%B8%A1%E0%B8%B8%E0%B8%A1)" hreflang="th" lang="th" title="องศา (มุม) – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%94%D0%B0%D1%80%D0%B0%D2%B7%D0%B0_(%D0%B7%D0%BE%D0%B2%D0%B8%D1%8F)" hreflang="tg" lang="tg" title="Дараҷа (зовия) – Tajik">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Derece_(birim)" hreflang="tr" lang="tr" title="Derece (birim) – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%83%D1%81_(%D0%B3%D0%B5%D0%BE%D0%BC%D0%B5%D1%82%D1%80%D1%96%D1%8F)" hreflang="uk" lang="uk" title="Градус (геометрія) – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99_(g%C3%B3c)" hreflang="vi" lang="vi" title="Độ (góc) – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Grado_sexagesimal" hreflang="war" lang="war" title="Grado sexagesimal – Waray">Winaray</a></li><li class="interlanguage-link interwiki-yi"><a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%92%D7%A8%D7%90%D7%93" hreflang="yi" lang="yi" title="גראד – Yiddish">ייִדיש</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%A7%92%E5%BA%A6" hreflang="zh-yue" lang="zh-yue" title="角度 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BA%A6_(%E8%A7%92)" hreflang="zh" lang="zh" title="度 (角) – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q28390#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 28 September 2017, at 21:29.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Degree_(angle)&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.492","walltime":"0.612","ppvisitednodes":{"value":2853,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":81683,"limit":2097152},"templateargumentsize":{"value":5776,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  514.701      1 -total"," 17.87%   91.997      1 Template:Infobox_Unit"," 16.85%   86.729      9 Template:Cite_book"," 15.46%   79.581      1 Template:Infobox"," 15.20%   78.241      2 Template:Citation_needed"," 14.26%   73.414      2 Template:Fix","  9.08%   46.746     30 Template:Sfrac","  7.81%   40.203      1 Template:Commons_category","  7.80%   40.166      1 Template:Table_of_angles","  7.19%   36.999      4 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.223","limit":"10.000"},"limitreport-memusage":{"value":4865042,"limit":52428800}},"cachereport":{"origin":"mw1204","timestamp":"20170928212907","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":68,"wgHostname":"mw1257"});});</script>
+</body>
+</html>

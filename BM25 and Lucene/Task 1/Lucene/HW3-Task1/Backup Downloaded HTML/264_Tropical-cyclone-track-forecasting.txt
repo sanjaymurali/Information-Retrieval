@@ -1,0 +1,316 @@
+https://en.wikipedia.org/wiki/Tropical_cyclone_track_forecasting
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Tropical cyclone track forecasting - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tropical_cyclone_track_forecasting","wgTitle":"Tropical cyclone track forecasting","wgCurRevisionId":757181523,"wgRevisionId":757181523,"wgArticleId":11052024,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Tropical cyclone meteorology","Numerical climate and weather models"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tropical_cyclone_track_forecasting","wgRelevantArticleId":11052024,"wgRequestId":"WdPVcApAEKkAADOT5XUAAACR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7846155","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/NHC_Atlantic_Forecast_Error_Trends.png/1200px-NHC_Atlantic_Forecast_Error_Trends.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tropical_cyclone_track_forecasting" rel="alternate"/>
+<link href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Tropical_cyclone_track_forecasting" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tropical_cyclone_track_forecasting rootpage-Tropical_cyclone_track_forecasting vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Tropical cyclone track forecasting</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:NHC_Atlantic_Forecast_Error_Trends.png"><img alt="" class="thumbimage" data-file-height="1800" data-file-width="2400" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/NHC_Atlantic_Forecast_Error_Trends.png/220px-NHC_Atlantic_Forecast_Error_Trends.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/NHC_Atlantic_Forecast_Error_Trends.png/330px-NHC_Atlantic_Forecast_Error_Trends.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/NHC_Atlantic_Forecast_Error_Trends.png/440px-NHC_Atlantic_Forecast_Error_Trends.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:NHC_Atlantic_Forecast_Error_Trends.png" title="Enlarge"></a></div>
+Track errors for the Atlantic Basin</div>
+</div>
+</div>
+<p><b>Tropical cyclone track forecasting</b> involves predicting where a <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a> is going to track over the next five days, every 6 to 12 hours. The history of tropical cyclone track forecasting has evolved from a single-station approach to a comprehensive approach which uses a variety of meteorological tools and methods to make predictions. The weather of a particular location can show signs of the approaching tropical cyclone, such as increasing swell, increasing cloudiness, falling barometric pressure, increasing tides, <a href="/wiki/Squall" title="Squall">squalls</a>, and heavy rainfall.</p>
+<p>The forces that affect tropical cyclone steering are the higher-latitude westerlies, the <a href="/wiki/Subtropical_ridge" title="Subtropical ridge">subtropical ridge</a>, and the beta effect caused by changes of the <a href="/wiki/Coriolis_force" title="Coriolis force">coriolis force</a> within fluids such as the <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>. Accurate track predictions depend on determining the position and strength of <a class="mw-redirect" href="/wiki/High_pressure_area" title="High pressure area">high</a>- and <a href="/wiki/Low-pressure_area" title="Low-pressure area">low-pressure areas</a>, and predicting how those areas will migrate during the life of a tropical system. Computer forecast models are used to help determine this motion as far out as five to seven days in the future.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Single_station_forecasting_of_a_tropical_cyclone_passage"><span class="tocnumber">2</span> <span class="toctext">Single station forecasting of a tropical cyclone passage</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Basics"><span class="tocnumber">3</span> <span class="toctext">Basics</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Fujiwhara_effect"><span class="tocnumber">3.1</span> <span class="toctext">Fujiwhara effect</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Trochoidal_motions"><span class="tocnumber">3.2</span> <span class="toctext">Trochoidal motions</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Forecast_models"><span class="tocnumber">4</span> <span class="toctext">Forecast models</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Length_of_forecast_period"><span class="tocnumber">5</span> <span class="toctext">Length of forecast period</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The methods through which tropical cyclones are forecast have changed with the passage of time. The first known forecasts in the Western Hemisphere were made by Lt. Col. William Reed of the <a class="mw-redirect" href="/wiki/Corps_of_Royal_Engineers" title="Corps of Royal Engineers">Corps of Royal Engineers</a> at Barbados in 1847. Reed mostly utilized <a class="mw-redirect" href="/wiki/Barometric_pressure" title="Barometric pressure">barometric pressure</a> measurements as the basis of his forecasts. Benito Viñes, <a href="/wiki/Society_of_Jesus" title="Society of Jesus">S.J.</a>, introduced a forecast and warning system based on cloud cover changes in <a href="/wiki/Havana" title="Havana">Havana</a> during the 1870s. Forecasting hurricane motion was based on tide movements, as well as cloud and barometer changes over time. In 1895, it was noted that cool conditions with unusually high pressure preceded tropical cyclones in the <a href="/wiki/West_Indies" title="West Indies">West Indies</a> by several days. Before the early 1900s, most forecasts were done by direct observations at weather stations, which were then relayed to forecast centers via <a class="mw-redirect" href="/wiki/Telegraph" title="Telegraph">telegraph</a>. It was not until the advent of <a href="/wiki/Radio" title="Radio">radio</a> in the early twentieth century that observations from ships at sea were available to forecasters. Despite the issuance of hurricane watches and warnings for systems threatening the coast, forecasting the path of tropical cyclones did not occur until 1920.<sup class="reference" id="cite_ref-WJ_1-0"><a href="#cite_note-WJ-1">[1]</a></sup> By 1922, it was known that the winds at 3 kilometres (9,800 ft) to 4 kilometres (13,000 ft) in height above the sea surface within the storms' right front quadrant were representative of a storm's steering, and that hurricanes tended to follow the outermost closed isobar of the <a href="/wiki/Subtropical_ridge" title="Subtropical ridge">subtropical ridge</a>.<sup class="reference" id="cite_ref-wb59_2-0"><a href="#cite_note-wb59-2">[2]</a></sup></p>
+<p>In 1937, radiosondes were used to aide tropical cyclone forecasting.<sup class="reference" id="cite_ref-wb59_2-1"><a href="#cite_note-wb59-2">[2]</a></sup> The next decade saw the advent of aircraft-based reconnaissance by the military, starting with the first dedicated flight into a hurricane in 1943, and the establishment of the <a class="mw-redirect" href="/wiki/Hurricane_Hunters" title="Hurricane Hunters">Hurricane Hunters</a> in 1944. In the 1950s, coastal <a href="/wiki/Weather_radar" title="Weather radar">weather radars</a> began to be used in the United States, and research reconnaissance flights by the precursor of the <a href="/wiki/Atlantic_Oceanographic_and_Meteorological_Laboratory" title="Atlantic Oceanographic and Meteorological Laboratory">Hurricane Research Division</a> began in 1954.<sup class="reference" id="cite_ref-MWR_NHC_history_3-0"><a href="#cite_note-MWR_NHC_history-3">[3]</a></sup> The launch of the first weather satellite, TIROS-I, in 1960, introduced new techniques to tropical cyclone forecasting that remain important to the present day. In the 1970s, buoys were introduced to improve the resolution of surface measurements, which until that point, were not available at all over sea surfaces.<sup class="reference" id="cite_ref-MWR_NHC_history_3-1"><a href="#cite_note-MWR_NHC_history-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Single_station_forecasting_of_a_tropical_cyclone_passage">Single station forecasting of a tropical cyclone passage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=2" title="Edit section: Single station forecasting of a tropical cyclone passage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Tropical_cyclone_eyewall_P-3.jpg"><img alt="" class="thumbimage" data-file-height="1168" data-file-width="1788" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tropical_cyclone_eyewall_P-3.jpg/250px-Tropical_cyclone_eyewall_P-3.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tropical_cyclone_eyewall_P-3.jpg/375px-Tropical_cyclone_eyewall_P-3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Tropical_cyclone_eyewall_P-3.jpg/500px-Tropical_cyclone_eyewall_P-3.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Tropical_cyclone_eyewall_P-3.jpg" title="Enlarge"></a></div>
+Picture of the sky within the eye of a tropical cyclone</div>
+</div>
+</div>
+<p>About four days in advance of a typical tropical cyclone, an ocean of 1 metre (3.3 ft) in height will roll in about every 10 seconds, moving towards the coast from the direction of the tropical cyclone's location. The ocean swell will slowly increase in height and frequency the closer a tropical cyclone gets to land. Two days in advance of the center's passage, winds go calm as the tropical cyclone interrupts the environmental wind flow. Within 36 hours of the center passage, the pressure begins to fall and a veil of white cirrus clouds approaches from the <a href="/wiki/Cyclone" title="Cyclone">cyclone</a>'s direction. Within 24 hours of the closest approach to the center, low clouds begin to move in, also known as the <a href="/wiki/Bar_(tropical_cyclone)" title="Bar (tropical cyclone)">bar</a> of a tropical cyclone, as the barometric pressure begins to fall more rapidly and the winds begin to increase. Within 18 hours of the center's approach, <a href="/wiki/Squall" title="Squall">squally</a> weather is common, with sudden increases in wind accompanied by rain showers or thunderstorms. Winds increase within 12 hours of the center's approach, occasionally reaching hurricane force. The ocean's surface becomes whipped with foam. Small items begin flying in the wind. Within 6 hours of the center's arrival, rain becomes continuous and the <a href="/wiki/Storm_surge" title="Storm surge">storm surge</a> begins to come inland. Within an hour of the center, the rain becomes very heavy and the highest winds within the tropical cyclone are experienced. When the center arrives with a strong tropical cyclone, weather conditions improve and the sun becomes visible as the <a href="/wiki/Eye_(cyclone)" title="Eye (cyclone)">eye</a> moves overhead. At this point, the pressure ceases to drop as the lowest pressure within the storm's center is reached. This is also when the peak depth of the storm surge occurs. Once the system departs, winds reverse and, along with the rain, suddenly increase. The storm surge retreats as the pressure suddenly rises in the wake of its center. One day after the center's passage, the low overcast is replaced with a higher overcast, and the rain becomes intermittent. By 36 hours after the center's passage, the high overcast breaks and the pressure begins to level off.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Basics">Basics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=3" title="Edit section: Basics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The large scale <a class="mw-redirect" href="/wiki/Synoptic_scale" title="Synoptic scale">synoptic scale</a> flow determines 70 to 90 percent of a tropical cyclone's motion. The deep-layered mean flow through the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a> is considered to be the best tool in determining track direction and speed. If storms experience significant vertical <a href="/wiki/Wind_shear" title="Wind shear">wind shear</a>, use of a lower level wind such as the 700 hPa pressure level (at a height of 3,000 metres (9,800 ft) above sea level) will work out as a better predictor. Knowledge of the beta effect can be used to steer a tropical cyclone, since it leads to a more northwest heading for tropical cyclones in the Northern Hemisphere due to differences in the coriolis force around the cyclone.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> For example, the beta effect will allow a tropical cyclone to track poleward and slightly to the right of the deep layer steering flow while the system lies the south of the subtropical ridge. Northwest moving storms move quicker and left, while northeast moving storms move slower and left. The larger the cyclone, the larger the impact of the beta effect is likely to be.<sup class="reference" id="cite_ref-NAVY_6-0"><a href="#cite_note-NAVY-6">[6]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Binaryinteraction.svg"><img alt="" class="thumbimage" data-file-height="247" data-file-width="414" height="149" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Binaryinteraction.svg/250px-Binaryinteraction.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Binaryinteraction.svg/375px-Binaryinteraction.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Binaryinteraction.svg/500px-Binaryinteraction.svg.png 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Binaryinteraction.svg" title="Enlarge"></a></div>
+Interaction of two typhoons</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Fujiwhara_effect">Fujiwhara effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=4" title="Edit section: Fujiwhara effect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Fujiwhara_effect" title="Fujiwhara effect">Fujiwhara effect</a></div>
+<p>When two or more tropical cyclones are in proximity to one another, they begin to rotate cyclonically around the midpoint between their circulation centers. In the northern hemisphere, this is in a counterclockwise direction, and in the southern hemisphere, a clockwise direction. Usually, the tropical cyclones need to be within 1,450 kilometres (900 mi) of each other for this effect to take place. It is a more common phenomenon in the northern Pacific Ocean than elsewhere, due to the higher frequency of tropical cyclone activity which occurs in that region.<sup class="reference" id="cite_ref-TBK_7-0"><a href="#cite_note-TBK-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Trochoidal_motions">Trochoidal motions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=5" title="Edit section: Trochoidal motions">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Small wobbles in a tropical cyclone's track can occur when the convection is distributed unevenly within its circulation. This can be due to changes in vertical wind shear or inner core structure.<sup class="reference" id="cite_ref-TBK_7-1"><a href="#cite_note-TBK-7">[7]</a></sup> Because of this effect, forecasters use a longer term (6 to 24 hours) motion to help forecast tropical cyclones, which acts to smooth out such wobbles.<sup class="reference" id="cite_ref-NAVY_6-1"><a href="#cite_note-NAVY-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Forecast_models">Forecast models</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=6" title="Edit section: Forecast models">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Ernesto2006modelspread.png"><img alt="" class="thumbimage" data-file-height="914" data-file-width="1282" height="178" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ernesto2006modelspread.png/250px-Ernesto2006modelspread.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ernesto2006modelspread.png/375px-Ernesto2006modelspread.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Ernesto2006modelspread.png/500px-Ernesto2006modelspread.png 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ernesto2006modelspread.png" title="Enlarge"></a></div>
+Significant errors in track still occur on occasion, as seen in one of <a href="/wiki/Hurricane_Ernesto_(2006)" title="Hurricane Ernesto (2006)">Ernesto's (2006)</a> early forecasts. The <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a>'s official forecast is in light blue.</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Tropical_cyclone_prediction_model" title="Tropical cyclone prediction model">Tropical cyclone prediction model</a></div>
+<p>High-speed computers and sophisticated simulation software allow <a class="mw-redirect" href="/wiki/Meteorologist" title="Meteorologist">meteorologists</a> to run <a class="mw-redirect" href="/wiki/Tropical_cyclone_prediction_model" title="Tropical cyclone prediction model">computer models</a> that forecast tropical cyclone tracks based on the future position and strength of high- and low-pressure systems. Combining forecast models with increased understanding of the forces that act on tropical cyclones, and a wealth of data from Earth-orbiting satellites and other sensors, scientists have increased the accuracy of track forecasts over recent decades.<sup class="reference" id="cite_ref-NHC_forecast_verifications_models_8-0"><a href="#cite_note-NHC_forecast_verifications_models-8">[8]</a></sup> The addition of <a href="/wiki/Dropsonde" title="Dropsonde">dropwindsonde</a> missions around tropical cyclones in what are known as synoptic flow missions in the Atlantic Basin decreased track error by 15–20 percent.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Using a consensus of forecast models, as well as ensemble members of the various models, can help reduce forecast error.<sup class="reference" id="cite_ref-TBK_7-2"><a href="#cite_note-TBK-7">[7]</a></sup> However, regardless how small the average error becomes, large errors within the guidance are still possible.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> An accurate track forecast is important, because if the track forecast is incorrect, forecasts for intensity, rainfall, storm surge, and tornado threat will also be incorrect.</p>
+<h2><span class="mw-headline" id="Length_of_forecast_period">Length of forecast period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=7" title="Edit section: Length of forecast period">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/History_of_Atlantic_tropical_cyclone_warnings" title="History of Atlantic tropical cyclone warnings">History of Atlantic tropical cyclone warnings</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Katrina2005forecast.GIF"><img alt="" class="thumbimage" data-file-height="716" data-file-width="895" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Katrina2005forecast.GIF/250px-Katrina2005forecast.GIF" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Katrina2005forecast.GIF/375px-Katrina2005forecast.GIF 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Katrina2005forecast.GIF/500px-Katrina2005forecast.GIF 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Katrina2005forecast.GIF" title="Enlarge"></a></div>
+A three-day <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a> track forecast for Katrina in 2005</div>
+</div>
+</div>
+<p>Forecasts within hurricane advisories were issued one day into the future in 1954 before being extended to two days into the future in 1961, and three days into the future in 1964.<sup class="reference" id="cite_ref-verify_11-0"><a href="#cite_note-verify-11">[11]</a></sup> Starting in the mid to late 1990s, research into tropical cyclones and how forecast models handle the systems led to substantial improvements in track error.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> By 2001, the error had reduced sufficiently to extend track out to 5 days in the future on public advisories. In addition, at 1700 UTC during the hurricane season, a medium-range coordination call takes place between the <a class="mw-redirect" href="/wiki/Hydrometeorological_Prediction_Center" title="Hydrometeorological Prediction Center">Hydrometeorological Prediction Center</a> and the <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a> to coordinate tropical cyclone placement on the medium-range pressure forecasts 6 and 7 days into the future for the northeast Pacific and Atlantic basins. Every so often, even at this time range, successful predictions can be made.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<p>In forecasts, the National Hurricane Center uses a track forecast cone for the graphical representation of the uncertainty in its forecasts of a tropical cyclone's future location. The cone represents the probable position of a tropical cyclone's <a href="/wiki/Eye_(cyclone)" title="Eye (cyclone)">circulation center</a>, and is made by drawing a set of <a href="/wiki/Circle" title="Circle">circles</a> centered at each forecast point—12, 24, 36, 48, and 72 hours for a three-day forecast, as well as 96 and 120 hours for a five-day forecast. The radius of each circle is equal to encompass two-thirds of the historical official forecast errors for the preceding five-year period. The cone is then constructed by drawing a <a class="mw-redirect" href="/wiki/Tangent_line" title="Tangent line">tangent line</a> that connects the outside boundary of all the circles. The National Hurricane Center states that the entire track of the tropical cyclone "can be expected to remain within the cone roughly 60–70% of the time."<sup class="reference" id="cite_ref-NHC_cone_14-0"><a href="#cite_note-NHC_cone-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2004" data-file-width="3032" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/32px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/48px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/64px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Tropical_cyclones" title="Portal:Tropical cyclones">Tropical cyclones portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Tropical_cyclone_forecasting" title="Tropical cyclone forecasting">Tropical cyclone forecasting</a></li>
+<li><a href="/wiki/Hebert_Box" title="Hebert Box">Hebert Box</a></li>
+</ul>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-WJ-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-WJ_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">William J. Kotsch (1983). <a class="external text" href="https://books.google.com/books?id=rlwuk6W-Uz4C&amp;pg=PA18&amp;lpg=PA18&amp;dq=new+orleans+hurricane+warning+center+history&amp;source=bl&amp;ots=l-K1vzXeZ1&amp;sig=Uwpj9GVH8N-aaw-wZquGGqUCZyg&amp;hl=en&amp;sa=X&amp;ei=71OdT5-jO-Tw6AGq1vThDg&amp;ved=0CGEQ6AEwCTgK#v=onepage&amp;q=new%20orleans%20hurricane%20warning%20center%20history&amp;f=false" rel="nofollow"><i>Weather For the Mariner</i></a>. Naval Institute Press. pp. 18–19. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780870217562" title="Special:BookSources/9780870217562">9780870217562</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATropical+cyclone+track+forecasting&amp;rft.au=William+J.+Kotsch&amp;rft.btitle=Weather+For+the+Mariner&amp;rft.date=1983&amp;rft.genre=book&amp;rft.isbn=9780870217562&amp;rft.pages=18-19&amp;rft.pub=Naval+Institute+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Drlwuk6W-Uz4C%26pg%3DPA18%26lpg%3DPA18%26dq%3Dnew%2Borleans%2Bhurricane%2Bwarning%2Bcenter%2Bhistory%26source%3Dbl%26ots%3Dl-K1vzXeZ1%26sig%3DUwpj9GVH8N-aaw-wZquGGqUCZyg%26hl%3Den%26sa%3DX%26ei%3D71OdT5-jO-Tw6AGq1vThDg%26ved%3D0CGEQ6AEwCTgK%23v%3Donepage%26q%3Dnew%2520orleans%2520hurricane%2520warning%2520center%2520history%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-wb59-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-wb59_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wb59_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Staff (June 1959). <a class="external text" href="http://docs.lib.noaa.gov/rescue/wb_topicsandpersonnel/1959.pdf" rel="nofollow">"WB Hurricane Forecasting Service"</a> <span style="font-size:85%;">(PDF)</span>. <i>Weather Bureau Topics</i>. <a class="mw-redirect" href="/wiki/United_States_Weather_Bureau" title="United States Weather Bureau">United States Weather Bureau</a>: 102–104<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-22</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATropical+cyclone+track+forecasting&amp;rft.atitle=WB+Hurricane+Forecasting+Service&amp;rft.au=Staff&amp;rft.date=1959-06&amp;rft.genre=article&amp;rft.jtitle=Weather+Bureau+Topics&amp;rft.pages=102-104&amp;rft_id=http%3A%2F%2Fdocs.lib.noaa.gov%2Frescue%2Fwb_topicsandpersonnel%2F1959.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-MWR_NHC_history-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-MWR_NHC_history_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-MWR_NHC_history_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Robert C. Sheets (June 1990). <a class="external text" href="http://journals.ametsoc.org/doi/pdf/10.1175/1520-0434%281990%29005%3C0185%3ATNHCPA%3E2.0.CO%3B2" rel="nofollow">"The National Hurricane Center—Past, Present and Future"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Weather_and_Forecasting" title="Weather and Forecasting">Weather and Forecasting</a></i>. <b>5</b> (2): 185. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1990WtFor...5..185S" rel="nofollow">1990WtFor...5..185S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0434%281990%29005%3C0185%3ATNHCPA%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0434(1990)005&lt;0185:TNHCPA&gt;2.0.CO;2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-12-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATropical+cyclone+track+forecasting&amp;rft.atitle=The+National+Hurricane+Center%E2%80%94Past%2C+Present+and+Future&amp;rft.au=Robert+C.+Sheets&amp;rft.date=1990-06&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Weather+and+Forecasting&amp;rft.pages=185&amp;rft.volume=5&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fpdf%2F10.1175%2F1520-0434%25281990%2529005%253C0185%253ATNHCPA%253E2.0.CO%253B2&amp;rft_id=info%3Abibcode%2F1990WtFor...5..185S&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0434%281990%29005%3C0185%3ATNHCPA%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Central_Pacific_Hurricane_Center" title="Central Pacific Hurricane Center">Central Pacific Hurricane Center</a>. <a class="external text" href="http://www.prh.noaa.gov/cphc/pages/FAQ/Observations.php" rel="nofollow">Tropical Cyclone Observations.</a> Retrieved on 2008-05-05.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Glossary of Meteorology. <a class="external text" href="http://amsglossary.allenpress.com/glossary/search?p=1&amp;query=beta+effect&amp;submit=Search" rel="nofollow">Beta Effect.</a> Retrieved on 2008-05-05.</span></li>
+<li id="cite_note-NAVY-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-NAVY_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NAVY_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">U. S. Navy. <a class="external text" href="http://www.nrlmry.navy.mil/~chu/chap4/se100.htm" rel="nofollow">SECTION 1. INFLUENCES ON TROPICAL CYCLONE MOTION.</a> Retrieved on 2007-04-10.</span></li>
+<li id="cite_note-TBK-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-TBK_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-TBK_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-TBK_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Todd Kimberlain. <a class="external text" href="http://www.wpc.ncep.noaa.gov/research/TropicalTalk.ppt" rel="nofollow">Tropical cyclone motion and intensity talk (June 2007).</a> Retrieved on 2007-07-21.</span></li>
+<li id="cite_note-NHC_forecast_verifications_models-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-NHC_forecast_verifications_models_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a> (May 22, 2006). <a class="external text" href="http://www.nhc.noaa.gov/verification/verify6.shtml?#FIG1" rel="nofollow">"Annual average model track errors for Atlantic basin tropical cyclones for the period 1994–2005, for a homogeneous selection of "early" models"</a>. <i>National Hurricane Center Forecast Verification</i>. <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-11-30</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATropical+cyclone+track+forecasting&amp;rft.atitle=Annual+average+model+track+errors+for+Atlantic+basin+tropical+cyclones+for+the+period+1994%E2%80%932005%2C+for+a+homogeneous+selection+of+%22early%22+models&amp;rft.au=National+Hurricane+Center&amp;rft.date=2006-05-22&amp;rft.genre=unknown&amp;rft.jtitle=National+Hurricane+Center+Forecast+Verification&amp;rft_id=http%3A%2F%2Fwww.nhc.noaa.gov%2Fverification%2Fverify6.shtml%3F%23FIG1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">B. Geerts. <a class="external text" href="http://www-das.uwyo.edu/~geerts/cwx/notes/chap13/tc_track.html" rel="nofollow">Tropical cyclone track forecasting.</a> Retrieved on 2007-04-10.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Richard J. Pasch, Mike Fiorino, and <a class="mw-redirect" href="/wiki/Chris_Landsea" title="Chris Landsea">Chris Landsea</a> (2006). <b>TPC/NHC'S Review of the NCEP Production Suite For 2006.</b> <a href="/wiki/Environmental_Modeling_Center" title="Environmental Modeling Center">Environmental Modeling Center</a>.</span></li>
+<li id="cite_note-verify-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-verify_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">James Franklin (2012-03-01). <a class="external text" href="http://www.nhc.noaa.gov/verification/verify2.shtml" rel="nofollow">"National Hurricane Center Forecast Verification"</a>. National Hurricane Center. p. 2<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATropical+cyclone+track+forecasting&amp;rft.au=James+Franklin&amp;rft.btitle=National+Hurricane+Center+Forecast+Verification&amp;rft.date=2012-03-01&amp;rft.genre=unknown&amp;rft.pages=2&amp;rft.pub=National+Hurricane+Center&amp;rft_id=http%3A%2F%2Fwww.nhc.noaa.gov%2Fverification%2Fverify2.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">James Franklin (2012-03-01). <a class="external text" href="http://www.nhc.noaa.gov/verification/verify6.shtml?#FIG1" rel="nofollow">Forecast verification trends over the past 35 years.</a> National Hurricane Center. p 6. Retrieved on 2007-05-05.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Department of Commerce (2006). <a class="external text" href="http://www.weather.gov/os/assessments/pdfs/Katrina.pdf" rel="nofollow">Hurricane Katrina Service Assessment.</a> <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a>. Retrieved on 2007-05-05.</span></li>
+<li id="cite_note-NHC_cone-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-NHC_cone_14-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a> (2008). <a class="external text" href="http://www.nhc.noaa.gov/aboutcone.shtml" rel="nofollow">"Definition of the NHC Track Forecast Cone"</a>. <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATropical+cyclone+track+forecasting&amp;rft.au=National+Hurricane+Center&amp;rft.btitle=Definition+of+the+NHC+Track+Forecast+Cone&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.nhc.noaa.gov%2Faboutcone.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.nhc.noaa.gov/modelsummary.shtml" rel="nofollow">Technical Summary of the National Hurricane Center Track and Intensity Models</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1279
+Cached time: 20170921033036
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.168 seconds
+Real time usage: 0.219 seconds
+Preprocessor visited node count: 644/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15744/2097152 bytes
+Template argument size: 284/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.072/10.000 seconds
+Lua memory usage: 4.27 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  176.250      1 -total
+ 40.51%   71.400      1 Template:Reflist
+ 24.09%   42.452      5 Template:Convert
+ 19.26%   33.951      1 Template:Cite_book
+ 16.72%   29.462      1 Template:Good_article
+ 16.10%   28.381      1 Template:Top_icon
+ 11.75%   20.701      1 Template:Category_handler
+  7.68%   13.539      3 Template:See_also
+  6.02%   10.609      3 Template:Cite_web
+  4.47%    7.887      2 Template:Cite_journal
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:11052024-0!canonical and timestamp 20170921033035 and revision id 757181523
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tropical_cyclone_track_forecasting&amp;oldid=757181523">https://en.wikipedia.org/w/index.php?title=Tropical_cyclone_track_forecasting&amp;oldid=757181523</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tropical_cyclone_meteorology" title="Category:Tropical cyclone meteorology">Tropical cyclone meteorology</a></li><li><a href="/wiki/Category:Numerical_climate_and_weather_models" title="Category:Numerical climate and weather models">Numerical climate and weather models</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tropical+cyclone+track+forecasting" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tropical+cyclone+track+forecasting" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Tropical_cyclone_track_forecasting" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Tropical_cyclone_track_forecasting" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Tropical_cyclone_track_forecasting">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Tropical_cyclone_track_forecasting" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tropical_cyclone_track_forecasting" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;oldid=757181523" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7846155" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tropical_cyclone_track_forecasting&amp;id=757181523" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tropical+cyclone+track+forecasting">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tropical+cyclone+track+forecasting&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DTropical%2Bcyclone%2Btrack%2Bforecasting%26returnto%3DTropical%2Bcyclone%2Btrack%2Bforecasting%26oldid%3D757181523%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Tropical_cyclone_track_forecasting&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7846155#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 29 December 2016, at 07:25.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tropical_cyclone_track_forecasting&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.168","walltime":"0.219","ppvisitednodes":{"value":644,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15744,"limit":2097152},"templateargumentsize":{"value":284,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  176.250      1 -total"," 40.51%   71.400      1 Template:Reflist"," 24.09%   42.452      5 Template:Convert"," 19.26%   33.951      1 Template:Cite_book"," 16.72%   29.462      1 Template:Good_article"," 16.10%   28.381      1 Template:Top_icon"," 11.75%   20.701      1 Template:Category_handler","  7.68%   13.539      3 Template:See_also","  6.02%   10.609      3 Template:Cite_web","  4.47%    7.887      2 Template:Cite_journal"]},"scribunto":{"limitreport-timeusage":{"value":"0.072","limit":"10.000"},"limitreport-memusage":{"value":4474655,"limit":52428800}},"cachereport":{"origin":"mw1279","timestamp":"20170921033036","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1214"});});</script>
+</body>
+</html>

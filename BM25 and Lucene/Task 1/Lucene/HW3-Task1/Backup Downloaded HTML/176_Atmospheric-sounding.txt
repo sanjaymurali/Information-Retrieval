@@ -1,0 +1,432 @@
+https://en.wikipedia.org/wiki/Atmospheric_sounding
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Atmospheric sounding - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Atmospheric_sounding","wgTitle":"Atmospheric sounding","wgCurRevisionId":768744851,"wgRevisionId":768744851,"wgArticleId":5145147,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles with GND identifiers","Atmospheric thermodynamics","Diagrams"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Atmospheric_sounding","wgRelevantArticleId":5145147,"wgRequestId":"WdPT4wpAMFEAAJ@tuKAAAAAR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q381517","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Atmospheric_sounding" rel="alternate"/>
+<link href="/w/index.php?title=Atmospheric_sounding&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Atmospheric_sounding&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Atmospheric_sounding" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Atmospheric_sounding rootpage-Atmospheric_sounding vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Atmospheric sounding</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>An <b>atmospheric sounding</b> is a measurement of vertical distribution of physical properties of the <a href="/wiki/Atmosphere" title="Atmosphere">atmospheric</a> column such as <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">pressure</a>, <a href="/wiki/Temperature" title="Temperature">temperature</a>, <a href="/wiki/Wind_speed" title="Wind speed">wind speed</a> and <a href="/wiki/Wind_direction" title="Wind direction">wind direction</a> (thus deriving <a href="/wiki/Wind_shear" title="Wind shear">wind shear</a>), liquid water content, <a href="/wiki/Ozone" title="Ozone">ozone</a> concentration, pollution, and other properties. Such measurements are performed in a variety of ways including <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a> and <a href="/wiki/In_situ#Earth_and_atmospheric_sciences" title="In situ">in situ</a> observations.</p>
+<p>The most common in situ sounding is a <a href="/wiki/Radiosonde" title="Radiosonde">radiosonde</a>, which usually is a <a href="/wiki/Weather_balloon" title="Weather balloon">weather balloon</a>, but can also be a <a href="/wiki/Rocketsonde" title="Rocketsonde">rocketsonde</a>.</p>
+<p>Remote sensing soundings generally use passive <a href="/wiki/Infrared" title="Infrared">infrared</a> and <a href="/wiki/Microwave" title="Microwave">microwave</a> <a href="/wiki/Radiometer" title="Radiometer">radiometers</a>:</p>
+<ul>
+<li>airborne instruments</li>
+<li>surface stations</li>
+<li>Earth-observing satellite instruments such as <a href="/wiki/Atmospheric_Infrared_Sounder" title="Atmospheric Infrared Sounder">AIRS</a> and <a href="/wiki/Advanced_Microwave_Sounding_Unit" title="Advanced Microwave Sounding Unit">AMSU</a></li>
+<li>observation of atmospheres on different planets, such as the <a class="mw-redirect" href="/wiki/Mars_climate_sounder" title="Mars climate sounder">Mars climate sounder</a> on the <a href="/wiki/Mars_Reconnaissance_Orbiter" title="Mars Reconnaissance Orbiter">Mars Reconnaissance Orbiter</a></li>
+</ul>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Direct_methods"><span class="tocnumber">1</span> <span class="toctext">Direct methods</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Indirect_methods"><span class="tocnumber">2</span> <span class="toctext">Indirect methods</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Viewing_geometry"><span class="tocnumber">2.1</span> <span class="toctext">Viewing geometry</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Atmospheric_inverse_problem"><span class="tocnumber">3</span> <span class="toctext">Atmospheric inverse problem</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Statement_of_the_problem"><span class="tocnumber">3.1</span> <span class="toctext">Statement of the problem</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Methods_of_solution"><span class="tocnumber">3.2</span> <span class="toctext">Methods of solution</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#List_of_methods"><span class="tocnumber">4</span> <span class="toctext">List of methods</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Direct_methods">Direct methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=1" title="Edit section: Direct methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sensors that measure atmospheric constituents directly, such as thermometers, barometers, and humidity sensors, can be sent aloft on balloons, rockets or <a href="/wiki/Dropsonde" title="Dropsonde">dropsondes</a>. They can also be carried on the outer hulls of ships and aircraft or even mounted on towers. In this case, all that is needed to capture the measurements are storage devices and/or <a href="/wiki/Transponder" title="Transponder">transponders</a>.</p>
+<h2><span class="mw-headline" id="Indirect_methods">Indirect methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=2" title="Edit section: Indirect methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The more challenging case involves sensors, primarily satellite-mounted, such as <a class="mw-redirect" href="/wiki/Radiometers" title="Radiometers">radiometers</a>, optical sensors, <a href="/wiki/Radar" title="Radar">radar</a>, <a href="/wiki/Lidar" title="Lidar">lidar</a> and <a href="/wiki/Ceilometer" title="Ceilometer">ceilometer</a> as well as <a class="mw-redirect" href="/wiki/Sodar" title="Sodar">sodar</a> since these cannot measure the quantity of interest, such as temperature, pressure, humidity etc., directly. By understanding emission and absorption processes, we can figure out what the instrument is looking at between the layers of atmosphere. While this type of instrument can also be operated from ground stations or vehicles—optical methods can also be used inside in situ instruments—satellite instruments are particularly important because of their extensive, regular coverage. The <a href="/wiki/Advanced_Microwave_Sounding_Unit" title="Advanced Microwave Sounding Unit">AMSU</a> instruments on three <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a> and two <a href="/wiki/EUMETSAT" title="EUMETSAT">EUMETSAT</a> satellites, for instance, can sample the entire globe at better than one degree resolution in less than a day.</p>
+<p>We can distinguish between two broad classes of sensor: <i>active</i>, such as <a href="/wiki/Radar" title="Radar">radar</a>, that have their own source, and <i>passive</i> that only detect what is already there. There can be a variety of sources for a passive instrument, including scattered radiation, light emitted directly from the sun, moon or stars—both more appropriate in the visual or ultra-violet range—as well light emitted from warm objects, which is more appropriate in the microwave and infrared.</p>
+<h3><span class="mw-headline" id="Viewing_geometry">Viewing geometry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=3" title="Edit section: Viewing geometry">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A limb sounder looks at the edge of the atmosphere where it is visible above the Earth. It does this in one of two ways: either it tracks the sun, moon, a star, or another transmitting satellite through the limb as the source gets <a href="/wiki/Occultation" title="Occultation">occultated</a> behind the Earth, or it looks towards empty space, collecting radiation that is scattered from one of these sources. In contrast, a <a href="/wiki/Nadir" title="Nadir">nadir</a>-looking atmospheric sounder looks down through the atmosphere at the surface. The <a href="/wiki/SCIAMACHY" title="SCIAMACHY">SCIAMACHY</a> instrument operates in all three of these modes.</p>
+<h2><span class="mw-headline" id="Atmospheric_inverse_problem">Atmospheric inverse problem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=4" title="Edit section: Atmospheric inverse problem">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Statement_of_the_problem">Statement of the problem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=5" title="Edit section: Statement of the problem">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The following applies mainly to passive sensors, but has some applicability to active sensors.</p>
+<p>Typically, there is a vector of values of the quantity to be retrieved, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {x}}}</annotation>
+</semantics>
+</math></span><img alt="{\vec {x}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/db2dc6ced9cc3bc7e8b9f2707cbec033f6d3759c" style="vertical-align: -0.338ex; width:1.34ex; height:2.343ex;"/></span>, called the <b>state vector</b> and a vector of measurements, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>y</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {y}}}</annotation>
+</semantics>
+</math></span><img alt="\vec y" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5f0c914c24b65c8c8b48ddbc6acbc092d5458c4b" style="vertical-align: -0.671ex; width:1.27ex; height:2.676ex;"/></span>. The state vector could be temperatures, ozone number densities, humidities etc. The measurement vector is typically counts, radiances or brightness temperatures from a radiometer or similar detector but could include any other quantity germain to the problem. The <b>forward model</b> maps the state vector to the measurement vector:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>y</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>f</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {y}}={\vec {f}}({\vec {x}})}</annotation>
+</semantics>
+</math></span><img alt="{\vec  y}={\vec  f}({\vec  x})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bb362effd91ec77043e1382838fabaed70343dfb" style="vertical-align: -0.838ex; width:9.219ex; height:3.509ex;"/></span></dd>
+</dl>
+<p>Usually the mapping, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>f</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {f}}}</annotation>
+</semantics>
+</math></span><img alt="\vec f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b2c36da6dad4ad8949b0f84bbaf0b5cb6d811fe5" style="vertical-align: -0.671ex; width:1.67ex; height:3.343ex;"/></span>, is known from physical first principles, but this may not always be the case. Instead, it may only be known <a class="mw-redirect" href="/wiki/Empirical" title="Empirical">empirically</a>, by matching actual measurements with actual states. Satellite and many other <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a> instruments do not measure the relevant physical properties, that is the state, but rather the amount of radiation emitted in a particular direction, at a particular frequency. It is usually easy to go from the state space to the measurement space—for instance with <a class="mw-redirect" href="/wiki/Beer%27s_law" title="Beer's law">Beer's law</a> or <a href="/wiki/Radiative_transfer" title="Radiative transfer">radiative transfer</a>—but not the other way around, therefore we need some method of <a href="/wiki/Inverse_problem" title="Inverse problem">inverting</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>f</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {f}}}</annotation>
+</semantics>
+</math></span><img alt="\vec f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b2c36da6dad4ad8949b0f84bbaf0b5cb6d811fe5" style="vertical-align: -0.671ex; width:1.67ex; height:3.343ex;"/></span> or of finding the <b>inverse model</b>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>f</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {f}}^{-1}}</annotation>
+</semantics>
+</math></span><img alt="{\vec  f}^{{-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/928e18ed5ba90f5f02682199d3da5f115b4c188c" style="vertical-align: -0.671ex; width:4.018ex; height:3.843ex;"/></span>.</p>
+<h3><span class="mw-headline" id="Methods_of_solution">Methods of solution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=6" title="Edit section: Methods of solution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the problem is <a class="mw-redirect" href="/wiki/Linear" title="Linear">linear</a> we can use some type of matrix inverse method—often the problem is <a class="mw-redirect" href="/wiki/Ill-posed" title="Ill-posed">ill-posed</a> or <a class="mw-redirect" href="/wiki/Numerical_instability" title="Numerical instability">unstable</a> so we will need to <a href="/wiki/Regularization_(mathematics)" title="Regularization (mathematics)">regularize</a> it: good, simple methods include the <a class="mw-redirect" href="/wiki/Normal_equation" title="Normal equation">normal equation</a> or <a href="/wiki/Singular_value_decomposition" title="Singular value decomposition">singular value decomposition</a>. If the problem is weakly nonlinear, an iterative method such <a class="mw-redirect" href="/wiki/Newton-Raphson" title="Newton-Raphson">Newton-Raphson</a> may be appropriate.</p>
+<p>Sometimes the physics is too complicated to model accurately or the forward model too slow to be used effectively in the inverse method. In this case, <a class="mw-redirect" href="/wiki/Statistical" title="Statistical">statistical</a> or <a href="/wiki/Machine_learning" title="Machine learning">machine learning</a> methods such as <a href="/wiki/Linear_regression" title="Linear regression">linear regression</a>, <a class="mw-redirect" href="/wiki/Neural_networks" title="Neural networks">neural networks</a>, <a href="/wiki/Statistical_classification" title="Statistical classification">statistical classification</a>, <a class="mw-redirect" href="/wiki/Kernel_estimation" title="Kernel estimation">kernel estimation</a>, etc. can be used to form an inverse model based on a collection of ordered pairs of samples mapping the state space to the measurement space, that is, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo fence="false" stretchy="false">{</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>:</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>y</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo fence="false" stretchy="false">}</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lbrace {\vec {x}}:{\vec {y}}\rbrace }</annotation>
+</semantics>
+</math></span><img alt="\lbrace {\vec  x}:{\vec  y}\rbrace " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/83926ea1335a1cd75699e320644b3f0b985cc2b9" style="vertical-align: -0.838ex; width:6.903ex; height:2.843ex;"/></span>. These can be generated either from models—e.g. state vectors from dynamical models and measurement vectors from radiative transfer or similar forward models—or from direct, empirical measurement. Other times when a statistical method might be more appropriate include highly <a class="mw-redirect" href="/wiki/Nonlinear" title="Nonlinear">nonlinear</a> problems.</p>
+<h2><span class="mw-headline" id="List_of_methods">List of methods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=7" title="Edit section: List of methods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Differential_absorption_spectroscopy" title="Differential absorption spectroscopy">Differential absorption spectroscopy</a></li>
+<li><a href="/wiki/Isoline_retrieval" title="Isoline retrieval">Isoline retrieval</a></li>
+<li><a href="/wiki/Optimal_estimation" title="Optimal estimation">Optimal estimation</a></li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Inverse_problems" title="Inverse problems">Inverse problems</a></li>
+<li><a href="/wiki/Collocation_(remote_sensing)" title="Collocation (remote sensing)">Collocation (remote sensing)</a></li>
+<li><a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">Thermodynamic diagrams</a></li>
+<li><a href="/wiki/Skew-T_log-P_diagram" title="Skew-T log-P diagram">Skew-T log-P diagram</a></li>
+<li><a class="mw-redirect" href="/wiki/Atmospheric_sounder" title="Atmospheric sounder">Atmospheric sounder</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Egbert Boeker and Rienk van Grondelle (2000). <i>Environmental Physics</i> (2nd ed.). Wiley.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+sounding&amp;rft.au=Egbert+Boeker+and+Rienk+van+Grondelle&amp;rft.btitle=Environmental+Physics&amp;rft.date=2000&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.pub=Wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Clive D. Rodgers (2000). <i>Inverse Methods for Atmospheric Sounding: Theory and Practice</i>. World Scientific.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtmospheric+sounding&amp;rft.au=Clive+D.+Rodgers&amp;rft.btitle=Inverse+Methods+for+Atmospheric+Sounding%3A+Theory+and+Practice&amp;rft.date=2000&amp;rft.genre=book&amp;rft.pub=World+Scientific&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atmospheric_sounding&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://weather.uwyo.edu/upperair/sounding.html" rel="nofollow">University of Wyoming Atmospheric Soundings</a></li>
+</ul>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4192029-6" rel="nofollow">4192029-6</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20170912142146
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.084 seconds
+Real time usage: 0.179 seconds
+Preprocessor visited node count: 191/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3270/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 4/40
+Expensive parser function count: 0/500
+Lua time usage: 0.039/10.000 seconds
+Lua memory usage: 1.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   80.984      1 -total
+ 62.52%   50.635      2 Template:Cite_book
+ 37.17%   30.103      1 Template:Authority_control
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5145147-0!canonical!math=5 and timestamp 20170912142145 and revision id 768744851
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Atmospheric_sounding&amp;oldid=768744851">https://en.wikipedia.org/w/index.php?title=Atmospheric_sounding&amp;oldid=768744851</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_thermodynamics" title="Category:Atmospheric thermodynamics">Atmospheric thermodynamics</a></li><li><a href="/wiki/Category:Diagrams" title="Category:Diagrams">Diagrams</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Atmospheric+sounding" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Atmospheric+sounding" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Atmospheric_sounding" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Atmospheric_sounding" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Atmospheric_sounding">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Atmospheric_sounding&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Atmospheric_sounding&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Atmospheric_sounding" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Atmospheric_sounding" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Atmospheric_sounding&amp;oldid=768744851" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Atmospheric_sounding&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q381517" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Atmospheric_sounding&amp;id=768744851" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Atmospheric+sounding">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Atmospheric+sounding&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAtmospheric%2Bsounding%26returnto%3DAtmospheric%2Bsounding%26oldid%3D768744851%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Atmospheric_sounding&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Aerologiya" hreflang="az" lang="az" title="Aerologiya – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Aerologie" hreflang="cs" lang="cs" title="Aerologie – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Aerologi" hreflang="da" lang="da" title="Aerologi – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Aerologie" hreflang="de" lang="de" title="Aerologie – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Aerolog%C3%ADa" hreflang="es" lang="es" title="Aerología – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Aerologia" hreflang="eu" lang="eu" title="Aerologia – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/A%C3%A9rologie" hreflang="fr" lang="fr" title="Aérologie – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Aerolox%C3%ADa" hreflang="gl" lang="gl" title="Aeroloxía – Galician">Galego</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%A5%D6%80%D5%B8%D5%AC%D5%B8%D5%A3%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Աերոլոգիա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Aerologi" hreflang="id" lang="id" title="Aerologi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/A%C3%A9rologi" hreflang="jv" lang="jv" title="Aérologi – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%94%E1%83%A0%E1%83%9D%E1%83%9A%E1%83%9D%E1%83%92%E1%83%98%E1%83%90" hreflang="ka" lang="ka" title="აეროლოგია – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D1%8D%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Аэрология – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Aerologie" hreflang="nl" lang="nl" title="Aerologie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/Skew-T_log-P%E5%9B%B3" hreflang="ja" lang="ja" title="Skew-T log-P図 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Aerologi" hreflang="nn" lang="nn" title="Aerologi – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Aerologiya" hreflang="uz" lang="uz" title="Aerologiya – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Sonda%C5%BC_atmosferyczny" hreflang="pl" lang="pl" title="Sondaż atmosferyczny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Aerologia" hreflang="pt" lang="pt" title="Aerologia – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Aerologie" hreflang="ro" lang="ro" title="Aerologie – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D1%8D%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Аэрология – Russian">Русский</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Aerologjia" hreflang="sq" lang="sq" title="Aerologjia – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Aerol%C3%B3gia" hreflang="sk" lang="sk" title="Aerológia – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Aerologia" hreflang="fi" lang="fi" title="Aerologia – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Aerologi" hreflang="sv" lang="sv" title="Aerologi – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Aeroloji" hreflang="tr" lang="tr" title="Aeroloji – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%B5%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%8F" hreflang="uk" lang="uk" title="Аерологія – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q381517#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 5 March 2017, at 15:10.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Atmospheric_sounding&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.084","walltime":"0.179","ppvisitednodes":{"value":191,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3270,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":4,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   80.984      1 -total"," 62.52%   50.635      2 Template:Cite_book"," 37.17%   30.103      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.039","limit":"10.000"},"limitreport-memusage":{"value":1742566,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20170912142146","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1246"});});</script>
+</body>
+</html>

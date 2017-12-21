@@ -1,0 +1,288 @@
+https://en.wikipedia.org/wiki/Orbital_decay
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Orbital decay - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orbital_decay","wgTitle":"Orbital decay","wgCurRevisionId":797806933,"wgRevisionId":797806933,"wgArticleId":723031,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from November 2014","Articles with unsourced statements from January 2010","Articles with unsourced statements from November 2016","Articles needing additional references from February 2014","All articles needing additional references","Wikipedia articles needing clarification from February 2014","Articles to be expanded from February 2014","All articles to be expanded","Articles using small message boxes","Effects of gravitation","Orbits","Black holes"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Orbital_decay","wgRelevantArticleId":723031,"wgRequestId":"WdUP1QpAAEIAAD7jETkAAABH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2918240","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Orbital_decay" rel="alternate"/>
+<link href="/w/index.php?title=Orbital_decay&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Orbital_decay&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Orbital_decay" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Orbital_decay rootpage-Orbital_decay vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Orbital decay</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"Decaying Orbit" redirects here. For the 2007 film, see <a href="/wiki/Decaying_Orbit_(film)" title="Decaying Orbit (film)">Decaying Orbit (film)</a>.</div>
+<p>In <a href="/wiki/Orbital_mechanics" title="Orbital mechanics">orbital mechanics</a>, <b>decay</b> is a process that leads to gradual decrease of the <a href="/wiki/Distance" title="Distance">distance</a> between two <a href="/wiki/Orbit" title="Orbit">orbiting</a> bodies at their closest approach (the <a class="mw-redirect" href="/wiki/Periapsis" title="Periapsis">periapsis</a>) over many orbital periods. These orbiting bodies can be a <a href="/wiki/Planet" title="Planet">planet</a> and its <a href="/wiki/Satellite" title="Satellite">satellite</a>, a <a href="/wiki/Star" title="Star">star</a> and any object orbiting it, or components of any <a class="mw-redirect" href="/wiki/Binary_system_(astronomy)" title="Binary system (astronomy)">binary system</a>. The orbital decay can be caused by a multitude of <a href="/wiki/Mechanics" title="Mechanics">mechanical</a>, <a class="mw-redirect" href="/wiki/Gravitation" title="Gravitation">gravitational</a>, and <a class="mw-redirect" href="/wiki/Electromagnetic_interaction" title="Electromagnetic interaction">electromagnetic</a> effects. For bodies in a <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">low Earth orbit</a>, the most significant effect is the <a class="mw-redirect" href="/wiki/Atmospheric_drag" title="Atmospheric drag">atmospheric drag</a>.</p>
+<p>If left unchecked, the decay eventually results in termination of the orbit where the smaller object <a href="/wiki/Collision" title="Collision">strikes</a> the surface of the primary; or for objects where the primary has an atmosphere, the smaller object <a href="/wiki/Atmospheric_entry" title="Atmospheric entry">burns, explodes, or otherwise breaks up</a> in the larger object's <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>; or for objects where the primary is a star, ends with incineration by the star's radiation (such as for <a href="/wiki/Comet" title="Comet">comets</a>), and so on.</p>
+<p>Collisions and mergers of two stellar-mass objects usually produce cataclysmic effects;<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources in the body of the article. (November 2014)">not verified in body</span></a></i>]</sup> see <a href="/wiki/Stellar_collision" title="Stellar collision">stellar collision</a> and <a href="/wiki/Gamma-ray_burst" title="Gamma-ray burst">gamma-ray burst</a>.</p>
+<p>Due to atmospheric drag, the lowest altitude above the <a href="/wiki/Earth" title="Earth">Earth</a> at which an object in a circular orbit can complete at least one full revolution without propulsion is approximately 150 km (90 mi).</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Causes"><span class="tocnumber">1</span> <span class="toctext">Causes</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Atmospheric_drag"><span class="tocnumber">1.1</span> <span class="toctext">Atmospheric drag</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Tidal_effects"><span class="tocnumber">1.2</span> <span class="toctext">Tidal effects</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Light_and_thermal_radiation"><span class="tocnumber">1.3</span> <span class="toctext">Light and thermal radiation</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Gravitational_radiation"><span class="tocnumber">1.4</span> <span class="toctext">Gravitational radiation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Stellar_collision"><span class="tocnumber">2</span> <span class="toctext">Stellar collision</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Mass_concentration"><span class="tocnumber">3</span> <span class="toctext">Mass concentration</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Causes">Causes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_decay&amp;action=edit&amp;section=1" title="Edit section: Causes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Atmospheric_drag">Atmospheric drag</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_decay&amp;action=edit&amp;section=2" title="Edit section: Atmospheric drag">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a class="mw-redirect" href="/wiki/Atmospheric_drag" title="Atmospheric drag">Atmospheric drag</a></div>
+<p>Atmospheric drag at orbital altitude is caused by frequent collisions of gas <a href="/wiki/Molecule" title="Molecule">molecules</a> with the satellite. It is the major cause of orbital decay for satellites in <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">low Earth orbit</a>. It results in the reduction in the <a href="/wiki/Altitude" title="Altitude">altitude</a> of a satellite's orbit. For the case of Earth, atmospheric drag resulting in satellite re-entry can be described by the following sequence:</p>
+<dl>
+<dd>lower altitude → denser atmosphere → increased drag → increased heat → usually burns on re-entry</dd>
+</dl>
+<p>Orbital decay thus involves a positive feedback effect, where the more the orbit decays, the lower its altitude drops, and the lower the altitude, the faster the decay. Decay is also particularly sensitive to external factors of the space environment such as solar activity, which are not very predictable. During <a class="mw-redirect" href="/wiki/Sunspots" title="Sunspots">solar maxima</a> the Earth's atmosphere causes significant drag up to a hundred kilometers higher than during <a class="mw-redirect" href="/wiki/Solar_minima" title="Solar minima">solar minima</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2010)">citation needed</span></a></i>]</sup></p>
+<p>Atmospheric drag exerts a significant effect at the altitudes of <a href="/wiki/Space_station" title="Space station">space stations</a>, <a class="mw-redirect" href="/wiki/Space_shuttle" title="Space shuttle">space shuttles</a> and other manned Earth-orbit spacecraft, and satellites with relatively high "low earth orbits" such as the <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">Hubble Space Telescope</a>. Space stations typically require a regular altitude boost to counteract orbital decay (see also <a href="/wiki/Orbital_station-keeping" title="Orbital station-keeping">orbital station-keeping</a>). Uncontrolled orbital decay brought down the <a href="/wiki/Skylab" title="Skylab">Skylab</a> space station, and (relatively) controlled orbital decay was used to de-orbit the <a href="/wiki/Mir" title="Mir">Mir</a> space station.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>]</sup></p>
+<p>Regular orbital boosts are also needed by the Hubble Space Telescope, though on a longer time scale, due to its much higher altitude. However, orbital decay is also a limiting factor to the length of time the Hubble can go without a maintenance rendezvous, the most recent performed successfully by <a href="/wiki/STS-125" title="STS-125">STS-125</a>, with space shuttle <i>Atlantis</i> launching May 11, 2009, though newer telescopes are in much higher orbits or in some cases in solar orbit, so orbital boosting may not be needed.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Tidal_effects">Tidal effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_decay&amp;action=edit&amp;section=3" title="Edit section: Tidal effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Orbital_decay&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(February 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Tidal_locking" title="Tidal locking">Tidal locking</a></div>
+<p>An orbit can also decay by <a href="/wiki/Tide" title="Tide">tidal</a> effects when the orbiting body is large enough to raise a significant <a class="mw-redirect" href="/wiki/Tidal_bulge" title="Tidal bulge">tidal bulge</a><sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (February 2014)">clarification needed</span></a></i>]</sup> on the body it is orbiting and is either in a <a class="mw-redirect" href="/wiki/Retrograde_orbit" title="Retrograde orbit">retrograde orbit</a> or is below the <a href="/wiki/Synchronous_orbit" title="Synchronous orbit">synchronous orbit</a>. The resulting tidal interaction saps momentum from the orbiting body and transfers it to the primary's rotation, lowering the orbit's altitude until frictional effects come into play.</p>
+<p>Examples of satellites undergoing tidal orbital decay are Mars' moon <a href="/wiki/Phobos_(moon)" title="Phobos (moon)">Phobos</a>, Neptune's moon <a href="/wiki/Triton_(moon)" title="Triton (moon)">Triton</a>, and the extrasolar planet <a href="/wiki/TrES-3b" title="TrES-3b">TrES-3b</a>.</p>
+<h3><span class="mw-headline" id="Light_and_thermal_radiation">Light and thermal radiation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_decay&amp;action=edit&amp;section=4" title="Edit section: Light and thermal radiation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Poynting%E2%80%93Robertson_effect" title="Poynting–Robertson effect">Poynting–Robertson effect</a> and <a href="/wiki/Yarkovsky_effect" title="Yarkovsky effect">Yarkovsky effect</a></div>
+<p>Small bodies of the <a href="/wiki/Solar_System" title="Solar System">Solar System</a> also experience an orbital decay.</p>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg"><img alt="[icon]" data-file-height="31" data-file-width="44" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/></a></td>
+<td class="mbox-text">
+<div class="mbox-text-span"><b>This section needs expansion</b>. <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Orbital_decay&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(February 2014)</i></small></div>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Gravitational_radiation">Gravitational radiation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_decay&amp;action=edit&amp;section=5" title="Edit section: Gravitational radiation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Two-body_problem_in_general_relativity" title="Two-body problem in general relativity">Two-body problem in general relativity</a></div>
+<p><a class="mw-redirect" href="/wiki/Gravitational_radiation" title="Gravitational radiation">Gravitational radiation</a> is another mechanism of orbital decay. It is negligible for orbits of planets and planetary satellites, but is noticeable for systems of <a href="/wiki/Compact_star" title="Compact star">compact objects</a>, as seen in observations of neutron star orbits.</p>
+<h2><span class="mw-headline" id="Stellar_collision">Stellar collision</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_decay&amp;action=edit&amp;section=6" title="Edit section: Stellar collision">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Stellar_collision" title="Stellar collision">Stellar collision</a></div>
+<p>The coming together of two <a class="mw-redirect" href="/wiki/Binary_stars" title="Binary stars">binary stars</a> when they lose energy and approach each other. Several things can cause the loss of energy including <a href="/wiki/Tidal_force" title="Tidal force">tidal forces</a>, <a href="/wiki/Roche_lobe" title="Roche lobe">mass transfer</a>, and <a class="mw-redirect" href="/wiki/Gravitational_radiation" title="Gravitational radiation">gravitational radiation</a>. The stars describe the path of a <a href="/wiki/Spiral" title="Spiral">spiral</a> as they approach each other. This sometimes results in a merger of the two stars or the creation of a <a href="/wiki/Black_hole" title="Black hole">black hole</a>. The last several revolutions of the stars around each other take only a few seconds in the latter case.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Mass_concentration">Mass concentration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_decay&amp;action=edit&amp;section=7" title="Edit section: Mass concentration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Mass_concentration_(astronomy)" title="Mass concentration (astronomy)">Mass concentration (astronomy)</a></div>
+<p>While not a direct cause of orbital decay, uneven mass distributions (known as <i>mascons</i>) of the body being orbited can perturb orbits over time, and extreme distributions can cause orbits to be highly unstable. The resulting unstable orbit can mutate into an orbit where one of the direct causes of orbital decay can take place.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_decay&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://hubble.nasa.gov/missions/sm4.html" rel="nofollow">The Hubble Program - Servicing Missions - SM4</a></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.ligo.org/science/GW-Inspiral.php" rel="nofollow">"INSPIRAL GRAVITATIONAL WAVES"</a>. <i>LIGO</i><span class="reference-accessdate">. Retrieved <span class="nowrap">1 May</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+decay&amp;rft.atitle=INSPIRAL+GRAVITATIONAL+WAVES&amp;rft.genre=unknown&amp;rft.jtitle=LIGO&amp;rft_id=http%3A%2F%2Fwww.ligo.org%2Fscience%2FGW-Inspiral.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<ul>
+<li><a class="external text" href="http://www.ips.gov.au/Category/Educational/Space%20Weather/Space%20Weather%20Effects/SatelliteOrbitalDecayCalculations.pdf" rel="nofollow">Orbital decay calculations, with discussion and examples</a></li>
+</ul>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg"><img alt="icon" class="noviewer" data-file-height="303" data-file-width="266" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/25px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/37px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg/49px-Stylised_atom_with_three_Bohr_model_orbits_and_stylised_nucleus.svg.png 2x" width="25"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Physics" title="Portal:Physics">Physics portal</a></span></li>
+</ul>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20171004164405
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.218 seconds
+Preprocessor visited node count: 911/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21826/2097152 bytes
+Template argument size: 2171/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 7/500
+Lua time usage: 0.081/10.000 seconds
+Lua memory usage: 2.58 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  193.177      1 -total
+ 28.74%   55.512      3 Template:Fix
+ 20.94%   40.460      1 Template:Citation_needed_lead
+ 20.50%   39.595      1 Template:Reflist
+ 15.97%   30.850      1 Template:Cite_web
+ 15.94%   30.793      7 Template:Category_handler
+ 14.47%   27.959      4 Template:Delink
+ 14.28%   27.592      1 Template:Redirect
+ 12.21%   23.581      2 Template:Citation_needed
+  8.07%   15.589      1 Template:Clarify
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:723031-0!canonical and timestamp 20171004164405 and revision id 797806933
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Orbital_decay&amp;oldid=797806933">https://en.wikipedia.org/w/index.php?title=Orbital_decay&amp;oldid=797806933</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Effects_of_gravitation" title="Category:Effects of gravitation">Effects of gravitation</a></li><li><a href="/wiki/Category:Orbits" title="Category:Orbits">Orbits</a></li><li><a href="/wiki/Category:Black_holes" title="Category:Black holes">Black holes</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2014" title="Category:Articles with unsourced statements from November 2014">Articles with unsourced statements from November 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2010" title="Category:Articles with unsourced statements from January 2010">Articles with unsourced statements from January 2010</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">Articles with unsourced statements from November 2016</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2014" title="Category:Articles needing additional references from February 2014">Articles needing additional references from February 2014</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_February_2014" title="Category:Wikipedia articles needing clarification from February 2014">Wikipedia articles needing clarification from February 2014</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_February_2014" title="Category:Articles to be expanded from February 2014">Articles to be expanded from February 2014</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Orbital+decay" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Orbital+decay" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Orbital_decay" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Orbital_decay" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Orbital_decay">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Orbital_decay&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Orbital_decay&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Orbital_decay" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Orbital_decay" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Orbital_decay&amp;oldid=797806933" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Orbital_decay&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2918240" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Orbital_decay&amp;id=797806933" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Orbital+decay">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Orbital+decay&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DOrbital%2Bdecay%26returnto%3DOrbital%2Bdecay%26oldid%3D797806933%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Orbital_decay&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%AF%D9%87%D9%88%D8%B1_%D9%85%D8%AF%D8%A7%D8%B1%D9%8A" hreflang="ar" lang="ar" title="تدهور مداري – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Deteriorament_orbital" hreflang="ca" lang="ca" title="Deteriorament orbital – Catalan">Català</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Deterioro_orbital" hreflang="es" lang="es" title="Deterioro orbital – Spanish">Español</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Peluruhan_orbit" hreflang="id" lang="id" title="Peluruhan orbit – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Decadimento_orbitale" hreflang="it" lang="it" title="Decadimento orbitale – Italian">Italiano</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2918240#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 29 August 2017, at 08:29.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Orbital_decay&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.218","ppvisitednodes":{"value":911,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21826,"limit":2097152},"templateargumentsize":{"value":2171,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  193.177      1 -total"," 28.74%   55.512      3 Template:Fix"," 20.94%   40.460      1 Template:Citation_needed_lead"," 20.50%   39.595      1 Template:Reflist"," 15.97%   30.850      1 Template:Cite_web"," 15.94%   30.793      7 Template:Category_handler"," 14.47%   27.959      4 Template:Delink"," 14.28%   27.592      1 Template:Redirect"," 12.21%   23.581      2 Template:Citation_needed","  8.07%   15.589      1 Template:Clarify"]},"scribunto":{"limitreport-timeusage":{"value":"0.081","limit":"10.000"},"limitreport-memusage":{"value":2707664,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20171004164405","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":306,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

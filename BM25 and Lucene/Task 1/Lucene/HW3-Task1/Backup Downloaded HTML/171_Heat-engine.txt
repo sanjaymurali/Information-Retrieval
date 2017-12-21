@@ -1,0 +1,1920 @@
+https://en.wikipedia.org/wiki/Heat_engine
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Heat engine - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Heat_engine","wgTitle":"Heat engine","wgCurRevisionId":803385442,"wgRevisionId":803385442,"wgArticleId":13654,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using web citations with no URL","Pages with archiveurl citation errors","Use dmy dates from August 2013","All articles with unsourced statements","Articles with unsourced statements from January 2010","Commons category with local link different than on Wikidata","Wikipedia articles with LCCN identifiers","Wikipedia articles with GND identifiers","Wikipedia articles with BNF identifiers","Concepts in physics","Engines","Thermodynamics","Energy conversion","Heating, ventilating, and air conditioning","Engine technology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Heat_engine","wgRelevantArticleId":13654,"wgRequestId":"WdHTRgpAMFAAABMzecMAAABA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q178185","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/1200px-Carnot_heat_engine_2.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Heat_engine" rel="alternate"/>
+<link href="/w/index.php?title=Heat_engine&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Heat_engine&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Heat_engine" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Heat_engine rootpage-Heat_engine vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Heat engine</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Thermodynamic cycle</a></div>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.3em;border-bottom:1px solid #aaa;"><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;display:block;margin:0.3em 0 0.4em;"><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine"><img alt="Carnot heat engine 2.svg" data-file-height="370" data-file-width="840" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/330px-Carnot_heat_engine_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/440px-Carnot_heat_engine_2.svg.png 2x" width="220"/></a>
+<div style="padding-top:0.2em;line-height:1.2em">The classical <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Branches</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Classical</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Chemical</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Equilibrium_thermodynamics" title="Equilibrium thermodynamics">Equilibrium</a> / <a href="/wiki/Non-equilibrium_thermodynamics" title="Non-equilibrium thermodynamics">Non-equilibrium</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Zeroth_law_of_thermodynamics" title="Zeroth law of thermodynamics">Zeroth</a></li>
+<li><a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">First</a></li>
+<li><a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">Second</a></li>
+<li><a href="/wiki/Third_law_of_thermodynamics" title="Third law of thermodynamics">Third</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Systems</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_state" title="Thermodynamic state">State</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Ideal_gas" title="Ideal gas">Ideal gas</a></li>
+<li><a href="/wiki/Real_gas" title="Real gas">Real gas</a></li>
+<li><a href="/wiki/State_of_matter" title="State of matter">State of matter</a></li>
+<li><a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">Equilibrium</a></li>
+<li><a href="/wiki/Control_volume" title="Control volume">Control volume</a></li>
+<li><a href="/wiki/Thermodynamic_instruments" title="Thermodynamic instruments">Instruments</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_process" title="Thermodynamic process">Processes</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Isobaric_process" title="Isobaric process">Isobaric</a></li>
+<li><a href="/wiki/Isochoric_process" title="Isochoric process">Isochoric</a></li>
+<li><a href="/wiki/Isothermal_process" title="Isothermal process">Isothermal</a></li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic</a></li>
+<li><a href="/wiki/Isentropic_process" title="Isentropic process">Isentropic</a></li>
+<li><a href="/wiki/Isenthalpic_process" title="Isenthalpic process">Isenthalpic</a></li>
+<li><a href="/wiki/Quasistatic_process" title="Quasistatic process">Quasistatic</a></li>
+<li><a href="/wiki/Polytropic_process" title="Polytropic process">Polytropic</a></li>
+<li><a href="/wiki/Free_expansion" title="Free expansion">Free expansion</a></li>
+<li><a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">Reversibility</a></li>
+<li><a href="/wiki/Irreversible_process" title="Irreversible process">Irreversibility</a></li>
+<li><a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">Endoreversibility</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Cycles</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a class="mw-selflink selflink">Heat engines</a></li>
+<li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pumps</a></li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/List_of_thermodynamic_properties" title="List of thermodynamic properties">System properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div style="font-size:90%;padding-bottom:0.2em;border-bottom:1px solid #aaa;">Note: <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">Conjugate variables</a> in <i>italics</i></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;margin-top:0.4em;">
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">Property diagrams</a></li>
+<li><a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">Intensive and extensive properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/State_function" title="State function">Functions of state</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Temperature</a> / <i><a href="/wiki/Entropy" title="Entropy">Entropy</a></i> (<a href="/wiki/Introduction_to_entropy" title="Introduction to entropy">introduction</a>)</li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a> / <i><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume</a></i></li>
+<li><a href="/wiki/Chemical_potential" title="Chemical potential">Chemical potential</a> / <i><a href="/wiki/Particle_number" title="Particle number">Particle number</a></i></li>
+<li><a href="/wiki/Vapor_quality" title="Vapor quality">Vapor quality</a></li>
+<li><a href="/wiki/Reduced_properties" title="Reduced properties">Reduced properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Process_function" title="Process function">Process functions</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;;padding-bottom:0.4em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">Work</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Material_properties_(thermodynamics)" title="Material properties (thermodynamics)">Material properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Thermodynamic_databases_for_pure_substances" title="Thermodynamic databases for pure substances">Property databases</a></li>
+</ul>
+<div style="font-size:90%;margin-top:0.4em;border-top:1px solid #aaa;text-align:center;">
+<table>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Heat_capacity" title="Heat capacity">Specific heat capacity</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=}</annotation>
+</semantics>
+</math></span><img alt="c=" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/891d40a9b18752b04065caee655d008b3ec11428" style="vertical-align: -0.338ex; width:3.481ex; height:1.676ex;"/></span></td>
+<td>
+<table>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial S}</annotation>
+</semantics>
+</math></span><img alt="\partial S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c609f4d3c5692ea4495479ef47594dc67f9fa464" style="vertical-align: -0.338ex; width:2.838ex; height:2.343ex;"/></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="N" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;"/></span></td>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;"/></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Compressibility" title="Compressibility">Compressibility</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>β<!-- β --></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta =-}</annotation>
+</semantics>
+</math></span><img alt="\beta =-" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b01c042bf1456bd4d2a8caed1f4912820a7ecbb3" style="vertical-align: -0.671ex; width:6.27ex; height:2.509ex;"/></span></td>
+<td>
+<table>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;"/></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;"/></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/></span></td>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial p}</annotation>
+</semantics>
+</math></span><img alt="\partial p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebc4a48eb2412f08b54fe438b5139c88f9cfa372" style="vertical-align: -0.671ex; width:2.508ex; height:2.676ex;"/></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Thermal_expansion" title="Thermal expansion">Thermal expansion</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =}</annotation>
+</semantics>
+</math></span><img alt="\alpha =" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a92d4583d351f08c1c70985f0c843b2fff1b01e7" style="vertical-align: -0.338ex; width:3.962ex; height:1.676ex;"/></span></td>
+<td>
+<table>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;"/></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;"/></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/></span></td>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;"/></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_equations" title="Thermodynamic equations">Equations</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem</a></li>
+<li><a href="/wiki/Clausius_theorem" title="Clausius theorem">Clausius theorem</a></li>
+<li><a href="/wiki/Fundamental_thermodynamic_relation" title="Fundamental thermodynamic relation">Fundamental relation</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Maxwell_relations" title="Maxwell relations">Maxwell relations</a></li>
+<li><a href="/wiki/Onsager_reciprocal_relations" title="Onsager reciprocal relations">Onsager reciprocal relations</a></li>
+<li><a href="/wiki/Bridgman%27s_thermodynamic_equations" title="Bridgman's thermodynamic equations">Bridgman's equations</a></li>
+<li><i><a href="/wiki/Table_of_thermodynamic_equations" title="Table of thermodynamic equations">Table of thermodynamic equations</a></i></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Potentials</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">Free energy</a></li>
+<li><a href="/wiki/Free_entropy" title="Free entropy">Free entropy</a></li>
+</ul>
+</div>
+<div class="plainlist">
+<ul>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Internal_energy" title="Internal energy">Internal energy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U(S,V)}</annotation>
+</semantics>
+</math></span><img alt="U(S,V)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/921f33f9c6551562ec836007b035c2de6323d2d6" style="vertical-align: -0.838ex; width:7.975ex; height:2.843ex;"/></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H(S,p)=U+pV}</annotation>
+</semantics>
+</math></span><img alt="H(S,p)=U+pV" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6407d78e5f39d07f70e2414a92e08e2e068519f3" style="vertical-align: -0.838ex; width:18.369ex; height:2.843ex;"/></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A(T,V)=U-TS}</annotation>
+</semantics>
+</math></span><img alt="A(T,V)=U-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e93692f031ba6484d82731c54db83a69daed3f0" style="vertical-align: -0.838ex; width:18.982ex; height:2.843ex;"/></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G(T,p)=H-TS}</annotation>
+</semantics>
+</math></span><img alt="G(T,p)=H-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dd7a8f0b8ae04963da133e3b202432e1b6caed4" style="vertical-align: -0.838ex; width:18.729ex; height:2.843ex;"/></span></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+<div class="hlist hlist-separated">
+<ul>
+<li>History</li>
+<li>Culture</li>
+</ul>
+</div>
+</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">History</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">General</a></li>
+<li><a href="/wiki/History_of_heat" title="History of heat">Heat</a></li>
+<li><a href="/wiki/History_of_entropy" title="History of entropy">Entropy</a></li>
+<li><a href="/wiki/Gas_laws" title="Gas laws">Gas laws</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/History_of_perpetual_motion_machines" title="History of perpetual motion machines">"Perpetual motion" machines</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">Philosophy</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Entropy_(arrow_of_time)" title="Entropy (arrow of time)">Entropy and time</a></li>
+<li><a href="/wiki/Entropy_and_life" title="Entropy and life">Entropy and life</a></li>
+<li><a href="/wiki/Brownian_ratchet" title="Brownian ratchet">Brownian ratchet</a></li>
+<li><a href="/wiki/Maxwell%27s_demon" title="Maxwell's demon">Maxwell's demon</a></li>
+<li><a href="/wiki/Heat_death_paradox" title="Heat death paradox">Heat death paradox</a></li>
+<li><a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">Loschmidt's paradox</a></li>
+<li><a href="/wiki/Synergetics_(Haken)" title="Synergetics (Haken)">Synergetics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Theories</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Caloric_theory" title="Caloric theory">Caloric theory</a></li>
+<li><a href="/wiki/Theory_of_heat" title="Theory of heat">Theory of heat</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Vis_viva" title="Vis viva"><i>Vis viva</i> <span style="font-size:90%;">("living force")</span></a></li>
+<li><a href="/wiki/Mechanical_equivalent_of_heat" title="Mechanical equivalent of heat">Mechanical equivalent of heat</a></li>
+<li><a href="/wiki/Motive_power" title="Motive power">Motive power</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/List_of_important_publications_in_physics" title="List of important publications in physics">Key publications</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/An_Experimental_Enquiry_Concerning_the_Source_of_the_Heat_which_is_Excited_by_Friction" title="An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction">An Experimental Enquiry<br/>
+Concerning ... Heat</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/On_the_Equilibrium_of_Heterogeneous_Substances" title="On the Equilibrium of Heterogeneous Substances">On the Equilibrium of<br/>
+Heterogeneous Substances</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/Reflections_on_the_Motive_Power_of_Fire" title="Reflections on the Motive Power of Fire">Reflections on the<br/>
+Motive Power of Fire</a>"</div>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Timelines</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Heat engines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<div class="hlist hlist-separated">
+<ul>
+<li>Art</li>
+<li>Education</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">Maxwell's thermodynamic surface</a></li>
+<li><a href="/wiki/Entropy_(energy_dispersal)" title="Entropy (energy dispersal)">Entropy as energy dispersal</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Scientists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Bernoulli</a></li>
+<li><a href="/wiki/Ludwig_Boltzmann" title="Ludwig Boltzmann">Boltzmann</a></li>
+<li><a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Carnot</a></li>
+<li><a href="/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron" title="Benoît Paul Émile Clapeyron">Clapeyron</a></li>
+<li><a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Clausius</a></li>
+<li><a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">Carathéodory</a></li>
+<li><a href="/wiki/Pierre_Duhem" title="Pierre Duhem">Duhem</a></li>
+<li><a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Gibbs</a></li>
+<li><a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">von Helmholtz</a></li>
+<li><a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">Joule</a></li>
+<li><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a></li>
+<li><a href="/wiki/Julius_von_Mayer" title="Julius von Mayer">von Mayer</a></li>
+<li><a href="/wiki/Lars_Onsager" title="Lars Onsager">Onsager</a></li>
+<li><a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">Rankine</a></li>
+<li><a href="/wiki/John_Smeaton" title="John Smeaton">Smeaton</a></li>
+<li><a href="/wiki/Georg_Ernst_Stahl" title="Georg Ernst Stahl">Stahl</a></li>
+<li><a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">Thompson</a></li>
+<li><a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Thomson</a></li>
+<li><a href="/wiki/Johannes_Diderik_van_der_Waals" title="Johannes Diderik van der Waals">van der Waals</a></li>
+<li><a href="/wiki/John_James_Waterston" title="John James Waterston">Waterston</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/Book:Thermodynamics" title="Book:Thermodynamics">Book:Thermodynamics</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Thermodynamics_sidebar" title="Template:Thermodynamics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamics_sidebar" title="Template talk:Thermodynamics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>, a <b>heat engine</b> is a system that converts heat or <a href="/wiki/Thermal_energy" title="Thermal energy">thermal energy</a>—and <a href="/wiki/Chemical_energy" title="Chemical energy">chemical energy</a>—to <a href="/wiki/Mechanical_energy" title="Mechanical energy">mechanical energy</a>, which can then be used to do <a class="mw-redirect" href="/wiki/Mechanical_work" title="Mechanical work">mechanical work</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> It does this by bringing a working substance from a higher state temperature to a lower state temperature. A heat "source" generates thermal energy that brings the working substance to the high temperature state. The working substance generates work in the "<a href="/wiki/Thermodynamic_system" title="Thermodynamic system">working body</a>" of the engine while <a href="/wiki/Heat_transfer" title="Heat transfer">transferring heat</a> to the colder "<a href="/wiki/Thermal_reservoir" title="Thermal reservoir">sink</a>" until it reaches a low temperature state. During this process some of the thermal energy is converted into <a href="/wiki/Energy" title="Energy">work</a> by exploiting the properties of the working substance. The working substance can be any system with a non-zero <a href="/wiki/Heat_capacity" title="Heat capacity">heat capacity</a>, but it usually is a gas or liquid. During this process, a lot of heat is lost to the surroundings, i.e. it cannot be used.</p>
+<p>In general an <a class="new" href="/w/index.php?title=Engine_(mechanical)&amp;action=edit&amp;redlink=1" title="Engine (mechanical) (page does not exist)">engine</a> converts energy to mechanical <a href="/wiki/Work_(physics)" title="Work (physics)">work</a>. Heat engines distinguish themselves from other types of engines by the fact that their efficiency is fundamentally limited by <a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem</a>.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Although this efficiency limitation can be a drawback, an advantage of heat engines is that most forms of energy can be easily converted to heat by processes like <a href="/wiki/Exothermic_reaction" title="Exothermic reaction">exothermic reactions</a> (such as combustion), <a href="/wiki/Absorption_(electromagnetic_radiation)" title="Absorption (electromagnetic radiation)">absorption</a> of light or energetic particles, <a href="/wiki/Friction" title="Friction">friction</a>, <a href="/wiki/Dissipation" title="Dissipation">dissipation</a> and <a class="mw-redirect" href="/wiki/Electrical_resistance" title="Electrical resistance">resistance</a>. Since the heat source that supplies thermal energy to the engine can thus be powered by virtually any kind of energy, heat engines are very versatile and have a wide range of applicability.</p>
+<p>Heat engines are often confused with the cycles they attempt to implement. Typically, the term "engine" is used for a physical device and "cycle" for the model.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Power"><span class="tocnumber">1.1</span> <span class="toctext">Power</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Everyday_examples"><span class="tocnumber">2</span> <span class="toctext">Everyday examples</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Examples_of_heat_engines"><span class="tocnumber">3</span> <span class="toctext">Examples of heat engines</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Earth.27s_heat_engine"><span class="tocnumber">3.1</span> <span class="toctext">Earth's heat engine</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Phase-change_cycles"><span class="tocnumber">3.2</span> <span class="toctext">Phase-change cycles</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Gas-only_cycles"><span class="tocnumber">3.3</span> <span class="toctext">Gas-only cycles</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Liquid_only_cycle"><span class="tocnumber">3.4</span> <span class="toctext">Liquid only cycle</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Electron_cycles"><span class="tocnumber">3.5</span> <span class="toctext">Electron cycles</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Magnetic_cycles"><span class="tocnumber">3.6</span> <span class="toctext">Magnetic cycles</span></a></li>
+<li class="toclevel-2 tocsection-11"><a href="#Cycles_used_for_refrigeration"><span class="tocnumber">3.7</span> <span class="toctext">Cycles used for refrigeration</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Evaporative_heat_engines"><span class="tocnumber">3.8</span> <span class="toctext">Evaporative heat engines</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Mesoscopic_heat_engines"><span class="tocnumber">3.9</span> <span class="toctext">Mesoscopic heat engines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#Efficiency"><span class="tocnumber">4</span> <span class="toctext">Efficiency</span></a>
+<ul>
+<li class="toclevel-2 tocsection-15"><a href="#Endoreversible_heat_engines"><span class="tocnumber">4.1</span> <span class="toctext">Endoreversible heat engines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-16"><a href="#History"><span class="tocnumber">5</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#Heat_engine_enhancements"><span class="tocnumber">6</span> <span class="toctext">Heat engine enhancements</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Heat_engine_processes"><span class="tocnumber">7</span> <span class="toctext">Heat engine processes</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Heat_engine.png"><img alt="" class="thumbimage" data-file-height="600" data-file-width="600" height="300" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heat_engine.png/300px-Heat_engine.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Heat_engine.png/450px-Heat_engine.png 1.5x, //upload.wikimedia.org/wikipedia/commons/a/a2/Heat_engine.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Heat_engine.png" title="Enlarge"></a></div>
+Figure 1: Heat engine diagram</div>
+</div>
+</div>
+<p>In <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>, heat engines are often modeled using a standard engineering model such as the <a href="/wiki/Otto_cycle" title="Otto cycle">Otto cycle</a>. The theoretical model can be refined and augmented with actual data from an operating engine, using tools such as an <a class="mw-redirect" href="/wiki/Indicator_diagram" title="Indicator diagram">indicator diagram</a>. Since very few actual implementations of heat engines exactly match their underlying thermodynamic cycles, one could say that a thermodynamic cycle is an ideal case of a mechanical engine. In any case, fully understanding an engine and its efficiency requires gaining a good understanding of the (possibly simplified or idealized) theoretical model, the practical nuances of an actual mechanical engine, and the discrepancies between the two.</p>
+<p>In general terms, the larger the difference in temperature between the hot source and the cold sink, the larger is the potential <a href="/wiki/Thermal_efficiency" title="Thermal efficiency">thermal efficiency</a> of the cycle. On Earth, the cold side of any heat engine is limited to being close to the ambient temperature of the environment, or not much lower than 300 <a href="/wiki/Kelvin" title="Kelvin">kelvins</a>, so most efforts to improve the thermodynamic efficiencies of various heat engines focus on increasing the temperature of the source, within material limits. The maximum theoretical efficiency of a heat engine (which no engine ever attains) is equal to the temperature difference between the hot and cold ends divided by the temperature at the hot end, all expressed as <a class="mw-redirect" href="/wiki/Absolute_temperature" title="Absolute temperature">absolute temperatures</a> (in <a href="/wiki/Kelvin" title="Kelvin">kelvins</a>).</p>
+<p>The efficiency of various heat engines proposed or used today has a large range:</p>
+<ul>
+<li>3%<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> (97 percent waste heat using low quality heat) for the <a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">OTEC</a> ocean power proposal.</li>
+<li>25% for most automotive gasoline engines <sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></li>
+<li>49% for a <a href="/wiki/Supercritical_steam_generator" title="Supercritical steam generator">supercritical</a> <a class="mw-redirect" href="/wiki/Coal-fired_power_station" title="Coal-fired power station">coal-fired power station</a> such as the <a href="/wiki/Aved%C3%B8re_Power_Station" title="Avedøre Power Station">Avedøre Power Station</a>, and many others</li>
+<li>60% for a steam-cooled <a href="/wiki/Combined_cycle" title="Combined cycle">combined cycle</a> <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbine</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></li>
+</ul>
+<p><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<p><br/>
+All these processes gain their efficiency (or lack thereof) from the temperature drop across them. Significant energy may be used for auxiliary equipment, such as pumps, which effectively reduces efficiency.</p>
+<h3><span class="mw-headline" id="Power">Power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=2" title="Edit section: Power">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Heat engines can be characterized by their <a href="/wiki/Power_density" title="Power density">specific power</a>, which is typically given in kilowatts per litre of <a href="/wiki/Engine_displacement" title="Engine displacement">engine displacement</a> (in the U.S. also <a href="/wiki/Horsepower" title="Horsepower">horsepower</a> per cubic inch). The result offers an approximation of the peak power output of an engine. This is not to be confused with <a href="/wiki/Fuel_efficiency" title="Fuel efficiency">fuel efficiency</a>, since high efficiency often requires a lean fuel-air ratio, and thus lower power density. A modern high-performance car engine makes in excess of 75 kW/l (1.65 hp/in<sup>3</sup>).</p>
+<h2><span class="mw-headline" id="Everyday_examples">Everyday examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=3" title="Edit section: Everyday examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Examples of everyday heat engines include the <a href="/wiki/Steam_engine" title="Steam engine">steam engine</a> and the <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engine</a>. The <a href="/wiki/Stirling_engine" title="Stirling engine">stirling engine</a> is also heat engine, as well as the <a href="/wiki/Drinking_bird" title="Drinking bird">drinking bird</a> toy. All of these heat engines are powered by the expansion of heated gases. The general surroundings are the heat sink, which provides relatively cool gases that, when heated, expand rapidly to drive the mechanical motion of the engine.</p>
+<h2><span class="mw-headline" id="Examples_of_heat_engines">Examples of heat engines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=4" title="Edit section: Examples of heat engines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It is important to note that although some cycles have a typical combustion location (internal or external), they often can be implemented with the other. For example, <a href="/wiki/John_Ericsson" title="John Ericsson">John Ericsson</a> developed an external heated engine running on a cycle very much like the earlier <a href="/wiki/Diesel_cycle" title="Diesel cycle">Diesel cycle</a>. In addition, externally heated engines can often be implemented in open or closed cycles.</p>
+<h3><span id="Earth's_heat_engine"></span><span class="mw-headline" id="Earth.27s_heat_engine">Earth's heat engine</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=5" title="Edit section: Earth's heat engine">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Earth's atmosphere and hydrosphere—Earth’s heat engine—are coupled processes that constantly even out solar heating imbalances through evaporation of surface water, convection, rainfall, winds, and ocean circulation, when distributing heat around the globe.<sup class="reference" id="cite_ref-Lindsey_2009_8-0"><a href="#cite_note-Lindsey_2009-8">[8]</a></sup></p>
+<p>The Hadley system provides an example of a heat engine. The Hadley circulation is identified with rising of warm and moist air in the equatorial region with descent of colder air in the subtropics corresponding to a thermally driven direct circulation, with consequent net production of kinetic energy.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Phase-change_cycles">Phase-change cycles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=6" title="Edit section: Phase-change cycles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In these cycles and engines, the working fluids are gases and liquids. The engine converts the working fluid from a gas to a liquid, from liquid to gas, or both, generating work from the fluid expansion or compression.</p>
+<ul>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a> (classical <a href="/wiki/Steam_engine" title="Steam engine">steam engine</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Regenerative_cycle" title="Regenerative cycle">Regenerative cycle</a> (<a href="/wiki/Steam_engine" title="Steam engine">steam engine</a> more efficient than <a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine cycle</a>)</li>
+<li><a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">Organic Rankine cycle</a> (Coolant changing phase in temperature ranges of ice and hot liquid water)</li>
+<li>Vapor to liquid cycle (<a href="/wiki/Drinking_bird" title="Drinking bird">Drinking bird</a>, <a href="/wiki/Injector" title="Injector">Injector</a>, <a href="/wiki/Minto_wheel" title="Minto wheel">Minto wheel</a>)</li>
+<li>Liquid to solid cycle (<a href="/wiki/Frost_heaving" title="Frost heaving">Frost heaving</a> — water changing from ice to liquid and back again can lift rock up to 60 cm.)</li>
+<li>Solid to gas cycle (<a class="mw-redirect" href="/wiki/Dry_ice_cannon" title="Dry ice cannon">Dry ice cannon</a> — Dry ice sublimes to gas.)</li>
+</ul>
+<h3><span class="mw-headline" id="Gas-only_cycles">Gas-only cycles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=7" title="Edit section: Gas-only cycles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In these cycles and engines the working fluid is always a gas (i.e., there is no phase change):</p>
+<ul>
+<li><a href="/wiki/Carnot_cycle" title="Carnot cycle">Carnot cycle</a> (<a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a>)</li>
+<li><a href="/wiki/Ericsson_cycle" title="Ericsson cycle">Ericsson cycle</a> (Caloric Ship John Ericsson)</li>
+<li><a href="/wiki/Stirling_cycle" title="Stirling cycle">Stirling cycle</a> (<a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engine</a>, <a class="mw-redirect" href="/wiki/Thermoacoustic_refrigeration" title="Thermoacoustic refrigeration">thermoacoustic</a> devices)</li>
+<li><a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">Internal combustion engine</a> (ICE):
+<ul>
+<li><a href="/wiki/Otto_cycle" title="Otto cycle">Otto cycle</a> (e.g. <a class="mw-redirect" href="/wiki/Gasoline/Petrol_engine" title="Gasoline/Petrol engine">Gasoline/Petrol engine</a>)</li>
+<li><a href="/wiki/Diesel_cycle" title="Diesel cycle">Diesel cycle</a> (e.g. <a href="/wiki/Diesel_engine" title="Diesel engine">Diesel engine</a>)</li>
+<li><a href="/wiki/Atkinson_cycle" title="Atkinson cycle">Atkinson cycle</a> (Atkinson engine)</li>
+<li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton cycle</a> or <a class="mw-redirect" href="/wiki/Joule_cycle" title="Joule cycle">Joule cycle</a> originally <a href="/wiki/Ericsson_cycle" title="Ericsson cycle">Ericsson cycle</a> (<a href="/wiki/Gas_turbine" title="Gas turbine">gas turbine</a>)</li>
+<li><a href="/wiki/Lenoir_cycle" title="Lenoir cycle">Lenoir cycle</a> (e.g., <a class="mw-redirect" href="/wiki/Pulse_jet_engine" title="Pulse jet engine">pulse jet engine</a>)</li>
+<li><a href="/wiki/Miller_cycle" title="Miller cycle">Miller cycle</a> (Miller engine)</li>
+</ul>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Liquid_only_cycle">Liquid only cycle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=8" title="Edit section: Liquid only cycle">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In these cycles and engines the working fluid are always like liquid:</p>
+<ul>
+<li><a href="/wiki/Stirling_cycle" title="Stirling cycle">Stirling cycle</a> (<a href="/wiki/Malone_engine" title="Malone engine">Malone engine</a>)</li>
+<li>Heat Regenerative Cyclone<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></li>
+</ul>
+<h3><span class="mw-headline" id="Electron_cycles">Electron cycles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=9" title="Edit section: Electron cycles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Johnson_thermoelectric_energy_converter" title="Johnson thermoelectric energy converter">Johnson thermoelectric energy converter</a></li>
+<li>Thermoelectric (<a class="mw-redirect" href="/wiki/Peltier%E2%80%93Seebeck_effect" title="Peltier–Seebeck effect">Peltier–Seebeck effect</a>)</li>
+<li><a href="/wiki/Thermogalvanic_cell" title="Thermogalvanic cell">Thermogalvanic cell</a></li>
+<li><a href="/wiki/Thermionic_emission" title="Thermionic emission">Thermionic emission</a></li>
+<li><a href="/wiki/Thermotunnel_cooling" title="Thermotunnel cooling">Thermotunnel cooling</a></li>
+</ul>
+<h3><span class="mw-headline" id="Magnetic_cycles">Magnetic cycles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=10" title="Edit section: Magnetic cycles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Thermo-magnetic_motor" title="Thermo-magnetic motor">Thermo-magnetic motor</a> (Tesla)</li>
+</ul>
+<h3><span class="mw-headline" id="Cycles_used_for_refrigeration">Cycles used for refrigeration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=11" title="Edit section: Cycles used for refrigeration">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Refrigeration" title="Refrigeration">refrigeration</a></div>
+<p>A domestic <a href="/wiki/Refrigerator" title="Refrigerator">refrigerator</a> is an example of a <a href="/wiki/Heat_pump" title="Heat pump">heat pump</a>: a heat engine in reverse. Work is used to create a heat differential. Many cycles can run in reverse to move heat from the cold side to the hot side, making the cold side cooler and the hot side hotter. Internal combustion engine versions of these cycles are, by their nature, not reversible.</p>
+<p>Refrigeration cycles include:</p>
+<ul>
+<li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression refrigeration</a></li>
+<li><a href="/wiki/Stirling_engine#Stirling_cryocoolers" title="Stirling engine">Stirling cryocoolers</a></li>
+<li><a class="mw-redirect" href="/wiki/Gas-absorption_refrigerator" title="Gas-absorption refrigerator">Gas-absorption refrigerator</a></li>
+<li><a href="/wiki/Air_cycle_machine" title="Air cycle machine">Air cycle machine</a></li>
+<li><a class="new" href="/w/index.php?title=Vuilleumier_refrigeration&amp;action=edit&amp;redlink=1" title="Vuilleumier refrigeration (page does not exist)">Vuilleumier refrigeration</a></li>
+<li><a href="/wiki/Magnetic_refrigeration" title="Magnetic refrigeration">Magnetic refrigeration</a></li>
+</ul>
+<h3><span class="mw-headline" id="Evaporative_heat_engines">Evaporative heat engines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=12" title="Edit section: Evaporative heat engines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Barton_evaporation_engine" title="Barton evaporation engine">Barton evaporation engine</a> is a heat engine based on a cycle producing power and cooled moist air from the evaporation of water into hot dry air.</p>
+<h3><span class="mw-headline" id="Mesoscopic_heat_engines">Mesoscopic heat engines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=13" title="Edit section: Mesoscopic heat engines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Mesoscopic heat engines are nanoscale devices that may serve the goal of processing heat fluxes and perform useful work at small scales. Potential applications include e.g. electric cooling devices. In such mesoscopic heat engines, work per cycle of operation fluctuates due to thermal noise. There is exact equality that relates average of exponents of work performed by any heat engine and the heat transfer from the hotter heat bath.<sup class="reference" id="cite_ref-sinitsyn-11jpa_11-0"><a href="#cite_note-sinitsyn-11jpa-11">[11]</a></sup> This relation transforms the Carnot's inequality into exact equality.</p>
+<h2><span class="mw-headline" id="Efficiency">Efficiency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=14" title="Edit section: Efficiency">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The efficiency of a heat engine relates how much useful work is output for a given amount of heat energy input.</p>
+<p>From the laws of <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>, after a completed cycle:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mtext> </mtext>
+<mo>=</mo>
+<mtext> </mtext>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mtext> </mtext>
+<mo>−<!-- − --></mo>
+<mtext> </mtext>
+<mo stretchy="false">(</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W\ =\ Q_{c}\ -\ (-Q_{h})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W\ =\ Q_{c}\ -\ (-Q_{h})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0861f545b04f00ef6dd5643b85a07d476e1061b5" style="vertical-align: -0.838ex; width:20.212ex; height:2.843ex;"/></span></dd>
+<dd>where</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>W</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mo>∮</mo>
+<mi>P</mi>
+<mi>d</mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W=-\oint PdV}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle W=-\oint PdV}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d96829d22bc0de4103d0f163b58b7d549104d2fb" style="vertical-align: -2.338ex; width:15.131ex; height:5.843ex;"/></span> is the work extracted from the engine. (It is negative since work is <i>done by</i> the engine.)</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Q_{h}=T_{h}\Delta S_{h}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Q_{h}=T_{h}\Delta S_{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/203b13e02037bddf8e54dfd666af7c5d1bb22808" style="vertical-align: -0.671ex; width:13.267ex; height:2.676ex;"/></span> is the heat energy taken from the high temperature system. (It is negative since heat is extracted from the source, hence <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (-Q_{h})}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle (-Q_{h})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/297e0d8f32b985be870fab21f5a6c5f9991c8971" style="vertical-align: -0.838ex; width:6.684ex; height:2.843ex;"/></span> is positive.)</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Q_{c}=T_{c}\Delta S_{c}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Q_{c}=T_{c}\Delta S_{c}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa3772b17b8c10de6a4688e98e6f77d8fe13bbc3" style="vertical-align: -0.671ex; width:12.562ex; height:2.676ex;"/></span> is the heat energy delivered to the cold temperature system. (It is positive since heat is added to the sink.)</dd>
+</dl>
+<p>In other words, a heat engine absorbs heat energy from the high temperature heat source, converting part of it to useful work and delivering the rest to the cold temperature heat sink.</p>
+<p>In general, the efficiency of a given heat transfer process (whether it be a refrigerator, a heat pump or an engine) is defined informally by the ratio of "what you get out" to "what you put in".</p>
+<p>In the case of an engine, one desires to extract work and puts in a heat transfer.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>η<!-- η --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>−<!-- − --></mo>
+<mi>W</mi>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta ={\frac {-W}{-Q_{h}}}={\frac {-Q_{h}-Q_{c}}{-Q_{h}}}=1-{\frac {Q_{c}}{-Q_{h}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \eta ={\frac {-W}{-Q_{h}}}={\frac {-Q_{h}-Q_{c}}{-Q_{h}}}=1-{\frac {Q_{c}}{-Q_{h}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652dcdf9915ac2f34a2c44b531ad58bf64e70fe6" style="vertical-align: -2.505ex; width:37.251ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>The <i>theoretical</i> maximum efficiency of any heat engine depends only on the temperatures it operates between. This efficiency is usually derived using an ideal imaginary heat engine such as the <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a>, although other engines using different cycles can also attain maximum efficiency. Mathematically, this is because in <a class="mw-redirect" href="/wiki/Thermodynamic_reversibility" title="Thermodynamic reversibility">reversible</a> processes, the change in <a href="/wiki/Entropy" title="Entropy">entropy</a> of the cold reservoir is the negative of that of the hot reservoir (i.e., <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S_{c}=-\Delta S_{h}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S_{c}=-\Delta S_{h}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c75d4b2b626b58a6dbfcc355588ce43af283ffa7" style="vertical-align: -0.671ex; width:13.829ex; height:2.676ex;"/></span>), keeping the overall change of entropy zero. Thus:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>η<!-- η --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>max</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta _{\text{max}}=1-{\frac {T_{c}\Delta S_{c}}{-T_{h}\Delta S_{h}}}=1-{\frac {T_{c}}{T_{h}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \eta _{\text{max}}=1-{\frac {T_{c}\Delta S_{c}}{-T_{h}\Delta S_{h}}}=1-{\frac {T_{c}}{T_{h}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/44f4d0756617bfdb504c3901575205bbacc496f0" style="vertical-align: -2.338ex; width:31.912ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{h}}</annotation>
+</semantics>
+</math></span><img alt="T_{h}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6eaacb63fcdf3a344175b45b3bab7910f8fc3e40" style="vertical-align: -0.671ex; width:2.554ex; height:2.509ex;"/></span> is the <a class="mw-redirect" href="/wiki/Absolute_temperature" title="Absolute temperature">absolute temperature</a> of the hot source and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{c}}</annotation>
+</semantics>
+</math></span><img alt="T_{c}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66261e3cbed8035b2bf7a9ccb878c786cf7556c6" style="vertical-align: -0.671ex; width:2.32ex; height:2.509ex;"/></span> that of the cold sink, usually measured in <a href="/wiki/Kelvin" title="Kelvin">kelvins</a>. Note that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dS_{c}}</annotation>
+</semantics>
+</math></span><img alt="dS_{c}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6ec72510d254c29cc02f56a7899311c9262e7b6" style="vertical-align: -0.671ex; width:3.613ex; height:2.509ex;"/></span> is positive while <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dS_{h}}</annotation>
+</semantics>
+</math></span><img alt="dS_{h}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/21204b5e661a964b0b0dee432a33c951e6268f77" style="vertical-align: -0.671ex; width:3.848ex; height:2.509ex;"/></span> is negative; in any reversible work-extracting process, entropy is overall not increased, but rather is moved from a hot (high-entropy) system to a cold (low-entropy one), decreasing the entropy of the heat source and increasing that of the heat sink.</p>
+<p>The reasoning behind this being the <b>maximal</b> efficiency goes as follows. It is first assumed that if a more efficient heat engine than a Carnot engine is possible, then it could be driven in reverse as a heat pump. Mathematical analysis can be used to show that this assumed combination would result in a net decrease in <a href="/wiki/Entropy" title="Entropy">entropy</a>. Since, by the <a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">second law of thermodynamics</a>, this is statistically improbable to the point of exclusion, the Carnot efficiency is a theoretical upper bound on the reliable efficiency of <i>any</i> process.</p>
+<p>Empirically, no heat engine has ever been shown to run at a greater efficiency than a Carnot cycle heat engine.</p>
+<p>Figure 2 and Figure 3 show variations on Carnot cycle efficiency. Figure 2 indicates how efficiency changes with an increase in the heat addition temperature for a constant compressor inlet temperature. Figure 3 indicates how the efficiency changes with an increase in the heat rejection temperature for a constant turbine inlet temperature.</p>
+<table cellpadding="2" style="border:1px solid darkgrey; margin:auto;">
+<tr>
+<td>
+<div class="thumb tnone">
+<div class="thumbinner" style="width:452px;"><a class="image" href="/wiki/File:GFImg3.png"><img alt="" class="thumbimage" data-file-height="536" data-file-width="556" height="434" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3d/GFImg3.png/450px-GFImg3.png" srcset="//upload.wikimedia.org/wikipedia/commons/3/3d/GFImg3.png 1.5x" width="450"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:GFImg3.png" title="Enlarge"></a></div>
+Figure 2: Carnot cycle efficiency with changing heat addition temperature.</div>
+</div>
+</div>
+</td>
+<td>
+<div class="thumb tnone">
+<div class="thumbinner" style="width:452px;"><a class="image" href="/wiki/File:GFImg4.png"><img alt="" class="thumbimage" data-file-height="525" data-file-width="555" height="426" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/GFImg4.png/450px-GFImg4.png" srcset="//upload.wikimedia.org/wikipedia/commons/8/86/GFImg4.png 1.5x" width="450"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:GFImg4.png" title="Enlarge"></a></div>
+Figure 3: Carnot cycle efficiency with changing heat rejection temperature.</div>
+</div>
+</div>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Endoreversible_heat_engines">Endoreversible heat engines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=15" title="Edit section: Endoreversible heat engines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The most Carnot efficiency as a criterion of heat engine performance is the fact that by its nature, any maximally efficient Carnot cycle must operate at an infinitesimal temperature gradient. This is because <i>any</i> transfer of heat between two bodies at differing temperatures is irreversible, and therefore the Carnot efficiency expression only applies in the infinitesimal limit. The major problem with that is that the object of most heat engines is to output some sort of power, and infinitesimal power is usually not what is being sought.</p>
+<p>A different measure of ideal heat engine efficiency is given by considerations of <a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">endoreversible thermodynamics</a>, where the cycle is identical to the Carnot cycle except in that the two processes of heat transfer are <i>not</i> reversible (Callen 1985):</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>η<!-- η --></mi>
+<mo>=</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mfrac>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta =1-{\sqrt {\frac {T_{c}}{T_{h}}}}}</annotation>
+</semantics>
+</math></span><img alt="\eta =1-{\sqrt {\frac {T_{c}}{T_{h}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3279295bd87b03eb5918f8dd0c2efd18aa8b86e3" style="vertical-align: -3.171ex; width:14.037ex; height:7.676ex;"/></span> (Note: Units <a href="/wiki/Kelvin" title="Kelvin">K</a> or <a href="/wiki/Rankine_scale" title="Rankine scale">°R</a>)</dd>
+</dl>
+<p>This model does a better job of predicting how well real-world heat engines can do (Callen 1985, see also <a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">endoreversible thermodynamics</a>):</p>
+<table class="wikitable">
+<caption><b>Efficiencies of power stations</b><sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></caption>
+<tr>
+<th><i>Power station</i></th>
+<th><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>c</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{c}}</annotation>
+</semantics>
+</math></span><img alt="T_{c}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66261e3cbed8035b2bf7a9ccb878c786cf7556c6" style="vertical-align: -0.671ex; width:2.32ex; height:2.509ex;"/></span> (°C)</th>
+<th><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{h}}</annotation>
+</semantics>
+</math></span><img alt="T_{h}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6eaacb63fcdf3a344175b45b3bab7910f8fc3e40" style="vertical-align: -0.671ex; width:2.554ex; height:2.509ex;"/></span> (°C)</th>
+<th><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>η<!-- η --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta }</annotation>
+</semantics>
+</math></span><img alt="\eta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4d701857cf5fbec133eebaf94deadf722537f64" style="vertical-align: -0.838ex; width:1.18ex; height:2.176ex;"/></span> (Carnot)</th>
+<th><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>η<!-- η --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta }</annotation>
+</semantics>
+</math></span><img alt="\eta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4d701857cf5fbec133eebaf94deadf722537f64" style="vertical-align: -0.838ex; width:1.18ex; height:2.176ex;"/></span> (Endoreversible)</th>
+<th><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>η<!-- η --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta }</annotation>
+</semantics>
+</math></span><img alt="\eta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e4d701857cf5fbec133eebaf94deadf722537f64" style="vertical-align: -0.838ex; width:1.18ex; height:2.176ex;"/></span> (Observed)</th>
+</tr>
+<tr>
+<th><a href="/wiki/West_Thurrock" title="West Thurrock">West Thurrock</a> (UK) <a class="mw-redirect" href="/wiki/Coal-fired_power_station" title="Coal-fired power station">coal-fired power station</a></th>
+<td>25</td>
+<td>565</td>
+<td>0.64</td>
+<td>0.40</td>
+<td>0.36</td>
+</tr>
+<tr>
+<th><a href="/wiki/CANDU_reactor" title="CANDU reactor">CANDU</a> (Canada) <a class="mw-redirect" href="/wiki/Nuclear_power_station" title="Nuclear power station">nuclear power station</a></th>
+<td>25</td>
+<td>300</td>
+<td>0.48</td>
+<td>0.28</td>
+<td>0.30</td>
+</tr>
+<tr>
+<th><a href="/wiki/Larderello" title="Larderello">Larderello</a> (Italy) <a href="/wiki/Geothermal_power" title="Geothermal power">geothermal power station</a></th>
+<td>80</td>
+<td>250</td>
+<td>0.33</td>
+<td>0.178</td>
+<td>0.16</td>
+</tr>
+</table>
+<p>As shown, the endoreversible efficiency much more closely models the observed data.</p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=16" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Timeline of heat engine technology</a></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/History_of_the_internal_combustion_engine" title="History of the internal combustion engine">History of the internal combustion engine</a> and <a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">History of thermodynamics</a></div>
+<p>Heat engines have been known since antiquity but were only made into useful devices at the time of the industrial revolution in the 18th century. They continue to be developed today.</p>
+<h2><span class="mw-headline" id="Heat_engine_enhancements">Heat engine enhancements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=17" title="Edit section: Heat engine enhancements">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Engineers have studied the various heat engine cycles extensively in effort to improve the amount of usable work they could extract from a given power source. The Carnot cycle limit cannot be reached with any gas-based cycle, but engineers have worked out at least two ways to possibly go around that limit, and one way to get better efficiency without bending any rules.</p>
+<ol>
+<li>Increase the temperature difference in the heat engine. The simplest way to do this is to increase the hot side temperature, which is the approach used in modern combined-cycle <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbines</a>. Unfortunately, physical limits (such as the melting point of the materials used to build the engine) and environmental concerns regarding <a href="/wiki/NOx" title="NOx">NO<sub>x</sub></a> production restrict the maximum temperature on workable heat engines. Modern gas turbines run at temperatures as high as possible within the range of temperatures necessary to maintain acceptable NO<sub>x</sub> output<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2010)">citation needed</span></a></i>]</sup>. Another way of increasing efficiency is to lower the output temperature. One new method of doing so is to use mixed chemical working fluids, and then exploit the changing behavior of the mixtures. One of the most famous is the so-called <a href="/wiki/Kalina_cycle" title="Kalina cycle">Kalina cycle</a>, which uses a 70/30 mix of <a href="/wiki/Ammonia" title="Ammonia">ammonia</a> and water as its working fluid. This mixture allows the cycle to generate useful power at considerably lower temperatures than most other processes.</li>
+<li>Exploit the physical properties of the working fluid. The most common such exploitation is the use of water above the so-called critical point, or so-called supercritical steam. The behavior of fluids above their critical point changes radically, and with materials such as water and <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> it is possible to exploit those changes in behavior to extract greater thermodynamic efficiency from the heat engine, even if it is using a fairly conventional Brayton or Rankine cycle. A newer and very promising material for such applications is <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">CO<sub>2</sub></a>. <a href="/wiki/Sulfur_dioxide" title="Sulfur dioxide">SO<sub>2</sub></a> and <a href="/wiki/Xenon" title="Xenon">xenon</a> have also been considered for such applications, although SO<sub>2</sub> is toxic.</li>
+<li>Exploit the chemical properties of the working fluid. A fairly new and novel exploit is to use exotic working fluids with advantageous chemical properties. One such is <a href="/wiki/Nitrogen_dioxide" title="Nitrogen dioxide">nitrogen dioxide</a> (NO<sub>2</sub>), a toxic component of smog, which has a natural <a href="/wiki/Dimer_(chemistry)" title="Dimer (chemistry)">dimer</a> as di-nitrogen tetraoxide (N<sub>2</sub>O<sub>4</sub>). At low temperature, the N<sub>2</sub>O<sub>4</sub> is compressed and then heated. The increasing temperature causes each N<sub>2</sub>O<sub>4</sub> to break apart into two NO<sub>2</sub> molecules. This lowers the molecular weight of the working fluid, which drastically increases the efficiency of the cycle. Once the NO<sub>2</sub> has expanded through the turbine, it is cooled by the <a href="/wiki/Heat_sink" title="Heat sink">heat sink</a>, which makes it recombine into N<sub>2</sub>O<sub>4</sub>. This is then fed back by the compressor for another cycle. Such species as <a href="/wiki/Aluminium_bromide" title="Aluminium bromide">aluminium bromide</a> (Al<sub>2</sub>Br<sub>6</sub>), NOCl, and Ga<sub>2</sub>I<sub>6</sub> have all been investigated for such uses. To date, their drawbacks have not warranted their use, despite the efficiency gains that can be realized.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></li>
+</ol>
+<h2><span class="mw-headline" id="Heat_engine_processes">Heat engine processes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=18" title="Edit section: Heat engine processes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th>Cycle</th>
+<th>Process 1-2<br/>
+(Compression)</th>
+<th>Process 2-3<br/>
+(Heat Addition)</th>
+<th>Process 3-4<br/>
+(Expansion)</th>
+<th>Process 4-1<br/>
+(Heat Rejection)</th>
+<th>Notes</th>
+</tr>
+<tr>
+<th align="center" colspan="6">Power cycles normally with <a class="mw-redirect" href="/wiki/External_combustion" title="External combustion">external combustion</a> - or heat pump cycles:</th>
+</tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/Bell_Coleman_cycle" title="Bell Coleman cycle">Bell Coleman</a></th>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td>A reversed Brayton cycle</td>
+</tr>
+<tr>
+<th><a href="/wiki/Carnot_cycle" title="Carnot cycle">Carnot</a></th>
+<td>isentropic</td>
+<td>isothermal</td>
+<td>isentropic</td>
+<td>isothermal</td>
+<td><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a></td>
+</tr>
+<tr>
+<th><a href="/wiki/Ericsson_cycle" title="Ericsson cycle">Ericsson</a></th>
+<td>isothermal</td>
+<td>isobaric</td>
+<td>isothermal</td>
+<td>isobaric</td>
+<td>the second <a href="/wiki/Ericsson_cycle" title="Ericsson cycle">Ericsson cycle</a> from 1853</td>
+</tr>
+<tr>
+<th><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine</a></th>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td><a href="/wiki/Steam_engine" title="Steam engine">Steam engine</a></td>
+</tr>
+<tr>
+<th><a href="/wiki/Hygroscopic_cycle" title="Hygroscopic cycle">Hygroscopic</a></th>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td><a href="/wiki/Hygroscopic_cycle" title="Hygroscopic cycle">Hygroscopic cycle</a></td>
+</tr>
+<tr>
+<th><a href="/wiki/Scuderi_cycle" title="Scuderi cycle">Scuderi</a></th>
+<td>adiabatic</td>
+<td>variable pressure<br/>
+and volume</td>
+<td>adiabatic</td>
+<td>isochoric</td>
+<td></td>
+</tr>
+<tr>
+<th><a href="/wiki/Stirling_cycle" title="Stirling cycle">Stirling</a></th>
+<td>isothermal</td>
+<td>isochoric</td>
+<td>isothermal</td>
+<td>isochoric</td>
+<td><a href="/wiki/Stirling_engine" title="Stirling engine">Stirling engine</a></td>
+</tr>
+<tr>
+<th><a class="new" href="/w/index.php?title=Mansion_cycle&amp;action=edit&amp;redlink=1" title="Mansion cycle (page does not exist)">Manson</a></th>
+<td>isothermal</td>
+<td>isochoric</td>
+<td>isothermal</td>
+<td>isochoric then adiabatic</td>
+<td><a href="/wiki/Manson-Guise_Engine" title="Manson-Guise Engine">Manson-Guise Engine</a></td>
+</tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/Stoddard_cycle" title="Stoddard cycle">Stoddard</a></th>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td></td>
+</tr>
+<tr>
+<th align="center" colspan="6">Power cycles normally with <a class="mw-redirect" href="/wiki/Internal_combustion" title="Internal combustion">internal combustion</a>:</th>
+</tr>
+<tr>
+<th><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton</a></th>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td><a href="/wiki/Jet_engine" title="Jet engine">Jet engines</a><br/>
+the external combustion version of this cycle is known as first <a href="/wiki/Ericsson_cycle" title="Ericsson cycle">Ericsson cycle</a> from 1833</td>
+</tr>
+<tr>
+<th><a href="/wiki/Diesel_cycle" title="Diesel cycle">Diesel</a></th>
+<td>adiabatic</td>
+<td>isobaric</td>
+<td>adiabatic</td>
+<td>isochoric</td>
+<td><a href="/wiki/Diesel_engine" title="Diesel engine">Diesel engine</a></td>
+</tr>
+<tr>
+<th><a href="/wiki/Lenoir_cycle" title="Lenoir cycle">Lenoir</a></th>
+<td>isobaric</td>
+<td>isochoric</td>
+<td>adiabatic</td>
+<td></td>
+<td><a class="mw-redirect" href="/wiki/Pulse_jet" title="Pulse jet">Pulse jets</a><br/>
+(Note: Process 1-2 accomplishes both the heat rejection and the compression)</td>
+</tr>
+<tr>
+<th><a href="/wiki/Otto_cycle" title="Otto cycle">Otto</a></th>
+<td>adiabatic</td>
+<td>isochoric</td>
+<td>adiabatic</td>
+<td>isochoric</td>
+<td><a class="mw-redirect" href="/wiki/Gasoline_engine" title="Gasoline engine">Gasoline / petrol engines</a></td>
+</tr>
+</table>
+<p>Each process is one of the following:</p>
+<ul>
+<li><a href="/wiki/Isothermal_process" title="Isothermal process">isothermal</a> (at constant temperature, maintained with heat added or removed from a heat source or sink)</li>
+<li><a href="/wiki/Isobaric_process" title="Isobaric process">isobaric</a> (at constant pressure)</li>
+<li><a href="/wiki/Isochoric_process" title="Isochoric process">isometric/isochoric</a> (at constant volume), also referred to as iso-volumetric</li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic</a> (no heat is added or removed from the system during adiabatic process)</li>
+<li><a href="/wiki/Isentropic_process" title="Isentropic process">isentropic</a> (reversible adiabatic process, no heat is added or removed during isentropic process)</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Crystal_energy.svg"><img alt="icon" class="noviewer" data-file-height="124" data-file-width="130" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/29px-Crystal_energy.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/44px-Crystal_energy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/14/Crystal_energy.svg/59px-Crystal_energy.svg.png 2x" width="29"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Energy" title="Portal:Energy">Energy portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a></li>
+<li><a href="/wiki/Reciprocating_engine" title="Reciprocating engine">Reciprocating engine</a> for a general description of the mechanics of piston engines</li>
+<li><a href="/wiki/Thermosynthesis" title="Thermosynthesis">Thermosynthesis</a></li>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Timeline of heat engine technology</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Heat_engine&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Heat_engines" title="commons:Category:Heat engines">Heat engines</a></b></i>.</td>
+</tr>
+</table>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><i>Fundamentals of Classical Thermodynamics</i>, 3rd ed. p. 159, (1985) by G. J. Van Wylen and R. E. Sonntag: "A heat engine may be defined as a device that operates in a thermodynamic cycle and does a certain amount of net positive work as a result of heat transfer from a high-<a href="/wiki/Temperature" title="Temperature">temperature</a> body and to a low-temperature body. Often the term heat engine is used in a broader sense to include all devices that produce work, either through heat transfer or combustion, even though the device does not operate in a thermodynamic cycle. The internal-combustion engine and the gas turbine are examples of such devices, and calling these heat engines is an acceptable use of the term."</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><i>Mechanical efficiency of heat engines</i>, p. 1 (2007) by James R. Senf: "Heat engines are made to provide mechanical energy from thermal energy."</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><i>Thermal physics: entropy and free energies</i>, by Joon Chang Lee (2002), Appendix A, p. 183: "A heat engine absorbs energy from a heat source and then converts it into work for us.... When the engine absorbs heat energy, the absorbed heat energy comes with entropy." (heat energy <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>Q</mi>
+<mo>=</mo>
+<mi>T</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta Q=T\Delta S}</annotation>
+</semantics>
+</math></span><img alt="\Delta Q=T\Delta S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3f14d2398f72cccc556de65800d22561be980db9" style="vertical-align: -0.671ex; width:12.007ex; height:2.676ex;"/></span>), "When the engine performs work, on the other hand, no entropy leaves the engine. This is problematic. We would like the engine to repeat the process again and again to provide us with a steady work source. ... to do so, the working substance inside the engine must return to its initial thermodynamic condition after a cycle, which requires to remove the remaining entropy. The engine can do this only in one way. It must let part of the absorbed heat energy leave without converting it into work. Therefore the engine cannot convert all of the input energy into work!"</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.scribd.com/doc/147785416/Experimental-Investigations-on-a-Standing-Wave-Thermoacoustic-Engine#fullscreen" rel="nofollow">M. Emam, Experimental Investigations on a Standing-Wave Thermoacoustic Engine, M.Sc. Thesis, Cairo University, Egypt (2013)</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.fueleconomy.gov/feg/atv.shtml" rel="nofollow">Where the Energy Goes: Gasoline Vehicles</a>, US Dept of Energy</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Langston, Lee S. <a class="external text" href="http://web.archive.org/web/20090616132320/http://memagazine.asme.org/Web/Efficiency_by_Numbers.cfm" rel="nofollow">"Efficiency by the Numbers"</a>. ASME. Archived from <a class="external text" href="http://memagazine.asme.org/Web/Efficiency_by_Numbers.cfm" rel="nofollow">the original</a> on 26 June 2009.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+engine&amp;rft.aufirst=Lee+S.&amp;rft.aulast=Langston&amp;rft.btitle=Efficiency+by+the+Numbers&amp;rft.genre=unknown&amp;rft.pub=ASME&amp;rft_id=http%3A%2F%2Fmemagazine.asme.org%2FWeb%2FEfficiency_by_Numbers.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">afadfa, pdf. "Test". <i>www.test.com</i>. ASME. Archived from the original<span class="error citation-comment" style="font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|archive-url=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#archive_missing_url" title="Help:CS1 errors">help</a>)</span> on 18 September 2017.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+engine&amp;rft.atitle=Test&amp;rft.aufirst=pdf&amp;rft.aulast=afadfa&amp;rft.genre=unknown&amp;rft.jtitle=www.test.com&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Lindsey_2009-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lindsey_2009_8-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lindsey, Rebecca (2009). <a class="external text" href="http://earthobservatory.nasa.gov/Features/EnergyBalance/" rel="nofollow">"Climate and Earth’s Energy Budget"</a>. <i>NASA Earth Observatory</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+engine&amp;rft.atitle=Climate+and+Earth%E2%80%99s+Energy+Budget&amp;rft.aufirst=Rebecca&amp;rft.aulast=Lindsey&amp;rft.date=2009&amp;rft.genre=article&amp;rft.jtitle=NASA+Earth+Observatory&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FFeatures%2FEnergyBalance%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Junling Huang and Michael B. McElroy (2014). <a class="external text" href="http://journals.ametsoc.org/doi/abs/10.1175/JCLI-D-13-00538.1" rel="nofollow">"Contributions of the Hadley and Ferrel Circulations to the Energetics of the Atmosphere over the Past 32 Years"</a>. <i>Journal of Climate</i>. <b>27</b> (7): 2656–2666. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014JCli...27.2656H" rel="nofollow">2014JCli...27.2656H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2Fjcli-d-13-00538.1" rel="nofollow">10.1175/jcli-d-13-00538.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+engine&amp;rft.atitle=Contributions+of+the+Hadley+and+Ferrel+Circulations+to+the+Energetics+of+the+Atmosphere+over+the+Past+32+Years&amp;rft.au=Junling+Huang+and+Michael+B.+McElroy&amp;rft.date=2014&amp;rft.genre=article&amp;rft.issue=7&amp;rft.jtitle=Journal+of+Climate&amp;rft.pages=2656-2666&amp;rft.volume=27&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fabs%2F10.1175%2FJCLI-D-13-00538.1&amp;rft_id=info%3Abibcode%2F2014JCli...27.2656H&amp;rft_id=info%3Adoi%2F10.1175%2Fjcli-d-13-00538.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.cyclonepower.com/works.html" rel="nofollow">"Cyclone Power Technologies Website"</a>. Cyclonepower.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-22</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+engine&amp;rft.btitle=Cyclone+Power+Technologies+Website&amp;rft.genre=unknown&amp;rft.pub=Cyclonepower.com&amp;rft_id=http%3A%2F%2Fwww.cyclonepower.com%2Fworks.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-sinitsyn-11jpa-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-sinitsyn-11jpa_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">N. A. Sinitsyn (2011). "Fluctuation Relation for Heat Engines". <i>J. Phys. A: Math. Theor</i>. <b>44</b>: 405001. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2011JPhA...44N5001S" rel="nofollow">2011JPhA...44N5001S</a>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a class="external text" href="//arxiv.org/abs/1111.7014" rel="nofollow">1111.7014</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F1751-8113%2F44%2F40%2F405001" rel="nofollow">10.1088/1751-8113/44/40/405001</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+engine&amp;rft.atitle=Fluctuation+Relation+for+Heat+Engines&amp;rft.au=N.+A.+Sinitsyn&amp;rft.date=2011&amp;rft.genre=article&amp;rft.jtitle=J.+Phys.+A%3A+Math.+Theor.&amp;rft.pages=405001&amp;rft.volume=44&amp;rft_id=info%3Aarxiv%2F1111.7014&amp;rft_id=info%3Abibcode%2F2011JPhA...44N5001S&amp;rft_id=info%3Adoi%2F10.1088%2F1751-8113%2F44%2F40%2F405001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">F. L. Curzon, B. Ahlborn (1975). "Efficiency of a Carnot Engine at Maximum Power Output". <i>Am. J. Phys.</i>, Vol. 43, pp. 24.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://netfiles.uiuc.edu/mragheb/www/NPRE%20402%20ME%20405%20Nuclear%20Power%20Engineering/Nuclear%20Reactors%20Concepts%20and%20Thermodynamic%20Cycles.pdf" rel="nofollow">"Nuclear Reactors Concepts and Thermodynamic Cycles"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-03-22</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+engine&amp;rft.btitle=Nuclear+Reactors+Concepts+and+Thermodynamic+Cycles&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fnetfiles.uiuc.edu%2Fmragheb%2Fwww%2FNPRE%2520402%2520ME%2520405%2520Nuclear%2520Power%2520Engineering%2FNuclear%2520Reactors%2520Concepts%2520and%2520Thermodynamic%2520Cycles.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><cite class="citation book">Kroemer, Herbert; Kittel, Charles (1980). <i>Thermal Physics</i> (2nd ed.). W. H. Freeman Company. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7167-1088-9" title="Special:BookSources/0-7167-1088-9">0-7167-1088-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+engine&amp;rft.au=Kittel%2C+Charles&amp;rft.aufirst=Herbert&amp;rft.aulast=Kroemer&amp;rft.btitle=Thermal+Physics&amp;rft.date=1980&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-7167-1088-9&amp;rft.pub=W.+H.+Freeman+Company&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Callen, Herbert B. (1985). <i>Thermodynamics and an Introduction to Thermostatistics</i> (2nd ed.). John Wiley &amp; Sons, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-86256-8" title="Special:BookSources/0-471-86256-8">0-471-86256-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHeat+engine&amp;rft.aufirst=Herbert+B.&amp;rft.aulast=Callen&amp;rft.btitle=Thermodynamics+and+an+Introduction+to+Thermostatistics&amp;rft.date=1985&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=0-471-86256-8&amp;rft.pub=John+Wiley+%26+Sons%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<div aria-labelledby="Heat_engines" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style="background:#F0DC82;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Heat_engines" title="Template:Heat engines"><abbr style=";background:#F0DC82;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Heat_engines" title="Template talk:Heat engines"><abbr style=";background:#F0DC82;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Heat_engines&amp;action=edit"><abbr style=";background:#F0DC82;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Heat_engines" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Heat engines</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot engine</a></li>
+<li><a href="/wiki/Fluidyne_engine" title="Fluidyne engine">Fluidyne</a></li>
+<li><a href="/wiki/Gas_turbine" title="Gas turbine">Gas turbine</a></li>
+<li><a href="/wiki/Hot_air_engine" title="Hot air engine">Hot air</a></li>
+<li><a href="/wiki/Jet_engine" title="Jet engine">Jet</a></li>
+<li><a href="/wiki/Minto_wheel" title="Minto wheel">Minto wheel</a></li>
+<li><a href="/wiki/Photo-Carnot_engine" title="Photo-Carnot engine">Photo-Carnot engine</a></li>
+<li><a href="/wiki/Reciprocating_engine" title="Reciprocating engine">Piston</a></li>
+<li><a href="/wiki/Pistonless_rotary_engine" title="Pistonless rotary engine">Pistonless (Rotary)</a></li>
+<li><a href="/wiki/Rijke_tube" title="Rijke tube">Rijke tube</a></li>
+<li><a href="/wiki/Rocket_engine" title="Rocket engine">Rocket</a></li>
+<li><a href="/wiki/Split-single" title="Split-single">Split-single</a></li>
+<li><a href="/wiki/Steam_engine" title="Steam engine">Steam (reciprocating)</a></li>
+<li><a href="/wiki/Steam_turbine" title="Steam turbine">Steam turbine</a></li>
+<li><a href="/wiki/Stirling_engine" title="Stirling engine">Stirling</a></li>
+<li><a href="/wiki/Thermoacoustic_heat_engine" title="Thermoacoustic heat engine">Thermoacoustic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-even hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beale_number" title="Beale number">Beale number</a></li>
+<li><a href="/wiki/West_number" title="West number">West number</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Timeline of heat engine technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background:#F0DC82;">
+<div><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Thermodynamic cycle</a></div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Thermodynamic_cycles" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Thermodynamic_cycles" title="Template:Thermodynamic cycles"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamic_cycles" title="Template talk:Thermodynamic cycles"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamic_cycles&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Thermodynamic_cycles" style="font-size:114%;margin:0 4em"><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Thermodynamic cycles</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/External_combustion" title="External combustion">External<br/>
+combustion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">
+<div style="padding:0.1em 0;line-height:1.2em;">Without phase change<br/>
+(<a href="/wiki/Hot_air_engine" title="Hot air engine">hot air engines</a>)</div>
+</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brayton_cycle#Reverse_Brayton_cycle" title="Brayton cycle">Bell Coleman</a></li>
+<li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton / Joule</a></li>
+<li><a href="/wiki/Carnot_cycle" title="Carnot cycle">Carnot</a></li>
+<li><a href="/wiki/Ericsson_cycle" title="Ericsson cycle">Ericsson</a></li>
+<li><a href="/wiki/Stirling_cycle" title="Stirling cycle">Stirling</a></li>
+<li><a href="/wiki/Pseudo_Stirling_cycle" title="Pseudo Stirling cycle">Stirling (pseudo / adiabatic)</a></li>
+<li><a class="mw-redirect" href="/wiki/Stoddard_cycle" title="Stoddard cycle">Stoddard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;font-weight:normal;">With phase change</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kalina_cycle" title="Kalina cycle">Kalina</a></li>
+<li><a href="/wiki/Hygroscopic_cycle" title="Hygroscopic cycle">Hygroscopic</a></li>
+<li><a href="/wiki/Rankine_cycle" title="Rankine cycle">Rankine</a> (<a href="/wiki/Organic_Rankine_cycle" title="Organic Rankine cycle">Organic Rankine</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Regenerative_cycle" title="Regenerative cycle">Regenerative</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-redirect" href="/wiki/Internal_combustion" title="Internal combustion">Internal combustion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atkinson_cycle" title="Atkinson cycle">Atkinson</a></li>
+<li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton / Joule</a></li>
+<li><a href="/wiki/Diesel_cycle" title="Diesel cycle">Diesel</a></li>
+<li><a href="/wiki/Expander_cycle" title="Expander cycle">Expander</a></li>
+<li><a href="/wiki/Gas-generator_cycle" title="Gas-generator cycle">Gas-generator</a></li>
+<li><a href="/wiki/Homogeneous_charge_compression_ignition" title="Homogeneous charge compression ignition">Homogeneous charge compression ignition</a></li>
+<li><a href="/wiki/Lenoir_cycle" title="Lenoir cycle">Lenoir</a></li>
+<li><a href="/wiki/Miller_cycle" title="Miller cycle">Miller</a></li>
+<li><a href="/wiki/Otto_cycle" title="Otto cycle">Otto</a></li>
+<li><a href="/wiki/Scuderi_cycle" title="Scuderi cycle">Scuderi</a></li>
+<li><a href="/wiki/Staged_combustion_cycle" title="Staged combustion cycle">Staged combustion</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Mixed</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Combined_cycle" title="Combined cycle">Combined</a></li>
+<li><a href="/wiki/High-efficiency_hybrid_cycle" title="High-efficiency hybrid cycle">HEHC</a></li>
+<li><a href="/wiki/Mixed/dual_cycle" title="Mixed/dual cycle">Mixed / Dual</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Refrigeration</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hampson%E2%80%93Linde_cycle" title="Hampson–Linde cycle">Hampson–Linde</a></li>
+<li><a href="/wiki/Kleemenko_cycle" title="Kleemenko cycle">Kleemenko</a></li>
+<li><a href="/wiki/Pulse_tube_refrigerator" title="Pulse tube refrigerator">Pulse tube</a></li>
+<li><a href="/wiki/Regenerative_cooling" title="Regenerative cooling">Regenerative cooling</a></li>
+<li><a href="/wiki/Transcritical_cycle" title="Transcritical cycle">Transcritical</a></li>
+<li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Vapor absorption</a></li>
+<li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression</a></li>
+<li><a href="/wiki/Siemens_cycle" title="Siemens cycle">Siemens</a></li>
+<li><a href="/wiki/Vuilleumier_cycle" title="Vuilleumier cycle">Vuilleumier</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Uncategorized</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barton_evaporation_engine" title="Barton evaporation engine">Barton</a></li>
+<li><a href="/wiki/Humphrey_cycle" title="Humphrey cycle">Humphrey</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a>: <span class="uid"><a class="external text" href="http://id.loc.gov/authorities/subjects/sh85059780" rel="nofollow">sh85059780</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4124418-7" rel="nofollow">4124418-7</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/Biblioth%C3%A8que_nationale_de_France" title="Bibliothèque nationale de France">BNF</a>: <span class="uid"><a class="external text" href="http://catalogue.bnf.fr/ark:/12148/cb11973071j" rel="nofollow">cb11973071j</a> <a class="external text" href="http://data.bnf.fr/ark:/12148/cb11973071j" rel="nofollow">(data)</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00568132" rel="nofollow">00568132</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1321
+Cached time: 20171002054300
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.392 seconds
+Real time usage: 0.593 seconds
+Preprocessor visited node count: 1658/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 93996/2097152 bytes
+Template argument size: 1371/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.127/10.000 seconds
+Lua memory usage: 4.38 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  338.312      1 -total
+ 24.46%   82.752      1 Template:Reflist
+ 16.73%   56.605      1 Template:Thermodynamics
+ 13.67%   46.233      4 Template:Cite_web
+ 12.66%   42.819      1 Template:Citation_needed
+ 11.87%   40.141      1 Template:Fix
+ 10.49%   35.495      1 Template:Commons_category
+  7.52%   25.434      1 Template:Authority_control
+  7.35%   24.859      2 Template:Category_handler
+  7.27%   24.582      2 Template:See_also
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:13654-0!canonical!math=5 and timestamp 20171002054300 and revision id 803385442
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Heat_engine&amp;oldid=803385442">https://en.wikipedia.org/w/index.php?title=Heat_engine&amp;oldid=803385442</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Concepts_in_physics" title="Category:Concepts in physics">Concepts in physics</a></li><li><a href="/wiki/Category:Engines" title="Category:Engines">Engines</a></li><li><a href="/wiki/Category:Thermodynamics" title="Category:Thermodynamics">Thermodynamics</a></li><li><a href="/wiki/Category:Energy_conversion" title="Category:Energy conversion">Energy conversion</a></li><li><a href="/wiki/Category:Heating,_ventilating,_and_air_conditioning" title="Category:Heating, ventilating, and air conditioning">Heating, ventilating, and air conditioning</a></li><li><a href="/wiki/Category:Engine_technology" title="Category:Engine technology">Engine technology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li><li><a href="/wiki/Category:Pages_with_archiveurl_citation_errors" title="Category:Pages with archiveurl citation errors">Pages with archiveurl citation errors</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_August_2013" title="Category:Use dmy dates from August 2013">Use dmy dates from August 2013</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2010" title="Category:Articles with unsourced statements from January 2010">Articles with unsourced statements from January 2010</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_LCCN_identifiers" title="Category:Wikipedia articles with LCCN identifiers">Wikipedia articles with LCCN identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_BNF_identifiers" title="Category:Wikipedia articles with BNF identifiers">Wikipedia articles with BNF identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Heat+engine" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Heat+engine" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Heat_engine" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Heat_engine" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Heat_engine">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Heat_engine&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Heat_engine&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Heat_engine" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Heat_engine" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Heat_engine&amp;oldid=803385442" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Heat_engine&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q178185" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Heat_engine&amp;id=803385442" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Heat+engine">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Heat+engine&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DHeat%2Bengine%26returnto%3DHeat%2Bengine%26oldid%3D803385442%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Heat_engine&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Engines" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Hitte-enjin" hreflang="af" lang="af" title="Hitte-enjin – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%B1%D9%83_%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A" hreflang="ar" lang="ar" title="محرك حراري – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BF%D0%BB%D0%B0%D0%B2%D1%8B_%D1%80%D1%83%D1%85%D0%B0%D0%B2%D1%96%D0%BA" hreflang="be" lang="be" title="Цеплавы рухавік – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BF%D0%BB%D0%B0%D0%B2%D1%8B_%D1%80%D1%83%D1%85%D0%B0%D0%B2%D1%96%D0%BA" hreflang="be-x-old" lang="be-x-old" title="Цеплавы рухавік – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%BD%D0%B5%D0%BD_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB" hreflang="bg" lang="bg" title="Топлинен двигател – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/M%C3%A0quina_t%C3%A8rmica" hreflang="ca" lang="ca" title="Màquina tèrmica – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Tepeln%C3%BD_stroj" hreflang="cs" lang="cs" title="Tepelný stroj – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Varmekraftmaskine" hreflang="da" lang="da" title="Varmekraftmaskine – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/W%C3%A4rmekraftmaschine" hreflang="de" lang="de" title="Wärmekraftmaschine – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Soojusmasin" hreflang="et" lang="et" title="Soojusmasin – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%81%CE%BC%CE%B9%CE%BA%CE%AE_%CE%BC%CE%B7%CF%87%CE%B1%CE%BD%CE%AE" hreflang="el" lang="el" title="Θερμική μηχανή – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Motor_t%C3%A9rmico" hreflang="es" lang="es" title="Motor térmico – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Termika_motoro" hreflang="eo" lang="eo" title="Termika motoro – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D8%B4%DB%8C%D9%86_%DA%AF%D8%B1%D9%85%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="ماشین گرمایی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Machine_thermique" hreflang="fr" lang="fr" title="Machine thermique – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Inneall_teasa" hreflang="ga" lang="ga" title="Inneall teasa – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/M%C3%A1quina_t%C3%A9rmica" hreflang="gl" lang="gl" title="Máquina térmica – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%B4%EA%B8%B0%EA%B4%80" hreflang="ko" lang="ko" title="열기관 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8B%D5%A5%D6%80%D5%B4%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B7%D5%A1%D6%80%D5%AA%D5%AB%D5%B9%D5%B6%D5%A5%D6%80" hreflang="hy" lang="hy" title="Ջերմային շարժիչներ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%8A%E0%A4%B7%E0%A5%8D%E0%A4%AE%E0%A4%BE_%E0%A4%87%E0%A4%82%E0%A4%9C%E0%A4%A8" hreflang="hi" lang="hi" title="ऊष्मा इंजन – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Toplinski_stroj" hreflang="hr" lang="hr" title="Toplinski stroj – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Kaloro_mashino" hreflang="io" lang="io" title="Kaloro mashino – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Mesin_kalor" hreflang="id" lang="id" title="Mesin kalor – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Macchina_termica" hreflang="it" lang="it" title="Macchina termica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A0%D7%95%D7%A2_%D7%97%D7%95%D7%9D" hreflang="he" lang="he" title="מנוע חום – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%89%E0%B2%B7%E0%B3%8D%E0%B2%A3_%E0%B2%87%E0%B2%82%E0%B2%9C%E0%B2%BF%E0%B2%A8%E0%B3%8D" hreflang="kn" lang="kn" title="ಉಷ್ಣ ಇಂಜಿನ್ – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%96%D1%8B%D0%BB%D1%83%D0%BB%D1%8B%D2%9B_%D2%9B%D0%BE%D0%B7%D2%93%D0%B0%D0%BB%D1%82%D2%9B%D1%8B%D1%88" hreflang="kk" lang="kk" title="Жылулық қозғалтқыш – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Machinatio_Calor" hreflang="la" lang="la" title="Machinatio Calor – Latin">Latina</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/%C5%A0iluminis_variklis" hreflang="lt" lang="lt" title="Šiluminis variklis – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/H%C5%91er%C5%91g%C3%A9p" hreflang="hu" lang="hu" title="Hőerőgép – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%A1%E1%80%95%E1%80%B0_%E1%80%A1%E1%80%84%E1%80%BA%E1%80%82%E1%80%BB%E1%80%84%E1%80%BA%E1%80%85%E1%80%80%E1%80%BA" hreflang="my" lang="my" title="အပူ အင်ဂျင်စက် – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Warmtemachine" hreflang="nl" lang="nl" title="Warmtemachine – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%86%B1%E6%A9%9F%E9%96%A2" hreflang="ja" lang="ja" title="熱機関 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Varmekraftmaskin" hreflang="no" lang="no" title="Varmekraftmaskin – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Varmekraftmaskin" hreflang="nn" lang="nn" title="Varmekraftmaskin – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Issiqlik_dvigateli" hreflang="uz" lang="uz" title="Issiqlik dvigateli – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Silnik_cieplny" hreflang="pl" lang="pl" title="Silnik cieplny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/M%C3%A1quina_t%C3%A9rmica" hreflang="pt" lang="pt" title="Máquina térmica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Motor_termic" hreflang="ro" lang="ro" title="Motor termic – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" hreflang="ru" lang="ru" title="Тепловой двигатель – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Heat_ingine" hreflang="sco" lang="sco" title="Heat ingine – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Heat_engine" hreflang="simple" lang="simple" title="Heat engine – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Tepeln%C3%BD_stroj" hreflang="sk" lang="sk" title="Tepelný stroj – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Toplotni_stroj" hreflang="sl" lang="sl" title="Toplotni stroj – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%B8_%D0%BC%D0%BE%D1%82%D0%BE%D1%80" hreflang="sr" lang="sr" title="Топлотни мотор – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/L%C3%A4mp%C3%B6voimakone" hreflang="fi" lang="fi" title="Lämpövoimakone – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/V%C3%A4rmemaskin" hreflang="sv" lang="sv" title="Värmemaskin – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA_%E0%AE%8E%E0%AE%A8%E0%AF%8D%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="வெப்ப எந்திரம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B7%E0%B9%88%E0%B8%AD%E0%B8%87%E0%B8%88%E0%B8%B1%E0%B8%81%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99" hreflang="th" lang="th" title="เครื่องจักรความร้อน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Is%C4%B1_motoru" hreflang="tr" lang="tr" title="Isı motoru – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D1%83%D0%BD" hreflang="uk" lang="uk" title="Тепловий двигун – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_c%C6%A1_nhi%E1%BB%87t" hreflang="vi" lang="vi" title="Động cơ nhiệt – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%83%AD%E6%9C%BA" hreflang="zh" lang="zh" title="热机 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q178185#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 October 2017, at 05:43.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Heat_engine&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.392","walltime":"0.593","ppvisitednodes":{"value":1658,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":93996,"limit":2097152},"templateargumentsize":{"value":1371,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  338.312      1 -total"," 24.46%   82.752      1 Template:Reflist"," 16.73%   56.605      1 Template:Thermodynamics"," 13.67%   46.233      4 Template:Cite_web"," 12.66%   42.819      1 Template:Citation_needed"," 11.87%   40.141      1 Template:Fix"," 10.49%   35.495      1 Template:Commons_category","  7.52%   25.434      1 Template:Authority_control","  7.35%   24.859      2 Template:Category_handler","  7.27%   24.582      2 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.127","limit":"10.000"},"limitreport-memusage":{"value":4597705,"limit":52428800}},"cachereport":{"origin":"mw1321","timestamp":"20171002054300","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":85,"wgHostname":"mw1245"});});</script>
+</body>
+</html>

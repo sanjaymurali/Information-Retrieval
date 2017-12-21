@@ -1,0 +1,390 @@
+https://en.wikipedia.org/wiki/Climate_oscillation
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Climate oscillation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Climate_oscillation","wgTitle":"Climate oscillation","wgCurRevisionId":797412096,"wgRevisionId":797412096,"wgArticleId":32478026,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from June 2015","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from February 2017","Articles with unsourced statements from September 2016","Atmospheric chemistry","Atmospheric dynamics","Climatology","Climate history","Oscillation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Climate_oscillation","wgRelevantArticleId":32478026,"wgRequestId":"WdOxhQpAEKcAAHQxBe0AAACG","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q3738986","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Climate_oscillation" rel="alternate"/>
+<link href="/w/index.php?title=Climate_oscillation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Climate_oscillation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Climate_oscillation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Climate_oscillation rootpage-Climate_oscillation vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Climate oscillation</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Climate_oscillation&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(June 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>A <b>climate oscillation</b> or <b>climate cycle</b> is any recurring cyclical <a href="/wiki/Oscillation" title="Oscillation">oscillation</a> within global or regional <a href="/wiki/Climate" title="Climate">climate</a>, and is a type of <a href="/wiki/Climate_pattern" title="Climate pattern">climate pattern</a>. These fluctuations in <a href="/wiki/Atmospheric_temperature" title="Atmospheric temperature">atmospheric temperature</a>, <a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">sea surface temperature</a>, <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> or other parameters can be <a class="mw-redirect" href="/wiki/Quasi-periodic" title="Quasi-periodic">quasi-periodic</a>, often occurring on inter-annual, multi-annual, decadal, multidecadal, century-wide, millennial or longer <a href="/wiki/Dynamical_time_scale" title="Dynamical time scale">timescales</a>. They are not perfectly periodic and a <a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a> of the data does not give a sharp spectrum.</p>
+<p>A prominent example is the <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o_Southern_Oscillation" title="El Niño Southern Oscillation">El Niño Southern Oscillation</a>, involving sea surface temperatures along a stretch of the equatorial Central and East <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> and the western coast of tropical South America, but which affects climate worldwide.</p>
+<p>Records of past climate conditions are recovered through <a href="/wiki/Geology" title="Geology">geological</a> examination of <a href="/wiki/Proxy_(climate)" title="Proxy (climate)">proxies</a>, found in <a href="/wiki/Ice_core" title="Ice core">glacier ice</a>, <a href="/wiki/Sedimentology" title="Sedimentology">sea bed sediment</a>, <a href="/wiki/Dendrochronology" title="Dendrochronology">tree ring studies</a> or otherwise.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Origins_and_causes"><span class="tocnumber">2</span> <span class="toctext">Origins and causes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Effects"><span class="tocnumber">3</span> <span class="toctext">Effects</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Analysis_and_uncertainties"><span class="tocnumber">4</span> <span class="toctext">Analysis and uncertainties</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Through_geologic_and_historical_time"><span class="tocnumber">5</span> <span class="toctext">Through geologic and historical time</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_oscillation&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Many oscillations on different time-scales are hypothesized, although the causes may be unknown. (Some of them are more like a <a href="/wiki/Random_walk" title="Random walk">random walk</a> than an oscillation.) Here is a list of known or proposed climatic oscillations<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2017)">citation needed</span></a></i>]</sup>:</p>
+<p><br/></p>
+<ul>
+<li>the <a href="/wiki/Quasi-biennial_oscillation" title="Quasi-biennial oscillation">Quasi-biennial oscillation</a> – about 30 months</li>
+<li>the <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o_Southern_Oscillation" title="El Niño Southern Oscillation">El Niño Southern Oscillation</a> – 2 to 7 years</li>
+<li>the <a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">Pacific decadal oscillation</a> – 8 to 12 years? (not clear)</li>
+<li>the <a href="/wiki/Solar_cycle" title="Solar cycle">Schwabe Cycle</a> or sunspot cycle – about 11 years (may be discernible in climate records; see <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">solar variation</a>)</li>
+<li>the <a href="/wiki/Solar_cycle" title="Solar cycle">Hale Cycle</a> or double sunspot cycle - about 22 years<sup class="reference" id="cite_ref-GeoSun_1-0"><a href="#cite_note-GeoSun-1">[1]</a></sup></li>
+<li>the <a href="/wiki/Interdecadal_Pacific_Oscillation" title="Interdecadal Pacific Oscillation">Interdecadal Pacific Oscillation</a> – 15 to 30 years? (not clear)</li>
+<li>the <a class="mw-redirect" href="/wiki/Atlantic_Multidecadal_Oscillation" title="Atlantic Multidecadal Oscillation">Atlantic Multidecadal Oscillation</a> – around 50 to 70 years, but unpredictable</li>
+<li>a 60-year climate cycle recorded in many ancient calendars<sup class="reference" id="cite_ref-Scafetta_2-0"><a href="#cite_note-Scafetta-2">[2]</a></sup></li>
+<li>the <a href="/wiki/Solar_cycle" title="Solar cycle">Gleissberg Cycle</a> - a solar cycle of about 88 years<sup class="reference" id="cite_ref-GeoSun_1-1"><a href="#cite_note-GeoSun-1">[1]</a></sup></li>
+<li>the <a href="/wiki/Solar_cycle" title="Solar cycle">Suess Cycle</a> or De Vries Cycle - a solar cycle of about 200 years<sup class="reference" id="cite_ref-GeoSun_1-2"><a href="#cite_note-GeoSun-1">[1]</a></sup></li>
+<li>the <a href="/wiki/Solar_cycle" title="Solar cycle">Hallstadtzeit/Hallstatt Cycle</a> - a solar cycle of about 2,200 to 2,400 years<sup class="reference" id="cite_ref-GeoSun_1-3"><a href="#cite_note-GeoSun-1">[1]</a></sup><sup class="reference" id="cite_ref-cycle24_3-0"><a href="#cite_note-cycle24-3">[3]</a></sup></li>
+<li><a href="/wiki/North_African_climate_cycles" title="North African climate cycles">North African climate cycles</a> – tens of thousands of years</li>
+<li>the <a href="/wiki/Glacial_period" title="Glacial period">glacial periods</a> of <a href="/wiki/Quaternary_glaciation" title="Quaternary glaciation">the current ice age</a> – period around 100 000 years (see <a href="/wiki/Quaternary_glaciation#Astronomical_cycles" title="Quaternary glaciation">Quaternary glaciation#Astronomical cycles</a> and <a href="/wiki/100,000-year_problem" title="100,000-year problem">100,000-year problem</a>)</li>
+</ul>
+<p><br/></p>
+<ul>
+<li>the <a href="/wiki/Arctic_oscillation" title="Arctic oscillation">Arctic oscillation</a> – no particular periodicity</li>
+<li>the <a class="mw-redirect" href="/wiki/North_Atlantic_Oscillation" title="North Atlantic Oscillation">North Atlantic Oscillation</a> – no particular periodicity</li>
+<li>the <a href="/wiki/North_Pacific_Oscillation" title="North Pacific Oscillation">North Pacific Oscillation</a> – ?</li>
+</ul>
+<p><br/>
+Anomalies in oscillations sometimes occur when they coincide, as in the <a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a> (a combination of the Arctic and North Atlantic oscillations) and the longer-term <a href="/wiki/Younger_Dryas" title="Younger Dryas">Younger Dryas</a>, a sudden non-linear cooling event that occurred at the onset of the current <a href="/wiki/Holocene" title="Holocene">Holocene</a> <a href="/wiki/Interglacial" title="Interglacial">interglacial</a>. In the case of volcanoes, large eruptions such as <a href="/wiki/Mount_Tambora" title="Mount Tambora">Mount Tambora</a> in 1816, which led to the <a href="/wiki/Year_Without_a_Summer" title="Year Without a Summer">Year Without a Summer</a>, typically cool the climate, especially when the volcano is located in the <a class="mw-redirect" href="/wiki/Tropical_climate_zone" title="Tropical climate zone">tropics</a>. Around 70 000 years ago the <a class="mw-redirect" href="/wiki/Toba_Volcano" title="Toba Volcano">Toba supervolcano</a> eruption created an especially cold period during the ice age, leading to a possible <a class="mw-redirect" href="/wiki/Toba_bottleneck" title="Toba bottleneck">genetic bottleneck</a> in human populations. However, <a href="/wiki/Outgassing" title="Outgassing">outgassing</a> from <a href="/wiki/Large_igneous_province" title="Large igneous province">large igneous provinces</a> such as the <a href="/wiki/Permian" title="Permian">Permian</a> <a href="/wiki/Siberian_Traps" title="Siberian Traps">Siberian Traps</a> can input <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> into the atmosphere, warming the climate. Triggering of other mechanisms, such as <a href="/wiki/Methane_clathrate" title="Methane clathrate">methane clathrate</a> deposits as during the <a class="mw-redirect" href="/wiki/Paleocene-Eocene_Thermal_Maximum" title="Paleocene-Eocene Thermal Maximum">Paleocene-Eocene Thermal Maximum</a>, increased the rate of climatic temperature change and oceanic extinctions.</p>
+<p>Another longer-term near-millennial oscillation involves the <a class="mw-redirect" href="/wiki/Daansgard-Oeschger_cycles" title="Daansgard-Oeschger cycles">Daansgard-Oeschger cycles</a>, occurring on roughly 1,500-year cycles during the <a class="mw-redirect" href="/wiki/Last_glacial_maximum" title="Last glacial maximum">last glacial maximum</a>. They may be related to the Holocene <a href="/wiki/Bond_event" title="Bond event">Bond events</a>, and may involve factors similar to those responsible for <a href="/wiki/Heinrich_event" title="Heinrich event">Heinrich events</a>.</p>
+<h2><span class="mw-headline" id="Origins_and_causes">Origins and causes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_oscillation&amp;action=edit&amp;section=2" title="Edit section: Origins and causes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are close correlations between Earth's climate oscillations and astronomical factors (<a href="/wiki/Barycenter" title="Barycenter">barycenter</a> changes, <a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">solar variation</a>, <a href="/wiki/Cosmic_ray" title="Cosmic ray">cosmic ray</a> flux, <a href="/wiki/Cloud_albedo" title="Cloud albedo">cloud albedo</a> <a href="/wiki/Cloud_feedback" title="Cloud feedback">feedback</a>, <a class="mw-redirect" href="/wiki/Milankovic_cycle" title="Milankovic cycle">Milankovic cycles</a>), and modes of <a href="/wiki/Thermodynamics" title="Thermodynamics">heat distribution</a> between the ocean-atmosphere climate system. In some cases, current, historical and <a class="mw-redirect" href="/wiki/Paleoclimate" title="Paleoclimate">paleoclimatological</a> natural oscillations may be masked by significant <a class="mw-redirect" href="/wiki/Volcanic_eruption" title="Volcanic eruption">volcanic eruptions</a>, <a href="/wiki/Impact_event" title="Impact event">impact events</a>, irregularities in <a class="mw-redirect" href="/wiki/Climate_proxy" title="Climate proxy">climate proxy</a> data, <a href="/wiki/Positive_feedback" title="Positive feedback">positive feedback</a> processes or <a href="/wiki/Human_impact_on_the_environment" title="Human impact on the environment">anthropogenic</a> <a href="/wiki/Greenhouse_gas#Greenhouse_gas_emissions" title="Greenhouse gas">emissions</a> of substances such as <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gases</a>.<sup class="reference" id="cite_ref-Scafetta_2-1"><a href="#cite_note-Scafetta-2">[2]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Effects">Effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_oscillation&amp;action=edit&amp;section=3" title="Edit section: Effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Extreme phases of short-term climate oscillations such as ENSO can result in characteristic patterns of <a href="/wiki/Flood" title="Flood">floods</a> and <a href="/wiki/Drought" title="Drought">droughts</a> (including <a href="/wiki/Megadrought" title="Megadrought">megadroughts</a>), <a href="/wiki/Monsoon" title="Monsoon">monsoonal</a> disruption and extreme temperatures in the form of <a href="/wiki/Heat_wave" title="Heat wave">heat waves</a> and <a href="/wiki/Cold_wave" title="Cold wave">cold waves</a>. Shorter-term climate oscillations typically do not directly result in longer-term <a href="/wiki/Climate_change" title="Climate change">climate change</a> in temperatures. However, the effects of underlying climate trends such as recent <a href="/wiki/Global_warming" title="Global warming">global warming</a> and oscillations can be cumulative to <a href="/wiki/Global_temperature" title="Global temperature">global temperature</a>, producing shorter-term fluctuations in the <a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">instrumental</a> and <a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">satellite</a> <a href="/wiki/Temperature_record" title="Temperature record">temperature records</a>.</p>
+<p>Collapses of past civilizations such as the <a href="/wiki/Maya_civilization" title="Maya civilization">Maya</a> may be related to cycles of precipitation, especially drought, that in this example also correlates to the <a href="/wiki/Western_Hemisphere_Warm_Pool" title="Western Hemisphere Warm Pool">Western Hemisphere Warm Pool</a>.</p>
+<p>One example of possible correlations between factors affecting the climate and global events, popular with the media, is a 2003 study on the correlation between <a href="/wiki/Wheat" title="Wheat">wheat</a> prices and sunspot numbers.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Analysis_and_uncertainties">Analysis and uncertainties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_oscillation&amp;action=edit&amp;section=4" title="Edit section: Analysis and uncertainties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcings</a> and other factors in a climate oscillation must obey the laws of <a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">atmospheric thermodynamics</a>. However, because Earth's climate is inherently a <a class="mw-redirect" href="/wiki/Complex_system" title="Complex system">complex system</a>, simple <a href="/wiki/Fourier_analysis" title="Fourier analysis">Fourier analysis</a> or <a href="/wiki/Climate_model" title="Climate model">climate modelling</a> often does not create a perfect replication of the observed or inferred conditions. No climate cycle is found to be perfectly periodic, although the <a class="mw-redirect" href="/wiki/Milankovich_cycle" title="Milankovich cycle">Milankovich cycles</a> (based on multiple superimposed orbital cycles and <a class="mw-redirect" href="/wiki/Axial_precession_(astronomy)" title="Axial precession (astronomy)">Earth's precession</a>) are quite close to being periodic (perhaps <a class="mw-redirect" href="/wiki/Almost_periodic" title="Almost periodic">almost periodic</a>?).</p>
+<p>One difficulty in detecting climate cycles is that the Earth's climate has been changing in non-cyclic ways over most paleoclimatological timescales. For instance, we are now in a period of global warming that appears anthropogenic. In a larger timeframe, the Earth is <a href="/wiki/Holocene_glacial_retreat" title="Holocene glacial retreat">emerging</a> from the latest ice age, cooling from the <a href="/wiki/Holocene_climatic_optimum" title="Holocene climatic optimum">Holocene climatic optimum</a> and warming from the so-called "<a href="/wiki/Little_Ice_Age" title="Little Ice Age">Little Ice Age</a>", which means that climate has been constantly changing over the last 15,000 years or so. During warm periods, temperature fluctuations are often of a lesser amplitude. The <a href="/wiki/Pleistocene" title="Pleistocene">Pleistocene</a> period, dominated by repeated <a class="mw-redirect" href="/wiki/Glaciation" title="Glaciation">glaciations</a>, developed out of more stable conditions in the <a href="/wiki/Miocene" title="Miocene">Miocene</a> and <a href="/wiki/Pliocene" title="Pliocene">Pliocene</a> <a href="/wiki/Pliocene_climate" title="Pliocene climate">climate</a>. Holocene climate has been relatively stable. All of these changes complicate the task of looking for cyclical behavior in the climate.</p>
+<p><a href="/wiki/Positive_feedback" title="Positive feedback">Positive feedback</a>, <a href="/wiki/Negative_feedback" title="Negative feedback">negative feedback</a>, and <a class="mw-redirect" href="/wiki/Ecological_inertia" title="Ecological inertia">ecological inertia</a> from the land-ocean-atmosphere system often attenuate or reverse smaller effects, whether from orbital forcings, solar variations or changes in concentrations of greenhouse gases. Most climatologists recognize the existence of various <a href="/wiki/Tipping_point_(climatology)" title="Tipping point (climatology)">tipping points</a> that push small forcings beyond a certain threshold that makes the change irreversible while the forcings are still in place. Certain feedbacks involvong processes such as clouds are also uncertain; for <a href="/wiki/Contrail" title="Contrail">contrails</a>, natural <a href="/wiki/Cirrus_cloud" title="Cirrus cloud">cirrus</a> clouds, oceanic <a href="/wiki/Dimethyl_sulfide" title="Dimethyl sulfide">dimethyl sulfide</a> and a land-based equivalent, competing theories exist concerning effects on climatic temperatures, for example contrasting the <a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a> and <a href="/wiki/CLAW_hypothesis" title="CLAW hypothesis">CLAW hypothesis</a>.</p>
+<h2><span class="mw-headline" id="Through_geologic_and_historical_time">Through geologic and historical time</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_oscillation&amp;action=edit&amp;section=5" title="Edit section: Through geologic and historical time">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:65_Myr_Climate_Change.png"><img alt="" class="thumbimage" data-file-height="397" data-file-width="650" height="244" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/65_Myr_Climate_Change.png/400px-65_Myr_Climate_Change.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/65_Myr_Climate_Change.png/600px-65_Myr_Climate_Change.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/1b/65_Myr_Climate_Change.png 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:65_Myr_Climate_Change.png" title="Enlarge"></a></div>
+Climate change over the past 65 million years, using proxy data including <a href="/wiki/Oxygen-18" title="Oxygen-18">Oxygen-18</a> ratios from <a href="/wiki/Foraminifera" title="Foraminifera">foraminifera</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a class="image" href="/wiki/File:Holocene_Temperature_Variations.png"><img alt="" class="thumbimage" data-file-height="400" data-file-width="600" height="333" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Holocene_Temperature_Variations.png/500px-Holocene_Temperature_Variations.png" srcset="//upload.wikimedia.org/wikipedia/commons/c/ca/Holocene_Temperature_Variations.png 1.5x" width="500"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Holocene_Temperature_Variations.png" title="Enlarge"></a></div>
+Temperature change over the past 12 000 years, from various sources. The thick black curve is an average.</div>
+</div>
+</div>
+<p>Various <a class="mw-redirect" href="/wiki/Climate_forcing" title="Climate forcing">climate forcings</a> are typically in flux throughout <a class="mw-redirect" href="/wiki/Geologic_time" title="Geologic time">geologic time</a>, and some processes of the Earth's temperature may be <a href="/wiki/Homeostasis" title="Homeostasis">self-regulating</a>. For example, during the <a href="/wiki/Snowball_Earth" title="Snowball Earth">Snowball Earth</a> period, large glacial ice sheets spanned to Earth's equator, covering nearly its entire surface, and very high <a href="/wiki/Albedo" title="Albedo">albedo</a> created extremely low temperatures, while the accumulation of snow and ice likely removed carbon dioxide through <a href="/wiki/Deposition_(chemistry)" title="Deposition (chemistry)">atmospheric deposition</a>. However, the absence of <a href="/wiki/Plant_cover" title="Plant cover">plant cover</a> to absorb atmospheric CO<sub>2</sub> emitted by volcanoes meant that the greenhouse gas could accumulate in the atmosphere. There was also an absence of exposed silicate rocks, which use CO<sub>2</sub> when they undergo weathering. This created a warming that later melted the ice and brought Earth's temperature back to equilibrium. During the following eons of the <a href="/wiki/Paleozoic" title="Paleozoic">Paleozoic</a>, cosmic ray flux and occasional nearby <a href="/wiki/Supernova" title="Supernova">supernova</a> explosions (one hypothesis for the cause of the <a class="mw-redirect" href="/wiki/Ordovician%E2%80%93Silurian_extinction_event" title="Ordovician–Silurian extinction event">Ordovician–Silurian extinction event</a>) and <a class="mw-redirect" href="/wiki/Gamma_ray_burst" title="Gamma ray burst">gamma ray bursts</a> may have induced ice ages or other sudden climate changes.</p>
+<p>Throughout the <a href="/wiki/Cenozoic" title="Cenozoic">Cenozoic</a>, multiple climate forcings led to warming and cooling of the atmosphere, which led to the early formation of the <a href="/wiki/Antarctic_ice_sheet" title="Antarctic ice sheet">Antarctic ice sheet</a>, subsequent melting, and its later reglaciation. The temperature changes occurred somewhat suddenly, at carbon dioxide concentrations of about 600–760 ppm and temperatures approximately 4 °C warmer than today. During the Pleistocene, cycles of glaciations and interglacials occurred on cycles of roughly 100,000 years, but may stay longer within an interglacial when <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">orbital eccentricity</a> approaches zero, as during the current interglacial. Previous interglacials such as the <a class="mw-redirect" href="/wiki/Eemian_interglacial" title="Eemian interglacial">Eemian</a> phase created temperatures higher than today, higher sea levels, and some partial melting of the <a class="mw-redirect" href="/wiki/West_Antarctic_ice_sheet" title="West Antarctic ice sheet">West Antarctic ice sheet</a>. The warmest part of the current interglacial occurred during the early Holocene Optimum, when temperatures were a few degrees Celsius warmer than today, and a strong <a class="mw-redirect" href="/wiki/African_Monsoon" title="African Monsoon">African Monsoon</a> created grassland conditions in the <a href="/wiki/Sahara" title="Sahara">Sahara</a> during the <a href="/wiki/Neolithic_Subpluvial" title="Neolithic Subpluvial">Neolithic Subpluvial</a>. Since that time, several <a href="/wiki/Stadial" title="Stadial">cooling events</a> have occurred, including:</p>
+<ul>
+<li>the <a href="/wiki/Piora_Oscillation" title="Piora Oscillation">Piora Oscillation</a></li>
+<li>the <a href="/wiki/Middle_Bronze_Age_Cold_Epoch" title="Middle Bronze Age Cold Epoch">Middle Bronze Age Cold Epoch</a></li>
+<li>the <a href="/wiki/Iron_Age_Cold_Epoch" title="Iron Age Cold Epoch">Iron Age Cold Epoch</a></li>
+<li>cooling during the <a href="/wiki/Dark_Ages_(historiography)" title="Dark Ages (historiography)">Dark Ages</a></li>
+<li>the <a href="/wiki/Sp%C3%B6rer_Minimum" title="Spörer Minimum">Spörer Minimum</a></li>
+<li>the "<a href="/wiki/Little_Ice_Age" title="Little Ice Age">Little Ice Age</a>"</li>
+<li>the <a href="/wiki/Dalton_Minimum" title="Dalton Minimum">Dalton Minimum</a></li>
+<li>volcanic coolings such as from <a href="/wiki/Laki" title="Laki">Laki</a> in Iceland</li>
+<li>the phase of cooling c. 1940-1970, which led to <a href="/wiki/Global_cooling" title="Global cooling">global cooling</a> hypotheses</li>
+</ul>
+<p>In contrast, several warm periods have also taken place, and they include but are not limited to:</p>
+<ul>
+<li>the <a href="/wiki/Older_Peron" title="Older Peron">Older Peron</a> during the late Holocene optimum</li>
+<li>a warm period during the apex of the <a href="/wiki/Minoan_civilization" title="Minoan civilization">Minoan civilization</a></li>
+<li>the <a href="/wiki/Roman_Warm_Period" title="Roman Warm Period">Roman Warm Period</a></li>
+<li>the <a href="/wiki/Medieval_Warm_Period" title="Medieval Warm Period">Medieval Warm Period</a></li>
+<li>the <a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">retreat of glaciers since 1850</a></li>
+<li>the "<a class="mw-redirect" href="/wiki/Modern_Warming" title="Modern Warming">Modern Warming</a>" during the 20th century</li>
+</ul>
+<p>Certain effects have occurred during these cycles. For example, during the Medieval Warm Period, the <a class="mw-redirect" href="/wiki/American_Midwest" title="American Midwest">American Midwest</a> was in drought, including the <a class="mw-redirect" href="/wiki/Sand_Hills_(Nebraska)" title="Sand Hills (Nebraska)">Sand Hills of Nebraska</a> which were active <a class="mw-redirect" href="/wiki/Sand_dune" title="Sand dune">sand dunes</a>. The <a class="mw-redirect" href="/wiki/Black_death" title="Black death">black death</a> plague of <i><a href="/wiki/Yersinia_pestis" title="Yersinia pestis">Yersinia pestis</a></i> also occurred during Medieval temperature fluctuations, and may be related to changing climates.</p>
+<p>Given that records of solar activity are accurate, solar activity may have contributed to part of the modern warming that peaked in the 1930s, in addition to the 60-year temperature cycles that result in roughly 0.5 °C of warming during the increasing temperature phase. However, solar cycles fail to account for warming observed since the 1980s to the present day<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2016)">citation needed</span></a></i>]</sup>. Events such as the opening of the <a href="/wiki/Northwest_Passage" title="Northwest Passage">Northwest Passage</a> and recent record low ice minima of the modern <a class="mw-redirect" href="/wiki/Arctic_shrinkage" title="Arctic shrinkage">Arctic shrinkage</a> have not taken place for at least several centuries, as early explorers were all unable to make an Arctic crossing, even in summer. Shifts in <a href="/wiki/Biome" title="Biome">biomes</a> and habitat ranges are also unprecedented, occurring at rates that do not coincide with known climate oscillations<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2016)">citation needed</span></a></i>]</sup>. The extinction of many tropical <a href="/wiki/Amphibian" title="Amphibian">amphibian</a> species, especially in <a href="/wiki/Cloud_forest" title="Cloud forest">cloud forests</a>, have been attributed to changing global temperatures, fungal disease and possible influence from unusually extreme phases of oceanic climate oscillations.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_oscillation&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Atmospheric_anomaly" title="Atmospheric anomaly">Atmospheric anomaly</a></li>
+<li><a href="/wiki/100,000-year_problem" title="100,000-year problem">100,000-year problem</a></li>
+<li><a href="/wiki/Climate_pattern" title="Climate pattern">Climate pattern</a></li>
+<li><a href="/wiki/Global_catastrophic_risk" title="Global catastrophic risk">Global catastrophic risk</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Teleconnection" title="Teleconnection">Teleconnection</a></li>
+<li><a href="/wiki/Epoch_(geology)" title="Epoch (geology)">Epoch (geology)</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_oscillation&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-GeoSun-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-GeoSun_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-GeoSun_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-GeoSun_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-GeoSun_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><a class="external free" href="https://pubs.usgs.gov/fs/fs-0095-00/fs-0095-00.pdf" rel="nofollow">https://pubs.usgs.gov/fs/fs-0095-00/fs-0095-00.pdf</a> United States Geological Survey - The Sun and Climate</span></li>
+<li id="cite_note-Scafetta-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Scafetta_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Scafetta_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Nicola_Scafetta" title="Nicola Scafetta">Scafetta, Nicola</a> (May 15, 2010). <a class="external text" href="http://www.fel.duke.edu/~scafetta/pdf/scafetta-JSTP2.pdf" rel="nofollow">"Empirical evidence for a celestial origin of the climate oscillations"</a> <span style="font-size:85%;">(PDF)</span>. <i>Journal of Atmospheric and Solar-Terrestrial Physics</i>. <b>72</b>: 951–970. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010JASTP..72..951S" rel="nofollow">2010JASTP..72..951S</a>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a class="external text" href="//arxiv.org/abs/1005.4639" rel="nofollow">1005.4639</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.jastp.2010.04.015" rel="nofollow">10.1016/j.jastp.2010.04.015</a><span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClimate+oscillation&amp;rft.atitle=Empirical+evidence+for+a+celestial+origin+of+the+climate+oscillations&amp;rft.aufirst=Nicola&amp;rft.aulast=Scafetta&amp;rft.date=2010-05-15&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Atmospheric+and+Solar-Terrestrial+Physics&amp;rft.pages=951-970&amp;rft.volume=72&amp;rft_id=http%3A%2F%2Fwww.fel.duke.edu%2F~scafetta%2Fpdf%2Fscafetta-JSTP2.pdf&amp;rft_id=info%3Aarxiv%2F1005.4639&amp;rft_id=info%3Abibcode%2F2010JASTP..72..951S&amp;rft_id=info%3Adoi%2F10.1016%2Fj.jastp.2010.04.015&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-cycle24-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-cycle24_3-0">^</a></b></span> <span class="reference-text">National Institutes of Health - The sunspot cycle no. 24 in relation to long term solar activity variation</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Judith_Curry" title="Judith Curry">Curry, Judith</a>. <a class="external text" href="http://judithcurry.com/2011/04/14/scafetta-on-climate-oscillations/" rel="nofollow">"Scafetta on climate oscillations"</a>. <i>WordPress</i>. Climate Etc<span class="reference-accessdate">. Retrieved <span class="nowrap">20 July</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AClimate+oscillation&amp;rft.atitle=Scafetta+on+climate+oscillations&amp;rft.aufirst=Judith&amp;rft.aulast=Curry&amp;rft.genre=unknown&amp;rft.jtitle=WordPress&amp;rft_id=http%3A%2F%2Fjudithcurry.com%2F2011%2F04%2F14%2Fscafetta-on-climate-oscillations%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.newscientist.com/article.ns?id=dn6680" rel="nofollow">Sunspot activity impacts on crop success</a> <a href="/wiki/New_Scientist" title="New Scientist">New Scientist</a>, 18 Nov. 2004</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Climate_oscillation&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://earthobservatory.nasa.gov/Features/Oscillations/" rel="nofollow">El Niño's Extended Family: An Introduction to the Cyclic Patterns that Determine Global Weather</a> - NASA Earth Observatory</li>
+<li><a class="external text" href="http://www.michaelmandeville.com/earthchanges/gallery/Climate/oscillations.htm" rel="nofollow">Earth Changes Gallery: Climate Oscillations</a> - Michael Wells Mandeville</li>
+<li><a class="external text" href="http://www.ncpa.org/sub/dpd/?page=article&amp;Article_ID=2319" rel="nofollow">The physical evidence of earth's unstoppable 1,500-year climate cycle</a> - National Center for Policy Analysis</li>
+<li><a class="external text" href="https://web.archive.org/web/20110726061348/http://stratus.astr.ucl.ac.be/textbook/chapter5_node3.html" rel="nofollow">5.2 Internal climate variability</a> - Catholic University of Louvain</li>
+<li><a class="external text" href="https://www.usatoday.com/weather/climate/2006-04-19-global-climate-patterns_x.htm" rel="nofollow">Understanding global climate patterns</a> - <a href="/wiki/USA_Today" title="USA Today">USA Today</a>, April 19, 2006</li>
+<li><a class="external text" href="http://www.usgcrp.gov/usgcrp/seminars/000320FO.html" rel="nofollow">Natural Climate Oscillations of Short Duration and the Long Term Climate Warming - Sorting Out the Climate System</a> - USGCRP, March 20, 2000</li>
+<li><a class="external text" href="http://www.cpc.ncep.noaa.gov/products/monitoring_and_data/oadata.shtml" rel="nofollow">Oceanic and Atmospheric Climate Data</a> - Climate Prediction Center, NOAA</li>
+<li><a class="external text" href="http://climate.nasa.gov" rel="nofollow">Global Climate Change: Vital Signs of the Planet</a> - NASA Climate Website</li>
+</ul>
+<div aria-labelledby="Climate_oscillations" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Climate_oscillations" title="Template:Climate oscillations"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Climate_oscillations" title="Template talk:Climate oscillations"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Climate_oscillations&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Climate_oscillations" style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Climate oscillations</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Climate oscillations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/8.2_kiloyear_event" title="8.2 kiloyear event">8.2 kiloyear event</a></li>
+<li><a href="/wiki/Antarctic_Circumpolar_Wave" title="Antarctic Circumpolar Wave">Antarctic Circumpolar Wave</a></li>
+<li><a href="/wiki/Antarctic_oscillation" title="Antarctic oscillation">Antarctic oscillation</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_oscillation" title="Arctic oscillation">Arctic oscillation</a></li>
+<li><a href="/wiki/Atlantic_Equatorial_mode" title="Atlantic Equatorial mode">Atlantic Equatorial mode</a></li>
+<li><a href="/wiki/Atlantic_multidecadal_oscillation" title="Atlantic multidecadal oscillation">Atlantic multidecadal oscillation</a></li>
+<li><a href="/wiki/Axial_tilt#Earth" title="Axial tilt">Earth's axial tilt</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond event</a></li>
+<li><a href="/wiki/Dansgaard%E2%80%93Oeschger_event" title="Dansgaard–Oeschger event">Dansgaard–Oeschger event</a></li>
+<li><a href="/wiki/Diurnal_cycle" title="Diurnal cycle">Diurnal cycle</a></li>
+<li><a href="/wiki/Diurnal_temperature_variation" title="Diurnal temperature variation">Diurnal temperature variation</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">El Niño–Southern Oscillation</a> (<a href="/wiki/El_Ni%C3%B1o" title="El Niño">El Niño</a> - <a href="/wiki/La_Ni%C3%B1a" title="La Niña">La Niña</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Equatorial_Indian_Ocean_oscillation" title="Equatorial Indian Ocean oscillation">Equatorial Indian Ocean oscillation</a></li>
+<li><a href="/wiki/Ice_age" title="Ice age">Glacial cycles</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">Indian Ocean Dipole</a></li>
+<li><a href="/wiki/Madden%E2%80%93Julian_oscillation" title="Madden–Julian oscillation">Madden–Julian oscillation</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></li>
+<li><a href="/wiki/North_Atlantic_oscillation" title="North Atlantic oscillation">North Atlantic oscillation</a></li>
+<li><a href="/wiki/North_Pacific_Oscillation" title="North Pacific Oscillation">North Pacific Oscillation</a></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">Pacific decadal oscillation</a></li>
+<li><a href="/wiki/Pacific%E2%80%93North_American_teleconnection_pattern" title="Pacific–North American teleconnection pattern">Pacific–North American teleconnection pattern</a></li>
+<li><a href="/wiki/Quasi-biennial_oscillation" title="Quasi-biennial oscillation">Quasi-biennial oscillation</a></li>
+<li><a href="/wiki/Seasonal_lag" title="Seasonal lag">Seasonal lag</a></li>
+<li><a href="/wiki/Season" title="Season">Seasons</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1221
+Cached time: 20170918005758
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.208 seconds
+Preprocessor visited node count: 824/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21405/2097152 bytes
+Template argument size: 1507/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.070/10.000 seconds
+Lua memory usage: 2.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  150.499      1 -total
+ 30.09%   45.291      3 Template:Citation_needed
+ 27.95%   42.060      1 Template:Refimprove
+ 27.25%   41.013      3 Template:Fix
+ 20.91%   31.469      1 Template:Cite_journal
+ 18.38%   27.656      1 Template:Ambox
+ 16.46%   24.770      3 Template:Delink
+  8.05%   12.118      6 Template:Category_handler
+  7.12%   10.714      1 Template:Climate_oscillations
+  5.90%    8.881      1 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:32478026-0!canonical and timestamp 20170918005758 and revision id 797412096
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Climate_oscillation&amp;oldid=797412096">https://en.wikipedia.org/w/index.php?title=Climate_oscillation&amp;oldid=797412096</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_chemistry" title="Category:Atmospheric chemistry">Atmospheric chemistry</a></li><li><a href="/wiki/Category:Atmospheric_dynamics" title="Category:Atmospheric dynamics">Atmospheric dynamics</a></li><li><a href="/wiki/Category:Climatology" title="Category:Climatology">Climatology</a></li><li><a href="/wiki/Category:Climate_history" title="Category:Climate history">Climate history</a></li><li><a href="/wiki/Category:Oscillation" title="Category:Oscillation">Oscillation</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_June_2015" title="Category:Articles needing additional references from June 2015">Articles needing additional references from June 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2017" title="Category:Articles with unsourced statements from February 2017">Articles with unsourced statements from February 2017</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2016" title="Category:Articles with unsourced statements from September 2016">Articles with unsourced statements from September 2016</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Climate+oscillation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Climate+oscillation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Climate_oscillation" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Climate_oscillation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Climate_oscillation">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Climate_oscillation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Climate_oscillation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Climate_oscillation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Climate_oscillation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Climate_oscillation&amp;oldid=797412096" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Climate_oscillation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3738986" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Climate_oscillation&amp;id=797412096" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Climate+oscillation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Climate+oscillation&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DClimate%2Boscillation%26returnto%3DClimate%2Boscillation%26oldid%3D797412096%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Climate_oscillation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kliimats%C3%BCklid" hreflang="et" lang="et" title="Kliimatsüklid – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D9%88%D8%B3%D8%A7%D9%86_%D8%A7%D9%82%D9%84%DB%8C%D9%85" hreflang="fa" lang="fa" title="نوسان اقلیم – Persian">فارسی</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Pengayunan_iklim" hreflang="ms" lang="ms" title="Pengayunan iklim – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B0%97%E5%80%99%E3%82%B5%E3%82%A4%E3%82%AF%E3%83%AB" hreflang="ja" lang="ja" title="気候サイクル – Japanese">日本語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B0%94%E5%80%99%E6%8C%AF%E8%8D%A1" hreflang="zh" lang="zh" title="气候振荡 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3738986#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 26 August 2017, at 22:22.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Climate_oscillation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.208","ppvisitednodes":{"value":824,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21405,"limit":2097152},"templateargumentsize":{"value":1507,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  150.499      1 -total"," 30.09%   45.291      3 Template:Citation_needed"," 27.95%   42.060      1 Template:Refimprove"," 27.25%   41.013      3 Template:Fix"," 20.91%   31.469      1 Template:Cite_journal"," 18.38%   27.656      1 Template:Ambox"," 16.46%   24.770      3 Template:Delink","  8.05%   12.118      6 Template:Category_handler","  7.12%   10.714      1 Template:Climate_oscillations","  5.90%    8.881      1 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.070","limit":"10.000"},"limitreport-memusage":{"value":2685969,"limit":52428800}},"cachereport":{"origin":"mw1221","timestamp":"20170918005758","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1212"});});</script>
+</body>
+</html>

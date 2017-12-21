@@ -1,0 +1,272 @@
+https://en.wikipedia.org/wiki/Radius_of_outermost_closed_isobar
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Radius of outermost closed isobar - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Radius_of_outermost_closed_isobar","wgTitle":"Radius of outermost closed isobar","wgCurRevisionId":785121743,"wgRevisionId":785121743,"wgArticleId":18434469,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Basic meteorological concepts and phenomena","Tropical cyclone meteorology","Tropical cyclones"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Radius_of_outermost_closed_isobar","wgRelevantArticleId":18434469,"wgRequestId":"WdPFPQpAAEAAAGaESRQAAAFF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7281395","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Radius_of_outermost_closed_isobar" rel="alternate"/>
+<link href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Radius_of_outermost_closed_isobar" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Radius_of_outermost_closed_isobar rootpage-Radius_of_outermost_closed_isobar vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Radius of outermost closed isobar</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="wikitable" style="float: right; font-size: 92%; margin-right: 0px;">
+<tr>
+<th colspan="2" style="background: #ccf;">Size descriptions of tropical cyclones</th>
+</tr>
+<tr>
+<th>ROCI</th>
+<th>Type</th>
+</tr>
+<tr>
+<td>Less than 2 degrees latitude</td>
+<td>Very small/midget</td>
+</tr>
+<tr>
+<td>2 to 3 degrees of latitude</td>
+<td>Small</td>
+</tr>
+<tr>
+<td>3 to 6 degrees of latitude</td>
+<td>Medium/Average</td>
+</tr>
+<tr>
+<td>6 to 8 degrees of latitude</td>
+<td>Large</td>
+</tr>
+<tr>
+<td>Over 8 degrees of latitude</td>
+<td>Very large<sup class="reference" id="cite_ref-JTWCsize_1-0"><a href="#cite_note-JTWCsize-1">[1]</a></sup></td>
+</tr>
+</table>
+<p>The <b>radius of outermost closed isobar</b> (<b>ROCI</b>) is one of the quantities used to determine the size of a <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a>. It is determined by measuring the radii from the center of the storm to its outermost closed <a href="/wiki/Contour_line#Barometric_pressure" title="Contour line">isobar</a> in four quadrants, which is then averaged to come up with a <a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a> value. It generally delimits the outermost extent of a tropical cyclone's wind circulation.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Use of this measure has objectively determined that tropical cyclones in the northwest Pacific Ocean are the largest on earth on average, with <a class="mw-redirect" href="/wiki/North_Atlantic_hurricane" title="North Atlantic hurricane">North Atlantic tropical cyclones</a> roughly half their size.<sup class="reference" id="cite_ref-Merrill_3-0"><a href="#cite_note-Merrill-3">[3]</a></sup> <a href="/wiki/Active_database" title="Active database">Active databases</a> of ROCI are maintained by the <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a> for systems tracked in the eastern north Pacific and north Atlantic basins.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Database"><span class="tocnumber">1</span> <span class="toctext">Database</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Variation"><span class="tocnumber">2</span> <span class="toctext">Variation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Database">Database</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;action=edit&amp;section=1" title="Edit section: Database">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Sandy_Oct_25_2012_0400Z.JPG"><img alt="" class="thumbimage" data-file-height="1024" data-file-width="932" height="242" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sandy_Oct_25_2012_0400Z.JPG/220px-Sandy_Oct_25_2012_0400Z.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sandy_Oct_25_2012_0400Z.JPG/330px-Sandy_Oct_25_2012_0400Z.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Sandy_Oct_25_2012_0400Z.JPG/440px-Sandy_Oct_25_2012_0400Z.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sandy_Oct_25_2012_0400Z.JPG" title="Enlarge"></a></div>
+Hurricane Sandy at peak intensity.</div>
+</div>
+</div>
+<p>Active databases of ROCI are maintained by the <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a> for systems tracked in the eastern north Pacific and north Atlantic basins, within a database known as the Extended Best Track Database. The values are determined in real-time every six hours. The eastern north Pacific database runs from 2001 to present, while the north Atlantic database runs from 1988 to present.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Other than these official databases, a global once-daily dataset was compiled for a 1984 research paper, which covered global tropical cyclones between 1957 and 1977.<sup class="reference" id="cite_ref-Merrill_3-1"><a href="#cite_note-Merrill-3">[3]</a></sup> Previously, a database was created to determine ROCI values for the western north Pacific Ocean in 1972, using data from 1945 to 1968.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Another database with additional ROCI information is currently being modified at the <a class="mw-redirect" href="/wiki/Hydrometeorological_Prediction_Center" title="Hydrometeorological Prediction Center">Hydrometeorological Prediction Center</a> for use in matching ongoing tropical cyclones to past systems for the purposes of finding rainfall analogs to an ongoing event,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> which has fairly continuous data running back to 1959 for the north <a class="mw-redirect" href="/wiki/Atlantic_ocean" title="Atlantic ocean">Atlantic ocean</a>.<sup class="reference" id="cite_ref-CLIQR_7-0"><a href="#cite_note-CLIQR-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Variation">Variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;action=edit&amp;section=2" title="Edit section: Variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Tropical cyclones tend to be smaller during the mid-summer, and largest in October in the <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a>. As tropical cyclones initially develop, the size of their ROCI initially contracts.<sup class="reference" id="cite_ref-Brooks_8-0"><a href="#cite_note-Brooks-8">[8]</a></sup> Once tropical cyclones reach maturity, their isobaric patterns increase in size. During the mature stage, the broadening pressure pattern leads to some reduction in their <a href="/wiki/Maximum_sustained_wind" title="Maximum sustained wind">maximum sustained wind</a>, but the extent of their tropical storm and hurricane-force winds is the most extensive within the storm's life cycle.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> An increase in size is also noted as a tropical cyclone gains latitude.<sup class="reference" id="cite_ref-Brooks_8-1"><a href="#cite_note-Brooks-8">[8]</a></sup> As tropical cyclones weaken, their ROCI values diminish. In general, the size of a tropical cyclone shows little relation to its intensity. Use of this measure has objectively determined that tropical cyclones in the northwest Pacific Ocean are the largest on earth on average, with <a class="mw-redirect" href="/wiki/North_Atlantic_hurricane" title="North Atlantic hurricane">North Atlantic tropical cyclones</a> roughly half their size.<sup class="reference" id="cite_ref-Merrill_3-2"><a href="#cite_note-Merrill-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Radius_of_maximum_wind" title="Radius of maximum wind">Radius of maximum wind</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-JTWCsize-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-JTWCsize_1-0">^</a></b></span> <span class="reference-text">Joint Typhoon Warning Center. <a class="external text" href="http://www.usno.navy.mil/JTWC/frequently-asked-questions-1#tcsize" rel="nofollow">Q: What is the average size of a tropical cyclone?</a> <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a>. Retrieved on 2007-07-04.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">FRÉDÉRIC MOUTON and OLA NORDBECK. <a class="external text" href="http://www.grid.unep.ch/product/publication/download/article_PREVIEW_TropCyclones.pdf" rel="nofollow">Cyclone Database Manager.</a> Retrieved on 2008-07-14.</span></li>
+<li id="cite_note-Merrill-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Merrill_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Merrill_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Merrill_3-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text">Robert T. Merrill. <a class="external text" href="http://ams.allenpress.com/archive/1520-0493/112/7/pdf/i1520-0493-112-7-1408.pdf" rel="nofollow">A Comparison of Large and Small Tropical Cyclones.</a> Retrieved on 2008-07-14.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Mark DeMaria (2009). <a class="external text" href="ftp://rammftp.cira.colostate.edu/demaria/ebtrk/ebtrk_atlc.txt" rel="nofollow">Atlantic Extended Best Track Database.</a> <a href="/wiki/Colorado_State_University" title="Colorado State University">Colorado State University</a>. Retrieved on 2009-06-14.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">K. S. Liu and Johnny C. L. Chan. <a class="external text" href="http://ams.allenpress.com/perlserv/?request=get-document&amp;doi=10.1175%2F1520-0493(1999)127%3C2992%3ASOTCAI%3E2.0.CO%3B2" rel="nofollow">Size of Tropical Cyclones as Inferred from ERS-1 and ERS-2 Data.</a> Retrieved on 2008-07-14.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">David M. Roth and Kyle S. Griffin (2009-06-07). <a class="external text" href="http://www.wpc.ncep.noaa.gov/tropical/rain/Cliqr_talk062009.ppt" rel="nofollow">Cliqr Rainfall Analog.</a> <a class="mw-redirect" href="/wiki/Hydrometeorological_Prediction_Center" title="Hydrometeorological Prediction Center">Hydrometeorological Prediction Center</a>. Retrieved on 2009-06-14.</span></li>
+<li id="cite_note-CLIQR-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-CLIQR_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">David M. Roth (2013). <a class="external text" href="http://www.wpc.ncep.noaa.gov/research/roth/ebtrk_nhc_final.txt" rel="nofollow">"CLIQR Database"</a>. <a class="mw-redirect" href="/wiki/Hydrometeorological_Prediction_Center" title="Hydrometeorological Prediction Center">Hydrometeorological Prediction Center</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-04</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+outermost+closed+isobar&amp;rft.au=David+M.+Roth&amp;rft.btitle=CLIQR+Database&amp;rft.date=2013&amp;rft.genre=unknown&amp;rft.pub=Hydrometeorological+Prediction+Center&amp;rft_id=http%3A%2F%2Fwww.wpc.ncep.noaa.gov%2Fresearch%2Froth%2Febtrk_nhc_final.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Brooks-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brooks_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brooks_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Edward Morgan Brooks (1945). <a class="external text" href="http://dspace.mit.edu/bitstream/handle/1721.1/13079/26336365.pdf?sequence=1" rel="nofollow">An Analysis of an Unusual Rainfall Distribution in a Hurricane.</a> <a class="external text" href="https://web.archive.org/web/20150403015659/http://dspace.mit.edu/bitstream/handle/1721.1/13079/26336365.pdf?sequence=1" rel="nofollow">Archived</a> 2015-04-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a>. Retrieved on 2008-12-31.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Gordon E. Dunn and Banner I. Miller (1960). <i>Atlantic Hurricanes</i>. <a href="/wiki/Louisiana_State_University_Press" title="Louisiana State University Press">Louisiana State University Press</a>. p. 32. <a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">ASIN</a> <a class="external text" href="//www.amazon.com/dp/B0006BM85S" rel="nofollow">B0006BM85S</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+outermost+closed+isobar&amp;rft.au=Gordon+E.+Dunn+and+Banner+I.+Miller&amp;rft.btitle=Atlantic+Hurricanes&amp;rft.date=1960&amp;rft.genre=book&amp;rft.pages=32&amp;rft.pub=Louisiana+State+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20170927080034
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.064 seconds
+Real time usage: 0.083 seconds
+Preprocessor visited node count: 266/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 3875/2097152 bytes
+Template argument size: 114/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.020/10.000 seconds
+Lua memory usage: 1.55 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   63.084      1 Template:Reflist
+100.00%   63.084      1 -total
+ 58.83%   37.111      1 Template:Cite_web
+  7.78%    4.907      1 Template:Webarchive
+  7.02%    4.427      1 Template:Cite_book
+  3.32%    2.093      1 Template:Main_other
+  3.18%    2.009      1 Template:Column-width
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:18434469-0!canonical and timestamp 20170927080034 and revision id 785121743
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Radius_of_outermost_closed_isobar&amp;oldid=785121743">https://en.wikipedia.org/w/index.php?title=Radius_of_outermost_closed_isobar&amp;oldid=785121743</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Basic_meteorological_concepts_and_phenomena" title="Category:Basic meteorological concepts and phenomena">Basic meteorological concepts and phenomena</a></li><li><a href="/wiki/Category:Tropical_cyclone_meteorology" title="Category:Tropical cyclone meteorology">Tropical cyclone meteorology</a></li><li><a href="/wiki/Category:Tropical_cyclones" title="Category:Tropical cyclones">Tropical cyclones</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Radius+of+outermost+closed+isobar" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Radius+of+outermost+closed+isobar" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Radius_of_outermost_closed_isobar" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Radius_of_outermost_closed_isobar" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Radius_of_outermost_closed_isobar">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Radius_of_outermost_closed_isobar" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Radius_of_outermost_closed_isobar" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;oldid=785121743" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7281395" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Radius_of_outermost_closed_isobar&amp;id=785121743" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Radius+of+outermost+closed+isobar">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Radius+of+outermost+closed+isobar&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DRadius%2Bof%2Boutermost%2Bclosed%2Bisobar%26returnto%3DRadius%2Bof%2Boutermost%2Bclosed%2Bisobar%26oldid%3D785121743%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Radius_of_outermost_closed_isobar&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7281395#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 June 2017, at 19:41.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Radius_of_outermost_closed_isobar&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.064","walltime":"0.083","ppvisitednodes":{"value":266,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":3875,"limit":2097152},"templateargumentsize":{"value":114,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   63.084      1 Template:Reflist","100.00%   63.084      1 -total"," 58.83%   37.111      1 Template:Cite_web","  7.78%    4.907      1 Template:Webarchive","  7.02%    4.427      1 Template:Cite_book","  3.32%    2.093      1 Template:Main_other","  3.18%    2.009      1 Template:Column-width"]},"scribunto":{"limitreport-timeusage":{"value":"0.020","limit":"10.000"},"limitreport-memusage":{"value":1624124,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20170927080034","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1269"});});</script>
+</body>
+</html>

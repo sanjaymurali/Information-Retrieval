@@ -1,0 +1,1172 @@
+https://en.wikipedia.org/wiki/Pulse-Doppler_radar
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Pulse-Doppler radar - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Pulse-Doppler_radar","wgTitle":"Pulse-Doppler radar","wgCurRevisionId":787569823,"wgRevisionId":787569823,"wgArticleId":1358178,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from February 2014","Radar","Radar signal processing","Measuring instruments","Microwave technology","Navigational equipment","Air traffic control","Science and technology during World War II","Targeting (warfare)","Synthetic aperture radar"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Pulse-Doppler_radar","wgRelevantArticleId":1358178,"wgRequestId":"WdUGQwpAMFEAAB7ebaQAAACD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1029151","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/42/MAKS-2007-Radar.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Pulse-Doppler_radar" rel="alternate"/>
+<link href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Pulse-Doppler_radar" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Pulse-Doppler_radar rootpage-Pulse-Doppler_radar vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Pulse-Doppler radar</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:332px;"><a class="image" href="/wiki/File:MAKS-2007-Radar.jpg"><img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="248" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/MAKS-2007-Radar.jpg/330px-MAKS-2007-Radar.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/MAKS-2007-Radar.jpg/495px-MAKS-2007-Radar.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/42/MAKS-2007-Radar.jpg 2x" width="330"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:MAKS-2007-Radar.jpg" title="Enlarge"></a></div>
+Airborne pulse-Doppler radar antenna</div>
+</div>
+</div>
+<p>A <b>pulse-Doppler radar</b> is a <a href="/wiki/Radar" title="Radar">radar</a> system that determines the range to a target using pulse-timing techniques, and uses the <a href="/wiki/Doppler_effect" title="Doppler effect">Doppler effect</a> of the returned signal to determine the target object's velocity. It combines the features of pulse radars and <a href="/wiki/Continuous-wave_radar" title="Continuous-wave radar">continuous-wave radars</a>, which were formerly separate due to the complexity of the <a href="/wiki/Electronics" title="Electronics">electronics</a>.</p>
+<p>Pulse-Doppler systems were first widely used on <a href="/wiki/Fighter_aircraft" title="Fighter aircraft">fighter aircraft</a> starting in the 1960s. Earlier radars had used pulse-timing in order to determine range and the angle of the antenna (or similar means) to determine the bearing. However, this only worked when the radar antenna was not pointed down; in that case the reflection off the ground overwhelmed any returns from other objects. As the ground moves at the same speed but opposite direction of the aircraft, Doppler techniques allow the ground return to be filtered out, revealing aircraft and vehicles. This gives pulse-Doppler radars "<a href="/wiki/Look-down/shoot-down" title="Look-down/shoot-down">look-down/shoot-down</a>" capability. A secondary advantage in military radar is to reduce the transmitted power while achieving acceptable performance for improved safety of stealthy radar.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Pulse-Doppler techniques also find widespread use in <a href="/wiki/Weather_radar" title="Weather radar">meteorological radars</a>, allowing the radar to determine <a href="/wiki/Wind_speed" title="Wind speed">wind speed</a> from the velocity of any precipitation in the air. Pulse-Doppler radar is also the basis of <a class="mw-redirect" href="/wiki/Synthetic_aperture_radar" title="Synthetic aperture radar">synthetic aperture radar</a> used in <a href="/wiki/Radar_astronomy" title="Radar astronomy">radar astronomy</a>, <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a> and mapping. In air traffic control, they are used for discriminating aircraft from clutter. Besides the above conventional surveillance applications, pulse-Doppler radar has been successfully applied in healthcare, such as fall risk assessment and fall detection, for nursing or clinical purposes.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Principle"><span class="tocnumber">2</span> <span class="toctext">Principle</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Range_measurement"><span class="tocnumber">2.1</span> <span class="toctext">Range measurement</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Velocity_measurement"><span class="tocnumber">2.2</span> <span class="toctext">Velocity measurement</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Benefits"><span class="tocnumber">2.3</span> <span class="toctext">Benefits</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Detriments"><span class="tocnumber">2.4</span> <span class="toctext">Detriments</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Signal_processing"><span class="tocnumber">3</span> <span class="toctext">Signal processing</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Range_resolution"><span class="tocnumber">3.1</span> <span class="toctext">Range resolution</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Velocity_resolution"><span class="tocnumber">3.2</span> <span class="toctext">Velocity resolution</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Special_consideration"><span class="tocnumber">4</span> <span class="toctext">Special consideration</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Pulse_repetition_frequency"><span class="tocnumber">4.1</span> <span class="toctext">Pulse repetition frequency</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Angular_measurement"><span class="tocnumber">4.2</span> <span class="toctext">Angular measurement</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Coherency"><span class="tocnumber">4.3</span> <span class="toctext">Coherency</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Scalloping"><span class="tocnumber">4.4</span> <span class="toctext">Scalloping</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Windowing"><span class="tocnumber">4.5</span> <span class="toctext">Windowing</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Antenna"><span class="tocnumber">4.6</span> <span class="toctext">Antenna</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Diffraction"><span class="tocnumber">4.7</span> <span class="toctext">Diffraction</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Subclutter_visibility"><span class="tocnumber">4.8</span> <span class="toctext">Subclutter visibility</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Performance"><span class="tocnumber">4.9</span> <span class="toctext">Performance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-20"><a href="#Aircraft_tracking_uses"><span class="tocnumber">5</span> <span class="toctext">Aircraft tracking uses</span></a>
+<ul>
+<li class="toclevel-2 tocsection-21"><a href="#Helicopters"><span class="tocnumber">5.1</span> <span class="toctext">Helicopters</span></a></li>
+<li class="toclevel-2 tocsection-22"><a href="#Multi-mode"><span class="tocnumber">5.2</span> <span class="toctext">Multi-mode</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-23"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-24"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-26"><a href="#Bibliography"><span class="tocnumber">8.1</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The earliest radar systems failed to operate as expected. The reason was traced to Doppler effects that degrade performance of systems not designed to account for moving objects. Fast-moving objects cause a phase-shift on the transmit pulse that can produce signal cancellation. Doppler has maximum detrimental effect on <a class="mw-redirect" href="/wiki/Moving_target_indicator" title="Moving target indicator">moving target indicator</a> systems, which must use reverse phase shift for Doppler compensation in the detector.</p>
+<p>Doppler weather effects (precipitation) were also found to degrade <a href="/wiki/Radar" title="Radar">conventional radar</a> and moving target indicator radar, which can mask aircraft reflections. This phenomenon was adapted for use with <a href="/wiki/Weather_radar" title="Weather radar">weather radar</a> in the 1950s after declassification of some World War II systems.</p>
+<p>Pulse-Doppler radar was developed during World War II to overcome limitations by increasing <a href="/wiki/Pulse_repetition_frequency" title="Pulse repetition frequency">pulse repetition frequency</a>. This required the development of <a href="/wiki/Klystron" title="Klystron">klystron</a>, the <a class="mw-redirect" href="/wiki/Traveling_wave_tube" title="Traveling wave tube">traveling wave tube</a>, and solid state devices. Pulse-Doppler is incompatible with other high power microwave amplification devices that are not <a href="/wiki/Coherence_(physics)" title="Coherence (physics)">coherent</a>.</p>
+<p>Early examples of military systems include the <a href="/wiki/AN/SPG-51" title="AN/SPG-51">AN/SPG-51</a>B developed during the 1950s specifically for the purpose of operating in hurricane conditions with no performance degradation.</p>
+<p>The <a class="mw-redirect" href="/wiki/Hughes_AN/ASG-18_Fire_Control_System" title="Hughes AN/ASG-18 Fire Control System">Hughes AN/ASG-18 Fire Control System</a> was a prototype airborne radar/combination system for the planned <a href="/wiki/North_American_XF-108_Rapier" title="North American XF-108 Rapier">North American XF-108 Rapier</a> interceptor aircraft for the United States Air Force, and later for the <a href="/wiki/Lockheed_YF-12" title="Lockheed YF-12">Lockheed YF-12</a>. The US's first pulse-Doppler radar,<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> the system had <a href="/wiki/Look-down/shoot-down" title="Look-down/shoot-down">look-down/shoot-down</a> capability and could track one target at a time.</p>
+<p><a href="/wiki/Weather" title="Weather">Weather</a>, <a href="/wiki/Chaff_(countermeasure)" title="Chaff (countermeasure)">chaff</a>, <a class="mw-redirect" href="/wiki/Terrain_mask" title="Terrain mask">terrain</a>, <a href="/wiki/Blue_Angels" title="Blue Angels">flying techniques</a>, and <a href="/wiki/Stealth_aircraft" title="Stealth aircraft">stealth</a> are common tactics used to hide aircraft from radar. Pulse-Doppler radar eliminates these weaknesses.</p>
+<p>It became possible to use pulse-Doppler radar on aircraft after digital computers were incorporated in the design. Pulse-Doppler provided <a href="/wiki/Look-down/shoot-down" title="Look-down/shoot-down">look-down/shoot-down</a> capability to support air-to-air missile systems in most modern military aircraft by the mid 1970s.</p>
+<h2><span class="mw-headline" id="Principle">Principle</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=2" title="Edit section: Principle">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Dopplerradar.gif"><img alt="" class="thumbimage" data-file-height="400" data-file-width="550" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dopplerradar.gif/220px-Dopplerradar.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dopplerradar.gif/330px-Dopplerradar.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Dopplerradar.gif/440px-Dopplerradar.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Dopplerradar.gif" title="Enlarge"></a></div>
+Principle of pulse-Doppler radar</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Range_measurement">Range measurement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=3" title="Edit section: Range measurement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:306px;"><a class="image" href="/wiki/File:Radarops.gif"><img alt="" class="thumbimage" data-file-height="157" data-file-width="304" height="157" src="//upload.wikimedia.org/wikipedia/commons/0/07/Radarops.gif" width="304"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Radarops.gif" title="Enlarge"></a></div>
+Principle of pulsed radar</div>
+</div>
+</div>
+<p>Pulse-Doppler systems measure the range to objects by measuring the elapsed time between sending a pulse of radio energy and receiving a reflection of the object. Radio waves travel at the <a href="/wiki/Speed_of_light" title="Speed of light">speed of light</a>, so the distance to the object is the elapsed time multiplied by the speed of light, divided by two - there and back.</p>
+<h3><span class="mw-headline" id="Velocity_measurement">Velocity measurement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=4" title="Edit section: Velocity measurement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Doppler_effect_diagrammatic.png"><img alt="" class="thumbimage" data-file-height="330" data-file-width="1184" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Doppler_effect_diagrammatic.png/400px-Doppler_effect_diagrammatic.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Doppler_effect_diagrammatic.png/600px-Doppler_effect_diagrammatic.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Doppler_effect_diagrammatic.png/800px-Doppler_effect_diagrammatic.png 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Doppler_effect_diagrammatic.png" title="Enlarge"></a></div>
+Change of wavelength caused by motion of the source</div>
+</div>
+</div>
+<p>Pulse-Doppler radar is based on the <a href="/wiki/Doppler_effect" title="Doppler effect">Doppler effect</a>, where movement in range produces frequency shift on the signal reflected from the target.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Doppler Frequency</mtext>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Transmit Frequency</mtext>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Range Velocity</mtext>
+</mrow>
+</mrow>
+<mi>C</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{Doppler Frequency}}=\left({\frac {2\times {\text{Transmit Frequency}}\times {\text{Range Velocity}}}{C}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\text{Doppler Frequency}}=\left({\frac  {2\times {\text{Transmit Frequency}}\times {\text{Range Velocity}}}{C}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1375acf43b800caed9ed600f4f6f205390c41a1e" style="vertical-align: -2.505ex; width:69.937ex; height:6.176ex;"/></span></dd>
+</dl>
+<p><a href="/wiki/Radial_velocity" title="Radial velocity">Radial velocity</a> is essential for pulse-Doppler radar operation. As the reflector moves between each transmit pulse, the returned signal has a <a href="/wiki/Phase_(waves)" title="Phase (waves)">phase</a> difference or <i>phase shift</i> from pulse to pulse. This causes the reflector to produce Doppler modulation on the reflected signal.</p>
+<p>Pulse-Doppler radars exploit this phenomenon to improve performance.</p>
+<p>The amplitude of the successively returning pulse from the same scanned volume is:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>I</mi>
+<mo>=</mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>v</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mi>λ<!-- λ --></mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>I</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mi>sin</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<msub>
+<mi mathvariant="normal">Θ<!-- Θ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi mathvariant="normal">Θ<!-- Θ --></mi>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle I=I_{0}\sin \left({\frac {4\pi (x_{0}+v\Delta t)}{\lambda }}\right)=I_{0}\sin \left(\Theta _{0}+\Delta \Theta \right)}</annotation>
+</semantics>
+</math></span><img alt="I=I_{0}\sin \left({\frac  {4\pi (x_{0}+v\Delta t)}{\lambda }}\right)=I_{0}\sin \left(\Theta _{0}+\Delta \Theta \right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ae4ea47f84056ccfb47268b6f850e8ebee7c1f3" style="vertical-align: -2.505ex; width:47.276ex; height:6.343ex;"/></span></dd>
+</dl>
+<p>where</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right left right left right left right left right left right left" columnspacing="0em 2em 0em 2em 0em 2em 0em 2em 0em 2em 0em" displaystyle="true" rowspacing="3pt">
+<mtr>
+<mtd>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>distance radar to  target</mtext>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi>λ<!-- λ --></mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>radar wavelength</mtext>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mtd>
+<mtd>
+<mi></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>time between two pulses</mtext>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{aligned}x_{0}&amp;={\text{distance radar to  target}}\\\lambda &amp;={\text{radar wavelength}}\\\Delta t&amp;={\text{time between two pulses}}\end{aligned}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{aligned}x_{0}&amp;={\text{distance radar to  target}}\\\lambda &amp;={\text{radar wavelength}}\\\Delta t&amp;={\text{time between two pulses}}\end{aligned}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fcf73274f9fe5b8ab5095140fa4a77f0956fd80e" style="vertical-align: -3.838ex; width:31.234ex; height:8.843ex;"/></span></dd>
+</dl>
+<p>So</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi mathvariant="normal">Θ<!-- Θ --></mi>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<mi>v</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+<mi>λ<!-- λ --></mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta \Theta =\left({\frac {4\pi v\Delta t}{\lambda }}\right)}</annotation>
+</semantics>
+</math></span><img alt="\Delta \Theta =\left({\frac  {4\pi v\Delta t}{\lambda }}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/78bd243682aca57c05131beecb936e671ba7883f" style="vertical-align: -2.505ex; width:17.602ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>This allows the radar to separate the reflections from multiple objects located in the same volume of space by separating the objects using a spread <a href="/wiki/Spectrum" title="Spectrum">spectrum</a> to segregate different signals.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>v</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>target speed</mtext>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>λ<!-- λ --></mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi mathvariant="normal">Θ<!-- Θ --></mi>
+</mrow>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle v={\text{target speed}}={\frac {\lambda \Delta \Theta }{4\pi \Delta t}}}</annotation>
+</semantics>
+</math></span><img alt="v={\text{target speed}}={\frac  {\lambda \Delta \Theta }{4\pi \Delta t}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/47e05d3476fe7efd9c3c058da69ad741c54d3cf0" style="vertical-align: -2.005ex; width:25.844ex; height:5.509ex;"/></span> where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mtext> </mtext>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi mathvariant="normal">Θ<!-- Θ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \ \Delta \Theta }</annotation>
+</semantics>
+</math></span><img alt="\ \Delta \Theta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c79b9a247c8f941356c2c3754eae39764fd75869" style="vertical-align: -0.338ex; width:4.346ex; height:2.343ex;"/></span> is the phase shift induced by range motion.</dd>
+</dl>
+<h3><span class="mw-headline" id="Benefits">Benefits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=5" title="Edit section: Benefits">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Rejection speed is selectable on pulse-Doppler aircraft-detection systems so nothing below that speed will be detected. A one degree antenna beam illuminates millions of square feet of terrain at 10 miles (16 km) range, and this produces thousands of detections at or below the horizon if Doppler is not used.</p>
+<p>Pulse-Doppler radar uses the following signal processing criteria to exclude unwanted signals from slow-moving objects. This is also known as clutter rejection.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Rejection velocity is usually set just above the prevailing wind speed (10 to 100 mile/hour or 15 to 150 km/hour). The velocity threshold is much lower for <a href="/wiki/Weather_radar" title="Weather radar">weather radar</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>|</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Doppler Frequency</mtext>
+</mrow>
+<mo>×<!-- × --></mo>
+<mi>C</mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Transmit  Frequency</mtext>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>&gt;</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Velocity  Threshold</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left\vert {\frac {{\text{Doppler Frequency}}\times C}{2\times {\text{Transmit  Frequency}}}}\right\vert &gt;{\text{Velocity  Threshold}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left\vert {\frac {{\text{Doppler Frequency}}\times C}{2\times {\text{Transmit  Frequency}}}}\right\vert &gt;{\text{Velocity  Threshold}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/691334acc4b30d62e2136f8664f51472eff3f291" style="vertical-align: -2.505ex; width:50.598ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>In airborne pulse-Doppler radar, the velocity threshold is offset by the speed of the aircraft relative to the ground.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>|</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Doppler Frequency</mtext>
+</mrow>
+<mo>×<!-- × --></mo>
+<mi>C</mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Transmit Frequency</mtext>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Ground Speed</mtext>
+</mrow>
+<mo>×<!-- × --></mo>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mi mathvariant="normal">Θ<!-- Θ --></mi>
+<mo>)</mo>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>&gt;</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Velocity Threshold</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left\vert {\frac {{\text{Doppler Frequency}}\times C}{2\times {\text{Transmit Frequency}}}}-{\text{Ground Speed}}\times \cos \left(\Theta \right)\right\vert &gt;{\text{Velocity Threshold}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \left\vert {\frac {{\text{Doppler Frequency}}\times C}{2\times {\text{Transmit Frequency}}}}-{\text{Ground Speed}}\times \cos \left(\Theta \right)\right\vert &gt;{\text{Velocity Threshold}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d9986e774b3dec23507ed4575948776f26bd69bd" style="vertical-align: -2.505ex; width:76.343ex; height:6.176ex;"/></span></dd>
+</dl>
+<dl>
+<dd>Where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Θ<!-- Θ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Theta }</annotation>
+</semantics>
+</math></span><img alt="\Theta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bc927b19f46d005b4720db7a0f96cd5b6f1a0d9b" style="vertical-align: -0.338ex; width:1.819ex; height:2.176ex;"/></span> is the angle offset between the antenna position and the aircraft flight trajectory.</dd>
+</dl>
+<p>Surface reflections appear in almost all radar. <b>Ground clutter</b> generally appears in a circular region within a radius of about 25 miles near ground-based radar. This distance extends much further in airborne and space radar. Clutter results from radio energy being reflected from the earth's surface, buildings, and vegetation. Clutter includes weather in radar intended to detect and report aircraft and spacecraft.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p>Clutter creates a vulnerability region in <a href="/wiki/Radar_signal_characteristics#The_radar_signal_in_the_time_domain" title="Radar signal characteristics">pulse-amplitude time-domain radar</a>. Non-Doppler radar systems cannot be pointed directly at the ground due to excessive false alarms, which overwhelm computers and operators. Sensitivity must be reduced near clutter to avoid overload. This vulnerability begins in the low-elevation region several beam widths above the horizon, and extends downward. This also exists throughout the volume of moving air associated with weather phenomenon.</p>
+<p>Pulse-Doppler radar corrects this as follows.</p>
+<ul>
+<li>Allows the radar antenna to be pointed directly at the ground without overwhelming the computer and without reducing sensitivity.</li>
+<li>Fills in the vulnerability region associated with <a href="/wiki/Radar_signal_characteristics#The_radar_signal_in_the_time_domain" title="Radar signal characteristics">pulse-amplitude time-domain radar</a> for small object detection near terrain and weather.</li>
+<li>Increases detection range by 300% or more in comparison to <a href="/wiki/Moving_target_indication" title="Moving target indication">moving target indication</a> (MTI) by improving sub-clutter visibility.<sup class="reference" id="cite_ref-scv_7-0"><a href="#cite_note-scv-7">[7]</a></sup></li>
+</ul>
+<p><a href="/wiki/Clutter_(radar)" title="Clutter (radar)">Clutter rejection capability</a> of about 60 dB is needed for <a href="/wiki/Look-down/shoot-down" title="Look-down/shoot-down">look-down/shoot-down</a> capability, and pulse-Doppler is the only strategy that can satisfy this requirement. This eliminates vulnerabilities associated with the low-elevation and below-horizon environment.</p>
+<p><a href="/wiki/Pulse_compression" title="Pulse compression">Pulse compression</a>, and <a class="mw-redirect" href="/wiki/Moving_target_indicator" title="Moving target indicator">moving target indicator</a> (MTI) provide up to 25 dB sub-clutter visibility. MTI antenna beam is aimed above horizon to avoid excessive false alarm rate, which renders systems vulnerable. Aircraft and some missiles exploit this weakness using a technique called <b>flying below the radar</b> to avoid detection (<a href="/wiki/Nap-of-the-earth" title="Nap-of-the-earth">Nap-of-the-earth</a>). This flying technique is ineffective against pulse-Doppler radar.</p>
+<p>Pulse-Doppler provides an advantage when attempting to detect missiles and <a href="/wiki/Stealth_aircraft" title="Stealth aircraft">low observability aircraft</a> flying near terrain, sea surface, and weather.</p>
+<p>Audible Doppler and target size support passive vehicle type classification when <a href="/wiki/Identification_friend_or_foe" title="Identification friend or foe">identification friend or foe</a> is not available from a <a class="mw-redirect" href="/wiki/Transponder_(aviation)" title="Transponder (aviation)">transponder signal</a>. Medium <a href="/wiki/Pulse_repetition_frequency" title="Pulse repetition frequency">pulse repetition frequency</a> (PRF) reflected microwave signals fall between 1,500 and 15,000 cycle per second, which is audible. This means a <a href="/wiki/Helicopter" title="Helicopter">helicopter</a> sounds like a helicopter, a <a href="/wiki/Jet_aircraft" title="Jet aircraft">jet</a> sounds like a jet, and <a class="mw-redirect" href="/wiki/Propeller_aircraft" title="Propeller aircraft">propeller aircraft</a> sound like propellers. <a href="/wiki/Glider_(aircraft)" title="Glider (aircraft)">Aircraft with no moving parts</a> produce a tone. The actual size of the target can be calculated using the audible signal.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Detriments">Detriments</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=6" title="Edit section: Detriments">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:332px;"><a class="image" href="/wiki/File:Radar-Dilemne_Doppler.png"><img alt="" class="thumbimage" data-file-height="610" data-file-width="874" height="230" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Radar-Dilemne_Doppler.png/330px-Radar-Dilemne_Doppler.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Radar-Dilemne_Doppler.png/495px-Radar-Dilemne_Doppler.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Radar-Dilemne_Doppler.png/660px-Radar-Dilemne_Doppler.png 2x" width="330"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Radar-Dilemne_Doppler.png" title="Enlarge"></a></div>
+Maximum range from reflectivity (red) and unambiguous Doppler velocity range (blue) with a fix pulse repetition rate.</div>
+</div>
+</div>
+<p>Ambiguity processing is required when target range is above the red line in the graphic, which increases scan time.</p>
+<p>Scan time is a critical factor for some systems because vehicles moving at or above the speed of sound can travel one mile (1.6 km) every few seconds, like the <a href="/wiki/Exocet" title="Exocet">Exocet</a>, <a href="/wiki/Harpoon_(missile)" title="Harpoon (missile)">Harpoon</a>, <a href="/wiki/Kh-22" title="Kh-22">Kitchen</a>, and <a href="/wiki/Air-to-air_missile" title="Air-to-air missile">Air-to-air missile</a>. The maximum time to scan the entire volume of the sky must be on the order of a dozen seconds or less for systems operating in that environment.</p>
+<p>Pulse-Doppler radar by itself can be too slow to cover the entire volume of space above the horizon unless fan beam is used. This approach is used with the AN/SPS 49(V)5 Very Long Range Air Surveillance Radar, which sacrifices elevation measurement to gain speed.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<p>Pulse-Doppler antenna motion must be slow enough so that all the return signals from at least 3 different PRF can be processed out to the maximum anticipated detection range. This is known as <a href="/wiki/Dwell_time_(radar)" title="Dwell time (radar)">dwell time</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Antenna motion for pulse-Doppler must be as slow as radar using <a href="/wiki/Moving_target_indication" title="Moving target indication">MTI</a>.</p>
+<p>Search radar that include pulse-Doppler are usually dual mode because best overall performance is achieved when pulse-Doppler is used for areas with high false alarm rates (horizon or below and weather), while conventional radar will scan faster in free-space where false alarm rate is low (above horizon with clear skies).</p>
+<p>The antenna type is an important consideration for multi-mode radar because undesirable phase shift introduced by the radar antenna can degrade <a href="/wiki/Performance_measurement" title="Performance measurement">performance measurements</a> for sub-clutter visibility.</p>
+<h2><span class="mw-headline" id="Signal_processing">Signal processing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=7" title="Edit section: Signal processing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The signal processing enhancement of pulse-Doppler allows small high-speed objects to be detected in close proximity to large slow moving reflectors. To achieve this, the transmitter must be coherent and should produce low <a href="/wiki/Phase_noise" title="Phase noise">phase noise</a> during the detection interval, and the receiver must have large instantaneous <a href="/wiki/Dynamic_range" title="Dynamic range">dynamic range</a>.</p>
+<ul>
+<li><a href="/wiki/Pulse-Doppler_signal_processing" title="Pulse-Doppler signal processing">Pulse-Doppler signal processing detailed explanation</a></li>
+</ul>
+<p>Pulse-Doppler signal processing also includes ambiguity resolution to identify true range and velocity.</p>
+<ul>
+<li><a href="/wiki/Ambiguity_resolution" title="Ambiguity resolution">Ambiguity resolution detailed explanation</a></li>
+</ul>
+<p>The received signals from multiple PRF are compared to determine true range using the range ambiguity resolution process.</p>
+<ul>
+<li><a href="/wiki/Range_ambiguity_resolution" title="Range ambiguity resolution">Range ambiguity resolution detailed explanation</a></li>
+</ul>
+<p>The received signals are also compared using the frequency ambiguity resolution process.</p>
+<ul>
+<li><a href="/wiki/Frequency_ambiguity_resolution" title="Frequency ambiguity resolution">Frequency ambiguity resolution detailed explanation</a></li>
+</ul>
+<h3><span class="mw-headline" id="Range_resolution">Range resolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=8" title="Edit section: Range resolution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The range resolution is the minimum range separation between two objects traveling at the same speed before the radar can detect two discrete reflections.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Range Resolution</mtext>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>C</mi>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>PRF</mtext>
+</mrow>
+<mo>×<!-- × --></mo>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Number  of  Samples  Between  Transmit Pulses</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{Range Resolution}}=\left({\frac {C}{{\text{PRF}}\times ({\text{Number  of  Samples  Between  Transmit Pulses}})}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\text{Range Resolution}}=\left({\frac  {C}{{\text{PRF}}\times ({\text{Number  of  Samples  Between  Transmit Pulses}})}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1569432dccf9be2b588ec477d6fa757d46bced49" style="vertical-align: -2.671ex; width:83.193ex; height:6.343ex;"/></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Velocity_resolution">Velocity resolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=9" title="Edit section: Velocity resolution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The velocity resolution is the minimum radial velocity difference between two objects traveling at the same range before the radar can detect two discrete reflections.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Velocity  Resolution</mtext>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>C</mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>PRF</mtext>
+</mrow>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Transmit  Frequency</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>×<!-- × --></mo>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Filter Size In Transmit Pulses</mtext>
+</mrow>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{Velocity  Resolution}}=\left({\frac {C\times {\text{PRF}}}{({\text{Transmit  Frequency}})\times ({\text{Filter Size In Transmit Pulses}})}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\text{Velocity  Resolution}}=\left({\frac  {C\times {\text{PRF}}}{({\text{Transmit  Frequency}})\times ({\text{Filter Size In Transmit Pulses}})}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bd76b1f8803ea431259747e2b65cc40418ec601b" style="vertical-align: -2.671ex; width:85.992ex; height:6.343ex;"/></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Special_consideration">Special consideration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=10" title="Edit section: Special consideration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pulse-Doppler radar has special requirements that must be satisfied to achieve acceptable performance.</p>
+<h3><span class="mw-headline" id="Pulse_repetition_frequency">Pulse repetition frequency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=11" title="Edit section: Pulse repetition frequency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Pulse_repetition_frequency" title="Pulse repetition frequency">Pulse repetition frequency</a></div>
+<p>Pulse-Doppler typically uses <a class="mw-redirect" href="/wiki/Medium_pulse_repetition_frequency" title="Medium pulse repetition frequency">medium pulse repetition frequency</a> (PRF) from about 3 kHz to 30 kHz. The range between transmit pulses is 5 km to 50 km.</p>
+<p>Range and velocity cannot be measured directly using medium PRF, and ambiguity resolution is required to identify true range and speed. Doppler signals are generally above 1 kHz, which is audible, so audio signals from medium-PRF systems can be used for passive target classification.</p>
+<h3><span class="mw-headline" id="Angular_measurement">Angular measurement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=12" title="Edit section: Angular measurement">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Radar systems require angular measurement. Transponders are not normally associated with pulse-Doppler radar, so sidelobe suppression is required for practical operation.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Tracking radar systems use angle error to improve accuracy by producing measurements perpendicular to the radar antenna beam. Angular measurements are averaged over a span of time and combined with radial movement to develop information suitable to predict target position for a short time into the future.</p>
+<p>The two angle error techniques used with tracking radar are monopulse and conical scan.</p>
+<ul>
+<li><a href="/wiki/Monopulse_radar" title="Monopulse radar">Monopulse radar</a></li>
+<li><a href="/wiki/Conical_scanning" title="Conical scanning">Conical scanning</a></li>
+</ul>
+<h3><span class="mw-headline" id="Coherency">Coherency</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=13" title="Edit section: Coherency">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pulse-Doppler radar requires a <a href="/wiki/Coherence_(physics)#Spectral_coherence" title="Coherence (physics)">coherent oscillator</a> with very little noise. <a href="/wiki/Phase_noise" title="Phase noise">Phase noise</a> reduces sub-clutter visibility performance by producing apparent motion on stationary objects.</p>
+<p><a href="/wiki/Cavity_magnetron" title="Cavity magnetron">Cavity magnetron</a> and <a href="/wiki/Crossed-field_amplifier" title="Crossed-field amplifier">crossed-field amplifier</a> are not appropriate because noise introduced by these devices interfere with detection performance. The only amplification devices suitable for pulse-Doppler are <a href="/wiki/Klystron" title="Klystron">klystron</a>, <a class="mw-redirect" href="/wiki/Traveling_wave_tube" title="Traveling wave tube">traveling wave tube</a>, and solid state devices.</p>
+<h3><span class="mw-headline" id="Scalloping">Scalloping</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=14" title="Edit section: Scalloping">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Radar_scalloping" title="Radar scalloping">Radar scalloping</a></div>
+<p>Pulse-Doppler signal processing introduces a phenomenon called scalloping. The name is associated with a series of holes that are scooped-out of the detection performance.</p>
+<p>Scalloping for pulse-Doppler radar involves blind velocities created by the clutter rejection filter. Every volume of space must be scanned using 3 or more different PRF. A two PRF detection scheme will have <b>detection gaps</b> with a pattern of discrete ranges, each of which has a blind velocity.</p>
+<h3><span class="mw-headline" id="Windowing">Windowing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=15" title="Edit section: Windowing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Ringing_artifacts" title="Ringing artifacts">Ringing artifacts</a> pose a problem with search, detection, and ambiguity resolution in pulse-Doppler radar.</p>
+<p>Ringing is reduced in two ways.</p>
+<p>First, the <a class="mw-redirect" href="/wiki/Windowing_functions#Tukey_window" title="Windowing functions">shape of the transmit pulse</a> is adjusted to smooth the leading edge and trailing edge so that RF power is increased and decreased without an abrupt change. This creates a transmit pulse with smooth ends instead of a square wave, which reduces ringing phenomenon that is otherwise associated with target reflection.</p>
+<p>Second, the shape of the receive pulse is adjusted using a <a href="/wiki/Window_function" title="Window function">window function</a> that minimizes ringing that occurs any time pulses are applied to a filter. In a digital system, this adjusts the phase and/or amplitude of each sample before it is applied to the <a class="mw-redirect" href="/wiki/Fast_Fourier_Transform" title="Fast Fourier Transform">Fast Fourier Transform</a>. The <a class="mw-redirect" href="/wiki/Windowing_functions#Dolph.E2.80.93Chebyshev_window" title="Windowing functions">Dolph-Chebyshev window</a> is the most effective because it produces a flat processing floor with no ringing that would otherwise cause false alarms.<sup class="reference" id="cite_ref-dolph_12-0"><a href="#cite_note-dolph-12">[12]</a></sup></p>
+<h3><span class="mw-headline" id="Antenna">Antenna</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=16" title="Edit section: Antenna">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pulse-Doppler radar is generally limited to mechanically aimed antennas and active phase array.</p>
+<p>Mechanical RF components, such as wave-guide, can produce Doppler modulation due to phase shift induced by vibration. This introduces a requirement to perform full spectrum operational tests using shake tables that can produce high power mechanical vibration across all anticipated audio frequencies.</p>
+<p>Doppler is incompatible with most electronically steered phase-array antenna. This is because the phase-shifter elements in the antenna are non-reciprocal and the phase shift must be adjusted before and after each transmit pulse. Spurious phase shift is produced by the sudden impulse of the phase shift, and settling during the receive period between transmit pulses places Doppler modulation onto stationary clutter. That receive modulation corrupts the <a class="mw-redirect" href="/wiki/Measure_of_Performance" title="Measure of Performance">measure of performance</a> for sub-clutter visibility. Phase shifter settling time on the order of 50ns is required. Start of receiver sampling needs to be postponed at least 1 phase-shifter settling time-constant (or more) for each 20 dB of sub-clutter visibility.</p>
+<p>Most antenna phase shifters operating at PRF above 1 kHz introduce spurious phase shift unless special provisions are made, such as reducing phase shifter settling time to a few dozen nanoseconds.<sup class="reference" id="cite_ref-phase-shifters_13-0"><a href="#cite_note-phase-shifters-13">[13]</a></sup></p>
+<p>The following gives the maximum permissible settling time for antenna <a href="/wiki/Phase_shift_module" title="Phase shift module">phase shift modules</a>.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>S</mi>
+<mi>C</mi>
+<mi>V</mi>
+</mrow>
+<mn>20</mn>
+</mfrac>
+</mrow>
+</msup>
+<mo>×<!-- × --></mo>
+<mi>S</mi>
+<mo>×<!-- × --></mo>
+<mi>P</mi>
+<mi>R</mi>
+<mi>F</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T={\frac {1}{e^{\frac {SCV}{20}}\times S\times PRF}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T={\frac {1}{e^{\frac {SCV}{20}}\times S\times PRF}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e15b4a7c11c8d4d1a7113f35b9b6f98c858cdab7" style="vertical-align: -3.505ex; width:23.166ex; height:6.843ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>T</i> = phase shifter settling time</li>
+<li><i>SCV</i> = sub-clutter visibility in <a href="/wiki/Decibel" title="Decibel">dB</a></li>
+<li><i>S</i> = number of range samples between each transmit pulse</li>
+<li><i>PRF</i> = maximum design pulse repetition frequency</li>
+</ul>
+<p>The antenna type and scan performance is a practical consideration for multi-mode radar systems.</p>
+<h3><span class="mw-headline" id="Diffraction">Diffraction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=17" title="Edit section: Diffraction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Choppy surfaces, like waves and trees, form a diffraction grating suitable for bending microwave signals. Pulse-Doppler can be so sensitive that <a href="/wiki/Diffraction" title="Diffraction">diffraction</a> from mountains, buildings or wave tops can be used to detect fast moving objects otherwise blocked by solid obstruction along the line of sight. This is a very lossy phenomenon that only becomes possible when radar has significant excess sub-clutter visibility.</p>
+<p>Refraction and ducting use transmit frequency at <a class="mw-redirect" href="/wiki/L-band" title="L-band">L-band</a> or lower to extend the horizon, which is very different from diffraction. <a href="/wiki/Refraction" title="Refraction">Refraction</a> for <a href="/wiki/Over-the-horizon_radar" title="Over-the-horizon radar">over-the-horizon radar</a> uses variable density in the air column above the surface of the earth to bend RF signals. An inversion layer can produce a transient <a class="external text" href="http://www.amateur-radio-wiki.net/index.php?title=Tropospheric_ducting" rel="nofollow">troposphere duct</a> that traps RF signals in a thin layer of air like a wave-guide.</p>
+<h3><span class="mw-headline" id="Subclutter_visibility">Subclutter visibility</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=18" title="Edit section: Subclutter visibility">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Subclutter visibility involves the maximum ratio of clutter power to target power, which is proportional to dynamic range. This determines performance in heavy weather and near the earth surface.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Dynamic Range</mtext>
+</mrow>
+<mo>=</mo>
+<mi>Min</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>{</mo>
+<mtable columnalign="left left" columnspacing="1em" displaystyle="false" rowspacing=".2em">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mtext>Carrier Power</mtext>
+<mtext>Noise  Power</mtext>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Transmit Noise, where bandwidth is</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mtext>PRF</mtext>
+<mtext>Filter Size</mtext>
+</mfrac>
+</mstyle>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+</mtr>
+<mtr>
+<mtd>
+<msup>
+<mn>2</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Sample Bits + Filter Size</mtext>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mrow>
+</msup>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Receiver Dynamic Range</mtext>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+<mo fence="true" stretchy="true"></mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{Dynamic Range}}=\operatorname {Min} {\begin{cases}{\tfrac {\text{Carrier Power}}{\text{Noise  Power}}}&amp;{\text{Transmit Noise, where bandwidth is}}\,{\tfrac {\text{PRF}}{\text{Filter Size}}}\\\\2^{\left({\text{Sample Bits + Filter Size}}\right)}&amp;{\text{Receiver Dynamic Range}}\end{cases}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\text{Dynamic Range}}=\operatorname {Min} {\begin{cases}{\tfrac {\text{Carrier Power}}{\text{Noise  Power}}}&amp;{\text{Transmit Noise, where bandwidth is}}\,{\tfrac {\text{PRF}}{\text{Filter Size}}}\\\\2^{\left({\text{Sample Bits + Filter Size}}\right)}&amp;{\text{Receiver Dynamic Range}}\end{cases}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7e8440e6842242c1bef05e07595406572fe7db38" style="vertical-align: -4.338ex; width:95.6ex; height:9.843ex;"/></span></dd>
+</dl>
+<p>Subclutter visibility is the ratio of the smallest signal that can be detected in the presence of a larger signal.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Subclutter Visibility</mtext>
+</mrow>
+<mo>=</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mtext>Dynamic Range</mtext>
+<mtext>CFAR Detection Threshold</mtext>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{Subclutter Visibility}}=\left({\tfrac {\text{Dynamic Range}}{\text{CFAR Detection Threshold}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\text{Subclutter Visibility}}=\left({\tfrac  {{\text{Dynamic Range}}}{{\text{CFAR Detection Threshold}}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e91e1df70fb9a90067480975f39f5f22f52dc54a" style="vertical-align: -1.838ex; width:47.626ex; height:4.843ex;"/></span></dd>
+</dl>
+<p>A small fast-moving target reflection can be detected in the presence of larger slow-moving clutter reflections when the following is true.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>Target Power</mtext>
+</mrow>
+<mo>&gt;</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mtext>Clutter Power</mtext>
+<mtext>Subclutter Visibility</mtext>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{Target Power}}&gt;\left({\tfrac {\text{Clutter Power}}{\text{Subclutter Visibility}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\text{Target Power}}&gt;\left({\tfrac  {{\text{Clutter Power}}}{{\text{Subclutter Visibility}}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e1dfb2a8dc38dbf8b7205c13c69945e20fbd831" style="vertical-align: -1.838ex; width:35.471ex; height:4.843ex;"/></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Performance">Performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=19" title="Edit section: Performance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The pulse-Doppler radar equation can be used to understand trade-offs between different design constraints, like power consumption, detection range, and microwave safety hazards. This is a very simple form of modeling that allows performance to be evaluated in a sterile environment.</p>
+<p>The theoretical range performance is as follows.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mtext> </mtext>
+<msub>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<mtext> </mtext>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mtext> </mtext>
+<mi>σ<!-- σ --></mi>
+<mi>F</mi>
+<mtext> </mtext>
+<mi>D</mi>
+</mrow>
+<mrow>
+<mn>16</mn>
+<mtext> </mtext>
+<msup>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mtext> </mtext>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mtext> </mtext>
+<mi>T</mi>
+<mtext> </mtext>
+<mi>B</mi>
+<mtext> </mtext>
+<mi>N</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>4</mn>
+</mfrac>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R=\left({\frac {P_{t}\ G_{t}\ A_{r}\ \sigma F\ D}{16\ \pi ^{2}\ K_{b}\ T\ B\ N}}\right)^{\frac {1}{4}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle R=\left({\frac {P_{t}\ G_{t}\ A_{r}\ \sigma F\ D}{16\ \pi ^{2}\ K_{b}\ T\ B\ N}}\right)^{\frac {1}{4}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45cbe78ef206de9c48f55ad46dcfcaafc163c728" style="vertical-align: -2.505ex; width:26.982ex; height:7.343ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><i>R</i> = Distance to the target</li>
+<li><i>P</i><sub>t</sub> = Transmitter power</li>
+<li><i>G</i><sub>t</sub> = <a href="/wiki/Gain_(electronics)" title="Gain (electronics)">Gain</a> of the transmitting antenna</li>
+<li><i>A</i><sub>r</sub> = Effective aperture (area) of the receiving antenna</li>
+<li><i>σ</i> = <a class="mw-redirect" href="/wiki/Radar_cross_section" title="Radar cross section">Radar cross section</a>, or scattering coefficient, of the target</li>
+<li><i>F</i> = <a href="/wiki/Antenna_gain" title="Antenna gain">Antenna pattern propagation factor</a></li>
+<li><i>D</i> = Doppler filter size (transmit pulses in each <a href="/wiki/Fast_Fourier_transform" title="Fast Fourier transform">Fast Fourier transform</a>)</li>
+<li><i>K</i><sub>b</sub> = <a class="mw-redirect" href="/wiki/Boltzmann%27s_constant" title="Boltzmann's constant">Boltzmann's constant</a></li>
+<li><i>T</i> = Temperature (kelvin)</li>
+<li><i>B</i> = <a href="/wiki/Bandwidth_(signal_processing)" title="Bandwidth (signal processing)">Receiver Bandwidth (band pass filter)</a></li>
+<li><i>N</i> = <a href="/wiki/Noise_figure" title="Noise figure">Noise figure</a></li>
+</ul>
+<p>This equation is derived by combining the <a href="/wiki/Radar#Radar_equation" title="Radar">Radar equation</a> with the <a href="/wiki/Noise_(electronics)" title="Noise (electronics)">Noise equation</a> and accounting for in-band noise distribution across multiple detection filters. The value <i>D</i> is added to the standard radar range equation to account for both <a href="/wiki/Pulse-Doppler_signal_processing" title="Pulse-Doppler signal processing">pulse-Doppler signal processing</a> and <a href="/wiki/Coherence_(physics)" title="Coherence (physics)">transmitter FM noise reduction</a>.</p>
+<p>Detection range is increased proportional to the fourth root of the number of filters for a given power consumption. Alternatively, power consumption is reduced by the number of filers for a given detection range.</p>
+<p><a href="/wiki/Pulse-Doppler_signal_processing" title="Pulse-Doppler signal processing">Pulse-Doppler signal processing</a> integrates all of the energy from all of the individual reflected pulses that enter the filter. This means a <a href="/wiki/Pulse-Doppler_signal_processing" title="Pulse-Doppler signal processing">pulse-Doppler signal processing</a> system with 1,024 elements provides 30.103 dB of improvement due to the type of signal processing that must be used with pulse-Doppler radar. The energy of all of the individual pulses from the object are added together by the filtering process.</p>
+<p>Signal processing for a 1,024 point filter improves performance by 30.103 dB, assuming compatible transmitter and antenna. This corresponds to the following potential improvements.</p>
+<ul>
+<li>562% increase in maximum distance.</li>
+</ul>
+<p>These improvements are the reason pulse-Doppler is essential for military and astronomy.</p>
+<h2><span class="mw-headline" id="Aircraft_tracking_uses">Aircraft tracking uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=20" title="Edit section: Aircraft tracking uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Pulse-Doppler radar for aircraft detection has two modes.</p>
+<ul>
+<li>Scan</li>
+<li>Track</li>
+</ul>
+<p>Scan mode involves frequency filtering, amplitude thresholding, and ambiguity resolution. Once a reflection has been <a href="/wiki/Constant_false_alarm_rate" title="Constant false alarm rate">detected</a> and <a href="/wiki/Ambiguity_resolution" title="Ambiguity resolution">resolved</a>, the pulse-Doppler radar automatically transitions to tracking mode for the volume of space surrounding the track.</p>
+<p>Track mode works like a <a href="/wiki/Phase-locked_loop" title="Phase-locked loop">phase-locked loop</a>, where Doppler velocity is compared with the range movement on successive scans. <b>Lock</b> indicates the difference between the two measurements is below a threshold, which can only occur with an object that satisfies <a href="/wiki/Classical_mechanics" title="Classical mechanics">Newtonian mechanics</a>. Other types of electronic signals cannot produce a lock. Lock exists in no other type of radar.</p>
+<p>The <b>lock criteria</b> needs to be satisfied during normal operation.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<ul>
+<li><a href="/wiki/Pulse-Doppler_signal_processing#Lock" title="Pulse-Doppler signal processing">Pulse-Doppler signal processing § Lock</a></li>
+</ul>
+<p>Lock eliminates the need for human intervention with the exception of helicopters and <a href="/wiki/Radar_jamming_and_deception#Electronic_jamming" title="Radar jamming and deception">electronic jamming</a>.</p>
+<p>Weather phenomenon obey <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic process</a> associated with <a href="/wiki/Air_mass" title="Air mass">air mass</a> and not <a class="mw-redirect" href="/wiki/Newtonian_mechanics" title="Newtonian mechanics">Newtonian mechanics</a>, so the lock criteria is not normally used for weather radar.</p>
+<p><a href="/wiki/Pulse-Doppler_signal_processing" title="Pulse-Doppler signal processing">Pulse-Doppler signal processing</a> selectively excludes low-velocity reflections so that no detections occurs below a threshold velocity. This eliminates terrain, weather, biologicals, and <a href="/wiki/Radar_jamming_and_deception#Mechanical_jamming" title="Radar jamming and deception">mechanical jamming</a> with the exception of decoy aircraft.</p>
+<p>The target Doppler signal from the detection is converted from <a href="/wiki/Frequency_domain" title="Frequency domain">frequency domain</a> back into <a href="/wiki/Time_domain" title="Time domain">time domain</a> sound for the operator in track mode on some radar systems. The operator uses this sound for passive target classification, such as recognizing helicopters and electronic jamming.</p>
+<h3><span class="mw-headline" id="Helicopters">Helicopters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=21" title="Edit section: Helicopters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Special consideration is required for aircraft with large moving parts because pulse-Doppler radar operates like a <a href="/wiki/Phase-locked_loop" title="Phase-locked loop">phase-locked loop</a>. Blade tips moving near the speed of sound produce the only signal that can be detected when a <a href="/wiki/Helicopter" title="Helicopter">helicopter</a> is moving slow near terrain and weather.</p>
+<p>Helicopters appears like a rapidly pulsing noise emitter except in a clear environment free from clutter. An audible signal is produced for passive identification of the type of airborne object. Microwave Doppler frequency shift produced by reflector motion falls into the audible sound range for human beings (<span class="nowrap">20 – 20,000 Hz</span>), which is used for target classification in addition to the kinds of conventional <a href="/wiki/Radar_display" title="Radar display">radar display</a> used for that purpose, like A-scope, B-scope, C-scope, and RHI indicator. The human ear may be able to tell the difference better than electronic equipment.</p>
+<p>A special mode is required because the Doppler velocity feedback information must be unlinked from radial movement so that the system can transition from scan to track with no lock.</p>
+<p>Similar techniques are required to develop track information for jamming signals and interference that cannot satisfy the lock criteria.</p>
+<h3><span class="mw-headline" id="Multi-mode">Multi-mode</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=22" title="Edit section: Multi-mode">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Pulse-Doppler radar must be multi-mode to handle aircraft turning and crossing trajectory.</p>
+<p>Once in track mode, pulse-Doppler radar must include a way to modify Doppler filtering for the volume of space surrounding a track when radial velocity falls below the minimum detection velocity. Doppler filter adjustment must be linked with a <a href="/wiki/Pulse-Doppler_signal_processing#Track" title="Pulse-Doppler signal processing">radar track function</a> to automatically adjust Doppler rejection speed within the volume of space surrounding the track.</p>
+<p>Tracking will cease without this feature because the target signal will otherwise be rejected by the Doppler filter when radial velocity approaches zero.</p>
+<p>Multi-mode operation may also include continuous wave illumination for <a href="/wiki/Semi-active_radar_homing" title="Semi-active radar homing">semi-active radar homing</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=23" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Radar_signal_characteristics" title="Radar signal characteristics">Radar signal characteristics</a> (fundamentals of the radar signal)</li>
+<li><a href="/wiki/Doppler_radar" title="Doppler radar">Doppler radar</a> (non-pulsed; used for navigation systems)</li>
+<li><a href="/wiki/Weather_radar" title="Weather radar">Weather radar</a> (pulsed with Doppler processing)</li>
+<li><a href="/wiki/Continuous-wave_radar" title="Continuous-wave radar">Continuous-wave radar</a> (non-pulsed, pure Doppler processing)</li>
+<li><a class="mw-redirect" href="/wiki/Fm-cw_radar" title="Fm-cw radar">Fm-cw radar</a> (non-pulsed, swept frequency, range and Doppler processing)</li>
+<li><a href="/wiki/Aliasing" title="Aliasing">Aliasing</a> - the reason for ambiguous velocity estimates</li>
+<li><a href="/wiki/Medical_ultrasound#Doppler_sonography" title="Medical ultrasound">Doppler sonography</a> - velocity measurements in medical ultrasound. Based on the same principle</li>
+<li><a href="/wiki/Tartar_Guided_Missile_Fire_Control_System" title="Tartar Guided Missile Fire Control System">Tartar Guided Missile Fire Control System</a></li>
+<li><a href="/wiki/AN/SPS-49" title="AN/SPS-49">AN/SPS-49</a> surface search radar (US)</li>
+<li><a href="/wiki/AN/SPG-51" title="AN/SPG-51">AN/SPG-51</a>D, the MK-74 Guided Missile Fire Control System (US)</li>
+<li><a class="external text" href="http://www.fas.org/man/dod-101/sys/ship/weaps/mk-74.htm" rel="nofollow">MK-74 Guided Missile Fire Control System (GMFCS)</a> (US)</li>
+<li><a href="/wiki/McDonnell_Douglas_F-15_Eagle" title="McDonnell Douglas F-15 Eagle">McDonnell Douglas F-15 Eagle</a> radar system (US)</li>
+<li><a href="/wiki/General_Dynamics_F-16_Fighting_Falcon" title="General Dynamics F-16 Fighting Falcon">General Dynamics F-16 Fighting Falcon</a> radar system (US)</li>
+<li><a href="/wiki/Close-in_weapon_system" title="Close-in weapon system">Close-in weapon system</a> (US)</li>
+<li><a class="mw-redirect" href="/wiki/Mirage_(aircraft)" title="Mirage (aircraft)">Mirage</a> (French)</li>
+<li><a class="mw-redirect" href="/wiki/Smerch_(radar)" title="Smerch (radar)">Smerch (radar)</a> (Soviet)</li>
+<li><a href="/wiki/Zaslon" title="Zaslon">Zaslon</a> (Soviet)</li>
+<li><a href="/wiki/Type_345_Radar" title="Type 345 Radar">Type 345 Radar</a> (Chinese)</li>
+<li><a href="/wiki/CLC-1_Radar" title="CLC-1 Radar">CLC-1 Radar</a> (Chinese)</li>
+<li><a href="/wiki/SLC-2_Radar" title="SLC-2 Radar">SLC-2 Radar</a> (Chinese)</li>
+<li><a href="/wiki/YLC-15_Radar" title="YLC-15 Radar">YLC-15 Radar</a> (Chinese)</li>
+<li><a href="/wiki/JL-10A" title="JL-10A">JL-10A</a> (Chinese)</li>
+<li><a class="mw-redirect" href="/wiki/KLJ-7_Radar" title="KLJ-7 Radar">KLJ-7 Radar</a> (Chinese)</li>
+<li><a class="mw-redirect" href="/wiki/Doppler_On_Wheels" title="Doppler On Wheels">Doppler On Wheels</a>, meteorological</li>
+<li><a href="/wiki/NEXRAD" title="NEXRAD">NEXRAD</a>, meteorological</li>
+<li><a href="/wiki/Terminal_Doppler_Weather_Radar" title="Terminal Doppler Weather Radar">Terminal Doppler Weather Radar</a>, meteorological</li>
+<li><a href="/wiki/ARMOR_Doppler_Weather_Radar" title="ARMOR Doppler Weather Radar">ARMOR Doppler Weather Radar</a>, meteorological</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=24" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.atmos.uiuc.edu/courses/atmos410-fa04/Doppler%20radar.ppt" rel="nofollow">Doppler radar</a> presentation, which highlights the advantages of using the <a href="/wiki/Autocorrelation_technique" title="Autocorrelation technique">autocorrelation technique</a></li>
+<li><a class="external text" href="http://www.engineering.uiowa.edu/~ece195/2006/docs/Doppler.pdf" rel="nofollow">Pulse-Doppler radar</a> handouts from <i>Introduction to Principles and Applications of Radar</i> course at University of Iowa</li>
+<li>Modern Radar Systems by Hamish Meikle (<a class="mw-redirect" href="/wiki/International_Standard_Book_Number_(identifier)" title="International Standard Book Number (identifier)">ISBN</a> <a href="/wiki/Special:BookSources/1-58053-294-2" title="Special:BookSources/1-58053-294-2">1-58053-294-2</a>)</li>
+<li>Advanced Radar Techniques and Systems edited by Gaspare Galati (<a class="mw-redirect" href="/wiki/International_Standard_Book_Number_(identifier)" title="International Standard Book Number (identifier)">ISBN</a> <a href="/wiki/Special:BookSources/0-86341-172-X" title="Special:BookSources/0-86341-172-X">0-86341-172-X</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.raytheon.com/capabilities/products/apq174/" rel="nofollow">"AN/APQ-174/186 Multi-Mode Radar"</a>. Raytheon.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=AN%2FAPQ-174%2F186+Multi-Mode+Radar&amp;rft.genre=unknown&amp;rft.pub=Raytheon&amp;rft_id=http%3A%2F%2Fwww.raytheon.com%2Fcapabilities%2Fproducts%2Fapq174%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://ieeexplore.ieee.org/xpl/login.jsp?tp=&amp;arnumber=6038799&amp;url=http%3A%2F%2Fieeexplore.ieee.org%2Fxpls%2Fabs_all.jsp%3Farnumber%3D6038799" rel="nofollow">"Automatic fall detection based on Doppler radar motion signature"</a>. IEEE PervasiveHealth.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=Automatic+fall+detection+based+on+Doppler+radar+motion+signature&amp;rft.genre=unknown&amp;rft.pub=IEEE+PervasiveHealth&amp;rft_id=http%3A%2F%2Fieeexplore.ieee.org%2Fxpl%2Flogin.jsp%3Ftp%3D%26arnumber%3D6038799%26url%3Dhttp%253A%252F%252Fieeexplore.ieee.org%252Fxpls%252Fabs_all.jsp%253Farnumber%253D6038799&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Pace 1991, p. 152.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://aess.cs.unh.edu/radar%20se%20Lecture%2013.html" rel="nofollow">"Clutter Rejection (Pulse Doppler), Radar Systems Engineering"</a>. IEEE New Hampshire Section, University of New Hampshire.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=Clutter+Rejection+%28Pulse+Doppler%29%2C+Radar+Systems+Engineering&amp;rft.genre=unknown&amp;rft.pub=IEEE+New+Hampshire+Section%2C+University+of+New+Hampshire&amp;rft_id=http%3A%2F%2Faess.cs.unh.edu%2Fradar%2520se%2520Lecture%252013.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nssl.noaa.gov/divisions/radar/pathtonexrad.pdf" rel="nofollow">"Path to Nexrad, Doppler Radar Development at the National Severe Storm Laboratory"</a> <span style="font-size:85%;">(PDF)</span>. National Oceanic and Atmospheric Administration, National Severe Storm Laboratory.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=Path+to+Nexrad%2C+Doppler+Radar+Development+at+the+National+Severe+Storm+Laboratory&amp;rft.genre=unknown&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration%2C+National+Severe+Storm+Laboratory&amp;rft_id=http%3A%2F%2Fwww.nssl.noaa.gov%2Fdivisions%2Fradar%2Fpathtonexrad.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.wxbeacon.com/vws/doppler_descr.php" rel="nofollow">"How does Doppler Radar Work?"</a>. Weather Beacon Doppler Radar.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=How+does+Doppler+Radar+Work%3F&amp;rft.genre=unknown&amp;rft.pub=Weather+Beacon+Doppler+Radar&amp;rft_id=http%3A%2F%2Fwww.wxbeacon.com%2Fvws%2Fdoppler_descr.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-scv-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-scv_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.radartutorial.eu/18.explanations/ex17.en.html" rel="nofollow">"Subclutter Visibility and Improvement Factor"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">January 29,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=Subclutter+Visibility+and+Improvement+Factor&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.radartutorial.eu%2F18.explanations%2Fex17.en.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.fas.org/man/dod-101/sys/ship/weaps/an-sps-49.htm" rel="nofollow">"AN/SPS-49 Very Long-Range Air Surveillance Radar"</a>. Federation of American Scientists.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=AN%2FSPS-49+Very+Long-Range+Air+Surveillance+Radar&amp;rft.genre=unknown&amp;rft.pub=Federation+of+American+Scientists&amp;rft_id=http%3A%2F%2Fwww.fas.org%2Fman%2Fdod-101%2Fsys%2Fship%2Fweaps%2Fan-sps-49.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.radartutorial.eu/01.basics/Dwell%20Time%20and%20Hits%20per%20Scan.en.html" rel="nofollow">"Dwell Time and Hits Per Scan"</a>. Radartutorial.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=Dwell+Time+and+Hits+Per+Scan&amp;rft.genre=unknown&amp;rft.pub=Radartutorial&amp;rft_id=http%3A%2F%2Fwww.radartutorial.eu%2F01.basics%2FDwell%2520Time%2520and%2520Hits%2520per%2520Scan.en.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.radartutorial.eu/13.ssr/sr09.en.html" rel="nofollow">"Side Lobe Suppression"</a>. Radartutorial.eu.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=Side+Lobe+Suppression&amp;rft.genre=unknown&amp;rft.pub=Radartutorial.eu&amp;rft_id=http%3A%2F%2Fwww.radartutorial.eu%2F13.ssr%2Fsr09.en.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://mit.edu/6.933/www/Fall2000/mode-s/sidelobe.html" rel="nofollow">"Side Lobe Suppression"</a>. Massachusetts Institute of Technology.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=Side+Lobe+Suppression&amp;rft.genre=unknown&amp;rft.pub=Massachusetts+Institute+of+Technology&amp;rft_id=http%3A%2F%2Fmit.edu%2F6.933%2Fwww%2FFall2000%2Fmode-s%2Fsidelobe.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-dolph-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-dolph_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://ccrma.stanford.edu/~jos/sasp/Dolph_Chebyshev_Window.html" rel="nofollow">"Dolph-Chebyshev Window"</a>. Stanford University<span class="reference-accessdate">. Retrieved <span class="nowrap">January 29,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=Dolph-Chebyshev+Window&amp;rft.genre=unknown&amp;rft.pub=Stanford+University&amp;rft_id=https%3A%2F%2Fccrma.stanford.edu%2F~jos%2Fsasp%2FDolph_Chebyshev_Window.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-phase-shifters-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-phase-shifters_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://accelconf.web.cern.ch/accelconf/LINAC08/papers/thp089.pdf" rel="nofollow">"High Power L Band Fast Phase Shifter"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">August 2,</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=High+Power+L+Band+Fast+Phase+Shifter&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Faccelconf.web.cern.ch%2Faccelconf%2FLINAC08%2Fpapers%2Fthp089.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090227021024/http://www.es.northropgrumman.com/solutions/awacs/assets/AWACS.pdf" rel="nofollow">"AWACS Surveillance Radar"</a> <span style="font-size:85%;">(PDF)</span>. Norhrop Grummond. Archived from <a class="external text" href="http://www.es.northropgrumman.com/solutions/awacs/assets/AWACS.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 2009-02-27.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.btitle=AWACS+Surveillance+Radar&amp;rft.genre=unknown&amp;rft.pub=Norhrop+Grummond&amp;rft_id=http%3A%2F%2Fwww.es.northropgrumman.com%2Fsolutions%2Fawacs%2Fassets%2FAWACS.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit&amp;section=26" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="refbegin" style="">
+<ul>
+<li><cite class="citation book">Pace, Steve (1991). <i>X-Fighters: USAF Experimental and Prototype Fighters, XP-59 to YF-23</i>. St. Paul, Minnesota: Motorbooks International. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87938-540-5" title="Special:BookSources/0-87938-540-5">0-87938-540-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APulse-Doppler+radar&amp;rft.au=Pace%2C+Steve&amp;rft.btitle=X-Fighters%3A+USAF+Experimental+and+Prototype+Fighters%2C+XP-59+to+YF-23&amp;rft.date=1991&amp;rft.genre=book&amp;rft.isbn=0-87938-540-5&amp;rft.place=St.+Paul%2C+Minnesota&amp;rft.pub=Motorbooks+International&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20170919094743
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 0.457 seconds
+Preprocessor visited node count: 1382/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 22725/2097152 bytes
+Template argument size: 1449/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.091/10.000 seconds
+Lua memory usage: 5.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  211.173      1 -total
+ 40.98%   86.539      1 Template:Reflist
+ 32.17%   67.928     13 Template:Cite_web
+ 18.56%   39.203      1 Template:Citation_needed
+ 16.91%   35.710      1 Template:Fix
+ 16.06%   33.910      1 Template:Convert
+ 12.61%   26.619      2 Template:ISBN
+ 10.34%   21.831      2 Template:Category_handler
+  5.18%   10.944      1 Template:Delink
+  4.82%   10.189      2 Template:Catalog_lookup_link
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1358178-0!canonical!math=5 and timestamp 20170919094743 and revision id 787569823
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Pulse-Doppler_radar&amp;oldid=787569823">https://en.wikipedia.org/w/index.php?title=Pulse-Doppler_radar&amp;oldid=787569823</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Radar" title="Category:Radar">Radar</a></li><li><a href="/wiki/Category:Radar_signal_processing" title="Category:Radar signal processing">Radar signal processing</a></li><li><a href="/wiki/Category:Measuring_instruments" title="Category:Measuring instruments">Measuring instruments</a></li><li><a href="/wiki/Category:Microwave_technology" title="Category:Microwave technology">Microwave technology</a></li><li><a href="/wiki/Category:Navigational_equipment" title="Category:Navigational equipment">Navigational equipment</a></li><li><a href="/wiki/Category:Air_traffic_control" title="Category:Air traffic control">Air traffic control</a></li><li><a href="/wiki/Category:Science_and_technology_during_World_War_II" title="Category:Science and technology during World War II">Science and technology during World War II</a></li><li><a href="/wiki/Category:Targeting_(warfare)" title="Category:Targeting (warfare)">Targeting (warfare)</a></li><li><a href="/wiki/Category:Synthetic_aperture_radar" title="Category:Synthetic aperture radar">Synthetic aperture radar</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Pulse-Doppler+radar" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Pulse-Doppler+radar" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Pulse-Doppler_radar" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Pulse-Doppler_radar" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Pulse-Doppler_radar">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Pulse-Doppler_radar&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Pulse-Doppler_radar&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Pulse-Doppler_radar" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Pulse-Doppler_radar" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Pulse-Doppler_radar&amp;oldid=787569823" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Pulse-Doppler_radar&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1029151" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Pulse-Doppler_radar&amp;id=787569823" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Pulse-Doppler+radar">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Pulse-Doppler+radar&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DPulse-Doppler%2Bradar%26returnto%3DPulse-Doppler%2Bradar%26oldid%3D787569823%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Pulse-Doppler_radar&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Radar_de_impulsos_Doppler" hreflang="es" lang="es" title="Radar de impulsos Doppler – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B1%D8%A7%D8%AF%D8%A7%D8%B1_%D8%AF%D9%88%D9%BE%D9%84%D8%B1_%D9%BE%D8%A7%D9%84%D8%B3" hreflang="fa" lang="fa" title="رادار دوپلر پالس – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Radar_Doppler_puls%C3%A9" hreflang="fr" lang="fr" title="Radar Doppler pulsé – French">Français</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Pulsdopplerradar" hreflang="sv" lang="sv" title="Pulsdopplerradar – Swedish">Svenska</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1029151#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 26 June 2017, at 04:15.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Pulse-Doppler_radar&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"0.457","ppvisitednodes":{"value":1382,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":22725,"limit":2097152},"templateargumentsize":{"value":1449,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  211.173      1 -total"," 40.98%   86.539      1 Template:Reflist"," 32.17%   67.928     13 Template:Cite_web"," 18.56%   39.203      1 Template:Citation_needed"," 16.91%   35.710      1 Template:Fix"," 16.06%   33.910      1 Template:Convert"," 12.61%   26.619      2 Template:ISBN"," 10.34%   21.831      2 Template:Category_handler","  5.18%   10.944      1 Template:Delink","  4.82%   10.189      2 Template:Catalog_lookup_link"]},"scribunto":{"limitreport-timeusage":{"value":"0.091","limit":"10.000"},"limitreport-memusage":{"value":5627298,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20170919094743","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":80,"wgHostname":"mw1246"});});</script>
+</body>
+</html>

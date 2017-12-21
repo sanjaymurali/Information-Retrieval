@@ -1,0 +1,20 @@
+Web Crawler - Assignment 1 - Task 2 - Information Retrieval - CS 6200
+=====================================================================
+
+The goal of this task is to implement our own web crawler and Perform focused crawling.
+------------------------------------------------------------------------------------------------------------------------
+
+In Task 1 we performed crawling on the Seed URL given to us which is: https://en.wikipedia.org/wiki/Tropical_cyclone
+
+In Task 2 we need to make sure that our crawler performs focused crawling with the keyword "rain". This is implemented
+by using the Regular Expression library in Python. The library "re", helps us target the anchor link text or the text in
+the URL crawled.
+
+The Regular Expression used is : ([^\w]|\b|[_-])rain
+This expression matches: Spaces and/or "_" and/or "-" before the word "rain"
+This expression doesnt match: 0-9 and/or a-z and/or A-Z before the word "rain"
+
+So Rain_Fall, rain_fall, Rainy, RainFall, RainForest, Rain_Forest, Rain and Snow are some of the words that are matched
+by the regular expression.
+
+Words like train, grain, drain, Brain, refrain, ukraine are not matched by the regular expression.

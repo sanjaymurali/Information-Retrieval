@@ -1,0 +1,887 @@
+https://en.wikipedia.org/wiki/Rain_gauge
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Rain gauge - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Rain_gauge","wgTitle":"Rain gauge","wgCurRevisionId":802740289,"wgRevisionId":802740289,"wgArticleId":95786,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2008","Commons category with local link different than on Wikidata","Meteorological instrumentation and equipment","Rain"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Rain_gauge","wgRelevantArticleId":95786,"wgRequestId":"WdM1KgpAAEIAAA5CNmgAAABE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q190052","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG/1200px-2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Rain_gauge" rel="alternate"/>
+<link href="/w/index.php?title=Rain_gauge&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Rain_gauge&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Rain_gauge" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Rain_gauge rootpage-Rain_gauge vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Rain gauge</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG"><img alt="" class="thumbimage" data-file-height="3264" data-file-width="2448" height="267" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG/200px-2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG/300px-2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG/400px-2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:2013-10-14_12_27_49_National_Weather_Service_Standard_Rain_Gauge.JPG" title="Enlarge"></a></div>
+Standard <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a> Rain Gauge</div>
+</div>
+</div>
+<p>A <b>rain gauge</b> (also known as an udometer, pluviometer, or an ombrometer) is an instrument used by <a href="/wiki/Meteorology" title="Meteorology">meteorologists</a> and <a class="mw-redirect" href="/wiki/Hydrologist" title="Hydrologist">hydrologists</a> to gather and measure the amount of liquid <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> over a set period of time.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#National_coverage_and_modern_gauges"><span class="tocnumber">1.1</span> <span class="toctext">National coverage and modern gauges</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Types"><span class="tocnumber">2</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Standard_rain_gauge"><span class="tocnumber">2.1</span> <span class="toctext">Standard rain gauge</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Pluviometer_of_intensities"><span class="tocnumber">2.2</span> <span class="toctext">Pluviometer of intensities</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Weighing_precipitation_gauge"><span class="tocnumber">2.3</span> <span class="toctext">Weighing precipitation gauge</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Tipping_bucket_rain_gauge"><span class="tocnumber">2.4</span> <span class="toctext">Tipping bucket rain gauge</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Optical_rain_gauge"><span class="tocnumber">2.5</span> <span class="toctext">Optical rain gauge</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Acoustic_rain_gauge"><span class="tocnumber">2.6</span> <span class="toctext">Acoustic rain gauge</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The first known rainfall records were kept by the <a href="/wiki/Ancient_Greece" title="Ancient Greece">Ancient Greeks</a>, about 500 B.C.. People living in <a href="/wiki/India" title="India">India</a> began to record rainfall in cca 400 B.C..<sup class="reference" id="cite_ref-Strangeways_1-0"><a href="#cite_note-Strangeways-1">[1]</a></sup> The readings were correlated against expected growth. In the <a href="/wiki/Arthashastra" title="Arthashastra">Arthashastra</a>, used for example in <a href="/wiki/Magadha" title="Magadha">Magadha</a>, precise standards were set as to grain production. Each of the state storehouses were equipped with a rain gauge to classify land for taxation purposes.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> In 1247, the Song Chinese mathematician and inventor <a href="/wiki/Qin_Jiushao" title="Qin Jiushao">Qin Jiushao</a> invented <a href="/wiki/Tianchi_Basin" title="Tianchi Basin">Tianchi Basin</a> rain and snow gauges to reference rain, snowfall measurements, as well as other forms of meteorological data.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>In 1441, the <a href="/wiki/Cheugugi" title="Cheugugi">Cheugugi</a> was invented during the reign of <a class="mw-redirect" href="/wiki/King_Sejong_the_Great" title="King Sejong the Great">King Sejong the Great</a> of the <a class="mw-redirect" href="/wiki/Joseon_Dynasty" title="Joseon Dynasty">Joseon Dynasty</a> of <a href="/wiki/Korea" title="Korea">Korea</a> as the first standardized rain gauge.<sup class="reference" id="cite_ref-weathershack_5-0"><a href="#cite_note-weathershack-5">[5]</a></sup><sup class="reference" id="cite_ref-:0_6-0"><a href="#cite_note-:0-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> In 1662, <a href="/wiki/Christopher_Wren" title="Christopher Wren">Christopher Wren</a> created the first tipping-bucket rain gauge in <a href="/wiki/United_Kingdom" title="United Kingdom">Britain</a> in collaboration with <a href="/wiki/Robert_Hooke" title="Robert Hooke">Robert Hooke</a>.<sup class="reference" id="cite_ref-weathershack_5-1"><a href="#cite_note-weathershack-5">[5]</a></sup> Hooke also designed a manual gauge with a funnel that made measurements throughout 1695.</p>
+<p>It was <a href="/wiki/Richard_Towneley" title="Richard Towneley">Richard Towneley</a> who was the first to make systematic rainfall measurements over a period of 15 years from 1677 to 1694, publishing his records in the <i><a href="/wiki/Philosophical_Transactions_of_the_Royal_Society" title="Philosophical Transactions of the Royal Society">Philosophical Transactions of the Royal Society</a></i>. Towneley called for more measurements elsewhere in the country to compare the rainfall in different regions,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> although only <a href="/wiki/William_Derham" title="William Derham">William Derham</a> appears to have taken up Towneley's challenge. They jointly published the rainfall measurements for <a href="/wiki/Towneley_Park" title="Towneley Park">Towneley Park</a> and <a href="/wiki/Upminster" title="Upminster">Upminster</a> in <a href="/wiki/Essex" title="Essex">Essex</a> for the years 1697 to 1704.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p>The naturalist <a href="/wiki/Gilbert_White" title="Gilbert White">Gilbert White</a> took measurements to determine the mean rainfall from 1779 to 1786, although it was his brother in law, <a href="/wiki/Thomas_Barker_(meteorologist)" title="Thomas Barker (meteorologist)">Thomas Barker</a> who made regular and meticulous measurements for 59 years, recording temperature, wind, <a class="mw-redirect" href="/wiki/Barometric_pressure" title="Barometric pressure">barometric pressure</a>, rainfall and clouds. His meteorological records are a valuable resource for knowledge of the 18th century British climate. He was able to demonstrate that the average rainfall varied greatly from year to year with little discernible pattern.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="National_coverage_and_modern_gauges">National coverage and modern gauges</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=2" title="Edit section: National coverage and modern gauges">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:GeorgeJamesSymons(1838-1900).JPG"><img alt="" class="thumbimage" data-file-height="562" data-file-width="395" height="313" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/GeorgeJamesSymons%281838-1900%29.JPG/220px-GeorgeJamesSymons%281838-1900%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/GeorgeJamesSymons%281838-1900%29.JPG/330px-GeorgeJamesSymons%281838-1900%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/0/01/GeorgeJamesSymons%281838-1900%29.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:GeorgeJamesSymons(1838-1900).JPG" title="Enlarge"></a></div>
+Symonds in 1900.</div>
+</div>
+</div>
+<p>The meteorologist <a href="/wiki/George_James_Symons" title="George James Symons">George James Symons</a> published the first annual volume of <i>British Rainfall</i> in 1860. This pioneering work contained rainfall records from 168 land stations in England and Wales. He was elected to the council of the British meteorological society in 1863 and made it his life's work to investigate rainfall within the British Isles. He set up a voluntary network of observers, who collected data which was returned to him for analysis. So successful was he in this object that by 1866 he was able to show results which gave a fair representation of the distribution of rainfall, and the number of recorders gradually increased until the last volume of British Rainfall which he lived to edit (that for 1899) contained figures from 3528 stations — 2894 in <a href="/wiki/England" title="England">England</a> and <a href="/wiki/Wales" title="Wales">Wales</a>, 446 in <a href="/wiki/Scotland" title="Scotland">Scotland</a>, and 188 in <a href="/wiki/Ireland" title="Ireland">Ireland</a>. He also collected old rain fall records going back over a hundred years. In 1870 he produced an account of rainfall in the British Isles starting in 1725.</p>
+<p>Due to the ever-increasing numbers of observers, standardisation of the gauges became necessary. Symons began experimenting on new gauges in his own garden. He tried different models with variations in size, shape, and height. In 1863 he began collaboration with Colonel Michael Foster Ward from <a href="/wiki/Calne" title="Calne">Calne</a>, <a href="/wiki/Wiltshire" title="Wiltshire">Wiltshire</a>, who undertook more extensive investigations. By including Ward and various others around Britain, the investigations continued until 1890. The experiments were remarkable for their planning, execution, and drawing of conclusions. The results of these experiments led to the progressive adoption of the well known standard gauge, still used by the UK <a class="mw-redirect" href="/wiki/Meteorological_Office" title="Meteorological Office">Meteorological Office</a> today. Namely, one made of '...copper, with a five-inch funnel having its brass rim one foot above the ground...'<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Most rain gauges generally measure the precipitation in <a href="/wiki/Metre" title="Metre">millimetres</a> equivalent to <a href="/wiki/Litre" title="Litre">litres</a> per square metre. The level of rainfall is sometimes reported as <a href="/wiki/Inch" title="Inch">inches</a> or <a href="/wiki/Centimetre" title="Centimetre">centimetres</a>.</p>
+<p>Rain gauge amounts are read either manually or by <a href="/wiki/Automatic_weather_station" title="Automatic weather station">automatic weather station</a> (AWS). The frequency of readings will depend on the requirements of the collection agency. Some countries will supplement the paid weather observer with a network of volunteers to obtain precipitation data (and other types of weather) for sparsely populated areas.</p>
+<p>In most cases the precipitation is not retained, however some stations do submit rainfall (and snowfall) for testing, which is done to obtain levels of pollutants.</p>
+<p>Rain gauges have their limitations. Attempting to collect rain data in a <a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">hurricane</a> can be nearly impossible and unreliable (even if the equipment survives) due to wind extremes. Also, rain gauges only indicate rainfall in a localized area. For virtually any gauge, drops will stick to the sides or funnel of the collecting device, such that amounts are very slightly underestimated, and those of .01 inches or .25 mm may be recorded as a trace.</p>
+<p>Another problem encountered is when the temperature is close to or below freezing. Rain may fall on the funnel and ice or snow may collect in the gauge, blocking subsequent rain.</p>
+<p>Rain gauges should be placed in an open area where there are no obstacles, such as buildings or trees, to block the rain. This is also to prevent the water collected on the roofs of buildings or the leaves of trees from dripping into the rain gauge after a rain, resulting in inaccurate readings.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=3" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Automatic_Rain_gauge(Interior).JPG"><img alt="" class="thumbimage" data-file-height="2935" data-file-width="2749" height="235" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Automatic_Rain_gauge%28Interior%29.JPG/220px-Automatic_Rain_gauge%28Interior%29.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Automatic_Rain_gauge%28Interior%29.JPG/330px-Automatic_Rain_gauge%28Interior%29.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Automatic_Rain_gauge%28Interior%29.JPG/440px-Automatic_Rain_gauge%28Interior%29.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Automatic_Rain_gauge(Interior).JPG" title="Enlarge"></a></div>
+A self-recording rain gauge (interior)</div>
+</div>
+</div>
+<p>Types of rain gauges include <a href="/wiki/Graduated_cylinder" title="Graduated cylinder">graduated cylinders</a>, weighing gauges, tipping bucket gauges, and simple buried pit collectors. Each type has its advantages and disadvantages for collecting rain data.</p>
+<h3><span class="mw-headline" id="Standard_rain_gauge">Standard rain gauge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=4" title="Edit section: Standard rain gauge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The standard <a href="/wiki/National_Weather_Service" title="National Weather Service">NWS</a> rain gauge, developed at the start of the 20th century, consists of a funnel emptying into a graduated cylinder, 2 cm in radius, which fits inside a larger container which is 20 cm in diameter and 50 cm tall. If the rainwater overflows the graduated inner cylinder, the larger outer container will catch it. When measurements are taken, the height of the water in the small graduated cylinder is measured, and the excess overflow in the large container is carefully poured into another graduated cylinder and measured to give the total rainfall. Sometimes a cone meter is used to prevent <a href="/wiki/Leak" title="Leak">leakage</a> that can result in alteration of the data. In locations using the metric system, the cylinder is usually marked in mm and will measure up to 250 millimetres (9.8 in) of rainfall. Each horizontal line on the cylinder is 0.5 millimetres (0.02 in). In areas using Imperial units each horizontal line represents 0.01 inch.</p>
+<h3><span class="mw-headline" id="Pluviometer_of_intensities">Pluviometer of intensities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=5" title="Edit section: Pluviometer of intensities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:342px;"><a class="image" href="/wiki/File:Pluviograf_Jardi.jpg"><img alt="" class="thumbimage" data-file-height="1302" data-file-width="1746" height="254" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pluviograf_Jardi.jpg/340px-Pluviograf_Jardi.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pluviograf_Jardi.jpg/510px-Pluviograf_Jardi.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Pluviograf_Jardi.jpg/680px-Pluviograf_Jardi.jpg 2x" width="340"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Pluviograf_Jardi.jpg" title="Enlarge"></a></div>
+Pluviometer of intensities (1921)</div>
+</div>
+</div>
+<p>The <b>pluviometer of intensities</b> (or Jardi's pluviometer) is a tool that measures the average intensity of rainfall in a certain interval of time. It was initially designed to record the rainfall regime in Catalonia but eventually spread globally throughout the world.<sup class="reference" id="cite_ref-East1967_12-0"><a href="#cite_note-East1967-12">[12]</a></sup></p>
+<blockquote class="templatequote">
+<p><i>It employs the principle of <a href="/wiki/Feedback" title="Feedback">feedback</a> .. the incoming water pushes the buoy upwards, making the lower "adjusting conic needle" to let pass the same amount of water that enters into the container, this way.. the needle records on the drum the amount of water flowing through it at every moment -in mm of rainfall per square-meter</i></p>
+</blockquote>
+<p>It consists of a rotating drum that rotates at constant <a href="/wiki/Speed" title="Speed">speed</a>, this drum drags a graduate sheet of cardboard, which has the <a href="/wiki/Time" title="Time">time</a> at the <a class="mw-redirect" href="/wiki/Abscissa" title="Abscissa">abscissa</a> while the y axis indicates the <a href="/wiki/Height" title="Height">height</a> of rainfall in <a href="/wiki/Rain" title="Rain">mm of rain</a>. This height is recorded with a pen that moves vertically, driven by a buoy, marking on the paper the <a class="mw-redirect" href="/wiki/Rainfall" title="Rainfall">rainfall</a> over the time (the cardboard sheet is usually for one day).</p>
+<p>While the rain falls, the water collected by the funnel falls into the container and raises the buoy ..., that makes the pen arm raising in the vertical axis marking the cardboard accordingly. If the rainfall does not vary, the water level in the container remains constant, and while the drum rotates, the pen's mark it's more or less a horizontal line, proportional to the amount of water that is falling. When the pen reaches the top edge of the recording paper, it means that the buoy is "up high in the tank" leaving the tip of the conic needle in a way that uncovers the regulating hole (i.e. the maximum flow that the apparatus is able to record) . If the rain suddenly decreases, making the container -as it empties- to quickly lower the buoy, that movement corresponds to a steep slope line that can reach the bottom of the recorded cardboard, if it stops raining.</p>
+<p>The pluviometer of intensities allowed to record the precipitation over the time and the years, particularly in Barcelona (95 years), apart from many other places around the world, such as Hong-Kong.<sup class="reference" id="cite_ref-East1967_12-1"><a href="#cite_note-East1967-12">[12]</a></sup><sup class="reference" id="cite_ref-KongOffice1974_13-0"><a href="#cite_note-KongOffice1974-13">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Weighing_precipitation_gauge">Weighing precipitation gauge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=6" title="Edit section: Weighing precipitation gauge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A weighing-type precipitation gauge consists of a storage bin, which is weighed to record the mass. Certain models measure the mass using a pen on a rotating drum, or by using a <a href="/wiki/Vibrating_wire" title="Vibrating wire">vibrating wire</a> attached to a <a href="/wiki/Data_logger" title="Data logger">data logger</a><sup class="reference" id="cite_ref-:0_6-1"><a href="#cite_note-:0-6">[6]</a></sup>. The advantages of this type of gauge over tipping buckets are that it does not underestimate intense rain, and it can measure other forms of precipitation, including rain, hail and snow. These gauges are, however, more expensive and require more maintenance than tipping bucket gauges.</p>
+<p>The weighing-type recording gauge may also contain a device to measure the quantity of chemicals contained in the location's atmosphere. This is extremely helpful for scientists studying the effects of greenhouse gases released into the atmosphere and their effects on the levels of the <a href="/wiki/Acid_rain" title="Acid rain">acid rain</a>. Some <a href="/wiki/Automated_airport_weather_station" title="Automated airport weather station">Automated Surface Observing System</a> (ASOS) units use an automated weighing gauge called the AWPAG (All Weather Precipitation Accumulation Gauge).</p>
+<h3><span class="mw-headline" id="Tipping_bucket_rain_gauge">Tipping bucket rain gauge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=7" title="Edit section: Tipping bucket rain gauge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Interior_tipping_bucket.JPG"><img alt="" class="thumbimage" data-file-height="1232" data-file-width="1632" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Interior_tipping_bucket.JPG/220px-Interior_tipping_bucket.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Interior_tipping_bucket.JPG/330px-Interior_tipping_bucket.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Interior_tipping_bucket.JPG/440px-Interior_tipping_bucket.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Interior_tipping_bucket.JPG" title="Enlarge"></a></div>
+The interior of a tipping bucket rain gauge</div>
+</div>
+</div>
+<p>The tipping bucket rain gauge consists of a funnel that collects and channels the precipitation into a small <a href="/wiki/Seesaw" title="Seesaw">seesaw</a>-like container. After a pre-set amount of precipitation falls, the lever tips, dumping the collected water and sending an electrical signal. An old-style recording device may consist of a pen mounted on an arm attached to a geared wheel that moves once with each signal sent from the collector. In this design, the wheel turns the pen arm moves either up or down leaving a trace on the graph and at the same time making a loud click. Each jump of the arm is sometimes referred to as a 'click' in reference to the noise. The chart is measured in 10-minute periods (vertical lines) and 0.4 mm (0.015 in) (horizontal lines) and rotates once every 24 hours and is powered by a clockwork motor that must be manually wound.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Exterior_tipping_bucket.JPG"><img alt="" class="thumbimage" data-file-height="1232" data-file-width="1632" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Exterior_tipping_bucket.JPG/220px-Exterior_tipping_bucket.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/42/Exterior_tipping_bucket.JPG/330px-Exterior_tipping_bucket.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/42/Exterior_tipping_bucket.JPG/440px-Exterior_tipping_bucket.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Exterior_tipping_bucket.JPG" title="Enlarge"></a></div>
+The exterior of a tipping bucket rain gauge</div>
+</div>
+</div>
+<p>The tipping bucket rain gauge is not as accurate as the standard rain gauge because the rainfall may stop before the lever has tipped. When the next period of rain begins it may take no more than one or two drops to tip the lever. This would then indicate that pre-set amount has fallen when in fact only a fraction of that amount has actually fallen. Tipping buckets also tend to underestimate the amount of rainfall, particularly in snowfall and heavy rainfall events.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> The advantage of the tipping bucket rain gauge is that the character of the rain (light, medium, or heavy) may be easily obtained. Rainfall character is decided by the total amount of rain that has fallen in a set period (usually 1 hour) and by counting the number of 'clicks' in a 10-minute period the observer can decide the character of the rain. Correction algorithms can be applied to the data as an accepted method of correcting the data for high level rainfall intensity amounts.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Tipping_Bucket_Recorder.JPG"><img alt="" class="thumbimage" data-file-height="1232" data-file-width="1632" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tipping_Bucket_Recorder.JPG/220px-Tipping_Bucket_Recorder.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tipping_Bucket_Recorder.JPG/330px-Tipping_Bucket_Recorder.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Tipping_Bucket_Recorder.JPG/440px-Tipping_Bucket_Recorder.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Tipping_Bucket_Recorder.JPG" title="Enlarge"></a></div>
+Tipping bucket rain gauge recorder</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Close_up_chart.JPG"><img alt="" class="thumbimage" data-file-height="1232" data-file-width="1632" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Close_up_chart.JPG/220px-Close_up_chart.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Close_up_chart.JPG/330px-Close_up_chart.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Close_up_chart.JPG/440px-Close_up_chart.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Close_up_chart.JPG" title="Enlarge"></a></div>
+Close up of a tipping bucket rain gauge recorder chart</div>
+</div>
+</div>
+<p>Modern tipping rain gauges consist of a plastic collector balanced over a pivot. When it tips, it actuates a switch (such as a <a href="/wiki/Reed_switch" title="Reed switch">reed switch</a>) which is then electronically recorded or transmitted to a remote collection station.</p>
+<p>Tipping gauges can also incorporate weighing gauges. In these gauges, a strain gauge is fixed to the collection bucket so that the exact rainfall can be read at any moment. Each time the collector tips, the strain gauge (weight sensor) is re-zeroed to null out any drift.</p>
+<p>To measure the <i>water equivalent</i> of frozen precipitation, a tipping bucket may be heated to melt any ice and snow that is caught in its funnel. Without a heating mechanism, the funnel often becomes clogged during a frozen precipitation event, and thus no precipitation can be measured<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2008)">citation needed</span></a></i>]</sup>. Many <a href="/wiki/Automated_airport_weather_station#Automated_Surface_Observing_System_.28ASOS.29" title="Automated airport weather station">Automated Surface Observing System (ASOS)</a> units use heated tipping buckets to measure precipitation <sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<h3><span class="mw-headline" id="Optical_rain_gauge">Optical rain gauge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=8" title="Edit section: Optical rain gauge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These have a row of collection funnels. In an enclosed space below each is a <a href="/wiki/Laser_diode" title="Laser diode">laser diode</a> and a <a class="mw-redirect" href="/wiki/Photo_diode" title="Photo diode">photo transistor detector</a>. When enough water is collected to make a single drop, it drops from the bottom, falling into the laser beam path. The sensor is set at right angles to the laser so that enough light is scattered to be detected as a sudden flash of light. The flashes from these photo detectors are then read and transmitted or recorded.</p>
+<h3><span class="mw-headline" id="Acoustic_rain_gauge">Acoustic rain gauge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=9" title="Edit section: Acoustic rain gauge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a class="new" href="/w/index.php?title=Acoustic_disdrometer&amp;action=edit&amp;redlink=1" title="Acoustic disdrometer (page does not exist)">acoustic disdrometer</a> is an acoustic rain gauge. Also referred to as a hydrophone, it is able to sense the sound signatures for each drop size as rain strikes a water surface within the gauge. Since each sound signature is unique, it is possible to invert the underwater sound field to estimate the drop-size distribution within the rain. Selected moments of the drop-size distribution yield rainfall rate, rainfall accumulation, and other rainfall properties.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Disdrometer" title="Disdrometer">Disdrometer</a></li>
+<li><a href="/wiki/Snow_gauge" title="Snow gauge">Snow gauge</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-Strangeways-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Strangeways_1-0">^</a></b></span> <span class="reference-text">Ian Strangeways, A History of rain gauges, TerraData, 2010</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Kosambi (1982) The Culture and Civilization of Ancient India in Historical Outline, p. 153, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7069-1399-6" title="Special:BookSources/978-0-7069-1399-6">978-0-7069-1399-6</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Strangeways, Ian (2011). <i>Precipitation: Theory, Measurement and Distribution</i>. Cambridge University Press (published April 14, 2011). p. 140. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0521172929" title="Special:BookSources/978-0521172929">978-0521172929</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARain+gauge&amp;rft.aufirst=Ian&amp;rft.aulast=Strangeways&amp;rft.btitle=Precipitation%3A+Theory%2C+Measurement+and+Distribution&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-0521172929&amp;rft.pages=140&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Selin, Helaine (2008). <i>Encyclopaedia of the History of Science, Technology, and Medicine in Non-Western Cultures</i> (2nd ed.). Springer (published April 16, 2008). p. 736. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1402045592" title="Special:BookSources/978-1402045592">978-1402045592</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARain+gauge&amp;rft.aufirst=Helaine&amp;rft.aulast=Selin&amp;rft.btitle=Encyclopaedia+of+the+History+of+Science%2C+Technology%2C+and+Medicine+in+Non-Western+Cultures&amp;rft.date=2008&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=978-1402045592&amp;rft.pages=736&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-weathershack-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-weathershack_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-weathershack_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.weathershack.com/education/history-of-weather-observing-tools.html" rel="nofollow">Weathershack history on rain gauge</a></span></li>
+<li id="cite_note-:0-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://inventors.about.com/od/rstartinventions/a/Rain_Gauge.htm" rel="nofollow">About.com Inventors</a></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://100.naver.com/100.nhn?docid=149149" rel="nofollow">측우기 測雨器, Naver encyclopedia</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Towneley R. (1694), Philosophical Transactions Vol. 18 p. 52</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Derham, W and Towneley, R (1704) Philosophical Transactions (1683-1775), Volume 24, pp. 1878-881.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">Ian Strangeways. <a class="external text" href="http://www.rmets.org/sites/default/files/pdf/presentation/20100417-strangeways.pdf" rel="nofollow">"A History of Raingauges"</a> <span style="font-size:85%;">(PDF)</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARain+gauge&amp;rft.au=Ian+Strangeways&amp;rft.btitle=A+History+of+Raingauges&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rmets.org%2Fsites%2Fdefault%2Ffiles%2Fpdf%2Fpresentation%2F20100417-strangeways.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">:A short history of the British Rainfall Organisation by DE Pedgley, Sept 2002, published by The Royal Meteorological Society <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-948090-21-9" title="Special:BookSources/0-948090-21-9">0-948090-21-9</a></span></li>
+<li id="cite_note-East1967-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-East1967_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-East1967_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="https://books.google.cat/books?id=l24qAAAAMAAJ&amp;q=Royal+observatory+HongKong+jardi&amp;dq=Royal+observatory+HongKong+jardi&amp;hl=ca&amp;ei=6GzLTrf9O8Hd8AOKso3VDw&amp;sa=X&amp;oi=book_result&amp;ct=result" rel="nofollow"><i>Water Resources Series</i></a>. United Nations. 1967<span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARain+gauge&amp;rft.btitle=Water+Resources+Series&amp;rft.date=1967&amp;rft.genre=book&amp;rft.pub=United+Nations&amp;rft_id=https%3A%2F%2Fbooks.google.cat%2Fbooks%3Fid%3Dl24qAAAAMAAJ%26q%3DRoyal%2Bobservatory%2BHongKong%2Bjardi%26dq%3DRoyal%2Bobservatory%2BHongKong%2Bjardi%26hl%3Dca%26ei%3D6GzLTrf9O8Hd8AOKso3VDw%26sa%3DX%26oi%3Dbook_result%26ct%3Dresult&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-KongOffice1974-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-KongOffice1974_13-0">^</a></b></span> <span class="reference-text"><cite class="citation book">T. Y. Chen (1974). <a class="external text" href="http://www.hko.gov.hk/publica/tnl/tnl018.pdf" rel="nofollow"><i>Comparison of Jardi and Workman Rate-of-Rainfall Gauges</i></a> <span style="font-size:85%;">(PDF)</span>. Royal Observatory, Hong Kong<span class="reference-accessdate">. Retrieved <span class="nowrap">23 October</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARain+gauge&amp;rft.au=T.+Y.+Chen&amp;rft.btitle=Comparison+of+Jardi+and+Workman+Rate-of-Rainfall+Gauges&amp;rft.date=1974&amp;rft.genre=book&amp;rft.pub=Royal+Observatory%2C+Hong+Kong&amp;rft_id=http%3A%2F%2Fwww.hko.gov.hk%2Fpublica%2Ftnl%2Ftnl018.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Groisman, P.Y. (1994): "<a class="external text" href="http://ams.allenpress.com/perlserv/?request=get-abstract&amp;doi=10.1175%2F1520-0477(1994)075%3C0215:TAOUSP%3E2.0.CO%3B2" rel="nofollow">The Accuracy of United States Precipitation Data</a>" <a href="/wiki/Bulletin_of_the_American_Meteorological_Society" title="Bulletin of the American Meteorological Society">Bulletin of the American Meteorological Society</a> <b>75</b>(2): 215–227.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.usbr.gov/pn/agrimet/precip.html" rel="nofollow">AgriMet Precipitation Measurements</a></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">"<a class="external text" href="http://www.nws.noaa.gov/asos/tipbuck.htm" rel="nofollow">The Tipping Bucket Rain Gauge</a>." <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a>.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://glossary.ametsoc.org/wiki/Acoustic_rain_gauge" rel="nofollow">[1]</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Rain_gauge&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:rain_gauges" title="commons:Category:rain gauges">rain gauges</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://cocorahs.org" rel="nofollow">Report Local Rainfall across the United States here</a></li>
+<li><a class="external text" href="http://www.globe.gov/fsl/welcome/welcomeobject.pl" rel="nofollow">Report Local Rainfall Worldwide here</a></li>
+<li><a class="external text" href="http://www.rainfallreports.com" rel="nofollow">Record, Analyse, Share your rainfall here</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=qzKWzTe7CEg" rel="nofollow">Video of a Tipping bucket rain gauge in action</a></li>
+</ul>
+<div aria-labelledby="Earth-based_meteorological_equipment_and_instrumentation" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_equipment" title="Template:Meteorological equipment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_equipment" title="Template talk:Meteorological equipment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_equipment&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Earth-based_meteorological_equipment_and_instrumentation" style="font-size:114%;margin:0 4em">Earth-based <a href="/wiki/Meteorological_instrumentation" title="Meteorological instrumentation">meteorological equipment and instrumentation</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anemometer" title="Anemometer">Anemometer</a></li>
+<li><a href="/wiki/Atmometer" title="Atmometer">Atmometer</a></li>
+<li><a href="/wiki/Barograph" title="Barograph">Barograph</a></li>
+<li><a href="/wiki/Barometer" title="Barometer">Barometer</a></li>
+<li><a href="/wiki/Ceiling_balloon" title="Ceiling balloon">Ceiling balloon</a></li>
+<li><a href="/wiki/Ceiling_projector" title="Ceiling projector">Ceiling projector</a></li>
+<li><a href="/wiki/Ceilometer" title="Ceilometer">Ceilometer</a></li>
+<li><a href="/wiki/Dark_adaptor_goggles" title="Dark adaptor goggles">Dark adaptor goggles</a></li>
+<li><a href="/wiki/Dewcell" title="Dewcell">Dewcell</a></li>
+<li><a href="/wiki/Disdrometer" title="Disdrometer">Disdrometer</a></li>
+<li><a href="/wiki/Dropsonde" title="Dropsonde">Dropsonde</a></li>
+<li><a href="/wiki/Field_mill" title="Field mill">Field mill</a></li>
+<li><a href="/wiki/Heat_flux_sensor" title="Heat flux sensor">Heat flux sensor</a></li>
+<li><a href="/wiki/Hygrometer" title="Hygrometer">Hygrometer</a></li>
+<li><a href="/wiki/Ice_accretion_indicator" title="Ice accretion indicator">Ice accretion indicator</a></li>
+<li><a href="/wiki/Lidar" title="Lidar">Lidar</a></li>
+<li><a href="/wiki/Lightning_detection" title="Lightning detection">Lightning detector</a></li>
+<li><a href="/wiki/Nephelometer" title="Nephelometer">Nephelometer</a></li>
+<li><a href="/wiki/Nephoscope" title="Nephoscope">Nephoscope</a></li>
+<li><a href="/wiki/Pan_evaporation" title="Pan evaporation">Pan evaporation</a></li>
+<li><a href="/wiki/Pyranometer" title="Pyranometer">Pyranometer</a></li>
+<li><a href="/wiki/Pyrheliometer" title="Pyrheliometer">Pyrheliometer</a></li>
+<li><a href="/wiki/Radiosonde" title="Radiosonde">Radiosonde</a></li>
+<li><a class="mw-selflink selflink">Rain gauge</a></li>
+<li><a href="/wiki/Snow_gauge" title="Snow gauge">Snow gauge</a></li>
+<li><a href="/wiki/Snowboard_(meteorology)" title="Snowboard (meteorology)">Snowboard</a></li>
+<li><a href="/wiki/Snow_pillow" title="Snow pillow">Snow pillow</a></li>
+<li><a href="/wiki/SODAR" title="SODAR">SODAR</a></li>
+<li><a href="/wiki/Solarimeter" title="Solarimeter">Solarimeter</a></li>
+<li><a href="/wiki/Sounding_rocket" title="Sounding rocket">Sounding rocket</a></li>
+<li><a href="/wiki/Stevenson_screen" title="Stevenson screen">Stevenson screen</a></li>
+<li><a href="/wiki/Sunshine_recorder" title="Sunshine recorder">Sunshine recorder</a></li>
+<li><a href="/wiki/Tethersonde" title="Tethersonde">Tethersonde</a></li>
+<li><a href="/wiki/Thermo-hygrograph" title="Thermo-hygrograph">Thermo-hygrograph</a></li>
+<li><a href="/wiki/Thermometer" title="Thermometer">Thermometer</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Transmissometer" title="Transmissometer">Transmissometer</a></li>
+<li><a href="/wiki/Weather_balloon" title="Weather balloon">Weather balloon</a></li>
+<li><a href="/wiki/Weather_buoy" title="Weather buoy">Weather buoy</a></li>
+<li><a href="/wiki/Weather_radar" title="Weather radar">Weather radar</a></li>
+<li><a href="/wiki/Weather_vane" title="Weather vane">Weather vane</a></li>
+<li><a href="/wiki/Whole_sky_camera" title="Whole sky camera">Whole sky camera</a></li>
+<li><a href="/wiki/Wind_profiler" title="Wind profiler">Wind profiler</a></li>
+<li><a href="/wiki/Windsock" title="Windsock">Windsock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Sensors" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sensors" title="Template:Sensors"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sensors" title="Template talk:Sensors"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sensors&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sensors" style="font-size:114%;margin:0 4em"><a href="/wiki/Sensor" title="Sensor">Sensors</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Acoustic, sound, vibration</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geophone" title="Geophone">Geophone</a></li>
+<li><a href="/wiki/Hydrophone" title="Hydrophone">Hydrophone</a></li>
+<li><a href="/wiki/Microphone" title="Microphone">Microphone</a></li>
+<li><a href="/wiki/Seismometer" title="Seismometer">Seismometer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Automotive, transportation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air%E2%80%93fuel_ratio_meter" title="Air–fuel ratio meter">Air–fuel ratio meter</a></li>
+<li><a href="/wiki/Blind_spot_monitor" title="Blind spot monitor">Blind spot monitor</a></li>
+<li><a href="/wiki/Crankshaft_position_sensor" title="Crankshaft position sensor">Crankshaft position sensor</a></li>
+<li><a href="/wiki/Curb_feeler" title="Curb feeler">Curb feeler</a></li>
+<li><a href="/wiki/Defect_detector" title="Defect detector">Defect detector</a></li>
+<li><a href="/wiki/Engine_coolant_temperature_sensor" title="Engine coolant temperature sensor">Engine coolant temperature sensor</a></li>
+<li><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></li>
+<li><a href="/wiki/MAP_sensor" title="MAP sensor">MAP sensor</a></li>
+<li><a href="/wiki/Mass_flow_sensor" title="Mass flow sensor">Mass flow sensor</a></li>
+<li><a href="/wiki/Omniview_technology" title="Omniview technology">Omniview technology</a></li>
+<li><a href="/wiki/Oxygen_sensor" title="Oxygen sensor">Oxygen sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Parking_sensors" title="Parking sensors">Parking sensors</a></li>
+<li><a href="/wiki/Radar_gun" title="Radar gun">Radar gun</a></li>
+<li><a href="/wiki/Speed_sensor" title="Speed sensor">Speed sensor</a></li>
+<li><a href="/wiki/Speedometer" title="Speedometer">Speedometer</a></li>
+<li><a href="/wiki/Throttle_position_sensor" title="Throttle position sensor">Throttle position sensor</a></li>
+<li><a href="/wiki/Tire-pressure_monitoring_system" title="Tire-pressure monitoring system">Tire-pressure monitoring system</a></li>
+<li><a href="/wiki/Torque_sensor" title="Torque sensor">Torque sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Transmission_fluid_Temperature_sensor_.28TFT.29" title="Transmission control unit">Transmission fluid temperature sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Turbine_speed_sensor_.28TSS.29" title="Transmission control unit">Turbine speed sensor</a></li>
+<li><a href="/wiki/Variable_reluctance_sensor" title="Variable reluctance sensor">Variable reluctance sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Vehicle_speed_sensor_.28VSS.29" title="Transmission control unit">Vehicle speed sensor</a></li>
+<li><a href="/wiki/Water_sensor" title="Water sensor">Water sensor</a></li>
+<li><a href="/wiki/Wheel_speed_sensor" title="Wheel speed sensor">Wheel speed sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Chemical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Breathalyzer" title="Breathalyzer">Breathalyzer</a></li>
+<li><a href="/wiki/Carbon_dioxide_sensor" title="Carbon dioxide sensor">Carbon dioxide sensor</a></li>
+<li><a href="/wiki/Carbon_monoxide_detector" title="Carbon monoxide detector">Carbon monoxide detector</a></li>
+<li><a href="/wiki/Catalytic_bead_sensor" title="Catalytic bead sensor">Catalytic bead sensor</a></li>
+<li><a href="/wiki/Chemical_field-effect_transistor" title="Chemical field-effect transistor">Chemical field-effect transistor</a></li>
+<li><a href="/wiki/Electrochemical_gas_sensor" title="Electrochemical gas sensor">Electrochemical gas sensor</a></li>
+<li><a href="/wiki/Electrolyte%E2%80%93insulator%E2%80%93semiconductor_sensor" title="Electrolyte–insulator–semiconductor sensor">Electrolyte–insulator–semiconductor sensor</a></li>
+<li><a href="/wiki/Electronic_nose" title="Electronic nose">Electronic nose</a></li>
+<li><a href="/wiki/Fluorescent_chloride_sensors" title="Fluorescent chloride sensors">Fluorescent chloride sensors</a></li>
+<li><a href="/wiki/Holographic_sensor" title="Holographic sensor">Holographic sensor</a></li>
+<li><a href="/wiki/Hydrocarbon_dew_point" title="Hydrocarbon dew point">Hydrocarbon dew point</a> analyzer</li>
+<li><a href="/wiki/Hydrogen_sensor" title="Hydrogen sensor">Hydrogen sensor</a></li>
+<li><a href="/wiki/Hydrogen_sulfide_sensor" title="Hydrogen sulfide sensor">Hydrogen sulfide sensor</a></li>
+<li><a href="/wiki/Infrared_point_sensor" title="Infrared point sensor">Infrared point sensor</a></li>
+<li><a href="/wiki/Ion_selective_electrode" title="Ion selective electrode">Ion selective electrode</a></li>
+<li><a href="/wiki/Microwave_chemistry_sensor" title="Microwave chemistry sensor">Microwave chemistry sensor</a></li>
+<li><a href="/wiki/Nitrogen_oxide_sensor" title="Nitrogen oxide sensor">Nitrogen oxide sensor</a></li>
+<li><a href="/wiki/Nondispersive_infrared_sensor" title="Nondispersive infrared sensor">Nondispersive infrared sensor</a></li>
+<li><a href="/wiki/Olfactometer" title="Olfactometer">Olfactometer</a></li>
+<li><a href="/wiki/Optode" title="Optode">Optode</a></li>
+<li><a href="/wiki/Oxygen_sensor" title="Oxygen sensor">Oxygen sensor</a></li>
+<li><a href="/wiki/Pellistor" title="Pellistor">Pellistor</a></li>
+<li><a class="mw-redirect" href="/wiki/PH_glass_electrode" title="PH glass electrode">pH glass electrode</a></li>
+<li><a href="/wiki/Potentiometric_sensor" title="Potentiometric sensor">Potentiometric sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Redox_electrode" title="Redox electrode">Redox electrode</a></li>
+<li><a href="/wiki/Smoke_detector" title="Smoke detector">Smoke detector</a></li>
+<li><a href="/wiki/Zinc_oxide_nanorod_sensor" title="Zinc oxide nanorod sensor">Zinc oxide nanorod sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Electric, magnetic, radio</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Current_sensor" title="Current sensor">Current sensor</a></li>
+<li><a href="/wiki/Electroscope" title="Electroscope">Electroscope</a></li>
+<li><a href="/wiki/Galvanometer" title="Galvanometer">Galvanometer</a></li>
+<li><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Hall_probe" title="Hall probe">Hall probe</a></li>
+<li><a href="/wiki/Magnetic_anomaly_detector" title="Magnetic anomaly detector">Magnetic anomaly detector</a></li>
+<li><a href="/wiki/Magnetometer" title="Magnetometer">Magnetometer</a></li>
+<li><a href="/wiki/MEMS_magnetic_field_sensor" title="MEMS magnetic field sensor">MEMS magnetic field sensor</a></li>
+<li><a href="/wiki/Metal_detector" title="Metal detector">Metal detector</a></li>
+<li><a href="/wiki/Planar_Hall_sensor" title="Planar Hall sensor">Planar Hall sensor</a></li>
+<li><a href="/wiki/Radio_direction_finder" title="Radio direction finder">Radio direction finder</a></li>
+<li><a href="/wiki/Test_light" title="Test light">Test light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Environment, weather,<br/>
+moisture</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actinometer" title="Actinometer">Actinometer</a></li>
+<li><a href="/wiki/Bedwetting_alarm" title="Bedwetting alarm">Bedwetting alarm</a></li>
+<li><a href="/wiki/Ceilometer" title="Ceilometer">Ceilometer</a></li>
+<li><a href="/wiki/Dew_warning" title="Dew warning">Dew warning</a></li>
+<li><a href="/wiki/Electrochemical_gas_sensor" title="Electrochemical gas sensor">Electrochemical gas sensor</a></li>
+<li><a href="/wiki/Fish_counter" title="Fish counter">Fish counter</a></li>
+<li><a href="/wiki/Frequency_domain_sensor" title="Frequency domain sensor">Frequency domain sensor</a></li>
+<li><a href="/wiki/Gas_detector" title="Gas detector">Gas detector</a></li>
+<li><a href="/wiki/Hook_gauge_evaporimeter" title="Hook gauge evaporimeter">Hook gauge evaporimeter</a></li>
+<li><a href="/wiki/Humistor" title="Humistor">Humistor</a></li>
+<li><a href="/wiki/Hygrometer" title="Hygrometer">Hygrometer</a></li>
+<li><a href="/wiki/Leaf_sensor" title="Leaf sensor">Leaf sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Psychrometer" title="Psychrometer">Psychrometer</a></li>
+<li><a href="/wiki/Pyranometer" title="Pyranometer">Pyranometer</a></li>
+<li><a href="/wiki/Pyrgeometer" title="Pyrgeometer">Pyrgeometer</a></li>
+<li><a class="mw-selflink selflink">Rain gauge</a></li>
+<li><a href="/wiki/Rain_sensor" title="Rain sensor">Rain sensor</a></li>
+<li><a href="/wiki/SNOTEL" title="SNOTEL">SNOTEL</a></li>
+<li><a href="/wiki/Snow_gauge" title="Snow gauge">Snow gauge</a></li>
+<li><a href="/wiki/Soil_moisture_sensor" title="Soil moisture sensor">Soil moisture sensor</a></li>
+<li><a href="/wiki/Stream_gauge" title="Stream gauge">Stream gauge</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Weather_radar" title="Weather radar">Weather radar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Flow, fluid velocity</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li>
+<li><a href="/wiki/Anemometer" title="Anemometer">Anemometer</a></li>
+<li><a class="mw-redirect" href="/wiki/Flow_sensor" title="Flow sensor">Flow sensor</a></li>
+<li><a href="/wiki/Gas_meter" title="Gas meter">Gas meter</a></li>
+<li><a href="/wiki/Mass_flow_sensor" title="Mass flow sensor">Mass flow sensor</a></li>
+<li><a href="/wiki/Water_metering" title="Water metering">Water metering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ionising radiation,<br/>
+subatomic particles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bubble_chamber" title="Bubble chamber">Bubble chamber</a></li>
+<li><a href="/wiki/Cloud_chamber" title="Cloud chamber">Cloud chamber</a></li>
+<li><a href="/wiki/Geiger%E2%80%93M%C3%BCller_tube" title="Geiger–Müller tube">Geiger–Müller tube</a></li>
+<li><a href="/wiki/Geiger_counter" title="Geiger counter">Geiger counter</a></li>
+<li><a href="/wiki/Ionization_chamber" title="Ionization chamber">Ionization chamber</a></li>
+<li><a href="/wiki/Neutron_detection" title="Neutron detection">Neutron detection</a></li>
+<li><a href="/wiki/Particle_detector" title="Particle detector">Particle detector</a></li>
+<li><a href="/wiki/Proportional_counter" title="Proportional counter">Proportional counter</a></li>
+<li><a href="/wiki/Scintillation_counter" title="Scintillation counter">Scintillation counter</a></li>
+<li><a href="/wiki/Semiconductor_detector" title="Semiconductor detector">Semiconductor detector</a></li>
+<li><a href="/wiki/Scintillator" title="Scintillator">Scintillator</a></li>
+<li><a href="/wiki/Thermoluminescent_dosimeter" title="Thermoluminescent dosimeter">Thermoluminescent dosimeter</a></li>
+<li><a href="/wiki/Wire_chamber" title="Wire chamber">Wire chamber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Navigation instruments</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airspeed_indicator" title="Airspeed indicator">Airspeed indicator</a></li>
+<li><a href="/wiki/Machmeter" title="Machmeter">Machmeter</a></li>
+<li><a href="/wiki/Altimeter" title="Altimeter">Altimeter</a></li>
+<li><a href="/wiki/Attitude_indicator" title="Attitude indicator">Attitude indicator</a></li>
+<li><a href="/wiki/Depth_gauge" title="Depth gauge">Depth gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Fluxgate_compass" title="Fluxgate compass">Fluxgate compass</a></li>
+<li><a href="/wiki/Gyroscope" title="Gyroscope">Gyroscope</a></li>
+<li><a href="/wiki/Inertial_navigation_system" title="Inertial navigation system">Inertial navigation system</a></li>
+<li><a href="/wiki/Inertial_reference_unit" title="Inertial reference unit">Inertial reference unit</a></li>
+<li><a class="mw-redirect" href="/wiki/Magnetic_compass" title="Magnetic compass">Magnetic compass</a></li>
+<li><a class="mw-redirect" href="/wiki/MHD_sensor" title="MHD sensor">MHD sensor</a></li>
+<li><a href="/wiki/Ring_laser_gyroscope" title="Ring laser gyroscope">Ring laser gyroscope</a></li>
+<li><a class="mw-redirect" href="/wiki/Turn_coordinator" title="Turn coordinator">Turn coordinator</a></li>
+<li><a href="/wiki/Variometer" title="Variometer">Variometer</a></li>
+<li><a href="/wiki/Vibrating_structure_gyroscope" title="Vibrating structure gyroscope">Vibrating structure gyroscope</a></li>
+<li><a href="/wiki/Yaw-rate_sensor" title="Yaw-rate sensor">Yaw-rate sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Position, angle,<br/>
+displacement</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accelerometer" title="Accelerometer">Accelerometer</a></li>
+<li><a href="/wiki/Angular_rate_sensor" title="Angular rate sensor">Angular rate sensor</a></li>
+<li><a href="/wiki/Auxanometer" title="Auxanometer">Auxanometer</a></li>
+<li><a href="/wiki/Capacitive_displacement_sensor" title="Capacitive displacement sensor">Capacitive displacement sensor</a></li>
+<li><a href="/wiki/Capacitive_sensing" title="Capacitive sensing">Capacitive sensing</a></li>
+<li><a href="/wiki/Gravimeter" title="Gravimeter">Gravimeter</a></li>
+<li><a href="/wiki/Inclinometer" title="Inclinometer">Inclinometer</a></li>
+<li><a href="/wiki/Integrated_circuit_piezoelectric_sensor" title="Integrated circuit piezoelectric sensor">Integrated circuit piezoelectric sensor</a></li>
+<li><a href="/wiki/Laser_rangefinder" title="Laser rangefinder">Laser rangefinder</a></li>
+<li><a href="/wiki/Laser_surface_velocimeter" title="Laser surface velocimeter">Laser surface velocimeter</a></li>
+<li><a href="/wiki/Lidar" title="Lidar">Lidar</a></li>
+<li><a href="/wiki/Linear_encoder" title="Linear encoder">Linear encoder</a></li>
+<li><a href="/wiki/Linear_variable_differential_transformer" title="Linear variable differential transformer">Linear variable differential transformer</a></li>
+<li><a href="/wiki/Liquid_capacitive_inclinometers" title="Liquid capacitive inclinometers">Liquid capacitive inclinometers</a></li>
+<li><a href="/wiki/Odometer" title="Odometer">Odometer</a></li>
+<li><a href="/wiki/Photoelectric_sensor" title="Photoelectric sensor">Photoelectric sensor</a></li>
+<li><a href="/wiki/Piezoelectric_accelerometer" title="Piezoelectric accelerometer">Piezoelectric accelerometer</a></li>
+<li><a href="/wiki/Position_sensor" title="Position sensor">Position sensor</a></li>
+<li><a href="/wiki/Rotary_encoder" title="Rotary encoder">Rotary encoder</a></li>
+<li><a href="/wiki/Rotary_variable_differential_transformer" title="Rotary variable differential transformer">Rotary variable differential transformer</a></li>
+<li><a class="mw-redirect" href="/wiki/Selsyn" title="Selsyn">Selsyn</a></li>
+<li><a href="/wiki/Sudden_Motion_Sensor" title="Sudden Motion Sensor">Sudden Motion Sensor</a></li>
+<li><a href="/wiki/Tachometer" title="Tachometer">Tachometer</a></li>
+<li><a href="/wiki/Tilt_sensor" title="Tilt sensor">Tilt sensor</a></li>
+<li><a href="/wiki/Ultrasonic_thickness_gauge" title="Ultrasonic thickness gauge">Ultrasonic thickness gauge</a></li>
+<li><a href="/wiki/Variable_reluctance_sensor" title="Variable reluctance sensor">Variable reluctance sensor</a></li>
+<li><a href="/wiki/Velocity_receiver" title="Velocity receiver">Velocity receiver</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Optical, light, imaging</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charge-coupled_device" title="Charge-coupled device">Charge-coupled device</a></li>
+<li><a href="/wiki/Contact_image_sensor" title="Contact image sensor">Contact image sensor</a></li>
+<li><a href="/wiki/Electro-optical_sensor" title="Electro-optical sensor">Electro-optical sensor</a></li>
+<li><a href="/wiki/Flame_detector" title="Flame detector">Flame detector</a></li>
+<li><a href="/wiki/Infrared" title="Infrared">Infrared</a></li>
+<li><a href="/wiki/Kinetic_inductance_detector" title="Kinetic inductance detector">Kinetic inductance detector</a></li>
+<li><a class="mw-redirect" href="/wiki/LED_as_light_sensor" title="LED as light sensor">LED as light sensor</a></li>
+<li><a href="/wiki/Light-addressable_potentiometric_sensor" title="Light-addressable potentiometric sensor">Light-addressable potentiometric sensor</a></li>
+<li><a href="/wiki/Nichols_radiometer" title="Nichols radiometer">Nichols radiometer</a></li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li>
+<li><a href="/wiki/Photodetector" title="Photodetector">Photodetector</a></li>
+<li><a href="/wiki/Photodiode" title="Photodiode">Photodiode</a></li>
+<li><a href="/wiki/Photoelectric_sensor" title="Photoelectric sensor">Photoelectric sensor</a></li>
+<li><a href="/wiki/Photoionization_detector" title="Photoionization detector">Photoionization detector</a></li>
+<li><a href="/wiki/Photomultiplier" title="Photomultiplier">Photomultiplier</a></li>
+<li><a href="/wiki/Photoresistor" title="Photoresistor">Photoresistor</a></li>
+<li><a href="/wiki/Photoswitch" title="Photoswitch">Photoswitch</a></li>
+<li><a class="mw-redirect" href="/wiki/Phototransistor" title="Phototransistor">Phototransistor</a></li>
+<li><a href="/wiki/Phototube" title="Phototube">Phototube</a></li>
+<li><a href="/wiki/Position_sensitive_device" title="Position sensitive device">Position sensitive device</a></li>
+<li><a href="/wiki/Scintillometer" title="Scintillometer">Scintillometer</a></li>
+<li><a href="/wiki/Shack%E2%80%93Hartmann_wavefront_sensor" title="Shack–Hartmann wavefront sensor">Shack–Hartmann wavefront sensor</a></li>
+<li><a href="/wiki/Single-photon_avalanche_diode" title="Single-photon avalanche diode">Single-photon avalanche diode</a></li>
+<li><a href="/wiki/Superconducting_nanowire_single-photon_detector" title="Superconducting nanowire single-photon detector">Superconducting nanowire single-photon detector</a></li>
+<li><a class="mw-redirect" href="/wiki/Transition_edge_sensor" title="Transition edge sensor">Transition edge sensor</a></li>
+<li><a href="/wiki/Tristimulus_colorimeter" title="Tristimulus colorimeter">Tristimulus colorimeter</a></li>
+<li><a href="/wiki/Visible-light_photon_counter" title="Visible-light photon counter">Visible-light photon counter</a></li>
+<li><a href="/wiki/Wavefront_sensor" title="Wavefront sensor">Wavefront sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Pressure</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barograph" title="Barograph">Barograph</a></li>
+<li><a href="/wiki/Barometer" title="Barometer">Barometer</a></li>
+<li><a href="/wiki/Boost_gauge" title="Boost gauge">Boost gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Bourdon_gauge" title="Bourdon gauge">Bourdon gauge</a></li>
+<li><a href="/wiki/Hot-filament_ionization_gauge" title="Hot-filament ionization gauge">Hot-filament ionization gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Ionization_gauge" title="Ionization gauge">Ionization gauge</a></li>
+<li><a href="/wiki/McLeod_gauge" title="McLeod gauge">McLeod gauge</a></li>
+<li><a href="/wiki/Oscillating_U-tube" title="Oscillating U-tube">Oscillating U-tube</a></li>
+<li><a href="/wiki/Permanent_Downhole_Gauge" title="Permanent Downhole Gauge">Permanent Downhole Gauge</a></li>
+<li><a href="/wiki/Piezometer" title="Piezometer">Piezometer</a></li>
+<li><a href="/wiki/Pirani_gauge" title="Pirani gauge">Pirani gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Pressure_gauge" title="Pressure gauge">Pressure gauge</a></li>
+<li><a href="/wiki/Pressure_sensor" title="Pressure sensor">Pressure sensor</a></li>
+<li><a href="/wiki/Tactile_sensor" title="Tactile sensor">Tactile sensor</a></li>
+<li><a href="/wiki/Time_pressure_gauge" title="Time pressure gauge">Time pressure gauge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Force, density, level</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bhangmeter" title="Bhangmeter">Bhangmeter</a></li>
+<li><a href="/wiki/Force_gauge" title="Force gauge">Force gauge</a></li>
+<li><a href="/wiki/Hydrometer" title="Hydrometer">Hydrometer</a></li>
+<li><a href="/wiki/Level_sensor" title="Level sensor">Level sensor</a></li>
+<li><a href="/wiki/Load_cell" title="Load cell">Load cell</a></li>
+<li><a href="/wiki/Magnetic_level_gauge" title="Magnetic level gauge">Magnetic level gauge</a></li>
+<li><a href="/wiki/Nuclear_density_gauge" title="Nuclear density gauge">Nuclear density gauge</a></li>
+<li><a href="/wiki/Piezoelectric_sensor" title="Piezoelectric sensor">Piezoelectric sensor</a></li>
+<li><a href="/wiki/Strain_gauge" title="Strain gauge">Strain gauge</a></li>
+<li><a href="/wiki/Torque_sensor" title="Torque sensor">Torque sensor</a></li>
+<li><a href="/wiki/Viscometer" title="Viscometer">Viscometer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Thermal, heat,<br/>
+temperature</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bimetallic_strip" title="Bimetallic strip">Bimetallic strip</a></li>
+<li><a href="/wiki/Bolometer" title="Bolometer">Bolometer</a></li>
+<li><a href="/wiki/Calorimeter" title="Calorimeter">Calorimeter</a></li>
+<li><a href="/wiki/Exhaust_gas_temperature_gauge" title="Exhaust gas temperature gauge">Exhaust gas temperature gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Flame_detection" title="Flame detection">Flame detection</a></li>
+<li><a href="/wiki/Gardon_gauge" title="Gardon gauge">Gardon gauge</a></li>
+<li><a href="/wiki/Golay_cell" title="Golay cell">Golay cell</a></li>
+<li><a href="/wiki/Heat_flux_sensor" title="Heat flux sensor">Heat flux sensor</a></li>
+<li><a href="/wiki/Infrared_thermometer" title="Infrared thermometer">Infrared thermometer</a></li>
+<li><a href="/wiki/Microbolometer" title="Microbolometer">Microbolometer</a></li>
+<li><a href="/wiki/Microwave_radiometer" title="Microwave radiometer">Microwave radiometer</a></li>
+<li><a href="/wiki/Net_radiometer" title="Net radiometer">Net radiometer</a></li>
+<li><a href="/wiki/Quartz_thermometer" title="Quartz thermometer">Quartz thermometer</a></li>
+<li><a href="/wiki/Resistance_thermometer" title="Resistance thermometer">Resistance thermometer</a></li>
+<li><a href="/wiki/Silicon_bandgap_temperature_sensor" title="Silicon bandgap temperature sensor">Silicon bandgap temperature sensor</a></li>
+<li><a href="/wiki/Special_sensor_microwave/imager" title="Special sensor microwave/imager">Special sensor microwave/imager</a></li>
+<li><a href="/wiki/Thermistor" title="Thermistor">Thermistor</a></li>
+<li><a href="/wiki/Thermocouple" title="Thermocouple">Thermocouple</a></li>
+<li><a href="/wiki/Thermometer" title="Thermometer">Thermometer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Proximity, presence</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alarm_sensor" title="Alarm sensor">Alarm sensor</a></li>
+<li><a href="/wiki/Doppler_radar" title="Doppler radar">Doppler radar</a></li>
+<li><a href="/wiki/Motion_detector" title="Motion detector">Motion detector</a></li>
+<li><a href="/wiki/Occupancy_sensor" title="Occupancy sensor">Occupancy sensor</a></li>
+<li><a href="/wiki/Passive_infrared_sensor" title="Passive infrared sensor">Passive infrared sensor</a></li>
+<li><a href="/wiki/Proximity_sensor" title="Proximity sensor">Proximity sensor</a></li>
+<li><a href="/wiki/Reed_switch" title="Reed switch">Reed switch</a></li>
+<li><a href="/wiki/Stud_finder" title="Stud finder">Stud finder</a></li>
+<li><a href="/wiki/Touch_switch" title="Touch switch">Touch switch</a></li>
+<li><a href="/wiki/Triangulation_sensor" title="Triangulation sensor">Triangulation sensor</a></li>
+<li><a href="/wiki/Wired_glove" title="Wired glove">Wired glove</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Sensor technology</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Active_pixel_sensor" title="Active pixel sensor">Active pixel sensor</a></li>
+<li><a href="/wiki/Back-illuminated_sensor" title="Back-illuminated sensor">Back-illuminated sensor</a></li>
+<li><a href="/wiki/Biochip" title="Biochip">Biochip</a></li>
+<li><a href="/wiki/Biosensor" title="Biosensor">Biosensor</a></li>
+<li><a href="/wiki/Capacitance_probe" title="Capacitance probe">Capacitance probe</a></li>
+<li><a href="/wiki/Carbon_paste_electrode" title="Carbon paste electrode">Carbon paste electrode</a></li>
+<li><a href="/wiki/Catadioptric_sensor" title="Catadioptric sensor">Catadioptric sensor</a></li>
+<li><a href="/wiki/Digital_sensors" title="Digital sensors">Digital sensors</a></li>
+<li><a href="/wiki/Displacement_receiver" title="Displacement receiver">Displacement receiver</a></li>
+<li><a href="/wiki/Electromechanical_film" title="Electromechanical film">Electromechanical film</a></li>
+<li><a href="/wiki/Electro-optical_sensor" title="Electro-optical sensor">Electro-optical sensor</a></li>
+<li><a href="/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer" title="Fabry–Pérot interferometer">Fabry–Pérot interferometer</a></li>
+<li><a href="/wiki/Fisheries_acoustics" title="Fisheries acoustics">Fisheries acoustics</a></li>
+<li><a href="/wiki/Image_sensor" title="Image sensor">Image sensor</a></li>
+<li><a href="/wiki/Image_sensor_format" title="Image sensor format">Image sensor format</a></li>
+<li><a href="/wiki/Inductive_sensor" title="Inductive sensor">Inductive sensor</a></li>
+<li><a href="/wiki/Intelligent_sensor" title="Intelligent sensor">Intelligent sensor</a></li>
+<li><a href="/wiki/Lab-on-a-chip" title="Lab-on-a-chip">Lab-on-a-chip</a></li>
+<li><a href="/wiki/Leaf_sensor" title="Leaf sensor">Leaf sensor</a></li>
+<li><a href="/wiki/Machine_vision" title="Machine vision">Machine vision</a></li>
+<li><a href="/wiki/Microelectromechanical_systems" title="Microelectromechanical systems">Microelectromechanical systems</a></li>
+<li><a href="/wiki/Photoelasticity" title="Photoelasticity">Photoelasticity</a></li>
+<li><a href="/wiki/Quantum_sensor" title="Quantum sensor">Quantum sensor</a></li>
+<li><a href="/wiki/Radar" title="Radar">Radar</a>
+<ul>
+<li><a href="/wiki/Ground-penetrating_radar" title="Ground-penetrating radar">Ground-penetrating radar</a></li>
+<li><a class="mw-redirect" href="/wiki/Synthetic_aperture_radar" title="Synthetic aperture radar">Synthetic aperture radar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Radar_tracker" title="Radar tracker">Radar tracker</a></li>
+<li><a href="/wiki/Sensor_array" title="Sensor array">Sensor array</a></li>
+<li><a href="/wiki/Sensor_fusion" title="Sensor fusion">Sensor fusion</a></li>
+<li><a href="/wiki/Sensor_grid" title="Sensor grid">Sensor grid</a></li>
+<li><a href="/wiki/Sensor_node" title="Sensor node">Sensor node</a></li>
+<li><a href="/wiki/Soft_sensor" title="Soft sensor">Soft sensor</a></li>
+<li><a href="/wiki/Sonar" title="Sonar">Sonar</a></li>
+<li><a href="/wiki/Staring_array" title="Staring array">Staring array</a></li>
+<li><a href="/wiki/Transducer" title="Transducer">Transducer</a></li>
+<li><a class="mw-redirect" href="/wiki/Ultrasonic_sensor" title="Ultrasonic sensor">Ultrasonic sensor</a></li>
+<li><a href="/wiki/Video_sensor_technology" title="Video sensor technology">Video sensor technology</a></li>
+<li><a href="/wiki/Visual_sensor_network" title="Visual sensor network">Visual sensor network</a></li>
+<li><a href="/wiki/Wheatstone_bridge" title="Wheatstone bridge">Wheatstone bridge</a></li>
+<li><a href="/wiki/Wireless_sensor_network" title="Wireless sensor network">Wireless sensor network</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_sensors" title="List of sensors">List of sensors</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1218
+Cached time: 20171003063433
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.366 seconds
+Preprocessor visited node count: 1347/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 57249/2097152 bytes
+Template argument size: 1920/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.088/10.000 seconds
+Lua memory usage: 4.79 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  262.588      1 -total
+ 40.95%  107.524      1 Template:Reflist
+ 21.58%   56.659      1 Template:Citation_needed
+ 19.91%   52.285      1 Template:Fix
+ 18.12%   47.577      4 Template:Cite_book
+ 15.58%   40.914      2 Template:Convert
+ 13.72%   36.031      2 Template:ISBN
+ 10.41%   27.330      1 Template:Commons_category
+  9.59%   25.175      2 Template:Category_handler
+  9.28%   24.376      1 Template:Delink
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:95786-0!canonical and timestamp 20171003063433 and revision id 802740289
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Rain_gauge&amp;oldid=802740289">https://en.wikipedia.org/w/index.php?title=Rain_gauge&amp;oldid=802740289</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Meteorological_instrumentation_and_equipment" title="Category:Meteorological instrumentation and equipment">Meteorological instrumentation and equipment</a></li><li><a href="/wiki/Category:Rain" title="Category:Rain">Rain</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2008" title="Category:Articles with unsourced statements from July 2008">Articles with unsourced statements from July 2008</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Rain+gauge" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Rain+gauge" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Rain_gauge" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Rain_gauge" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Rain_gauge">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Rain_gauge&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Rain_gauge&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Rain_gauge" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Rain_gauge" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Rain_gauge&amp;oldid=802740289" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Rain_gauge&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q190052" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Rain_gauge&amp;id=802740289" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Rain+gauge">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Rain+gauge&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DRain%2Bgauge%26returnto%3DRain%2Bgauge%26oldid%3D802740289%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Rain_gauge&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Rain_gauges" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Re%C3%ABnmeter" hreflang="af" lang="af" title="Reënmeter – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%85%D8%B7%D8%A7%D8%B1" hreflang="ar" lang="ar" title="ممطار – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Pluvi%C3%B2metre" hreflang="ca" lang="ca" title="Pluviòmetre – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sr%C3%A1%C5%BEkom%C4%9Br" hreflang="cs" lang="cs" title="Srážkoměr – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Regnm%C3%A5ler" hreflang="da" lang="da" title="Regnmåler – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Niederschlagsmesser" hreflang="de" lang="de" title="Niederschlagsmesser – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%92%CF%81%CE%BF%CF%87%CF%8C%CE%BC%CE%B5%CF%84%CF%81%CE%BF" hreflang="el" lang="el" title="Βροχόμετρο – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Pluvi%C3%B3metro" hreflang="es" lang="es" title="Pluviómetro – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Pluvmezurilo" hreflang="eo" lang="eo" title="Pluvmezurilo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%A7%D9%86%E2%80%8C%D8%B3%D9%86%D8%AC" hreflang="fa" lang="fa" title="باران‌سنج – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr badge-Q17437798 badge-goodarticle" title="good article"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Pluviom%C3%A8tre" hreflang="fr" lang="fr" title="Pluviomètre – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/M%C3%A9adar_b%C3%A1ist%C3%AD" hreflang="ga" lang="ga" title="Méadar báistí – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Pluvi%C3%B3metro" hreflang="gl" lang="gl" title="Pluviómetro – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9A%B0%EB%9F%89%EA%B3%84" hreflang="ko" lang="ko" title="우량계 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B5%E0%A4%B0%E0%A5%8D%E0%A4%B7%E0%A4%BE%E0%A4%AE%E0%A4%BE%E0%A4%AA%E0%A5%80" hreflang="hi" lang="hi" title="वर्षामापी – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Ki%C5%A1omjer" hreflang="hr" lang="hr" title="Kišomjer – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Pluviometro" hreflang="io" lang="io" title="Pluviometro – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Pluviometer" hreflang="id" lang="id" title="Pluviometer – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pluviometro" hreflang="it" lang="it" title="Pluviometro – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%93_%D7%92%D7%A9%D7%9D" hreflang="he" lang="he" title="מד גשם – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Baranp%C3%AEv" hreflang="ku" lang="ku" title="Baranpîv – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Lietusm%C4%93r%C4%ABt%C4%81js" hreflang="lv" lang="lv" title="Lietusmērītājs – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Csapad%C3%A9km%C3%A9r%C5%91" hreflang="hu" lang="hu" title="Csapadékmérő – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AE%E0%B4%B4%E0%B4%AE%E0%B4%BE%E0%B4%AA%E0%B4%BF%E0%B4%A8%E0%B4%BF" hreflang="ml" lang="ml" title="മഴമാപിനി – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Regenmeter" hreflang="nl" lang="nl" title="Regenmeter – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9B%A8%E9%87%8F%E8%A8%88" hreflang="ja" lang="ja" title="雨量計 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Nedb%C3%B8rm%C3%A5ler" hreflang="no" lang="no" title="Nedbørmåler – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Nedb%C3%B8rm%C3%A5lar" hreflang="nn" lang="nn" title="Nedbørmålar – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-or"><a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/%E0%AC%B0%E0%AD%87%E0%AC%A8%E0%AD%8D_%E0%AC%97%E0%AC%9C%E0%AD%8D" hreflang="or" lang="or" title="ରେନ୍ ଗଜ୍ – Odia">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Deszczomierz" hreflang="pl" lang="pl" title="Deszczomierz – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Pluvi%C3%B4metro" hreflang="pt" lang="pt" title="Pluviômetro – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D1%81%D0%B0%D0%B4%D0%BA%D0%BE%D0%BC%D0%B5%D1%80" hreflang="ru" lang="ru" title="Осадкомер – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Rain_gauge" hreflang="sco" lang="sco" title="Rain gauge – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Rain_gauge" hreflang="simple" lang="simple" title="Rain gauge – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Zr%C3%A1%C5%BEkomer" hreflang="sk" lang="sk" title="Zrážkomer – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%B8%D1%88%D0%BE%D0%BC%D1%98%D0%B5%D1%80" hreflang="sr" lang="sr" title="Кишомјер – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Sademittari" hreflang="fi" lang="fi" title="Sademittari – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Regnm%C3%A4tare" hreflang="sv" lang="sv" title="Regnmätare – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D0%BF%D0%B0%D0%B4%D0%BE%D0%BC%D1%96%D1%80" hreflang="uk" lang="uk" title="Опадомір – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%B4_%D9%BE%DB%8C%D9%85%D8%A7" hreflang="ur" lang="ur" title="بارش پیما – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/M%C3%A1y_%C4%91o_l%C6%B0%E1%BB%A3ng_m%C6%B0a" hreflang="vi" lang="vi" title="Máy đo lượng mưa – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9B%A8%E9%87%8F%E8%AE%A1" hreflang="zh" lang="zh" title="雨量计 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q190052#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 28 September 2017, at 04:27.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Rain_gauge&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.366","ppvisitednodes":{"value":1347,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":57249,"limit":2097152},"templateargumentsize":{"value":1920,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  262.588      1 -total"," 40.95%  107.524      1 Template:Reflist"," 21.58%   56.659      1 Template:Citation_needed"," 19.91%   52.285      1 Template:Fix"," 18.12%   47.577      4 Template:Cite_book"," 15.58%   40.914      2 Template:Convert"," 13.72%   36.031      2 Template:ISBN"," 10.41%   27.330      1 Template:Commons_category","  9.59%   25.175      2 Template:Category_handler","  9.28%   24.376      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.088","limit":"10.000"},"limitreport-memusage":{"value":5021627,"limit":52428800}},"cachereport":{"origin":"mw1218","timestamp":"20171003063433","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

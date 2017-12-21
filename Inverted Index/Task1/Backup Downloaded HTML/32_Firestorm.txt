@@ -1,0 +1,932 @@
+https://en.wikipedia.org/wiki/Firestorm
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Firestorm - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Firestorm","wgTitle":"Firestorm","wgCurRevisionId":803233675,"wgRevisionId":803233675,"wgArticleId":289419,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Unfit url","Webarchive template wayback links","Use dmy dates from April 2012","All articles with failed verification","Articles with failed verification from May 2013","All articles with specifically marked weasel-worded phrases","Articles with specifically marked weasel-worded phrases from August 2015","All articles with unsourced statements","Articles with unsourced statements from June 2014","CS1 errors: dates","Fire","Wildfire ecology","Storm","1906 San Francisco earthquake","Firebombings","Types of fire","Wildfires"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Firestorm","wgRelevantArticleId":289419,"wgRequestId":"WdOC@gpAIDAAAI8iJIQAAAAO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q918145","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_Tillamook_Fire%2C_Oregon_from_airplane_-_NARA_-_299308.jpg/1200px-View_of_Tillamook_Fire%2C_Oregon_from_airplane_-_NARA_-_299308.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Firestorm" rel="alternate"/>
+<link href="/w/index.php?title=Firestorm&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Firestorm&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Firestorm" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Firestorm rootpage-Firestorm vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Firestorm</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about fires. For other uses, see <a class="mw-disambig" href="/wiki/Firestorm_(disambiguation)" title="Firestorm (disambiguation)">Firestorm (disambiguation)</a>.</div>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of the <a href="/wiki/Nature" title="Nature">nature</a> series</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Weather" title="Weather">Weather</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Season" title="Season">Calendar seasons</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Winter" title="Winter">Winter</a></li>
+<li><a href="/wiki/Spring_(season)" title="Spring (season)">Spring</a></li>
+<li><a href="/wiki/Summer" title="Summer">Summer</a></li>
+<li><a href="/wiki/Autumn" title="Autumn">Autumn</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Tropics" title="Tropics">Tropical seasons</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Dry_season" title="Dry season">Dry season</a></li>
+<li><a href="/wiki/Wet_season" title="Wet season">Wet season</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Storm" title="Storm">Storms</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cumulonimbus_cloud" title="Cumulonimbus cloud">Cumulonimbus cloud</a></li>
+<li><a href="/wiki/Arcus_cloud" title="Arcus cloud">Arcus cloud</a></li>
+<li><a href="/wiki/Downburst" title="Downburst">Downburst</a></li>
+<li><a href="/wiki/Microburst" title="Microburst">Microburst</a></li>
+<li><a href="/wiki/Heat_burst" title="Heat burst">Heat burst</a></li>
+<li><a href="/wiki/Dust_storm" title="Dust storm">Dust storm</a></li>
+<li><a href="/wiki/Simoom" title="Simoom">Simoom</a></li>
+<li><a href="/wiki/Haboob" title="Haboob">Haboob</a></li>
+<li><a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></li>
+<li><a href="/wiki/Gale" title="Gale">Gale</a></li>
+<li><a href="/wiki/Sirocco" title="Sirocco">Sirocco</a></li>
+<li><a class="mw-selflink selflink">Firestorm</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a href="/wiki/Supercell" title="Supercell">Supercell</a></li>
+<li><a href="/wiki/Thunderstorm" title="Thunderstorm">Thunderstorm</a></li>
+<li><a class="mw-redirect" href="/wiki/Severe_thunderstorm" title="Severe thunderstorm">Severe thunderstorm</a></li>
+<li><a href="/wiki/Thundersnow" title="Thundersnow">Thundersnow</a></li>
+<li><a href="/wiki/Storm_surge" title="Storm surge">Storm surge</a></li>
+<li><a href="/wiki/Tornado" title="Tornado">Tornado</a></li>
+<li><a href="/wiki/Cyclone" title="Cyclone">Cyclone</a></li>
+<li><a href="/wiki/Mesocyclone" title="Mesocyclone">Mesocyclone</a></li>
+<li><a href="/wiki/Anticyclone" title="Anticyclone">Anticyclone</a></li>
+<li><a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical cyclone (Hurricane)</a></li>
+<li><a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">Extratropical cyclone</a></li>
+<li><a href="/wiki/European_windstorm" title="European windstorm">European windstorm</a></li>
+<li><a class="mw-redirect" href="/wiki/Atlantic_Hurricane" title="Atlantic Hurricane">Atlantic Hurricane</a></li>
+<li><a href="/wiki/Typhoon" title="Typhoon">Typhoon</a></li>
+<li><a href="/wiki/Derecho" title="Derecho">Derecho</a></li>
+<li><a href="/wiki/Landspout" title="Landspout">Landspout</a></li>
+<li><a href="/wiki/Dust_devil" title="Dust devil">Dust devil</a></li>
+<li><a href="/wiki/Fire_whirl" title="Fire whirl">Fire whirl</a></li>
+<li><a href="/wiki/Waterspout" title="Waterspout">Waterspout</a></li>
+<li><a href="/wiki/Winter_storm" title="Winter storm">Winter storm</a>
+<ul>
+<li><a href="/wiki/Ice_storm" title="Ice storm">Ice storm</a></li>
+<li><a href="/wiki/Blizzard" title="Blizzard">Blizzard</a></li>
+<li><a href="/wiki/Ground_blizzard" title="Ground blizzard">Ground blizzard</a></li>
+<li><a href="/wiki/Snowsquall" title="Snowsquall">Snowsquall</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Drizzle" title="Drizzle">Drizzle</a> (<a href="/wiki/Freezing_drizzle" title="Freezing drizzle">Freezing drizzle</a>)</li>
+<li><a href="/wiki/Graupel" title="Graupel">Graupel</a></li>
+<li><a href="/wiki/Hail" title="Hail">Hail</a></li>
+<li><a href="/wiki/Ice_pellets" title="Ice pellets">Ice pellets</a> (<a href="/wiki/Diamond_dust" title="Diamond dust">Diamond dust</a>)</li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a> (<a href="/wiki/Freezing_rain" title="Freezing rain">Freezing rain</a>)</li>
+<li><a href="/wiki/Cloudburst" title="Cloudburst">Cloudburst</a></li>
+<li><a href="/wiki/Snow" title="Snow">Snow</a>
+<ul>
+<li><a href="/wiki/Rain_and_snow_mixed" title="Rain and snow mixed">Rain and snow mixed</a></li>
+<li><a href="/wiki/Snow_grains" title="Snow grains">Snow grains</a></li>
+<li><a href="/wiki/Snow_roller" title="Snow roller">Snow roller</a></li>
+<li><a href="/wiki/Slush" title="Slush">Slush</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Index_of_meteorology_articles" title="Index of meteorology articles">Topics</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Atmospheric_river" title="Atmospheric river">Atmospheric river</a></li>
+<li><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Atmospheric convection</a></li>
+<li><a href="/wiki/Air_pollution" title="Air pollution">Air pollution</a></li>
+<li><a href="/wiki/Climate" title="Climate">Climate</a></li>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Cold_wave" title="Cold wave">Cold wave</a></li>
+<li><a href="/wiki/Heat_wave" title="Heat wave">Heat wave</a></li>
+<li><a href="/wiki/Jet_stream" title="Jet stream">Jet stream</a></li>
+<li><a href="/wiki/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/Severe_weather" title="Severe weather">Severe weather</a></li>
+<li><a href="/wiki/Weather_forecasting" title="Weather forecasting">Weather forecasting</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:#ccc 1px solid; border-bottom:#ccc 1px solid;"><a class="image" href="/wiki/File:Cumulus_clouds_in_fair_weather.jpeg"><img alt="Cumulus clouds in fair weather.jpeg" class="noviewer" data-file-height="600" data-file-width="800" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/16px-Cumulus_clouds_in_fair_weather.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/24px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/32px-Cumulus_clouds_in_fair_weather.jpeg 2x" width="16"/></a> <a href="/wiki/Portal:Weather" title="Portal:Weather">Weather portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Weather" title="Template:Weather"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Weather" title="Template talk:Weather"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Weather&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:View_of_Tillamook_Fire,_Oregon_from_airplane_-_NARA_-_299308.jpg"><img alt="" class="thumbimage" data-file-height="2028" data-file-width="3000" height="169" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_Tillamook_Fire%2C_Oregon_from_airplane_-_NARA_-_299308.jpg/250px-View_of_Tillamook_Fire%2C_Oregon_from_airplane_-_NARA_-_299308.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_Tillamook_Fire%2C_Oregon_from_airplane_-_NARA_-_299308.jpg/375px-View_of_Tillamook_Fire%2C_Oregon_from_airplane_-_NARA_-_299308.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/View_of_Tillamook_Fire%2C_Oregon_from_airplane_-_NARA_-_299308.jpg/500px-View_of_Tillamook_Fire%2C_Oregon_from_airplane_-_NARA_-_299308.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:View_of_Tillamook_Fire,_Oregon_from_airplane_-_NARA_-_299308.jpg" title="Enlarge"></a></div>
+View of one of the <a href="/wiki/Tillamook_Burn" title="Tillamook Burn">Tillamook Burn</a> fires in August 1933.</div>
+</div>
+</div>
+<p>A <b>firestorm</b> is a <a href="/wiki/Conflagration" title="Conflagration">conflagration</a> which attains such intensity that it creates and sustains its own wind system. It is most commonly a natural phenomenon, created during some of the largest <a class="mw-redirect" href="/wiki/Bushfire" title="Bushfire">bushfires</a> and <a href="/wiki/Wildfire" title="Wildfire">wildfires</a>. Although the word has been used to describe certain large fires,<sup class="reference" id="cite_ref-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68_1-0"><a href="#cite_note-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68-1">[1]</a></sup> the phenomenon's determining characteristic is a fire with its own <a class="mw-redirect" href="/wiki/Storm-force" title="Storm-force">storm-force</a> winds from every point of the <a href="/wiki/Compass" title="Compass">compass</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> The <a href="/wiki/Black_Saturday_bushfires" title="Black Saturday bushfires">Black Saturday bushfires</a> and the Great <a href="/wiki/Peshtigo_Fire" title="Peshtigo Fire">Peshtigo Fire</a> are possible examples of forest fires with some portion of combustion due to a firestorm, as is the <a href="/wiki/Great_Hinckley_Fire" title="Great Hinckley Fire">Great Hinckley Fire</a>. Firestorms have also occurred in cities, usually as a deliberate effect of targeted <a href="/wiki/Explosive_material" title="Explosive material">explosives</a> such as occurred as a result of the <a href="/wiki/Firebombing" title="Firebombing">aerial firebombings</a> of <a href="/wiki/Bombing_of_Hamburg_in_World_War_II" title="Bombing of Hamburg in World War II">Hamburg</a>, <a href="/wiki/Bombing_of_Dresden_in_World_War_II" title="Bombing of Dresden in World War II">Dresden</a>, and the <a href="/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki" title="Atomic bombings of Hiroshima and Nagasaki">atomic bombing of Hiroshima</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mechanism"><span class="tocnumber">1</span> <span class="toctext">Mechanism</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Weather_and_climate_effects"><span class="tocnumber">1.1</span> <span class="toctext">Weather and climate effects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#City_firestorms"><span class="tocnumber">2</span> <span class="toctext">City firestorms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Firebombing"><span class="tocnumber">2.1</span> <span class="toctext">Firebombing</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#21st_century_cities_in_comparison_to_World_War_II_cities"><span class="tocnumber">2.2</span> <span class="toctext">21st century cities in comparison to World War II cities</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Nuclear_weapons_in_comparison_to_conventional_weapons"><span class="tocnumber">3</span> <span class="toctext">Nuclear weapons in comparison to conventional weapons</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Potential_firestorms"><span class="tocnumber">4.1</span> <span class="toctext">Potential firestorms</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-10"><a href="#Further_reading"><span class="tocnumber">5.1</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Mechanism">Mechanism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=1" title="Edit section: Mechanism">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Thermal_column" title="Thermal column">Thermal column</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Firestorm_thermal_column.svg"><img alt="" class="thumbimage" data-file-height="265" data-file-width="339" height="172" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Firestorm_thermal_column.svg/220px-Firestorm_thermal_column.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Firestorm_thermal_column.svg/330px-Firestorm_thermal_column.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Firestorm_thermal_column.svg/440px-Firestorm_thermal_column.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Firestorm_thermal_column.svg" title="Enlarge"></a></div>
+Firestorm: fire (1), updraft (2), strong gusty winds (3) (A) <a class="mw-redirect" href="/wiki/Pyrocumulonimbus_cloud" title="Pyrocumulonimbus cloud">pyrocumulonimbus cloud</a>.</div>
+</div>
+</div>
+<p>A firestorm is created as a result of the <a href="/wiki/Stack_effect" title="Stack effect">stack effect</a> as the heat of the original fire draws in more and more of the surrounding air. This draft can be quickly increased if a low-level <a href="/wiki/Jet_stream" title="Jet stream">jet stream</a> exists over or near the fire. As the updraft mushrooms, strong inwardly-directed gusty winds develop around the fire, supplying it with additional air. This would seem to prevent the firestorm from spreading on the wind, but the tremendous turbulence created may also cause the strong surface inflow winds to change direction erratically. Firestorms resulting from the <a href="/wiki/Bombardment" title="Bombardment">bombardment</a> of <a class="mw-redirect" href="/wiki/Urban_areas" title="Urban areas">urban areas</a> in the Second World War were generally confined to the areas initially seeded with incendiary devices, and the firestorm did not appreciably spread outward.<sup class="reference" id="cite_ref-AD673703_1961.2C_pg_8_.26_9_4-0"><a href="#cite_note-AD673703_1961.2C_pg_8_.26_9-4">[4]</a></sup> A firestorm may also develop into a <a href="/wiki/Mesocyclone" title="Mesocyclone">mesocyclone</a> and induce true tornadoes/<a class="mw-redirect" href="/wiki/Fire_whirls" title="Fire whirls">fire whirls</a>. This occurred with the 2002 Durango fire,<sup class="reference" id="cite_ref-FOOTNOTEWeaverBiko_5-0"><a href="#cite_note-FOOTNOTEWeaverBiko-5">[5]</a></sup> and probably with the much greater <a href="/wiki/Peshtigo_Fire" title="Peshtigo Fire">Peshtigo Fire</a>.<sup class="reference" id="cite_ref-Denise_Gess_6-0"><a href="#cite_note-Denise_Gess-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> The greater draft of a firestorm draws in greater quantities of <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, which significantly increases combustion, thereby also substantially increasing the production of heat. The intense heat of a firestorm manifests largely as radiated heat (<a href="/wiki/Infrared" title="Infrared">infrared</a> radiation), which may ignite flammable material at a distance ahead of the fire itself.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup><sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (May 2013)">not in citation given</span></a></i>]</sup> This also serves to expand the area and the intensity of the firestorm.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability"><span title="The material near this tag failed verification of its source citation(s). (May 2013)">not in citation given</span></a></i>]</sup> Violent, erratic wind drafts suck movables into the fire and as is observed with all intense conflagrations, radiated heat from the fire can melt <a href="/wiki/Asphalt" title="Asphalt">asphalt</a>, some metals, and glass, and turn street <a href="/wiki/Tarmac" title="Tarmac">tarmac</a> into flammable hot liquid. The very high temperatures ignite anything that might possibly burn, until the firestorm runs low on fuel.</p>
+<p>According to experts,<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Words_to_watch#Unsupported_attributions" title="Wikipedia:Manual of Style/Words to watch"><span title="The material near this tag possibly uses too-vague attribution or weasel words. (August 2015)">who?</span></a></i>]</sup> a firestorm does not appreciably ignite material at a distance ahead of itself; more accurately, the heat desiccates those materials and makes them more vulnerable to ignition by embers or firebrands, increasing the rate of fire spotting. During the formation of a firestorm many fires merge to form a single convective column of hot gases rising from the burning area and strong, fire-induced, radial (inwardly directed) winds are associated with the convective column. Thus the fire front is essentially stationary and the outward spread of fire is prevented by the in-rushing wind.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<p>A firestorm is characterized by strong to gale-force winds blowing toward the fire, everywhere around the fire perimeter, an effect which is caused by the <a href="/wiki/Buoyancy" title="Buoyancy">buoyancy</a> of the rising column of hot gases over the intense mass fire, drawing in cool air from the periphery. These winds from the perimeter blow the <a href="/wiki/Wildfire" title="Wildfire">fire brands</a> into the burning area and tend to cool the unignited fuel outside the fire area so that ignition of material outside the periphery by radiated heat and fire embers is more difficult, thus limiting fire spread.<sup class="reference" id="cite_ref-AD673703_1961.2C_pg_8_.26_9_4-1"><a href="#cite_note-AD673703_1961.2C_pg_8_.26_9-4">[4]</a></sup> At Hiroshima, this inrushing to feed the fire is said to have prevented the firestorm perimeter from expanding, and thus the firestorm was confined to the area of the city damaged by the blast.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:POLARCATfigure4.jpg"><img alt="" class="thumbimage" data-file-height="736" data-file-width="577" height="281" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/POLARCATfigure4.jpg/220px-POLARCATfigure4.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5e/POLARCATfigure4.jpg/330px-POLARCATfigure4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5e/POLARCATfigure4.jpg/440px-POLARCATfigure4.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:POLARCATfigure4.jpg" title="Enlarge"></a></div>
+Picture of a pyro-cumulonimbus taken from a commercial airliner cruising at about 10 km. In 2002 various sensing instruments detected 17 distinct pyrocumulonimbus cloud events in North America alone.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></div>
+</div>
+</div>
+<p>Large <a href="/wiki/Wildfire" title="Wildfire">wildfire</a> <a href="/wiki/Conflagration" title="Conflagration">conflagrations</a> are distinct from firestorms if they have moving fire fronts which are driven by the ambient wind and do not develop their own wind system like true firestorms. (This does not mean that a firestorm <i>must</i> be stationary; as with any other convective storm, the circulation may follow surrounding pressure gradients and winds, if those lead it onto fresh fuel sources.) Furthermore, non-firestorm conflagrations can develop from a single ignition, whereas firestorms have only been observed where large numbers of fires are burning simultaneously over a relatively large area,<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> with the important caveat that the density of simultaneously burning fires needs to be above a critical threshold for a firestorm to form (a notable example of large numbers of fires burning simultaneously over a large area without a firestorm developing was the <a href="/wiki/Kuwaiti_oil_fires" title="Kuwaiti oil fires">Kuwaiti oil fires</a> of 1991, where the distance between individual fires was too large).</p>
+<p>The high temperatures within the firestorm zone ignite most everything that might possibly burn, until a tipping point is reached, that is, upon running low on fuel, which occurs after the firestorm has consumed so much of the available fuel within the firestorm zone that the necessary fuel density required to keep the firestorm's wind system active drops below the threshold level, at which time the firestorm breaks up into isolated <a href="/wiki/Conflagration" title="Conflagration">conflagrations</a>.</p>
+<p>In Australia, the prevalence of <a href="/wiki/Eucalyptus" title="Eucalyptus">eucalyptus</a> trees that have oil in their leaves results in forest fires that are noted for their extremely tall and intense flame front. Hence the bush fires appear more as a firestorm than a simple forest fire. Sometimes, emission of combustible gases from swamps (e.g., <a href="/wiki/Methane" title="Methane">methane</a>) has a similar effect. For instance, methane explosions enforced the Peshtigo Fire.<sup class="reference" id="cite_ref-Denise_Gess_6-1"><a href="#cite_note-Denise_Gess-6">[6]</a></sup><sup class="reference" id="cite_ref-FOOTNOTEKartmanBrown197148_14-0"><a href="#cite_note-FOOTNOTEKartmanBrown197148-14">[14]</a></sup></p>
+<h3><span class="mw-headline" id="Weather_and_climate_effects">Weather and climate effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=2" title="Edit section: Weather and climate effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Firestorms will produce hot buoyant smoke clouds of primarily water vapor that will form <a href="/wiki/Condensation" title="Condensation">condensation</a> clouds as it enters the cooler upper atmosphere, generating what is known as <a class="mw-redirect" href="/wiki/Pyrocumulus_cloud" title="Pyrocumulus cloud">pyrocumulus clouds</a> ("fire clouds") or, if large enough, <a class="mw-redirect" href="/wiki/Pyrocumulonimbus" title="Pyrocumulonimbus">pyrocumulonimbus</a> ("fire storm") clouds. For example, the black rain that began to fall at ~20 minutes after the <a href="/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki" title="Atomic bombings of Hiroshima and Nagasaki">atomic bombing of Hiroshima</a> produced in total 5–10 cm of black soot-filled rain in a 1–3 hour period.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Moreover, if the conditions are right, a large pyrocumulus can grow into a pyrocumulonimbus and produce <a href="/wiki/Lightning" title="Lightning">lightning</a>, which could potentially set off further fires. Apart from city and forest fires, pyrocumulus clouds can also be produced by <a href="/wiki/Volcano" title="Volcano">volcanic eruptions</a> due to the comparable amounts of hot buoyant material formed.</p>
+<p>On a more continental and global extent, away from the direct vicinity of the fire, wildfire firestorms which produce <a class="mw-redirect" href="/wiki/Pyrocumulonimbus_cloud" title="Pyrocumulonimbus cloud">pyrocumulonimbus cloud</a> events have been found to "surprisingly frequently" generate minor "<a href="/wiki/Nuclear_winter" title="Nuclear winter">nuclear winter</a>" effects.<sup class="reference" id="cite_ref-agu.org_16-0"><a href="#cite_note-agu.org-16">[16]</a></sup><sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup><sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> These are analogous to minor <a href="/wiki/Volcanic_winter" title="Volcanic winter">volcanic winters</a>, with each mass addition of <a href="/wiki/Sulfate_aerosol" title="Sulfate aerosol">volcanic gases</a> additive in increasing the depth of the "winter" cooling, from near-imperceptible to "<a class="mw-redirect" href="/wiki/Year_without_a_summer" title="Year without a summer">year without a summer</a>" levels.</p>
+<h2><span class="mw-headline" id="City_firestorms">City firestorms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=3" title="Edit section: City firestorms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The same underlying combustion physics can also apply to man-made structures such as cities during war or natural disaster.</p>
+<p>Firestorms are thought to have been part of the mechanism of large urban fires, such as accompanied the <a href="/wiki/1906_San_Francisco_earthquake" title="1906 San Francisco earthquake">1906 San Francisco earthquake</a> and the <a href="/wiki/1923_Great_Kant%C5%8D_earthquake" title="1923 Great Kantō earthquake">1923 Great Kantō earthquake</a>. Firestorms were also created by the <a href="/wiki/Firebombing" title="Firebombing">firebombing</a> raids of World War II in cities like <a href="/wiki/Bombing_of_Hamburg_in_World_War_II" title="Bombing of Hamburg in World War II">Hamburg</a> and <a href="/wiki/Bombing_of_Dresden_in_World_War_II" title="Bombing of Dresden in World War II">Dresden</a>.<sup class="reference" id="cite_ref-Harris-83_20-0"><a href="#cite_note-Harris-83-20">[20]</a></sup> Of the <a href="/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki" title="Atomic bombings of Hiroshima and Nagasaki">two nuclear weapons used in combat</a>, only Hiroshima resulted in a firestorm.<sup class="reference" id="cite_ref-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68_1-1"><a href="#cite_note-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68-1">[1]</a></sup></p>
+<p>In contrast, experts suggest that due to the nature of modern U.S. city design and construction, a firestorm is unlikely after a nuclear detonation.<sup class="reference" id="cite_ref-hps.org_21-0"><a href="#cite_note-hps.org-21">[21]</a></sup></p>
+<table class="wikitable">
+<tr>
+<th>City / event</th>
+<th>Date of the firestorm</th>
+<th>Notes</th>
+</tr>
+<tr>
+<td><a href="/wiki/Bombing_of_Hamburg_in_World_War_II" title="Bombing of Hamburg in World War II">Bombing of Hamburg in World War II</a> (Germany)<sup class="reference" id="cite_ref-Harris-83_20-1"><a href="#cite_note-Harris-83-20">[20]</a></sup></td>
+<td>27 July 1943</td>
+<td>46,000 dead.<sup class="reference" id="cite_ref-FOOTNOTEFranklandWebster1961260.E2.80.93261_22-0"><a href="#cite_note-FOOTNOTEFranklandWebster1961260.E2.80.93261-22">[22]</a></sup> A firestorm area of approximately 4.5 square miles (12 km<sup>2</sup>) was reported at Hamburg.<sup class="reference" id="cite_ref-dtic.mil_23-0"><a href="#cite_note-dtic.mil-23">[23]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Bombing_of_Kassel_in_World_War_II" title="Bombing of Kassel in World War II">Bombing of Kassel in World War II</a> (Germany)</td>
+<td>22 October 1943</td>
+<td>9,000 dead. 24,000 dwellings destroyed. Area burned 23 square miles (60 km<sup>2</sup>); the percentage of this area which was destroyed by conventional conflagration and that destroyed by firestorm is unspecified.<sup class="reference" id="cite_ref-scribd.com_24-0"><a href="#cite_note-scribd.com-24">[24]</a></sup> Although a much larger area was destroyed by fire in Kassel than even Tokyo and Hamburg, the city fire caused a smaller less extensive firestorm than that at Hamburg.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Bombing_of_Darmstadt_in_World_War_II" title="Bombing of Darmstadt in World War II">Bombing of Darmstadt in World War II</a> (Germany)</td>
+<td>11 September 1944</td>
+<td>8,000 dead. Area destroyed by fire 4 square miles (10 km<sup>2</sup>). Again the percentage of this which was done by firestorm remains unspecified. 20,000 dwellings and one chemical works destroyed and industrial production reduced.<sup class="reference" id="cite_ref-scribd.com_24-1"><a href="#cite_note-scribd.com-24">[24]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Bombing_of_Dresden_in_World_War_II" title="Bombing of Dresden in World War II">Bombing of Dresden in World War II</a> (Germany)<sup class="reference" id="cite_ref-Harris-83_20-2"><a href="#cite_note-Harris-83-20">[20]</a></sup></td>
+<td>13–14 February 1945</td>
+<td>Up to 25,000 dead.<sup class="reference" id="cite_ref-FOOTNOTENeutzner201070_26-0"><a href="#cite_note-FOOTNOTENeutzner201070-26">[26]</a></sup> A firestorm area of approximately 8 square miles (21 km<sup>2</sup>) was reported at Dresden.<sup class="reference" id="cite_ref-dtic.mil_23-1"><a href="#cite_note-dtic.mil-23">[23]</a></sup> The attack was centered on the readily identifiable <a href="/wiki/Ostragehege" title="Ostragehege">Ostragehege</a> sports stadium.<sup class="reference" id="cite_ref-De-Bruhl-209_27-0"><a href="#cite_note-De-Bruhl-209-27">[27]</a></sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Bombing_of_Tokyo" title="Bombing of Tokyo">Bombing of Tokyo</a> <a href="/wiki/Air_raids_on_Japan" title="Air raids on Japan">in World War II</a> (Japan)</td>
+<td><span class="nowrap">9–10 March 1945</span></td>
+<td>The firebombing of Tokyo started many fires which converged into a devastating <a href="/wiki/Conflagration" title="Conflagration">conflagration</a> covering 16 square miles (41 km<sup>2</sup>). Although often described as a firestorm event,<sup class="reference" id="cite_ref-FOOTNOTEAmerican_National_Fire_Protection_Association200524_28-0"><a href="#cite_note-FOOTNOTEAmerican_National_Fire_Protection_Association200524-28">[28]</a></sup><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> the conflagration did not generate a firestorm as the high <a href="/wiki/Prevailing_winds" title="Prevailing winds">prevailing surface winds</a> gusting at 17 to 28 mph (27 to 45 km/h) at the time of the fire overrode the fire's ability to form its own wind system.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> These high winds increased by about 50% the damage done by the <a href="/wiki/Incendiary_device" title="Incendiary device">incendiary bombs</a>.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup> There were 267,171 buildings destroyed, and between 83,793<sup class="reference" id="cite_ref-Gordin_32-0"><a href="#cite_note-Gordin-32">[32]</a></sup> and 100,000 killed,<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> making this the <a href="/wiki/Civilian_casualties_of_strategic_bombing" title="Civilian casualties of strategic bombing">most lethal air raid in history</a>, with destruction to life and property greater than that caused by the use of <a href="/wiki/Nuclear_weapon" title="Nuclear weapon">nuclear weapons</a> on Hiroshima and Nagasaki.<sup class="reference" id="cite_ref-Mar45Chronology_34-0"><a href="#cite_note-Mar45Chronology-34">[34]</a></sup><sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup> Prior to the attack, the city had the highest <a href="/wiki/Population_density" title="Population density">population density</a> of any industrial city in the world.<sup class="reference" id="cite_ref-36"><a href="#cite_note-36">[36]</a></sup></td>
+</tr>
+<tr>
+<td>Bombing of <a href="/wiki/Ube,_Yamaguchi" title="Ube, Yamaguchi">Ube, Yamaguchi</a> <a href="/wiki/Air_raids_on_Japan" title="Air raids on Japan">in World War II</a> (Japan)</td>
+<td><span class="nowrap">1 July 1945</span></td>
+<td>A momentary firestorm of about 0.5 square miles (1.3 km<sup>2</sup>) was reported at <a href="/wiki/Ube,_Yamaguchi" title="Ube, Yamaguchi">Ube, Japan</a>.<sup class="reference" id="cite_ref-dtic.mil_23-2"><a href="#cite_note-dtic.mil-23">[23]</a></sup> The reports that the Ube bombing produced a firestorm, along with computer modelling,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2014)">citation needed</span></a></i>]</sup> have set one of the four physical conditions which a city fire must meet to have the potential of developing true firestorm effects. As the size of the Ube firestorm is the smallest ever confirmed. Glasstone and Dolan:
+<blockquote class="templatequote">
+<p>The minimum requirements for a firestorm to develop: no.4 <i>A minimum burning area of about 0.5 square miles (1.3 km<sup>2</sup>)</i>.</p>
+<div class="templatequotecite">— <cite>Glasstone and Dolan (1977).<sup class="reference" id="cite_ref-FOOTNOTEGlasstoneDolan1977299.2C_200.2C_.C2.B6_7.58_37-0"><a href="#cite_note-FOOTNOTEGlasstoneDolan1977299.2C_200.2C_.C2.B6_7.58-37">[37]</a></sup></cite></div>
+</blockquote>
+</td>
+</tr>
+<tr>
+<td><a href="/wiki/Atomic_bombings_of_Hiroshima_and_Nagasaki#Hiroshima_during_World_War_II" title="Atomic bombings of Hiroshima and Nagasaki">Atomic bombing of Hiroshima</a> <a href="/wiki/Air_raids_on_Japan" title="Air raids on Japan">in World War II</a> (Japan)</td>
+<td>6 August 1945</td>
+<td>Firestorm covering 4.4 square miles (11 km<sup>2</sup>).<sup class="reference" id="cite_ref-FOOTNOTEMcRaneyMcGahan198024_38-0"><a href="#cite_note-FOOTNOTEMcRaneyMcGahan198024-38">[38]</a></sup> No estimate can be given of the number of fire deaths, since the fire area was largely within the blast damage region.<sup class="reference" id="cite_ref-Firestorms._pg_53_39-0"><a href="#cite_note-Firestorms._pg_53-39">[39]</a></sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Firebombing">Firebombing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=4" title="Edit section: Firebombing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Braunschweig15101944.jpg"><img alt="" class="thumbimage" data-file-height="589" data-file-width="800" height="162" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Braunschweig15101944.jpg/220px-Braunschweig15101944.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Braunschweig15101944.jpg/330px-Braunschweig15101944.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Braunschweig15101944.jpg/440px-Braunschweig15101944.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Braunschweig15101944.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Braunschweig" title="Braunschweig">Braunschweig</a> burning after aerial firebombing attack in 1944. Notice that a firestorm event has yet to develop in this picture, as single isolated fires are seen burning, and not the single large mass fire that is the identifying characteristic of a firestorm.</div>
+</div>
+</div>
+<p><a href="/wiki/Firebombing" title="Firebombing">Firebombing</a> is a technique designed to damage a target, generally an urban area, through the use of fire, caused by <a href="/wiki/Incendiary_device" title="Incendiary device">incendiary devices</a>, rather than from the blast effect of large bombs. Such raids often employ both incendiary devices and high explosives. The high explosive destroys roofs, making it easier for the incendiary devices to penetrate the structures and cause fires. The high explosives also disrupt the ability of <a href="/wiki/Firefighter" title="Firefighter">firefighters</a> to douse the fires.<sup class="reference" id="cite_ref-Harris-83_20-3"><a href="#cite_note-Harris-83-20">[20]</a></sup></p>
+<p>Although incendiary bombs have been used to destroy buildings since the start of gunpowder warfare, World War II saw the first use of <a href="/wiki/Strategic_bombing" title="Strategic bombing">strategic bombing</a> from the air to destroy the ability of the enemy to wage war. <a class="mw-redirect" href="/wiki/London_Blitz" title="London Blitz">London</a>, <a href="/wiki/Coventry_Blitz" title="Coventry Blitz">Coventry</a>, and many other British cities were firebombed during <a href="/wiki/The_Blitz" title="The Blitz">the Blitz</a>. Most large German cities were extensively firebombed starting in 1942, and almost all large Japanese cities were firebombed during the last six months of World War II. As <a href="/wiki/Sir_Arthur_Harris,_1st_Baronet" title="Sir Arthur Harris, 1st Baronet">Sir Arthur Harris</a>, the officer commanding <a href="/wiki/RAF_Bomber_Command" title="RAF Bomber Command">RAF Bomber Command</a> from 1942 through to the end of the war in Europe, pointed out in his post-war analysis, although many attempts were made to create deliberate man-made firestorms during World War II, few attempts succeeded:</p>
+<blockquote class="templatequote">
+<p>"The Germans again and again missed their chance, ...of setting our cities ablaze by a concentrated attack. Coventry was adequately concentrated in point of space, but all the same there was little concentration in point of time, and nothing like the fire tornadoes of Hamburg or Dresden ever occurred in this country. But they did do us enough damage to teach us the principle of concentration, the principle of starting so many fires at the same time that no fire fighting services, however efficiently and quickly they were reinforced by the fire brigades of other towns could get them under control."</p>
+<div class="templatequotecite">— <cite>Arthur Harris, <sup class="reference" id="cite_ref-Harris-83_20-4"><a href="#cite_note-Harris-83-20">[20]</a></sup></cite></div>
+</blockquote>
+<p>According to physicist David Hafemeister, firestorms occurred after about 5% of all fire-bombing raids during World War II (but he does not explain if this is a percentage based on both <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">Allied</a> and <a class="mw-redirect" href="/wiki/Axis_Powers" title="Axis Powers">Axis</a> raids, or combined Allied raids, or U.S. raids alone).<sup class="reference" id="cite_ref-FOOTNOTEHafemeister199124_.28.C2.B6_2nd_to_last.29_40-0"><a href="#cite_note-FOOTNOTEHafemeister199124_.28.C2.B6_2nd_to_last.29-40">[40]</a></sup> In 2005, the American <a href="/wiki/National_Fire_Protection_Association" title="National Fire Protection Association">National Fire Protection Association</a> stated in a report that three <i>major</i> firestorms resulted from Allied conventional bombing campaigns during World War II: Hamburg, Dresden, and Tokyo.<sup class="reference" id="cite_ref-FOOTNOTEAmerican_National_Fire_Protection_Association200524_28-1"><a href="#cite_note-FOOTNOTEAmerican_National_Fire_Protection_Association200524-28">[28]</a></sup> They do not include the comparatively minor firestorms at Kassel, Darmstadt or even Ube into their <i>major</i> firestorm category. Despite later quoting and corroborating Glasstone and Dolan and data collected from these smaller firestorms:</p>
+<blockquote class="templatequote">
+<p>based on World War II experience with mass fires resulting from air raids on Germany and Japan, the minimum requirements for a firestorm to develop are considered by some authorities to be the following: (1) at least 8 pounds of combustibles per square foot of fire area (40 kg per square meter), (2) at least half of the structures in the area on fire simultaneously, (3) a wind of less than 8 miles per hour at the time, and (4) a minimum burning area of about half a square mile.</p>
+<div class="templatequotecite">— <cite>Glasstone and Dolan (1977).<sup class="reference" id="cite_ref-FOOTNOTEGlasstoneDolan1977299.2C_300.2C_.C2.B6_7.58_41-0"><a href="#cite_note-FOOTNOTEGlasstoneDolan1977299.2C_300.2C_.C2.B6_7.58-41">[41]</a></sup></cite></div>
+</blockquote>
+<h3><span class="mw-headline" id="21st_century_cities_in_comparison_to_World_War_II_cities">21st century cities in comparison to World War II cities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=5" title="Edit section: 21st century cities in comparison to World War II cities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:center; margin:0 1em 1em 2em; float:right;">
+<caption align="bottom" style="caption-side:bottom; text-align:left; font-weight:normal;">A U.S. Air Force table showing the total number of bombs dropped by the Allies on Germany's seven largest cities during the entirety of World War II.<sup class="reference" id="cite_ref-USAFHD_42-0"><a href="#cite_note-USAFHD-42">[42]</a></sup></caption>
+<tr>
+<th>City</th>
+<th>Population in 1939</th>
+<th>American tonnage</th>
+<th>British tonnage</th>
+<th>Total tonnage</th>
+</tr>
+<tr>
+<td>Berlin</td>
+<td>4,339,000</td>
+<td>22,090</td>
+<td>45,517</td>
+<td>67,607</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hamburg" title="Hamburg">Hamburg</a></td>
+<td>1,129,000</td>
+<td>17,104</td>
+<td>22,583</td>
+<td>39,687</td>
+</tr>
+<tr>
+<td><a href="/wiki/Munich" title="Munich">Munich</a></td>
+<td>841,000</td>
+<td>11,471</td>
+<td>7,858</td>
+<td>19,329</td>
+</tr>
+<tr>
+<td><a href="/wiki/Cologne" title="Cologne">Cologne</a></td>
+<td>772,000</td>
+<td>10,211</td>
+<td>34,712</td>
+<td>44,923</td>
+</tr>
+<tr>
+<td><a href="/wiki/Leipzig" title="Leipzig">Leipzig</a></td>
+<td>707,000</td>
+<td>5,410</td>
+<td>6,206</td>
+<td>11,616</td>
+</tr>
+<tr>
+<td><a href="/wiki/Essen" title="Essen">Essen</a></td>
+<td>667,000</td>
+<td>1,518</td>
+<td>36,420</td>
+<td>37,938</td>
+</tr>
+<tr>
+<td><a href="/wiki/Dresden" title="Dresden">Dresden</a></td>
+<td>642,000</td>
+<td>4,441</td>
+<td>2,659</td>
+<td>7,100</td>
+</tr>
+</table>
+<p>Unlike the highly combustible World War II cities that firestormed from conventional and nuclear weapons, fire experts suggest that due to the nature of modern U.S. city design and construction, a firestorm is unlikely to occur even after a nuclear detonation.<sup class="reference" id="cite_ref-hps.org_21-1"><a href="#cite_note-hps.org-21">[21]</a></sup> The explanation for this is that <a href="/wiki/Tower_block" title="Tower block">highrise buildings</a> do not lend themselves to the formation of firestorms due to the <a href="/wiki/Baffle_(heat_transfer)" title="Baffle (heat transfer)">baffle</a> effect of the structures,<sup class="reference" id="cite_ref-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68_1-2"><a href="#cite_note-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68-1">[1]</a></sup> nor are firestorms likely in areas where modern buildings have totally collapsed, with the exceptions of Tokyo and Hiroshima due to the nature of their densely packed "flimsy" wooden buildings in World War II.<sup class="reference" id="cite_ref-Firestorms._pg_53_39-1"><a href="#cite_note-Firestorms._pg_53-39">[39]</a></sup><sup class="reference" id="cite_ref-osti.gov_43-0"><a href="#cite_note-osti.gov-43">[43]</a></sup> There is also a sizable difference between the fuel loading of World War II cities that firestormed and that of modern cities, where the quantity of combustibles per square meter in the fire area in the latter is below the necessary requirement for a firestorm to form (40 kg/m²).<sup class="reference" id="cite_ref-44"><a href="#cite_note-44">[44]</a></sup><sup class="reference" id="cite_ref-45"><a href="#cite_note-45">[45]</a></sup> Therefore, firestorms are not to be expected in modern U.S. or Canadian cities following a nuclear detonation, nor are they expected to be likely in modern European cities.<sup class="reference" id="cite_ref-46"><a href="#cite_note-46">[46]</a></sup></p>
+<p>Similarly, one reason for the lack of success in creating a true firestorm in the <a href="/wiki/Bombing_of_Berlin_in_World_War_II" title="Bombing of Berlin in World War II">bombing of Berlin in World War II</a> was that the building density, or builtupness factor, in Berlin was too low to support easy fire spread from building to building. Another reason was that much of the building construction was newer and better than in most of the old German city centers. Modern building practices in the Berlin of World War II led to more effective firewalls and fire-resistant construction. Mass firestorms never proved to be possible in Berlin. No matter how heavy the raid or what kinds of firebombs were dropped, no true firestorm ever developed.<sup class="reference" id="cite_ref-47"><a href="#cite_note-47">[47]</a></sup></p>
+<h2><span class="mw-headline" id="Nuclear_weapons_in_comparison_to_conventional_weapons">Nuclear weapons in comparison to conventional weapons</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=6" title="Edit section: Nuclear weapons in comparison to conventional weapons">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The incendiary effects of a <a href="/wiki/Nuclear_explosion" title="Nuclear explosion">nuclear explosion</a> do not present any especially characteristic features. In principle, the same overall result with respect to destruction of life and property can be achieved by the use of <a href="/wiki/Conventional_weapon" title="Conventional weapon">conventional</a> <a href="/wiki/Incendiary_device" title="Incendiary device">incendiary</a> and <a href="/wiki/Explosive_material#High_explosives" title="Explosive material">high-explosive bombs</a>.<sup class="reference" id="cite_ref-The_Effects_of_Nuclear_Weapons_48-0"><a href="#cite_note-The_Effects_of_Nuclear_Weapons-48">[48]</a></sup> It has been estimated, for example, that the same fire ferocity and damage produced at Hiroshima by one <a href="/wiki/Little_Boy" title="Little Boy">16-kiloton nuclear bomb</a> from a single <a href="/wiki/Boeing_B-29_Superfortress" title="Boeing B-29 Superfortress">B-29</a> could have instead been produced by about 1,200 tons/1.2 kilotons of incendiary bombs from 220 B-29s distributed over the city.<sup class="reference" id="cite_ref-The_Effects_of_Nuclear_Weapons_48-1"><a href="#cite_note-The_Effects_of_Nuclear_Weapons-48">[48]</a></sup><sup class="reference" id="cite_ref-here_49-0"><a href="#cite_note-here-49">[49]</a></sup><sup class="reference" id="cite_ref-50"><a href="#cite_note-50">[50]</a></sup></p>
+<p>It may seem counterintuitive that the same amount of fire damage caused by a nuclear weapon could have instead been produced by smaller total yield of thousands of incendiary bombs; however, World War II experience supports this assertion. For example, although not a perfect clone of the city of Hiroshima in 1945, in the conventional <a href="/wiki/Bombing_of_Dresden_in_World_War_II" title="Bombing of Dresden in World War II">bombing of Dresden</a>, the combined <a href="/wiki/Royal_Air_Force" title="Royal Air Force">Royal Air Force</a> (RAF) and <a href="/wiki/United_States_Army_Air_Forces" title="United States Army Air Forces">United States Army Air Forces</a> (USAAF) dropped a total of 3441.3 tons (approximately 3.4 <a href="/wiki/TNT_equivalent" title="TNT equivalent">kilotons</a>) of <a href="/wiki/Aircraft_ordnance" title="Aircraft ordnance">ordnance</a> (about half of which was incendiary bombs) on the night of 13–14 February 1945, and this resulted in "more than" 2.5 square miles (6.5 km<sup>2</sup>) of the city being destroyed by fire and firestorm effects according to one authoritative source,<sup class="reference" id="cite_ref-51"><a href="#cite_note-51">[51]</a></sup> or approximately 8 square miles (21 km<sup>2</sup>) by another.<sup class="reference" id="cite_ref-dtic.mil_23-3"><a href="#cite_note-dtic.mil-23">[23]</a></sup> In total about 4.5 kilotons of conventional ordnance was dropped on the city over a number of months during 1945 and this resulted in approximately 15 square miles (39 km<sup>2</sup>) of the city being destroyed by blast and fire effects.<sup class="reference" id="cite_ref-52"><a href="#cite_note-52">[52]</a></sup> During the <a href="/wiki/Bombing_of_Tokyo" title="Bombing of Tokyo"><i>Operation MeetingHouse</i> firebombing of Tokyo</a> on 9–10 March 1945, 279 of the 334 B-29s dropped 1,665 tons of incendiary and high-explosive bombs on the city, resulting in the destruction of over 10,000 acres of buildings — 16 square miles (41 km<sup>2</sup>), a quarter of the city.<sup class="reference" id="cite_ref-Laurence_M._Vance_53-0"><a href="#cite_note-Laurence_M._Vance-53">[53]</a></sup><sup class="reference" id="cite_ref-Joseph_Coleman_54-0"><a href="#cite_note-Joseph_Coleman-54">[54]</a></sup> In contrast to these raids, when a single 16-kiloton nuclear bomb was dropped on Hiroshima, 4.5 square miles (12 km<sup>2</sup>) of the city was destroyed by blast, fire, and firestorm effects.<sup class="reference" id="cite_ref-Firestorms._pg_53_39-2"><a href="#cite_note-Firestorms._pg_53-39">[39]</a></sup> Similarly, Major Cortez F. Enloe, a surgeon in the USAAF who worked with the <a href="/wiki/United_States_Strategic_Bombing_Survey" title="United States Strategic Bombing Survey">United States Strategic Bombing Survey</a> (USSBS), said that the <a href="/wiki/Fat_Man" title="Fat Man">22-kiloton nuclear bomb</a> dropped on Nagasaki did not do as much fire damage as the extended <a href="/wiki/Bombing_of_Hamburg_in_World_War_II" title="Bombing of Hamburg in World War II">conventional airstrikes on Hamburg</a>.<sup class="reference" id="cite_ref-55"><a href="#cite_note-55">[55]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:AtomicEffects-Hiroshima.jpg"><img alt="" class="thumbimage" data-file-height="512" data-file-width="653" height="172" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/AtomicEffects-Hiroshima.jpg/220px-AtomicEffects-Hiroshima.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2c/AtomicEffects-Hiroshima.jpg/330px-AtomicEffects-Hiroshima.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2c/AtomicEffects-Hiroshima.jpg/440px-AtomicEffects-Hiroshima.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:AtomicEffects-Hiroshima.jpg" title="Enlarge"></a></div>
+Hiroshima after the bombing and firestorm. No known aerial photography of the firestorm exists.</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Firebombing_of_Tokyo.jpg"><img alt="" class="thumbimage" data-file-height="2932" data-file-width="3152" height="205" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Firebombing_of_Tokyo.jpg/220px-Firebombing_of_Tokyo.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Firebombing_of_Tokyo.jpg/330px-Firebombing_of_Tokyo.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Firebombing_of_Tokyo.jpg/440px-Firebombing_of_Tokyo.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Firebombing_of_Tokyo.jpg" title="Enlarge"></a></div>
+Note the ambient wind blowing the fire's smoke plume inland. The firebombing of Tokyo on the night of 9–10 March 1945 was the single deadliest air raid of World War II,<sup class="reference" id="cite_ref-deadliest_56-0"><a href="#cite_note-deadliest-56">[56]</a></sup> with a greater total area of fire damage and loss of life than either nuclear bombing as a single event.<sup class="reference" id="cite_ref-Laurence_M._Vance_53-1"><a href="#cite_note-Laurence_M._Vance-53">[53]</a></sup><sup class="reference" id="cite_ref-Joseph_Coleman_54-1"><a href="#cite_note-Joseph_Coleman-54">[54]</a></sup> Due largely to the greater population density and fire conditions. 279 B-29s dropped about 1,700 tons of ordnance on target.<sup class="reference" id="cite_ref-Mar45Chronology_34-1"><a href="#cite_note-Mar45Chronology-34">[34]</a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Hiroshima_aftermath.jpg"><img alt="" class="thumbimage" data-file-height="546" data-file-width="780" height="154" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hiroshima_aftermath.jpg/220px-Hiroshima_aftermath.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hiroshima_aftermath.jpg/330px-Hiroshima_aftermath.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a0/Hiroshima_aftermath.jpg/440px-Hiroshima_aftermath.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Hiroshima_aftermath.jpg" title="Enlarge"></a></div>
+Hiroshima aftermath. Despite a true firestorm developing, reinforced concrete buildings, as in Tokyo, similarly remained standing. Signed by the <a href="/wiki/Enola_Gay" title="Enola Gay">Enola Gay</a> pilot, <a class="mw-redirect" href="/wiki/Paul_W._Tibbets" title="Paul W. Tibbets">Paul W. Tibbets</a>.</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Tokyo_1945-3-10-1.jpg"><img alt="" class="thumbimage" data-file-height="769" data-file-width="1000" height="169" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tokyo_1945-3-10-1.jpg/220px-Tokyo_1945-3-10-1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tokyo_1945-3-10-1.jpg/330px-Tokyo_1945-3-10-1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Tokyo_1945-3-10-1.jpg/440px-Tokyo_1945-3-10-1.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Tokyo_1945-3-10-1.jpg" title="Enlarge"></a></div>
+This Tokyo residential section was virtually destroyed. All that remained standing were concrete buildings in this photograph.</div>
+</div>
+</div>
+<div style="clear:both;"></div>
+<p>American historian <a href="/wiki/Gabriel_Kolko" title="Gabriel Kolko">Gabriel Kolko</a> also echoed this sentiment:</p>
+<blockquote class="templatequote">
+<p>During November 1944 American B-29's began their first <a href="/wiki/Firebombing" title="Firebombing">incendiary bomb raids</a> on Tokyo, and on 9 March 1945, wave upon wave dropped masses of small incendiaries containing an early version of <a href="/wiki/Napalm" title="Napalm">napalm</a> on the city's population....Soon small fires spread, connected, grew into a vast firestorm that sucked the oxygen out of the lower atmosphere. The bomb raid was a 'success' for the Americans; they killed 125,000 Japanese in one attack. The <a href="/wiki/Allies_of_World_War_II" title="Allies of World War II">Allies</a> bombed Hamburg and Dresden in the same manner, and <a href="/wiki/Bombing_of_Nagoya_in_World_War_II" title="Bombing of Nagoya in World War II">Nagoya</a>, <a href="/wiki/Bombing_of_Osaka" title="Bombing of Osaka">Osaka</a>, <a href="/wiki/Bombing_of_Kobe_in_World_War_II" title="Bombing of Kobe in World War II">Kobe</a>, and Tokyo again on May 24....in fact the atomic bomb used against Hiroshima was less lethal than massive fire bombing....Only its technique was novel—nothing more....There was another difficulty posed by mass conventional bombing, and that was its very success, a success that made the two modes of human destruction qualitatively identical in fact and in the minds of the <a href="/wiki/United_States_Armed_Forces" title="United States Armed Forces">American military</a>. "I was a little fearful", <a href="/wiki/United_States_Secretary_of_War" title="United States Secretary of War">[Secretary of War]</a> <a href="/wiki/Henry_L._Stimson" title="Henry L. Stimson">Stimson</a> told <a href="/wiki/President_of_the_United_States" title="President of the United States">[President]</a> <a href="/wiki/Harry_S._Truman" title="Harry S. Truman">Truman</a>, "that before we could get ready the Air Force might have Japan so thoroughly bombed out that the new weapon would not have a fair background to show its strength." To this the President "laughed and said he understood."<sup class="reference" id="cite_ref-57"><a href="#cite_note-57">[57]</a></sup></p>
+</blockquote>
+<p>This break from the linear expectation of more fire damage to occur after greater explosive yield is dropped can be easily explained by two major factors. First, the order of blast and thermal events during a nuclear explosion is not ideal for the creation of fires. In an incendiary bombing raid, incendiary weapons followed after high-explosive blast weapons were dropped, in a manner designed to create the greatest probability of fires from a <a class="mw-redirect" href="/wiki/Cluster_bomb" title="Cluster bomb">limited quantity of explosive</a> and incendiary weapons. The so-called two-ton "<a href="/wiki/Blockbuster_bomb" title="Blockbuster bomb">cookies</a>",<sup class="reference" id="cite_ref-De-Bruhl-209_27-1"><a href="#cite_note-De-Bruhl-209-27">[27]</a></sup> also known as "blockbusters", were dropped first and were intended to rupture water mains, as well as to blow off roofs, doors, and windows, creating an air flow that would feed the fires caused by the incendiaries that would then follow and be dropped, ideally, into holes created by the prior blast weapons, such into attic and roof spaces.<sup class="reference" id="cite_ref-De-Bruhl-210-11_58-0"><a href="#cite_note-De-Bruhl-210-11-58">[58]</a></sup><sup class="reference" id="cite_ref-Taylor-287-365_59-0"><a href="#cite_note-Taylor-287-365-59">[59]</a></sup><sup class="reference" id="cite_ref-Longmate162-4_60-0"><a href="#cite_note-Longmate162-4-60">[60]</a></sup> On the other hand, nuclear weapons produce effects that are in the reverse order, with thermal effects and "flash" occurring first, which are then followed by the slower blast wave. It is for this reason that conventional incendiary bombing raids are considered to be a great deal more efficient at causing mass fires than nuclear weapons of comparable yield. It is likely this led the nuclear weapon effects experts <a href="/wiki/Franklin_D%27Olier" title="Franklin D'Olier">Franklin D'Olier</a>, <a href="/wiki/Samuel_Glasstone" title="Samuel Glasstone">Samuel Glasstone</a> and <a href="/wiki/Philip_J._Dolan" title="Philip J. Dolan">Philip J. Dolan</a> to state that the same fire damage suffered at Hiroshima could have instead been produced by about 1 kiloton/1,000 tons of incendiary bombs.<sup class="reference" id="cite_ref-The_Effects_of_Nuclear_Weapons_48-2"><a href="#cite_note-The_Effects_of_Nuclear_Weapons-48">[48]</a></sup><sup class="reference" id="cite_ref-here_49-1"><a href="#cite_note-here-49">[49]</a></sup></p>
+<p>The second factor explaining the non-intuitive break in the expected results of greater explosive yield producing greater city fire damage is that city fire damage is largely dependent not on the yield of the weapons used, but on the conditions in and around the city itself, with the fuel loading per square meter value of the city being one of the major factors. A few hundred strategically placed incendiary devices would be sufficient to start a firestorm in a city if the conditions for a firestorm, namely high fuel loading, are already inherent to the city (see <a href="/wiki/Bat_bomb" title="Bat bomb">Bat bomb</a>). The <a href="/wiki/Great_Fire_of_London" title="Great Fire of London">Great Fire of London</a> in 1666, although not forming a firestorm due to the single point of ignition, serves as an example that, given a densely packed and predominately wooden and <a class="mw-redirect" href="/wiki/Thatch" title="Thatch">thatch</a> building construction in the urban area, a mass fire is conceivable from the mere incendiary power of no more than a domestic fireplace. On the other hand, the largest nuclear weapon conceivable will be incapable of igniting a city into a firestorm if the city's properties, namely its fuel density, are not conducive to one developing.</p>
+<p>Despite the disadvantage of nuclear weapons when compared to conventional weapons of lower or comparable yield in terms of effectiveness at starting fires, for the reasons discussed above, nuclear weapons also do not add any fuel to a city, and fires are entirely dependent on what was contained in the city prior to bombing, in direct contrast to the incendiary device effect of conventional raids. One undeniable advantage of nuclear weapons over conventional weapons when it comes to creating fires is that nuclear weapons undoubtedly produce all their thermal and explosive effects in a very short period of time; that is, to use <a href="/wiki/Sir_Arthur_Harris,_1st_Baronet" title="Sir Arthur Harris, 1st Baronet">Arthur Harris</a>'s terminology, they are the epitome of an air raid guaranteed to be concentrated in "point in time". In contrast, early in World War II, the ability to achieve conventional air raids concentrated in "point of time" depended largely upon the skill of pilots to remain in formation, and their ability to hit the target whilst at times also being under heavy fire from <a href="/wiki/Anti-aircraft_warfare" title="Anti-aircraft warfare">anti-aircraft fire</a> from the air defensives of the cities below. Nuclear weapons largely remove these uncertain variables. Therefore, nuclear weapons reduce the question of whether a city will firestorm or not to a smaller number of variables, to the point of becoming entirely reliant on the intrinsic properties of the city, such as fuel loading, and predictable atmospheric conditions, such as wind speed, in and around the city, and less reliant on the unpredictable possibility of hundreds of bomber crews acting together successfully as a single unit.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Blackout_(wartime)" title="Blackout (wartime)">Blackout (wartime)</a></li>
+<li><a href="/wiki/Civilian_casualties_of_strategic_bombing" title="Civilian casualties of strategic bombing">Civilian casualties of strategic bombing</a></li>
+<li><a href="/wiki/Fire_whirl" title="Fire whirl">Fire whirl</a></li>
+<li><a href="/wiki/Wildfire" title="Wildfire">Wildfire</a></li>
+<li><a href="/wiki/Wildfire_modeling" title="Wildfire modeling">Wildfire modeling</a></li>
+</ul>
+<h3><span class="mw-headline" id="Potential_firestorms">Potential firestorms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=8" title="Edit section: Potential firestorms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Portions of the following fires are often described as firestorms, but no reliable references, as of yet, corroborate this.</p>
+<ul>
+<li><a href="/wiki/Great_Fire_of_Rome" title="Great Fire of Rome">Great Fire of Rome</a> (64 AD)</li>
+<li><a href="/wiki/Great_Fire_of_London" title="Great Fire of London">Great Fire of London</a> (1666)</li>
+<li><a href="/wiki/Great_Chicago_Fire" title="Great Chicago Fire">Great Chicago Fire</a> (1871)</li>
+<li><a href="/wiki/1906_San_Francisco_earthquake" title="1906 San Francisco earthquake">San Francisco earthquake</a> (1906)</li>
+<li><a href="/wiki/1923_Great_Kant%C5%8D_earthquake" title="1923 Great Kantō earthquake">Great Kantō earthquake</a> (1923)</li>
+<li><a href="/wiki/Tillamook_Burn" title="Tillamook Burn">Tillamook Burn</a> (1933–1951)</li>
+<li><a href="/wiki/Second_Great_Fire_of_London" title="Second Great Fire of London">Second Great Fire of London</a> (1940)</li>
+<li><a href="/wiki/Ash_Wednesday_bushfires" title="Ash Wednesday bushfires">Ash Wednesday bushfires</a> (1983)</li>
+<li><a href="/wiki/Yellowstone_fires_of_1988" title="Yellowstone fires of 1988">Yellowstone fires</a> (1988)</li>
+<li><a href="/wiki/2003_Canberra_bushfires" title="2003 Canberra bushfires">Canberra bushfires</a> (2003)</li>
+<li><a href="/wiki/Black_Saturday_bushfires" title="Black Saturday bushfires">Black Saturday bushfires</a> (2009)</li>
+<li><a class="mw-redirect" href="/wiki/2016_Fort_McMurray_wildfire" title="2016 Fort McMurray wildfire">Fort McMurray wildfire</a> (2016)</li>
+<li>Predrógâo Grande, Portugal (2017)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-American_National_Fire_Protection_Association_2005_https:.2F.2Fbooks.google.com.2Fbooks.3Fid.3DIWW8qOXd6sgC.26pg.3DPA68.23v.3Donepage.26q.26f.3Dfalse_68_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation" id="CITEREFAmerican_National_Fire_Protection_Association2005">American National Fire Protection Association (2005), Scawthorn, Charles; Eidinger, John M.; Schiff, Anshel J., eds., <i>Fire Following Earthquake</i>, Issue 26 of Monograph (American Society of Civil Engineers. Technical Council on Lifeline Earthquake Engineering), American Society of Civil Engineers Technical Council on Lifeline Earthquake Engineering (illustrated ed.), ASCE Publications, p. <a class="external text" href="https://books.google.com/books?id=IWW8qOXd6sgC&amp;pg=PA68#v=onepage&amp;q&amp;f=false" rel="nofollow">68</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7844-0739-4" title="Special:BookSources/978-0-7844-0739-4">978-0-7844-0739-4</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=American+National+Fire+Protection+Association&amp;rft.btitle=Fire+Following+Earthquake&amp;rft.date=2005&amp;rft.edition=illustrated&amp;rft.genre=book&amp;rft.isbn=978-0-7844-0739-4&amp;rft.pages=68&amp;rft.pub=ASCE+Publications&amp;rft.series=Issue+26+of+Monograph+%28American+Society+of+Civil+Engineers.+Technical+Council+on+Lifeline+Earthquake+Engineering%29%2C+American+Society+of+Civil+Engineers+Technical+Council+on+Lifeline+Earthquake+Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Alexander Mckee's <i>Dresden 1945: The Devil's Tinderbox</i></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20130218040912/http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD673703&amp;Location=U2&amp;doc=GetTRDoc.pdf" rel="nofollow">"PROBLEMS OF FIRE IN NUCLEAR WARFARE (1961)"</a> <span style="font-size:85%;">(PDF)</span>. <i>Dtic.mil</i>. Archived from <a class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD673703&amp;Location=U2&amp;doc=GetTRDoc.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 18 February 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2016</span>. <q><i>A fire storm is characterized by strong to gale force winds blowing toward the fire everywhere around the fire perimeter and results from the rising column of hot gases over an intense, mass fire drawing in the cool air from the periphery. These winds blow the fire brands into the burning area and tend to cool the unignited fuel outside so that ignition by radiated heat is more difficult, thus limiting fire spread.</i></q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=PROBLEMS+OF+FIRE+IN+NUCLEAR+WARFARE+%281961%29&amp;rft.genre=unknown&amp;rft.jtitle=Dtic.mil&amp;rft_id=http%3A%2F%2Fwww.dtic.mil%2Fcgi-bin%2FGetTRDoc%3FAD%3DAD673703%26Location%3DU2%26doc%3DGetTRDoc.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-AD673703_1961.2C_pg_8_.26_9-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-AD673703_1961.2C_pg_8_.26_9_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-AD673703_1961.2C_pg_8_.26_9_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20130218040912/http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD673703&amp;Location=U2&amp;doc=GetTRDoc.pdf" rel="nofollow">"Problems of fire in Nuclear Warfare 1961"</a> <span style="font-size:85%;">(PDF)</span>. <i>Dtic.mil</i>. pp. 8 &amp; 9. Archived from <a class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?AD=AD673703&amp;Location=U2&amp;doc=GetTRDoc.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 18 February 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">11 May</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Problems+of+fire+in+Nuclear+Warfare+1961&amp;rft.genre=unknown&amp;rft.jtitle=Dtic.mil&amp;rft.pages=8+%26+9&amp;rft_id=http%3A%2F%2Fwww.dtic.mil%2Fcgi-bin%2FGetTRDoc%3FAD%3DAD673703%26Location%3DU2%26doc%3DGetTRDoc.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEWeaverBiko-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEWeaverBiko_5-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFWeaverBiko">Weaver &amp; Biko</a>.</span></li>
+<li id="cite_note-Denise_Gess-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-Denise_Gess_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Denise_Gess_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFGessLutz2003">Gess &amp; Lutz 2003</a>, p. 234</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web">Hemphill, Stephanie (27 November 2002). <a class="external text" href="http://news.minnesota.publicradio.org/features/200211/27_hemphills_peshtigofire/" rel="nofollow">"Peshtigo: A Tornado of Fire Revisited"</a>. <i>Minnesota Public Radio</i><span class="reference-accessdate">. Retrieved <span class="nowrap">22 July</span> 2015</span>. <q>The town was at the center of a tornado of flame. The fire was coming from all directions at once, and the winds were roaring at 100 mph.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Peshtigo%3A+A+Tornado+of+Fire+Revisited&amp;rft.aufirst=Stephanie&amp;rft.aulast=Hemphill&amp;rft.date=2002-11-27&amp;rft.genre=unknown&amp;rft.jtitle=Minnesota+Public+Radio&amp;rft_id=http%3A%2F%2Fnews.minnesota.publicradio.org%2Ffeatures%2F200211%2F27_hemphills_peshtigofire%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">James Killus (2007-08-16). <a class="external text" href="http://unintentional-irony.blogspot.no/2007/08/firestorms.html" rel="nofollow">"Unintentional Irony: Firestorms"</a>. <i>Unintentional-irony.blogspot.no</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Unintentional+Irony%3A+Firestorms&amp;rft.au=James+Killus&amp;rft.date=2007-08-16&amp;rft.genre=unknown&amp;rft.jtitle=Unintentional-irony.blogspot.no&amp;rft_id=http%3A%2F%2Funintentional-irony.blogspot.no%2F2007%2F08%2Ffirestorms.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Chris Cavanagh. <a class="external text" href="http://holbert.faculty.asu.edu/eee460/cjc/Thermal_Radiation_Damage.html" rel="nofollow">"Thermal Radiation Damage"</a>. <i>Holbert.faculty.asu.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Thermal+Radiation+Damage&amp;rft.au=Chris+Cavanagh&amp;rft.genre=unknown&amp;rft.jtitle=Holbert.faculty.asu.edu&amp;rft_id=http%3A%2F%2Fholbert.faculty.asu.edu%2Feee460%2Fcjc%2FThermal_Radiation_Damage.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFGlasstoneDolan1977">Glasstone, Samuel; Dolan, Philip J., eds. (1977), <a class="external text" href="http://www.fourmilab.ch/etexts/www/effects/eonw_7.pdf#zoom=100" rel="nofollow">"<span style="padding-left:0.2em;">"</span>Chapter VII — Thermal Radiation and Its Effects"</a> <span style="font-size:85%;">(PDF)</span>, <a class="external text" href="http://www.fourmilab.ch/etexts/www/effects/" rel="nofollow"><i>The Effects of Nuclear Weapons</i></a> (Third ed.), United States Department of Defense and the Energy Research and Development Administration, pp. 229, 200, § "Mass Fires" ¶ 7.58</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=%22Chapter+VII+%E2%80%94+Thermal+Radiation+and+Its+Effects&amp;rft.btitle=The+Effects+of+Nuclear+Weapons&amp;rft.date=1977&amp;rft.edition=Third&amp;rft.genre=bookitem&amp;rft.pages=229%2C+200%2C+%C2%A7+%22Mass+Fires%22+%C2%B6+7.58&amp;rft.pub=United+States+Department+of+Defense+and+the+Energy+Research+and+Development+Administration&amp;rft_id=http%3A%2F%2Fwww.fourmilab.ch%2Fetexts%2Fwww%2Feffects%2Feonw_7.pdf%23zoom%3D100&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://dge.stanford.edu/SCOPE/SCOPE_28_1/SCOPE_28-1_1.1_Chapter1_1-23.pdf" rel="nofollow">"Direct Effects of Nuclear Detonations"</a> <span style="font-size:85%;">(PDF)</span>. <i>Dge.standord.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Direct+Effects+of+Nuclear+Detonations&amp;rft.genre=unknown&amp;rft.jtitle=Dge.standord.edu&amp;rft_id=http%3A%2F%2Fdge.stanford.edu%2FSCOPE%2FSCOPE_28_1%2FSCOPE_28-1_1.1_Chapter1_1-23.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20140824082109/http://www.nasa.gov/topics/earth/features/pyrocb.html" rel="nofollow">"NASA – Fire-Breathing Storm Systems"</a>. <i>Nasa.gov</i>. 19 October 2010. Archived from <a class="external text" href="http://www.nasa.gov/topics/earth/features/pyrocb.html" rel="nofollow">the original</a> on 24 August 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=NASA+%E2%80%93+Fire-Breathing+Storm+Systems&amp;rft.date=2010-10-19&amp;rft.genre=unknown&amp;rft.jtitle=Nasa.gov&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Ftopics%2Fearth%2Ffeatures%2Fpyrocb.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFGlasstoneDolan1977">Glasstone, Samuel; Dolan, Philip J., eds. (1977), <a class="external text" href="http://www.fourmilab.ch/etexts/www/effects/eonw_7.pdf#zoom=100" rel="nofollow">"<span style="padding-left:0.2em;">"</span>Chapter VII — Thermal Radiation and Its Effects"</a> <span style="font-size:85%;">(PDF)</span>, <a class="external text" href="http://www.fourmilab.ch/etexts/www/effects/" rel="nofollow"><i>The Effects of Nuclear Weapons</i></a> (Third ed.), United States Department of Defense and the Energy Research and Development Administration, pp. 229, 200, § "Mass Fires" ¶ 7.59</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=%22Chapter+VII+%E2%80%94+Thermal+Radiation+and+Its+Effects&amp;rft.btitle=The+Effects+of+Nuclear+Weapons&amp;rft.date=1977&amp;rft.edition=Third&amp;rft.genre=bookitem&amp;rft.pages=229%2C+200%2C+%C2%A7+%22Mass+Fires%22+%C2%B6+7.59&amp;rft.pub=United+States+Department+of+Defense+and+the+Energy+Research+and+Development+Administration&amp;rft_id=http%3A%2F%2Fwww.fourmilab.ch%2Fetexts%2Fwww%2Feffects%2Feonw_7.pdf%23zoom%3D100&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEKartmanBrown197148-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEKartmanBrown197148_14-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFKartmanBrown1971">Kartman &amp; Brown 1971</a>, p. 48.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://globalecology.stanford.edu/SCOPE/SCOPE_28_1/SCOPE_28-1_1.4_Chapter4_105-147.pdf" rel="nofollow">"Atmospheric Processes : Chapter=4"</a> <span style="font-size:85%;">(PDF)</span>. <i>Globalecology.stanford.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Atmospheric+Processes+%3A+Chapter%3D4&amp;rft.genre=unknown&amp;rft.jtitle=Globalecology.stanford.edu&amp;rft_id=http%3A%2F%2Fglobalecology.stanford.edu%2FSCOPE%2FSCOPE_28_1%2FSCOPE_28-1_1.4_Chapter4_105-147.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-agu.org-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-agu.org_16-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fromm, M.; Stocks, B.; Servranckx, R.; et al. (2006). <a class="external text" href="https://web.archive.org/web/20141006085234/http://www.agu.org/meetings/fm06/fm06-sessions/fm06_U14A.html" rel="nofollow">"Smoke in the Stratosphere: What Wildfires have Taught Us About Nuclear Winter"</a>. <i><a class="mw-redirect" href="/wiki/Eos_(journal)" title="Eos (journal)">Eos, Transactions, American Geophysical Union</a></i>. Washington, D.C.: American Geophysical Union. <b>87</b> (52 Fall Meet. Suppl.): Abstract U14A–04. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006AGUFM.U14A..04F" rel="nofollow">2006AGUFM.U14A..04F</a>. Archived from <a class="external text" href="http://www.agu.org/meetings/fm06/fm06-sessions/fm06_U14A.html" rel="nofollow">the original</a> on 6 October 2014.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Smoke+in+the+Stratosphere%3A+What+Wildfires+have+Taught+Us+About+Nuclear+Winter&amp;rft.au=Lindsey%2C+D.&amp;rft.au=Servranckx%2C+R.&amp;rft.au=Stocks%2C+B.&amp;rft.aufirst=M.&amp;rft.aulast=Fromm&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=52+Fall+Meet.+Suppl.&amp;rft.jtitle=Eos%2C+Transactions%2C+American+Geophysical+Union&amp;rft.pages=Abstract+U14A-04&amp;rft.volume=87&amp;rft_id=http%3A%2F%2Fwww.agu.org%2Fmeetings%2Ffm06%2Ffm06-sessions%2Ffm06_U14A.html&amp;rft_id=info%3Abibcode%2F2006AGUFM.U14A..04F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20140824082109/http://www.nasa.gov/topics/earth/features/pyrocb.html" rel="nofollow">"NASA – Fire-Breathing Storm Systems"</a>. <i>Web.archive.org</i>. Archived from the original on 24 August 2014<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=NASA+%E2%80%93+Fire-Breathing+Storm+Systems&amp;rft.genre=unknown&amp;rft.jtitle=Web.archive.org&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Ftopics%2Fearth%2Ffeatures%2Fpyrocb.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Unfit url (<a href="/wiki/Category:CS1_maint:_Unfit_url" title="Category:CS1 maint: Unfit url">link</a>)</span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Fromm, M.; Tupper, A.; Rosenfeld, D.; Servranckx, R.; McRae, R. (2006). "Violent pyro-convective storm devastates Australia's capital and pollutes the stratosphere". <i>Geophysical Research Letters</i>. <b>33</b> (5). <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006GeoRL..33.5815F" rel="nofollow">2006GeoRL..33.5815F</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2005GL025161" rel="nofollow">10.1029/2005GL025161</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Violent+pyro-convective+storm+devastates+Australia%27s+capital+and+pollutes+the+stratosphere&amp;rft.au=McRae%2C+R.&amp;rft.au=Rosenfeld%2C+D.&amp;rft.au=Servranckx%2C+R.&amp;rft.au=Tupper%2C+A.&amp;rft.aufirst=M.&amp;rft.aulast=Fromm&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=5&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.volume=33&amp;rft_id=info%3Abibcode%2F2006GeoRL..33.5815F&amp;rft_id=info%3Adoi%2F10.1029%2F2005GL025161&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">Riebeek, Holli (2010-08-31). <a class="external text" href="http://earthobservatory.nasa.gov/Features/PyroClouds/" rel="nofollow">"Russian Firestorm: Finding a Fire Cloud from Space : Feature Articles"</a>. <i>Earthobservatory.nasa.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Russian+Firestorm%3A+Finding+a+Fire+Cloud+from+Space+%3A+Feature+Articles&amp;rft.aufirst=Holli&amp;rft.aulast=Riebeek&amp;rft.date=2010-08-31&amp;rft.genre=unknown&amp;rft.jtitle=Earthobservatory.nasa.gov&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FFeatures%2FPyroClouds%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Harris-83-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Harris-83_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Harris-83_20-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Harris-83_20-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Harris-83_20-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Harris-83_20-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFHarris2005">Harris 2005</a>, p. 83</span></li>
+<li id="cite_note-hps.org-21"><span class="mw-cite-backlink">^ <a href="#cite_ref-hps.org_21-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-hps.org_21-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://hps.org/homeland/documents/Planning_Guidance_for_Response_to_a_Nuclear_Detonation-2nd_Edition_FINAL.pdf" rel="nofollow">"Page 24 of Planning Guidance for response to a nuclear detonation. Written with the collaboration of FEMA &amp; NASA to name a few agencies"</a> <span style="font-size:85%;">(PDF)</span>. <i>Hps.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Page+24+of+Planning+Guidance+for+response+to+a+nuclear+detonation.+Written+with+the+collaboration+of+FEMA+%26+NASA+to+name+a+few+agencies&amp;rft.genre=unknown&amp;rft.jtitle=Hps.org&amp;rft_id=http%3A%2F%2Fhps.org%2Fhomeland%2Fdocuments%2FPlanning_Guidance_for_Response_to_a_Nuclear_Detonation-2nd_Edition_FINAL.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEFranklandWebster1961260.E2.80.93261-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEFranklandWebster1961260.E2.80.93261_22-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFFranklandWebster1961">Frankland &amp; Webster 1961</a>, pp. 260–261.</span></li>
+<li id="cite_note-dtic.mil-23"><span class="mw-cite-backlink">^ <a href="#cite_ref-dtic.mil_23-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-dtic.mil_23-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-dtic.mil_23-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-dtic.mil_23-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=AD0616638" rel="nofollow">"Exploratory Analysis of Fire storms"</a> <span style="font-size:85%;">(PDF)</span>. <i>Dtic.mil</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Exploratory+Analysis+of+Fire+storms&amp;rft.genre=unknown&amp;rft.jtitle=Dtic.mil&amp;rft_id=http%3A%2F%2Fwww.dtic.mil%2Fcgi-bin%2FGetTRDoc%3FLocation%3DU2%26doc%3DGetTRDoc.pdf%26AD%3DAD0616638&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-scribd.com-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-scribd.com_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-scribd.com_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">The Cold War Who won? pg 82 to 88 Chapter 18 <a class="external free" href="https://www.scribd.com/doc/49221078/18-Fire-in-WW-II" rel="nofollow">https://www.scribd.com/doc/49221078/18-Fire-in-WW-II</a></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20090303235000/http://www.raf.mod.uk/bombercommand/oct43.html" rel="nofollow">"Archived copy"</a>. Archived from <a class="external text" href="http://www.raf.mod.uk/bombercommand/oct43.html" rel="nofollow">the original</a> on 3 March 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">23 April</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.raf.mod.uk%2Fbombercommand%2Foct43.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTENeutzner201070-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTENeutzner201070_26-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFNeutzner2010">Neutzner 2010</a>, p. 70.</span></li>
+<li id="cite_note-De-Bruhl-209-27"><span class="mw-cite-backlink">^ <a href="#cite_ref-De-Bruhl-209_27-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-De-Bruhl-209_27-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">De Bruhl (2006), pp. 209.</span></li>
+<li id="cite_note-FOOTNOTEAmerican_National_Fire_Protection_Association200524-28"><span class="mw-cite-backlink">^ <a href="#cite_ref-FOOTNOTEAmerican_National_Fire_Protection_Association200524_28-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-FOOTNOTEAmerican_National_Fire_Protection_Association200524_28-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFAmerican_National_Fire_Protection_Association2005">American National Fire Protection Association 2005</a>, p. 24.</span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20081205060418/http://japanfocus.org/products/details/1581" rel="nofollow">"Archived copy"</a>. Archived from <a class="external text" href="http://japanfocus.org/products/details/1581" rel="nofollow">the original</a> on 5 December 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fjapanfocus.org%2Fproducts%2Fdetails%2F1581&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text">Rodden, Robert M.; John, Floyd I.; Laurino, Richard (May 1965). <a class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=AD0616638" rel="nofollow"><i>Exploratory analysis of Firestorms.</i></a>, Stanford Research Institute, pp. 39, 40, 53–54. Office of Civil Defense, Department of the Army, Washington, D.C.</span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation book">Werrell, Kenneth P (1996). <i>Blankets of Fire</i>. Washington and London: Smithsonian Institution Press. p. 164. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56098-665-4" title="Special:BookSources/1-56098-665-4">1-56098-665-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=Werrell%2C+Kenneth+P&amp;rft.btitle=Blankets+of+Fire&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=1-56098-665-4&amp;rft.pages=164&amp;rft.place=Washington+and+London&amp;rft.pub=Smithsonian+Institution+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Gordin-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-Gordin_32-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Michael D. Gordin (2007). <i>Five days in August: how World War II became a nuclear war</i>. Princeton University Press. p. 21. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-691-12818-9" title="Special:BookSources/0-691-12818-9">0-691-12818-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=Michael+D.+Gordin&amp;rft.btitle=Five+days+in+August%3A+how+World+War+II+became+a+nuclear+war&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=0-691-12818-9&amp;rft.pages=21&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation web">Technical Sergeant Steven Wilson (25 February 2010). <a class="external text" href="https://web.archive.org/web/20110929013643/http://www.ellsworth.af.mil/news/story.asp?id=123192125" rel="nofollow">"This month in history: The firebombing of Dresden"</a>. <i><a href="/wiki/Ellsworth_Air_Force_Base" title="Ellsworth Air Force Base">Ellsworth Air Force Base</a></i>. <a href="/wiki/United_States_Air_Force" title="United States Air Force">United States Air Force</a>. Archived from <a class="external text" href="http://www.ellsworth.af.mil/news/story.asp?id=123192125" rel="nofollow">the original</a> on 29 September 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=This+month+in+history%3A+The+firebombing+of+Dresden&amp;rft.au=Technical+Sergeant+Steven+Wilson&amp;rft.date=2010-02-25&amp;rft.genre=unknown&amp;rft.jtitle=Ellsworth+Air+Force+Base&amp;rft_id=http%3A%2F%2Fwww.ellsworth.af.mil%2Fnews%2Fstory.asp%3Fid%3D123192125&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Mar45Chronology-34"><span class="mw-cite-backlink">^ <a href="#cite_ref-Mar45Chronology_34-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Mar45Chronology_34-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.usaaf.net/chron/45/mar45.htm" rel="nofollow">U.S. Army Air Forces in World War II: Combat Chronology. <i>March 1945</i>.</a> <a class="external text" href="https://web.archive.org/web/20130602071111/http://www.usaaf.net/chron/45/mar45.htm" rel="nofollow">Archived</a> 2 June 2013 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Air Force Historical Studies Office. Retrieved 3 March 2009.</span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFFreeman_Dyson.2006">Freeman Dyson. (1 November 2006), <a class="external text" href="http://www.technologyreview.com/Infotech/17724/page5/" rel="nofollow">"Part I: A Failure of Intelligence"</a>, <i>Technology Review</i>, <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">MIT</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Part+I%3A+A+Failure+of+Intelligence&amp;rft.au=Freeman+Dyson.&amp;rft.date=2006-11-01&amp;rft.genre=article&amp;rft.jtitle=Technology+Review&amp;rft_id=http%3A%2F%2Fwww.technologyreview.com%2FInfotech%2F17724%2Fpage5%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-36">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.japanfocus.org/products/details/2414" rel="nofollow">Mark Selden. <i>A Forgotten Holocaust: US Bombing Strategy, the Destruction of Japanese Cities and the American Way of War from the Pacific War to Iraq</i>. Japan Focus, 2 May 2007</a> <a class="external text" href="https://web.archive.org/web/20080724213642/http://www.japanfocus.org/products/details/2414" rel="nofollow">Archived</a> 24 July 2008 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <span class="languageicon">(in English)</span></span></li>
+<li id="cite_note-FOOTNOTEGlasstoneDolan1977299.2C_200.2C_.C2.B6_7.58-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEGlasstoneDolan1977299.2C_200.2C_.C2.B6_7.58_37-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFGlasstoneDolan1977">Glasstone &amp; Dolan 1977</a>, pp. 299, 200, ¶ 7.58.</span></li>
+<li id="cite_note-FOOTNOTEMcRaneyMcGahan198024-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEMcRaneyMcGahan198024_38-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFMcRaneyMcGahan1980">McRaney &amp; McGahan 1980</a>, p. 24.</span></li>
+<li id="cite_note-Firestorms._pg_53-39"><span class="mw-cite-backlink">^ <a href="#cite_ref-Firestorms._pg_53_39-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Firestorms._pg_53_39-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Firestorms._pg_53_39-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=AD0616638" rel="nofollow">"Exploratory Analysis of Fire Storms"</a> <span style="font-size:85%;">(PDF)</span>. <i>Dtic.mil</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Exploratory+Analysis+of+Fire+Storms&amp;rft.genre=unknown&amp;rft.jtitle=Dtic.mil&amp;rft_id=http%3A%2F%2Fwww.dtic.mil%2Fcgi-bin%2FGetTRDoc%3FLocation%3DU2%26doc%3DGetTRDoc.pdf%26AD%3DAD0616638&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-FOOTNOTEHafemeister199124_.28.C2.B6_2nd_to_last.29-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEHafemeister199124_.28.C2.B6_2nd_to_last.29_40-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFHafemeister1991">Hafemeister 1991</a>, p. 24 (¶ 2nd to last).</span></li>
+<li id="cite_note-FOOTNOTEGlasstoneDolan1977299.2C_300.2C_.C2.B6_7.58-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-FOOTNOTEGlasstoneDolan1977299.2C_300.2C_.C2.B6_7.58_41-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFGlasstoneDolan1977">Glasstone &amp; Dolan 1977</a>, pp. 299, 300, ¶ 7.58.</span></li>
+<li id="cite_note-USAFHD-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-USAFHD_42-0">^</a></b></span> <span class="reference-text">Angell (1953)</span></li>
+<li id="cite_note-osti.gov-43"><span class="mw-cite-backlink"><b><a href="#cite_ref-osti.gov_43-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.osti.gov/bridge/product.biblio.jsp?osti_id=4421057" rel="nofollow">"MEDICAL EFFECTS OF ATOMIC BOMBS THE REPORT OF THE JOINT COMMISSION FOR THE INVESTIGATION OF THE EFFECTS OF THE ATOMIC BOMB IN JAPAN VOLUME 1 (Technical Report) | SciTech Connect"</a>. <i>Osti.gov</i>. 1951-04-19<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=MEDICAL+EFFECTS+OF+ATOMIC+BOMBS+THE+REPORT+OF+THE+JOINT+COMMISSION+FOR+THE+INVESTIGATION+OF+THE+EFFECTS+OF+THE+ATOMIC+BOMB+IN+JAPAN+VOLUME+1+%28Technical+Report%29+%26%23124%3B+SciTech+Connect&amp;rft.date=1951-04-19&amp;rft.genre=unknown&amp;rft.jtitle=Osti.gov&amp;rft_id=http%3A%2F%2Fwww.osti.gov%2Fbridge%2Fproduct.biblio.jsp%3Fosti_id%3D4421057&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-44"><span class="mw-cite-backlink"><b><a href="#cite_ref-44">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.dtic.mil/cgi-bin/GetTRDoc?Location=U2&amp;doc=GetTRDoc.pdf&amp;AD=AD0616638" rel="nofollow">"On page 31 of Exploratory analysis of Firestorms. It was reported that the weight of fuel per acre in several California cities is 70 to 100 tons per acre. This amounts to about 3.5 to 5 pounds per square foot of fire area (~20 kg per square meter)"</a> <span style="font-size:85%;">(PDF)</span>. <i>Dtic.mil</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=On+page+31+of+Exploratory+analysis+of+Firestorms.+It+was+reported+that+the+weight+of+fuel+per+acre+in+several+California+cities+is+70+to+100+tons+per+acre.+This+amounts+to+about+3.5+to+5+pounds+per+square+foot+of+fire+area+%28~20+kg+per+square+meter%29&amp;rft.genre=unknown&amp;rft.jtitle=Dtic.mil&amp;rft_id=http%3A%2F%2Fwww.dtic.mil%2Fcgi-bin%2FGetTRDoc%3FLocation%3DU2%26doc%3DGetTRDoc.pdf%26AD%3DAD0616638&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-45"><span class="mw-cite-backlink"><b><a href="#cite_ref-45">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nfpa.org/assets/files/pdf/research/rffireloadsurveymethodologies.pdf" rel="nofollow">"Canadian cities fuel loading from <i>Validation of Methodologies to Determine Fire Load for Use in Structural Fire Protection</i>"</a> <span style="font-size:85%;">(PDF)</span>. <i>Nfpa.org</i>. 2011. p. 42<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>. <q>The mean fire load density in buildings, from the most accurate weighing method, was found to be 530 MJ/m^2. The fire load density of a building can be directly converted into building fuel load density as outlined in the document with <a href="/wiki/Wood" title="Wood">Wood</a> having a <a href="/wiki/Specific_energy" title="Specific energy">specific energy</a> of ~18 MJ/kg. Thus 530/18 = 29 kg/m^2 of building fuel loading. This, again, is below the necessary 40kg/m^2 needed for a firestorm, even before the open spaces between buildings are included/before the corrective builtupness factor is applied and the all-important fire area fuel loading is found</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Canadian+cities+fuel+loading+from+Validation+of+Methodologies+to+Determine+Fire+Load+for+Use+in+Structural+Fire+Protection&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft.jtitle=Nfpa.org&amp;rft.pages=42&amp;rft_id=http%3A%2F%2Fwww.nfpa.org%2Fassets%2Ffiles%2Fpdf%2Fresearch%2Frffireloadsurveymethodologies.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-46"><span class="mw-cite-backlink"><b><a href="#cite_ref-46">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://fire.nist.gov/bfrlpubs/fire06/PDF/f06014.pdf" rel="nofollow">"Determining Design Fires for Design-level and Extreme Events, SFPE 6th International Conference on Performance-Based Codes and Fire Safety Design Methods"</a> <span style="font-size:85%;">(PDF)</span>. <i>Fire.nist.gov</i>. 14 June 2006. p. 3<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>. <q>The .90 fractile of buildings in Switzerland (that is 90% of buildings surveyed fall under the stated fire loading figure) had 'fuel loadings below the crucial 8 lb/sqft or 40 kg/m^2 density'. The .90 fractile is found by multiplying the mean value found by 1.65. Keep in mind, none of these figures even take the builtupness factor into consideration, thus the all-important <i>fire area</i> fuel loading is not presented, that is, the area including the open spaces between buildings. Unless otherwise stated within the publications, the data presented is individual building fuel loadings and not the essential <i>fire area</i> fuel loadings. As a point of example, a city with buildings of a mean fuel loading of 40kg/m^2 but with a builtupness factor of 70%, with the rest of the city area covered by pavements, etc., would have a fire area fuel loading of 0.7*40kg/m^2 present, or 28 kg/m^2 of fuel loading in the fire area. As the fuel load density publications generally do not specify the builtupness factor of the metropolis where the buildings were surveyed, one can safely assume that the <i>fire area</i> fuel loading would be some factor less if builtupness was taken into account</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Determining+Design+Fires+for+Design-level+and+Extreme+Events%2C+SFPE+6th+International+Conference+on+Performance-Based+Codes+and+Fire+Safety+Design+Methods&amp;rft.date=2006-06-14&amp;rft.genre=unknown&amp;rft.jtitle=Fire.nist.gov&amp;rft.pages=3&amp;rft_id=http%3A%2F%2Ffire.nist.gov%2Fbfrlpubs%2Ffire06%2FPDF%2Ff06014.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-47"><span class="mw-cite-backlink"><b><a href="#cite_ref-47">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.scribd.com/doc/49221078/18-Fire-in-WW-II" rel="nofollow">"<span style="padding-left:0.2em;">'</span>The Cold War: Who won? This ebook cites the firebombing reported in Horatio Bond's book <i>Fire in the Air War</i> National Fire Protection Association, 1946, p. 125 – Why didn’t Berlin suffer a mass fire? The table on pg 88 of <i>Cold War: Who Won?</i> was sourced from the same 1946 book by Horatio Bond <i>Fire in the Air War</i> pg 87 and 598"</a>. <i>Scribd.com</i>. <a href="/wiki/Amazon_Standard_Identification_Number" title="Amazon Standard Identification Number">ASIN</a> <a class="external text" href="//www.amazon.com/dp/B000I30O32" rel="nofollow">B000I30O32</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=%27The+Cold+War%3A+Who+won%3F+This+ebook+cites+the+firebombing+reported+in+Horatio+Bond%27s++book+Fire+in+the+Air+War+National+Fire+Protection+Association%2C+1946%2C+p.+125+%E2%80%93+Why+didn%E2%80%99t+Berlin+suffer+a+mass+fire%3F+The+table+on+pg+88+of+Cold+War%3A+Who+Won%3F+was+sourced+from+the+same+1946+book+by+Horatio+Bond+Fire+in+the+Air+War+pg+87+and+598&amp;rft.genre=unknown&amp;rft.jtitle=Scribd.com&amp;rft_id=https%3A%2F%2Fwww.scribd.com%2Fdoc%2F49221078%2F18-Fire-in-WW-II&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-The_Effects_of_Nuclear_Weapons-48"><span class="mw-cite-backlink">^ <a href="#cite_ref-The_Effects_of_Nuclear_Weapons_48-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-The_Effects_of_Nuclear_Weapons_48-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-The_Effects_of_Nuclear_Weapons_48-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation" id="CITEREFGlasstoneDolan1977">Glasstone, Samuel; Dolan, Philip J., eds. (1977), <a class="external text" href="http://www.fourmilab.ch/etexts/www/effects/eonw_7.pdf#zoom=100" rel="nofollow">"<span style="padding-left:0.2em;">"</span>Chapter VII — Thermal Radiation and Its Effects"</a> <span style="font-size:85%;">(PDF)</span>, <a class="external text" href="http://www.fourmilab.ch/etexts/www/effects/" rel="nofollow"><i>The Effects of Nuclear Weapons</i></a> (Third ed.), United States Department of Defense and the Energy Research and Development Administration, pp. 300, § "Mass Fires" ¶ 7.61</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=%22Chapter+VII+%E2%80%94+Thermal+Radiation+and+Its+Effects&amp;rft.btitle=The+Effects+of+Nuclear+Weapons&amp;rft.date=1977&amp;rft.edition=Third&amp;rft.genre=bookitem&amp;rft.pages=300%2C+%C2%A7+%22Mass+Fires%22+%C2%B6+7.61&amp;rft.pub=United+States+Department+of+Defense+and+the+Energy+Research+and+Development+Administration&amp;rft_id=http%3A%2F%2Fwww.fourmilab.ch%2Fetexts%2Fwww%2Feffects%2Feonw_7.pdf%23zoom%3D100&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-here-49"><span class="mw-cite-backlink">^ <a href="#cite_ref-here_49-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-here_49-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book" id="CITEREFD.27Olier1946"><a href="/wiki/Franklin_D%27Olier" title="Franklin D'Olier">D'Olier, Franklin</a>, ed. (1946). <a class="external text" href="http://www.anesi.com/ussbs01.htm" rel="nofollow"><i>United States Strategic Bombing Survey, Summary Report (Pacific War)</i></a>. Washington: United States Government Printing Office<span class="reference-accessdate">. Retrieved <span class="nowrap">November 6,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.btitle=United+States+Strategic+Bombing+Survey%2C+Summary+Report+%28Pacific+War%29&amp;rft.date=1946&amp;rft.genre=book&amp;rft.place=Washington&amp;rft.pub=United+States+Government+Printing+Office&amp;rft_id=http%3A%2F%2Fwww.anesi.com%2Fussbs01.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-50"><span class="mw-cite-backlink"><b><a href="#cite_ref-50">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://marshall.csu.edu.au/Marshalls/html/WWII/USSBS_Summary.html" rel="nofollow">"United States Strategic Bombing Survey, Summary Report"</a>. <i>Marshall.csu.edu.au</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-05-11</span></span>. <q>'+would have required 220 B-29s carrying 1,200 tons of incendiary bombs, 400 tons of high-explosive bombs, and 500 tons of anti-personnel fragmentation bombs, if conventional weapons, rather than an atomic bomb, had been used. One hundred and twenty-five B-29s carrying 1,200 tons of bombs (Page 25 ) would have been required to approximate the damage and casualties at Nagasaki. This estimate pre-supposed bombing under conditions similar to those existing when the atomic bombs were dropped and bombing accuracy equal to the average attained by the Twentieth Air Force during the last 3 months of the war</q><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=United+States+Strategic+Bombing+Survey%2C+Summary+Report&amp;rft.genre=unknown&amp;rft.jtitle=Marshall.csu.edu.au&amp;rft_id=http%3A%2F%2Fmarshall.csu.edu.au%2FMarshalls%2Fhtml%2FWWII%2FUSSBS_Summary.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></cite></span></li>
+<li id="cite_note-51"><span class="mw-cite-backlink"><b><a href="#cite_ref-51">^</a></b></span>
+<ul>
+<li><span class="reference-text">Angell (1953) The number of bombers and tonnage of bombs are taken from a USAF document written in 1953 and classified secret until 1978.</span></li>
+<li><span class="reference-text">Bomber Command <a href="/wiki/Sir_Arthur_Harris,_1st_Baronet" title="Sir Arthur Harris, 1st Baronet">Arthur Harris</a>'s report, <a class="external text" href="http://www.learningcurve.gov.uk/heroesvillains/g1/cs3/g1cs3s1.htm" rel="nofollow">"Extract from the official account of Bomber Command by Arthur Harris, 1945"</a> <a class="external text" href="https://web.archive.org/web/20081203220157/http://www.learningcurve.gov.uk/heroesvillains/g1/cs3/g1cs3s1.htm" rel="nofollow">Archived</a> 3 December 2008 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>., National Archives, Catalogue ref: AIR 16/487, which states that <b>more than</b> 1,600 acres (6.5 km<sup>2</sup>) were destroyed.</span></li>
+</ul>
+</li>
+<li id="cite_note-52"><span class="mw-cite-backlink"><b><a href="#cite_ref-52">^</a></b></span>
+<ul>
+<li><span class="reference-text">Angell (1953) The number of bombers and tonnage of bombs are taken from a USAF document written in 1953 and classified secret until 1978. Also see Taylor (2005), front flap, which gives the figures 1,100 heavy bombers and 4,500 tons.</span></li>
+</ul>
+</li>
+<li id="cite_note-Laurence_M._Vance-53"><span class="mw-cite-backlink">^ <a href="#cite_ref-Laurence_M._Vance_53-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Laurence_M._Vance_53-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Laurence M. Vance (14 August 2009). <a class="external text" href="https://web.archive.org/web/20121113021343/http://fff.org/comment/com0908j.asp" rel="nofollow">"Bombings Worse than Nagasaki and Hiroshima"</a>. <i>The Future of Freedom Foundation</i>. Archived from <a class="external text" href="http://www.fff.org/comment/com0908j.asp" rel="nofollow">the original</a> on 13 November 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=Bombings+Worse+than+Nagasaki+and+Hiroshima&amp;rft.au=Laurence+M.+Vance&amp;rft.date=2009-08-14&amp;rft.genre=unknown&amp;rft.jtitle=The+Future+of+Freedom+Foundation&amp;rft_id=http%3A%2F%2Fwww.fff.org%2Fcomment%2Fcom0908j.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Joseph_Coleman-54"><span class="mw-cite-backlink">^ <a href="#cite_ref-Joseph_Coleman_54-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Joseph_Coleman_54-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation news">Joseph Coleman (10 March 2005). <a class="external text" href="http://www.commondreams.org/headlines05/0310-08.htm" rel="nofollow">"1945 Tokyo Firebombing Left Legacy of Terror, Pain"</a>. CommonDreams.org. Associated Press<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=1945+Tokyo+Firebombing+Left+Legacy+of+Terror%2C+Pain&amp;rft.au=Joseph+Coleman&amp;rft.date=2005-03-10&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.commondreams.org%2Fheadlines05%2F0310-08.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-55"><span class="mw-cite-backlink"><b><a href="#cite_ref-55">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://www.flightglobal.com/pdfarchive/view/1946/1946%20-%200061.html" rel="nofollow">"News in Brief"</a>. <i>Flight</i>: 33. 10 January 1946.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=News+in+Brief&amp;rft.date=1946-01-10&amp;rft.genre=article&amp;rft.jtitle=Flight&amp;rft.pages=33&amp;rft_id=http%3A%2F%2Fwww.flightglobal.com%2Fpdfarchive%2Fview%2F1946%2F1946%2520-%25200061.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-deadliest-56"><span class="mw-cite-backlink"><b><a href="#cite_ref-deadliest_56-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.wired.com/thisdayintech/2011/03/0309incendiary-bombs-kill-100000-tokyo/" rel="nofollow">"March 9, 1945: Burning the Heart Out of the Enemy"</a>. <i>Wired Digital</i>. 9 March 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">8 August</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=March+9%2C+1945%3A+Burning+the+Heart+Out+of+the+Enemy&amp;rft.date=2011-03-09&amp;rft.genre=unknown&amp;rft.jtitle=Wired++Digital&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Fthisdayintech%2F2011%2F03%2F0309incendiary-bombs-kill-100000-tokyo%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-57"><span class="mw-cite-backlink"><b><a href="#cite_ref-57">^</a></b></span> <span class="reference-text"><cite class="citation book">Kolko, Gabriel (1990) [1968]. <i>The Politics of War: The World and United States Foreign Policy, 1943–1945</i>. pp. 539–40.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.aufirst=Gabriel&amp;rft.aulast=Kolko&amp;rft.btitle=The+Politics+of+War%3A+The+World+and+United+States+Foreign+Policy%2C+1943%E2%80%931945&amp;rft.date=1990&amp;rft.genre=book&amp;rft.pages=539-40&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-De-Bruhl-210-11-58"><span class="mw-cite-backlink"><b><a href="#cite_ref-De-Bruhl-210-11_58-0">^</a></b></span> <span class="reference-text">De Bruhl (2006), pp. 210–11.</span></li>
+<li id="cite_note-Taylor-287-365-59"><span class="mw-cite-backlink"><b><a href="#cite_ref-Taylor-287-365_59-0">^</a></b></span> <span class="reference-text">Taylor, Bloomsbury 2005, pp. 287,296,365.</span></li>
+<li id="cite_note-Longmate162-4-60"><span class="mw-cite-backlink"><b><a href="#cite_ref-Longmate162-4_60-0">^</a></b></span> <span class="reference-text">Longmate (1983), pp. 162–4.</span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Firestorm&amp;action=edit&amp;section=10" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><cite class="citation" id="CITEREFAmerican_National_Fire_Protection_Association2005">American National Fire Protection Association (2005), Scawthorn, Charles; Eidinger, John M.; Schiff, Anshel J., eds., <i>Fire Following Earthquake</i>, Issue 26 of Monograph (American Society of Civil Engineers. Technical Council on Lifeline Earthquake Engineering), American Society of Civil Engineers Technical Council on Lifeline Earthquake Engineering (illustrated ed.), ASCE Publications, p. <a class="external text" href="https://books.google.com/books?id=IWW8qOXd6sgC&amp;pg=PA68#v=onepage&amp;q&amp;f=false" rel="nofollow">68</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7844-0739-4" title="Special:BookSources/978-0-7844-0739-4">978-0-7844-0739-4</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=American+National+Fire+Protection+Association&amp;rft.btitle=Fire+Following+Earthquake&amp;rft.date=2005&amp;rft.edition=illustrated&amp;rft.genre=book&amp;rft.isbn=978-0-7844-0739-4&amp;rft.pages=68&amp;rft.pub=ASCE+Publications&amp;rft.series=Issue+26+of+Monograph+%28American+Society+of+Civil+Engineers.+Technical+Council+on+Lifeline+Earthquake+Engineering%29%2C+American+Society+of+Civil+Engineers+Technical+Council+on+Lifeline+Earthquake+Engineering&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFDe_Bruhl2006">De Bruhl, Marshall (2006), <i>Firestorm: Allied Airpower and the Destruction of Dresden</i>, Random House, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0679435341" title="Special:BookSources/978-0679435341">978-0679435341</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.aufirst=Marshall&amp;rft.aulast=De+Bruhl&amp;rft.btitle=Firestorm%3A+Allied+Airpower+and+the+Destruction+of+Dresden&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0679435341&amp;rft.pub=Random+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFGessLutz2003">Gess, Denise; Lutz, William (2003) [2002], <i>Firestorm at Peshtigo: A Town, Its People, and the Deadliest Fire in American History</i>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-8050-7293-8" title="Special:BookSources/978-0-8050-7293-8">978-0-8050-7293-8</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=Lutz%2C+William&amp;rft.aufirst=Denise&amp;rft.aulast=Gess&amp;rft.btitle=Firestorm+at+Peshtigo%3A+A+Town%2C+Its+People%2C+and+the+Deadliest+Fire+in+American+History&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=978-0-8050-7293-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFGlasstoneDolan1977">Glasstone, Samuel; Dolan, Philip J., eds. (1977), <a class="external text" href="http://www.fourmilab.ch/etexts/www/effects/eonw_7.pdf#zoom=100" rel="nofollow">"<span style="padding-left:0.2em;">"</span>Chapter VII — Thermal Radiation and Its Effects"</a> <span style="font-size:85%;">(PDF)</span>, <a class="external text" href="http://www.fourmilab.ch/etexts/www/effects/" rel="nofollow"><i>The Effects of Nuclear Weapons</i></a> (Third ed.), United States Department of Defense and the Energy Research and Development Administration, pp. 299, 300, § "Mass Fires" ¶ 7.58</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.atitle=%22Chapter+VII+%E2%80%94+Thermal+Radiation+and+Its+Effects&amp;rft.btitle=The+Effects+of+Nuclear+Weapons&amp;rft.date=1977&amp;rft.edition=Third&amp;rft.genre=bookitem&amp;rft.pages=299%2C+300%2C+%C2%A7+%22Mass+Fires%22+%C2%B6+7.58&amp;rft.pub=United+States+Department+of+Defense+and+the+Energy+Research+and+Development+Administration&amp;rft_id=http%3A%2F%2Fwww.fourmilab.ch%2Fetexts%2Fwww%2Feffects%2Feonw_7.pdf%23zoom%3D100&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFFranklandWebster1961">Frankland, Noble; Webster, Charles (1961), <i>The Strategic Air Offensive Against Germany, 1939–1945, Volume II: Endeavour, Part 4</i>, London: Her Majesty's Stationery Office, pp. 260–261</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=Webster%2C+Charles&amp;rft.aufirst=Noble&amp;rft.aulast=Frankland&amp;rft.btitle=The+Strategic+Air+Offensive+Against+Germany%2C+1939%E2%80%931945%2C+Volume+II%3A+Endeavour%2C+Part+4&amp;rft.date=1961&amp;rft.genre=book&amp;rft.pages=260-261&amp;rft.place=London&amp;rft.pub=Her+Majesty%27s+Stationery+Office&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFHafemeister1991">Hafemeister, David W, ed. (1991), <i>Physics and Nuclear Arms Today</i>, Issue 4 of Readings from Physics Today (illustrated ed.), Springer, p. <a class="external text" href="https://books.google.com/books?id=Hckys7gpwl4C&amp;pg=PA24&amp;lpg=PA24#v=onepage&amp;q&amp;f=false" rel="nofollow">24</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-88318-640-4" title="Special:BookSources/978-0-88318-640-4">978-0-88318-640-4</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.btitle=Physics+and+Nuclear+Arms+Today&amp;rft.date=1991&amp;rft.edition=illustrated&amp;rft.genre=book&amp;rft.isbn=978-0-88318-640-4&amp;rft.pages=24&amp;rft.pub=Springer&amp;rft.series=Issue+4+of+Readings+from+Physics+Today&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFHarris2005">Harris, Arthur (2005), <i>Bomber Offensive</i> (First, Collins 1947 ed.), Pen &amp; Sword military classics, p. 83, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-84415-210-3" title="Special:BookSources/1-84415-210-3">1-84415-210-3</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.aufirst=Arthur&amp;rft.aulast=Harris&amp;rft.btitle=Bomber+Offensive&amp;rft.date=2005&amp;rft.edition=First%2C++Collins+1947&amp;rft.genre=book&amp;rft.isbn=1-84415-210-3&amp;rft.pages=83&amp;rft.pub=Pen+%26+Sword+military+classics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFKartmanBrown1971">Kartman, Ben; Brown, Leonard (1971), <i>Disaster!</i>, Essay Index Reprint Series, Ayer Publishing, p. <a class="external text" href="https://books.google.com/books?id=SZ5oYy4lO5MC&amp;pg=PA48#v=onepage&amp;q&amp;f=false" rel="nofollow">48</a>, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-8369-2280-6" title="Special:BookSources/978-0-8369-2280-6">978-0-8369-2280-6</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=Brown%2C+Leonard&amp;rft.aufirst=Ben&amp;rft.aulast=Kartman&amp;rft.btitle=Disaster%21&amp;rft.date=1971&amp;rft.genre=book&amp;rft.isbn=978-0-8369-2280-6&amp;rft.pages=48&amp;rft.pub=Ayer+Publishing&amp;rft.series=Essay+Index+Reprint+Series&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFMcRaneyMcGahan1980">McRaney, W.; McGahan, J. (6 August 1980), <a class="external text" href="https://web.archive.org/web/20060624185903/http://www.dtra.mil/toolbox/directorates/td/programs/nuclear_personnel/docs/DNATR805512F.pdf" rel="nofollow">Radiation dos reconstruction U.S. occupation forces in Hiroshima and Nagasaki, Japan, 1945–1946 <i>(DNA 5512F) — Final Report for Period 7 March 1980 – 6 August 1980</i></a> <span style="font-size:85%;">(PDF)</span>, Science Applications, Inc, p. 24, archived from <a class="external text" href="http://www.dtra.mil/toolbox/directorates/td/programs/nuclear_personnel/docs/DNATR805512F.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 24 June 2006</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=McGahan%2C+J.&amp;rft.aufirst=W.&amp;rft.aulast=McRaney&amp;rft.btitle=Radiation+dos+reconstruction+U.S.+occupation+forces+in+Hiroshima+and+Nagasaki%2C+Japan%2C+1945%E2%80%931946+%28DNA+5512F%29+%E2%80%94+Final+Report+for+Period+7+March+1980+%E2%80%93+6+August+1980&amp;rft.date=1980-08-06&amp;rft.genre=book&amp;rft.pages=24&amp;rft.pub=Science+Applications%2C+Inc&amp;rft_id=http%3A%2F%2Fwww.dtra.mil%2Ftoolbox%2Fdirectorates%2Ftd%2Fprograms%2Fnuclear_personnel%2Fdocs%2FDNATR805512F.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFNeutznerSch.C3.B6nherrvon_PlatoSchnatz2010">Neutzner, Matthias; Schönherr, Nicole; von Plato, Alexander; Schnatz, Helmut (2010), <a class="external text" href="http://www.dresden.de/media/pdf/infoblaetter/Historikerkommission_Dresden1945_Abschlussbericht_V1_14a.pdf" rel="nofollow"><i>Abschlussbericht der Historikerkommission zu den Luftangriffen auf Dresden zwischen dem 13. und 15. Februar 1945</i></a> <span style="font-size:85%;">(PDF)</span>, Landeshauptstadt Dresden, p. 70<span class="reference-accessdate">, retrieved <span class="nowrap">7 June</span> 2011</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=Sch%C3%B6nherr%2C+Nicole&amp;rft.au=Schnatz%2C+Helmut&amp;rft.au=von+Plato%2C+Alexander&amp;rft.aufirst=Matthias&amp;rft.aulast=Neutzner&amp;rft.btitle=Abschlussbericht+der+Historikerkommission+zu+den+Luftangriffen+auf+Dresden+zwischen+dem+13.+und+15.+Februar+1945&amp;rft.date=2010&amp;rft.genre=book&amp;rft.pages=70&amp;rft.pub=Landeshauptstadt+Dresden&amp;rft_id=http%3A%2F%2Fwww.dresden.de%2Fmedia%2Fpdf%2Finfoblaetter%2FHistorikerkommission_Dresden1945_Abschlussbericht_V1_14a.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFPyne2001">Pyne, Stephen J. (2001), <i>Year of the Fires: The Story of the Great Fires of 1910</i>, Viking-Penguin Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-670-89990-9" title="Special:BookSources/0-670-89990-9">0-670-89990-9</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.aufirst=Stephen+J.&amp;rft.aulast=Pyne&amp;rft.btitle=Year+of+the+Fires%3A+The+Story+of+the+Great+Fires+of+1910&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-670-89990-9&amp;rft.pub=Viking-Penguin+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFWeaverBiko">Weaver, John; Biko, Dan, <a class="external text" href="http://rammb.cira.colostate.edu/visit/fire/video/fire_tornado.html" rel="nofollow"><i>Firestorm Induced Tornado</i></a><span class="reference-accessdate">, retrieved February 2012</span></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFirestorm&amp;rft.au=Biko%2C+Dan&amp;rft.aufirst=John&amp;rft.aulast=Weaver&amp;rft.btitle=Firestorm+Induced+Tornado&amp;rft.genre=book&amp;rft_id=http%3A%2F%2Frammb.cira.colostate.edu%2Fvisit%2Ffire%2Fvideo%2Ffire_tornado.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="font-size:100%">Check date values in: <code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> (<a href="/wiki/Help:CS1_errors#bad_date" title="Help:CS1 errors">help</a>)</span></li>
+</ul>
+<div aria-labelledby="Firefighting" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible expanded navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style="background: #CE2029; color: white;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Firefighting" title="Template:Firefighting"><abbr style=";background: #CE2029; color: white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Firefighting" title="Template talk:Firefighting"><abbr style=";background: #CE2029; color: white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Firefighting&amp;action=edit"><abbr style=";background: #CE2029; color: white;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Firefighting" style="font-size:114%;margin:0 4em"><a href="/wiki/Firefighting" title="Firefighting"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Firefighting</span></a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #e5575f; color: white;"><a href="/wiki/Firefighter" title="Firefighter"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Personnel</span></a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fire_captain" title="Fire captain">Fire captain</a></li>
+<li><a href="/wiki/Fire_chief" title="Fire chief">Fire chief</a></li>
+<li><a href="/wiki/Fire_marshal" title="Fire marshal">Fire marshal</a></li>
+<li><a href="/wiki/Fire_police" title="Fire police">Fire police</a></li>
+<li><a href="/wiki/Handcrew" title="Handcrew">Handcrew</a></li>
+<li><a href="/wiki/Station_officer" title="Station officer">Station officer</a></li>
+<li><a href="/wiki/Volunteer_fire_department" title="Volunteer fire department">Volunteer fire department</a></li>
+<li><a href="/wiki/Women_in_firefighting" title="Women in firefighting">Women in firefighting</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #e5575f; color: white;">Facilities</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fire_department" title="Fire department">Fire department</a>
+<ul>
+<li><a href="/wiki/List_of_fire_departments" title="List of fire departments">List of fire departments</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Fire_lookout_tower" title="Fire lookout tower">Fire lookout tower</a></li>
+<li><a href="/wiki/Fire_station" title="Fire station">Fire station</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #e5575f; color: white;"><a href="/wiki/Firefighting_apparatus" title="Firefighting apparatus"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Apparatus</span></a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airport_crash_tender" title="Airport crash tender">Airport crash tender</a></li>
+<li><a href="/wiki/Fire_bike" title="Fire bike">Fire bike</a></li>
+<li><a href="/wiki/Fire_chief%27s_vehicle" title="Fire chief's vehicle">Fire chief's vehicle</a></li>
+<li><a href="/wiki/Fire_engine" title="Fire engine">Fire engine</a></li>
+<li><a href="/wiki/Firefighting_apparatus" title="Firefighting apparatus">Firefighting apparatus</a></li>
+<li><a href="/wiki/Hazardous_materials_apparatus" title="Hazardous materials apparatus">HazMat</a></li>
+<li><a href="/wiki/Heavy_rescue_vehicle" title="Heavy rescue vehicle">Heavy rescue</a></li>
+<li><a href="/wiki/Light_and_air_unit" title="Light and air unit">Light and air</a></li>
+<li><a href="/wiki/Quint_(fire_apparatus)" title="Quint (fire apparatus)">Quint</a></li>
+<li><a href="/wiki/Water_tender" title="Water tender">Tender</a></li>
+<li><a href="/wiki/Wildland_water_tender" title="Wildland water tender">Wildland tender</a></li>
+<li><a href="/wiki/Wildland_fire_engine" title="Wildland fire engine">Wildland engine</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #e5575f; color: white;"><a href="/wiki/Glossary_of_firefighting_equipment" title="Glossary of firefighting equipment"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Equipment</span></a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bunker_gear" title="Bunker gear">Bunker gear</a></li>
+<li><a href="/wiki/Escape_chair" title="Escape chair">Escape chair</a></li>
+<li><a href="/wiki/Fire_extinguisher" title="Fire extinguisher">Fire extinguisher</a></li>
+<li><a href="/wiki/Fire_hose" title="Fire hose">Fire hose</a></li>
+<li><a href="/wiki/Fire_hydrant" title="Fire hydrant">Fire hydrant</a></li>
+<li><a href="/wiki/Fire_retardant" title="Fire retardant">Fire retardant</a></li>
+<li><a href="/wiki/Fire_shelter" title="Fire shelter">Fire shelter</a></li>
+<li><a href="/wiki/Fireman%27s_pole" title="Fireman's pole">Fireman's pole</a></li>
+<li><a href="/wiki/Fireman%27s_switch" title="Fireman's switch">Fireman's switch</a></li>
+<li><a href="/wiki/Flame_retardant" title="Flame retardant">Flame retardant</a></li>
+<li><a href="/wiki/Fog_nozzle" title="Fog nozzle">Fog nozzle</a></li>
+<li><a href="/wiki/Hard_suction_hose" title="Hard suction hose">Hard suction hose</a></li>
+<li><a href="/wiki/Hazmat_suit" title="Hazmat suit">Hazmat suit</a></li>
+<li><a href="/wiki/Heat_detector" title="Heat detector">Heat detector</a></li>
+<li><a href="/wiki/Nomex" title="Nomex">Nomex</a></li>
+<li><a href="/wiki/PASS_device" title="PASS device">PASS</a></li>
+<li><a href="/wiki/Fire_proximity_suit" title="Fire proximity suit">Proximity suit</a></li>
+<li><a href="/wiki/Self-contained_breathing_apparatus" title="Self-contained breathing apparatus">SCBA</a></li>
+<li><a href="/wiki/Siren_(alarm)" title="Siren (alarm)">Siren</a></li>
+<li><a href="/wiki/Smoke_detector" title="Smoke detector">Smoke detector</a></li>
+<li><a href="/wiki/Thermal_imaging_camera" title="Thermal imaging camera">Thermal imaging camera</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #e5575f; color: white;"><a href="/wiki/Glossary_of_firefighting_equipment" title="Glossary of firefighting equipment"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Terminology</span></a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dead_man_zone" title="Dead man zone">Dead man zone</a></li>
+<li><a href="/wiki/Deluge_gun" title="Deluge gun">Deluge gun</a></li>
+<li><a href="/wiki/Drafting_water" title="Drafting water">Draft</a></li>
+<li><a href="/wiki/Fire_class" title="Fire class">Fire classes</a></li>
+<li><a href="/wiki/Fire_control" title="Fire control">Fire control</a></li>
+<li><a href="/wiki/Fire_safety" title="Fire safety">Fire safety</a></li>
+<li><a href="/wiki/Fire_triangle" title="Fire triangle">Fire triangle</a></li>
+<li><a href="/wiki/Fireman%27s_carry" title="Fireman's carry">Fireman's carry</a></li>
+<li><a href="/wiki/Firewall_(construction)" title="Firewall (construction)">Firewall</a></li>
+<li><a href="/wiki/Flash_fire" title="Flash fire">Flash fire</a></li>
+<li><a href="/wiki/Door_breaching" title="Door breaching">Forcible entry</a></li>
+<li><a href="/wiki/Gaseous_fire_suppression" title="Gaseous fire suppression">Gaseous fire suppression</a></li>
+<li><a href="/wiki/Stop,_drop_and_roll" title="Stop, drop and roll">Stop, drop and roll</a></li>
+<li><a href="/wiki/Structure_fire" title="Structure fire">Structure fire</a></li>
+<li><a href="/wiki/Two-in,_two-out" title="Two-in, two-out">Two-in, two-out</a></li>
+<li><a href="/wiki/Ventilation_(firefighting)" title="Ventilation (firefighting)">Ventilation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #e5575f; color: white;">Miscellaneous</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fire_camp" title="Fire camp">Fire camp</a></li>
+<li><a href="/wiki/Fire_engine_red" title="Fire engine red">Fire engine red</a></li>
+<li><a href="/wiki/Fire_photography" title="Fire photography">Fire photography</a></li>
+<li><a href="/wiki/Fire_protection_engineering" title="Fire protection engineering">Fire protection engineering</a></li>
+<li><a href="/wiki/Firefighting_foam" title="Firefighting foam">Foam</a></li>
+<li><a href="/wiki/Geography_of_firefighting" title="Geography of firefighting">Geography of firefighting</a></li>
+<li><a href="/wiki/History_of_firefighting" title="History of firefighting">History of firefighting</a></li>
+<li><a href="/wiki/International_Association_of_Fire_Fighters" title="International Association of Fire Fighters">International Association of Fire Fighters</a></li>
+<li><a href="/wiki/International_Firefighters%27_Day" title="International Firefighters' Day">International Firefighters' Day</a></li>
+<li><a href="/wiki/List_of_firefighting_films" title="List of firefighting films">List of firefighting films</a></li>
+<li><a href="/wiki/Muster_(event)" title="Muster (event)">Muster</a></li>
+<li><a href="/wiki/Saint_Florian" title="Saint Florian">Saint Florian</a></li>
+<li><a href="/wiki/World_Police_and_Fire_Games" title="World Police and Fire Games">World Police and Fire Games</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #e5575f; color: white;"><a href="/wiki/Wildfire_suppression" title="Wildfire suppression"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;">Wildland<br/>
+firefighting</span></a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #ea797f; color: white;">Equipment<br/>
+and<br/>
+tactics</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aerial_firefighting" title="Aerial firefighting">Aerial firefighting</a></li>
+<li><a href="/wiki/Controlled_burn" title="Controlled burn">Controlled burn</a></li>
+<li><a href="/wiki/Driptorch" title="Driptorch">Driptorch</a></li>
+<li><a href="/wiki/Fire_hose" title="Fire hose">Fire hose</a></li>
+<li><a href="/wiki/Fire_lookout_tower" title="Fire lookout tower">Fire lookout tower</a></li>
+<li><a href="/wiki/Fire_retardant" title="Fire retardant">Fire retardant</a></li>
+<li><a href="/wiki/Fire_retardant_gel" title="Fire retardant gel">Fire retardant gel</a></li>
+<li><a href="/wiki/Fire_trail" title="Fire trail">Fire trail</a></li>
+<li><a href="/wiki/Firebreak" title="Firebreak">Firebreak</a></li>
+<li><a href="/wiki/Firefighting_apparatus" title="Firefighting apparatus">Firefighting apparatus</a></li>
+<li><a href="/wiki/Firefighting_foam" title="Firefighting foam">Firefighting foam</a></li>
+<li><a href="/wiki/Helicopter_bucket" title="Helicopter bucket">Helicopter bucket</a></li>
+<li><a href="/wiki/Hose_pack" title="Hose pack">Hose pack</a></li>
+<li><a href="/wiki/Modular_Airborne_FireFighting_System" title="Modular Airborne FireFighting System">MAFFS</a></li>
+<li><a href="/wiki/Pulaski_(tool)" title="Pulaski (tool)">Pulaski</a></li>
+<li><a href="/wiki/Wildland_fire_engine" title="Wildland fire engine">Wildland fire engine</a></li>
+<li><a href="/wiki/Wildland_water_tender" title="Wildland water tender">Wildland water tender</a></li>
+<li><a href="/wiki/Wildfire_suppression_equipment_and_personnel" title="Wildfire suppression equipment and personnel">Wildfire suppression equipment and personnel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #ea797f; color: white;">Personnel</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Firefighting_apparatus#Crew_assignment" title="Firefighting apparatus">Engine crew</a></li>
+<li><a href="/wiki/Handcrew" title="Handcrew">Handcrew</a></li>
+<li><a href="/wiki/Helitack" title="Helitack">Helitack</a></li>
+<li><a href="/wiki/Interagency_hotshot_crew" title="Interagency hotshot crew">Hotshots</a></li>
+<li><a href="/wiki/Fire_lookout" title="Fire lookout">Lookout</a></li>
+<li><a href="/wiki/Smokejumper" title="Smokejumper">Smokejumper</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #ea797f; color: white;">By location</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bushfires_in_Australia" title="Bushfires in Australia">Australia</a></li>
+<li><a href="/wiki/Wildfires_in_the_United_States" title="Wildfires in the United States">United States</a> (<a href="/wiki/List_of_California_wildfires" title="List of California wildfires">California</a>, <a href="/wiki/List_of_Washington_wildfires" title="List of Washington wildfires">Washington</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;background: #ea797f; color: white;">Lists</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glossary_of_wildfire_terms" title="Glossary of wildfire terms">Glossary of wildfire terms</a></li>
+<li><a href="/wiki/List_of_wildfires" title="List of wildfires">List of wildfires</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background: #CE2029; color: white;">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Firefighting" title="Category:Firefighting"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;"><b>Category</b></span></a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Firefighting" title="commons:Category:Firefighting"><span style="color: white; text-decoration: inherit; -moz-text-decoration-color: white; text-decoration-color: white;"><b>Commons</b></span></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1204
+Cached time: 20171001083447
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.724 seconds
+Real time usage: 0.848 seconds
+Preprocessor visited node count: 4005/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 163853/2097152 bytes
+Template argument size: 5851/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 5/500
+Lua time usage: 0.382/10.000 seconds
+Lua memory usage: 8.56 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  722.528      1 -total
+ 40.20%  290.473      1 Template:Reflist
+ 17.10%  123.539     17 Template:Citation
+ 14.30%  103.300      4 Template:Fix
+ 13.09%   94.584     24 Template:Cite_web
+ 10.38%   75.018      2 Template:Failed_verification
+  7.99%   57.717      4 Template:Delink
+  7.61%   55.020     15 Template:Convert
+  5.77%   41.656      4 Template:Quote
+  5.70%   41.149      6 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:289419-0!canonical and timestamp 20171001083447 and revision id 803233675
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Firestorm&amp;oldid=803233675">https://en.wikipedia.org/w/index.php?title=Firestorm&amp;oldid=803233675</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fire" title="Category:Fire">Fire</a></li><li><a href="/wiki/Category:Wildfire_ecology" title="Category:Wildfire ecology">Wildfire ecology</a></li><li><a href="/wiki/Category:Storm" title="Category:Storm">Storm</a></li><li><a href="/wiki/Category:1906_San_Francisco_earthquake" title="Category:1906 San Francisco earthquake">1906 San Francisco earthquake</a></li><li><a href="/wiki/Category:Firebombings" title="Category:Firebombings">Firebombings</a></li><li><a href="/wiki/Category:Types_of_fire" title="Category:Types of fire">Types of fire</a></li><li><a href="/wiki/Category:Wildfires" title="Category:Wildfires">Wildfires</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Unfit_url" title="Category:CS1 maint: Unfit url">CS1 maint: Unfit url</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_April_2012" title="Category:Use dmy dates from April 2012">Use dmy dates from April 2012</a></li><li><a href="/wiki/Category:All_articles_with_failed_verification" title="Category:All articles with failed verification">All articles with failed verification</a></li><li><a href="/wiki/Category:Articles_with_failed_verification_from_May_2013" title="Category:Articles with failed verification from May 2013">Articles with failed verification from May 2013</a></li><li><a href="/wiki/Category:All_articles_with_specifically_marked_weasel-worded_phrases" title="Category:All articles with specifically marked weasel-worded phrases">All articles with specifically marked weasel-worded phrases</a></li><li><a href="/wiki/Category:Articles_with_specifically_marked_weasel-worded_phrases_from_August_2015" title="Category:Articles with specifically marked weasel-worded phrases from August 2015">Articles with specifically marked weasel-worded phrases from August 2015</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2014" title="Category:Articles with unsourced statements from June 2014">Articles with unsourced statements from June 2014</a></li><li><a href="/wiki/Category:CS1_errors:_dates" title="Category:CS1 errors: dates">CS1 errors: dates</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Firestorm" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Firestorm" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Firestorm" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Firestorm" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Firestorm">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Firestorm&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Firestorm&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Firestorm" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Firestorm" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Firestorm&amp;oldid=803233675" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Firestorm&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q918145" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Firestorm&amp;id=803233675" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Firestorm">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Firestorm&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DFirestorm%26returnto%3DFirestorm%26oldid%3D803233675%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Firestorm&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Fire_whirls" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Vuurstorm" hreflang="af" lang="af" title="Vuurstorm – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D8%A7%D8%B5%D9%81%D8%A9_%D9%86%D8%A7%D8%B1%D9%8A%D8%A9" hreflang="ar" lang="ar" title="عاصفة نارية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%B0_%D0%B1%D1%83%D1%80%D1%8F" hreflang="bg" lang="bg" title="Огнена буря – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Tempesta_de_foc" hreflang="ca" lang="ca" title="Tempesta de foc – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Ohniv%C3%A1_bou%C5%99e" hreflang="cs" lang="cs" title="Ohnivá bouře – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Ildstorm" hreflang="da" lang="da" title="Ildstorm – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Feuersturm" hreflang="de" lang="de" title="Feuersturm – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tormenta_%C3%ADgnea" hreflang="es" lang="es" title="Tormenta ígnea – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Temp%C3%AAte_de_feu" hreflang="fr" lang="fr" title="Tempête de feu – French">Français</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Badai_api" hreflang="id" lang="id" title="Badai api – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Tempesta_di_fuoco" hreflang="it" lang="it" title="Tempesta di fuoco – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%A4%D7%AA_%D7%90%D7%A9" hreflang="he" lang="he" title="סופת אש – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Ribut_api" hreflang="ms" lang="ms" title="Ribut api – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Vuurstorm" hreflang="nl" lang="nl" title="Vuurstorm – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%81%AB%E7%81%BD%E6%97%8B%E9%A2%A8" hreflang="ja" lang="ja" title="火災旋風 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Ildstorm" hreflang="no" lang="no" title="Ildstorm – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Burza_ogniowa" hreflang="pl" lang="pl" title="Burza ogniowa – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Tempestade_%C3%ADgnea" hreflang="pt" lang="pt" title="Tempestade ígnea – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9E%D0%B3%D0%BD%D0%B5%D0%BD%D0%BD%D1%8B%D0%B9_%D1%81%D0%BC%D0%B5%D1%80%D1%87" hreflang="ru" lang="ru" title="Огненный смерч – Russian">Русский</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Ognjeni_vihar" hreflang="sl" lang="sl" title="Ognjeni vihar – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Tulimyrsky" hreflang="fi" lang="fi" title="Tulimyrsky – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Eldstorm" hreflang="sv" lang="sv" title="Eldstorm – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%A8%E0%AF%86%E0%AE%B0%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%AF%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="நெருப்புப்புயல் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Ate%C5%9F_f%C4%B1rt%C4%B1nas%C4%B1" hreflang="tr" lang="tr" title="Ateş fırtınası – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%92%D0%BE%D0%B3%D0%BD%D1%8F%D0%BD%D0%B8%D0%B9_%D1%81%D0%BC%D0%B5%D1%80%D1%87" hreflang="uk" lang="uk" title="Вогняний смерч – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A2%D8%AA%D8%B4%DB%8C_%D8%B7%D9%88%D9%81%D8%A7%D9%86" hreflang="ur" lang="ur" title="آتشی طوفان – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/B%C3%A3o_l%E1%BB%ADa" hreflang="vi" lang="vi" title="Bão lửa – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%81%AB%E7%81%BD%E6%9A%B4%E9%A2%A8" hreflang="zh" lang="zh" title="火災暴風 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q918145#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 October 2017, at 08:34.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Firestorm&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.724","walltime":"0.848","ppvisitednodes":{"value":4005,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":163853,"limit":2097152},"templateargumentsize":{"value":5851,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":5,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  722.528      1 -total"," 40.20%  290.473      1 Template:Reflist"," 17.10%  123.539     17 Template:Citation"," 14.30%  103.300      4 Template:Fix"," 13.09%   94.584     24 Template:Cite_web"," 10.38%   75.018      2 Template:Failed_verification","  7.99%   57.717      4 Template:Delink","  7.61%   55.020     15 Template:Convert","  5.77%   41.656      4 Template:Quote","  5.70%   41.149      6 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.382","limit":"10.000"},"limitreport-memusage":{"value":8974080,"limit":52428800}},"cachereport":{"origin":"mw1204","timestamp":"20171001083447","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":84,"wgHostname":"mw1327"});});</script>
+</body>
+</html>

@@ -1,0 +1,612 @@
+https://en.wikipedia.org/wiki/Inclination
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Orbital inclination - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orbital_inclination","wgTitle":"Orbital inclination","wgCurRevisionId":785865509,"wgRevisionId":785865509,"wgArticleId":56440,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from May 2014","Orbits"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Orbital_inclination","wgRelevantArticleId":56440,"wgRequestId":"WdRsZQpAADwAAJgAfOwAAABF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Inclination","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Orbital_inclination","wgWikibaseItemId":"Q4112212","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orbit1.svg/1200px-Orbit1.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Orbital_inclination" rel="alternate"/>
+<link href="/w/index.php?title=Orbital_inclination&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Orbital_inclination&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Orbital_inclination" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Orbital_inclination rootpage-Orbital_inclination vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Orbital inclination</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Inclination&amp;redirect=no" title="Inclination">Inclination</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"Inclination" redirects here. For other uses, see <a class="mw-disambig" href="/wiki/Inclination_(disambiguation)" title="Inclination (disambiguation)">Inclination (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Orbit1.svg"><img alt="" class="thumbimage" data-file-height="500" data-file-width="555" height="270" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orbit1.svg/300px-Orbit1.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orbit1.svg/450px-Orbit1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Orbit1.svg/600px-Orbit1.svg.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Orbit1.svg" title="Enlarge"></a></div>
+Fig. 1: One view of inclination <i><b>i</b></i> (green) and other <a class="mw-redirect" href="/wiki/Orbital_parameters" title="Orbital parameters">orbital parameters</a></div>
+</div>
+</div>
+<p><b>Orbital inclination</b> measures the tilt of an object's <a href="/wiki/Orbit" title="Orbit">orbit</a> around a celestial body. It is expressed as the <a href="/wiki/Angle" title="Angle">angle</a> between a <a href="/wiki/Plane_of_reference" title="Plane of reference">reference plane</a> and the <a class="mw-redirect" href="/wiki/Orbital_plane" title="Orbital plane">orbital plane</a> or <a class="mw-redirect" href="/wiki/Axis_of_rotation" title="Axis of rotation">axis</a> of direction of the orbiting object.</p>
+<p>For a satellite orbiting the Earth directly above the equator, the plane of the satellite's orbit is the same as the Earth's equatorial plane, and the satellite's orbital inclination is 0°. The general case is that the satellite's orbit is tilted; it spends half an orbit over the northern hemisphere and half over the southern. If the orbit swung between 20° north <a href="/wiki/Latitude" title="Latitude">latitude</a> and 20° south latitude, then its orbital inclination would be 20°.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Orbits"><span class="tocnumber">1</span> <span class="toctext">Orbits</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Natural_and_artificial_satellites"><span class="tocnumber">1.1</span> <span class="toctext">Natural and artificial satellites</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Exoplanets_and_multiple_star_systems"><span class="tocnumber">1.2</span> <span class="toctext">Exoplanets and multiple star systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Other_meaning"><span class="tocnumber">2</span> <span class="toctext">Other meaning</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Calculation"><span class="tocnumber">3</span> <span class="toctext">Calculation</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Orbits">Orbits</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_inclination&amp;action=edit&amp;section=1" title="Edit section: Orbits">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The inclination is one of the six <a href="/wiki/Orbital_elements" title="Orbital elements">orbital elements</a> describing the shape and orientation of a celestial <a href="/wiki/Orbit" title="Orbit">orbit</a>. It is the <a href="/wiki/Angle" title="Angle">angle</a> between the orbital plane and the <a href="/wiki/Plane_of_reference" title="Plane of reference">plane of reference</a>, normally stated in <a href="/wiki/Degree_(angle)" title="Degree (angle)">degrees</a>. For a satellite orbiting a <a href="/wiki/Planet" title="Planet">planet</a>, the plane of reference is usually the plane containing the planet's <a href="/wiki/Equator" title="Equator">equator</a>. For planets in the Solar System, the plane of reference is usually the <a href="/wiki/Ecliptic" title="Ecliptic">ecliptic</a>, the plane in which the Earth orbits the Sun.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> This reference plane is most practical for Earth-based observers. Therefore, Earth's inclination is, by definition, zero.</p>
+<p>Inclination could instead be measured with respect to another plane, such as the <a href="/wiki/Sun" title="Sun">Sun</a>'s equator or the <a href="/wiki/Invariable_plane" title="Invariable plane">invariable plane</a> (the plane that represents the angular momentum of the Solar System, approximately the orbital plane of <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a>).</p>
+<p>Most planetary orbits in the Solar System have relatively small inclinations, both in relation to each other and to the Sun's equator:</p>
+<table class="wikitable" style="margin: 1em auto 1em auto">
+<tr style="background-color:#ccccff;">
+<th colspan="12" style="background:#dddddd;">Inclination</th>
+</tr>
+<tr style="font-size: smaller;">
+<th></th>
+<th>Name</th>
+<th>Inclination<br/>
+to <a href="/wiki/Ecliptic" title="Ecliptic">ecliptic</a></th>
+<th><a class="mw-selflink selflink">Inclination<br/>
+to Sun's equator</a></th>
+<th>Inclination<br/>
+to <a href="/wiki/Invariable_plane" title="Invariable plane">invariable plane</a><sup class="reference" id="cite_ref-meanplane_3-0"><a href="#cite_note-meanplane-3">[3]</a></sup></th>
+</tr>
+<tr style="text-align:center;">
+<th rowspan="4" style="background: #DDEEFF;"><a href="/wiki/Terrestrial_planet" title="Terrestrial planet">Terrestrials</a></th>
+<td style="text-align:left;"><a href="/wiki/Mercury_(planet)" title="Mercury (planet)">Mercury</a></td>
+<td>7.01°</td>
+<td>3.38°</td>
+<td>6.34°</td>
+</tr>
+<tr style="text-align:center;">
+<td style="text-align:left;"><a href="/wiki/Venus" title="Venus">Venus</a></td>
+<td>3.39°</td>
+<td>3.86°</td>
+<td>2.19°</td>
+</tr>
+<tr style="text-align:center;">
+<td style="text-align:left;"><a href="/wiki/Earth" title="Earth">Earth</a></td>
+<td>0</td>
+<td>7.155°</td>
+<td>1.57°</td>
+</tr>
+<tr style="text-align:center;">
+<td style="text-align:left;"><a href="/wiki/Mars" title="Mars">Mars</a></td>
+<td>1.85°</td>
+<td>5.65°</td>
+<td>1.67°</td>
+</tr>
+<tr style="text-align:center;">
+<th rowspan="4" style="background: #DDEEFF;"><a href="/wiki/Gas_giant" title="Gas giant">Gas giants</a></th>
+<td style="text-align:left;"><a href="/wiki/Jupiter" title="Jupiter">Jupiter</a></td>
+<td>1.31°</td>
+<td>6.09°</td>
+<td>0.32°</td>
+</tr>
+<tr style="text-align:center;">
+<td style="text-align:left;"><a href="/wiki/Saturn" title="Saturn">Saturn</a></td>
+<td>2.49°</td>
+<td>5.51°</td>
+<td>0.93°</td>
+</tr>
+<tr style="text-align:center;">
+<td style="text-align:left;"><a href="/wiki/Uranus" title="Uranus">Uranus</a></td>
+<td>0.77°</td>
+<td>6.48°</td>
+<td>1.02°</td>
+</tr>
+<tr style="text-align:center;">
+<td style="text-align:left;"><a href="/wiki/Neptune" title="Neptune">Neptune</a></td>
+<td>1.77°</td>
+<td>6.43°</td>
+<td>0.72°</td>
+</tr>
+</table>
+<p>On the other hand, the <a href="/wiki/Dwarf_planet" title="Dwarf planet">dwarf planets</a> <a href="/wiki/Pluto" title="Pluto">Pluto</a> and <a href="/wiki/Eris_(dwarf_planet)" title="Eris (dwarf planet)">Eris</a> have inclinations to the ecliptic of 17° and 44° respectively, and the large <a href="/wiki/Asteroid" title="Asteroid">asteroid</a> <a href="/wiki/2_Pallas" title="2 Pallas">Pallas</a> is inclined at 34°.</p>
+<h3><span class="mw-headline" id="Natural_and_artificial_satellites">Natural and artificial satellites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_inclination&amp;action=edit&amp;section=2" title="Edit section: Natural and artificial satellites">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The inclination of orbits of <a href="/wiki/Natural_satellite" title="Natural satellite">natural</a> or <a class="mw-redirect" href="/wiki/Artificial_satellite" title="Artificial satellite">artificial satellites</a> is measured relative to the equatorial plane of the body they orbit, if they orbit sufficiently closely. The equatorial plane is the plane perpendicular to the axis of rotation of the central body.</p>
+<p>An inclination of 30° could also be described using an angle of 150°. The convention is that the normal orbit is <a class="mw-redirect" href="/wiki/Direct_motion" title="Direct motion">prograde</a>, an orbit in the same direction as the planet rotates. Inclinations greater than 90° describe <a class="mw-redirect" href="/wiki/Retrograde_motion" title="Retrograde motion">retrograde orbits</a>. Thus:</p>
+<ul>
+<li>An inclination of 0° means the orbiting body has a prograde orbit in the planet's equatorial plane.</li>
+<li>An inclination greater than 0° and less than 90° also describe prograde orbits.</li>
+<li>An inclination of 63.4° is often called a <b>critical inclination</b>, when describing artificial satellites orbiting the Earth, because they have zero apogee drift.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></li>
+<li>An inclination of exactly 90° is a polar orbit, in which the spacecraft passes over the north and south poles of the planet.</li>
+<li>An inclination greater than 90° and less than 180° is a retrograde orbit.</li>
+<li>An inclination of exactly 180° is a retrograde equatorial orbit.</li>
+</ul>
+<p>For impact-generated moons of <a href="/wiki/Terrestrial_planet" title="Terrestrial planet">terrestrial planets</a> not too far from their star, with a large planet–moon distance, the orbital planes of moons tend to be aligned with the planet's orbit around the star due to tides from the star, but if the planet–moon distance is small, it may be inclined. For <a href="/wiki/Gas_giant" title="Gas giant">gas giants</a>, the orbits of moons tend to be aligned with the giant planet's equator, because these formed in circumplanetary disks.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Exoplanets_and_multiple_star_systems">Exoplanets and multiple star systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_inclination&amp;action=edit&amp;section=3" title="Edit section: Exoplanets and multiple star systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The inclination of <a href="/wiki/Exoplanet" title="Exoplanet">exoplanets</a> or members of <a href="/wiki/Star_system" title="Star system">multiple stars</a> is the angle of the plane of the orbit relative to the plane perpendicular to the line-of-sight from Earth to the object.</p>
+<ul>
+<li>An inclination of 0° is a face-on orbit, meaning the plane of its orbit is parallel to the sky.</li>
+<li>An inclination of 90° is an edge-on orbit, meaning the plane of its orbit is perpendicular to the sky.</li>
+</ul>
+<p>Since the word 'inclination' is used in exoplanet studies for this line-of-sight inclination then the angle between the planet's orbit and the star's rotation must use a different word and is termed the spin-orbit angle or spin-orbit alignment. In most cases the orientation of the star's rotational axis is unknown.</p>
+<p>Because the <a href="/wiki/Doppler_spectroscopy" title="Doppler spectroscopy">radial-velocity method</a> more easily finds planets with orbits closer to edge-on, most exoplanets found by this method have inclinations between 45° and 135°, although in most cases the inclination is not known. Consequently, most exoplanets found by radial velocity have <a href="/wiki/Binary_mass_function" title="Binary mass function">true masses</a> no more than 40% greater than their <a href="/wiki/Minimum_mass" title="Minimum mass">minimum masses</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2014)">citation needed</span></a></i>]</sup> If the orbit is almost face-on, especially for superjovians detected by radial velocity, then those objects may actually be <a href="/wiki/Brown_dwarf" title="Brown dwarf">brown dwarfs</a> or even <a href="/wiki/Red_dwarf" title="Red dwarf">red dwarfs</a>. One particular example is <a href="/wiki/HD_33636" title="HD 33636">HD 33636</a> B, which has true mass 142 M<sub>J</sub>, corresponding to an M6V star, while its minimum mass was 9.28 M<sub>J</sub>.</p>
+<p>If the orbit is almost edge-on, then the planet can be seen <a class="mw-redirect" href="/wiki/Transit_method" title="Transit method">transiting</a> its star.</p>
+<h2><span class="mw-headline" id="Other_meaning">Other meaning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_inclination&amp;action=edit&amp;section=4" title="Edit section: Other meaning">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For planets and other rotating celestial bodies, the angle of the equatorial plane relative to the orbital plane — such as the tilt of the Earth's poles toward or away from the Sun — is sometimes also called inclination, but less ambiguous terms are <a href="/wiki/Axial_tilt" title="Axial tilt">axial tilt</a> or obliquity.</p>
+<h2><span class="mw-headline" id="Calculation">Calculation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_inclination&amp;action=edit&amp;section=5" title="Edit section: Calculation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Orbital_inclination_from_momentum_vector.gif"><img alt="" class="thumbimage" data-file-height="291" data-file-width="389" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Orbital_inclination_from_momentum_vector.gif/220px-Orbital_inclination_from_momentum_vector.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Orbital_inclination_from_momentum_vector.gif/330px-Orbital_inclination_from_momentum_vector.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/2/28/Orbital_inclination_from_momentum_vector.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Orbital_inclination_from_momentum_vector.gif" title="Enlarge"></a></div>
+Components of the calculation of the orbital inclination from the momentum vector</div>
+</div>
+</div>
+<p>In <a class="mw-redirect" href="/wiki/Astrodynamics" title="Astrodynamics">astrodynamics</a>, the inclination <i>i</i> can be computed from the <a class="mw-redirect" href="/wiki/Orbital_momentum_vector" title="Orbital momentum vector">orbital momentum vector</a> <b>h</b> (or any vector perpendicular to the <a href="/wiki/Orbital_plane_(astronomy)" title="Orbital plane (astronomy)">orbital plane</a>) as</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>i</mi>
+<mo>=</mo>
+<mi>arccos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>|</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">h</mi>
+</mrow>
+<mo>|</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle i=\arccos {h_{z} \over \left|\mathbf {h} \right|}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle i=\arccos {h_{z} \over \left|\mathbf {h} \right|}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d41cbc5f8fb2a6b4bbebad531af2bd32136a2dc" style="vertical-align: -2.671ex; width:14.236ex; height:6.176ex;"/></span>,</dd>
+</dl>
+<p>where <i>h<sub>z</sub></i> is the <i>z</i>-component of <b>h</b>.</p>
+<p>Mutual inclination of two orbits may be calculated from their inclinations to another plane using <a href="/wiki/Spherical_law_of_cosines" title="Spherical law of cosines">cosine rule for angles</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_inclination&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/inclination" title="wiktionary:inclination">inclination</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Altitude_(astronomy)" title="Altitude (astronomy)">Altitude (astronomy)</a></li>
+<li><a href="/wiki/Axial_tilt" title="Axial tilt">Axial tilt</a></li>
+<li><a href="/wiki/Azimuth" title="Azimuth">Azimuth</a></li>
+<li><a class="mw-redirect" href="/wiki/Beta_Angle" title="Beta Angle">Beta Angle</a></li>
+<li><a href="/wiki/Kepler_orbit" title="Kepler orbit">Kepler orbits</a></li>
+<li><a class="mw-redirect" href="/wiki/Kozai_effect" title="Kozai effect">Kozai effect</a></li>
+<li><a href="/wiki/Orbital_inclination_change" title="Orbital inclination change">Orbital inclination change</a></li>
+<li><a href="/wiki/Space_Shuttle_Columbia_disaster#Possible_emergency_procedures" title="Space Shuttle Columbia disaster">Space Shuttle Columbia disaster: Possible emergency procedures</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_inclination&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Chobotov, Vladimir A. (2002). <i>Orbital Mechanics</i> (3rd ed.). AIAA. pp. 28–30;. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56347-537-5" title="Special:BookSources/1-56347-537-5">1-56347-537-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+inclination&amp;rft.aufirst=Vladimir+A.&amp;rft.aulast=Chobotov&amp;rft.btitle=Orbital+Mechanics&amp;rft.date=2002&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=1-56347-537-5&amp;rft.pages=28-30%3B&amp;rft.pub=AIAA&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">McBride, Neil; Bland, Philip A.; Gilmour, Iain (2004). <i>An Introduction to the Solar System</i>. Cambridge University Press. p. 248. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-54620-6" title="Special:BookSources/0-521-54620-6">0-521-54620-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+inclination&amp;rft.au=Bland%2C+Philip+A.&amp;rft.au=Gilmour%2C+Iain&amp;rft.au=McBride%2C+Neil&amp;rft.btitle=An+Introduction+to+the+Solar+System&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-521-54620-6&amp;rft.pages=248&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-meanplane-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-meanplane_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://home.surewest.net/kpheider/astro/MeanPlane.gif" rel="nofollow">"The MeanPlane (Invariable plane) of the Solar System passing through the barycenter"</a>. 2009-04-03<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-04-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+inclination&amp;rft.btitle=The+MeanPlane+%28Invariable+plane%29+of+the+Solar+System+passing+through+the+barycenter&amp;rft.date=2009-04-03&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fhome.surewest.net%2Fkpheider%2Fastro%2FMeanPlane.gif&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> (produced with <a class="external text" href="http://chemistry.unina.it/~alvitagl/solex/" rel="nofollow">Solex 10</a> written by Aldo Vitagliano)</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.diva-portal.org/smash/get/diva2:611689/FULLTEXT02.pdf" rel="nofollow">Arctic Communications System Utilizing Satellites in Highly Elliptical Orbits</a>, Lars Løge – Section 3.1, Page 17</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://epjwoc.epj.org/articles/epjconf/pdf/2011/01/epjconf_ohp2010_04003.pdf" rel="nofollow">Moon formation and orbital evolution in extrasolar planetary systems-A literature review</a>, K Lewis – EPJ Web of Conferences, 2011 – epj-conferences.org</span></li>
+</ol>
+</div>
+</div>
+<div aria-labelledby="Gravitational_orbits" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Orbits" title="Template:Orbits"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Orbits" title="Template talk:Orbits"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Orbits&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Gravitational_orbits" style="font-size:114%;margin:0 4em">Gravitational <a href="/wiki/Orbit" title="Orbit">orbits</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbit" title="Orbit">Types</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Box_orbit" title="Box orbit">Box</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Capture</a></li>
+<li><a href="/wiki/Circular_orbit" title="Circular orbit">Circular</a></li>
+<li><a href="/wiki/Elliptic_orbit" title="Elliptic orbit">Elliptical</a> / <a href="/wiki/Highly_elliptical_orbit" title="Highly elliptical orbit">Highly elliptical</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Escape</a></li>
+<li><a href="/wiki/Graveyard_orbit" title="Graveyard orbit">Graveyard</a></li>
+<li><a href="/wiki/Hyperbolic_trajectory" title="Hyperbolic trajectory">Hyperbolic trajectory</a></li>
+<li><a href="/wiki/Inclined_orbit" title="Inclined orbit">Inclined</a> / <a href="/wiki/Non-inclined_orbit" title="Non-inclined orbit">Non-inclined</a></li>
+<li><a href="/wiki/Osculating_orbit" title="Osculating orbit">Osculating</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Parabolic trajectory</a></li>
+<li><a href="/wiki/Parking_orbit" title="Parking orbit">Parking</a></li>
+<li><a href="/wiki/Synchronous_orbit" title="Synchronous orbit">Synchronous</a>
+<ul>
+<li><a href="/wiki/Semi-synchronous_orbit" title="Semi-synchronous orbit">semi</a></li>
+<li><a href="/wiki/Subsynchronous_orbit" title="Subsynchronous orbit">sub</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">Transfer orbit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Geocentric_orbit" title="Geocentric orbit">Geocentric</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geosynchronous_orbit" title="Geosynchronous orbit">Geosynchronous</a></li>
+<li><a href="/wiki/Geostationary_orbit" title="Geostationary orbit">Geostationary</a></li>
+<li><a href="/wiki/Sun-synchronous_orbit" title="Sun-synchronous orbit">Sun-synchronous</a></li>
+<li><a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">Low Earth</a></li>
+<li><a href="/wiki/Medium_Earth_orbit" title="Medium Earth orbit">Medium Earth</a></li>
+<li><a href="/wiki/High_Earth_orbit" title="High Earth orbit">High Earth</a></li>
+<li><a href="/wiki/Molniya_orbit" title="Molniya orbit">Molniya</a></li>
+<li><a class="mw-redirect" href="/wiki/Near_equatorial_orbit" title="Near equatorial orbit">Near-equatorial</a></li>
+<li><a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">Orbit of the Moon</a></li>
+<li><a href="/wiki/Polar_orbit" title="Polar orbit">Polar</a></li>
+<li><a href="/wiki/Tundra_orbit" title="Tundra orbit">Tundra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">About other points</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Areosynchronous_orbit" title="Areosynchronous orbit">Areosynchronous</a></li>
+<li><a href="/wiki/Areostationary_orbit" title="Areostationary orbit">Areostationary</a></li>
+<li><a href="/wiki/Halo_orbit" title="Halo orbit">Halo</a></li>
+<li><a href="/wiki/Lissajous_orbit" title="Lissajous orbit">Lissajous</a></li>
+<li><a href="/wiki/Lunar_orbit" title="Lunar orbit">Lunar</a></li>
+<li><a href="/wiki/Heliocentric_orbit" title="Heliocentric orbit">Heliocentric</a></li>
+<li><a class="mw-redirect" href="/wiki/Heliosynchronous_orbit" title="Heliosynchronous orbit">Heliosynchronous</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_elements" title="Orbital elements">Parameters</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">
+<div class="hlist hlist-separated">
+<ul>
+<li>Shape</li>
+<li>Size</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">e</span>  <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">Eccentricity</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">a</span>  <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">Semi-major axis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">b</span>  <a class="mw-redirect" href="/wiki/Semi-minor_axis" title="Semi-minor axis">Semi-minor axis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">Q</span>, <span class="texhtml mvar" style="font-style:italic;">q</span>  <a href="/wiki/Apsis" title="Apsis">Apsides</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Orientation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">i</span>  <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">Inclination</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">Ω</span>  <a href="/wiki/Longitude_of_the_ascending_node" title="Longitude of the ascending node">Longitude of the ascending node</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ω</span>  <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">Argument of periapsis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ϖ</span>  <a href="/wiki/Longitude_of_the_periapsis" title="Longitude of the periapsis">Longitude of the periapsis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Position</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">M</span>  <a href="/wiki/Mean_anomaly" title="Mean anomaly">Mean anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ν</span>  <a href="/wiki/True_anomaly" title="True anomaly">True anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">E</span>  <a href="/wiki/Eccentric_anomaly" title="Eccentric anomaly">Eccentric anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">L</span>  <a href="/wiki/Mean_longitude" title="Mean longitude">Mean longitude</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">l</span>  <a href="/wiki/True_longitude" title="True longitude">True longitude</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Variation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">T</span>  <a href="/wiki/Orbital_period" title="Orbital period">Orbital period</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">n</span>  <a href="/wiki/Mean_motion" title="Mean motion">Mean motion</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">v</span>  <a href="/wiki/Orbital_speed" title="Orbital speed">Orbital speed</a></li>
+<li><span class="texhtml"><i>t</i><sub>0</sub></span>  <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">Epoch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_maneuver" title="Orbital maneuver">Maneuvers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collision_avoidance_(spacecraft)" title="Collision avoidance (spacecraft)">Collision avoidance (spacecraft)</a></li>
+<li><a href="/wiki/Delta-v" title="Delta-v">Delta-v</a></li>
+<li><a href="/wiki/Delta-v_budget" title="Delta-v budget">Delta-v budget</a></li>
+<li><a href="/wiki/Bi-elliptic_transfer" title="Bi-elliptic transfer">Bi-elliptic transfer</a></li>
+<li><a href="/wiki/Geostationary_transfer_orbit" title="Geostationary transfer orbit">Geostationary transfer</a></li>
+<li><a href="/wiki/Gravity_assist" title="Gravity assist">Gravity assist</a></li>
+<li><a href="/wiki/Gravity_turn" title="Gravity turn">Gravity turn</a></li>
+<li><a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">Hohmann transfer</a></li>
+<li><a class="mw-redirect" href="/wiki/Low_energy_transfer" title="Low energy transfer">Low energy transfer</a></li>
+<li><a href="/wiki/Oberth_effect" title="Oberth effect">Oberth effect</a></li>
+<li><a href="/wiki/Orbital_inclination_change" title="Orbital inclination change">Inclination change</a></li>
+<li><a href="/wiki/Orbit_phasing" title="Orbit phasing">Phasing</a></li>
+<li><a href="/wiki/Tsiolkovsky_rocket_equation" title="Tsiolkovsky rocket equation">Rocket equation</a></li>
+<li><a href="/wiki/Space_rendezvous" title="Space rendezvous">Rendezvous</a></li>
+<li><a href="/wiki/Transposition,_docking,_and_extraction" title="Transposition, docking, and extraction">Transposition, docking, and extraction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_mechanics" title="Orbital mechanics">Orbital mechanics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">Celestial coordinate system</a></li>
+<li><a href="/wiki/Characteristic_energy" title="Characteristic energy">Characteristic energy</a></li>
+<li><a href="/wiki/Escape_velocity" title="Escape velocity">Escape velocity</a></li>
+<li><a href="/wiki/Ephemeris" title="Ephemeris">Ephemeris</a></li>
+<li><a href="/wiki/Equatorial_coordinate_system" title="Equatorial coordinate system">Equatorial coordinate system</a></li>
+<li><a href="/wiki/Ground_track" title="Ground track">Ground track</a></li>
+<li><a href="/wiki/Hill_sphere" title="Hill sphere">Hill sphere</a></li>
+<li><a href="/wiki/Interplanetary_Transport_Network" title="Interplanetary Transport Network">Interplanetary Transport Network</a></li>
+<li><a href="/wiki/Kepler%27s_laws_of_planetary_motion" title="Kepler's laws of planetary motion">Kepler's laws of planetary motion</a></li>
+<li><a href="/wiki/Lagrangian_point" title="Lagrangian point">Lagrangian point</a></li>
+<li><a href="/wiki/N-body_problem" title="N-body problem"><i>n</i>-body problem</a></li>
+<li><a href="/wiki/Orbit_equation" title="Orbit equation">Orbit equation</a></li>
+<li><a href="/wiki/Orbital_state_vectors" title="Orbital state vectors">Orbital state vectors</a></li>
+<li><a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">Perturbation</a></li>
+<li><a class="mw-redirect" href="/wiki/Retrograde_motion" title="Retrograde motion">Retrograde motion</a></li>
+<li><a href="/wiki/Specific_orbital_energy" title="Specific orbital energy">Specific orbital energy</a></li>
+<li><a href="/wiki/Specific_relative_angular_momentum" title="Specific relative angular momentum">Specific relative angular momentum</a></li>
+<li><a href="/wiki/Two-line_element_set" title="Two-line element set">Two-line elements</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/List_of_orbits" title="List of orbits">List of orbits</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1203
+Cached time: 20170925002703
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.228 seconds
+Real time usage: 0.353 seconds
+Preprocessor visited node count: 707/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 45339/2097152 bytes
+Template argument size: 699/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 3.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  254.895      1 -total
+ 40.98%  104.451      1 Template:Reflist
+ 28.36%   72.294      2 Template:Cite_book
+ 27.09%   69.050      3 Template:Navbox
+ 22.93%   58.444      1 Template:Citation_needed
+ 21.33%   54.370      1 Template:Fix
+ 18.64%   47.502      1 Template:Orbits
+ 10.57%   26.950      1 Template:Redirect
+ 10.28%   26.204      1 Template:Delink
+  9.75%   24.846      2 Template:Category_handler
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:56440-0!canonical!math=5 and timestamp 20170925002703 and revision id 785865509
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Orbital_inclination&amp;oldid=785865509">https://en.wikipedia.org/w/index.php?title=Orbital_inclination&amp;oldid=785865509</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Orbits" title="Category:Orbits">Orbits</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2014" title="Category:Articles with unsourced statements from May 2014">Articles with unsourced statements from May 2014</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Orbital+inclination" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Orbital+inclination" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Orbital_inclination" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Orbital_inclination" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Orbital_inclination">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Orbital_inclination&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Orbital_inclination&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Orbital_inclination" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Orbital_inclination" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Orbital_inclination&amp;oldid=785865509" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Orbital_inclination&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4112212" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Orbital_inclination&amp;id=785865509" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Orbital+inclination">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Orbital+inclination&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DOrbital%2Binclination%26returnto%3DOrbital%2Binclination%26oldid%3D785865509%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Orbital_inclination&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-als"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Bahnneigung" hreflang="als" lang="als" title="Bahnneigung – Alemannisch">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B2%D8%A7%D9%88%D9%8A%D8%A9_%D9%85%D9%8A%D9%84%D8%A7%D9%86" hreflang="ar" lang="ar" title="زاوية ميلان – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Encl%C3%ADn_orbital" hreflang="ast" lang="ast" title="Enclín orbital – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%A8%E0%A6%A4%E0%A6%BF" hreflang="bn" lang="bn" title="কক্ষীয় নতি – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/K%C3%BAi-t%C5%8D_kheng-si%C3%A2-kak" hreflang="zh-min-nan" lang="zh-min-nan" title="Kúi-tō kheng-siâ-kak – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%98%D0%BD%D0%BA%D0%BB%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Инклинация – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Inclinaci%C3%B3" hreflang="ca" lang="ca" title="Inclinació – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Sklon_dr%C3%A1hy" hreflang="cs" lang="cs" title="Sklon dráhy – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Baneh%C3%A6ldning" hreflang="da" lang="da" title="Banehældning – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Bahnneigung" hreflang="de" lang="de" title="Bahnneigung – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Orbiidi_kalle" hreflang="et" lang="et" title="Orbiidi kalle – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9A%CE%BB%CE%AF%CF%83%CE%B7_%CF%84%CF%81%CE%BF%CF%87%CE%B9%CE%AC%CF%82" hreflang="el" lang="el" title="Κλίση τροχιάς – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Inclinaci%C3%B3n_orbital" hreflang="es" lang="es" title="Inclinación orbital – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Klinangulo" hreflang="eo" lang="eo" title="Klinangulo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Makurdura_orbital" hreflang="eu" lang="eu" title="Makurdura orbital – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%AD%D8%B1%D8%A7%D9%81_%D9%85%D8%AF%D8%A7%D8%B1%DB%8C" hreflang="fa" lang="fa" title="انحراف مداری – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Inclinaison_orbitale" hreflang="fr" lang="fr" title="Inclinaison orbitale – French">Français</a></li><li class="interlanguage-link interwiki-gv"><a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Cleayn" hreflang="gv" lang="gv" title="Cleayn – Manx">Gaelg</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Inclinaci%C3%B3n_orbital" hreflang="gl" lang="gl" title="Inclinación orbital – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B6%A4%EB%8F%84_%EA%B2%BD%EC%82%AC" hreflang="ko" lang="ko" title="궤도 경사 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%88%D6%82%D5%B2%D5%A5%D5%AE%D6%80%D5%AB_%D5%A9%D5%A5%D6%84%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Ուղեծրի թեքում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80%E0%A4%AF_%E0%A4%9D%E0%A5%81%E0%A4%95%E0%A4%BE%E0%A4%B5" hreflang="hi" lang="hi" title="कक्षीय झुकाव – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Inklinacija" hreflang="hr" lang="hr" title="Inklinacija – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Inklinasi" hreflang="id" lang="id" title="Inklinasi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Inclinazione_orbitale" hreflang="it" lang="it" title="Inclinazione orbitale – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A0%D7%98%D7%99%D7%99%D7%AA_%D7%9E%D7%A1%D7%9C%D7%95%D7%9C" hreflang="he" lang="he" title="נטיית מסלול – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Inclinatio_orbitalis" hreflang="la" lang="la" title="Inclinatio orbitalis – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Orb%C4%ABtas_sl%C4%ABpums" hreflang="lv" lang="lv" title="Orbītas slīpums – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Inklin%C3%A1ci%C3%B3" hreflang="hu" lang="hu" title="Inklináció – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9D%D0%B0%D0%BA%D0%BB%D0%BE%D0%BD_(%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0)" hreflang="mk" lang="mk" title="Наклон (орбита) – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%87%E0%A4%9A%E0%A4%BE_%E0%A4%95%E0%A4%B2" hreflang="mr" lang="mr" title="कक्षेचा कल – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Kecondongan" hreflang="ms" lang="ms" title="Kecondongan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Glooiingshoek" hreflang="nl" lang="nl" title="Glooiingshoek – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%BB%8C%E9%81%93%E5%82%BE%E6%96%9C%E8%A7%92" hreflang="ja" lang="ja" title="軌道傾斜角 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Inklinasjon" hreflang="no" lang="no" title="Inklinasjon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Banehelling" hreflang="nn" lang="nn" title="Banehelling – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/Bahnnegen" hreflang="nds" lang="nds" title="Bahnnegen – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Inklinacja" hreflang="pl" lang="pl" title="Inklinacja – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Inclina%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Inclinação – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/%C3%8Enclina%C8%9Bie_orbital%C4%83" hreflang="ro" lang="ro" title="Înclinație orbitală – Romanian">Română</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Orbital_inclination" hreflang="sco" lang="sco" title="Orbital inclination – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Orbital_inclination" hreflang="simple" lang="simple" title="Orbital inclination – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Uhol_sklonu_dr%C3%A1hy" hreflang="sk" lang="sk" title="Uhol sklonu dráhy – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Naklon_tira" hreflang="sl" lang="sl" title="Naklon tira – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%98%D0%BD%D0%BA%D0%BB%D0%B8%D0%BD%D0%B0%D1%86%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Инклинација – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Inklinacija" hreflang="sh" lang="sh" title="Inklinacija – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Inklinaatio" hreflang="fi" lang="fi" title="Inklinaatio – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Banlutning" hreflang="sv" lang="sv" title="Banlutning – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B9%80%E0%B8%AD%E0%B8%B5%E0%B8%A2%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%A7%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%88%E0%B8%A3" hreflang="th" lang="th" title="ความเอียงของวงโคจร – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Y%C3%B6r%C3%BCnge_e%C4%9Fikli%C4%9Fi" hreflang="tr" lang="tr" title="Yörünge eğikliği – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B0%D1%85%D0%B8%D0%BB_%D0%BE%D1%80%D0%B1%D1%96%D1%82%D0%B8" hreflang="uk" lang="uk" title="Нахил орбіти – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99_nghi%C3%AAng_qu%E1%BB%B9_%C4%91%E1%BA%A1o" hreflang="vi" lang="vi" title="Độ nghiêng quỹ đạo – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BB%8C%E9%81%93%E5%82%BE%E8%A7%92" hreflang="zh" lang="zh" title="軌道傾角 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4112212#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 15 June 2017, at 21:23.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Orbital_inclination&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.228","walltime":"0.353","ppvisitednodes":{"value":707,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":45339,"limit":2097152},"templateargumentsize":{"value":699,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  254.895      1 -total"," 40.98%  104.451      1 Template:Reflist"," 28.36%   72.294      2 Template:Cite_book"," 27.09%   69.050      3 Template:Navbox"," 22.93%   58.444      1 Template:Citation_needed"," 21.33%   54.370      1 Template:Fix"," 18.64%   47.502      1 Template:Orbits"," 10.57%   26.950      1 Template:Redirect"," 10.28%   26.204      1 Template:Delink","  9.75%   24.846      2 Template:Category_handler"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":3174132,"limit":52428800}},"cachereport":{"origin":"mw1203","timestamp":"20170925002703","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1265"});});</script>
+</body>
+</html>

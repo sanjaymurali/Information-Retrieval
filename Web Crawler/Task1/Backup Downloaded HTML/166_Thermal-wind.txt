@@ -1,0 +1,649 @@
+https://en.wikipedia.org/wiki/Thermal_wind
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Thermal wind - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thermal_wind","wgTitle":"Thermal wind","wgCurRevisionId":741428871,"wgRevisionId":741428871,"wgArticleId":1593644,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from February 2011","All articles lacking in-text citations","Articles needing expert attention with no reason or talk parameter","Articles needing expert attention from September 2012","All articles needing expert attention","Meteorology articles needing expert attention","Atmospheric dynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thermal_wind","wgRelevantArticleId":1593644,"wgRequestId":"WdQmjgpAMFcAAKaidVMAAABQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2721218","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/8/87/Jet_stream.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Thermal_wind" rel="alternate"/>
+<link href="/w/index.php?title=Thermal_wind&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Thermal_wind&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Thermal_wind" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Thermal_wind rootpage-Thermal_wind vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Thermal wind</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><span class="mbox-text-span"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Thermal_wind&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Thermal_wind" title="Talk:Thermal wind">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small></span>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(February 2011)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs attention from an expert in Meteorology</b>. <span class="hide-when-compact">Please add a <i>reason</i> or a <i>talk</i> parameter to this template to explain the issue with the article. <a href="/wiki/Wikipedia:WikiProject_Meteorology" title="Wikipedia:WikiProject Meteorology">WikiProject Meteorology</a> may be able to help recruit an expert.</span> <small><i>(September 2012)</i></small></span></td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Jet_stream.jpg"><img alt="" class="thumbimage" data-file-height="543" data-file-width="543" height="220" src="//upload.wikimedia.org/wikipedia/en/thumb/8/87/Jet_stream.jpg/220px-Jet_stream.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/8/87/Jet_stream.jpg/330px-Jet_stream.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/8/87/Jet_stream.jpg/440px-Jet_stream.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Jet_stream.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Jet_stream" title="Jet stream">Jet streams</a> (shown in pink) are well-known examples of thermal wind. They arise from the horizontal temperature gradients between the warm <a href="/wiki/Tropics" title="Tropics">tropics</a> and the colder <a class="mw-redirect" href="/wiki/Polar_region" title="Polar region">polar regions</a>.</div>
+</div>
+</div>
+<p>The <b>Thermal wind</b> is wind that varies with height due to a balance between the <a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis</a> and <a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">pressure-gradient</a> forces in the atmosphere. It is the primary physical mechanism for the <a href="/wiki/Jet_stream" title="Jet stream">jet stream</a> and plays an important role in other large-scale atmospheric phenomena. The thermal wind ensures the jet stream is typically strongest in the upper half of the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>, which is the atmospheric layer extending from the surface of the planet up to a height of 12 km to 15 km.</p>
+<p>Mathematically, the thermal wind relation defines a vertical <a href="/wiki/Wind_shear" title="Wind shear">wind shear</a>--a variation in wind speed or direction with height. The wind shear in this case is a function of a horizontal temperature gradient, which is a variation in temperature over some horizontal distance. Also called <b>baroclinic flow</b>, the thermal wind varies with height in proportion to the horizontal temperature gradient. The thermal wind relation results from <a class="mw-redirect" href="/wiki/Hydrostatic_balance" title="Hydrostatic balance">hydrostatic balance</a> and <a class="mw-redirect" href="/wiki/Geostrophic_balance" title="Geostrophic balance">geostrophic balance</a> in the presence of a <a href="/wiki/Temperature_gradient" title="Temperature gradient">temperature gradient</a> along constant pressure surfaces, or <a href="/wiki/Contour_line#Barometric_pressure" title="Contour line">isobars</a>.</p>
+<p>The term <i>thermal wind</i> is often considered a misnomer, since it really describes the change in wind with height, rather the wind itself. However, one can view the thermal wind as a <a href="/wiki/Geostrophic_wind" title="Geostrophic wind">geostrophic wind</a> that varies with height, so that the term <i>wind</i> seems appropriate. In the early years of meteorology, when data was scarce, the wind field could be estimated using the thermal wind relation and knowledge of a surface wind speed and direction as well as thermodynamic soundings aloft.<sup class="reference" id="cite_ref-:0_1-0"><a href="#cite_note-:0-1">[1]</a></sup> In this way, the thermal wind relation acts to define the wind itself, rather than just its shear. Many authors retain the <i>thermal wind</i> moniker, even though it describes a wind gradient, sometimes offering a clarification to that effect.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Physical_intuition"><span class="tocnumber">1.1</span> <span class="toctext">Physical intuition</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Mathematical_formalism"><span class="tocnumber">1.2</span> <span class="toctext">Mathematical formalism</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Examples"><span class="tocnumber">2</span> <span class="toctext">Examples</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Advection_turning"><span class="tocnumber">2.1</span> <span class="toctext">Advection turning</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Frontogenesis"><span class="tocnumber">2.2</span> <span class="toctext">Frontogenesis</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Jet_stream"><span class="tocnumber">2.3</span> <span class="toctext">Jet stream</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">4</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_wind&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Physical_intuition">Physical intuition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_wind&amp;action=edit&amp;section=2" title="Edit section: Physical intuition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The thermal wind is the change in the amplitude or sign of the <a href="/wiki/Geostrophic_wind" title="Geostrophic wind">geostrophic wind</a> due to a horizontal temperature gradient. The <a href="/wiki/Geostrophic_wind" title="Geostrophic wind">geostrophic wind</a> is an idealized wind that results from a balance of forces along a horizontal dimension. Whenever the Earth's rotation plays a dominant role in fluid dynamics, as in the mid-latitudes, a balance between the <a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a> and the <a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">pressure-gradient force</a> develops. Intuitively, a horizontal difference in pressure pushes air across that difference in a similar way that the horizontal difference in the height of a hill causes objects to roll downhill. However, the Coriolis force intervenes and nudges the air towards the right (in the northern hemisphere). This is illustrated in panel (a) of the figure below. The balance that develops between these two forces results in a flow that parallels the horizontal pressure difference, or pressure gradient.<sup class="reference" id="cite_ref-:0_1-1"><a href="#cite_note-:0-1">[1]</a></sup> In addition, when forces acting in the vertical dimension are dominated by the vertical <a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">pressure-gradient force</a> and the <a class="mw-redirect" href="/wiki/Gravitational_force" title="Gravitational force">gravitational force</a>, <a class="mw-redirect" href="/wiki/Hydrostatic_balance" title="Hydrostatic balance">hydrostatic balance</a> occurs.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:431px;"><a class="image" href="/wiki/File:Thermal_wind,_Baroclinic_%26_Barotropic_Atmospheres.jpg"><img alt="" class="thumbimage" data-file-height="792" data-file-width="1920" height="177" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thermal_wind%2C_Baroclinic_%26_Barotropic_Atmospheres.jpg/429px-Thermal_wind%2C_Baroclinic_%26_Barotropic_Atmospheres.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thermal_wind%2C_Baroclinic_%26_Barotropic_Atmospheres.jpg/644px-Thermal_wind%2C_Baroclinic_%26_Barotropic_Atmospheres.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ea/Thermal_wind%2C_Baroclinic_%26_Barotropic_Atmospheres.jpg/858px-Thermal_wind%2C_Baroclinic_%26_Barotropic_Atmospheres.jpg 2x" width="429"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Thermal_wind,_Baroclinic_%26_Barotropic_Atmospheres.jpg" title="Enlarge"></a></div>
+The geostrophic wind on different isobaric levels in a barotropic atmosphere (a) and in a baroclinic atmosphere (b). The blue portion of the surface denotes a cold region while the orange portion denotes a warm region. This temperature structure is restricted to the surface in (a) but extends through the depth of the fluid in (b). The dotted lines enclose isobaric surfaces which remain at constant slope with increasing height in (a) and increase in slope with height in (b). Pink arrows illustrate the direction and amplitude of the horizontal wind. Only in the baroclinic atmosphere (b) do these vary with height. Such variation illustrates the thermal wind.</div>
+</div>
+</div>
+<p>In a <a href="/wiki/Barotropic_fluid" title="Barotropic fluid">barotropic</a> atmosphere, where density is a function only of pressure, a horizontal pressure gradient will drive a geostrophic wind that is constant with height. However, if a horizontal temperature gradient exists along isobars, the isobars will be thicker. This causes the slope of the isobars to increase with height. This is illustrated in panel (b) of the figure to the left. Because isobars are steeper at higher elevations, the associated pressure gradient force is stronger there. However, the Coriolis force is the same, so the resulting geostrophic wind at higher elevations must be greater in the direction of the pressure force.<sup class="reference" id="cite_ref-:1_2-0"><a href="#cite_note-:1-2">[2]</a></sup></p>
+<p>In a <a class="mw-redirect" href="/wiki/Baroclinic" title="Baroclinic">baroclinic</a> atmosphere, where density is a function of both pressure and temperature, such horizontal temperature gradients can exist. The difference in horizontal wind speed with height that results is a vertical wind shear, traditionally called the thermal wind.<sup class="reference" id="cite_ref-:1_2-1"><a href="#cite_note-:1-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Mathematical_formalism">Mathematical formalism</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_wind&amp;action=edit&amp;section=3" title="Edit section: Mathematical formalism">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The geopotential thickness of an atmospheric layer is described by the <a href="/wiki/Hypsometric_equation" title="Hypsometric equation">hypsometric equation</a>:</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mtext> </mtext>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>T</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>]</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Phi _{2}-\Phi _{1}=\ R{\bar {T}}\ln \left[{\frac {p_{1}}{p_{2}}}\right]}</annotation>
+</semantics>
+</math></span><img alt="\Phi _{2}-\Phi _{1}=\ R{\bar  {T}}\ln \left[{\frac  {p_{1}}{p_{2}}}\right]" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/839ac3eaaf674616b7e6e523eaa5a2fefb85894c" style="vertical-align: -2.505ex; width:23.501ex; height:6.176ex;"/></span>,</p>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mspace width="thinmathspace"></mspace>
+<mi>R</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \,R\,}</annotation>
+</semantics>
+</math></span><img alt="\,R\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c869bc6a2794426af941b89d1cbe688fc3cb4ee" style="vertical-align: -0.338ex; width:2.549ex; height:2.176ex;"/></span> is the specific <a href="/wiki/Gas_constant" title="Gas constant">gas constant</a> for air, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \,\Phi _{n}\,}</annotation>
+</semantics>
+</math></span><img alt="\,\Phi _{n}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2f5dc60d5f7d87b8d41beee0783768b9ddc038c0" style="vertical-align: -0.671ex; width:3.689ex; height:2.509ex;"/></span> is the <a href="/wiki/Geopotential" title="Geopotential">geopotential</a> at pressure level <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \,p_{n}\,}</annotation>
+</semantics>
+</math></span><img alt="\,p_{n}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81b1c70df2942017a231a10b9ad915f6662ef01e" style="vertical-align: -0.671ex; width:3.18ex; height:2.009ex;"/></span>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>T</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {T}}}</annotation>
+</semantics>
+</math></span><img alt="\bar{T}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/03035e9e8f3b31fbb11946ce0f17e3c2cbe346c0" style="vertical-align: -0.338ex; width:1.785ex; height:2.509ex;"/></span> is the vertically-averaged temperature of the layer. This formula shows that the layer thickness is proportional to the temperature. When there is a horizontal temperature gradient, the thickness of the layer would be greatest where the temperature is greatest.</p>
+<p>Differentiating the geostrophic wind, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>g</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>f</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<msub>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{g}={\frac {1}{f}}\mathbf {k} \times \nabla _{p}\Phi }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{g}={\frac  {1}{f}}{\mathbf  {k}}\times \nabla _{p}\Phi " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d5bd8de180417247046776d843ae0def14289aa" style="vertical-align: -2.505ex; width:16.658ex; height:5.843ex;"/></span> (where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mspace width="thickmathspace"></mspace>
+<mi>f</mi>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \;f\;}</annotation>
+</semantics>
+</math></span><img alt="\;f\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/95f28a0c9968c34afc81edeea912e23cea006e96" style="vertical-align: -0.671ex; width:2.579ex; height:2.509ex;"/></span> is the <a class="mw-redirect" href="/wiki/Coriolis_parameter" title="Coriolis parameter">Coriolis parameter</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {k} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf {k} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ea699cbc1f843f2e855577d57529430ec33a1ed" style="vertical-align: -0.338ex; width:1.421ex; height:2.176ex;"/></span> is the vertical unit vector, and the subscript "p" on the gradient operator denotes gradient on a constant pressure surface) with respect to pressure, and integrate from pressure level <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \,p_{0}\,}</annotation>
+</semantics>
+</math></span><img alt="\,p_{0}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dc0f0a1a7d97b34b41f40fb5f995480b049f7398" style="vertical-align: -0.671ex; width:3.016ex; height:2.009ex;"/></span> to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \,p_{1}\,}</annotation>
+</semantics>
+</math></span><img alt="\,p_{1}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0654c788f8931f417c531d9ddbf08409d2d05876" style="vertical-align: -0.671ex; width:3.016ex; height:2.009ex;"/></span>, we obtain the thermal wind equation:</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>f</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<msub>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi mathvariant="normal">Φ<!-- Φ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{T}={\frac {1}{f}}\mathbf {k} \times \nabla _{p}(\Phi _{1}-\Phi _{0})}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{T}={\frac  {1}{f}}{\mathbf  {k}}\times \nabla _{p}(\Phi _{1}-\Phi _{0})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38515181f88ee4dfcf1f5a552c281f9683259b82" style="vertical-align: -2.505ex; width:25.519ex; height:5.843ex;"/></span>.</p>
+<p>Substituting the hypsometric equation, one gets a form based on temperature,</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>R</mi>
+<mi>f</mi>
+</mfrac>
+</mrow>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<msub>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>T</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {v} _{T}={\frac {R}{f}}\ln \left[{\frac {p_{0}}{p_{1}}}\right]\mathbf {k} \times \nabla _{p}{\bar {T}}}</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {v}}_{T}={\frac  {R}{f}}\ln \left[{\frac  {p_{0}}{p_{1}}}\right]{\mathbf  {k}}\times \nabla _{p}{\bar  {T}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/705a8dd6580708d01f5c765a294ebf847a63b930" style="vertical-align: -2.505ex; width:25.508ex; height:6.176ex;"/></span>.</p>
+<p>Note that thermal wind is at right angles to the horizontal temperature gradient, counter clockwise in the northern hemisphere. In the southern hemisphere, the change in sign of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mspace width="thickmathspace"></mspace>
+<mi>f</mi>
+<mspace width="thickmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \;f\;}</annotation>
+</semantics>
+</math></span><img alt="\;f\;" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/95f28a0c9968c34afc81edeea912e23cea006e96" style="vertical-align: -0.671ex; width:2.579ex; height:2.509ex;"/></span> flips the direction.</p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_wind&amp;action=edit&amp;section=4" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Advection_turning">Advection turning</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_wind&amp;action=edit&amp;section=5" title="Edit section: Advection turning">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Backing_and_veering.jpg"><img alt="" class="thumbimage" data-file-height="1305" data-file-width="4048" height="129" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Backing_and_veering.jpg/400px-Backing_and_veering.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/78/Backing_and_veering.jpg/600px-Backing_and_veering.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/78/Backing_and_veering.jpg/800px-Backing_and_veering.jpg 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Backing_and_veering.jpg" title="Enlarge"></a></div>
+In (a), cold advection is occurring, so the thermal wind causes the geostrophic wind to rotate counterclockwise (for the northern hemisphere) with height. In (b), warm advection is occurring, so the geostrophic wind rotates clockwise with height.</div>
+</div>
+</div>
+<p>If a component of the geostrophic wind is parallel to the temperature gradient, the thermal wind will cause the geostrophic wind to rotate with height. If geostrophic wind blows from cold air to warm air (cold <a href="/wiki/Advection" title="Advection">advection</a>) the geostrophic wind will turn <a class="mw-redirect" href="/wiki/Counterclockwise" title="Counterclockwise">counterclockwise</a> with height (for the northern hemisphere), a <a href="/wiki/Phenomenon" title="Phenomenon">phenomenon</a> known as wind backing. Otherwise, if geostrophic wind blows from warm air to cold air (warm advection) the wind will turn <a href="/wiki/Clockwise" title="Clockwise">clockwise</a> with height, also known as wind veering.</p>
+<p>Wind backing and veering allow an estimation of the horizontal temperature gradient with data from an <a href="/wiki/Atmospheric_sounding" title="Atmospheric sounding">atmospheric sounding</a>.</p>
+<h3><span class="mw-headline" id="Frontogenesis">Frontogenesis</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_wind&amp;action=edit&amp;section=6" title="Edit section: Frontogenesis">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As in the case of advection turning, when there is a cross-<a class="mw-redirect" href="/wiki/Isothermal" title="Isothermal">isothermal</a> component of the geostrophic wind, a sharpening of the temperature gradient results. Thermal wind causes a deformation field and <a href="/wiki/Frontogenesis" title="Frontogenesis">frontogenesis</a> may occur.</p>
+<h3><span class="mw-headline" id="Jet_stream">Jet stream</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_wind&amp;action=edit&amp;section=7" title="Edit section: Jet stream">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A horizontal temperature gradient exists while moving <a href="/wiki/North" title="North">North</a>-<a href="/wiki/South" title="South">South</a> along a <a href="/wiki/Meridian_(geography)" title="Meridian (geography)">meridian</a> because curvature of the Earth allows for more <a class="mw-redirect" href="/wiki/Insolation" title="Insolation">solar heating</a> at the <a href="/wiki/Equator" title="Equator">equator</a> than at the poles. This creates a <a href="/wiki/Westerlies" title="Westerlies">westerly</a> geostrophic wind pattern to form in the mid-latitudes. Because thermal wind causes an increase in wind <a href="/wiki/Velocity" title="Velocity">velocity</a> with height, the westerly pattern increases in intensity up until the <a href="/wiki/Tropopause" title="Tropopause">tropopause</a>, creating a strong wind current known as the <a href="/wiki/Jet_stream" title="Jet stream">jet stream</a>. The <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern</a> and <a href="/wiki/Southern_Hemisphere" title="Southern Hemisphere">Southern Hemispheres</a> exhibit similar jet stream patterns in the mid-latitudes.</p>
+<p>The strongest part of jet streams should be in proximity where temperature gradients are the largest. Due to land masses in the northern hemisphere, largest temperature contrasts are observed on the east coast of North America (boundary between Canadian cold air mass and the Gulf Stream/warmer Atlantic) and Eurasia (boundary between the boreal winter monsoon/Siberian cold air mass and the warm Pacific). Therefore, the strongest boreal winter jet streams are observed over east coast of North America and Eurasia. Since stronger vertical shear promotes <a href="/wiki/Baroclinity" title="Baroclinity">baroclinic instability</a>, the most rapid development of <a class="mw-redirect" href="/wiki/Extratropical_cyclones" title="Extratropical cyclones">extratropical cyclones</a> (so called <a class="mw-redirect" href="/wiki/Bomb_(meteorology)" title="Bomb (meteorology)">bombs</a>) is also observed along the east coast of North America and Eurasia.</p>
+<p>The lack of land masses in the Southern Hemisphere leads to a more constant jet with longitude (i.e. a more zonally symmetric jet).</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_wind&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-:0-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-:0_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:0_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Cushman-Roisin, Benoit (1994). <i>Introduction to Geophysical Fluid Dynamics</i>. Prentice-Hall, Inc. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-353301-8" title="Special:BookSources/0-13-353301-8">0-13-353301-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+wind&amp;rft.aufirst=Benoit&amp;rft.aulast=Cushman-Roisin&amp;rft.btitle=Introduction+to+Geophysical+Fluid+Dynamics&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=0-13-353301-8&amp;rft.pub=Prentice-Hall%2C+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-:1-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-:1_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-:1_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Holton, James (2004). <i>An Introduction to Dynamic Meteorology</i>. Elsevier.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+wind&amp;rft.aufirst=James&amp;rft.aulast=Holton&amp;rft.btitle=An+Introduction+to+Dynamic+Meteorology&amp;rft.date=2004&amp;rft.genre=book&amp;rft.pub=Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_wind&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Holton, James R. (2004). <i>An Introduction to Dynamic Meteorology</i>. New York: Academic Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-354015-1" title="Special:BookSources/0-12-354015-1">0-12-354015-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+wind&amp;rft.aufirst=James+R.&amp;rft.aulast=Holton&amp;rft.btitle=An+Introduction+to+Dynamic+Meteorology&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=0-12-354015-1&amp;rft.place=New+York&amp;rft.pub=Academic+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<ul>
+<li><cite class="citation book">Vasquez, Tim (2002). <i>Weather Forecasting Handbook</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-9706840-2-9" title="Special:BookSources/0-9706840-2-9">0-9706840-2-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+wind&amp;rft.aufirst=Tim&amp;rft.aulast=Vasquez&amp;rft.btitle=Weather+Forecasting+Handbook&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-9706840-2-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<ul>
+<li><cite class="citation book">Vallis, Geoffrey K. (2006). <i>Atmospheric and Oceanic Fluid Dynamics</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-84969-1" title="Special:BookSources/0-521-84969-1">0-521-84969-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+wind&amp;rft.aufirst=Geoffrey+K.&amp;rft.aulast=Vallis&amp;rft.btitle=Atmospheric+and+Oceanic+Fluid+Dynamics&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-521-84969-1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<ul>
+<li><cite class="citation book">Wallace, John M.; Hobbs, Peter V. (2006). <i>Atmospheric Science</i>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-732951-X" title="Special:BookSources/0-12-732951-X">0-12-732951-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+wind&amp;rft.au=Hobbs%2C+Peter+V.&amp;rft.aufirst=John+M.&amp;rft.aulast=Wallace&amp;rft.btitle=Atmospheric+Science&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-12-732951-X&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20171001013811
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.160 seconds
+Real time usage: 0.274 seconds
+Preprocessor visited node count: 675/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 27601/2097152 bytes
+Template argument size: 5931/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 3/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 2.54 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  149.830      1 -total
+ 61.27%   91.808      3 Template:Ambox
+ 50.27%   75.319      1 Template:Multiple_issues
+ 41.58%   62.294      6 Template:Cite_book
+ 34.59%   51.821      1 Template:Reflist
+ 16.94%   25.385      1 Template:More_footnotes
+  8.15%   12.212      1 Template:Expert_needed
+  2.74%    4.109      1 Template:Category_handler
+  1.71%    2.563      3 Template:Main_other
+  1.30%    1.940      5 Template:Expert_needed/catcheck
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1593644-0!canonical!math=5 and timestamp 20171001013811 and revision id 741428871
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thermal_wind&amp;oldid=741428871">https://en.wikipedia.org/w/index.php?title=Thermal_wind&amp;oldid=741428871</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmospheric_dynamics" title="Category:Atmospheric dynamics">Atmospheric dynamics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_February_2011" title="Category:Articles lacking in-text citations from February 2011">Articles lacking in-text citations from February 2011</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_with_no_reason_or_talk_parameter" title="Category:Articles needing expert attention with no reason or talk parameter">Articles needing expert attention with no reason or talk parameter</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_September_2012" title="Category:Articles needing expert attention from September 2012">Articles needing expert attention from September 2012</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li><li><a href="/wiki/Category:Meteorology_articles_needing_expert_attention" title="Category:Meteorology articles needing expert attention">Meteorology articles needing expert attention</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thermal+wind" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Thermal+wind" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Thermal_wind" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Thermal_wind" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Thermal_wind">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Thermal_wind&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Thermal_wind&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Thermal_wind" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Thermal_wind" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Thermal_wind&amp;oldid=741428871" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Thermal_wind&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2721218" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thermal_wind&amp;id=741428871" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Thermal+wind">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Thermal+wind&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DThermal%2Bwind%26returnto%3DThermal%2Bwind%26oldid%3D741428871%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Thermal_wind&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Vent_t%C3%A8rmic" hreflang="ca" lang="ca" title="Vent tèrmic – Catalan">Català</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Viento_t%C3%A9rmico" hreflang="es" lang="es" title="Viento térmico – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Vent_thermique" hreflang="fr" lang="fr" title="Vent thermique – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%98%A8%EB%8F%84%ED%92%8D" hreflang="ko" lang="ko" title="온도풍 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Vento_termico" hreflang="it" lang="it" title="Vento termico – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%98%D7%99%D7%95%D7%98%D7%94:%D7%94%D7%A8%D7%95%D7%97_%D7%94%D7%AA%D7%A8%D7%9E%D7%9C%D7%99%D7%AA" hreflang="he" lang="he" title="טיוטה:הרוח התרמלית – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Terminis_v%C4%97jas" hreflang="lt" lang="lt" title="Terminis vėjas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B8%A9%E5%BA%A6%E9%A2%A8" hreflang="ja" lang="ja" title="温度風 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Termalvind" hreflang="no" lang="no" title="Termalvind – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Termalvind" hreflang="nn" lang="nn" title="Termalvind – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wiatr_termiczny" hreflang="pl" lang="pl" title="Wiatr termiczny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Vento_t%C3%A9rmico" hreflang="pt" lang="pt" title="Vento térmico – Portuguese">Português</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Termisk_vind" hreflang="sv" lang="sv" title="Termisk vind – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%B2%D1%96%D1%82%D0%B5%D1%80" hreflang="uk" lang="uk" title="Термальний вітер – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2721218#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 27 September 2016, at 12:50.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Thermal_wind&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.160","walltime":"0.274","ppvisitednodes":{"value":675,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":27601,"limit":2097152},"templateargumentsize":{"value":5931,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  149.830      1 -total"," 61.27%   91.808      3 Template:Ambox"," 50.27%   75.319      1 Template:Multiple_issues"," 41.58%   62.294      6 Template:Cite_book"," 34.59%   51.821      1 Template:Reflist"," 16.94%   25.385      1 Template:More_footnotes","  8.15%   12.212      1 Template:Expert_needed","  2.74%    4.109      1 Template:Category_handler","  1.71%    2.563      3 Template:Main_other","  1.30%    1.940      5 Template:Expert_needed/catcheck"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":2662035,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20171001013811","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":65,"wgHostname":"mw1252"});});</script>
+</body>
+</html>

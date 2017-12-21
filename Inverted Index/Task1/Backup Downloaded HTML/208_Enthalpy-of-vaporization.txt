@@ -1,0 +1,926 @@
+https://en.wikipedia.org/wiki/Heat_of_condensation
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Enthalpy of vaporization - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Enthalpy_of_vaporization","wgTitle":"Enthalpy of vaporization","wgCurRevisionId":784443788,"wgRevisionId":784443788,"wgArticleId":37710,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from October 2014","All accuracy disputes","Articles with disputed statements from April 2017","Wikipedia references cleanup from March 2016","All articles needing references cleanup","Articles covered by WikiProject Wikify from March 2016","All articles covered by WikiProject Wikify","Enthalpy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Enthalpy_of_vaporization","wgRelevantArticleId":37710,"wgRequestId":"WdRICQpAAEAAAA-bgfYAAACL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Heat_of_condensation","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Enthalpy_of_vaporization","wgWikibaseItemId":"Q483538","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/9/9c/Heat_of_Vaporization_%28Benzene%2BAcetone%2BMethanol%2BWater%29.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Enthalpy_of_vaporization" rel="alternate"/>
+<link href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Enthalpy_of_vaporization" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Enthalpy_of_vaporization rootpage-Enthalpy_of_vaporization vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Enthalpy of vaporization</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Heat_of_condensation&amp;redirect=no" title="Heat of condensation">Heat of condensation</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a class="image" href="/wiki/File:Heat_of_Vaporization_(Benzene%2BAcetone%2BMethanol%2BWater).png"><img alt="" class="thumbimage" data-file-height="472" data-file-width="534" height="247" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Heat_of_Vaporization_%28Benzene%2BAcetone%2BMethanol%2BWater%29.png/280px-Heat_of_Vaporization_%28Benzene%2BAcetone%2BMethanol%2BWater%29.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Heat_of_Vaporization_%28Benzene%2BAcetone%2BMethanol%2BWater%29.png/420px-Heat_of_Vaporization_%28Benzene%2BAcetone%2BMethanol%2BWater%29.png 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9c/Heat_of_Vaporization_%28Benzene%2BAcetone%2BMethanol%2BWater%29.png 2x" width="280"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Heat_of_Vaporization_(Benzene%2BAcetone%2BMethanol%2BWater).png" title="Enlarge"></a></div>
+Temperature-dependency of the heats of vaporization for water, methanol, benzene, and acetone.</div>
+</div>
+</div>
+<p>The <b>enthalpy of vaporization</b>, (symbol ∆H<sub>vap</sub>) also known as the <b>(latent) heat of vaporization</b> or <b>heat of evaporation</b>, is the amount of energy (<a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a>) that must be added to the liquid substance, to transform a quantity of that substance into a gas. The enthalpy of vaporization is a function of the <a href="/wiki/Pressure" title="Pressure">pressure</a> at which that transformation takes place.</p>
+<p>The enthalpy of vaporization is often quoted for the <a class="mw-redirect" href="/wiki/Normal_boiling_point" title="Normal boiling point">normal boiling temperature</a> of the substance; although tabulated values are usually corrected to 298 <a href="/wiki/Kelvin" title="Kelvin">K</a>, that correction is often smaller than the <a href="/wiki/Standard_deviation" title="Standard deviation">uncertainty</a> in the measured value.</p>
+<p>The heat of vaporization is temperature-dependent, though a constant heat of vaporization can be assumed for small temperature ranges and for <a class="mw-redirect" href="/wiki/Reduced_temperature" title="Reduced temperature">reduced temperature</a> <a class="mw-redirect" href="/wiki/Reduced_temperature" title="Reduced temperature"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{r}}</annotation>
+</semantics>
+</math></span><img alt="T_r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d42a2f96162536ac26ef7cefedb159170597124" style="vertical-align: -0.671ex; width:2.349ex; height:2.509ex;"/></span></a><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>≪<!-- ≪ --></mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \ll 1}</annotation>
+</semantics>
+</math></span><img alt="\ll 1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/08b246b342d27748c9d86028d8a5a37e127ddffb" style="vertical-align: -0.505ex; width:4.152ex; height:2.343ex;"/></span>. The heat of vaporization diminishes with increasing temperature and it vanishes completely at a certain point called the critical temperature (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{r}=1}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T_{r}=1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2407c998c4c5e4841f0d44a826ff48e28ce04f5d" style="vertical-align: -0.671ex; width:6.631ex; height:2.509ex;"/></span>). Above the <a class="mw-redirect" href="/wiki/Critical_temperature" title="Critical temperature">critical temperature</a>, the liquid and <a href="/wiki/Vapor" title="Vapor">vapor</a> phases are indistinguishable, and the substance is called a <a href="/wiki/Supercritical_fluid" title="Supercritical fluid">supercritical fluid</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Units"><span class="tocnumber">1</span> <span class="toctext">Units</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Enthalpy_of_condensation"><span class="tocnumber">2</span> <span class="toctext">Enthalpy of condensation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Thermodynamic_background"><span class="tocnumber">3</span> <span class="toctext">Thermodynamic background</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Vaporization_enthalpy_of_electrolyte_solutions"><span class="tocnumber">4</span> <span class="toctext">Vaporization enthalpy of electrolyte solutions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Selected_values"><span class="tocnumber">5</span> <span class="toctext">Selected values</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Elements"><span class="tocnumber">5.1</span> <span class="toctext">Elements</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Other_common_substances"><span class="tocnumber">5.2</span> <span class="toctext">Other common substances</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Units">Units</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit&amp;section=1" title="Edit section: Units">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Values are usually quoted in <a href="/wiki/Joule" title="Joule">J</a>/<a href="/wiki/Mole_(unit)" title="Mole (unit)">mol</a> or kJ/mol (molar enthalpy of vaporization), although kJ/kg or J/g (specific heat of vaporization), and older units like <a href="/wiki/Calorie" title="Calorie">kcal</a>/mol, cal/g and <a href="/wiki/British_thermal_unit" title="British thermal unit">Btu</a>/lb are sometimes still used, among others.</p>
+<h2><span class="mw-headline" id="Enthalpy_of_condensation">Enthalpy of condensation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit&amp;section=2" title="Edit section: Enthalpy of condensation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <b>enthalpy of condensation</b> (or <b>heat of condensation</b>) is by definition equal to the enthalpy of vaporization with the opposite sign: enthalpy changes of vaporization are always positive (heat is absorbed by the substance), whereas enthalpy changes of condensation are always negative (heat is released by the substance).</p>
+<h2><span class="mw-headline" id="Thermodynamic_background">Thermodynamic background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit&amp;section=3" title="Edit section: Thermodynamic background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="floatright"><a class="image" href="/wiki/File:Heat_Content_of_Zn(c,l,g).PNG" title="Molar enthalpy of zinc above 298.15 K and at 1 atm pressure, showing discontinuities at the melting and boiling points. The enthalpy of melting (ΔH°m) of zinc is 7323 J/mol, and the enthalpy of vaporization (ΔH°v) is 115 330 J/mol."><img alt="Molar enthalpy of zinc above 298.15 K and at 1 atm pressure, showing discontinuities at the melting and boiling points. The enthalpy of melting (ΔH°m) of zinc is 7323 J/mol, and the enthalpy of vaporization (ΔH°v) is 115 330 J/mol." data-file-height="301" data-file-width="498" height="212" src="//upload.wikimedia.org/wikipedia/en/thumb/d/d6/Heat_Content_of_Zn%28c%2Cl%2Cg%29.PNG/350px-Heat_Content_of_Zn%28c%2Cl%2Cg%29.PNG" srcset="//upload.wikimedia.org/wikipedia/en/d/d6/Heat_Content_of_Zn%28c%2Cl%2Cg%29.PNG 1.5x" width="350"/></a></div>
+<p>The enthalpy of vaporization can be written as</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+</mrow>
+<msub>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">v</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+</mrow>
+<msub>
+<mi>U</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">v</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">p</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>p</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mspace width="thinmathspace"></mspace>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta {}H_{\mathrm {vap} }=\Delta {}U_{\mathrm {vap} }+p\Delta \,V}</annotation>
+</semantics>
+</math></span><img alt="\Delta{}H_{\mathrm{vap}} = \Delta{}U_{\mathrm{vap}} + p\Delta\,V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e781e6480e125794ae50aaa0c9768d78af414adf" style="vertical-align: -1.005ex; width:24.42ex; height:3.009ex;"/></span></dd>
+</dl>
+<p>It is equal to the increased <a href="/wiki/Internal_energy" title="Internal energy">internal energy</a> of the vapor phase compared with the liquid phase, plus the work done against ambient pressure. The increase in the internal energy can be viewed as the energy required to overcome the <a href="/wiki/Chemical_bond#Intermolecular_interactions" title="Chemical bond">intermolecular interactions</a> in the liquid (or solid, in the case of <a class="mw-redirect" href="/wiki/Sublimation_(chemistry)" title="Sublimation (chemistry)">sublimation</a>). Hence <a href="/wiki/Helium" title="Helium">helium</a> has a particularly low enthalpy of vaporization, 0.0845 kJ/mol, as the <a href="/wiki/Van_der_Waals_force" title="Van der Waals force">van der Waals forces</a> between helium <a href="/wiki/Atom" title="Atom">atoms</a> are particularly weak. On the other hand, the <a href="/wiki/Molecule" title="Molecule">molecules</a> in liquid <a class="mw-redirect" href="/wiki/Water_(molecule)" title="Water (molecule)">water</a> are held together by relatively strong <a href="/wiki/Hydrogen_bond" title="Hydrogen bond">hydrogen bonds</a>, and its enthalpy of vaporization, 40.65 kJ/mol, is more than five times the energy required to heat the same quantity of water from 0 °C to 100 °C (<a href="/wiki/Heat_capacity" title="Heat capacity"><i>c</i><sub>p</sub></a> = 75.3 J K<sup>−1 </sup>mol<sup>−1</sup>). Care must be taken, however, when using enthalpies of vaporization to <i>measure</i> the strength of intermolecular forces, as these forces may persist to an extent in the gas phase (as is the case with <a href="/wiki/Hydrogen_fluoride" title="Hydrogen fluoride">hydrogen fluoride</a>), and so the calculated value of the <a class="mw-redirect" href="/wiki/Bond_strength" title="Bond strength">bond strength</a> will be too low. This is particularly true of metals, which often form <a href="/wiki/Covalent_bond" title="Covalent bond">covalently bonded</a> molecules in the gas phase: in these cases, the <a href="/wiki/Enthalpy_of_atomization" title="Enthalpy of atomization">enthalpy of atomization</a> must be used to obtain a true value of the <a href="/wiki/Bond_energy" title="Bond energy">bond energy</a>.</p>
+<p>An alternative description is to view the enthalpy of condensation as the heat which must be released to the surroundings to compensate for the drop in <a href="/wiki/Entropy" title="Entropy">entropy</a> when a gas condenses to a liquid. As the liquid and gas are in <a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">equilibrium</a> at the boiling point (<i>T</i><sub>b</sub>), <a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Δ<sub>v</sub><i>G</i></a> = 0, which leads to:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mi>S</mi>
+<mo>=</mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>g</mi>
+<mi>a</mi>
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+<mi>u</mi>
+<mi>i</mi>
+<mi>d</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta \,_{v}S=S_{gas}-S_{liquid}=\Delta \,_{v}H/T_{b}}</annotation>
+</semantics>
+</math></span><img alt="\Delta\,_v S = S_{gas} - S_{liquid} = \Delta\,_v H/T_b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1cb405ee12661fdf7895f09f1b62520569f2937b" style="vertical-align: -1.005ex; width:32.892ex; height:3.009ex;"/></span></dd>
+</dl>
+<p>As neither entropy nor <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> vary greatly with temperature, it is normal to use the tabulated standard values without any correction for the difference in temperature from 298 K. A correction must be made if the <a href="/wiki/Pressure" title="Pressure">pressure</a> is different from 100 <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">kPa</a>, as the entropy of a gas is proportional to its pressure (or, more precisely, to its <a href="/wiki/Fugacity" title="Fugacity">fugacity</a>): the entropies of liquids vary little with pressure, as the <a href="/wiki/Compressibility" title="Compressibility">compressibility</a> of a liquid is small.</p>
+<p>These two definitions are equivalent: the boiling point is the temperature at which the increased entropy of the gas phase overcomes the intermolecular forces. As a given quantity of matter always has a higher entropy in the gas phase than in a condensed phase (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta \,_{v}S}</annotation>
+</semantics>
+</math></span><img alt="\Delta\,_v S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/859533c58fac1429e3f352bc3631459f264ec906" style="vertical-align: -0.671ex; width:4.88ex; height:2.676ex;"/></span> is always positive), and from</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mspace width="thinmathspace"></mspace>
+<mi>G</mi>
+<mo>=</mo>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mspace width="thinmathspace"></mspace>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mspace width="thinmathspace"></mspace>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta \,G=\Delta \,H-T\Delta \,S}</annotation>
+</semantics>
+</math></span><img alt="\Delta\,G = \Delta\,H - T\Delta\,S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/441fcfd5cb03ea7a1f4a1bec488c292b4196721b" style="vertical-align: -0.338ex; width:20.028ex; height:2.343ex;"/></span>,</dd>
+</dl>
+<p>the <a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a> change falls with increasing temperature: gases are favored at higher temperatures, as is observed in practice.</p>
+<h2><span class="mw-headline" id="Vaporization_enthalpy_of_electrolyte_solutions">Vaporization enthalpy of electrolyte solutions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit&amp;section=4" title="Edit section: Vaporization enthalpy of electrolyte solutions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Estimation of the enthalpy of vaporization of electrolyte solutions can be simply carried out using equations based on the chemical thermodynamic models, such as Pitzer model<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> or TCPC model.<sup class="reference" id="cite_ref-GeWang2009_2-0"><a href="#cite_note-GeWang2009-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Selected_values">Selected values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit&amp;section=5" title="Edit section: Selected values">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Elements">Elements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit&amp;section=6" title="Edit section: Elements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb" style="table-layout:fixed; margin:5px 5px 5px 0; clear:both; width:98%;">
+<div class="overflowbugx" style="table-layout:fixed; overflow:auto;">
+<table border="0" cellpadding="0" cellspacing="1" style="table-layout:fixed; background:#f8f8f8; border:1px solid #a9a9a9; width:100%; max-width:2000px; margin:0 auto; padding:2px; ;">
+<tr>
+<th colspan="19" style="background:#d8d8d8; padding:2px 4px;">
+<div class="plainlinks hlist navbar mini" style="float:left; text-align:left">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Periodic_table_(enthalpy_of_vaporisation)" title="Template:Periodic table (enthalpy of vaporisation)"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Periodic_table_(enthalpy_of_vaporisation)&amp;action=edit&amp;redlink=1" title="Template talk:Periodic table (enthalpy of vaporisation) (page does not exist)"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Periodic_table_(enthalpy_of_vaporisation)&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div style="font-size:114%;margin:0 4em"><a class="mw-selflink selflink">Enthalpies of vaporization</a> of the elements</div>
+</th>
+</tr>
+<tr style="background:#e8e8e8">
+<th></th>
+<th><a href="/wiki/Alkali_metal" title="Alkali metal">1</a></th>
+<th><a href="/wiki/Alkaline_earth_metal" title="Alkaline earth metal">2</a></th>
+<th><a href="/wiki/Group_3_element" title="Group 3 element">3</a></th>
+<th><a href="/wiki/Group_4_element" title="Group 4 element">4</a></th>
+<th><a href="/wiki/Group_5_element" title="Group 5 element">5</a></th>
+<th><a href="/wiki/Group_6_element" title="Group 6 element">6</a></th>
+<th><a href="/wiki/Group_7_element" title="Group 7 element">7</a></th>
+<th><a href="/wiki/Group_8_element" title="Group 8 element">8</a></th>
+<th><a href="/wiki/Group_9_element" title="Group 9 element">9</a></th>
+<th><a href="/wiki/Group_10_element" title="Group 10 element">10</a></th>
+<th><a href="/wiki/Group_11_element" title="Group 11 element">11</a></th>
+<th><a href="/wiki/Group_12_element" title="Group 12 element">12</a></th>
+<th><a href="/wiki/Boron_group" title="Boron group">13</a></th>
+<th><a href="/wiki/Carbon_group" title="Carbon group">14</a></th>
+<th><a class="mw-redirect" href="/wiki/Nitrogen_group" title="Nitrogen group">15</a></th>
+<th><a href="/wiki/Chalcogen" title="Chalcogen">16</a></th>
+<th><a href="/wiki/Halogen" title="Halogen">17</a></th>
+<th><a href="/wiki/Noble_gas" title="Noble gas">18</a></th>
+</tr>
+<tr>
+<th colspan="3" style="text-align:left;"><a href="/wiki/Group_(periodic_table)" title="Group (periodic table)">Group</a> →</th>
+</tr>
+<tr>
+<th colspan="3" style="text-align:left;">↓ <a class="mw-redirect" href="/wiki/Periodic_table_period" title="Periodic table period">Period</a></th>
+</tr>
+<tr>
+<th><a href="/wiki/Period_1_element" title="Period 1 element">1</a></th>
+<td style="text-align:center; background:#ffccff; border:2px solid #8811ff;" title="hydrogen; primordial"><a href="/wiki/Hydrogen" title="Hydrogen"><span style="display:block">H</span></a><small>0.44936</small></td>
+<td colspan="16"></td>
+<td style="text-align:center; background:#ffccff; border:2px solid #8811ff;" title="helium; primordial"><a href="/wiki/Helium" title="Helium"><span style="display:block">He</span></a><small>0.0845</small></td>
+</tr>
+<tr>
+<th><a href="/wiki/Period_2_element" title="Period 2 element">2</a></th>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="lithium; primordial"><a href="/wiki/Lithium" title="Lithium"><span style="display:block">Li</span></a><small>145.92</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="beryllium; primordial"><a href="/wiki/Beryllium" title="Beryllium"><span style="display:block">Be</span></a><small>292.40</small></td>
+<td colspan="10"></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="boron; primordial"><a href="/wiki/Boron" title="Boron"><span style="display:block">B</span></a><small>489.7</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="carbon; primordial"><a href="/wiki/Carbon" title="Carbon"><span style="display:block">C</span></a><small>355.8</small></td>
+<td style="text-align:center; background:#ffccff; border:2px solid #8811ff;" title="nitrogen; primordial"><a href="/wiki/Nitrogen" title="Nitrogen"><span style="display:block">N</span></a><small>2.7928</small></td>
+<td style="text-align:center; background:#ffccff; border:2px solid #8811ff;" title="oxygen; primordial"><a href="/wiki/Oxygen" title="Oxygen"><span style="display:block">O</span></a><small>3.4099</small></td>
+<td style="text-align:center; background:#ffccff; border:2px solid #8811ff;" title="fluorine; primordial"><a href="/wiki/Fluorine" title="Fluorine"><span style="display:block">F</span></a><small>3.2698</small></td>
+<td style="text-align:center; background:#ffccff; border:2px solid #8811ff;" title="neon; primordial"><a href="/wiki/Neon" title="Neon"><span style="display:block">Ne</span></a><small>1.7326</small></td>
+</tr>
+<tr>
+<th><a href="/wiki/Period_3_element" title="Period 3 element">3</a></th>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="sodium; primordial"><a href="/wiki/Sodium" title="Sodium"><span style="display:block">Na</span></a><small>96.96</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="magnesium; primordial"><a href="/wiki/Magnesium" title="Magnesium"><span style="display:block">Mg</span></a><small>127.4</small></td>
+<td colspan="10"></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="aluminium; primordial"><a href="/wiki/Aluminium" title="Aluminium"><span style="display:block">Al</span></a><small>293.4</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="silicon; primordial"><a href="/wiki/Silicon" title="Silicon"><span style="display:block">Si</span></a><small>300</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="phosphorus; primordial"><a href="/wiki/Phosphorus" title="Phosphorus"><span style="display:block">P</span></a><small>12.129</small></td>
+<td style="text-align:center; background:#ffccff; border:2px solid #8811ff;" title="sulfur; primordial"><a href="/wiki/Sulfur" title="Sulfur"><span style="display:block">S</span></a><small>1.7175</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="chlorine; primordial"><a href="/wiki/Chlorine" title="Chlorine"><span style="display:block">Cl</span></a><small>10.2</small></td>
+<td style="text-align:center; background:#ffccff; border:2px solid #8811ff;" title="argon; primordial"><a href="/wiki/Argon" title="Argon"><span style="display:block">Ar</span></a><small>6.447</small></td>
+</tr>
+<tr>
+<th><a href="/wiki/Period_4_element" title="Period 4 element">4</a></th>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="potassium; primordial"><a href="/wiki/Potassium" title="Potassium"><span style="display:block">K</span></a><small>79.87</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="calcium; primordial"><a href="/wiki/Calcium" title="Calcium"><span style="display:block">Ca</span></a><small>153.6</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="scandium; primordial"><a href="/wiki/Scandium" title="Scandium"><span style="display:block">Sc</span></a><small>314.2</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="titanium; primordial"><a href="/wiki/Titanium" title="Titanium"><span style="display:block">Ti</span></a><small>421</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="vanadium; primordial"><a href="/wiki/Vanadium" title="Vanadium"><span style="display:block">V</span></a><small>452</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="chromium; primordial"><a href="/wiki/Chromium" title="Chromium"><span style="display:block">Cr</span></a><small>344.3</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="manganese; primordial"><a href="/wiki/Manganese" title="Manganese"><span style="display:block">Mn</span></a><small>226</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="iron; primordial"><a href="/wiki/Iron" title="Iron"><span style="display:block">Fe</span></a><small>349.6</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="cobalt; primordial"><a href="/wiki/Cobalt" title="Cobalt"><span style="display:block">Co</span></a><small>376.5</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="nickel; primordial"><a href="/wiki/Nickel" title="Nickel"><span style="display:block">Ni</span></a><small>370.4</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="copper; primordial"><a href="/wiki/Copper" title="Copper"><span style="display:block">Cu</span></a><small>300.3</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="zinc; primordial"><a href="/wiki/Zinc" title="Zinc"><span style="display:block">Zn</span></a><small>115.3</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="gallium; primordial"><a href="/wiki/Gallium" title="Gallium"><span style="display:block">Ga</span></a><small>258.7</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="germanium; primordial"><a href="/wiki/Germanium" title="Germanium"><span style="display:block">Ge</span></a><small>330.9</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="arsenic; primordial"><a href="/wiki/Arsenic" title="Arsenic"><span style="display:block">As</span></a><small>34.76</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="selenium; primordial"><a href="/wiki/Selenium" title="Selenium"><span style="display:block">Se</span></a><small>26.3</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="bromine; primordial"><a href="/wiki/Bromine" title="Bromine"><span style="display:block">Br</span></a><small>15.438</small></td>
+<td style="text-align:center; background:#ffccff; border:2px solid #8811ff;" title="krypton; primordial"><a href="/wiki/Krypton" title="Krypton"><span style="display:block">Kr</span></a><small>9.029</small></td>
+</tr>
+<tr>
+<th><a href="/wiki/Period_5_element" title="Period 5 element">5</a></th>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="rubidium; primordial"><a href="/wiki/Rubidium" title="Rubidium"><span style="display:block">Rb</span></a><small>72.216</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="strontium; primordial"><a href="/wiki/Strontium" title="Strontium"><span style="display:block">Sr</span></a><small>144</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="yttrium; primordial"><a href="/wiki/Yttrium" title="Yttrium"><span style="display:block">Y</span></a><small>363</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="zirconium; primordial"><a href="/wiki/Zirconium" title="Zirconium"><span style="display:block">Zr</span></a><small>581.6</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="niobium; primordial"><a href="/wiki/Niobium" title="Niobium"><span style="display:block">Nb</span></a><small>696.6</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="molybdenum; primordial"><a href="/wiki/Molybdenum" title="Molybdenum"><span style="display:block">Mo</span></a><small>598</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px dashed #773300;" title="technetium; from decay"><a href="/wiki/Technetium" title="Technetium"><span style="display:block">Tc</span></a><small>660</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="ruthenium; primordial"><a href="/wiki/Ruthenium" title="Ruthenium"><span style="display:block">Ru</span></a><small>595</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="rhodium; primordial"><a href="/wiki/Rhodium" title="Rhodium"><span style="display:block">Rh</span></a><small>493</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="palladium; primordial"><a href="/wiki/Palladium" title="Palladium"><span style="display:block">Pd</span></a><small>357</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="silver; primordial"><a href="/wiki/Silver" title="Silver"><span style="display:block">Ag</span></a><small>250.58</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="cadmium; primordial"><a href="/wiki/Cadmium" title="Cadmium"><span style="display:block">Cd</span></a><small>100</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="indium; primordial"><a href="/wiki/Indium" title="Indium"><span style="display:block">In</span></a><small>231.5</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="tin; primordial"><a href="/wiki/Tin" title="Tin"><span style="display:block">Sn</span></a><small>295.8</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="antimony; primordial"><a href="/wiki/Antimony" title="Antimony"><span style="display:block">Sb</span></a><small>77.14</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="tellurium; primordial"><a href="/wiki/Tellurium" title="Tellurium"><span style="display:block">Te</span></a><small>52.55</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="iodine; primordial"><a href="/wiki/Iodine" title="Iodine"><span style="display:block">I</span></a><small>20.752</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="xenon; primordial"><a href="/wiki/Xenon" title="Xenon"><span style="display:block">Xe</span></a><small>12.636</small></td>
+</tr>
+<tr>
+<th><a href="/wiki/Period_6_element" title="Period 6 element">6</a></th>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="caesium; primordial"><a href="/wiki/Caesium" title="Caesium"><span style="display:block">Cs</span></a><small>67.74</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="barium; primordial"><a href="/wiki/Barium" title="Barium"><span style="display:block">Ba</span></a><small>142</small></td>
+<td style="text-align:center; vertical-align:middle;"><img alt="1 asterisk" data-file-height="98" data-file-width="106" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Asterisks_one.svg/16px-Asterisks_one.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Asterisks_one.svg/24px-Asterisks_one.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Asterisks_one.svg/32px-Asterisks_one.svg.png 2x" width="16"/></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="hafnium; primordial"><a href="/wiki/Hafnium" title="Hafnium"><span style="display:block">Hf</span></a><small>575</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="tantalum; primordial"><a href="/wiki/Tantalum" title="Tantalum"><span style="display:block">Ta</span></a><small>743</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="tungsten; primordial"><a href="/wiki/Tungsten" title="Tungsten"><span style="display:block">W</span></a><small>824</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="rhenium; primordial"><a href="/wiki/Rhenium" title="Rhenium"><span style="display:block">Re</span></a><small>715</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="osmium; primordial"><a href="/wiki/Osmium" title="Osmium"><span style="display:block">Os</span></a><small>627.6</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="iridium; primordial"><a href="/wiki/Iridium" title="Iridium"><span style="display:block">Ir</span></a><small>604</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="platinum; primordial"><a href="/wiki/Platinum" title="Platinum"><span style="display:block">Pt</span></a><small>510</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="gold; primordial"><a href="/wiki/Gold" title="Gold"><span style="display:block">Au</span></a><small>334.4</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px solid #8811ff;" title="mercury (element); primordial"><a href="/wiki/Mercury_(element)" title="Mercury (element)"><span style="display:block">Hg</span></a><small>59.229</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="thallium; primordial"><a href="/wiki/Thallium" title="Thallium"><span style="display:block">Tl</span></a><small>164.1</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="lead; primordial"><a href="/wiki/Lead" title="Lead"><span style="display:block">Pb</span></a><small>177.7</small></td>
+<td style="text-align:center; background:#99ccff; border:2px solid #8811ff;" title="bismuth; primordial"><a href="/wiki/Bismuth" title="Bismuth"><span style="display:block">Bi</span></a><small>104.8</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px dashed #773300;" title="polonium; from decay"><a href="/wiki/Polonium" title="Polonium"><span style="display:block">Po</span></a><small>60.1</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px dashed #773300;" title="astatine; from decay"><a href="/wiki/Astatine" title="Astatine"><span style="display:block">At</span></a><small>27.2</small></td>
+<td style="text-align:center; background:#ccffcc; border:2px dashed #773300;" title="radon; from decay"><a href="/wiki/Radon" title="Radon"><span style="display:block">Rn</span></a><small>16.4</small></td>
+</tr>
+<tr>
+<th><a href="/wiki/Period_7_element" title="Period 7 element">7</a></th>
+<td style="text-align:center; background:#ffffff; border:2px dashed #773300;" title="francium; from decay"><a href="/wiki/Francium" title="Francium"><span style="display:block">Fr</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ccffcc; border:2px dashed #773300;" title="radium; from decay"><a href="/wiki/Radium" title="Radium"><span style="display:block">Ra</span></a><small>37</small></td>
+<td style="text-align:center; vertical-align:middle;"><img alt="2 asterisks" data-file-height="98" data-file-width="106" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Asterisks_two.svg/16px-Asterisks_two.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Asterisks_two.svg/24px-Asterisks_two.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Asterisks_two.svg/32px-Asterisks_two.svg.png 2x" width="16"/></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="rutherfordium; synthetic"><a href="/wiki/Rutherfordium" title="Rutherfordium"><span style="display:block">Rf</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="dubnium; synthetic"><a href="/wiki/Dubnium" title="Dubnium"><span style="display:block">Db</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="seaborgium; synthetic"><a href="/wiki/Seaborgium" title="Seaborgium"><span style="display:block">Sg</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="bohrium; synthetic"><a href="/wiki/Bohrium" title="Bohrium"><span style="display:block">Bh</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="hassium; synthetic"><a href="/wiki/Hassium" title="Hassium"><span style="display:block">Hs</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="meitnerium; synthetic"><a href="/wiki/Meitnerium" title="Meitnerium"><span style="display:block">Mt</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="darmstadtium; synthetic"><a href="/wiki/Darmstadtium" title="Darmstadtium"><span style="display:block">Ds</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="roentgenium; synthetic"><a href="/wiki/Roentgenium" title="Roentgenium"><span style="display:block">Rg</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="copernicium; synthetic"><a href="/wiki/Copernicium" title="Copernicium"><span style="display:block">Cn</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="nihonium; synthetic"><a href="/wiki/Nihonium" title="Nihonium"><span style="display:block">Nh</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="flerovium; synthetic"><a href="/wiki/Flerovium" title="Flerovium"><span style="display:block">Fl</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="moscovium; synthetic"><a href="/wiki/Moscovium" title="Moscovium"><span style="display:block">Mc</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="livermorium; synthetic"><a href="/wiki/Livermorium" title="Livermorium"><span style="display:block">Lv</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="tennessine; synthetic"><a href="/wiki/Tennessine" title="Tennessine"><span style="display:block">Ts</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="oganesson; synthetic"><a href="/wiki/Oganesson" title="Oganesson"><span style="display:block">Og</span></a><small><i>n/a</i></small></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:right; padding-right:0.5em;; vertical-align:middle;"><img alt="1 asterisk" data-file-height="98" data-file-width="106" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Asterisks_one_%28right%29.svg/16px-Asterisks_one_%28right%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Asterisks_one_%28right%29.svg/24px-Asterisks_one_%28right%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Asterisks_one_%28right%29.svg/32px-Asterisks_one_%28right%29.svg.png 2x" width="16"/></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="lanthanum; primordial"><a href="/wiki/Lanthanum" title="Lanthanum"><span style="display:block">La</span></a><small>414</small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="cerium; primordial"><a href="/wiki/Cerium" title="Cerium"><span style="display:block">Ce</span></a><small>414</small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="praseodymium; primordial"><a href="/wiki/Praseodymium" title="Praseodymium"><span style="display:block">Pr</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="neodymium; primordial"><a href="/wiki/Neodymium" title="Neodymium"><span style="display:block">Nd</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dashed #773300;" title="promethium; from decay"><a href="/wiki/Promethium" title="Promethium"><span style="display:block">Pm</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="samarium; primordial"><a href="/wiki/Samarium" title="Samarium"><span style="display:block">Sm</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="europium; primordial"><a href="/wiki/Europium" title="Europium"><span style="display:block">Eu</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="gadolinium; primordial"><a href="/wiki/Gadolinium" title="Gadolinium"><span style="display:block">Gd</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="terbium; primordial"><a href="/wiki/Terbium" title="Terbium"><span style="display:block">Tb</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="dysprosium; primordial"><a href="/wiki/Dysprosium" title="Dysprosium"><span style="display:block">Dy</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="holmium; primordial"><a href="/wiki/Holmium" title="Holmium"><span style="display:block">Ho</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="erbium; primordial"><a href="/wiki/Erbium" title="Erbium"><span style="display:block">Er</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="thulium; primordial"><a href="/wiki/Thulium" title="Thulium"><span style="display:block">Tm</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="ytterbium; primordial"><a href="/wiki/Ytterbium" title="Ytterbium"><span style="display:block">Yb</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="lutetium; primordial"><a href="/wiki/Lutetium" title="Lutetium"><span style="display:block">Lu</span></a><small><i>n/a</i></small></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:right; padding-right:0.5em;; vertical-align:middle;"><img alt="2 asterisks" data-file-height="98" data-file-width="106" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Asterisks_two.svg/16px-Asterisks_two.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Asterisks_two.svg/24px-Asterisks_two.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Asterisks_two.svg/32px-Asterisks_two.svg.png 2x" width="16"/></td>
+<td style="text-align:center; background:#ffffff; border:2px dashed #773300;" title="actinium; from decay"><a href="/wiki/Actinium" title="Actinium"><span style="display:block">Ac</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffcc; border:2px solid #8811ff;" title="thorium; primordial"><a href="/wiki/Thorium" title="Thorium"><span style="display:block">Th</span></a><small>514.4</small></td>
+<td style="text-align:center; background:#ffffff; border:2px dashed #773300;" title="protactinium; from decay"><a href="/wiki/Protactinium" title="Protactinium"><span style="display:block">Pa</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px solid #8811ff;" title="uranium; primordial"><a href="/wiki/Uranium" title="Uranium"><span style="display:block">U</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dashed #773300;" title="neptunium; from decay"><a href="/wiki/Neptunium" title="Neptunium"><span style="display:block">Np</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dashed #773300;" title="plutonium; from decay"><a href="/wiki/Plutonium" title="Plutonium"><span style="display:block">Pu</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="americium; synthetic"><a href="/wiki/Americium" title="Americium"><span style="display:block">Am</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="curium; synthetic"><a href="/wiki/Curium" title="Curium"><span style="display:block">Cm</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="berkelium; synthetic"><a href="/wiki/Berkelium" title="Berkelium"><span style="display:block">Bk</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="californium; synthetic"><a href="/wiki/Californium" title="Californium"><span style="display:block">Cf</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="einsteinium; synthetic"><a href="/wiki/Einsteinium" title="Einsteinium"><span style="display:block">Es</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="fermium; synthetic"><a href="/wiki/Fermium" title="Fermium"><span style="display:block">Fm</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="mendelevium; synthetic"><a href="/wiki/Mendelevium" title="Mendelevium"><span style="display:block">Md</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="nobelium; synthetic"><a href="/wiki/Nobelium" title="Nobelium"><span style="display:block">No</span></a><small><i>n/a</i></small></td>
+<td style="text-align:center; background:#ffffff; border:2px dotted #4499ff;" title="lawrencium; synthetic"><a href="/wiki/Lawrencium" title="Lawrencium"><span style="display:block">Lr</span></a><small><i>n/a</i></small></td>
+</tr>
+<tr>
+<td> </td>
+</tr>
+<tr>
+<td></td>
+<td colspan="18">Enthalpy in kJ/mol, measured at their respective normal boiling points</td>
+</tr>
+<tr style="height:2em; border:1px solid grey; text-align:center;">
+<td></td>
+<td colspan="3" style="background:#ffccff;">0–10 kJ/mol</td>
+<td colspan="3" style="background:#ccffcc;">10–100 kJ/mol</td>
+<td colspan="3" style="background:#99ccff;">100–300 kJ/mol</td>
+<td colspan="3" style="background:#ffffcc;">&gt;300 kJ/mol</td>
+</tr>
+</table>
+</div>
+</div>
+<p>The vaporization of metals is a key step in <a href="/wiki/Metal_vapor_synthesis" title="Metal vapor synthesis">metal vapor synthesis</a>, which exploits the increased reactivity of metal atoms or small particles relative to the bulk elements.</p>
+<h3><span class="mw-headline" id="Other_common_substances">Other common substances</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit&amp;section=7" title="Edit section: Other common substances">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Enthalpies of vaporization of common substances, measured at their respective standard boiling points:</p>
+<table class="wikitable sortable">
+<tr>
+<th>Compound</th>
+<th>Boiling Point at normal pressure</th>
+<th>Heat of vaporization<br/>
+(<a class="mw-redirect" href="/wiki/Kilojoule_per_mole" title="Kilojoule per mole">J mol<sup>−1</sup></a>)</th>
+<th>Heat of vaporization<br/>
+(J g<sup>−1</sup>)</th>
+</tr>
+<tr>
+<td><a href="/wiki/Acetone" title="Acetone">Acetone</a></td>
+<td>329 K, 56 °C, 133 °F</td>
+<td>31300</td>
+<td>538.9</td>
+</tr>
+<tr>
+<td><a href="/wiki/Aluminium" title="Aluminium">Aluminium</a></td>
+<td>2792 K, 2519 °C, 4566 °F</td>
+<td>294000</td>
+<td>10500</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ammonia" title="Ammonia">Ammonia</a></td>
+<td>240 K, −33.34 °C, −28 °F</td>
+<td>23350</td>
+<td>1371</td>
+</tr>
+<tr>
+<td><a href="/wiki/Butane" title="Butane">Butane</a></td>
+<td>272–274 K, −1 °C, 30–34 °F</td>
+<td>21000</td>
+<td>320</td>
+</tr>
+<tr>
+<td><a href="/wiki/Diethyl_ether" title="Diethyl ether">Diethyl ether</a></td>
+<td>307.8 K, 34.6 °C, 94.3 °F</td>
+<td>26170</td>
+<td>353.1</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ethanol" title="Ethanol">Ethanol</a></td>
+<td>352 K, 78.37 °C, 173 °F</td>
+<td>38600</td>
+<td>841</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hydrogen" title="Hydrogen">Hydrogen</a></td>
+<td>20.271 K, -252.879 °C, -423.182 °F</td>
+<td>460<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Accuracy_dispute#Disputed_statement" title="Wikipedia:Accuracy dispute"><span title="The material near this tag is possibly inaccurate or nonfactual. (April 2017)">dubious</span></a> <span class="metadata">– <a href="/wiki/Talk:Enthalpy_of_vaporization#Dubious" title="Talk:Enthalpy of vaporization">discuss</a></span></i>]</sup></td>
+<td>451.9</td>
+</tr>
+<tr>
+<td><a href="/wiki/Iron" title="Iron">Iron</a></td>
+<td>3134 K, 2862 °C, 5182 °F</td>
+<td>340000</td>
+<td>6090</td>
+</tr>
+<tr>
+<td><a href="/wiki/Isopropyl_alcohol" title="Isopropyl alcohol">Isopropyl alcohol</a></td>
+<td>356 K, 82.6 °C, 181 °F</td>
+<td>44000</td>
+<td>732.2</td>
+</tr>
+<tr>
+<td><a href="/wiki/Methane" title="Methane">Methane</a></td>
+<td>112 K, −161 °C, −259 °F</td>
+<td>8170</td>
+<td>480.6</td>
+</tr>
+<tr>
+<td><a href="/wiki/Methanol" title="Methanol">Methanol</a></td>
+<td>338 K, 64.7 °C, 148 °F</td>
+<td>35200<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></td>
+<td>1104</td>
+</tr>
+<tr>
+<td><a href="/wiki/Propane" title="Propane">Propane</a></td>
+<td>231 K,-42 °C, −44 °F</td>
+<td>15700</td>
+<td>356</td>
+</tr>
+<tr>
+<td><a href="/wiki/Phosphine" title="Phosphine">Phosphine</a></td>
+<td>185 K, −87.7 °C, −126 °F</td>
+<td>14600</td>
+<td>429.4</td>
+</tr>
+<tr>
+<td><a href="/wiki/Properties_of_water" title="Properties of water">Water</a></td>
+<td>373.15 K, 100 °C, 212 °F</td>
+<td>40660</td>
+<td>2257</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Enthalpy of fusion</a> (Specific heat of melting)</li>
+<li><a href="/wiki/Enthalpy_of_sublimation" title="Enthalpy of sublimation">Enthalpy of sublimation</a></li>
+<li><a href="/wiki/Joback_method" title="Joback method">Joback method</a> (Estimation of the heat of vaporization at the normal boiling point from molecular structures)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-style ambox-citation_style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>has an unclear citation style</b>. <span class="hide-when-compact">The references used may be made clearer with a different or consistent style of <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citation</a>, <a href="/wiki/Help:Footnotes" title="Help:Footnotes">footnoting</a>, or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external linking</a>.</span> <small><i>(March 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ge, Xinlei; Wang, Xidong (20 May 2009). "Estimation of Freezing Point Depression, Boiling Point Elevation, and Vaporization Enthalpies of Electrolyte Solutions". <i>Industrial &amp; Engineering Chemistry Research</i>. <b>48</b> (10): 5123–5123. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1021%2Fie900434h" rel="nofollow">10.1021/ie900434h</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnthalpy+of+vaporization&amp;rft.atitle=Estimation+of+Freezing+Point+Depression%2C+Boiling+Point+Elevation%2C+and+Vaporization+Enthalpies+of+Electrolyte+Solutions&amp;rft.au=Wang%2C+Xidong&amp;rft.aufirst=Xinlei&amp;rft.aulast=Ge&amp;rft.date=2009-05-20&amp;rft.genre=article&amp;rft.issue=10&amp;rft.jtitle=Industrial+%26+Engineering+Chemistry+Research&amp;rft.pages=5123-5123&amp;rft.volume=48&amp;rft_id=info%3Adoi%2F10.1021%2Fie900434h&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-GeWang2009-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-GeWang2009_2-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ge, Xinlei; Wang, Xidong (2009). "Calculations of Freezing Point Depression, Boiling Point Elevation, Vapor Pressure and Enthalpies of Vaporization of Electrolyte Solutions by a Modified Three-Characteristic Parameter Correlation Model". <i>Journal of Solution Chemistry</i>. <b>38</b> (9): 1097–1117. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0095-9782" rel="nofollow">0095-9782</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fs10953-009-9433-0" rel="nofollow">10.1007/s10953-009-9433-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnthalpy+of+vaporization&amp;rft.atitle=Calculations+of+Freezing+Point+Depression%2C+Boiling+Point+Elevation%2C+Vapor+Pressure+and+Enthalpies+of+Vaporization+of+Electrolyte+Solutions+by+a+Modified+Three-Characteristic+Parameter+Correlation+Model&amp;rft.au=Wang%2C+Xidong&amp;rft.aufirst=Xinlei&amp;rft.aulast=Ge&amp;rft.date=2009&amp;rft.genre=article&amp;rft.issn=0095-9782&amp;rft.issue=9&amp;rft.jtitle=Journal+of+Solution+Chemistry&amp;rft.pages=1097-1117&amp;rft.volume=38&amp;rft_id=info%3Adoi%2F10.1007%2Fs10953-009-9433-0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">NIST</span></li>
+</ol>
+</div>
+</div>
+<ul>
+<li><a class="external text" href="http://www.codata.info/resources/databases/key1.html" rel="nofollow">CODATA Key Values for Thermodynamics</a></li>
+<li><cite class="citation book">Gmelin, Leopold (1985). <i>Gmelin-Handbuch der anorganischen Chemie / 08 a</i> (8., völlig neu bearb. Aufl. ed.). Berlin [u.a.]: Springer. pp. 116–117. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-540-93516-9" title="Special:BookSources/3-540-93516-9">3-540-93516-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnthalpy+of+vaporization&amp;rft.aufirst=Leopold&amp;rft.aulast=Gmelin&amp;rft.btitle=Gmelin-Handbuch+der+anorganischen+Chemie+%2F+08+a&amp;rft.date=1985&amp;rft.edition=8.%2C+v%C3%B6llig+neu+bearb.+Aufl.&amp;rft.genre=book&amp;rft.isbn=3-540-93516-9&amp;rft.pages=116-117&amp;rft.place=Berlin+%5Bu.a.%5D&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><a class="external text" href="http://webbook.nist.gov/chemistry/" rel="nofollow">NIST Chemistry WebBook</a></li>
+<li><cite class="citation book">Young, Francis W. Sears, Mark W. Zemansky, Hugh D. (1982). <i>University physics.</i> (6th ed.). Reading, Mass.: Addison-Wesley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-201-07199-1" title="Special:BookSources/0-201-07199-1">0-201-07199-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AEnthalpy+of+vaporization&amp;rft.aufirst=Francis+W.+Sears%2C+Mark+W.+Zemansky%2C+Hugh+D.&amp;rft.aulast=Young&amp;rft.btitle=University+physics.&amp;rft.date=1982&amp;rft.edition=6th&amp;rft.genre=book&amp;rft.isbn=0-201-07199-1&amp;rft.place=Reading%2C+Mass.&amp;rft.pub=Addison-Wesley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<div aria-labelledby="States_of_matter_.28list.29" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:States_of_matter" title="Template:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:States_of_matter" title="Template talk:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:States_of_matter&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="States_of_matter_.28list.29" style="font-size:114%;margin:0 4em"><a href="/wiki/State_of_matter" title="State of matter">States of matter</a> (<a href="/wiki/List_of_states_of_matter" title="List of states of matter">list</a>)</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">State</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solid" title="Solid">Solid</a></li>
+<li><a href="/wiki/Liquid" title="Liquid">Liquid</a></li>
+<li><a href="/wiki/Gas" title="Gas">Gas</a> / <a href="/wiki/Vapor" title="Vapor">Vapor</a></li>
+<li><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasma</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Phase_change_-_en.svg"><img alt="Phase change - en.svg" data-file-height="524" data-file-width="493" height="266" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/250px-Phase_change_-_en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/375px-Phase_change_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/500px-Phase_change_-_en.svg.png 2x" width="250"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Low energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bose%E2%80%93Einstein_condensate" title="Bose–Einstein condensate">Bose–Einstein condensate</a></li>
+<li><a href="/wiki/Fermionic_condensate" title="Fermionic condensate">Fermionic condensate</a></li>
+<li><a href="/wiki/Degenerate_matter" title="Degenerate matter">Degenerate matter</a></li>
+<li><a href="/wiki/Quantum_Hall_effect" title="Quantum Hall effect">Quantum Hall</a></li>
+<li><a href="/wiki/Rydberg_matter" title="Rydberg matter">Rydberg matter</a></li>
+<li><a href="/wiki/Strange_matter" title="Strange matter">Strange matter</a></li>
+<li><a href="/wiki/Superfluidity" title="Superfluidity">Superfluid</a></li>
+<li><a href="/wiki/Supersolid" title="Supersolid">Supersolid</a></li>
+<li><a class="mw-redirect" href="/wiki/Photonic_matter" title="Photonic matter">Photonic matter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">High energy</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/QCD_matter" title="QCD matter">QCD matter</a></li>
+<li><a href="/wiki/Lattice_QCD" title="Lattice QCD">Lattice QCD</a></li>
+<li><a href="/wiki/Quark%E2%80%93gluon_plasma" title="Quark–gluon plasma">Quark–gluon plasma</a></li>
+<li><a href="/wiki/Supercritical_fluid" title="Supercritical fluid">Supercritical fluid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other states</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Glass" title="Glass">Glass</a></li>
+<li><a href="/wiki/Liquid_crystal" title="Liquid crystal">Liquid crystal</a></li>
+<li><a href="/wiki/Quantum_spin_liquid" title="Quantum spin liquid">Quantum spin liquid</a></li>
+<li>Magnetically ordered
+<ul>
+<li><a href="/wiki/Antiferromagnetism" title="Antiferromagnetism">Antiferromagnet</a></li>
+<li><a href="/wiki/Ferrimagnetism" title="Ferrimagnetism">Ferrimagnet</a></li>
+<li><a href="/wiki/Ferromagnetism" title="Ferromagnetism">Ferromagnet</a></li>
+</ul>
+</li>
+<li><a href="/wiki/String-net_liquid" title="String-net liquid">String-net liquid</a></li>
+<li><a href="/wiki/Superglass" title="Superglass">Superglass</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Phase_transition" title="Phase transition">Transitions</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boiling" title="Boiling">Boiling</a></li>
+<li><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a></li>
+<li><a href="/wiki/Condensation" title="Condensation">Condensation</a></li>
+<li><a href="/wiki/Critical_line_(thermodynamics)" title="Critical line (thermodynamics)">Critical line</a></li>
+<li><a href="/wiki/Critical_point_(thermodynamics)" title="Critical point (thermodynamics)">Critical point</a></li>
+<li><a href="/wiki/Crystallization" title="Crystallization">Crystallization</a></li>
+<li><a href="/wiki/Deposition_(phase_transition)" title="Deposition (phase transition)">Deposition</a></li>
+<li><a href="/wiki/Evaporation" title="Evaporation">Evaporation</a></li>
+<li><a href="/wiki/Flash_evaporation" title="Flash evaporation">Flash evaporation</a></li>
+<li><a href="/wiki/Freezing" title="Freezing">Freezing</a></li>
+<li><a href="/wiki/Chemical_ionization" title="Chemical ionization">Chemical ionization</a></li>
+<li><a href="/wiki/Ionization" title="Ionization">Ionization</a></li>
+<li><a href="/wiki/Lambda_point" title="Lambda point">Lambda point</a></li>
+<li><a href="/wiki/Melting" title="Melting">Melting</a></li>
+<li><a href="/wiki/Melting_point" title="Melting point">Melting point</a></li>
+<li><a href="/wiki/Plasma_recombination" title="Plasma recombination">Recombination</a></li>
+<li><a href="/wiki/Regelation" title="Regelation">Regelation</a></li>
+<li><a href="/wiki/Vapor%E2%80%93liquid_equilibrium" title="Vapor–liquid equilibrium">Saturated fluid</a></li>
+<li><a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">Sublimation</a></li>
+<li><a href="/wiki/Supercooling" title="Supercooling">Supercooling</a></li>
+<li><a href="/wiki/Triple_point" title="Triple point">Triple point</a></li>
+<li><a href="/wiki/Vaporization" title="Vaporization">Vaporization</a></li>
+<li><a href="/wiki/Vitrification" title="Vitrification">Vitrification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Quantities</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Enthalpy of fusion</a></li>
+<li><a href="/wiki/Enthalpy_of_sublimation" title="Enthalpy of sublimation">Enthalpy of sublimation</a></li>
+<li><a class="mw-selflink selflink">Enthalpy of vaporization</a></li>
+<li><a href="/wiki/Latent_heat" title="Latent heat">Latent heat</a></li>
+<li><a href="/wiki/Latent_internal_energy" title="Latent internal energy">Latent internal energy</a></li>
+<li><a href="/wiki/Trouton%27s_ratio" title="Trouton's ratio">Trouton's ratio</a></li>
+<li><a href="/wiki/Volatility_(chemistry)" title="Volatility (chemistry)">Volatility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Binodal" title="Binodal">Binodal</a></li>
+<li><a href="/wiki/Compressed_fluid" title="Compressed fluid">Compressed fluid</a></li>
+<li><a href="/wiki/Cooling_curve" title="Cooling curve">Cooling curve</a></li>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Leidenfrost_effect" title="Leidenfrost effect">Leidenfrost effect</a></li>
+<li><a href="/wiki/Macroscopic_quantum_phenomena" title="Macroscopic quantum phenomena">Macroscopic quantum phenomena</a></li>
+<li><a href="/wiki/Mpemba_effect" title="Mpemba effect">Mpemba effect</a></li>
+<li><a class="mw-redirect" href="/wiki/Order_and_disorder_(physics)" title="Order and disorder (physics)">Order and disorder (physics)</a></li>
+<li><a href="/wiki/Spinodal" title="Spinodal">Spinodal</a></li>
+<li><a href="/wiki/Superconductivity" title="Superconductivity">Superconductivity</a></li>
+<li><a href="/wiki/Superheated_water" title="Superheated water">Superheated vapor</a></li>
+<li><a href="/wiki/Superheating" title="Superheating">Superheating</a></li>
+<li><a href="/wiki/Thermo-dielectric_effect" title="Thermo-dielectric effect">Thermo-dielectric effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1214
+Cached time: 20171003084935
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.512 seconds
+Real time usage: 0.636 seconds
+Preprocessor visited node count: 9987/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 88147/2097152 bytes
+Template argument size: 9532/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.237/10.000 seconds
+Lua memory usage: 2.75 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  486.295      1 -total
+ 67.33%  327.425      1 Template:Periodic_table_(enthalpy_of_vaporisation)
+ 56.95%  276.947    118 Template:Element_cell_property
+ 51.00%  247.995    122 Template:Element_color
+ 10.63%   51.685      1 Template:Reflist
+  9.43%   45.875      1 Template:Dubious
+  8.93%   43.408      1 Template:Fix
+  8.02%   39.002      2 Template:Cite_journal
+  4.79%   23.278      1 Template:Use_dmy_dates
+  4.21%   20.492      1 Template:Delink
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:37710-0!canonical!math=5 and timestamp 20171003084934 and revision id 784443788
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Enthalpy_of_vaporization&amp;oldid=784443788">https://en.wikipedia.org/w/index.php?title=Enthalpy_of_vaporization&amp;oldid=784443788</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Enthalpy" title="Category:Enthalpy">Enthalpy</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_October_2014" title="Category:Use dmy dates from October 2014">Use dmy dates from October 2014</a></li><li><a href="/wiki/Category:All_accuracy_disputes" title="Category:All accuracy disputes">All accuracy disputes</a></li><li><a href="/wiki/Category:Articles_with_disputed_statements_from_April_2017" title="Category:Articles with disputed statements from April 2017">Articles with disputed statements from April 2017</a></li><li><a href="/wiki/Category:Wikipedia_references_cleanup_from_March_2016" title="Category:Wikipedia references cleanup from March 2016">Wikipedia references cleanup from March 2016</a></li><li><a href="/wiki/Category:All_articles_needing_references_cleanup" title="Category:All articles needing references cleanup">All articles needing references cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_March_2016" title="Category:Articles covered by WikiProject Wikify from March 2016">Articles covered by WikiProject Wikify from March 2016</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Enthalpy+of+vaporization" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Enthalpy+of+vaporization" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Enthalpy_of_vaporization" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Enthalpy_of_vaporization" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Enthalpy_of_vaporization">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Enthalpy_of_vaporization" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Enthalpy_of_vaporization" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;oldid=784443788" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Enthalpy_of_vaporization&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q483538" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Enthalpy_of_vaporization&amp;id=784443788" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Enthalpy+of+vaporization">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Enthalpy+of+vaporization&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DEnthalpy%2Bof%2Bvaporization%26returnto%3DEnthalpy%2Bof%2Bvaporization%26oldid%3D784443788%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Enthalpy_of_vaporization&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Verdampingswarmte" hreflang="af" lang="af" title="Verdampingswarmte – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9_%D8%AA%D8%A8%D8%AE%D8%B1" hreflang="ar" lang="ar" title="حرارة تبخر – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Entalp%C3%ADa_de_vaporizaci%C3%B3n" hreflang="an" lang="an" title="Entalpía de vaporización – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Entalp%C3%ADa_de_vaporizaci%C3%B3n" hreflang="ast" lang="ast" title="Entalpía de vaporización – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BF%D0%B5%D1%86%D0%B8%D1%84%D0%B8%D1%87%D0%BD%D0%B0_%D1%82%D0%BE%D0%BF%D0%BB%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%B8%D0%B7%D0%BF%D0%B0%D1%80%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="bg" lang="bg" title="Специфична топлина на изпарение – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Toplota_isparavanja" hreflang="bs" lang="bs" title="Toplota isparavanja – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Calor_de_vaporitzaci%C3%B3" hreflang="ca" lang="ca" title="Calor de vaporització – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/M%C4%9Brn%C3%A9_skupensk%C3%A9_teplo_varu" hreflang="cs" lang="cs" title="Měrné skupenské teplo varu – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Fordampningsvarme" hreflang="da" lang="da" title="Fordampningsvarme – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Verdampfungsw%C3%A4rme" hreflang="de" lang="de" title="Verdampfungswärme – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Aurustumissoojus" hreflang="et" lang="et" title="Aurustumissoojus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Entalp%C3%ADa_de_vaporizaci%C3%B3n" hreflang="es" lang="es" title="Entalpía de vaporización – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Entalpio_de_vaporigo" hreflang="eo" lang="eo" title="Entalpio de vaporigo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Irakite-entalpia" hreflang="eu" lang="eu" title="Irakite-entalpia – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A2%D9%86%D8%AA%D8%A7%D9%84%D9%BE%DB%8C_%D8%AA%D8%A8%D8%AE%DB%8C%D8%B1" hreflang="fa" lang="fa" title="آنتالپی تبخیر – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89nergie_de_vaporisation" hreflang="fr" lang="fr" title="Énergie de vaporisation – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Entalp%C3%ADa_de_vaporizaci%C3%B3n" hreflang="gl" lang="gl" title="Entalpía de vaporización – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B8%B0%ED%99%94%EC%97%B4" hreflang="ko" lang="ko" title="기화열 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Toplina_isparavanja" hreflang="hr" lang="hr" title="Toplina isparavanja – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Entalpi_penguapan" hreflang="id" lang="id" title="Entalpi penguapan – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Entalpia_di_vaporizzazione" hreflang="it" lang="it" title="Entalpia di vaporizzazione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%AA%D7%9C%D7%A4%D7%99%D7%99%D7%AA_%D7%90%D7%99%D7%93%D7%95%D7%99" hreflang="he" lang="he" title="אנתלפיית אידוי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Kalor_panguwaban" hreflang="jv" lang="jv" title="Kalor panguwaban – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9D%E1%83%A0%E1%83%97%E1%83%A5%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%A1_%E1%83%99%E1%83%A3%E1%83%97%E1%83%A0%E1%83%98_%E1%83%A1%E1%83%98%E1%83%97%E1%83%91%E1%83%9D" hreflang="ka" lang="ka" title="აორთქლების კუთრი სითბო – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D1%83%D0%BB%D0%B0%D0%BD%D1%83_%D0%B6%D1%8B%D0%BB%D1%83%D1%8B" hreflang="kk" lang="kk" title="Булану жылуы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Garavimo_%C5%A1iluma" hreflang="lt" lang="lt" title="Garavimo šiluma – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-jbo"><a class="interlanguage-link-target" href="https://jbo.wikipedia.org/wiki/manri_febybi%27o_nejni" hreflang="jbo" lang="jbo" title="manri febybi'o nejni – Lojban">La .lojban.</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/P%C3%A1rolg%C3%A1sh%C5%91" hreflang="hu" lang="hu" title="Párolgáshő – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%BD%D0%B0_%D0%BD%D0%B0_%D0%B8%D1%81%D0%BF%D0%B0%D1%80%D1%83%D0%B2%D0%B0%D1%9A%D0%B5" hreflang="mk" lang="mk" title="Топлина на испарување – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Entalpi_pengewapan" hreflang="ms" lang="ms" title="Entalpi pengewapan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Verdampingswarmte" hreflang="nl" lang="nl" title="Verdampingswarmte – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E8%92%B8%E7%99%BA%E7%86%B1" hreflang="ja" lang="ja" title="蒸発熱 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Fordampningsvarme" hreflang="no" lang="no" title="Fordampningsvarme – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Fordampingsvarme" hreflang="nn" lang="nn" title="Fordampingsvarme – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Solishtirma_qaynash_issiqligi" hreflang="uz" lang="uz" title="Solishtirma qaynash issiqligi – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ciep%C5%82o_parowania" hreflang="pl" lang="pl" title="Ciepło parowania – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Entalpia_de_vaporiza%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Entalpia de vaporização – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/C%C4%83ldur%C4%83_latent%C4%83_de_vaporizare" hreflang="ro" lang="ro" title="Căldură latentă de vaporizare – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A3%D0%B4%D0%B5%D0%BB%D1%8C%D0%BD%D0%B0%D1%8F_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D1%82%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D0%BE%D0%B1%D1%80%D0%B0%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8F_%D0%B8_%D0%BA%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D0%B8" hreflang="ru" lang="ru" title="Удельная теплота парообразования и конденсации – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Enthalpy_o_vapourisation" hreflang="sco" lang="sco" title="Enthalpy o vapourisation – Scots">Scots</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B7%80%E0%B7%8F%E0%B7%82%E0%B7%8A%E0%B6%B4%E0%B7%93%E0%B6%9A%E0%B6%BB%E0%B6%AB%E0%B6%BA%E0%B7%9A_%E0%B6%91%E0%B6%B1%E0%B7%8A%E0%B6%AD%E0%B7%90%E0%B6%BD%E0%B7%8A%E0%B6%B4%E0%B7%92%E0%B6%BA" hreflang="si" lang="si" title="වාෂ්පීකරණයේ එන්තැල්පිය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Enthalpy_of_vaporization" hreflang="simple" lang="simple" title="Enthalpy of vaporization – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Mern%C3%A9_skupensk%C3%A9_teplo_varu" hreflang="sk" lang="sk" title="Merné skupenské teplo varu – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Izparilna_toplota" hreflang="sl" lang="sl" title="Izparilna toplota – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%BE%D1%82%D0%B0_%D0%B8%D1%81%D0%BF%D0%B0%D1%80%D0%B0%D0%B2%D0%B0%D1%9A%D0%B0" hreflang="sr" lang="sr" title="Топлота испаравања – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Toplota_isparavanja" hreflang="sh" lang="sh" title="Toplota isparavanja – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/H%C3%B6yrystymisl%C3%A4mp%C3%B6" hreflang="fi" lang="fi" title="Höyrystymislämpö – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/%C3%85ngbildningsv%C3%A4rme" hreflang="sv" lang="sv" title="Ångbildningsvärme – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B5%E0%AE%BF%E0%AE%AF%E0%AE%BE%E0%AE%A4%E0%AE%B2%E0%AF%8D_%E0%AE%89%E0%AE%B3%E0%AF%8D%E0%AE%B3%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%B5%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="ஆவியாதல் உள்ளீட்டு வெப்பம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99%E0%B9%81%E0%B8%9D%E0%B8%87%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%81%E0%B8%A5%E0%B8%B2%E0%B8%A2%E0%B9%80%E0%B8%9B%E0%B9%87%E0%B8%99%E0%B9%84%E0%B8%AD" hreflang="th" lang="th" title="ความร้อนแฝงของการกลายเป็นไอ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Buharla%C5%9Fma_%C4%B1s%C4%B1s%C4%B1" hreflang="tr" lang="tr" title="Buharlaşma ısısı – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B8%D1%82%D0%BE%D0%BC%D0%B0_%D1%82%D0%B5%D0%BF%D0%BB%D0%BE%D1%82%D0%B0_%D0%BF%D0%B0%D1%80%D0%BE%D1%83%D1%82%D0%B2%D0%BE%D1%80%D0%B5%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Питома теплота пароутворення – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%AD%D8%B1%D8%A7%D8%B1%D8%AA_%D8%AA%D8%A8%D8%AE%DB%8C%D8%B1" hreflang="ur" lang="ur" title="حرارت تبخیر – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Nhi%E1%BB%87t_bay_h%C6%A1i" hreflang="vi" lang="vi" title="Nhiệt bay hơi – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B1%BD%E5%8C%96%E7%83%AD" hreflang="zh" lang="zh" title="汽化热 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q483538#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 8 June 2017, at 10:30.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Enthalpy_of_vaporization&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.512","walltime":"0.636","ppvisitednodes":{"value":9987,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":88147,"limit":2097152},"templateargumentsize":{"value":9532,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  486.295      1 -total"," 67.33%  327.425      1 Template:Periodic_table_(enthalpy_of_vaporisation)"," 56.95%  276.947    118 Template:Element_cell_property"," 51.00%  247.995    122 Template:Element_color"," 10.63%   51.685      1 Template:Reflist","  9.43%   45.875      1 Template:Dubious","  8.93%   43.408      1 Template:Fix","  8.02%   39.002      2 Template:Cite_journal","  4.79%   23.278      1 Template:Use_dmy_dates","  4.21%   20.492      1 Template:Delink"]},"scribunto":{"limitreport-timeusage":{"value":"0.237","limit":"10.000"},"limitreport-memusage":{"value":2882964,"limit":52428800}},"cachereport":{"origin":"mw1214","timestamp":"20171003084935","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1269"});});</script>
+</body>
+</html>

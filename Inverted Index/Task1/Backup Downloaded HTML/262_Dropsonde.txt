@@ -1,0 +1,456 @@
+https://en.wikipedia.org/wiki/GPS_dropsonde
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Dropsonde - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dropsonde","wgTitle":"Dropsonde","wgCurRevisionId":800543983,"wgRevisionId":800543983,"wgArticleId":971289,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Meteorological instrumentation and equipment"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dropsonde","wgRelevantArticleId":971289,"wgRequestId":"WdOxAApAICsAAIVzBykAAAAK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"GPS_dropsonde","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Dropsonde","wgWikibaseItemId":"Q2742549","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/0/06/Dropsonde_delivery_system.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dropsonde" rel="alternate"/>
+<link href="/w/index.php?title=Dropsonde&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Dropsonde&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Dropsonde" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dropsonde rootpage-Dropsonde vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Dropsonde</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=GPS_dropsonde&amp;redirect=no" title="GPS dropsonde">GPS dropsonde</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the weather reconnaissance device. For the album by Biosphere, see <a href="/wiki/Dropsonde_(album)" title="Dropsonde (album)">Dropsonde (album)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Dropsonde_delivery_system.jpg"><img alt="" class="thumbimage" data-file-height="280" data-file-width="427" height="144" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dropsonde_delivery_system.jpg/220px-Dropsonde_delivery_system.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/Dropsonde_delivery_system.jpg/330px-Dropsonde_delivery_system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/0/06/Dropsonde_delivery_system.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Dropsonde_delivery_system.jpg" title="Enlarge"></a></div>
+Dropsonde delivery system on a NOAA P-3 Hurricane Hunter.</div>
+</div>
+</div>
+<p>A <b>dropsonde</b> is an expendable <a href="/wiki/Weather" title="Weather">weather</a> reconnaissance device created by the <a href="/wiki/National_Center_for_Atmospheric_Research" title="National Center for Atmospheric Research">National Center for Atmospheric Research</a> (NCAR), designed to be dropped from an <a href="/wiki/Aircraft" title="Aircraft">aircraft</a> at altitude to more accurately measure (and therefore track) tropical storm conditions as the device falls to the surface. The sonde contains a <a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a> receiver, along with <a href="/wiki/Pressure" title="Pressure">pressure</a>, <a href="/wiki/Temperature" title="Temperature">temperature</a>, and <a href="/wiki/Humidity" title="Humidity">humidity</a> (PTH) <a href="/wiki/Sensor" title="Sensor">sensors</a> to capture <a href="/wiki/Atmosphere" title="Atmosphere">atmospheric</a> profiles and <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamic</a> <a href="/wiki/Data" title="Data">data</a>. It typically relays these data to a computer in the aircraft by radio transmission.</p>
+<p>The device's descent is slowed and stabilized by a small square-cone parachute, allowing for multiple readings to be taken before it reaches the ocean surface. The sonde is a lightweight system designed to be operated by one person and is launched through a chute installed in the measuring aircraft, with immediate deployment of the parachute to reduce or eliminate any <a href="/wiki/Pendulum" title="Pendulum">pendulum</a> effect, and typically drops from three to five minutes. The sonde has a casing of stiff cardboard. During a typical hurricane season, the <a href="/wiki/53d_Weather_Reconnaissance_Squadron" title="53d Weather Reconnaissance Squadron">53d Weather Reconnaissance Squadron</a> Hurricane Hunters deploys 1000 to 1500 sondes on training and storm missions.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Description"><span class="tocnumber">1</span> <span class="toctext">Description</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Driftsondes"><span class="tocnumber">2</span> <span class="toctext">Driftsondes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Description">Description</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dropsonde&amp;action=edit&amp;section=1" title="Edit section: Description">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:282px;"><a class="image" href="/wiki/File:Dropsonde.png"><img alt="" class="thumbimage" data-file-height="777" data-file-width="640" height="340" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dropsonde.png/280px-Dropsonde.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dropsonde.png/420px-Dropsonde.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/24/Dropsonde.png/560px-Dropsonde.png 2x" width="280"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Dropsonde.png" title="Enlarge"></a></div>
+A diagram of an NCAR GPS Dropsonde</div>
+</div>
+</div>
+<p>Dropsondes are commonly used by <a href="/wiki/Hurricane_hunters" title="Hurricane hunters">hurricane hunters</a> to obtain meteorological data on <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">hurricanes</a>, and these data are then fed into supercomputers for <a href="/wiki/Numerical_weather_prediction" title="Numerical weather prediction">numerical weather prediction</a>, enabling forecasters to track and predict what will happen to the hurricane. To obtain the data, an aircraft, either operated by NOAA or the <a class="mw-redirect" href="/wiki/U.S._Air_Force" title="U.S. Air Force">U.S. Air Force</a> flies into the hurricane. The dropsonde is released when the plane reaches the eye (center) of the hurricane, normally at around 10,000 feet (approx. 3,000 meters). The dropsonde sends back coded data, which includes:</p>
+<ol>
+<li>The date and time of the drop. Time is always in <a class="mw-redirect" href="/wiki/UTC" title="UTC">UTC</a>.</li>
+<li>Location of the drop, indicated by the <a href="/wiki/Latitude" title="Latitude">latitude</a>, <a href="/wiki/Longitude" title="Longitude">longitude</a>, and <a href="/wiki/Marsden_square" title="Marsden square">Marsden square</a>.</li>
+<li>Standard isobaric surfaces: the height, temperature, <a class="mw-redirect" href="/wiki/Dewpoint_depression" title="Dewpoint depression">dewpoint depression</a>, <a href="/wiki/Wind_speed" title="Wind speed">wind speed</a>, and <a href="/wiki/Wind_direction" title="Wind direction">wind direction</a> at the surface, and at where the following air pressures are found as the dropsonde is descending: 1000, 925, 850, 700, 500, 400, 300, 250 <a href="/wiki/Pascal_(unit)#Hectopascal_and_millibar_units" title="Pascal (unit)">hectopascals</a> (hPa).</li>
+<li>Significant isobaric surfaces: the temperature and dewpoint depression of other levels of atmospheric pressure deemed significant</li>
+<li>Air pressure, temperature, dewpoint depression, wind speed and wind direction of the <a href="/wiki/Tropopause" title="Tropopause">tropopause</a>.</li>
+</ol>
+<p>Also included in the report is information on the aircraft, the mission, the dropsonde itself, and other remarks.</p>
+<h2><span class="mw-headline" id="Driftsondes">Driftsondes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dropsonde&amp;action=edit&amp;section=2" title="Edit section: Driftsondes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Dropsonde_U.S._Air_Force.jpeg"><img alt="" class="thumbimage" data-file-height="1233" data-file-width="1127" height="241" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dropsonde_U.S._Air_Force.jpeg/220px-Dropsonde_U.S._Air_Force.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dropsonde_U.S._Air_Force.jpeg/330px-Dropsonde_U.S._Air_Force.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Dropsonde_U.S._Air_Force.jpeg/440px-Dropsonde_U.S._Air_Force.jpeg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Dropsonde_U.S._Air_Force.jpeg" title="Enlarge"></a></div>
+Dropsonde (source <a class="mw-redirect" href="/wiki/US_Air_Force" title="US Air Force">US Air Force</a>)</div>
+</div>
+</div>
+<p>A driftsonde is a high altitude, durable <a href="/wiki/Weather_balloon" title="Weather balloon">weather balloon</a> holding a transmitter and a bank (35 in the first models) of miniature dropsonde capsules. These water-bottle-sized transmitters have enough power to send information to the balloon during their parachute-controlled fall. The balloon carries a transmitter powerful enough to relay readings to a satellite. The single-use sensor packages cost US$300 to $400 each.<sup class="reference" id="cite_ref-SciDay_1-0"><a href="#cite_note-SciDay-1">[1]</a></sup></p>
+<p>After being introduced in April 2007, around a thousand a year are expected to be used to track winds in hurricane breeding grounds off of West Africa, which are outside the operating areas of Hurricane Hunter planes.<sup class="reference" id="cite_ref-SciDay_1-1"><a href="#cite_note-SciDay-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dropsonde&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Aerology" title="Aerology">Aerology</a></li>
+<li><a href="/wiki/Radiosonde" title="Radiosonde">Radiosonde</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dropsonde&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-SciDay-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-SciDay_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-SciDay_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20130514132957/http://www.sciencedaily.com/videos/2007/0405-balloons_track_storms_and_save_lives.htm" rel="nofollow">"Balloons Track Storms And Save Lives: Atmospheric Scientists And Meteorologists Use Driftsondes For Hurricane Forecasts"</a>. Science Daily. April 1, 2007. Archived from <a class="external text" href="http://www.sciencedaily.com/videos/2007/0405-balloons_track_storms_and_save_lives.htm" rel="nofollow">the original</a> on May 14, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-05-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADropsonde&amp;rft.btitle=Balloons+Track+Storms+And+Save+Lives%3A+Atmospheric+Scientists+And+Meteorologists+Use+Driftsondes+For+Hurricane+Forecasts&amp;rft.date=2007-04-01&amp;rft.genre=unknown&amp;rft.pub=Science+Daily&amp;rft_id=http%3A%2F%2Fwww.sciencedaily.com%2Fvideos%2F2007%2F0405-balloons_track_storms_and_save_lives.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dropsonde&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Radiosonde_and_dropsonde" title="commons:Category:Radiosonde and dropsonde">Radiosonde and dropsonde</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.aoc.noaa.gov/instrumentation.htm" rel="nofollow">Data from Expendable Probes (NOAA site)</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20070607165932/http://www.eol.ucar.edu/rtf/facilities/dropsonde/" rel="nofollow">NCAR GPS Dropsonde System (AVAPS)</a></li>
+<li><a class="external text" href="http://www.vaisala.com/en/products/soundingsystemsandradiosondes/dropsonde/Pages/RD94.aspx" rel="nofollow">Vaisala Dropsonde RD94</a></li>
+</ul>
+<div aria-labelledby="Earth-based_meteorological_observation_systems_and_weather_stations" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Earth-based_meteorological_observation" title="Template:Earth-based meteorological observation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Earth-based_meteorological_observation" title="Template talk:Earth-based meteorological observation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Earth-based_meteorological_observation&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Earth-based_meteorological_observation_systems_and_weather_stations" style="font-size:114%;margin:0 4em">Earth-based meteorological observation systems and <a href="/wiki/Weather_station" title="Weather station">weather stations</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="General" style="font-size:114%;margin:0 4em">General</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Aircraft_report" title="Aircraft report">Aircraft report (AIREP)</a></li>
+<li><a href="/wiki/Automated_airport_weather_station" title="Automated airport weather station">Automated airport weather station</a></li>
+<li><a href="/wiki/Automatic_weather_station" title="Automatic weather station">Automatic weather station (AWS)</a></li>
+<li><a href="/wiki/BUFR" title="BUFR">Binary Universal Form for the Representation of meteorological data (BUFR)</a></li>
+<li><a class="mw-selflink selflink">Dropsonde</a></li>
+<li><a class="mw-redirect" href="/wiki/Hurricane_Hunters" title="Hurricane Hunters">Hurricane Hunters</a></li>
+<li><a href="/wiki/Mesonet" title="Mesonet">Mesonet</a></li>
+<li><a href="/wiki/METAR" title="METAR">Meteorological Aerodrome Report (METAR)</a></li>
+<li><a href="/wiki/Pilot_report" title="Pilot report">Pilot report (PIREP)</a></li>
+<li><a href="/wiki/Weather_ship" title="Weather ship">Weather ship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="By_region" style="font-size:114%;margin:0 4em">By region</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Worldwide</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aircraft_Communications_Addressing_and_Reporting_System" title="Aircraft Communications Addressing and Reporting System">Aircraft Communication Addressing and Reporting System (ACARS)</a></li>
+<li><a href="/wiki/Aircraft_Meteorological_Data_Relay" title="Aircraft Meteorological Data Relay">Aircraft Meteorological Data Relay (AMDAR)</a></li>
+<li><a href="/wiki/Argo_(oceanography)" title="Argo (oceanography)">Argo</a></li>
+<li><a href="/wiki/Automated_Meteorological_Data_Acquisition_System" title="Automated Meteorological Data Acquisition System">Automated Meteorological Data Acquisition System (AMeDAS)</a></li>
+<li><a href="/wiki/Deep-ocean_Assessment_and_Reporting_of_Tsunamis" title="Deep-ocean Assessment and Reporting of Tsunamis">Deep-ocean Assessment and Reporting of Tsunamis (DART)</a></li>
+<li><a href="/wiki/FluxNet" title="FluxNet">FluxNet Project (FluxNet)</a></li>
+<li><a href="/wiki/Global_Atmosphere_Watch" title="Global Atmosphere Watch">Global Atmosphere Watch (GAW)</a></li>
+<li><a href="/wiki/Global_Sea_Level_Observing_System" title="Global Sea Level Observing System">Global Sea Level Observing System (GLOSS)</a></li>
+<li><a href="/wiki/Prediction_and_Research_Moored_Array_in_the_Atlantic" title="Prediction and Research Moored Array in the Atlantic">Prediction and Research Moored Array in the Atlantic (PIRATA)</a></li>
+<li><a href="/wiki/Research_Moored_Array_for_African-Asian-Australian_Monsoon_Analysis_and_Prediction" title="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction">Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction (RAMA)</a></li>
+<li><a href="/wiki/Tropical_Atmosphere_Ocean_project" title="Tropical Atmosphere Ocean project">Tropical Atmosphere Ocean project (TAO/TRITON)</a></li>
+<li><a href="/wiki/Voluntary_observing_ship_program" title="Voluntary observing ship program">Voluntary observing ship program</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">United States</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Citizen_Weather_Observer_Program" title="Citizen Weather Observer Program">Citizen Weather Observer Program (CWOP)</a></li>
+<li><a href="/wiki/Coastal-Marine_Automated_Network" title="Coastal-Marine Automated Network">Coastal-Marine Automated Network (C-MAN)</a></li>
+<li><a href="/wiki/NEXRAD" title="NEXRAD">NEXRAD radar</a></li>
+<li><a href="/wiki/SNOTEL" title="SNOTEL">Snow Telemetry (SNOTEL)</a></li>
+<li><a href="/wiki/Remote_Automated_Weather_Station" title="Remote Automated Weather Station">Remote Automated Weather Station (RAWS)</a></li>
+<li><a href="/wiki/Road_Weather_Information_System" title="Road Weather Information System">Road Weather Information System (RWIS)</a></li>
+<li><a href="/wiki/TAMDAR" title="TAMDAR">Tropospheric Airborne Meteorological Data Reporting (TAMDAR)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Earth-based_meteorological_equipment_and_instrumentation" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_equipment" title="Template:Meteorological equipment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_equipment" title="Template talk:Meteorological equipment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_equipment&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Earth-based_meteorological_equipment_and_instrumentation" style="font-size:114%;margin:0 4em">Earth-based <a href="/wiki/Meteorological_instrumentation" title="Meteorological instrumentation">meteorological equipment and instrumentation</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anemometer" title="Anemometer">Anemometer</a></li>
+<li><a href="/wiki/Atmometer" title="Atmometer">Atmometer</a></li>
+<li><a href="/wiki/Barograph" title="Barograph">Barograph</a></li>
+<li><a href="/wiki/Barometer" title="Barometer">Barometer</a></li>
+<li><a href="/wiki/Ceiling_balloon" title="Ceiling balloon">Ceiling balloon</a></li>
+<li><a href="/wiki/Ceiling_projector" title="Ceiling projector">Ceiling projector</a></li>
+<li><a href="/wiki/Ceilometer" title="Ceilometer">Ceilometer</a></li>
+<li><a href="/wiki/Dark_adaptor_goggles" title="Dark adaptor goggles">Dark adaptor goggles</a></li>
+<li><a href="/wiki/Dewcell" title="Dewcell">Dewcell</a></li>
+<li><a href="/wiki/Disdrometer" title="Disdrometer">Disdrometer</a></li>
+<li><a class="mw-selflink selflink">Dropsonde</a></li>
+<li><a href="/wiki/Field_mill" title="Field mill">Field mill</a></li>
+<li><a href="/wiki/Heat_flux_sensor" title="Heat flux sensor">Heat flux sensor</a></li>
+<li><a href="/wiki/Hygrometer" title="Hygrometer">Hygrometer</a></li>
+<li><a href="/wiki/Ice_accretion_indicator" title="Ice accretion indicator">Ice accretion indicator</a></li>
+<li><a href="/wiki/Lidar" title="Lidar">Lidar</a></li>
+<li><a href="/wiki/Lightning_detection" title="Lightning detection">Lightning detector</a></li>
+<li><a href="/wiki/Nephelometer" title="Nephelometer">Nephelometer</a></li>
+<li><a href="/wiki/Nephoscope" title="Nephoscope">Nephoscope</a></li>
+<li><a href="/wiki/Pan_evaporation" title="Pan evaporation">Pan evaporation</a></li>
+<li><a href="/wiki/Pyranometer" title="Pyranometer">Pyranometer</a></li>
+<li><a href="/wiki/Pyrheliometer" title="Pyrheliometer">Pyrheliometer</a></li>
+<li><a href="/wiki/Radiosonde" title="Radiosonde">Radiosonde</a></li>
+<li><a href="/wiki/Rain_gauge" title="Rain gauge">Rain gauge</a></li>
+<li><a href="/wiki/Snow_gauge" title="Snow gauge">Snow gauge</a></li>
+<li><a href="/wiki/Snowboard_(meteorology)" title="Snowboard (meteorology)">Snowboard</a></li>
+<li><a href="/wiki/Snow_pillow" title="Snow pillow">Snow pillow</a></li>
+<li><a href="/wiki/SODAR" title="SODAR">SODAR</a></li>
+<li><a href="/wiki/Solarimeter" title="Solarimeter">Solarimeter</a></li>
+<li><a href="/wiki/Sounding_rocket" title="Sounding rocket">Sounding rocket</a></li>
+<li><a href="/wiki/Stevenson_screen" title="Stevenson screen">Stevenson screen</a></li>
+<li><a href="/wiki/Sunshine_recorder" title="Sunshine recorder">Sunshine recorder</a></li>
+<li><a href="/wiki/Tethersonde" title="Tethersonde">Tethersonde</a></li>
+<li><a href="/wiki/Thermo-hygrograph" title="Thermo-hygrograph">Thermo-hygrograph</a></li>
+<li><a href="/wiki/Thermometer" title="Thermometer">Thermometer</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Transmissometer" title="Transmissometer">Transmissometer</a></li>
+<li><a href="/wiki/Weather_balloon" title="Weather balloon">Weather balloon</a></li>
+<li><a href="/wiki/Weather_buoy" title="Weather buoy">Weather buoy</a></li>
+<li><a href="/wiki/Weather_radar" title="Weather radar">Weather radar</a></li>
+<li><a href="/wiki/Weather_vane" title="Weather vane">Weather vane</a></li>
+<li><a href="/wiki/Whole_sky_camera" title="Whole sky camera">Whole sky camera</a></li>
+<li><a href="/wiki/Wind_profiler" title="Wind profiler">Wind profiler</a></li>
+<li><a href="/wiki/Windsock" title="Windsock">Windsock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1204
+Cached time: 20170914053210
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.172 seconds
+Real time usage: 0.226 seconds
+Preprocessor visited node count: 695/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37665/2097152 bytes
+Template argument size: 3128/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.045/10.000 seconds
+Lua memory usage: 2.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  161.539      1 -total
+ 31.14%   50.302      1 Template:Reflist
+ 25.63%   41.403      1 Template:Earth-based_meteorological_observation
+ 23.93%   38.652      1 Template:Cite_web
+ 23.58%   38.086      1 Template:Navbox_with_collapsible_groups
+ 21.78%   35.185      1 Template:Commons_category
+ 16.12%   26.048      1 Template:About
+  6.64%   10.720      1 Template:Commons
+  5.71%    9.229      1 Template:Sister_project
+  4.46%    7.210      2 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:971289-0!canonical and timestamp 20170914053210 and revision id 800543983
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dropsonde&amp;oldid=800543983">https://en.wikipedia.org/w/index.php?title=Dropsonde&amp;oldid=800543983</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Meteorological_instrumentation_and_equipment" title="Category:Meteorological instrumentation and equipment">Meteorological instrumentation and equipment</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dropsonde" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Dropsonde" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Dropsonde" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Dropsonde" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Dropsonde">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Dropsonde&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Dropsonde&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Dropsonde" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Dropsonde" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dropsonde&amp;oldid=800543983" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dropsonde&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2742549" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dropsonde&amp;id=800543983" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dropsonde">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dropsonde&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DDropsonde%26returnto%3DDropsonde%26oldid%3D800543983%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Dropsonde&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Radiosonde_and_dropsonde" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Fallsonde" hreflang="de" lang="de" title="Fallsonde – German">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Catasonde" hreflang="fr" lang="fr" title="Catasonde – French">Français</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%AD%E3%83%83%E3%83%97%E3%82%BE%E3%83%B3%E3%83%87" hreflang="ja" lang="ja" title="ドロップゾンデ – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Dropsonde" hreflang="nn" lang="nn" title="Dropsonde – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Dropsonde" hreflang="pt" lang="pt" title="Dropsonde – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Dropsonde" hreflang="simple" lang="simple" title="Dropsonde – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B8%D0%B4%D0%BD%D0%B8%D0%B9_%D0%B7%D0%BE%D0%BD%D0%B4" hreflang="uk" lang="uk" title="Скидний зонд – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%8A%95%E8%90%BD%E9%80%81" hreflang="zh" lang="zh" title="投落送 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2742549#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 14 September 2017, at 05:32.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Dropsonde&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.226","ppvisitednodes":{"value":695,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37665,"limit":2097152},"templateargumentsize":{"value":3128,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  161.539      1 -total"," 31.14%   50.302      1 Template:Reflist"," 25.63%   41.403      1 Template:Earth-based_meteorological_observation"," 23.93%   38.652      1 Template:Cite_web"," 23.58%   38.086      1 Template:Navbox_with_collapsible_groups"," 21.78%   35.185      1 Template:Commons_category"," 16.12%   26.048      1 Template:About","  6.64%   10.720      1 Template:Commons","  5.71%    9.229      1 Template:Sister_project","  4.46%    7.210      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.045","limit":"10.000"},"limitreport-memusage":{"value":2126188,"limit":52428800}},"cachereport":{"origin":"mw1204","timestamp":"20170914053210","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":99,"wgHostname":"mw1322"});});</script>
+</body>
+</html>

@@ -1,0 +1,285 @@
+Comparison of Top 5 results from BM25 and Lucene
+================================================
+
+Query 1: hurricane isabel damage
+================================
+
+BM25
+
+1	Q0	3_Hurricane-Isabel.txt	1	6.83333212109	BM25
+1	Q0	625_Effects-of-Hurricane-Isabel-in-Pennsylvania.txt	2	6.70628607303	BM25
+1	Q0	621_Effects-of-Hurricane-Isabel-in-North-Carolina.txt	3	6.68667352043	BM25
+1	Q0	623_Effects-of-Hurricane-Isabel-in-Maryland-and-Washington,-D.C..txt	4	6.68208020962	BM25
+1	Q0	627_Effects-of-Hurricane-Isabel-in-New-York-and-New-England.txt	5	6.68028346827	BM25
+
+Lucene
+
+1 Q0 3_Hurricane-Isabel 618 1 0.5755162 Lucene
+1 Q0 626_Effects-of-Hurricane-Isabel-in-New-Jersey 913 2 0.5404149 Lucene
+1 Q0 624_Effects-of-Hurricane-Isabel-in-Delaware 669 3 0.5288285 Lucene
+1 Q0 625_Effects-of-Hurricane-Isabel-in-Pennsylvania 179 4 0.5064336 Lucene
+1 Q0 627_Effects-of-Hurricane-Isabel-in-New-York-and-New-England 160 5 0.46109468 Lucene
+
+Comparison
+
+From the above results, it can be seen that the document '3_Hurricane-Isabel' is ranked 1 in both of the searches.
+The Second ranked document "625_Effects-of-Hurricane-Isabel-in-Pennsylvania" in BM25 - appears as 4th rank document in Lucene
+The Third ranked document "621_Effects-of-Hurricane-Isabel-in-North-Carolina" in BM25 - appears as 6th rank document in lucene
+The Fourth ranked document "623_Effects-of-Hurricane-Isabel-in-Maryland-and-Washington,-D.C." in BM25 - appears as 7th ranked document in lucene
+The Fifth ranked document "627_Effects-of-Hurricane-Isabel-in-New-York-and-New-England" are the same in both the searches
+------------------------------------------------------------------------------------------------------------------------
+
+Query 2: forecast models
+========================
+
+BM25
+
+2	Q0	265_Tropical-cyclone-forecast-model.txt	1	7.72841078567	BM25
+2	Q0	117_Tropical-cyclone-rainfall-forecasting.txt	2	7.45393973815	BM25
+2	Q0	81_Weather-forecasting.txt	3	7.41960671336	BM25
+2	Q0	264_Tropical-cyclone-track-forecasting.txt	4	7.40006209094	BM25
+2	Q0	391_History-of-Atlantic-hurricane-warnings.txt	5	7.31419019428	BM25
+
+Lucene
+
+2 Q0 265_Tropical-cyclone-forecast-model 60 1 0.46962196 Lucene
+2 Q0 264_Tropical-cyclone-track-forecasting 272 2 0.3513131 Lucene
+2 Q0 117_Tropical-cyclone-rainfall-forecasting 148 3 0.3293665 Lucene
+2 Q0 81_Weather-forecasting 899 4 0.2900745 Lucene
+2 Q0 391_History-of-Atlantic-hurricane-warnings 137 5 0.28651005 Lucene
+
+Comparison
+
+From the above results, it can be seen that the document '265_Tropical-cyclone-forecast-model' is ranked 1 in both of the searches.
+The Second ranked document "117_Tropical-cyclone-rainfall-forecasting" in BM25 - appears as 3rd rank document in Lucene
+The Third ranked document "81_Weather-forecasting" in BM25 - appears as 4th rank document in lucene
+The Fourth ranked document "264_Tropical-cyclone-track-forecasting" in BM25 - appears as 2nd ranked document in lucene
+The Fifth ranked document "391_History-of-Atlantic-hurricane-warnings" are the same in both the searches
+------------------------------------------------------------------------------------------------------------------------
+
+Query 3: green energy canada
+============================
+
+BM25
+
+3	Q0	656_Ontario.txt	1	6.42780685294	BM25
+3	Q0	256_Weather-radar.txt	2	6.23264188852	BM25
+3	Q0	92_Energy-development.txt	3	5.3373960795	BM25
+3	Q0	156_Thermal-radiation.txt	4	5.21276031943	BM25
+3	Q0	433_United-States-Department-of-Energy.txt	5	5.05937019178	BM25
+
+Lucene
+
+3 Q0 92_Energy-development 807 1 0.24904583 Lucene
+3 Q0 654_Canada 603 2 0.23403221 Lucene
+3 Q0 173_Mechanical-energy 461 3 0.23083872 Lucene
+3 Q0 619_Atlantic-Canada 100 4 0.19502161 Lucene
+3 Q0 162_World-energy-consumption 57 5 0.19202396 Lucene
+
+Comparison
+
+The 1st ranked document in BM25 '656_Ontario' is ranked 6th in lucene
+The Second ranked document "256_Weather-radar" in BM25 - appears as 9th rank document in Lucene
+The Third ranked document "92_Energy-development" in BM25 - appears as 1st rank document in lucene
+The Fourth ranked document "156_Thermal-radiation" in BM25 - appears as 8th ranked document in lucene
+The Fifth ranked document in BM25 "433_United-States-Department-of-Energy" is ranked as 7th in lucene
+------------------------------------------------------------------------------------------------------------------------
+
+Query 4: heavy rains
+====================
+
+BM25
+
+4	Q0	757_Hurricane-Cleo.txt	1	4.65714717211	BM25
+4	Q0	759_Hurricane-Hilda.txt	2	4.63346381017	BM25
+4	Q0	777_Hurricane-Joan–Miriam.txt	3	4.58137457537	BM25
+4	Q0	737_Hurricane-Ida.txt	4	4.53148502602	BM25
+4	Q0	786_Hurricane-Cesar–Douglas.txt	5	4.51129034644	BM25
+
+Lucene
+
+4 Q0 478_Hurricane,-Bollinger-County,-Missouri 794 1 0.2790127 Lucene
+4 Q0 757_Hurricane-Cleo 544 2 0.19926205 Lucene
+4 Q0 786_Hurricane-Cesar–Douglas 628 3 0.1871674 Lucene
+4 Q0 331_Tropical-Storm-Marco-(2008) 114 4 0.17683354 Lucene
+4 Q0 737_Hurricane-Ida 928 5 0.173114 Lucene
+
+Comparison
+
+The 1st ranked document in BM25 '757_Hurricane-Cleo' is ranked 2nd in lucene
+The Second ranked document "759_Hurricane-Hilda" in BM25 - appears as 7th rank document in Lucene
+The Third ranked document "777_Hurricane-Joan–Miriam" in BM25 - appears as 6th rank document in lucene
+The Fourth ranked document "737_Hurricane-Ida" in BM25 - appears as 5th ranked document in lucene
+The Fifth ranked document "786_Hurricane-Cesar–Douglas" are the same in both the searches
+------------------------------------------------------------------------------------------------------------------------
+
+Query 5: hurricane music lyrics
+===============================
+
+BM25
+
+5	Q0	550_Badman-(EP).txt	1	9.29497061534	BM25
+5	Q0	567_Vices-&-Virtues.txt	2	9.28107011914	BM25
+5	Q0	532_Hurricane-(Natalie-Grant-album).txt	3	9.23752108057	BM25
+5	Q0	553_Bajan-Style.txt	4	8.48482167166	BM25
+5	Q0	533_Agatha-Christie-(band).txt	5	8.48120961357	BM25
+
+Lucene
+
+5 Q0 532_Hurricane-(Natalie-Grant-album) 942 1 0.3713291 Lucene
+5 Q0 571_Audioboxer 183 2 0.36250114 Lucene
+5 Q0 540_Hurricane-(Leon-Everette-song) 844 3 0.3541382 Lucene
+5 Q0 554_Addicted-Romantic 947 4 0.33860302 Lucene
+5 Q0 550_Badman-(EP) 626 5 0.33282182 Lucene
+
+Comparison
+
+The 1st ranked document in BM25 '550_Badman-(EP)' is ranked 5th in lucene
+The Second ranked document "567_Vices-&-Virtues" in BM25 - appears as 9th rank document in Lucene
+The Third ranked document "532_Hurricane-(Natalie-Grant-album)" in BM25 - appears as 1st rank document in lucene
+The Fourth ranked document "553_Bajan-Style" in BM25 - appears as 16th ranked document in lucene
+The Fifth ranked document "533_Agatha-Christie-(band)" in BM25 - appears as 10th rank document in lucene
+------------------------------------------------------------------------------------------------------------------------
+
+Query 6: accumulated snow
+=========================
+
+BM25
+
+6	Q0	59_Hail.txt	1	7.67759775718	BM25
+6	Q0	65_Snow.txt	2	7.49342248472	BM25
+6	Q0	58_Graupel.txt	3	7.47782825399	BM25
+6	Q0	63_Freezing-rain.txt	4	6.8377766558	BM25
+6	Q0	50_Winter-storm.txt	5	6.78047784443	BM25
+
+Lucene
+
+6 Q0 65_Snow 25 1 0.35306633 Lucene
+6 Q0 58_Graupel 798 2 0.312011 Lucene
+6 Q0 50_Winter-storm 651 3 0.2879554 Lucene
+6 Q0 52_Blizzard 248 4 0.23848647 Lucene
+6 Q0 63_Freezing-rain 502 5 0.22870268 Lucene
+
+Comparison
+
+The 1st ranked document in BM25 '59_Hail' is ranked 6th in lucene
+The Second ranked document "65_Snow" in BM25 - appears as 1st rank document in Lucene
+The Third ranked document "58_Graupel" in BM25 - appears as 2nd rank document in lucene
+The Fourth ranked document "63_Freezing-rain" in BM25 - appears as 5th ranked document in lucene
+The Fifth ranked document "50_Winter-storm" in BM25 - appears as 4th ranked document in lucene
+------------------------------------------------------------------------------------------------------------------------
+
+Query 7: snow accumulation
+==========================
+
+BM25
+
+7	Q0	66_Rain-and-snow-mixed.txt	1	9.70811198107	BM25
+7	Q0	51_Ice-storm.txt	2	9.64806359252	BM25
+7	Q0	60_Ice-pellets.txt	3	9.63119539382	BM25
+7	Q0	65_Snow.txt	4	9.40479950354	BM25
+7	Q0	59_Hail.txt	5	8.71020555838	BM25
+
+Lucene
+
+7 Q0 66_Rain-and-snow-mixed 702 1 0.5180414 Lucene
+7 Q0 68_Snow-roller 139 2 0.43964005 Lucene
+7 Q0 60_Ice-pellets 536 3 0.4348833 Lucene
+7 Q0 65_Snow 25 4 0.37718496 Lucene
+7 Q0 50_Winter-storm 651 5 0.31625867 Lucene
+
+Comparison
+
+From the above results, it can be seen that the document '66_Rain-and-snow-mixed' is ranked 1 in both of the searches.
+The Second ranked document "51_Ice-storm" in BM25 - appears as 6th rank document in Lucene
+The Third ranked document "60_Ice-pellets" is ranked 3rd in both of the searches.
+The Fourth ranked document "65_Snow" is ranked 4th in both of the searches.
+The Fifth ranked document "59_Hail" in BM25 - appears as 11th ranked document in lucene
+------------------------------------------------------------------------------------------------------------------------
+
+Query 8: massive blizzards blizzard
+===================================
+
+BM25
+
+8	Q0	52_Blizzard.txt	1	17.0101688574	BM25
+8	Q0	53_Ground-blizzard.txt	2	16.8116642196	BM25
+8	Q0	80_Severe-weather.txt	3	12.7770378679	BM25
+8	Q0	50_Winter-storm.txt	4	12.6780495186	BM25
+8	Q0	76_Cold-wave.txt	5	11.5635060482	BM25
+
+Lucene
+
+8 Q0 53_Ground-blizzard 716 1 0.6805728 Lucene
+8 Q0 52_Blizzard 248 2 0.5381831 Lucene
+8 Q0 50_Winter-storm 651 3 0.22114867 Lucene
+8 Q0 51_Ice-storm 821 4 0.18080474 Lucene
+8 Q0 80_Severe-weather 756 5 0.1776568 Lucene
+
+Comparison
+
+The 1st ranked document in BM25 '52_Blizzard' is ranked 2nd in lucene
+The Second ranked document "53_Ground-blizzard" in BM25 - appears as 1st rank document in Lucene
+The Third ranked document "80_Severe-weather" in BM25 - appears as 5th rank document in lucene
+The Fourth ranked document "50_Winter-storm" in BM25 - appears as 3rd ranked document in lucene
+The Fifth ranked document "76_Cold-wave" in BM25 - appears as 6th ranked document in lucene
+------------------------------------------------------------------------------------------------------------------------
+
+Query 9: new york city subway
+=============================
+
+BM25
+
+9	Q0	355_New-York-City.txt	1	8.58630124852	BM25
+9	Q0	912_ISS-(disambiguation).txt	2	8.12501453939	BM25
+9	Q0	309_Hurricane-Sandy.txt	3	7.95053549908	BM25
+9	Q0	668_Washington-Metro.txt	4	7.94465362944	BM25
+9	Q0	543_Hurricane-(Puffy-AmiYumi-song).txt	5	7.74790146732	BM25
+
+Lucene
+
+9 Q0 355_New-York-City 863 1 0.41698995 Lucene
+9 Q0 683_New-York-(state) 605 2 0.34268263 Lucene
+9 Q0 912_ISS-(disambiguation) 394 3 0.3236863 Lucene
+9 Q0 309_Hurricane-Sandy 600 4 0.2270293 Lucene
+9 Q0 664_New-Jersey 829 5 0.2176272 Lucene
+
+Comparison
+
+From the above results, it can be seen that the document '355_New-York-City' is ranked 1 in both of the searches.
+The Second ranked document "912_ISS-(disambiguation)" in BM25 - appears as 3rd rank document in Lucene
+The Third ranked document "309_Hurricane-Sandy" in BM25 - appears as 4th rank document in lucene
+The Fourth ranked document "668_Washington-Metro" in BM25 - appears as 7th ranked document in lucene
+The Fifth ranked document "543_Hurricane-(Puffy-AmiYumi-song)" in BM25 - appears as 20th ranked document in lucene
+------------------------------------------------------------------------------------------------------------------------
+
+Document Count
+                                   Lucene      BM25
+
+1. hurricane isabel damage         579         578
+2. forecast models                 212         212
+3. green energy canada             444         442
+4. heavy rains                     346         342
+5. hurricane music lyrics          580         579
+6. accumulated snow                189         187
+7. snow accumulation               156         154
+8. massive blizzards blizzard      156         156
+9. new york city subway            633         628
+
+------------------------------------------------------------------------------------------------------------------------
+
+Result of Comparison
+
+Why there are differences in ranking?
+
+1. I have implemented BM25 ranking algorithm without any relevant document information, while lucene uses boolean model
+   to find matching documents
+2. Lucene's ranking based on the number of hits a document gets, thus these documents are placed on the top of the ranks.
+   Ex: Major differences in ranking in could be found in Query 9, where the 5th ranked document in BM25 appears as 20th
+       ranked in lucene
+       There are few queries where atleast 2 or 3 documents match in both the rankings, ex: Query 7 and Query 2
+3. Lucene uses different kinds of boosting factors and normalizations that arent implemented in my BM25 algorithm.
+
+
+The above stated reasons lead to minute variations in ranking of documents for same queries between my implementation of
+BM25 and Lucene retrieval.

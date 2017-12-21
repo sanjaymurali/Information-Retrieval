@@ -1,0 +1,46 @@
+Goal : Page Rank for Graphs generated from Crawler implemented using Depth First and Breadth First traversal
+============================================================================================================
+
+Page Rank Calculation for Graph-1 (Crawler implemented using Breadth First Traversal):
+
+Page Rank for "graph-1.txt" is calculated. The Top 50 Pages in descending order of their Page Rank values are in the
+file "G1-Top50.txt"
+
+The perplexity value for each iteration until convergence is available in "G1-Perplexity.txt".
+
+Top 10 Pages by in-link counts:
+
+'International_Standard_Book_Number'              :  407
+'Tropical_cyclone'                                :  335
+'Digital_object_identifier'                       :  326
+'Wayback_Machine'                                 :  222
+'Bibcode'                                         :  222
+'Tropical_cyclone_scales'                         :  203
+'National_Oceanic_and_Atmospheric_Administration' :  195
+'Pascal_(unit)'                                   :  186
+'Extratropical_cyclone'                           :  186
+'Bar_(unit)'                                      :  181
+------------------------------------------------------------------------------------------------------------------------
+
+Page Rank Calculation for Graph-2 (Crawler implemented using Depth First Traversal):
+
+Page Rank for "graph-2.txt" is calculated. The Top 50 Pages in descending order of their Page Rank values are in the
+file "G2-Top50.txt"
+
+The perplexity value for each iteration until convergence is available in "G2-Perplexity.txt".
+
+Top 10 Pages by in-link counts:
+
+'United_States'                 :  367
+'American_English'              :  165
+'United_Kingdom'                :  148
+'Geographic_coordinate_system'  :  148
+'California'                    :  116
+'Indo-European_languages'       :  113
+'New_York_City'                 :  99
+'English_language'              :  96
+'Texas'                         :  87
+'Japan'                         :  87
+------------------------------------------------------------------------------------------------------------------------
+
+For The graph to test the Page-Rank, the Results are available in the folder "Trial-PR"

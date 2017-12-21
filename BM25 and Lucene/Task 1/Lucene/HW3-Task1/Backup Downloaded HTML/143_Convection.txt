@@ -1,0 +1,986 @@
+https://en.wikipedia.org/wiki/Convection
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Convection - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Convection","wgTitle":"Convection","wgCurRevisionId":800873505,"wgRevisionId":800873505,"wgArticleId":47526,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from July 2017","Wikipedia articles with GND identifiers","Concepts in physics","Fluid mechanics","Convection","Heat transfer","Stellar physics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Convection","wgRelevantArticleId":47526,"wgRequestId":"WcqmnApAAEYAAGx@xVIAAAAE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q160329","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.30.0-wmf.19" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/0/01/Convection-snapshot.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Convection" rel="alternate"/>
+<link href="/w/index.php?title=Convection&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Convection&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Convection" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Convection rootpage-Convection skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Convection</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:402px;"><a class="image" href="/wiki/File:Convection-snapshot.png"><img alt="" class="thumbimage" data-file-height="274" data-file-width="689" height="159" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Convection-snapshot.png/400px-Convection-snapshot.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Convection-snapshot.png/600px-Convection-snapshot.png 1.5x, //upload.wikimedia.org/wikipedia/commons/0/01/Convection-snapshot.png 2x" width="400"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Convection-snapshot.png" title="Enlarge"></a></div>
+This figure shows a calculation for thermal convection in the <a href="/wiki/Mantle_(geology)" title="Mantle (geology)">Earth's mantle</a>. Colors closer to red are hot areas and colors closer to blue are cold areas. A hot, less-dense lower boundary layer sends plumes of hot material upwards, and likewise, cold material from the top moves downwards.</div>
+</div>
+</div>
+<p><b>Convection</b> is the heat transfer due to bulk movement of <a href="/wiki/Molecule" title="Molecule">molecules</a> within <a href="/wiki/Fluid" title="Fluid">fluids</a> such as <a href="/wiki/Gas" title="Gas">gases</a> and <a href="/wiki/Liquid" title="Liquid">liquids</a>, including molten rock (<a href="/wiki/Rheid" title="Rheid">rheid</a>). Convection takes place through <a href="/wiki/Advection" title="Advection">advection</a>, <a href="/wiki/Diffusion" title="Diffusion">diffusion</a> or both.</p>
+<p>Convection cannot take place in most solids because neither bulk current flows nor significant diffusion of matter can take place. Diffusion of heat takes place in rigid solids, but that is called <a href="/wiki/Thermal_conduction" title="Thermal conduction">heat conduction</a>. Convection, however, can take place in soft solids or mixtures where solid particles can move past each other.</p>
+<p>Thermal convection can be demonstrated by placing a heat source (e.g. a <a href="/wiki/Bunsen_burner" title="Bunsen burner">Bunsen burner</a>) at the side of a glass full of a liquid, and observing the changes in temperature in the glass caused by the warmer ghost fluid circulating into cooler areas.</p>
+<p><a href="/wiki/Convective_heat_transfer" title="Convective heat transfer">Convective heat transfer</a> is one of the major types of <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a>, and convection is also a major mode of <a href="/wiki/Mass_transfer" title="Mass transfer">mass transfer</a> in fluids. Convective heat and mass transfer take place both by <a href="/wiki/Diffusion" title="Diffusion">diffusion</a> – the random <a href="/wiki/Brownian_motion" title="Brownian motion">Brownian motion</a> of individual particles in the fluid – and by <a href="/wiki/Advection" title="Advection">advection</a>, in which matter or heat is transported by the larger-scale motion of currents in the fluid. In the context of heat and mass transfer, the term "convection" is used to refer to the sum of <a class="extiw" href="https://en.wiktionary.org/wiki/advective" title="wikt:advective">advective</a> and diffusive transfer.<sup class="reference" id="cite_ref-Incrop_1-0"><a href="#cite_note-Incrop-1">[1]</a></sup> In common use the term "convection" may refer loosely to heat transfer by convection, as opposed to mass transfer by convection, or the convection process in general. Sometimes "convection" is even used to refer specifically to "<a class="mw-redirect" href="/wiki/Free_convection" title="Free convection">free heat convection</a>" (natural heat convection) which is due to temperature-induced differences in buoyancy, as opposed to "forced heat convection" where forces other than buoyancy (such as pump or fan) move the fluid. However, in mechanics the correct use of the word "convection" is the general sense, and different types of convection should be qualified for clarity.</p>
+<p>Convection can be qualified in terms of being natural, forced, gravitational, granular, or <a href="/wiki/Thermomagnetic_convection" title="Thermomagnetic convection">thermomagnetic</a>. It may also be said to be due to <a href="/wiki/Combustion" title="Combustion">combustion</a>, <a href="/wiki/Capillary_action" title="Capillary action">capillary action</a>, or <a href="/wiki/Marangoni_effect" title="Marangoni effect">Marangoni</a> and <a href="/wiki/Weissenberg_effect" title="Weissenberg effect">Weissenberg effects</a>. Heat transfer by natural convection plays a role in the structure of <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">Earth's atmosphere</a>, its oceans, and its mantle. Discrete convective cells in the atmosphere can be seen as clouds, with stronger convection resulting in <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorms</a>. Natural convection also plays a role in stellar physics.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Terminology"><span class="tocnumber">1</span> <span class="toctext">Terminology</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Examples_and_applications_of_convection"><span class="tocnumber">2</span> <span class="toctext">Examples and applications of convection</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Heat_transfer"><span class="tocnumber">2.1</span> <span class="toctext">Heat transfer</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Convection_cells"><span class="tocnumber">2.2</span> <span class="toctext">Convection cells</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Atmospheric_circulation"><span class="tocnumber">2.3</span> <span class="toctext">Atmospheric circulation</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Weather"><span class="tocnumber">2.4</span> <span class="toctext">Weather</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Oceanic_circulation"><span class="tocnumber">2.5</span> <span class="toctext">Oceanic circulation</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Mantle_convection"><span class="tocnumber">2.6</span> <span class="toctext">Mantle convection</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Stack_effect"><span class="tocnumber">2.7</span> <span class="toctext">Stack effect</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Stellar_physics"><span class="tocnumber">2.8</span> <span class="toctext">Stellar physics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Convection_mechanisms"><span class="tocnumber">3</span> <span class="toctext">Convection mechanisms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Natural_convection"><span class="tocnumber">3.1</span> <span class="toctext">Natural convection</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Forced_convection"><span class="tocnumber">3.2</span> <span class="toctext">Forced convection</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Gravitational_or_buoyant_convection"><span class="tocnumber">3.3</span> <span class="toctext">Gravitational or buoyant convection</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Granular_convection"><span class="tocnumber">3.4</span> <span class="toctext">Granular convection</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Solid-state_convection_in_ice"><span class="tocnumber">3.5</span> <span class="toctext">Solid-state convection in ice</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Thermomagnetic_convection"><span class="tocnumber">3.6</span> <span class="toctext">Thermomagnetic convection</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Capillary_action"><span class="tocnumber">3.7</span> <span class="toctext">Capillary action</span></a></li>
+<li class="toclevel-2 tocsection-19"><a href="#Marangoni_effect"><span class="tocnumber">3.8</span> <span class="toctext">Marangoni effect</span></a></li>
+<li class="toclevel-2 tocsection-20"><a href="#Weissenberg_effect"><span class="tocnumber">3.9</span> <span class="toctext">Weissenberg effect</span></a></li>
+<li class="toclevel-2 tocsection-21"><a href="#Combustion"><span class="tocnumber">3.10</span> <span class="toctext">Combustion</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-22"><a href="#Mathematical_models_of_convection"><span class="tocnumber">4</span> <span class="toctext">Mathematical models of convection</span></a>
+<ul>
+<li class="toclevel-2 tocsection-23"><a href="#Quantifying_natural_versus_forced_convection"><span class="tocnumber">4.1</span> <span class="toctext">Quantifying natural versus forced convection</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-24"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-25"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-26"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Terminology">Terminology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=1" title="Edit section: Terminology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The word <i>convection</i> may have slightly different but related usages in different scientific or engineering contexts or applications. The broader sense is in <a href="/wiki/Fluid_mechanics" title="Fluid mechanics">fluid mechanics</a>, where <i>convection</i> refers to the motion of fluid regardless of cause.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> However, in <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> "convection" often refers specifically to heat transfer by convection.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Additionally, convection includes fluid movement both by bulk motion (<a href="/wiki/Advection" title="Advection">advection</a>) and by the motion of individual particles (<a href="/wiki/Diffusion" title="Diffusion">diffusion</a>). However, in some cases, convection is taken to mean only advective phenomena. For instance, in the <a class="mw-redirect" href="/wiki/Generic_scalar_transport_equation" title="Generic scalar transport equation">transport equation</a>, which describes a number of different transport phenomena, terms are separated into "convective" and "diffusive" effects, with "convective" meaning purely advective in context.</p>
+<h2><span class="mw-headline" id="Examples_and_applications_of_convection">Examples and applications of convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=2" title="Edit section: Examples and applications of convection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Convection occurs on a large scale in <a class="mw-redirect" href="/wiki/Earth_atmosphere" title="Earth atmosphere">atmospheres</a>, oceans, <a href="/wiki/Planet" title="Planet">planetary</a> <a href="/wiki/Mantle_(geology)" title="Mantle (geology)">mantles</a>, and it provides the mechanism of heat transfer for a large fraction of the outermost interiors of our sun and all stars. Fluid movement during convection may be invisibly slow, or it may be obvious and rapid, as in a <a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">hurricane</a>. On astronomical scales, convection of gas and dust is thought to occur in the accretion disks of <a href="/wiki/Black_hole" title="Black hole">black holes</a>, at speeds which may closely approach that of light.</p>
+<h3><span class="mw-headline" id="Heat_transfer">Heat transfer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=3" title="Edit section: Heat transfer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Convective_heat_transfer" title="Convective heat transfer">Convective heat transfer</a></div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Radiator_FxJ_v2.JPG"><img alt="" class="thumbimage" data-file-height="2187" data-file-width="2195" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Radiator_FxJ_v2.JPG/200px-Radiator_FxJ_v2.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/08/Radiator_FxJ_v2.JPG/300px-Radiator_FxJ_v2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/08/Radiator_FxJ_v2.JPG/400px-Radiator_FxJ_v2.JPG 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Radiator_FxJ_v2.JPG" title="Enlarge"></a></div>
+A heat sink provides a large surface area for convection to efficiently carry away heat.</div>
+</div>
+</div>
+<p><b>Convective heat transfer</b> is a mechanism of <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a> occurring because of bulk motion (observable movement) of fluids.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> <a href="/wiki/Heat" title="Heat">Heat</a> is the entity of interest being advected (carried), and diffused (dispersed). This can be contrasted with <a class="mw-redirect" href="/wiki/Heat_conduction" title="Heat conduction">conductive</a> heat transfer, which is the transfer of energy by vibrations at a molecular level through a solid or fluid, and <a class="mw-redirect" href="/wiki/Radiative_heat_transfer" title="Radiative heat transfer">radiative heat transfer</a>, the transfer of energy through <a class="mw-redirect" href="/wiki/Electromagnetic_waves" title="Electromagnetic waves">electromagnetic waves</a>.</p>
+<p>Heat is transferred by convection in numerous examples of naturally occurring fluid flow, such as: wind, oceanic currents, and movements within the Earth's mantle. Convection is also used in engineering practices of homes, industrial processes, cooling of equipment, etc.</p>
+<p>The rate of convective heat transfer may be improved by the use of a <a href="/wiki/Heat_sink" title="Heat sink">heat sink</a>, often in conjunction with a fan. For instance, a typical computer <a class="mw-redirect" href="/wiki/CPU" title="CPU">CPU</a> will have a purpose-made <a class="mw-redirect" href="/wiki/CPU_fan" title="CPU fan">fan</a> to ensure its <a href="/wiki/Operating_temperature" title="Operating temperature">operating temperature</a> is kept within tolerable limits.</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Convection_cells">Convection cells</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=4" title="Edit section: Convection cells">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Convection_cell" title="Convection cell">Convection cell</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:ConvectionCells.svg"><img alt="" class="thumbimage" data-file-height="360" data-file-width="500" height="216" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ConvectionCells.svg/300px-ConvectionCells.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ConvectionCells.svg/450px-ConvectionCells.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/ConvectionCells.svg/600px-ConvectionCells.svg.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:ConvectionCells.svg" title="Enlarge"></a></div>
+Convection cells in a gravity field</div>
+</div>
+</div>
+<p>A <b>convection cell</b>, also known as a <b><a class="mw-redirect" href="/wiki/B%C3%A9nard_cell" title="Bénard cell">Bénard cell</a></b> is a characteristic fluid flow pattern in many convection systems. A rising body of fluid typically loses heat because it encounters a cold surface. In liquid this occurs because it exchanges heat with colder liquid through direct exchange. In the example of the Earth's atmosphere, this occurs because it radiates heat. Because of this heat loss the fluid becomes denser than the fluid underneath it, which is still rising. Since it cannot descend through the rising fluid, it moves to one side. At some distance, its downward force overcomes the rising force beneath it, and the fluid begins to descend. As it descends, it warms again and the cycle repeats itself.</p>
+<h3><span class="mw-headline" id="Atmospheric_circulation">Atmospheric circulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=5" title="Edit section: Atmospheric circulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Earth_Global_Circulation.jpg"><img alt="" class="thumbimage" data-file-height="477" data-file-width="556" height="257" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Earth_Global_Circulation.jpg/300px-Earth_Global_Circulation.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6d/Earth_Global_Circulation.jpg/450px-Earth_Global_Circulation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/6/6d/Earth_Global_Circulation.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Earth_Global_Circulation.jpg" title="Enlarge"></a></div>
+Idealised depiction of the global circulation on Earth</div>
+</div>
+</div>
+<p><b>Atmospheric circulation</b> is the large-scale movement of air, and is a means by which thermal energy is distributed on the surface of the Earth, together with the much slower (lagged) ocean circulation system. The large-scale structure of the atmospheric circulation varies from year to year, but the basic climatological structure remains fairly constant.</p>
+<p>Latitudinal circulation occurs because incident solar radiation per unit area is highest at the <a class="mw-redirect" href="/wiki/Heat_equator" title="Heat equator">heat equator</a>, and decreases as the <a href="/wiki/Latitude" title="Latitude">latitude</a> increases, reaching minima at the poles. It consists of two primary convection cells, the <a href="/wiki/Hadley_cell" title="Hadley cell">Hadley cell</a> and the <a href="/wiki/Polar_vortex" title="Polar vortex">polar vortex</a>, with the <a href="/wiki/Hadley_cell" title="Hadley cell">Hadley cell</a> experiencing stronger convection due to the release of <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a> energy by <a href="/wiki/Condensation" title="Condensation">condensation</a> of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> at higher altitudes during cloud formation.</p>
+<p>Longitudinal circulation, on the other hand, comes about because the ocean has a higher specific heat capacity than land (and also thermal conductivity, allowing the heat to penetrate further beneath the surface) and thereby absorbs and releases more heat, but the temperature changes less than land. This brings the sea breeze, air cooled by the water, ashore in the day, and carries the land breeze, air cooled by contact with the ground, out to sea during the night. Longitudinal circulation consists of two cells, the <a href="/wiki/Walker_circulation" title="Walker circulation">Walker circulation</a> and <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o-Southern_Oscillation" title="El Niño-Southern Oscillation">El Niño / Southern Oscillation</a>.</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Weather">Weather</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=6" title="Edit section: Weather">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Cloud" title="Cloud">Cloud</a>, <a href="/wiki/Thunderstorm" title="Thunderstorm">Thunderstorm</a>, and <a href="/wiki/Wind" title="Wind">Wind</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Foehn1.svg"><img alt="" class="thumbimage" data-file-height="360" data-file-width="512" height="211" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Foehn1.svg/300px-Foehn1.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Foehn1.svg/450px-Foehn1.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Foehn1.svg/600px-Foehn1.svg.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Foehn1.svg" title="Enlarge"></a></div>
+How Foehn is produced</div>
+</div>
+</div>
+<p>Some more localized phenomena than global atmospheric movement are also due to convection, including wind and some of the <a class="mw-redirect" href="/wiki/Hydrologic_cycle" title="Hydrologic cycle">hydrologic cycle</a>. For example, a <a href="/wiki/Foehn_wind" title="Foehn wind">foehn wind</a> is a down-slope wind which occurs on the downwind side of a mountain range. It results from the <a class="mw-redirect" href="/wiki/Adiabatic" title="Adiabatic">adiabatic</a> warming of air which has dropped most of its moisture on windward slopes.<sup class="reference" id="cite_ref-MT_6-0"><a href="#cite_note-MT-6">[6]</a></sup> Because of the different adiabatic lapse rates of moist and dry air, the air on the leeward slopes becomes warmer than at the same height on the windward slopes.</p>
+<p>A <a class="mw-redirect" href="/wiki/Thermal_column" title="Thermal column">thermal column</a> (or thermal) is a vertical section of rising air in the lower altitudes of the Earth's atmosphere. Thermals are created by the uneven heating of the Earth's surface from solar radiation. The Sun warms the ground, which in turn warms the air directly above it. The warmer air expands, becoming less dense than the surrounding air mass, and creating a <a href="/wiki/Thermal_low" title="Thermal low">thermal low</a>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup><sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> The mass of lighter air rises, and as it does, it cools by expansion at lower air pressures. It stops rising when it has cooled to the same temperature as the surrounding air. Associated with a thermal is a downward flow surrounding the thermal column. The downward moving exterior is caused by colder air being displaced at the top of the thermal. Another convection-driven weather effect is the <a href="/wiki/Sea_breeze" title="Sea breeze">sea breeze</a>.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-Jet_10-0"><a href="#cite_note-Jet-10">[10]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:502px;"><a class="image" href="/wiki/File:Thunderstorm_formation.jpg"><img alt="" class="thumbimage" data-file-height="554" data-file-width="1087" height="255" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Thunderstorm_formation.jpg/500px-Thunderstorm_formation.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Thunderstorm_formation.jpg/750px-Thunderstorm_formation.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Thunderstorm_formation.jpg/1000px-Thunderstorm_formation.jpg 2x" width="500"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Thunderstorm_formation.jpg" title="Enlarge"></a></div>
+Stages of a thunderstorm's life.</div>
+</div>
+</div>
+<p>Warm air has a lower density than cool air, so warm air rises within cooler air,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> similar to <a href="/wiki/Hot_air_balloon" title="Hot air balloon">hot air balloons</a>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> Clouds form as relatively warmer air carrying moisture rises within cooler air. As the moist air rises, it cools, causing some of the <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> in the rising packet of air to <a href="/wiki/Condensation" title="Condensation">condense</a>.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> When the moisture condenses, it releases energy known as <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a> of condensation which allows the rising packet of air to cool less than its surrounding air,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> continuing the cloud's ascension. If enough <a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">instability</a> is present in the atmosphere, this process will continue long enough for <a class="mw-redirect" href="/wiki/Cumulonimbus" title="Cumulonimbus">cumulonimbus clouds</a> to form, which support lightning and thunder. Generally, thunderstorms require three conditions to form: moisture, an unstable airmass, and a lifting force (heat).</p>
+<p>All <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorms</a>, regardless of type, go through three stages: the <b>developing stage</b>, the <b>mature stage</b>, and the <b>dissipation stage</b>.<sup class="reference" id="cite_ref-Extreme_Weather_15-0"><a href="#cite_note-Extreme_Weather-15">[15]</a></sup> The average thunderstorm has a 24 km (15 mi) diameter. Depending on the conditions present in the atmosphere, these three stages take an average of 30 minutes to go through.<sup class="reference" id="cite_ref-tsbasics_16-0"><a href="#cite_note-tsbasics-16">[16]</a></sup></p>
+<h3><span class="mw-headline" id="Oceanic_circulation">Oceanic circulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=7" title="Edit section: Oceanic circulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a> and <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Conveyor_belt.svg"><img alt="" class="thumbimage" data-file-height="376" data-file-width="343" height="219" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Conveyor_belt.svg/200px-Conveyor_belt.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Conveyor_belt.svg/300px-Conveyor_belt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Conveyor_belt.svg/400px-Conveyor_belt.svg.png 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Conveyor_belt.svg" title="Enlarge"></a></div>
+Ocean currents</div>
+</div>
+</div>
+<p>Solar radiation affects the oceans: warm water from the Equator tends to circulate toward the <a href="/wiki/Geographical_pole" title="Geographical pole">poles</a>, while cold polar water heads towards the Equator. The surface currents are initially dictated by surface wind conditions. The <a href="/wiki/Trade_winds" title="Trade winds">trade winds</a> blow westward in the tropics,<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> and the <a href="/wiki/Westerlies" title="Westerlies">westerlies</a> blow eastward at mid-latitudes.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> This wind pattern applies a <a class="mw-redirect" href="/wiki/Stress_(physics)" title="Stress (physics)">stress</a> to the subtropical ocean surface with negative <a href="/wiki/Curl_(mathematics)" title="Curl (mathematics)">curl</a> across the <a href="/wiki/Northern_Hemisphere" title="Northern Hemisphere">Northern Hemisphere</a>,<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> and the reverse across the <a href="/wiki/Southern_Hemisphere" title="Southern Hemisphere">Southern Hemisphere</a>. The resulting <a class="mw-redirect" href="/wiki/Sverdrup_transport" title="Sverdrup transport">Sverdrup transport</a> is equatorward.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> Because of conservation of <a href="/wiki/Potential_vorticity" title="Potential vorticity">potential vorticity</a> caused by the poleward-moving winds on the <a href="/wiki/Subtropical_ridge" title="Subtropical ridge">subtropical ridge</a>'s western periphery and the increased relative vorticity of poleward moving water, transport is balanced by a narrow, accelerating poleward current, which flows along the western boundary of the ocean basin, outweighing the effects of friction with the cold western boundary current which originates from high latitudes.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> The overall process, known as western intensification, causes currents on the western boundary of an ocean basin to be stronger than those on the eastern boundary.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup></p>
+<p>As it travels poleward, warm water transported by strong warm water current undergoes evaporative cooling. The cooling is wind driven: wind moving over water cools the water and also causes <a href="/wiki/Evaporation" title="Evaporation">evaporation</a>, leaving a saltier brine. In this process, the water becomes saltier and denser. and decreases in temperature. Once sea ice forms, salts are left out of the ice, a process known as brine exclusion.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> These two processes produce water that is denser and colder. The water across the northern <a class="mw-redirect" href="/wiki/Atlantic_ocean" title="Atlantic ocean">Atlantic ocean</a> becomes so dense that it begins to sink down through less salty and less dense water. (The convective action is not unlike that of a <a href="/wiki/Lava_lamp" title="Lava lamp">lava lamp</a>.) This downdraft of heavy, cold and dense water becomes a part of the <a href="/wiki/North_Atlantic_Deep_Water" title="North Atlantic Deep Water">North Atlantic Deep Water</a>, a southgoing stream.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Mantle_convection">Mantle convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=8" title="Edit section: Mantle convection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Mantle_convection" title="Mantle convection">Mantle convection</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Accretion-Subduction.PNG"><img alt="" class="thumbimage" data-file-height="388" data-file-width="751" height="129" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Accretion-Subduction.PNG/250px-Accretion-Subduction.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/62/Accretion-Subduction.PNG/375px-Accretion-Subduction.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/62/Accretion-Subduction.PNG/500px-Accretion-Subduction.PNG 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Accretion-Subduction.PNG" title="Enlarge"></a></div>
+An <a class="mw-redirect" href="/wiki/Oceanic_plate" title="Oceanic plate">oceanic plate</a> is added to by upwelling (left) and consumed at a <a href="/wiki/Subduction" title="Subduction">subduction</a> zone (right).</div>
+</div>
+</div>
+<p><b>Mantle convection</b> is the slow creeping motion of Earth's rocky mantle caused by convection currents carrying heat from the interior of the earth to the surface.<sup class="reference" id="cite_ref-University_of_Winnipeg_25-0"><a href="#cite_note-University_of_Winnipeg-25">[25]</a></sup> It is one of 3 driving forces that causes tectonic plates to move around the Earth's surface.<sup class="reference" id="cite_ref-Condie_26-0"><a href="#cite_note-Condie-26">[26]</a></sup></p>
+<p>The Earth's surface is divided into a number of <a class="mw-redirect" href="/wiki/Tectonic" title="Tectonic">tectonic</a> plates that are continuously being created and consumed at their opposite plate boundaries. Creation (<a href="/wiki/Accretion_(geology)" title="Accretion (geology)">accretion</a>) occurs as mantle is added to the growing edges of a plate. This hot added material cools down by conduction and convection of heat. At the consumption edges of the plate, the material has thermally contracted to become dense, and it sinks under its own weight in the process of subduction at an ocean trench. This subducted material sinks to some depth in the Earth's interior where it is prohibited from sinking further. The subducted oceanic crust triggers volcanism.</p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Stack_effect">Stack effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=9" title="Edit section: Stack effect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Stack_effect" title="Stack effect">Stack effect</a></div>
+<p>The <b>Stack effect</b> or <b>chimney effect</b> is the movement of air into and out of buildings, chimneys, flue gas stacks, or other containers due to buoyancy. Buoyancy occurs due to a difference in indoor-to-outdoor air density resulting from temperature and moisture differences. The greater the thermal difference and the height of the structure, the greater the buoyancy force, and thus the stack effect. The stack effect helps drive natural ventilation and infiltration. Some <a href="/wiki/Cooling_tower" title="Cooling tower">cooling towers</a> operate on this principle; similarly the <a href="/wiki/Solar_updraft_tower" title="Solar updraft tower">solar updraft tower</a> is a proposed device to generate electricity based on the stack effect.</p>
+<h3><span class="mw-headline" id="Stellar_physics">Stellar physics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=10" title="Edit section: Stellar physics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Convection_zone" title="Convection zone">Convection zone</a> and <a href="/wiki/Granule_(solar_physics)" title="Granule (solar physics)">granule (solar physics)</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Structure_of_Stars_(artist%E2%80%99s_impression).jpg"><img alt="" class="thumbimage" data-file-height="3910" data-file-width="5176" height="227" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Structure_of_Stars_%28artist%E2%80%99s_impression%29.jpg/300px-Structure_of_Stars_%28artist%E2%80%99s_impression%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Structure_of_Stars_%28artist%E2%80%99s_impression%29.jpg/450px-Structure_of_Stars_%28artist%E2%80%99s_impression%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c3/Structure_of_Stars_%28artist%E2%80%99s_impression%29.jpg/600px-Structure_of_Stars_%28artist%E2%80%99s_impression%29.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Structure_of_Stars_(artist%E2%80%99s_impression).jpg" title="Enlarge"></a></div>
+An illustration of the structure of the <a href="/wiki/Sun" title="Sun">Sun</a> and a <a href="/wiki/Red_giant" title="Red giant">red giant</a> star, showing their convective zones. These are the granular zones in the outer layers of these stars.</div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Granules2-Cropped-Photospheric-Granulation-G.Scharmer-Swedish-Vacuum-Solar-Telescope-10-July-1997.jpg"><img alt="" class="thumbimage" data-file-height="334" data-file-width="390" height="171" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Granules2-Cropped-Photospheric-Granulation-G.Scharmer-Swedish-Vacuum-Solar-Telescope-10-July-1997.jpg/200px-Granules2-Cropped-Photospheric-Granulation-G.Scharmer-Swedish-Vacuum-Solar-Telescope-10-July-1997.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/81/Granules2-Cropped-Photospheric-Granulation-G.Scharmer-Swedish-Vacuum-Solar-Telescope-10-July-1997.jpg/300px-Granules2-Cropped-Photospheric-Granulation-G.Scharmer-Swedish-Vacuum-Solar-Telescope-10-July-1997.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/8/81/Granules2-Cropped-Photospheric-Granulation-G.Scharmer-Swedish-Vacuum-Solar-Telescope-10-July-1997.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Granules2-Cropped-Photospheric-Granulation-G.Scharmer-Swedish-Vacuum-Solar-Telescope-10-July-1997.jpg" title="Enlarge"></a></div>
+Granules—the tops or upper visible sizes of convection cells, seen on the photosphere of the Sun. These are caused by the convection in the upper photosphere of the Sun. North America is superimposed on the same scale, to indicate scale.</div>
+</div>
+</div>
+<p>The convection zone of a star is the range of radii in which energy is transported primarily by convection.</p>
+<p>Granules on the <a href="/wiki/Photosphere" title="Photosphere">photosphere</a> of the Sun are the visible tops of convection cells in the photosphere, caused by convection of <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasma</a> in the photosphere. The rising part of the granules is located in the center where the plasma is hotter. The outer edge of the granules is darker due to the cooler descending plasma. A typical granule has a diameter on the order of 1,000 kilometers and each lasts 8 to 20 minutes before dissipating. Below the photosphere is a layer of much larger "supergranules" up to 30,000 kilometers in diameter, with lifespans of up to 24 hours.</p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Convection_mechanisms">Convection mechanisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=11" title="Edit section: Convection mechanisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Convection may happen in <a class="mw-redirect" href="/wiki/Fluids" title="Fluids">fluids</a> at all scales larger than a few atoms. There are a variety of circumstances in which the forces required for natural and forced convection arise, leading to different types of convection, described below. In broad terms, convection arises because of <a href="/wiki/Body_force" title="Body force">body forces</a> acting within the fluid, such as gravity (buoyancy</p>
+<p>The causes of convection are generally described as one of either "natural" ("free") or "forced", although other mechanisms also exist (discussed below). However the distinction between natural and forced convection is particularly important for <a href="/wiki/Convective_heat_transfer" title="Convective heat transfer">convective heat transfer</a>.</p>
+<h3><span class="mw-headline" id="Natural_convection">Natural convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=12" title="Edit section: Natural convection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Natural_convection" title="Natural convection">Natural convection</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Thermal-plume-from-human-hand.jpg"><img alt="" class="thumbimage" data-file-height="760" data-file-width="667" height="251" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Thermal-plume-from-human-hand.jpg/220px-Thermal-plume-from-human-hand.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/90/Thermal-plume-from-human-hand.jpg/330px-Thermal-plume-from-human-hand.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/90/Thermal-plume-from-human-hand.jpg/440px-Thermal-plume-from-human-hand.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Thermal-plume-from-human-hand.jpg" title="Enlarge"></a></div>
+This color <a href="/wiki/Schlieren" title="Schlieren">schlieren</a> image reveals <a class="mw-redirect" href="/wiki/Thermal_convection" title="Thermal convection">thermal convection</a> from a human hand (in silhouette) to the surrounding still atmosphere.</div>
+</div>
+</div>
+<p><b>Natural convection</b>, or <b>free convection</b>, occurs due to temperature differences which affect the density, and thus relative buoyancy, of the fluid. Heavier (more dense) components will fall, while lighter (less dense) components rise, leading to bulk fluid movement. Natural convection can only occur, therefore, in a gravitational field. A common example of natural convection is the rise of smoke from a fire. It can be seen in a pot of boiling water in which the hot and less-dense water on the bottom layer moves upwards in plumes, and the cool and more dense water near the top of the pot likewise sinks.</p>
+<p>Natural convection will be more likely and more rapid with a greater variation in density between the two fluids, a larger acceleration due to gravity that drives the convection or a larger distance through the convecting medium. Natural convection will be less likely and less rapid with more rapid diffusion (thereby diffusing away the thermal gradient that is causing the convection) or a more viscous (sticky) fluid.</p>
+<p>The onset of natural convection can be determined by the <a href="/wiki/Rayleigh_number" title="Rayleigh number">Rayleigh number</a> (<b>Ra</b>).</p>
+<p>Note that differences in buoyancy within a fluid can arise for reasons other than temperature variations, in which case the fluid motion is called <b>gravitational convection</b> (see below). However, all types of buoyant convection, including natural convection, do not occur in <a class="mw-redirect" href="/wiki/Microgravity" title="Microgravity">microgravity</a> environments. All require the presence of an environment which experiences <a href="/wiki/G-force" title="G-force">g-force</a> (<a href="/wiki/Proper_acceleration" title="Proper acceleration">proper acceleration</a>).</p>
+<h3><span class="mw-headline" id="Forced_convection">Forced convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=13" title="Edit section: Forced convection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Forced_convection" title="Forced convection">Forced convection</a></div>
+<p>In <b>forced convection</b>, also called <b>heat advection</b>, fluid movement results from external <a class="mw-redirect" href="/wiki/Surface_forces" title="Surface forces">surface forces</a> such as a fan or pump. Forced convection is typically used to increase the rate of heat exchange. Many types of <a href="/wiki/Mixing_(process_engineering)" title="Mixing (process engineering)">mixing</a> also utilize forced convection to distribute one substance within another. Forced convection also occurs as a by-product to other processes, such as the action of a propeller in a fluid or <a href="/wiki/Aerodynamic_heating" title="Aerodynamic heating">aerodynamic heating</a>. Fluid radiator systems, and also heating and cooling of parts of the body by blood circulation, are other familiar examples of forced convection.</p>
+<p>Forced convection may happen by natural means, such as when the heat of a fire causes expansion of air and bulk air flow by this means. In microgravity, such flow (which happens in all directions) along with diffusion is the only means by which fires are able to draw in fresh oxygen to maintain themselves. The shock wave that transfers heat and mass out of explosions is also a type of forced convection.</p>
+<p>Although forced convection from thermal gas expansion in <a class="mw-redirect" href="/wiki/Zero-g" title="Zero-g">zero-g</a> does not fuel a fire as well as natural convection in a gravity field, some types of artificial forced convection are far more efficient than free convection, as they are not limited by natural mechanisms. For instance, a <a href="/wiki/Convection_oven" title="Convection oven">convection oven</a> works by forced convection, as a fan which rapidly circulates hot air forces heat into food faster than would naturally happen due to simple heating without the fan.</p>
+<h3><span class="mw-headline" id="Gravitational_or_buoyant_convection">Gravitational or buoyant convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=14" title="Edit section: Gravitational or buoyant convection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><b>Gravitational convection</b> is a type of natural convection induced by buoyancy variations resulting from material properties other than temperature. Typically this is caused by a variable composition of the fluid. If the varying property is a concentration gradient, it is known as <b>solutal convection</b>.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> For example, gravitational convection can be seen in the diffusion of a source of dry salt downward into wet soil due to the buoyancy of fresh water in saline.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></p>
+<p>Variable <a href="/wiki/Salinity" title="Salinity">salinity</a> in water and variable water content in air masses are frequent causes of convection in the oceans and atmosphere which do not involve heat, or else involve additional compositional density factors other than the density changes from thermal expansion (see <i><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">thermohaline circulation</a></i>). Similarly, variable composition within the Earth's interior which has not yet achieved maximal stability and minimal energy (in other words, with densest parts deepest) continues to cause a fraction of the convection of fluid rock and molten metal within the Earth's interior (see below).</p>
+<p>Gravitational convection, like natural thermal convection, also requires a <a href="/wiki/G-force" title="G-force">g-force</a> environment in order to occur.</p>
+<h3><span class="mw-headline" id="Granular_convection">Granular convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=15" title="Edit section: Granular convection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Granular_convection" title="Granular convection">Granular convection</a></div>
+<p>Vibration-induced convection occurs in powders and granulated materials in containers subject to vibration where an axis of vibration is parallel to the force of gravity. When the container accelerates upward, the bottom of the container pushes the entire contents upward. In contrast, when the container accelerates downward, the sides of the container push the adjacent material downward by friction, but the material more remote from the sides is less affected. The net result is a slow circulation of particles downward at the sides, and upward in the middle.</p>
+<p>If the container contains particles of different sizes, the downward-moving region at the sides is often narrower than the largest particles. Thus, larger particles tend to become sorted to the top of such a mixture. This is one possible explanation of the <a class="mw-redirect" href="/wiki/Brazil_nut_effect" title="Brazil nut effect">Brazil nut effect</a>.</p>
+<h3><span class="mw-headline" id="Solid-state_convection_in_ice">Solid-state convection in ice</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=16" title="Edit section: Solid-state convection in ice">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Sputnik_Planitia#Convection_cells" title="Sputnik Planitia">Ice convection on Pluto</a> is believed to occur in a soft mixture of <a class="mw-redirect" href="/wiki/Nitrogen_ice" title="Nitrogen ice">nitrogen ice</a> and <a href="/wiki/Carbon_monoxide" title="Carbon monoxide">carbon monoxide</a> ice. It has also been proposed for <a href="/wiki/Europa_(moon)" title="Europa (moon)">Europa</a>,<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> and other bodies in the outer solar system.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></p>
+<h3><span class="mw-headline" id="Thermomagnetic_convection">Thermomagnetic convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=17" title="Edit section: Thermomagnetic convection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Thermomagnetic_convection" title="Thermomagnetic convection">Thermomagnetic convection</a></div>
+<p><b>Thermomagnetic convection</b> can occur when an external magnetic field is imposed on a <a href="/wiki/Ferrofluid" title="Ferrofluid">ferrofluid</a> with varying <a href="/wiki/Magnetic_susceptibility" title="Magnetic susceptibility">magnetic susceptibility</a>. In the presence of a temperature gradient this results in a nonuniform magnetic body force, which leads to fluid movement. A ferrofluid is a liquid which becomes strongly magnetized in the presence of a <a href="/wiki/Magnetic_field" title="Magnetic field">magnetic field</a>.</p>
+<p>This form of heat transfer can be useful for cases where conventional convection fails to provide adequate heat transfer, e.g., in miniature microscale devices or under reduced gravity conditions.</p>
+<h3><span class="mw-headline" id="Capillary_action">Capillary action</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=18" title="Edit section: Capillary action">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Capillary_action" title="Capillary action">Capillary action</a></div>
+<p><b>Capillary action</b> is a phenomenon where liquid spontaneously rises in a narrow space such as a thin tube, or in porous materials. This effect can cause liquids to flow against the force of gravity. It occurs because of inter-molecular attractive forces between the liquid and solid surrounding surfaces; If the diameter of the tube is sufficiently small, then the combination of surface tension and forces of adhesion between the liquid and container act to lift the liquid.</p>
+<h3><span class="mw-headline" id="Marangoni_effect">Marangoni effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=19" title="Edit section: Marangoni effect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Marangoni_effect" title="Marangoni effect">Marangoni effect</a></div>
+<p>The <b>Marangoni effect</b> is the convection of fluid along an interface between dissimilar substances because of variations in surface tension. Surface tension can vary because of inhomogeneous composition of the substances or the temperature-dependence of surface tension forces. In the latter case the effect is known as <b>thermo-capillary convection</b>.</p>
+<p>A well-known phenomenon exhibiting this type of convection is the "<a href="/wiki/Tears_of_wine" title="Tears of wine">tears of wine</a>".</p>
+<h3><span class="mw-headline" id="Weissenberg_effect">Weissenberg effect</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=20" title="Edit section: Weissenberg effect">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Weissenberg_effect" title="Weissenberg effect">Weissenberg effect</a></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Reptation" title="Reptation">Reptation</a></div>
+<p>The <b>Weissenberg effect</b> is a phenomenon that occurs when a spinning rod is placed into a solution of liquid <a href="/wiki/Polymer" title="Polymer">polymer</a>. Entanglements cause the polymer chains to be drawn towards the rod instead of being thrown outward as would happen with an ordinary fluid (i.e., water).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This explanation does not match with the main article nor the referenced text in the main article (July 2017)">citation needed</span></a></i>]</sup></p>
+<h3><span class="mw-headline" id="Combustion">Combustion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=21" title="Edit section: Combustion">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a <a class="mw-redirect" href="/wiki/Zero-gravity" title="Zero-gravity">zero-gravity</a> environment, there can be <b>no</b> buoyancy forces, and thus no natural (free) convection possible, so flames in many circumstances without gravity smother in their own waste gases. However, flames may be maintained with any type of forced convection (breeze); or (in high oxygen environments in "still" gas environments) entirely from the minimal forced convection that occurs as heat-induced <i>expansion</i> (not buoyancy) of gases allows for ventilation of the flame, as waste gases move outward and cool, and fresh high-oxygen gas moves in to take up the low pressure zones created when flame-exhaust water condenses.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></p>
+<h2><span class="mw-headline" id="Mathematical_models_of_convection">Mathematical models of convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=22" title="Edit section: Mathematical models of convection">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mathematically, convection can be described by the <a href="/wiki/Convection%E2%80%93diffusion_equation" title="Convection–diffusion equation">convection–diffusion equation</a>, also known as the <a class="mw-redirect" href="/wiki/Generic_scalar_transport_equation" title="Generic scalar transport equation">generic scalar transport equation</a>.</p>
+<h3><span class="mw-headline" id="Quantifying_natural_versus_forced_convection">Quantifying natural versus forced convection</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=23" title="Edit section: Quantifying natural versus forced convection">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In cases of mixed convection (natural and forced occurring together) one would often like to know how much of the convection is due to external constraints, such as the fluid velocity in the pump, and how much is due to natural convection occurring in the system.</p>
+<p>The relative magnitudes of the <a href="/wiki/Grashof_number" title="Grashof number">Grashof</a> and <a href="/wiki/Reynolds_number" title="Reynolds number">Reynolds</a> numbers squared determine which form of convection dominates. If <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>R</mi>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>≫<!-- ≫ --></mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Gr/Re^{2}\gg 1}</annotation>
+</semantics>
+</math></span><img alt="Gr/Re^{2}\gg 1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a9655d6b80e657a5710b58d4d74681a2ae32b418" style="vertical-align: -0.838ex; width:12.797ex; height:3.176ex;"/></span>, forced convection may be neglected, whereas if <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>R</mi>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>≪<!-- ≪ --></mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Gr/Re^{2}\ll 1}</annotation>
+</semantics>
+</math></span><img alt="Gr/Re^{2}\ll 1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e613fdccb49dfe29e44d3622bc6b60f51e9fb1ab" style="vertical-align: -0.838ex; width:12.797ex; height:3.176ex;"/></span>, natural convection may be neglected. If the ratio is approximately one, then both forced and natural convection need to be taken into account.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=24" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Atmospheric convection</a></li>
+<li><a class="mw-redirect" href="/wiki/B%C3%A9nard_cells" title="Bénard cells">Bénard cells</a></li>
+<li><a href="/wiki/Churchill%E2%80%93Bernstein_equation" title="Churchill–Bernstein equation">Churchill–Bernstein equation</a></li>
+<li><a href="/wiki/Combined_forced_and_natural_convection" title="Combined forced and natural convection">Combined forced and natural convection</a></li>
+<li><a href="/wiki/Double_diffusive_convection" title="Double diffusive convection">Double diffusive convection</a></li>
+<li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a></li>
+<li><a href="/wiki/Heat_transfer" title="Heat transfer">Heat transfer</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Heat_conduction" title="Heat conduction">Heat conduction</a></li>
+<li><a href="/wiki/Thermal_radiation" title="Thermal radiation">Thermal radiation</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Radiation_properties" title="Radiation properties">Radiation properties</a></li>
+<li><a href="/wiki/Heat_pipe" title="Heat pipe">Heat pipe</a></li>
+<li><a href="/wiki/Laser-heated_pedestal_growth" title="Laser-heated pedestal growth">Laser-heated pedestal growth</a></li>
+<li><a href="/wiki/Nusselt_number" title="Nusselt number">Nusselt number</a></li>
+<li><a href="/wiki/Thermomagnetic_convection" title="Thermomagnetic convection">Thermomagnetic convection</a></li>
+<li><a href="/wiki/Vortex_tube" title="Vortex tube">Vortex tube</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=25" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-Incrop-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Incrop_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book"><a href="/wiki/Frank_P._Incropera" title="Frank P. Incropera">Incropera, Frank P.</a>; DeWitt, David P. (1990). <i>Fundamentals of Heat and Mass Transfer</i> (3rd ed.). John Wiley &amp; Sons. p. 28. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-51729-1" title="Special:BookSources/0-471-51729-1">0-471-51729-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.au=DeWitt%2C+David+P.&amp;rft.aufirst=Frank+P.&amp;rft.aulast=Incropera&amp;rft.btitle=Fundamentals+of+Heat+and+Mass+Transfer&amp;rft.date=1990&amp;rft.edition=3rd&amp;rft.genre=book&amp;rft.isbn=0-471-51729-1&amp;rft.pages=28&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> See Table 1.5</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Munson, Bruce R. <i>Fundamentals of Fluid Mechanics</i>. <a href="/wiki/John_Wiley_%26_Sons" title="John Wiley &amp; Sons">John Wiley &amp; Sons</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-85526-X" title="Special:BookSources/0-471-85526-X">0-471-85526-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=Bruce+R.&amp;rft.aulast=Munson&amp;rft.btitle=Fundamentals+of+Fluid+Mechanics&amp;rft.genre=book&amp;rft.isbn=0-471-85526-X&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Falkovich, G. (2011). <a class="external text" href="http://www.weizmann.ac.il/complex/falkovich/fluid-mechanics" rel="nofollow"><i>Fluid Mechanics, a short course for physicists</i></a>. Cambridge University Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-107-00575-4" title="Special:BookSources/978-1-107-00575-4">978-1-107-00575-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=G.&amp;rft.aulast=Falkovich&amp;rft.btitle=Fluid+Mechanics%2C+a+short+course+for+physicists&amp;rft.date=2011&amp;rft.genre=book&amp;rft.isbn=978-1-107-00575-4&amp;rft.pub=Cambridge+University+Press&amp;rft_id=http%3A%2F%2Fwww.weizmann.ac.il%2Fcomplex%2Ffalkovich%2Ffluid-mechanics&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Çengel, Yunus A.; Boles, Michael A. <i>Thermodynamics:An Engineering Approach</i>. <a href="/wiki/McGraw-Hill_Education" title="McGraw-Hill Education">McGraw-Hill Education</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-121688-X" title="Special:BookSources/0-07-121688-X">0-07-121688-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.au=Boles%2C+Michael+A.&amp;rft.aufirst=Yunus+A.&amp;rft.aulast=%C3%87engel&amp;rft.btitle=Thermodynamics%3AAn+Engineering+Approach&amp;rft.genre=book&amp;rft.isbn=0-07-121688-X&amp;rft.pub=McGraw-Hill+Education&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Çengel, Yunus A. (2003). <i>Heat transfer-A Practical Approach</i> (2nd ed.). McGraw Hill Professional. p. 26. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-245893-0" title="Special:BookSources/978-0-07-245893-0">978-0-07-245893-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=Yunus+A.&amp;rft.aulast=%C3%87engel&amp;rft.btitle=Heat+transfer-A+Practical+Approach&amp;rft.date=2003&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=978-0-07-245893-0&amp;rft.pages=26&amp;rft.pub=McGraw+Hill+Professional&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-MT-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-MT_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Pidwirny, Michael (2008). <a class="external text" href="https://web.archive.org/web/20081220230524/http://www.physicalgeography.net/fundamentals/8e.html" rel="nofollow">"CHAPTER 8: Introduction to the Hydrosphere (e). Cloud Formation Processes"</a>. Physical Geography. Archived from <a class="external text" href="http://www.physicalgeography.net/fundamentals/8e.html" rel="nofollow">the original</a> on 2008-12-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-01</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=Michael&amp;rft.aulast=Pidwirny&amp;rft.btitle=CHAPTER+8%3A+Introduction+to+the+Hydrosphere+%28e%29.+Cloud+Formation+Processes&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft.pub=Physical+Geography&amp;rft_id=http%3A%2F%2Fwww.physicalgeography.net%2Ffundamentals%2F8e.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.wrh.noaa.gov/twc/monsoon/monsoon_whatis.php" rel="nofollow">"What is a monsoon?"</a>. National Weather Service Western Region Headquarters. National Weather Service Forecast Office in <a href="/wiki/Tucson,_Arizona" title="Tucson, Arizona">Tucson, Arizona</a>. 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-03-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.btitle=What+is+a+monsoon%3F&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft.pub=National+Weather+Service+Western+Region+Headquarters&amp;rft_id=http%3A%2F%2Fwww.wrh.noaa.gov%2Ftwc%2Fmonsoon%2Fmonsoon_whatis.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Hahn, Douglas G.; <a href="/wiki/Syukuro_Manabe" title="Syukuro Manabe">Manabe, Syukuro</a> (1975). "The Role of Mountains in the South Asian Monsoon Circulation". <i><a class="mw-redirect" href="/wiki/Journal_of_Atmospheric_Sciences" title="Journal of Atmospheric Sciences">Journal of Atmospheric Sciences</a></i>. <b>32</b> (8): 1515–1541. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1975JAtS...32.1515H" rel="nofollow">1975JAtS...32.1515H</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1520-0469" rel="nofollow">1520-0469</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0469%281975%29032%3C1515%3ATROMIT%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0469(1975)032&lt;1515:TROMIT&gt;2.0.CO;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.atitle=The+Role+of+Mountains+in+the+South+Asian+Monsoon+Circulation&amp;rft.au=Manabe%2C+Syukuro&amp;rft.aufirst=Douglas+G.&amp;rft.aulast=Hahn&amp;rft.date=1975&amp;rft.genre=article&amp;rft.issn=1520-0469&amp;rft.issue=8&amp;rft.jtitle=Journal+of+Atmospheric+Sciences&amp;rft.pages=1515-1541&amp;rft.volume=32&amp;rft_id=info%3Abibcode%2F1975JAtS...32.1515H&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0469%281975%29032%3C1515%3ATROMIT%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">University of Wisconsin. <a class="external text" href="http://cimss.ssec.wisc.edu/wxwise/seabrz.html" rel="nofollow">Sea and Land Breezes.</a> Retrieved on 2006-10-24.</span></li>
+<li id="cite_note-Jet-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jet_10-0">^</a></b></span> <span class="reference-text">JetStream: An Online School For Weather (2008). <a class="external text" href="http://www.srh.weather.gov/srh/jetstream/ocean/seabreezes.htm" rel="nofollow">The Sea Breeze.</a> <a class="external text" href="https://web.archive.org/web/20060923233344/http://www.srh.weather.gov/srh/jetstream/ocean/seabreezes.htm" rel="nofollow">Archived</a> 2006-09-23 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a>. Retrieved on 2006-10-24.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">Frye, Albert Irvin (1913). <a class="external text" href="https://books.google.com/?id=PDtIAAAAIAAJ&amp;pg=PA462" rel="nofollow"><i>Civil engineers' pocket book: a reference-book for engineers, contractors</i></a>. D. Van Nostrand Company. p. 462<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-31</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=Albert+Irvin&amp;rft.aulast=Frye&amp;rft.btitle=Civil+engineers%27+pocket+book%3A+a+reference-book+for+engineers%2C+contractors&amp;rft.date=1913&amp;rft.genre=book&amp;rft.pages=462&amp;rft.pub=D.+Van+Nostrand+Company&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DPDtIAAAAIAAJ%26pg%3DPA462&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Deng, Yikne (2005). <a class="external text" href="https://books.google.com/?id=ssO_19TRQ9AC&amp;pg=PA112&amp;dq=Kongming+balloon" rel="nofollow"><i>Ancient Chinese Inventions</i></a>. Chinese International Press. pp. 112–13. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-7-5085-0837-5" title="Special:BookSources/978-7-5085-0837-5">978-7-5085-0837-5</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=Yikne&amp;rft.aulast=Deng&amp;rft.btitle=Ancient+Chinese+Inventions&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=978-7-5085-0837-5&amp;rft.pages=112-13&amp;rft.pub=Chinese+International+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DssO_19TRQ9AC%26pg%3DPA112%26dq%3DKongming%2Bballoon&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.zamg.ac.at/docu/Manual/SatManu/main.htm?/docu/Manual/SatManu/CMs/FgStr/backgr.htm" rel="nofollow">"Fog And Stratus – Meteorological Physical Background"</a>. Zentralanstalt für Meteorologie und Geodynamik. FMI. 2007<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.btitle=Fog+And+Stratus+%E2%80%93+Meteorological+Physical+Background&amp;rft.date=2007&amp;rft.genre=unknown&amp;rft.pub=Zentralanstalt+f%C3%BCr+Meteorologie+und+Geodynamik&amp;rft_id=http%3A%2F%2Fwww.zamg.ac.at%2Fdocu%2FManual%2FSatManu%2Fmain.htm%3F%2Fdocu%2FManual%2FSatManu%2FCMs%2FFgStr%2Fbackgr.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation book">Mooney, Chris C. (2007). <a class="external text" href="https://books.google.com/?id=RRSzR4NQdGkC&amp;pg=PA20" rel="nofollow"><i>Storm world: hurricanes, politics, and the battle over global warming</i></a>. Houghton Mifflin Harcourt. p. 20. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-15-101287-9" title="Special:BookSources/978-0-15-101287-9">978-0-15-101287-9</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-08-31</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=Chris+C.&amp;rft.aulast=Mooney&amp;rft.btitle=Storm+world%3A+hurricanes%2C+politics%2C+and+the+battle+over+global+warming&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-0-15-101287-9&amp;rft.pages=20&amp;rft.pub=Houghton+Mifflin+Harcourt&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DRRSzR4NQdGkC%26pg%3DPA20&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Extreme_Weather-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Extreme_Weather_15-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Mogil, Michael H. (2007). <i>Extreme Weather</i>. New York: Black Dog &amp; Leventhal Publisher. pp. 210–211. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-57912-743-5" title="Special:BookSources/978-1-57912-743-5">978-1-57912-743-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=Michael+H.&amp;rft.aulast=Mogil&amp;rft.btitle=Extreme+Weather&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=978-1-57912-743-5&amp;rft.pages=210-211&amp;rft.place=New+York&amp;rft.pub=Black+Dog+%26+Leventhal+Publisher&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-tsbasics-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-tsbasics_16-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nssl.noaa.gov/primer/tstorm/tst_basics.html" rel="nofollow">"A Severe Weather Primer: Questions and Answers about Thunderstorms"</a>. <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a>. National Severe Storms Laboratory. 2006-10-15<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-09-01</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.btitle=A+Severe+Weather+Primer%3A+Questions+and+Answers+about+Thunderstorms&amp;rft.date=2006-10-15&amp;rft.genre=unknown&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.nssl.noaa.gov%2Fprimer%2Ftstorm%2Ftst_basics.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=trade-winds1" rel="nofollow">"trade winds"</a>. <i>Glossary of Meteorology</i>. American Meteorological Society. 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-09-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.atitle=trade+winds&amp;rft.date=2009&amp;rft.genre=unknown&amp;rft.jtitle=Glossary+of+Meteorology&amp;rft_id=http%3A%2F%2Famsglossary.allenpress.com%2Fglossary%2Fsearch%3Fid%3Dtrade-winds1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Glossary of Meteorology (2009). <a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=westerlies1" rel="nofollow">Westerlies.</a> <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>. Retrieved on 2009-04-15.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Matthias Tomczak and J. Stuart Godfrey (2001). <a class="external text" href="http://www.es.flinders.edu.au/~mattom/regoc/pdffiles/colour/double/04P-Ekman-left.pdf" rel="nofollow">Regional Oceanography: an Introduction.</a> Matthias Tomczak, pp. 42. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/81-7035-306-8" title="Special:BookSources/81-7035-306-8">81-7035-306-8</a>. Retrieved on 2009-05-06.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Earthguide (2007). <a class="external text" href="http://earthguide.ucsd.edu/parkerprogram/berger/pdf/OcnBasLesson06.pdf" rel="nofollow">Lesson 6: Unraveling the Gulf Stream Puzzle - On a Warm Current Running North.</a> <a href="/wiki/University_of_California" title="University of California">University of California</a> at San Diego. Retrieved on 2009-05-06.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Angela Colling (2001). <a class="external text" href="https://books.google.com/books?id=tFJRLhSez_YC&amp;pg=PA90" rel="nofollow">Ocean circulation.</a> Butterworth-Heinemann, pp. 96. Retrieved on 2009-05-07.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">National Environmental Satellite, Data, and Information Service (2009). <a class="external text" href="http://www.science-house.org/nesdis/gulf/background.html" rel="nofollow">Investigating the Gulf Stream.</a> <a class="external text" href="https://web.archive.org/web/20100503013457/http://www.science-house.org/nesdis/gulf/background.html" rel="nofollow">Archived</a> 2010-05-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. <a href="/wiki/North_Carolina_State_University" title="North Carolina State University">North Carolina State University</a>. Retrieved on 2009-05-06.</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web">Russel, Randy. <a class="external text" href="http://www.windows.ucar.edu/tour/link=/earth/Water/thermohaline_ocean_circulation.html" rel="nofollow">"Thermohaline Ocean Circulation"</a>. University Corporation for Atmospheric Research<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-06</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=Randy&amp;rft.aulast=Russel&amp;rft.btitle=Thermohaline+Ocean+Circulation&amp;rft.genre=unknown&amp;rft.pub=University+Corporation+for+Atmospheric+Research&amp;rft_id=http%3A%2F%2Fwww.windows.ucar.edu%2Ftour%2Flink%3D%2Fearth%2FWater%2Fthermohaline_ocean_circulation.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">Behl, R. <a class="external text" href="https://web.archive.org/web/20080523170145/http://seis.natsci.csulb.edu/rbehl/NADW.htm" rel="nofollow">"Atlantic Ocean water masses"</a>. <a href="/wiki/California_State_University" title="California State University">California State University</a> Long Beach. Archived from <a class="external text" href="http://seis.natsci.csulb.edu/rbehl/NADW.htm" rel="nofollow">the original</a> on May 23, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-01-06</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=R.&amp;rft.aulast=Behl&amp;rft.btitle=Atlantic+Ocean+water+masses&amp;rft.genre=unknown&amp;rft.pub=California+State+University+Long+Beach&amp;rft_id=http%3A%2F%2Fseis.natsci.csulb.edu%2Frbehl%2FNADW.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-University_of_Winnipeg-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-University_of_Winnipeg_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Kobes, Randy; Kunstatter, Gabor (2002-12-16). <a class="external text" href="http://theory.uwinnipeg.ca/mod_tech/node195.html" rel="nofollow">"Mantle Convection"</a>. Physics Department, University of Winnipeg<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.au=Kunstatter%2C+Gabor&amp;rft.aufirst=Randy&amp;rft.aulast=Kobes&amp;rft.btitle=Mantle+Convection&amp;rft.date=2002-12-16&amp;rft.genre=unknown&amp;rft.pub=Physics+Department%2C+University+of+Winnipeg&amp;rft_id=http%3A%2F%2Ftheory.uwinnipeg.ca%2Fmod_tech%2Fnode195.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Condie-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-Condie_26-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Condie, Kent C. (1997). <a class="external text" href="https://books.google.com/books?id=HZrA6OQzsvgC&amp;pg=PA5" rel="nofollow"><i>Plate tectonics and crustal evolution</i></a> (4th ed.). Butterworth-Heinemann. p. 5. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7506-3386-7" title="Special:BookSources/0-7506-3386-7">0-7506-3386-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.aufirst=Kent+C.&amp;rft.aulast=Condie&amp;rft.btitle=Plate+tectonics+and+crustal+evolution&amp;rft.date=1997&amp;rft.edition=4th&amp;rft.genre=book&amp;rft.isbn=0-7506-3386-7&amp;rft.pages=5&amp;rft.pub=Butterworth-Heinemann&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DHZrA6OQzsvgC%26pg%3DPA5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">"Pattern Formation in Solutal Convection: Vermiculated Rolls and Isolated Cells". <a href="/wiki/CiteSeerX" title="CiteSeerX">CiteSeerX</a> <span class="plainlinks"><a class="external text" href="//citeseerx.ist.psu.edu/viewdoc/summary?doi=10.1.1.15.8288" rel="nofollow">10.1.1.15.8288</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.atitle=Pattern+Formation+in+Solutal+Convection%3A+Vermiculated+Rolls+and+Isolated+Cells&amp;rft.genre=article&amp;rft_id=%2F%2Fciteseerx.ist.psu.edu%2Fviewdoc%2Fsummary%3Fdoi%3D10.1.1.15.8288&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal">Raats, P. A. C. (1969). "Steady Gravitational Convection Induced by a Line Source of Salt in a Soil". <i><a href="/wiki/Soil_Science_Society_of_America" title="Soil Science Society of America">Soil Science Society of America</a> Proceedings</i>. <b>33</b> (4): 483. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2136%2Fsssaj1969.03615995003300040005x" rel="nofollow">10.2136/sssaj1969.03615995003300040005x</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.atitle=Steady+Gravitational+Convection+Induced+by+a+Line+Source+of+Salt+in+a+Soil&amp;rft.aufirst=P.+A.+C.&amp;rft.aulast=Raats&amp;rft.date=1969&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Soil+Science+Society+of+America+Proceedings&amp;rft.pages=483&amp;rft.volume=33&amp;rft_id=info%3Adoi%2F10.2136%2Fsssaj1969.03615995003300040005x&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation journal">McKinnon, William B. (2006). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0019103506000807" rel="nofollow">"On convection in ice I shells of outer Solar System bodies, with detailed application to Callisto"</a>. <i>Icarus</i>. <b>183</b>: 435–450. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006Icar..183..435M" rel="nofollow">2006Icar..183..435M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.icarus.2006.03.004" rel="nofollow">10.1016/j.icarus.2006.03.004</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.atitle=On+convection+in+ice+I+shells+of+outer+Solar+System+bodies%2C+with+detailed+application+to+Callisto&amp;rft.aufirst=William+B.&amp;rft.aulast=McKinnon&amp;rft.date=2006&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.pages=435-450&amp;rft.volume=183&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0019103506000807&amp;rft_id=info%3Abibcode%2F2006Icar..183..435M&amp;rft_id=info%3Adoi%2F10.1016%2Fj.icarus.2006.03.004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation journal">McKinnon, William B. (2006). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0019103506000807" rel="nofollow">"On convection in ice I shells of outer Solar System bodies, with detailed application to Callisto"</a>. <i>Icarus</i>. <b>183</b>: 435–450. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006Icar..183..435M" rel="nofollow">2006Icar..183..435M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.icarus.2006.03.004" rel="nofollow">10.1016/j.icarus.2006.03.004</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvection&amp;rft.atitle=On+convection+in+ice+I+shells+of+outer+Solar+System+bodies%2C+with+detailed+application+to+Callisto&amp;rft.aufirst=William+B.&amp;rft.aulast=McKinnon&amp;rft.date=2006&amp;rft.genre=article&amp;rft.jtitle=Icarus&amp;rft.pages=435-450&amp;rft.volume=183&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS0019103506000807&amp;rft_id=info%3Abibcode%2F2006Icar..183..435M&amp;rft_id=info%3Adoi%2F10.1016%2Fj.icarus.2006.03.004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.straightdope.com/classics/a3_360.html" rel="nofollow">Does a candle burn in zero-g?</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convection&amp;action=edit&amp;section=26" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Convection" title="commons:Category:Convection">Convection</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.cheresources.com/convection.shtml" rel="nofollow">Correlations for Convective Heat Transfer</a></li>
+<li><a class="external text" href="http://energy.concord.org/energy2d/" rel="nofollow">Energy2D: Interactive Heat Transfer Simulations for Everyone</a></li>
+</ul>
+<div aria-labelledby="Meteorological_data_and_variables" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_variables" title="Template:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_variables" title="Template talk:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_variables&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Meteorological_data_and_variables" style="font-size:114%;margin:0 4em">Meteorological data and variables</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic processes</a></li>
+<li><a href="/wiki/Advection" title="Advection">Advection</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Lapse_rate" title="Lapse rate">Lapse rate</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">Surface solar radiation</a></li>
+<li><a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Surface weather analysis</a></li>
+<li><a href="/wiki/Visibility" title="Visibility">Visibility</a></li>
+<li><a href="/wiki/Vorticity" title="Vorticity">Vorticity</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Wind_shear" title="Wind shear">Wind shear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Condensation" title="Condensation">Condensation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">Cloud condensation nuclei (CCN)</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Convective_condensation_level" title="Convective condensation level">Convective condensation level (CCL)</a></li>
+<li><a href="/wiki/Lifted_condensation_level" title="Lifted condensation level">Lifted condensation level (LCL)</a></li>
+<li><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></li>
+<li><a href="/wiki/Water_vapor" title="Water vapor">Water vapor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Convection</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">Convective available potential energy (CAPE)</a></li>
+<li><a href="/wiki/Convective_inhibition" title="Convective inhibition">Convective inhibition (CIN)</a></li>
+<li><a href="/wiki/Convective_instability" title="Convective instability">Convective instability</a></li>
+<li><a href="/wiki/Convective_momentum_transport" title="Convective momentum transport">Convective momentum transport</a></li>
+<li><a href="/wiki/Convective_temperature" title="Convective temperature">Convective temperature (<i>T</i><sub>c</sub>)</a></li>
+<li><a href="/wiki/Equilibrium_level" title="Equilibrium level">Equilibrium level (EL)</a></li>
+<li><a href="/wiki/Free_convective_layer" title="Free convective layer">Free convective layer (FCL)</a></li>
+<li><a class="mw-redirect" href="/wiki/Helicity_(fluid_mechanics)#Meteorology" title="Helicity (fluid mechanics)">Helicity</a></li>
+<li><a href="/wiki/K-index_(meteorology)" title="K-index (meteorology)">K Index</a></li>
+<li><a href="/wiki/Level_of_free_convection" title="Level of free convection">Level of free convection (LFC)</a></li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index (LI)</a></li>
+<li><a href="/wiki/Maximum_parcel_level" title="Maximum parcel level">Maximum parcel level (MPL)</a></li>
+<li><a href="/wiki/Bulk_Richardson_number" title="Bulk Richardson number">Bulk Richardson number (BRN)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Temperature" title="Temperature">Temperature</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dew_point" title="Dew point">Dew point (<i>T</i><sub>d</sub>)</a></li>
+<li><a href="/wiki/Dew_point_depression" title="Dew point depression">Dew point depression</a></li>
+<li><a href="/wiki/Dry-bulb_temperature" title="Dry-bulb temperature">Dry-bulb temperature</a></li>
+<li><a href="/wiki/Equivalent_temperature" title="Equivalent temperature">Equivalent temperature (<i>T</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Forest_fire_weather_index" title="Forest fire weather index">Forest fire weather index</a></li>
+<li><a href="/wiki/Haines_Index" title="Haines Index">Haines Index</a></li>
+<li><a href="/wiki/Heat_index" title="Heat index">Heat index</a></li>
+<li><a href="/wiki/Humidex" title="Humidex">Humidex</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Relative_humidity" title="Relative humidity">Relative humidity (RH)</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Potential_temperature" title="Potential temperature">Potential temperature (<i>θ</i>)</a></li>
+<li><a href="/wiki/Equivalent_potential_temperature" title="Equivalent potential temperature">Equivalent potential temperature (<i>θ</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature (SST)</a></li>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Thermodynamic temperature</a></li>
+<li><a href="/wiki/Vapor_pressure" title="Vapor pressure">Vapor pressure</a></li>
+<li><a href="/wiki/Virtual_temperature" title="Virtual temperature">Virtual temperature</a></li>
+<li><a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">Wet-bulb temperature</a></li>
+<li><a href="/wiki/Wet-bulb_potential_temperature" title="Wet-bulb potential temperature">Wet-bulb potential temperature</a></li>
+<li><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pressure" title="Pressure">Pressure</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a class="mw-redirect" href="/wiki/Barotropic" title="Barotropic">Barotropicity</a></li>
+<li><a href="/wiki/Pressure_gradient" title="Pressure gradient">Pressure gradient</a></li>
+<li><a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">Pressure-gradient force (PGF)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Heating.2C_ventilation_and_air_conditioning" class="navbox" role="navigation" style="vertical-align: middle;;padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:HVAC" title="Template:HVAC"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:HVAC" title="Template talk:HVAC"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:HVAC&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Heating.2C_ventilation_and_air_conditioning" style="font-size:114%;margin:0 4em"><a href="/wiki/HVAC" title="HVAC">Heating, ventilation and air conditioning</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Fundamental concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_changes_per_hour" title="Air changes per hour">Air changes per hour</a></li>
+<li><a href="/wiki/Bake-out" title="Bake-out">Bake-out</a></li>
+<li><a href="/wiki/Building_envelope" title="Building envelope">Building envelope</a></li>
+<li><a class="mw-selflink selflink">Convection</a></li>
+<li><a href="/wiki/Dilution_(equation)" title="Dilution (equation)">Dilution</a></li>
+<li><a href="/wiki/Domestic_energy_consumption" title="Domestic energy consumption">Domestic energy consumption</a></li>
+<li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li>
+<li><a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Fluid dynamics</a></li>
+<li><a class="mw-redirect" href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li>
+<li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pump and refrigeration cycle</a></li>
+<li><a href="/wiki/Heat_transfer" title="Heat transfer">Heat transfer</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Infiltration_(HVAC)" title="Infiltration (HVAC)">Infiltration</a></li>
+<li><a href="/wiki/Latent_heat" title="Latent heat">Latent heat</a></li>
+<li><a href="/wiki/Noise_control" title="Noise control">Noise control</a></li>
+<li><a href="/wiki/Outgassing" title="Outgassing">Outgassing</a></li>
+<li><a href="/wiki/Particulates" title="Particulates">Particulates</a></li>
+<li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li>
+<li><a href="/wiki/Sensible_heat" title="Sensible heat">Sensible heat</a></li>
+<li><a href="/wiki/Stack_effect" title="Stack effect">Stack effect</a></li>
+<li><a href="/wiki/Thermal_comfort" title="Thermal comfort">Thermal comfort</a></li>
+<li><a href="/wiki/Thermal_destratification" title="Thermal destratification">Thermal destratification</a></li>
+<li><a href="/wiki/Thermal_mass" title="Thermal mass">Thermal mass</a></li>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Vapour_pressure_of_water" title="Vapour pressure of water">Vapour pressure of water</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Technology</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Absorption_refrigerator" title="Absorption refrigerator">Absorption refrigerator</a></li>
+<li><a href="/wiki/Air_barrier" title="Air barrier">Air barrier</a></li>
+<li><a href="/wiki/Air_conditioning" title="Air conditioning">Air conditioning</a></li>
+<li><a href="/wiki/Antifreeze" title="Antifreeze">Antifreeze</a></li>
+<li><a href="/wiki/Automobile_air_conditioning" title="Automobile air conditioning">Automobile air conditioning</a></li>
+<li><a href="/wiki/Autonomous_building" title="Autonomous building">Autonomous building</a></li>
+<li><a href="/wiki/Building_insulation_materials" title="Building insulation materials">Building insulation materials</a></li>
+<li><a href="/wiki/Central_heating" title="Central heating">Central heating</a></li>
+<li><a href="/wiki/Central_solar_heating" title="Central solar heating">Central solar heating</a></li>
+<li><a href="/wiki/Chilled_beam" title="Chilled beam">Chilled beam</a></li>
+<li><a href="/wiki/Chilled_water" title="Chilled water">Chilled water</a></li>
+<li><a href="/wiki/Constant_air_volume" title="Constant air volume">Constant air volume</a> (CAV)</li>
+<li><a href="/wiki/Coolant" title="Coolant">Coolant</a></li>
+<li><a href="/wiki/Dedicated_outdoor_air_system" title="Dedicated outdoor air system">Dedicated outdoor air system</a> (DOAS)</li>
+<li><a href="/wiki/Deep_water_source_cooling" title="Deep water source cooling">Deep water source cooling</a></li>
+<li><a class="mw-redirect" href="/wiki/Demand-controlled_ventilation" title="Demand-controlled ventilation">Demand-controlled ventilation</a> (DCV)</li>
+<li><a href="/wiki/Displacement_ventilation" title="Displacement ventilation">Displacement ventilation</a></li>
+<li><a href="/wiki/District_cooling" title="District cooling">District cooling</a></li>
+<li><a href="/wiki/District_heating" title="District heating">District heating</a></li>
+<li><a href="/wiki/Electric_heating" title="Electric heating">Electric heating</a></li>
+<li><a href="/wiki/Energy_recovery_ventilation" title="Energy recovery ventilation">Energy recovery ventilation</a> (ERV)</li>
+<li><a href="/wiki/Firestop" title="Firestop">Firestop</a></li>
+<li><a href="/wiki/Forced-air" title="Forced-air">Forced-air</a></li>
+<li><a href="/wiki/Forced-air_gas" title="Forced-air gas">Forced-air gas</a></li>
+<li><a href="/wiki/Free_cooling" title="Free cooling">Free cooling</a></li>
+<li><a href="/wiki/Heat_recovery_ventilation" title="Heat recovery ventilation">Heat recovery ventilation</a> (HRV)</li>
+<li><a href="/wiki/Hybrid_heat" title="Hybrid heat">Hybrid heat</a></li>
+<li><a href="/wiki/Hydronics" title="Hydronics">Hydronics</a></li>
+<li><a href="/wiki/HVAC" title="HVAC">HVAC</a></li>
+<li><a href="/wiki/Ice_storage_air_conditioning" title="Ice storage air conditioning">Ice storage air conditioning</a></li>
+<li><a href="/wiki/Kitchen_ventilation" title="Kitchen ventilation">Kitchen ventilation</a></li>
+<li><a href="/wiki/Mixed-mode_ventilation" title="Mixed-mode ventilation">Mixed-mode ventilation</a></li>
+<li><a href="/wiki/Microgeneration" title="Microgeneration">Microgeneration</a></li>
+<li><a href="/wiki/Natural_ventilation" title="Natural ventilation">Natural ventilation</a></li>
+<li><a href="/wiki/Passive_cooling" title="Passive cooling">Passive cooling</a></li>
+<li><a href="/wiki/Passive_house" title="Passive house">Passive house</a></li>
+<li><a href="/wiki/Radiant_heating_and_cooling_system" title="Radiant heating and cooling system">Radiant heating and cooling system</a></li>
+<li><a href="/wiki/Radiant_cooling" title="Radiant cooling">Radiant cooling</a></li>
+<li><a href="/wiki/Radiant_heating" title="Radiant heating">Radiant heating</a></li>
+<li><a href="/wiki/Radon_mitigation" title="Radon mitigation">Radon mitigation</a></li>
+<li><a href="/wiki/Refrigeration" title="Refrigeration">Refrigeration</a></li>
+<li><a href="/wiki/Renewable_heat" title="Renewable heat">Renewable heat</a></li>
+<li><a href="/wiki/Room_air_distribution" title="Room air distribution">Room air distribution</a></li>
+<li><a href="/wiki/Solar_air_heat" title="Solar air heat">Solar air heat</a></li>
+<li><a href="/wiki/Solar_combisystem" title="Solar combisystem">Solar combisystem</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_cooling" title="Solar cooling">Solar cooling</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_heating" title="Solar heating">Solar heating</a></li>
+<li><a href="/wiki/Thermal_insulation" title="Thermal insulation">Thermal insulation</a></li>
+<li><a href="/wiki/Underfloor_air_distribution" title="Underfloor air distribution">Underfloor air distribution</a></li>
+<li><a href="/wiki/Underfloor_heating" title="Underfloor heating">Underfloor heating</a></li>
+<li><a href="/wiki/Vapor_barrier" title="Vapor barrier">Vapor barrier</a></li>
+<li><a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression refrigeration</a> (VCRS)</li>
+<li><a href="/wiki/Variable_air_volume" title="Variable air volume">Variable air volume</a> (VAV)</li>
+<li><a href="/wiki/Variable_refrigerant_flow" title="Variable refrigerant flow">Variable refrigerant flow</a> (VRF)</li>
+<li><a href="/wiki/Ventilation_(architecture)" title="Ventilation (architecture)">Ventilation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Components</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Air_conditioner_inverter" title="Air conditioner inverter">Air conditioner inverter</a></li>
+<li><a href="/wiki/Air_door" title="Air door">Air door</a></li>
+<li><a href="/wiki/Air_filter" title="Air filter">Air filter</a></li>
+<li><a href="/wiki/Air_handler" title="Air handler">Air handler</a></li>
+<li><a href="/wiki/Air_ioniser" title="Air ioniser">Air ionizer</a></li>
+<li><a href="/wiki/Air-mixing_plenum" title="Air-mixing plenum">Air-mixing plenum</a></li>
+<li><a href="/wiki/Air_purifier" title="Air purifier">Air purifier</a></li>
+<li><a href="/wiki/Air_source_heat_pumps" title="Air source heat pumps">Air source heat pumps</a></li>
+<li><a href="/wiki/Automatic_balancing_valve" title="Automatic balancing valve">Automatic balancing valve</a></li>
+<li><a href="/wiki/Back_boiler" title="Back boiler">Back boiler</a></li>
+<li><a href="/wiki/Barrier_pipe" title="Barrier pipe">Barrier pipe</a></li>
+<li><a href="/wiki/Blast_damper" title="Blast damper">Blast damper</a></li>
+<li><a href="/wiki/Boiler" title="Boiler">Boiler</a></li>
+<li><a href="/wiki/Centrifugal_fan" title="Centrifugal fan">Centrifugal fan</a></li>
+<li><a href="/wiki/Chiller" title="Chiller">Chiller</a></li>
+<li><a href="/wiki/Condensate_pump" title="Condensate pump">Condensate pump</a></li>
+<li><a href="/wiki/Condenser_(heat_transfer)" title="Condenser (heat transfer)">Condenser</a></li>
+<li><a href="/wiki/Condensing_boiler" title="Condensing boiler">Condensing boiler</a></li>
+<li><a href="/wiki/Convection_heater" title="Convection heater">Convection heater</a></li>
+<li><a href="/wiki/Cooling_tower" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Damper_(flow)" title="Damper (flow)">Damper</a></li>
+<li><a href="/wiki/Dehumidifier" title="Dehumidifier">Dehumidifier</a></li>
+<li><a href="/wiki/Duct_(flow)" title="Duct (flow)">Duct</a></li>
+<li><a href="/wiki/Economizer" title="Economizer">Economizer</a></li>
+<li><a href="/wiki/Electrostatic_precipitator" title="Electrostatic precipitator">Electrostatic precipitator</a></li>
+<li><a href="/wiki/Evaporative_cooler" title="Evaporative cooler">Evaporative cooler</a></li>
+<li><a href="/wiki/Evaporator" title="Evaporator">Evaporator</a></li>
+<li><a href="/wiki/Exhaust_hood" title="Exhaust hood">Exhaust hood</a></li>
+<li><a href="/wiki/Expansion_tank" title="Expansion tank">Expansion tank</a></li>
+<li><a href="/wiki/Fan_coil_unit" title="Fan coil unit">Fan coil unit</a></li>
+<li><a href="/wiki/Fan_heater" title="Fan heater">Fan heater</a></li>
+<li><a href="/wiki/Fire_damper" title="Fire damper">Fire damper</a></li>
+<li><a href="/wiki/Fireplace" title="Fireplace">Fireplace</a></li>
+<li><a href="/wiki/Fireplace_insert" title="Fireplace insert">Fireplace insert</a></li>
+<li><a href="/wiki/Freeze_stat" title="Freeze stat">Freeze stat</a></li>
+<li><a href="/wiki/Flue" title="Flue">Flue</a></li>
+<li><a href="/wiki/Freon" title="Freon">Freon</a></li>
+<li><a href="/wiki/Fume_hood" title="Fume hood">Fume hood</a></li>
+<li><a href="/wiki/Furnace" title="Furnace">Furnace</a></li>
+<li><a href="/wiki/Furnace_room" title="Furnace room">Furnace room</a></li>
+<li><a class="mw-redirect" href="/wiki/Gas_compressor" title="Gas compressor">Gas compressor</a></li>
+<li><a href="/wiki/Gas_heater" title="Gas heater">Gas heater</a></li>
+<li><a href="/wiki/Gasoline_heater" title="Gasoline heater">Gasoline heater</a></li>
+<li><a href="/wiki/Geothermal_heat_pump" title="Geothermal heat pump">Geothermal heat pump</a></li>
+<li><a href="/wiki/Grease_duct" title="Grease duct">Grease duct</a></li>
+<li><a href="/wiki/Grille" title="Grille">Grille</a></li>
+<li><a href="/wiki/Ground-coupled_heat_exchanger" title="Ground-coupled heat exchanger">Ground-coupled heat exchanger</a></li>
+<li><a href="/wiki/Heat_exchanger" title="Heat exchanger">Heat exchanger</a></li>
+<li><a href="/wiki/Heat_pipe" title="Heat pipe">Heat pipe</a></li>
+<li><a href="/wiki/Heat_pump" title="Heat pump">Heat pump</a></li>
+<li><a href="/wiki/Heating_film" title="Heating film">Heating film</a></li>
+<li><a href="/wiki/Heating_system" title="Heating system">Heating system</a></li>
+<li><a href="/wiki/High_efficiency_glandless_circulating_pump" title="High efficiency glandless circulating pump">High efficiency glandless circulating pump</a></li>
+<li><a class="mw-redirect" href="/wiki/High-efficiency_particulate_air" title="High-efficiency particulate air">High-efficiency particulate air</a> (HEPA)</li>
+<li><a href="/wiki/High_pressure_cut_off_switch" title="High pressure cut off switch">High pressure cut off switch</a></li>
+<li><a href="/wiki/Humidifier" title="Humidifier">Humidifier</a></li>
+<li><a href="/wiki/Infrared_heater" title="Infrared heater">Infrared heater</a></li>
+<li><a href="/wiki/Inverter_compressor" title="Inverter compressor">Inverter compressor</a></li>
+<li><a href="/wiki/Kerosene_heater" title="Kerosene heater">Kerosene heater</a></li>
+<li><a href="/wiki/Louver" title="Louver">Louver</a></li>
+<li><a class="mw-redirect" href="/wiki/Mechanical_fan" title="Mechanical fan">Mechanical fan</a></li>
+<li><a href="/wiki/Mechanical_room" title="Mechanical room">Mechanical room</a></li>
+<li><a href="/wiki/Oil_heater" title="Oil heater">Oil heater</a></li>
+<li><a href="/wiki/Packaged_terminal_air_conditioner" title="Packaged terminal air conditioner">Packaged terminal air conditioner</a></li>
+<li><a href="/wiki/Plenum_space" title="Plenum space">Plenum space</a></li>
+<li><a href="/wiki/Pressurisation_ductwork" title="Pressurisation ductwork">Pressurisation ductwork</a></li>
+<li><a href="/wiki/Process_duct_work" title="Process duct work">Process duct work</a></li>
+<li><a href="/wiki/Radiator_(heating)" title="Radiator (heating)">Radiator</a></li>
+<li><a href="/wiki/Radiator_reflector" title="Radiator reflector">Radiator reflector</a></li>
+<li><a href="/wiki/Recuperator" title="Recuperator">Recuperator</a></li>
+<li><a href="/wiki/Refrigerant" title="Refrigerant">Refrigerant</a></li>
+<li><a href="/wiki/Register_(air_and_heating)" title="Register (air and heating)">Register</a></li>
+<li><a href="/wiki/Reversing_valve" title="Reversing valve">Reversing valve</a></li>
+<li><a href="/wiki/Run-around_coil" title="Run-around coil">Run-around coil</a></li>
+<li><a href="/wiki/Scroll_compressor" title="Scroll compressor">Scroll compressor</a></li>
+<li><a href="/wiki/Solar_chimney" title="Solar chimney">Solar chimney</a></li>
+<li><a href="/wiki/Solar-assisted_heat_pump" title="Solar-assisted heat pump">Solar-assisted heat pump</a></li>
+<li><a href="/wiki/Space_heater" title="Space heater">Space heater</a></li>
+<li><a href="/wiki/Smoke_exhaust_ductwork" title="Smoke exhaust ductwork">Smoke exhaust ductwork</a></li>
+<li><a href="/wiki/Thermal_expansion_valve" title="Thermal expansion valve">Thermal expansion valve</a></li>
+<li><a href="/wiki/Thermal_wheel" title="Thermal wheel">Thermal wheel</a></li>
+<li><a href="/wiki/Thermosiphon" title="Thermosiphon">Thermosiphon</a></li>
+<li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li>
+<li><a href="/wiki/Trickle_vent" title="Trickle vent">Trickle vent</a></li>
+<li><a href="/wiki/Trombe_wall" title="Trombe wall">Trombe wall</a></li>
+<li><a href="/wiki/Turning_vanes_(HVAC)" title="Turning vanes (HVAC)">Turning vanes</a></li>
+<li><a href="/wiki/Ultra-low_particulate_air" title="Ultra-low particulate air">Ultra-low particulate air</a> (ULPA)</li>
+<li><a href="/wiki/Whole-house_fan" title="Whole-house fan">Whole-house fan</a></li>
+<li><a href="/wiki/Windcatcher" title="Windcatcher">Windcatcher</a></li>
+<li><a href="/wiki/Wood-burning_stove" title="Wood-burning stove">Wood-burning stove</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Measurement and control</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li>
+<li><a href="/wiki/Aquastat" title="Aquastat">Aquastat</a></li>
+<li><a href="/wiki/BACnet" title="BACnet">BACnet</a></li>
+<li><a href="/wiki/Blower_door" title="Blower door">Blower door</a></li>
+<li><a href="/wiki/Building_automation" title="Building automation">Building automation</a></li>
+<li><a href="/wiki/Carbon_dioxide_sensor" title="Carbon dioxide sensor">Carbon dioxide sensor</a></li>
+<li><a href="/wiki/Clean_Air_Delivery_Rate" title="Clean Air Delivery Rate">Clean Air Delivery Rate</a> (CADR)</li>
+<li><a class="mw-redirect" href="/wiki/Gas_sensor" title="Gas sensor">Gas sensor</a></li>
+<li><a href="/wiki/Home_energy_monitor" title="Home energy monitor">Home energy monitor</a></li>
+<li><a href="/wiki/Humidistat" title="Humidistat">Humidistat</a></li>
+<li><a href="/wiki/HVAC_control_system" title="HVAC control system">HVAC control system</a></li>
+<li><a class="mw-redirect" href="/wiki/Intelligent_buildings" title="Intelligent buildings">Intelligent buildings</a></li>
+<li><a href="/wiki/LonWorks" title="LonWorks">LonWorks</a></li>
+<li><a href="/wiki/Minimum_efficiency_reporting_value" title="Minimum efficiency reporting value">Minimum efficiency reporting value</a> (MERV)</li>
+<li><a href="/wiki/OpenTherm" title="OpenTherm">OpenTherm</a></li>
+<li><a href="/wiki/Programmable_communicating_thermostat" title="Programmable communicating thermostat">Programmable communicating thermostat</a></li>
+<li><a href="/wiki/Programmable_thermostat" title="Programmable thermostat">Programmable thermostat</a></li>
+<li><a href="/wiki/Psychrometrics" title="Psychrometrics">Psychrometrics</a></li>
+<li><a href="/wiki/Room_temperature" title="Room temperature">Room temperature</a></li>
+<li><a href="/wiki/Smart_thermostat" title="Smart thermostat">Smart thermostat</a></li>
+<li><a href="/wiki/Thermostat" title="Thermostat">Thermostat</a></li>
+<li><a href="/wiki/Thermostatic_radiator_valve" title="Thermostatic radiator valve">Thermostatic radiator valve</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Professions, trades, and services</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Architectural_acoustics" title="Architectural acoustics">Architectural acoustics</a></li>
+<li><a href="/wiki/Architectural_engineering" title="Architectural engineering">Architectural engineering</a></li>
+<li><a href="/wiki/Architectural_technologist" title="Architectural technologist">Architectural technologist</a></li>
+<li><a href="/wiki/Building_services_engineering" title="Building services engineering">Building services engineering</a></li>
+<li><a href="/wiki/Building_information_modeling" title="Building information modeling">Building information modeling</a> (BIM)</li>
+<li><a href="/wiki/Deep_energy_retrofit" title="Deep energy retrofit">Deep energy retrofit</a></li>
+<li><a href="/wiki/Duct_leakage_testing" title="Duct leakage testing">Duct leakage testing</a></li>
+<li><a href="/wiki/Environmental_engineering" title="Environmental engineering">Environmental engineering</a></li>
+<li><a href="/wiki/Hydronic_balancing" title="Hydronic balancing">Hydronic balancing</a></li>
+<li><a href="/wiki/Kitchen_exhaust_cleaning" title="Kitchen exhaust cleaning">Kitchen exhaust cleaning</a></li>
+<li><a href="/wiki/Mechanical_engineering" title="Mechanical engineering">Mechanical engineering</a></li>
+<li><a href="/wiki/Mechanical,_electrical,_and_plumbing" title="Mechanical, electrical, and plumbing">Mechanical, electrical, and plumbing</a></li>
+<li><a class="mw-redirect" href="/wiki/Mold_growth,_assessment,_and_remediation" title="Mold growth, assessment, and remediation">Mold growth, assessment, and remediation</a></li>
+<li><a href="/wiki/Refrigerant_reclamation" title="Refrigerant reclamation">Refrigerant reclamation</a></li>
+<li><a href="/wiki/Testing,_adjusting,_balancing" title="Testing, adjusting, balancing">Testing, adjusting, balancing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Industry organizations</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_Conditioning_Contractors_of_America" title="Air Conditioning Contractors of America">ACCA</a></li>
+<li><a href="/wiki/Air_Movement_and_Control_Association" title="Air Movement and Control Association">AMCA</a></li>
+<li><a href="/wiki/ASHRAE" title="ASHRAE">ASHRAE</a></li>
+<li><a href="/wiki/ASTM_International" title="ASTM International">ASTM International</a></li>
+<li><a href="/wiki/Building_Research_Establishment" title="Building Research Establishment">BRE</a></li>
+<li><a href="/wiki/BSRIA" title="BSRIA">BSRIA</a></li>
+<li><a href="/wiki/Chartered_Institution_of_Building_Services_Engineers" title="Chartered Institution of Building Services Engineers">CIBSE</a></li>
+<li><a href="/wiki/Leadership_in_Energy_and_Environmental_Design" title="Leadership in Energy and Environmental Design">LEED</a></li>
+<li><a href="/wiki/Sheet_Metal_and_Air_Conditioning_Contractors%27_National_Association" title="Sheet Metal and Air Conditioning Contractors' National Association">SMACNA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Health and safety</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Indoor_air_quality" title="Indoor air quality">Indoor air quality</a> (IAQ)</li>
+<li><a href="/wiki/Passive_smoking" title="Passive smoking">Passive smoking</a></li>
+<li><a href="/wiki/Sick_building_syndrome" title="Sick building syndrome">Sick building syndrome</a> (SBS)</li>
+<li><a href="/wiki/Volatile_organic_compound" title="Volatile organic compound">Volatile organic compound</a> (VOC)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">See also</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px;text-align: middle;">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ASHRAE_Handbook" title="ASHRAE Handbook">ASHRAE Handbook</a></li>
+<li><a href="/wiki/Building_science" title="Building science">Building science</a></li>
+<li><a href="/wiki/Fireproofing" title="Fireproofing">Fireproofing</a></li>
+<li><a href="/wiki/Glossary_of_HVAC_terms" title="Glossary of HVAC terms">Glossary of HVAC terms</a></li>
+<li><a href="/wiki/Template:Home_automation" title="Template:Home automation">Template:Home automation</a></li>
+<li><a href="/wiki/Template:Solar_energy" title="Template:Solar energy">Template:Solar energy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4117572-4" rel="nofollow">4117572-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00572556" rel="nofollow">00572556</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1268
+Cached time: 20170923070818
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.472 seconds
+Real time usage: 0.597 seconds
+Preprocessor visited node count: 1999/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 90095/2097152 bytes
+Template argument size: 1272/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 1/500
+Lua time usage: 0.203/10.000 seconds
+Lua memory usage: 7.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  428.936      1 -total
+ 50.33%  215.879      1 Template:Reflist
+ 18.14%   77.800     10 Template:Cite_book
+ 11.05%   47.389      1 Template:Citation_needed
+ 10.14%   43.499      1 Template:Fix
+  8.94%   38.331     14 Template:Main
+  8.36%   35.879      8 Template:Cite_web
+  7.87%   33.768      1 Template:Commons_category
+  6.50%   27.873      1 Template:Convert
+  6.31%   27.075      1 Template:ISBN
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47526-0!canonical!math=5 and timestamp 20170923070818 and revision id 800873505
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Convection&amp;oldid=800873505">https://en.wikipedia.org/w/index.php?title=Convection&amp;oldid=800873505</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Concepts_in_physics" title="Category:Concepts in physics">Concepts in physics</a></li><li><a href="/wiki/Category:Fluid_mechanics" title="Category:Fluid mechanics">Fluid mechanics</a></li><li><a href="/wiki/Category:Convection" title="Category:Convection">Convection</a></li><li><a href="/wiki/Category:Heat_transfer" title="Category:Heat transfer">Heat transfer</a></li><li><a href="/wiki/Category:Stellar_physics" title="Category:Stellar physics">Stellar physics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2017" title="Category:Articles with unsourced statements from July 2017">Articles with unsourced statements from July 2017</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Convection" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Convection" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Convection" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Convection" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Convection">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Convection&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Convection&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Convection" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Convection" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Convection&amp;oldid=800873505" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Convection&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q160329" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Convection&amp;id=800873505" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Convection">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Convection&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DConvection%26returnto%3DConvection%26oldid%3D800873505%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Convection&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Convection" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Konveksie" hreflang="af" lang="af" title="Konveksie – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AD%D9%85%D9%84_(%D9%81%D9%8A%D8%B2%D9%8A%D8%A7%D8%A1)" hreflang="ar" lang="ar" title="حمل (فيزياء) – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Konveksiya" hreflang="az" lang="az" title="Konveksiya – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B2%D0%B5%D0%BA%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Канвекцыя – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Конвекция – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Konvekcija" hreflang="bs" lang="bs" title="Konvekcija – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Convecci%C3%B3" hreflang="ca" lang="ca" title="Convecció – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/%C5%A0%C3%AD%C5%99en%C3%AD_tepla_proud%C4%9Bn%C3%ADm" hreflang="cs" lang="cs" title="Šíření tepla prouděním – Czech">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Rusengedzano" hreflang="sn" lang="sn" title="Rusengedzano – Shona">ChiShona</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Konvektion" hreflang="da" lang="da" title="Konvektion – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Konvektion" hreflang="de" lang="de" title="Konvektion – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Konvektsioon" hreflang="et" lang="et" title="Konvektsioon – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BD%CE%B1%CE%B3%CF%89%CE%B3%CE%AE_%CE%B8%CE%B5%CF%81%CE%BC%CF%8C%CF%84%CE%B7%CF%84%CE%B1%CF%82" hreflang="el" lang="el" title="Συναγωγή θερμότητας – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Convecci%C3%B3n" hreflang="es" lang="es" title="Convección – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Konvekto" hreflang="eo" lang="eo" title="Konvekto – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Konbekzio" hreflang="eu" lang="eu" title="Konbekzio – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%87%D9%85%D8%B1%D9%81%D8%AA" hreflang="fa" lang="fa" title="همرفت – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Convection" hreflang="fr" lang="fr" title="Convection – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Comhiompar" hreflang="ga" lang="ga" title="Comhiompar – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Convecci%C3%B3n" hreflang="gl" lang="gl" title="Convección – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%8C%80%EB%A5%98" hreflang="ko" lang="ko" title="대류 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%B6%D5%BE%D5%A5%D5%AF%D6%81%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Կոնվեկցիա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%B5%E0%A4%B9%E0%A4%A8" hreflang="hi" lang="hi" title="संवहन – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Konvekcija" hreflang="hr" lang="hr" title="Konvekcija – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Konvekto" hreflang="io" lang="io" title="Konvekto – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Konveksi" hreflang="id" lang="id" title="Konveksi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Convezione" hreflang="it" lang="it" title="Convezione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%A1%D7%A2%D7%94_(%D7%9E%D7%A2%D7%91%D7%A8_%D7%97%D7%95%D7%9D_%D7%95%D7%9E%D7%A1%D7%94)" hreflang="he" lang="he" title="הסעה (מעבר חום ומסה) – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Konv%C3%A8ksi" hreflang="jv" lang="jv" title="Konvèksi – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%99%E1%83%9D%E1%83%9C%E1%83%95%E1%83%94%E1%83%A5%E1%83%AA%E1%83%98%E1%83%90" hreflang="ka" lang="ka" title="კონვექცია – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Конвекция – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Konveksyon" hreflang="ht" lang="ht" title="Konveksyon – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Konvekcija" hreflang="lv" lang="lv" title="Konvekcija – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Konvekcija" hreflang="lt" lang="lt" title="Konvekcija – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Perolakan" hreflang="ms" lang="ms" title="Perolakan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Convectie" hreflang="nl" lang="nl" title="Convectie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%AF%BE%E6%B5%81" hreflang="ja" lang="ja" title="対流 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Konveksjon" hreflang="no" lang="no" title="Konveksjon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Konveksjon" hreflang="nn" lang="nn" title="Konveksjon – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Konveksiya" hreflang="uz" lang="uz" title="Konveksiya – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Convession" hreflang="pms" lang="pms" title="Convession – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Konwekcja" hreflang="pl" lang="pl" title="Konwekcja – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Convec%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Convecção – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Convec%C8%9Bie" hreflang="ro" lang="ro" title="Convecție – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%BA%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Конвекция – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Convection" hreflang="sco" lang="sco" title="Convection – Scots">Scots</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B7%83%E0%B7%8A%E0%B7%80%E0%B7%8F%E0%B6%B7%E0%B7%8F%E0%B7%80%E0%B7%92%E0%B6%9A_%E0%B7%83%E0%B6%82%E0%B7%80%E0%B7%84%E0%B6%B1_%E0%B6%AD%E0%B7%8F%E0%B6%B4_%E0%B7%83%E0%B6%82%E0%B6%9A%E0%B7%8A%E2%80%8D%E0%B6%BB%E0%B7%8F%E0%B6%B8%E0%B6%AB%E0%B6%BA" hreflang="si" lang="si" title="ස්වාභාවික සංවහන තාප සංක්‍රාමණය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Convection" hreflang="simple" lang="simple" title="Convection – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Pr%C3%BAdenie_tepla" hreflang="sk" lang="sk" title="Prúdenie tepla – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Konvekcija" hreflang="sl" lang="sl" title="Konvekcija – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Konvekcija" hreflang="sr" lang="sr" title="Konvekcija – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Konvekcija" hreflang="sh" lang="sh" title="Konvekcija – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Konvektio" hreflang="fi" lang="fi" title="Konvektio – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Konvektion" hreflang="sv" lang="sv" title="Konvektion – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%87%E0%AE%B1%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B5%E0%AF%81%E0%AE%95%E0%AF%88" hreflang="ta" lang="ta" title="மேற்காவுகை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%9E%E0%B8%B2%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99" hreflang="th" lang="th" title="การพาความร้อน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Ta%C5%9F%C4%B1n%C4%B1m" hreflang="tr" lang="tr" title="Taşınım – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B2%D0%B5%D0%BA%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Конвекція – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%91i_l%C6%B0u" hreflang="vi" lang="vi" title="Đối lưu – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B0%8D%E6%B5%81" hreflang="zh" lang="zh" title="對流 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q160329#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 16 September 2017, at 05:56.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Convection&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.472","walltime":"0.597","ppvisitednodes":{"value":1999,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":90095,"limit":2097152},"templateargumentsize":{"value":1272,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  428.936      1 -total"," 50.33%  215.879      1 Template:Reflist"," 18.14%   77.800     10 Template:Cite_book"," 11.05%   47.389      1 Template:Citation_needed"," 10.14%   43.499      1 Template:Fix","  8.94%   38.331     14 Template:Main","  8.36%   35.879      8 Template:Cite_web","  7.87%   33.768      1 Template:Commons_category","  6.50%   27.873      1 Template:Convert","  6.31%   27.075      1 Template:ISBN"]},"scribunto":{"limitreport-timeusage":{"value":"0.203","limit":"10.000"},"limitreport-memusage":{"value":7777243,"limit":52428800}},"cachereport":{"origin":"mw1268","timestamp":"20170923070818","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1275"});});</script>
+</body>
+</html>

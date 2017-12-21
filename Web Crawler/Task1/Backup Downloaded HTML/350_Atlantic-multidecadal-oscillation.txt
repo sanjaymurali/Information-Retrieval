@@ -1,0 +1,886 @@
+https://en.wikipedia.org/wiki/Atlantic_Multidecadal_Oscillation
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Atlantic multidecadal oscillation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Atlantic_multidecadal_oscillation","wgTitle":"Atlantic multidecadal oscillation","wgCurRevisionId":802240706,"wgRevisionId":802240706,"wgArticleId":8813953,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles with inconsistent citation formats","Wikipedia references cleanup from September 2017","All articles needing references cleanup","Articles covered by WikiProject Wikify from September 2017","All articles covered by WikiProject Wikify","All articles with unsourced statements","Articles with unsourced statements from February 2011","Wikipedia articles that may have off-topic sections","Climate","Tropical cyclone meteorology","Atlantic hurricanes","Climate patterns"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Atlantic_multidecadal_oscillation","wgRelevantArticleId":8813953,"wgRequestId":"WdBj8gpAMFYAADIHfboAAABL","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Atlantic_Multidecadal_Oscillation","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Atlantic_multidecadal_oscillation","wgWikibaseItemId":"Q756835","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/92/AMO_Pattern.png/1200px-AMO_Pattern.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Atlantic_multidecadal_oscillation" rel="alternate"/>
+<link href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Atlantic_multidecadal_oscillation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Atlantic_multidecadal_oscillation rootpage-Atlantic_multidecadal_oscillation vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Atlantic multidecadal oscillation</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Atlantic_Multidecadal_Oscillation&amp;redirect=no" title="Atlantic Multidecadal Oscillation">Atlantic Multidecadal Oscillation</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a href="/wiki/North_Atlantic_oscillation" title="North Atlantic oscillation">North Atlantic oscillation</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-citation_style" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>has an unclear citation style</b>. <span class="hide-when-compact">The references used may be made clearer with a different or consistent style of <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">citation</a>, <a href="/wiki/Help:Footnotes" title="Help:Footnotes">footnoting</a>, or <a href="/wiki/Wikipedia:External_links" title="Wikipedia:External links">external linking</a>.</span> <small><i>(September 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:304px;max-width:304px">
+<div class="tsingle" style="margin:1px;width:302px;max-width:302px">
+<div class="thumbimage"><a class="image" href="/wiki/File:AMO_Pattern.png"><img alt="" data-file-height="1681" data-file-width="3315" height="152" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/AMO_Pattern.png/300px-AMO_Pattern.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/92/AMO_Pattern.png/450px-AMO_Pattern.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/92/AMO_Pattern.png/600px-AMO_Pattern.png 2x" width="300"/></a></div>
+<div class="thumbcaption" style="clear:left">AMO spatial pattern.</div>
+</div>
+<div class="tsingle" style="margin:1px;width:302px;max-width:302px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Amo_timeseries_1856-present.svg"><img alt="" data-file-height="372" data-file-width="672" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Amo_timeseries_1856-present.svg/300px-Amo_timeseries_1856-present.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Amo_timeseries_1856-present.svg/450px-Amo_timeseries_1856-present.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Amo_timeseries_1856-present.svg/600px-Amo_timeseries_1856-present.svg.png 2x" width="300"/></a></div>
+<div class="thumbcaption" style="clear:left">Atlantic Multidecadal Oscillation index computed as the linearly detrended North Atlantic sea surface temperature anomalies 1856-2013.</div>
+</div>
+</div>
+</div>
+<p>The <b>Atlantic Multidecadal Oscillation</b> (<b>AMO</b>) is a <a class="mw-redirect" href="/wiki/Climate_cycle" title="Climate cycle">climate cycle</a> that affects the <a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">sea surface temperature</a> (SST) of the <a class="mw-redirect" href="/wiki/North_Atlantic_Ocean" title="North Atlantic Ocean">North Atlantic Ocean</a> based on different <a class="mw-redirect" href="/wiki/Mode_of_variability" title="Mode of variability">modes</a> on multidecadal timescales.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> While there is some support for this mode in models and in historical observations, controversy exists with regard to its <a href="/wiki/Amplitude" title="Amplitude">amplitude</a>, and in particular, the attribution of sea surface temperature change to natural or <a class="extiw" href="https://en.wiktionary.org/wiki/anthropogenic" title="wiktionary:anthropogenic">anthropogenic</a> causes, especially in tropical Atlantic areas important for hurricane development.<sup class="reference" id="cite_ref-Ting_2009_2-0"><a href="#cite_note-Ting_2009-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mechanisms"><span class="tocnumber">2</span> <span class="toctext">Mechanisms</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Climate_impacts_worldwide"><span class="tocnumber">3</span> <span class="toctext">Climate impacts worldwide</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Relation_to_Atlantic_hurricanes"><span class="tocnumber">4</span> <span class="toctext">Relation to Atlantic hurricanes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Florida_rainfall"><span class="tocnumber">5</span> <span class="toctext">Florida rainfall</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Periodicity_and_prediction_of_AMO_shifts"><span class="tocnumber">6</span> <span class="toctext">Periodicity and prediction of AMO shifts</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The Atlantic Multidecadal Oscillation (AMO) was identified by Schlesinger and Ramankutty in 1994.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>The AMO signal is usually defined from the patterns of SST variability in the North Atlantic once any linear trend has been removed. This detrending is intended to remove the influence of <a href="/wiki/Greenhouse_gas" title="Greenhouse gas">greenhouse gas</a>-induced <a href="/wiki/Global_warming" title="Global warming">global warming</a> from the analysis. However, if the global warming signal is significantly non-linear in time (i.e. not just a smooth linear increase), variations in the forced signal will leak into the AMO definition. Consequently, correlations with the AMO index may mask effects of <a href="/wiki/Global_warming" title="Global warming">global warming</a>.<sup class="reference" id="cite_ref-mann_2014_4-0"><a href="#cite_note-mann_2014-4">[4]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Atlantic_Multidecadal_Oscillation.svg"><img alt="" class="thumbimage" data-file-height="650" data-file-width="1000" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Atlantic_Multidecadal_Oscillation.svg/220px-Atlantic_Multidecadal_Oscillation.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Atlantic_Multidecadal_Oscillation.svg/330px-Atlantic_Multidecadal_Oscillation.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Atlantic_Multidecadal_Oscillation.svg/440px-Atlantic_Multidecadal_Oscillation.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Atlantic_Multidecadal_Oscillation.svg" title="Enlarge"></a></div>
+Atlantic Multidecadal Oscillation according to the methodology proposed by van Oldenborgh et al.</div>
+</div>
+</div>
+<p>Several methods have been proposed to remove the global trend and <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o-Southern_Oscillation" title="El Niño-Southern Oscillation">El Niño-Southern Oscillation (ENSO)</a> influence over the North Atlantic <a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">SST</a>. <a href="/wiki/Kevin_E._Trenberth" title="Kevin E. Trenberth">Trenberth</a> and Shea, assuming that the effect of global forcing over the North Atlantic is similar to the global ocean, subtracted the global (60°N-60°S) mean SST from the North Atlantic SST to derive a revised AMO index.<sup class="reference" id="cite_ref-trenberth_2005_5-0"><a href="#cite_note-trenberth_2005-5">[5]</a></sup></p>
+<p>Ting <i>et al.</i> however argue that the forced SST pattern is not globally uniform; they separated the forced and internally generated variability using signal to noise maximizing <a href="/wiki/Empirical_orthogonal_functions" title="Empirical orthogonal functions">EOF</a> analysis.<sup class="reference" id="cite_ref-Ting_2009_2-1"><a href="#cite_note-Ting_2009-2">[2]</a></sup></p>
+<p>Van Oldenborgh <i>et al.</i> derived an AMO index as the SST averaged over the extra-tropical North Atlantic (to remove the influence of ENSO that is greater at tropical latitude) minus the regression on global mean temperature.<sup class="reference" id="cite_ref-van_Oldenborgh_2009_6-0"><a href="#cite_note-van_Oldenborgh_2009-6">[6]</a></sup></p>
+<p>Guan and Nigam removed the non stationary global trend and Pacific natural variability before applying an <a href="/wiki/Empirical_orthogonal_functions" title="Empirical orthogonal functions">EOF</a> analysis to the residual North Atlantic SST.<sup class="reference" id="cite_ref-guan_2009_7-0"><a href="#cite_note-guan_2009-7">[7]</a></sup></p>
+<p>The linearly detrended index suggests that the North Atlantic SST anomaly at the end of the twentieth century is equally divided between the externally forced component and internally generated variability, and that the current peak is similar to middle twentieth century; by contrast the others methodology suggest that a large portion of the North Atlantic anomaly at the end of the twentieth century is externally forced.<sup class="reference" id="cite_ref-Ting_2009_2-2"><a href="#cite_note-Ting_2009-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Mechanisms">Mechanisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit&amp;section=2" title="Edit section: Mechanisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In models, AMO-like variability is associated with small changes in the <a class="mw-redirect" href="/wiki/North_Atlantic" title="North Atlantic">North Atlantic</a> branch of the <a class="mw-redirect" href="/wiki/Thermohaline" title="Thermohaline">Thermohaline Circulation</a>.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> However, historical oceanic observations are not sufficient to associate the derived AMO index to present-day circulation anomalies.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2011)">citation needed</span></a></i>]</sup> Models and observations indicate that changes in atmospheric circulation, which induce changes in clouds, atmospheric dust and surface heat flux, are largely responsible for the tropical portion of the AMO.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<p>The Atlantic Multidecadal Oscillation (AMO) is important for how external forcings are linked with North Atlantic SSTs.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Climate_impacts_worldwide">Climate impacts worldwide</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit&amp;section=3" title="Edit section: Climate impacts worldwide">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The AMO index is correlated to air temperatures and rainfall over much of the Northern Hemisphere, in particular in the summer climate in North America and Europe.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Through changes in atmospheric circulation, the AMO can also modulate spring snowfall over the Alps <sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> and glaciers' mass variability.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> Rainfall patterns are affected in North Eastern Brazilian and African Sahel. It is also associated with changes in the frequency of North American <a href="/wiki/Drought" title="Drought">droughts</a> and is reflected in the frequency of severe Atlantic <a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">hurricane</a> activity.<sup class="reference" id="cite_ref-trenberth_2005_5-1"><a href="#cite_note-trenberth_2005-5">[5]</a></sup></p>
+<p>Recent research suggests that the AMO is related to the past occurrence of major droughts in the US Midwest and the Southwest. When the AMO is in its warm phase, these droughts tend to be more frequent or prolonged. Two of the most severe droughts of the 20th century occurred during the positive AMO between 1925 and 1965: The <a href="/wiki/Dust_Bowl" title="Dust Bowl">Dust Bowl</a> of the 1930s and the 1950s drought. Florida and the Pacific Northwest tend to be the opposite—warm AMO, more rainfall.<sup class="reference" id="cite_ref-National_Oceanic_and_Atmospheric_Administration_16-0"><a href="#cite_note-National_Oceanic_and_Atmospheric_Administration-16">[16]</a></sup></p>
+<p><a href="/wiki/Climate_model" title="Climate model">Climate models</a> suggest that a warm phase of the AMO strengthens the summer rainfall over <a href="/wiki/India" title="India">India</a> and <a href="/wiki/Sahel" title="Sahel">Sahel</a> and the <a class="mw-redirect" href="/wiki/North_Atlantic_tropical_cyclone" title="North Atlantic tropical cyclone">North Atlantic tropical cyclone</a> activity.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> <a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatologic</a> studies have confirmed this pattern—increased rainfall in AMO warmphase, decreased in cold phase—for the Sahel over the past 3,000 years.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></p>
+<h2><span class="mw-headline" id="Relation_to_Atlantic_hurricanes">Relation to Atlantic hurricanes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit&amp;section=4" title="Edit section: Relation to Atlantic hurricanes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Atlantic_ace_timeseries_1850-2016.svg"><img alt="" class="thumbimage" data-file-height="515" data-file-width="796" height="142" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Atlantic_ace_timeseries_1850-2016.svg/220px-Atlantic_ace_timeseries_1850-2016.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Atlantic_ace_timeseries_1850-2016.svg/330px-Atlantic_ace_timeseries_1850-2016.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8b/Atlantic_ace_timeseries_1850-2016.svg/440px-Atlantic_ace_timeseries_1850-2016.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Atlantic_ace_timeseries_1850-2016.svg" title="Enlarge"></a></div>
+Atlantic basin cyclone intensity by <a href="/wiki/Accumulated_cyclone_energy" title="Accumulated cyclone energy">accumulated cyclone energy</a>, timeseries 1895–2016</div>
+</div>
+</div>
+<p>In viewing actual data on a short time horizon, sparse experience would suggest the frequency of major hurricanes is not strongly correlated with the AMO. During warm phases of the AMO, the number of minor hurricanes (category 1 and 2) saw a modest increase.<sup class="reference" id="cite_ref-Chylek.2FLesins_2007_19-0"><a href="#cite_note-Chylek.2FLesins_2007-19">[19]</a></sup> With full consideration of meteorological science, the number of tropical storms that can mature into severe hurricanes is much greater during warm phases of the AMO than during cool phases, at least twice as many; the AMO is reflected in the frequency of severe Atlantic hurricanes.<sup class="reference" id="cite_ref-National_Oceanic_and_Atmospheric_Administration_16-1"><a href="#cite_note-National_Oceanic_and_Atmospheric_Administration-16">[16]</a></sup> The hurricane activity index is found to be highly correlated with the Atlantic multidecadal oscillation.<sup class="reference" id="cite_ref-Chylek.2FLesins_2007_19-1"><a href="#cite_note-Chylek.2FLesins_2007-19">[19]</a></sup> If there is an increase in hurricane activity connected to <a href="/wiki/Global_warming" title="Global warming">global warming</a>, it is currently obscured by the AMO quasi-periodic cycle.<sup class="reference" id="cite_ref-Chylek.2FLesins_2007_19-2"><a href="#cite_note-Chylek.2FLesins_2007-19">[19]</a></sup> The AMO alternately obscures and exaggerates the global increase in temperatures due to human-induced global warming.<sup class="reference" id="cite_ref-National_Oceanic_and_Atmospheric_Administration_16-2"><a href="#cite_note-National_Oceanic_and_Atmospheric_Administration-16">[16]</a></sup> Based on the typical duration of negative and positive phases of the AMO, the current warm regime is expected to persist at least until 2015 and possibly as late as 2035. Enfield <i>et al.</i> assume a peak around 2020.<sup class="reference" id="cite_ref-Enfield2009_20-0"><a href="#cite_note-Enfield2009-20">[20]</a></sup></p>
+<p>The recent warm AMO phase increased the average number of Atlantic hurricanes and named storms from 6 to 12, when it began in <a href="/wiki/1995_Atlantic_hurricane_season" title="1995 Atlantic hurricane season">1995</a>. Since 1995, there have been nine Atlantic hurricane seasons considered "extremely active" by <a class="mw-redirect" href="/wiki/Accumulated_Cyclone_Energy" title="Accumulated Cyclone Energy">Accumulated Cyclone Energy</a> - <a href="/wiki/1995_Atlantic_hurricane_season" title="1995 Atlantic hurricane season">1995</a>, <a href="/wiki/1996_Atlantic_hurricane_season" title="1996 Atlantic hurricane season">1996</a>, <a href="/wiki/1998_Atlantic_hurricane_season" title="1998 Atlantic hurricane season">1998</a>, <a href="/wiki/1999_Atlantic_hurricane_season" title="1999 Atlantic hurricane season">1999</a>, <a href="/wiki/2003_Atlantic_hurricane_season" title="2003 Atlantic hurricane season">2003</a>, <a href="/wiki/2004_Atlantic_hurricane_season" title="2004 Atlantic hurricane season">2004</a>, <a href="/wiki/2005_Atlantic_hurricane_season" title="2005 Atlantic hurricane season">2005</a>, <a href="/wiki/2010_Atlantic_hurricane_season" title="2010 Atlantic hurricane season">2010</a> and <a href="/wiki/2017_Atlantic_hurricane_season" title="2017 Atlantic hurricane season">2017</a>.</p>
+<h2><span class="mw-headline" id="Florida_rainfall">Florida rainfall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit&amp;section=5" title="Edit section: Florida rainfall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The AMO has a strong effect on Florida rainfall. Rainfall in central and south Florida becomes more plentiful when the Atlantic is in its warm phase and droughts and wildfires are more frequent in the cool phase. As a result of these variations, the inflow to <a href="/wiki/Lake_Okeechobee" title="Lake Okeechobee">Lake Okeechobee</a>—the reservoir for South Florida’s water supply—changes by as much as 40% between AMO extremes. In northern Florida the relationship begins to reverse—less rainfall when the Atlantic is warm.<sup class="reference" id="cite_ref-National_Oceanic_and_Atmospheric_Administration_16-3"><a href="#cite_note-National_Oceanic_and_Atmospheric_Administration-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Periodicity_and_prediction_of_AMO_shifts">Periodicity and prediction of AMO shifts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit&amp;section=6" title="Edit section: Periodicity and prediction of AMO shifts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are only about 130–150 years of data based on instrument data, which are too few samples for conventional statistical approaches. With the aid of multi-century proxy reconstruction, a longer period of 424 years was used by Enfield and Cid–Serrano as an illustration of an approach as described in their paper called "The Probabilistic Projection of Climate Risk".<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> Their histogram of zero crossing intervals from a set of five re-sampled and smoothed version of Gray et al. (2004) index together with the <a class="mw-redirect" href="/wiki/Maximum_Likelihood_Estimate" title="Maximum Likelihood Estimate">Maximum Likelihood Estimate</a> gamma distribution fit to the histogram, showed that the largest frequency of regime interval was around 10–20 year. The cumulative probability for all intervals 20 years or less was about 70%.</p>
+<p>There is no demonstrated predictability for when the AMO will switch, in any deterministic sense. Computer models, such as those that predict <a href="/wiki/El_Ni%C3%B1o" title="El Niño">El Niño</a>, are far from being able to do this. Enfield and colleagues have calculated the probability that a change in the AMO will occur within a given future time frame, assuming that historical variability persists. <a class="external text" href="http://www.aoml.noaa.gov/phod/d2m_shift/index.php" rel="nofollow">Probabilistic projections</a> of this kind may prove to be useful for long-term planning in climate sensitive applications, such as water management.</p>
+<p>Assuming that the AMO continues with a quasi-cycle of roughly 70 years, the peak of the current warm phase would be expected in c. 2020,<sup class="reference" id="cite_ref-Curry2008_22-0"><a href="#cite_note-Curry2008-22">[22]</a></sup> or based on a 50–90 year quasi-cycle, between 2000 and 2040 (after peaks in c. 1880 and c. 1950).<sup class="reference" id="cite_ref-Enfield2009_20-1"><a href="#cite_note-Enfield2009-20">[20]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Writing_better_articles#Stay_on_topic" title="Wikipedia:Writing better articles"><span title="The material near this tag may contain information that is not relevant to the article's main topic. (April 2010)">relevant?</span></a> <span class="metadata">– <a href="/wiki/Talk:Atlantic_multidecadal_oscillation#The_AMO_and_its_periodicity" title="Talk:Atlantic multidecadal oscillation">discuss</a></span></i>]</sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gerard D. McCarthy; Ivan D. Haigh; Joël J.M. Hirschi; Jeremy P. Grist &amp; David A. Smeed (27 May 2015). <a class="external text" href="http://phys.org/news/2015-05-global-climate-verge-multi-decadal.html" rel="nofollow">"Ocean impact on decadal Atlantic climate variability revealed by sea-level observations"</a>. <i>Nature</i>. <b>521</b>: 508–510. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2015Natur.521..508M" rel="nofollow">2015Natur.521..508M</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26017453" rel="nofollow">26017453</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature14491" rel="nofollow">10.1038/nature14491</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Ocean+impact+on+decadal+Atlantic+climate+variability+revealed+by+sea-level+observations&amp;rft.au=David+A.+Smeed&amp;rft.au=Gerard+D.+McCarthy&amp;rft.au=Ivan+D.+Haigh&amp;rft.au=Jeremy+P.+Grist&amp;rft.au=Jo%C3%ABl+J.M.+Hirschi&amp;rft.date=2015-05-27&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.pages=508-510&amp;rft.volume=521&amp;rft_id=http%3A%2F%2Fphys.org%2Fnews%2F2015-05-global-climate-verge-multi-decadal.html&amp;rft_id=info%3Abibcode%2F2015Natur.521..508M&amp;rft_id=info%3Adoi%2F10.1038%2Fnature14491&amp;rft_id=info%3Apmid%2F26017453&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Ting_2009-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Ting_2009_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Ting_2009_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Ting_2009_2-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Mingfang, Ting; Yochanan Kushnir; Richard Seager; Cuihua Li (2009). "Forced and Internal Twentieth-Century SST Trends in the North Atlantic". <i><a href="/wiki/Journal_of_Climate" title="Journal of Climate">Journal of Climate</a></i>. <b>22</b> (6): 1469–1481. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2009JCli...22.1469T" rel="nofollow">2009JCli...22.1469T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F2008JCLI2561.1" rel="nofollow">10.1175/2008JCLI2561.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Forced+and+Internal+Twentieth-Century+SST+Trends+in+the+North+Atlantic&amp;rft.au=Cuihua+Li&amp;rft.au=Richard+Seager&amp;rft.au=Yochanan+Kushnir&amp;rft.aufirst=Ting&amp;rft.aulast=Mingfang&amp;rft.date=2009&amp;rft.genre=article&amp;rft.issue=6&amp;rft.jtitle=Journal+of+Climate&amp;rft.pages=1469-1481&amp;rft.volume=22&amp;rft_id=info%3Abibcode%2F2009JCli...22.1469T&amp;rft_id=info%3Adoi%2F10.1175%2F2008JCLI2561.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Schlesinger, M. E. (1994). "An oscillation in the global climate system of period 65-70 years". <i><a href="/wiki/Nature_(journal)" title="Nature (journal)">Nature</a></i>. <b>367</b> (6465): 723–726. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1994Natur.367..723S" rel="nofollow">1994Natur.367..723S</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F367723a0" rel="nofollow">10.1038/367723a0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=An+oscillation+in+the+global+climate+system+of+period+65-70+years&amp;rft.aufirst=M.+E.&amp;rft.aulast=Schlesinger&amp;rft.date=1994&amp;rft.genre=article&amp;rft.issue=6465&amp;rft.jtitle=Nature&amp;rft.pages=723-726&amp;rft.volume=367&amp;rft_id=info%3Abibcode%2F1994Natur.367..723S&amp;rft_id=info%3Adoi%2F10.1038%2F367723a0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-mann_2014-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-mann_2014_4-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mann, Michael; Byron A. Steinman; Sonya K. Miller (2014). "On forced temperature changes, internal variability, and the AMO". <i>Geophysical Research Letters</i>. <b>41</b>: 3211–3219. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2014GL059233" rel="nofollow">10.1002/2014GL059233</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=On+forced+temperature+changes%2C+internal+variability%2C+and+the+AMO&amp;rft.au=Byron+A.+Steinman&amp;rft.au=Sonya+K.+Miller&amp;rft.aufirst=Michael&amp;rft.aulast=Mann&amp;rft.date=2014&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.pages=3211-3219&amp;rft.volume=41&amp;rft_id=info%3Adoi%2F10.1002%2F2014GL059233&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-trenberth_2005-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-trenberth_2005_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-trenberth_2005_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Trenberth, Kevin; Dennis J. Shea (2005). "Atlantic hurricanes and natural variability in 2005". <i>Geophysical Research Letters</i>. <b>33</b>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006GeoRL..3312704T" rel="nofollow">2006GeoRL..3312704T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2006GL026894" rel="nofollow">10.1029/2006GL026894</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Atlantic+hurricanes+and+natural+variability+in+2005&amp;rft.au=Dennis+J.+Shea&amp;rft.aufirst=Kevin&amp;rft.aulast=Trenberth&amp;rft.date=2005&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.volume=33&amp;rft_id=info%3Abibcode%2F2006GeoRL..3312704T&amp;rft_id=info%3Adoi%2F10.1029%2F2006GL026894&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-van_Oldenborgh_2009-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-van_Oldenborgh_2009_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">van Oldenborgh, G. J.; L. A. te Raa; H. A. Dijkstra; S. Y. Philip (2009). "Frequency- or amplitude-dependent effects of the Atlantic meridional overturning on the tropical Pacific Ocean". <i><a class="mw-redirect" href="/wiki/Ocean_Sci." title="Ocean Sci.">Ocean Sci.</a></i> <b>5</b>: 293–301. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.5194%2Fos-5-293-2009" rel="nofollow">10.5194/os-5-293-2009</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Frequency-+or+amplitude-dependent+effects+of+the+Atlantic+meridional+overturning+on+the+tropical+Pacific+Ocean&amp;rft.au=H.+A.+Dijkstra&amp;rft.au=L.+A.+te+Raa&amp;rft.au=S.+Y.+Philip&amp;rft.aufirst=G.+J.&amp;rft.aulast=van+Oldenborgh&amp;rft.date=2009&amp;rft.genre=article&amp;rft.jtitle=Ocean+Sci.&amp;rft.pages=293-301&amp;rft.volume=5&amp;rft_id=info%3Adoi%2F10.5194%2Fos-5-293-2009&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-guan_2009-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-guan_2009_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Guan, Bin; Sumant Nigam (2009). "Analysis of Atlantic SST Variability Factoring Interbasin Links and the Secular Trend: Clarified Structure of the Atlantic Multidecadal Oscillation". <i>J. Climate</i>. <b>22</b> (15): 4228–4240. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2009JCli...22.4228G" rel="nofollow">2009JCli...22.4228G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F2009JCLI2921.1" rel="nofollow">10.1175/2009JCLI2921.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Analysis+of+Atlantic+SST+Variability+Factoring+Interbasin+Links+and+the+Secular+Trend%3A+Clarified+Structure+of+the+Atlantic+Multidecadal+Oscillation&amp;rft.au=Sumant+Nigam&amp;rft.aufirst=Bin&amp;rft.aulast=Guan&amp;rft.date=2009&amp;rft.genre=article&amp;rft.issue=15&amp;rft.jtitle=J.+Climate&amp;rft.pages=4228-4240&amp;rft.volume=22&amp;rft_id=info%3Abibcode%2F2009JCli...22.4228G&amp;rft_id=info%3Adoi%2F10.1175%2F2009JCLI2921.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">O'Reilly, C. H.; L. M. Huber; T Woollings; L. Zanna (2016). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/2016GL067925/full" rel="nofollow">"The signature of low-frequency oceanic forcing in the Atlantic Multidecadal Oscillation"</a>. <i><a href="/wiki/Geophysical_Research_Letters" title="Geophysical Research Letters">Geophysical Research Letters</a></i>. <b>43</b>: 2810–2818. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016GeoRL..43.2810O" rel="nofollow">2016GeoRL..43.2810O</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2016GL067925" rel="nofollow">10.1002/2016GL067925</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=The+signature+of+low-frequency+oceanic+forcing+in+the+Atlantic+Multidecadal+Oscillation&amp;rft.au=L.+M.+Huber&amp;rft.au=L.+Zanna&amp;rft.au=T+Woollings&amp;rft.aufirst=C.+H.&amp;rft.aulast=O%27Reilly&amp;rft.date=2016&amp;rft.genre=article&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.pages=2810-2818&amp;rft.volume=43&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F2016GL067925%2Ffull&amp;rft_id=info%3Abibcode%2F2016GeoRL..43.2810O&amp;rft_id=info%3Adoi%2F10.1002%2F2016GL067925&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Brown, P. T.; M. S. Lozier; R. Zhang; W. Li (2016). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/2016GL068303/abstract" rel="nofollow">"The necessity of cloud feedback for a basin-scale Atlantic Multidecadal Oscillation"</a>. <i><a class="new" href="/w/index.php?title=Geophys._Res._Lett._(journal)&amp;action=edit&amp;redlink=1" title="Geophys. Res. Lett. (journal) (page does not exist)">Geophys. Res. Lett.</a></i> <b>43</b>: 3955–3963. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016GeoRL..43.3955B" rel="nofollow">2016GeoRL..43.3955B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2016GL068303" rel="nofollow">10.1002/2016GL068303</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=The+necessity+of+cloud+feedback+for+a+basin-scale+Atlantic+Multidecadal+Oscillation&amp;rft.au=M.+S.+Lozier&amp;rft.au=R.++Zhang&amp;rft.au=W.+Li&amp;rft.aufirst=P.+T.&amp;rft.aulast=Brown&amp;rft.date=2016&amp;rft.genre=article&amp;rft.jtitle=Geophys.+Res.+Lett.&amp;rft.pages=3955-3963&amp;rft.volume=43&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F2016GL068303%2Fabstract&amp;rft_id=info%3Abibcode%2F2016GeoRL..43.3955B&amp;rft_id=info%3Adoi%2F10.1002%2F2016GL068303&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">Yuan, T.; L. Oreopoulos; M. Zalinka; H. Yu; J. R. Norris; M. Chin; S. Platnick; K. Meyer (2016). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1002/2016GL067679/abstract" rel="nofollow">"Positive low cloud and dust feedbacks amplify tropical North Atlantic Multidecadal Oscillation"</a>. <i><a class="new" href="/w/index.php?title=Geophys._Res._Lett._(journal)&amp;action=edit&amp;redlink=1" title="Geophys. Res. Lett. (journal) (page does not exist)">Geophys. Res. Lett.</a></i> <b>43</b>: 1349–1356. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016GeoRL..43.1349Y" rel="nofollow">2016GeoRL..43.1349Y</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2016GL067679" rel="nofollow">10.1002/2016GL067679</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Positive+low+cloud+and+dust+feedbacks+amplify+tropical+North+Atlantic+Multidecadal+Oscillation&amp;rft.au=H.+Yu&amp;rft.au=J.+R.+Norris&amp;rft.au=K.+Meyer&amp;rft.au=L.+Oreopoulos&amp;rft.au=M.+Chin&amp;rft.au=M.+Zalinka&amp;rft.au=S.+Platnick&amp;rft.aufirst=T.&amp;rft.aulast=Yuan&amp;rft.date=2016&amp;rft.genre=article&amp;rft.jtitle=Geophys.+Res.+Lett.&amp;rft.pages=1349-1356&amp;rft.volume=43&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1002%2F2016GL067679%2Fabstract&amp;rft_id=info%3Abibcode%2F2016GeoRL..43.1349Y&amp;rft_id=info%3Adoi%2F10.1002%2F2016GL067679&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mads Faurschou Knudsen; Bo Holm Jacobsen; Marit-Solveig Seidenkrantz &amp; Jesper Olsen (25 February 2014). <a class="external text" href="http://www.nature.com/ncomms/2014/140225/ncomms4323/full/ncomms4323.html" rel="nofollow">"Evidence for external forcing of the Atlantic Multidecadal Oscillation since termination of the Little Ice Age"</a>. <i>Nature</i>. <b>5</b>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014NatCo...5E3323K" rel="nofollow">2014NatCo...5E3323K</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3948066" rel="nofollow">3948066</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24567051" rel="nofollow">24567051</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fncomms4323" rel="nofollow">10.1038/ncomms4323</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Evidence+for+external+forcing+of+the+Atlantic+Multidecadal+Oscillation+since+termination+of+the+Little+Ice+Age&amp;rft.au=Bo+Holm+Jacobsen&amp;rft.au=Jesper+Olsen&amp;rft.au=Mads+Faurschou+Knudsen&amp;rft.au=Marit-Solveig+Seidenkrantz&amp;rft.date=2014-02-25&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.volume=5&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3948066&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fncomms%2F2014%2F140225%2Fncomms4323%2Ffull%2Fncomms4323.html&amp;rft_id=info%3Abibcode%2F2014NatCo...5E3323K&amp;rft_id=info%3Adoi%2F10.1038%2Fncomms4323&amp;rft_id=info%3Apmid%2F24567051&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ghosh, Rohit; Müller, Wolfgang A.; Baehr, Johanna; Bader, Jürgen (2016-07-28). <a class="external text" href="https://link.springer.com/article/10.1007/s00382-016-3283-4" rel="nofollow">"Impact of observed North Atlantic multidecadal variations to European summer climate: a linear baroclinic response to surface heating"</a>. <i>Climate Dynamics</i>: 1–17. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0930-7575" rel="nofollow">0930-7575</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fs00382-016-3283-4" rel="nofollow">10.1007/s00382-016-3283-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Impact+of+observed+North+Atlantic+multidecadal+variations+to+European+summer+climate%3A+a+linear+baroclinic+response+to+surface+heating&amp;rft.au=Bader%2C+J%C3%BCrgen&amp;rft.au=Baehr%2C+Johanna&amp;rft.au=M%C3%BCller%2C+Wolfgang+A.&amp;rft.aufirst=Rohit&amp;rft.aulast=Ghosh&amp;rft.date=2016-07-28&amp;rft.genre=article&amp;rft.issn=0930-7575&amp;rft.jtitle=Climate+Dynamics&amp;rft.pages=1-17&amp;rft_id=https%3A%2F%2Flink.springer.com%2Farticle%2F10.1007%2Fs00382-016-3283-4&amp;rft_id=info%3Adoi%2F10.1007%2Fs00382-016-3283-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zampieri, M.; Toreti, A.; Schindler, A.; Scoccimarro, E.; Gualdi, S. <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S092181811630371X" rel="nofollow">"Atlantic multi-decadal oscillation influence on weather regimes over Europe and the Mediterranean in spring and summer"</a>. <i>Global and Planetary Change</i>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.gloplacha.2016.08.014" rel="nofollow">10.1016/j.gloplacha.2016.08.014</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Atlantic+multi-decadal+oscillation+influence+on+weather+regimes+over+Europe+and+the+Mediterranean+in+spring+and+summer&amp;rft.au=Gualdi%2C+S.&amp;rft.au=Schindler%2C+A.&amp;rft.au=Scoccimarro%2C+E.&amp;rft.au=Toreti%2C+A.&amp;rft.aufirst=M.&amp;rft.aulast=Zampieri&amp;rft.genre=article&amp;rft.jtitle=Global+and+Planetary+Change&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS092181811630371X&amp;rft_id=info%3Adoi%2F10.1016%2Fj.gloplacha.2016.08.014&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zampieri, Matteo; Scoccimarro, Enrico; Gualdi, Silvio (2013-01-01). <a class="external text" href="http://stacks.iop.org/1748-9326/8/i=3/a=034026" rel="nofollow">"Atlantic influence on spring snowfall over the Alps in the past 150 years"</a>. <i>Environmental Research Letters</i>. <b>8</b> (3): 034026. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1748-9326" rel="nofollow">1748-9326</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1088%2F1748-9326%2F8%2F3%2F034026" rel="nofollow">10.1088/1748-9326/8/3/034026</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Atlantic+influence+on+spring+snowfall+over+the+Alps+in+the+past+150+years&amp;rft.au=Gualdi%2C+Silvio&amp;rft.au=Scoccimarro%2C+Enrico&amp;rft.aufirst=Matteo&amp;rft.aulast=Zampieri&amp;rft.date=2013-01-01&amp;rft.genre=article&amp;rft.issn=1748-9326&amp;rft.issue=3&amp;rft.jtitle=Environmental+Research+Letters&amp;rft.pages=034026&amp;rft.volume=8&amp;rft_id=http%3A%2F%2Fstacks.iop.org%2F1748-9326%2F8%2Fi%3D3%2Fa%3D034026&amp;rft_id=info%3Adoi%2F10.1088%2F1748-9326%2F8%2F3%2F034026&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Huss, Matthias; Hock, Regine; Bauder, Andreas; Funk, Martin (2010-05-01). <a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1029/2010GL042616/abstract" rel="nofollow">"100-year mass changes in the Swiss Alps linked to the Atlantic Multidecadal Oscillation"</a>. <i>Geophysical Research Letters</i>. <b>37</b> (10): L10501. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010GeoRL..3710501H" rel="nofollow">2010GeoRL..3710501H</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1944-8007" rel="nofollow">1944-8007</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2010GL042616" rel="nofollow">10.1029/2010GL042616</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=100-year+mass+changes+in+the+Swiss+Alps+linked+to+the+Atlantic+Multidecadal+Oscillation&amp;rft.au=Bauder%2C+Andreas&amp;rft.au=Funk%2C+Martin&amp;rft.au=Hock%2C+Regine&amp;rft.aufirst=Matthias&amp;rft.aulast=Huss&amp;rft.date=2010-05-01&amp;rft.genre=article&amp;rft.issn=1944-8007&amp;rft.issue=10&amp;rft.jtitle=Geophysical+Research+Letters&amp;rft.pages=L10501&amp;rft.volume=37&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1029%2F2010GL042616%2Fabstract&amp;rft_id=info%3Abibcode%2F2010GeoRL..3710501H&amp;rft_id=info%3Adoi%2F10.1029%2F2010GL042616&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-National_Oceanic_and_Atmospheric_Administration-16"><span class="mw-cite-backlink">^ <a href="#cite_ref-National_Oceanic_and_Atmospheric_Administration_16-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-National_Oceanic_and_Atmospheric_Administration_16-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-National_Oceanic_and_Atmospheric_Administration_16-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-National_Oceanic_and_Atmospheric_Administration_16-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20051126030955/http://www.aoml.noaa.gov/phod/amo_faq.php" rel="nofollow">"National Oceanic and Atmospheric Administration Frequently Asked Questions about the Atlantic Multidecadal Oscillation"</a>. Archived from <a class="external text" href="http://www.aoml.noaa.gov/phod/amo_faq.php" rel="nofollow">the original</a> on 2005-11-26</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.btitle=National+Oceanic+and+Atmospheric+Administration+Frequently+Asked+Questions+about+the+Atlantic+Multidecadal+Oscillation&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.aoml.noaa.gov%2Fphod%2Famo_faq.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Zhang, R.; Delworth, T. L. (2006). "Impact of Atlantic multidecadal oscillations on India/Sahel rainfall and Atlantic hurricanes". <i>Geophys. Res. Lett</i>. <b>33</b>: L17712. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006GeoRL..3317712Z" rel="nofollow">2006GeoRL..3317712Z</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2006GL026267" rel="nofollow">10.1029/2006GL026267</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Impact+of+Atlantic+multidecadal+oscillations+on+India%2FSahel+rainfall+and+Atlantic+hurricanes&amp;rft.au=Delworth%2C+T.+L.&amp;rft.aufirst=R.&amp;rft.aulast=Zhang&amp;rft.date=2006&amp;rft.genre=article&amp;rft.jtitle=Geophys.+Res.+Lett.&amp;rft.pages=L17712&amp;rft.volume=33&amp;rft_id=info%3Abibcode%2F2006GeoRL..3317712Z&amp;rft_id=info%3Adoi%2F10.1029%2F2006GL026267&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Shanahan, T. M.; et al. (2009). "Atlantic Forcing of Persistent Drought in West Africa". <i>Science</i>. <b>324</b> (5925): 377–380. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2009Sci...324..377S" rel="nofollow">2009Sci...324..377S</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/19372429" rel="nofollow">19372429</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1166352" rel="nofollow">10.1126/science.1166352</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Atlantic+Forcing+of+Persistent+Drought+in+West+Africa&amp;rft.aufirst=T.+M.&amp;rft.aulast=Shanahan&amp;rft.date=2009&amp;rft.genre=article&amp;rft.issue=5925&amp;rft.jtitle=Science&amp;rft.pages=377-380&amp;rft.volume=324&amp;rft_id=info%3Abibcode%2F2009Sci...324..377S&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1166352&amp;rft_id=info%3Apmid%2F19372429&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Chylek.2FLesins_2007-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Chylek.2FLesins_2007_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Chylek.2FLesins_2007_19-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Chylek.2FLesins_2007_19-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Chylek, P. &amp; Lesins, G. (2008). "Multidecadal variability of Atlantic hurricane activity: 1851–2007". <i><a href="/wiki/Journal_of_Geophysical_Research" title="Journal of Geophysical Research">Journal of Geophysical Research</a></i>. <b>113</b>: D22106. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2008JGRD..11322106C" rel="nofollow">2008JGRD..11322106C</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2008JD010036" rel="nofollow">10.1029/2008JD010036</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Multidecadal+variability+of+Atlantic+hurricane+activity%3A+1851%E2%80%932007&amp;rft.au=Lesins%2C+G.&amp;rft.aufirst=P.&amp;rft.aulast=Chylek&amp;rft.date=2008&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.pages=D22106&amp;rft.volume=113&amp;rft_id=info%3Abibcode%2F2008JGRD..11322106C&amp;rft_id=info%3Adoi%2F10.1029%2F2008JD010036&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Enfield2009-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-Enfield2009_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Enfield2009_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Enfield, David B.; Cid-Serrano, Luis (2010). "Secular and multidecadal warmings in the North Atlantic and their relationships with major hurricane activity". <i>International Journal of Climatology</i>. <b>30</b> (2): 174–184. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fjoc.1881" rel="nofollow">10.1002/joc.1881</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Secular+and+multidecadal+warmings+in+the+North+Atlantic+and+their+relationships+with+major+hurricane+activity&amp;rft.au=Cid-Serrano%2C+Luis&amp;rft.aufirst=David+B.&amp;rft.aulast=Enfield&amp;rft.date=2010&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=International+Journal+of+Climatology&amp;rft.pages=174-184&amp;rft.volume=30&amp;rft_id=info%3Adoi%2F10.1002%2Fjoc.1881&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20140826113823/http://old.usclivar.org/Newsletter/Variations_V3N3/Enfield.pdf" rel="nofollow">"Archived copy"</a> <span style="font-size:85%;">(PDF)</span>. Archived from <a class="external text" href="http://old.usclivar.org/Newsletter/Variations_V3N3/Enfield.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 2014-08-26<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-08-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.btitle=Archived+copy&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fold.usclivar.org%2FNewsletter%2FVariations_V3N3%2FEnfield.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Curry2008-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-Curry2008_22-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Curry, Judith A. (2008). "Potential Increased Hurricane Activity in a Greenhouse Warmed World". In MacCracken, Michael C.; Moore, Frances; Topping, John C. <i>Sudden and disruptive climate change</i>. London: Earthscan. pp. 29–38. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-84407-478-1" title="Special:BookSources/1-84407-478-1">1-84407-478-1</a>. <q>Assuming that the AMO continues with a 70-year periodicity, the peak of the next cycle would be expected in 2020 (70 years after the previous 1950 peak).</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Potential+Increased+Hurricane+Activity+in+a+Greenhouse+Warmed+World&amp;rft.aufirst=Judith+A.&amp;rft.aulast=Curry&amp;rft.btitle=Sudden+and+disruptive+climate+change&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.isbn=1-84407-478-1&amp;rft.pages=29-38&amp;rft.place=London&amp;rft.pub=Earthscan&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation journal">Andronova, N. G.; Schlesinger, M. E. (2000). <a class="external text" href="http://www.agu.org/pubs/crossref/2000/2000GL006109.shtml" rel="nofollow">"Causes of global temperature changes during the 19th and 20th centuries"</a>. <i><a href="/wiki/Geophysical_Research_Letters" title="Geophysical Research Letters">Geophys. Res. Lett.</a></i> <b>27</b>: 2137–2140. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2000GeoRL..27.2137A" rel="nofollow">2000GeoRL..27.2137A</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2000GL006109" rel="nofollow">10.1029/2000GL006109</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Causes+of+global+temperature+changes+during+the+19th+and+20th+centuries&amp;rft.au=Schlesinger%2C+M.+E.&amp;rft.aufirst=N.+G.&amp;rft.aulast=Andronova&amp;rft.date=2000&amp;rft.genre=article&amp;rft.jtitle=Geophys.+Res.+Lett.&amp;rft.pages=2137-2140&amp;rft.volume=27&amp;rft_id=http%3A%2F%2Fwww.agu.org%2Fpubs%2Fcrossref%2F2000%2F2000GL006109.shtml&amp;rft_id=info%3Abibcode%2F2000GeoRL..27.2137A&amp;rft_id=info%3Adoi%2F10.1029%2F2000GL006109&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Delworth, T. L.; Mann, M. E. (2000). "Observed and simulated multidecadal variability in the Northern Hemisphere". <i>Climate Dynamics</i>. <b>16</b>: 661–676. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2000ClDy...16..661D" rel="nofollow">2000ClDy...16..661D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fs003820000075" rel="nofollow">10.1007/s003820000075</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Observed+and+simulated+multidecadal+variability+in+the+Northern+Hemisphere&amp;rft.au=Mann%2C+M.+E.&amp;rft.aufirst=T.+L.&amp;rft.aulast=Delworth&amp;rft.date=2000&amp;rft.genre=article&amp;rft.jtitle=Climate+Dynamics&amp;rft.pages=661-676&amp;rft.volume=16&amp;rft_id=info%3Abibcode%2F2000ClDy...16..661D&amp;rft_id=info%3Adoi%2F10.1007%2Fs003820000075&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Enfield, D. B.; Mestas-Nunez, A. M.; Trimble, P. J. (2001). <a class="external text" href="http://www.agu.org/pubs/crossref/2001/2000GL012745.shtml" rel="nofollow">"The Atlantic Multidecadal Oscillation and its relationship to rainfall and river flows in the continental U.S."</a>. <i>Geophys. Res. Lett</i>. <b>28</b>: 2077–2080. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001GeoRL..28.2077E" rel="nofollow">2001GeoRL..28.2077E</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2000GL012745" rel="nofollow">10.1029/2000GL012745</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=The+Atlantic+Multidecadal+Oscillation+and+its+relationship+to+rainfall+and+river+flows+in+the+continental+U.S.&amp;rft.au=Mestas-Nunez%2C+A.+M.&amp;rft.au=Trimble%2C+P.+J.&amp;rft.aufirst=D.+B.&amp;rft.aulast=Enfield&amp;rft.date=2001&amp;rft.genre=article&amp;rft.jtitle=Geophys.+Res.+Lett.&amp;rft.pages=2077-2080&amp;rft.volume=28&amp;rft_id=http%3A%2F%2Fwww.agu.org%2Fpubs%2Fcrossref%2F2001%2F2000GL012745.shtml&amp;rft_id=info%3Abibcode%2F2001GeoRL..28.2077E&amp;rft_id=info%3Adoi%2F10.1029%2F2000GL012745&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Goldenberg, S. B.; et al. (2001). "The recent increase in Atlantic hurricane activity: Causes and implications". <i><a href="/wiki/Science_(journal)" title="Science (journal)">Science</a></i>. <b>293</b> (5529): 474–479. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001Sci...293..474G" rel="nofollow">2001Sci...293..474G</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11463911" rel="nofollow">11463911</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1060040" rel="nofollow">10.1126/science.1060040</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=The+recent+increase+in+Atlantic+hurricane+activity%3A+Causes+and+implications&amp;rft.aufirst=S.+B.&amp;rft.aulast=Goldenberg&amp;rft.date=2001&amp;rft.genre=article&amp;rft.issue=5529&amp;rft.jtitle=Science&amp;rft.pages=474-479&amp;rft.volume=293&amp;rft_id=info%3Abibcode%2F2001Sci...293..474G&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1060040&amp;rft_id=info%3Apmid%2F11463911&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Gray, S. T.; et al. (2004). "A tree-ring based reconstruction of the Atlantic Multidecadal Oscillation since 1567 A.D.". <i>Geophys. Res. Lett</i>. <b>31</b>: L12205. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2004GeoRL..3112205G" rel="nofollow">2004GeoRL..3112205G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2004GL019932" rel="nofollow">10.1029/2004GL019932</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=A+tree-ring+based+reconstruction+of+the+Atlantic+Multidecadal+Oscillation+since+1567+A.D.&amp;rft.aufirst=S.+T.&amp;rft.aulast=Gray&amp;rft.date=2004&amp;rft.genre=article&amp;rft.jtitle=Geophys.+Res.+Lett.&amp;rft.pages=L12205&amp;rft.volume=31&amp;rft_id=info%3Abibcode%2F2004GeoRL..3112205G&amp;rft_id=info%3Adoi%2F10.1029%2F2004GL019932&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Hetzinger, Steffen; et al. (2008). "Caribbean coral tracks Atlantic Multidecadal Oscillation and past hurricane activity". <i>Geology</i>. <b>36</b> (1): 11–14. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2008Geo....36...11H" rel="nofollow">2008Geo....36...11H</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1130%2FG24321A.1" rel="nofollow">10.1130/G24321A.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Caribbean+coral+tracks+Atlantic+Multidecadal+Oscillation+and+past+hurricane+activity&amp;rft.aufirst=Steffen&amp;rft.aulast=Hetzinger&amp;rft.date=2008&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Geology&amp;rft.pages=11-14&amp;rft.volume=36&amp;rft_id=info%3Abibcode%2F2008Geo....36...11H&amp;rft_id=info%3Adoi%2F10.1130%2FG24321A.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Kerr, R. A. (2000). "A North Atlantic climate pacemaker for the centuries". <i>Science</i>. <b>288</b> (5473): 1984–1986. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/17835110" rel="nofollow">17835110</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.288.5473.1984" rel="nofollow">10.1126/science.288.5473.1984</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=A+North+Atlantic+climate+pacemaker+for+the+centuries&amp;rft.aufirst=R.+A.&amp;rft.aulast=Kerr&amp;rft.date=2000&amp;rft.genre=article&amp;rft.issue=5473&amp;rft.jtitle=Science&amp;rft.pages=1984-1986&amp;rft.volume=288&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.288.5473.1984&amp;rft_id=info%3Apmid%2F17835110&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Kerr, R. A. (2005). "Atlantic climate pacemaker for millennia past, decades hence?". <i>Science</i>. <b>309</b> (5731): 41–43. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15994503" rel="nofollow">15994503</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.309.5731.41" rel="nofollow">10.1126/science.309.5731.41</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Atlantic+climate+pacemaker+for+millennia+past%2C+decades+hence%3F&amp;rft.aufirst=R.+A.&amp;rft.aulast=Kerr&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issue=5731&amp;rft.jtitle=Science&amp;rft.pages=41-43&amp;rft.volume=309&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.309.5731.41&amp;rft_id=info%3Apmid%2F15994503&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Knight, J. R. (2005). "A signature of persistent natural thermohaline circulation cycles in observed climate". <i>Geophys. Res. Lett</i>. <b>32</b>: L20708. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005GeoRL..3220708K" rel="nofollow">2005GeoRL..3220708K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2005GL024233" rel="nofollow">10.1029/2005GL024233</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=A+signature+of+persistent+natural+thermohaline+circulation+cycles+in+observed+climate&amp;rft.aufirst=J.+R.&amp;rft.aulast=Knight&amp;rft.date=2005&amp;rft.genre=article&amp;rft.jtitle=Geophys.+Res.+Lett.&amp;rft.pages=L20708&amp;rft.volume=32&amp;rft_id=info%3Abibcode%2F2005GeoRL..3220708K&amp;rft_id=info%3Adoi%2F10.1029%2F2005GL024233&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">McCabe, G. J.; Palecki, M. A.; Betancourt, J. L. (2004). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC384707" rel="nofollow">"Pacific and Atlantic Ocean influences on multidecadal drought frequency in the United States"</a>. <i><a class="mw-redirect" href="/wiki/Proceedings_of_the_National_Academy_of_Sciences" title="Proceedings of the National Academy of Sciences">PNAS</a></i>. <b>101</b> (12): 4136–4141. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2004PNAS..101.4136M" rel="nofollow">2004PNAS..101.4136M</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC384707" rel="nofollow">384707</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15016919" rel="nofollow">15016919</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1073%2Fpnas.0306738101" rel="nofollow">10.1073/pnas.0306738101</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Pacific+and+Atlantic+Ocean+influences+on+multidecadal+drought+frequency+in+the+United+States&amp;rft.au=Betancourt%2C+J.+L.&amp;rft.au=McCabe%2C+G.+J.&amp;rft.au=Palecki%2C+M.+A.&amp;rft.date=2004&amp;rft.genre=article&amp;rft.issue=12&amp;rft.jtitle=PNAS&amp;rft.pages=4136-4141&amp;rft.volume=101&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC384707&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC384707&amp;rft_id=info%3Abibcode%2F2004PNAS..101.4136M&amp;rft_id=info%3Adoi%2F10.1073%2Fpnas.0306738101&amp;rft_id=info%3Apmid%2F15016919&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Sutton, R. T.; Hodson, L. R. (2005). "Atlantic forcing of North American and European summer climate". <i>Science</i>. <b>309</b> (5731): 115–118. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005Sci...309..115S" rel="nofollow">2005Sci...309..115S</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15994552" rel="nofollow">15994552</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1109496" rel="nofollow">10.1126/science.1109496</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Atlantic+forcing+of+North+American+and+European+summer+climate&amp;rft.au=Hodson%2C+L.+R.&amp;rft.aufirst=R.+T.&amp;rft.aulast=Sutton&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issue=5731&amp;rft.jtitle=Science&amp;rft.pages=115-118&amp;rft.volume=309&amp;rft_id=info%3Abibcode%2F2005Sci...309..115S&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1109496&amp;rft_id=info%3Apmid%2F15994552&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Knight, J. R.; C. K. Folland; A. A. Scaife (2006). "Climate impacts of the Atlantic Multidecadal Oscillation". <i>Geophys. Res. Lett</i>. <b>33</b>: L17706. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006GeoRL..3317706K" rel="nofollow">2006GeoRL..3317706K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2006GL026242" rel="nofollow">10.1029/2006GL026242</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Climate+impacts+of+the+Atlantic+Multidecadal+Oscillation&amp;rft.au=A.+A.+Scaife&amp;rft.au=C.+K.+Folland&amp;rft.aufirst=J.+R.&amp;rft.aulast=Knight&amp;rft.date=2006&amp;rft.genre=article&amp;rft.jtitle=Geophys.+Res.+Lett.&amp;rft.pages=L17706&amp;rft.volume=33&amp;rft_id=info%3Abibcode%2F2006GeoRL..3317706K&amp;rft_id=info%3Adoi%2F10.1029%2F2006GL026242&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li>Teegavarapu, R. S. V., A. Goly and J. Obeysekera (2013). Influences of Atlantic Multi-Decadal Oscillation on Regional Precipitation Extremes, Journal of Hydrology, 495 (2013) 74–93.</li>
+<li><cite class="citation journal">Goly, Aneesh; Teegavarapu, Ramesh S. V. (2014). "Individual and coupled influences of AMO and ENSO on regional precipitation characteristics and extremes". <i>Water Resources Research</i>. <b>50</b>: 4686–4709. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F2013WR014540" rel="nofollow">10.1002/2013WR014540</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAtlantic+multidecadal+oscillation&amp;rft.atitle=Individual+and+coupled+influences+of+AMO+and+ENSO+on+regional+precipitation+characteristics+and+extremes&amp;rft.au=Teegavarapu%2C+Ramesh+S.+V.&amp;rft.aufirst=Aneesh&amp;rft.aulast=Goly&amp;rft.date=2014&amp;rft.genre=article&amp;rft.jtitle=Water+Resources+Research&amp;rft.pages=4686-4709&amp;rft.volume=50&amp;rft_id=info%3Adoi%2F10.1002%2F2013WR014540&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Atlantic_Multidecadal_Oscillation" title="commons:Category:Atlantic Multidecadal Oscillation">Atlantic Multidecadal Oscillation</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="https://web.archive.org/web/20051126030955/http://www.aoml.noaa.gov/phod/amo_faq.php" rel="nofollow">Frequently asked questions about the AMO</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20060505051115/http://www.aoml.noaa.gov/phod/d2m_shift/index.php" rel="nofollow">Probabilistic projection of future AMO regime shifts</a></li>
+<li><a class="external text" href="http://www.cdc.noaa.gov/data/timeseries/AMO/" rel="nofollow">AMO Data from 1856–present</a></li>
+</ul>
+<div aria-labelledby="Global_warming_and_climate_change" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Global_warming" title="Template:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Global_warming" title="Template talk:Global warming"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Global_warming&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Global_warming_and_climate_change" style="font-size:114%;margin:0 4em"><a href="/wiki/Global_warming" title="Global warming">Global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Temperatures" style="font-size:114%;margin:0 4em">Temperatures</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Brightness_temperature" title="Brightness temperature">Brightness temperature</a></li>
+<li><a href="/wiki/Effective_temperature" title="Effective temperature">Effective temperature</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic record</a></li>
+<li><a href="/wiki/Global_warming_hiatus" title="Global warming hiatus">Hiatus</a></li>
+<li><a href="/wiki/Historical_climatology" title="Historical climatology">Historical climatology</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental record</a></li>
+<li><a href="/wiki/Paleoclimatology" title="Paleoclimatology">Paleoclimatology</a></li>
+<li><a href="/wiki/Paleotempestology" title="Paleotempestology">Paleotempestology</a></li>
+<li><a href="/wiki/Proxy_(climate)" title="Proxy (climate)">Proxy data</a></li>
+<li><a href="/wiki/Temperature_record_of_the_past_1000_years" title="Temperature record of the past 1000 years">Record of the past 1,000 years</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite measurements</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Causes" style="font-size:114%;margin:0 4em">Causes</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Global_warming" title="Global warming">Anthropogenic</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Attribution_of_recent_climate_change" title="Attribution of recent climate change">Attribution of recent climate change</a></li>
+<li><a href="/wiki/Environmental_impact_of_aviation" title="Environmental impact of aviation">Aviation</a></li>
+<li><a href="/wiki/Biofuel" title="Biofuel">Biofuel</a></li>
+<li><a href="/wiki/Black_carbon" title="Black carbon">Black carbon</a></li>
+<li><a href="/wiki/Carbon_dioxide" title="Carbon dioxide">Carbon dioxide</a></li>
+<li><a class="mw-redirect" href="/wiki/Global_warming_and_deforestation" title="Global warming and deforestation">Deforestation</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's energy budget</a></li>
+<li><a href="/wiki/Earth%27s_energy_budget" title="Earth's energy budget">Earth's radiation balance</a></li>
+<li><a href="/wiki/Ecocide" title="Ecocide">Ecocide</a></li>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a></li>
+<li><a href="/wiki/Global_dimming" title="Global dimming">Global dimming</a></li>
+<li><a href="/wiki/Global_warming_potential" title="Global warming potential">Global warming potential</a></li>
+<li><a href="/wiki/Greenhouse_effect" title="Greenhouse effect">Greenhouse effect</a></li>
+<li>(<a href="/wiki/Infrared_window" title="Infrared window">Infrared window</a>)</li>
+<li><a href="/wiki/Greenhouse_gas" title="Greenhouse gas">Greenhouse gases</a></li>
+<li>(<a href="/wiki/Halocarbon" title="Halocarbon">Halocarbons</a>)</li>
+<li><a href="/wiki/Land_use,_land-use_change_and_forestry" title="Land use, land-use change and forestry">Land use, land-use change and forestry</a></li>
+<li><a href="/wiki/Radiative_forcing" title="Radiative forcing">Radiative forcing</a></li>
+<li><a href="/wiki/Tropospheric_ozone" title="Tropospheric ozone">Tropospheric ozone</a></li>
+<li><a href="/wiki/Urban_heat_island" title="Urban heat island">Urban heat island</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Natural_environment" title="Natural environment">Natural</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Albedo" title="Albedo">Albedo</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond events</a></li>
+<li><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></li>
+<li><a href="/wiki/Climate_sensitivity" title="Climate sensitivity">Climate sensitivity</a></li>
+<li><a href="/wiki/Cloud_forcing" title="Cloud forcing">Cloud forcing</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic rays</a></li>
+<li><a href="/wiki/Climate_change_feedback" title="Climate change feedback">Feedbacks</a></li>
+<li><a href="/wiki/Glacial_period" title="Glacial period">Glaciation</a></li>
+<li><a href="/wiki/Global_cooling" title="Global cooling">Global cooling</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Ocean variability</a>
+<ul>
+<li><a class="mw-selflink selflink">AMO</a></li>
+<li><a class="mw-redirect" href="/wiki/El_Ni%C3%B1o-Southern_Oscillation" title="El Niño-Southern Oscillation">ENSO</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">IOD</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">PDO</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_variation" title="Solar variation">Solar variation</a></li>
+<li><a href="/wiki/Volcanism" title="Volcanism">Volcanism</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Climate_model" title="Climate model">Models</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Global_climate_model" title="Global climate model">Global climate model</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="History" style="font-size:114%;margin:0 4em">History</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/History_of_climate_change_science" title="History of climate change science">History of climate change science</a></li>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Svante_Arrhenius" title="Svante Arrhenius">Svante Arrhenius</a></li>
+<li><a href="/wiki/James_Hansen" title="James Hansen">James Hansen</a></li>
+<li><a href="/wiki/Charles_David_Keeling" title="Charles David Keeling">Charles David Keeling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Opinion_and_climate_change" style="font-size:114%;margin:0 4em">Opinion and climate change</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Environmental_ethics" title="Environmental ethics">Environmental ethics</a></li>
+<li><a href="/wiki/Media_coverage_of_climate_change" title="Media coverage of climate change">Media coverage of climate change</a></li>
+<li><a href="/wiki/Public_opinion_on_climate_change" title="Public opinion on climate change">Public opinion on climate change</a></li>
+<li>(<a href="/wiki/Climate_change_in_popular_culture" title="Climate change in popular culture">Popular culture</a>)</li>
+<li><a href="/wiki/Scientific_opinion_on_climate_change" title="Scientific opinion on climate change">Scientific opinion on climate change</a></li>
+<li><a href="/wiki/List_of_scientists_opposing_the_mainstream_scientific_assessment_of_global_warming" title="List of scientists opposing the mainstream scientific assessment of global warming">Scientists opposing the mainstream assessment</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li><a href="/wiki/Global_warming_conspiracy_theory" title="Global warming conspiracy theory">Global warming conspiracy theory</a></li>
+<li><a href="/wiki/Climate_change_opinion_by_country" title="Climate change opinion by country">By country &amp; region</a></li>
+<li>(<a href="/wiki/Climate_change_in_Africa" title="Climate change in Africa">Africa</a></li>
+<li><a href="/wiki/Climate_change_in_the_Arctic" title="Climate change in the Arctic">Arctic</a></li>
+<li><a href="/wiki/Climate_change_in_Argentina" title="Climate change in Argentina">Argentina</a></li>
+<li><a href="/wiki/Climate_change_in_Australia" title="Climate change in Australia">Australia</a></li>
+<li><a href="/wiki/Climate_change_in_Bangladesh" title="Climate change in Bangladesh">Bangladesh</a></li>
+<li><a class="mw-redirect" href="/wiki/Climate_change_in_Belgium" title="Climate change in Belgium">Belgium</a></li>
+<li><a href="/wiki/Climate_change_in_Canada" title="Climate change in Canada">Canada</a></li>
+<li><a href="/wiki/Climate_change_in_China" title="Climate change in China">China</a></li>
+<li><a href="/wiki/Climate_change_in_Europe" title="Climate change in Europe">Europe</a></li>
+<li><a href="/wiki/Climate_change_in_the_European_Union" title="Climate change in the European Union">European Union</a></li>
+<li><a href="/wiki/Climate_change_in_Finland" title="Climate change in Finland">Finland</a></li>
+<li><a href="/wiki/Climate_change_in_Grenada" title="Climate change in Grenada">Grenada</a></li>
+<li><a href="/wiki/Climate_change_in_Japan" title="Climate change in Japan">Japan</a></li>
+<li><a class="mw-redirect" href="/wiki/Climate_change_in_Luxembourg" title="Climate change in Luxembourg">Luxembourg</a></li>
+<li><a href="/wiki/Climate_change_in_New_Zealand" title="Climate change in New Zealand">New Zealand</a></li>
+<li><a class="mw-redirect" href="/wiki/Climate_change_in_Norway" title="Climate change in Norway">Norway</a></li>
+<li><a href="/wiki/Climate_change_in_Russia" title="Climate change in Russia">Russia</a></li>
+<li><a href="/wiki/Climate_change_in_Scotland" title="Climate change in Scotland">Scotland</a></li>
+<li><a href="/wiki/Climate_change_in_South_Korea" title="Climate change in South Korea">South Korea</a></li>
+<li><a href="/wiki/Climate_change_in_Sweden" title="Climate change in Sweden">Sweden</a></li>
+<li><a href="/wiki/Climate_change_in_Tuvalu" title="Climate change in Tuvalu">Tuvalu</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_Kingdom" title="Climate change in the United Kingdom">United Kingdom</a></li>
+<li><a href="/wiki/Climate_change_in_the_United_States" title="Climate change in the United States">United States</a>)</li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Politics" style="font-size:114%;margin:0 4em"><a href="/wiki/Politics_of_global_warming" title="Politics of global warming">Politics</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clean_Power_Plan" title="Clean Power Plan">Clean Power Plan</a></li>
+<li><a href="/wiki/Climate_change_denial" title="Climate change denial">Climate change denial</a></li>
+<li>(<a href="/wiki/Manufactured_controversy" title="Manufactured controversy">Manufactured controversy</a>)</li>
+<li><a href="/wiki/Intergovernmental_Panel_on_Climate_Change" title="Intergovernmental Panel on Climate Change">Intergovernmental Panel on Climate Change (IPCC)</a></li>
+<li><a href="/wiki/March_for_Science" title="March for Science">March for Science</a></li>
+<li><a href="/wiki/People%27s_Climate_March" title="People's Climate March">People's Climate March</a></li>
+<li><a href="/wiki/United_Nations_Framework_Convention_on_Climate_Change" title="United Nations Framework Convention on Climate Change">United Nations Framework Convention on Climate Change (UNFCCC / FCCC)</a></li>
+<li><a href="/wiki/Global_climate_regime" title="Global climate regime">Global climate regime</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Potential_effects_and_issues" style="font-size:114%;margin:0 4em"><a href="/wiki/Effects_of_global_warming" title="Effects of global warming">Potential effects and issues</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abrupt_climate_change" title="Abrupt climate change">Abrupt climate change</a></li>
+<li><a href="/wiki/Anoxic_event" title="Anoxic event">Anoxic event</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_haze" title="Arctic haze">Arctic haze</a></li>
+<li><a class="mw-redirect" href="/wiki/Arctic_methane_release" title="Arctic methane release">Arctic methane release</a></li>
+<li><a href="/wiki/Climate_change_and_agriculture" title="Climate change and agriculture">Climate change and agriculture</a></li>
+<li><a href="/wiki/Climate_change_and_ecosystems" title="Climate change and ecosystems">Climate change and ecosystems</a></li>
+<li><a href="/wiki/Climate_change_and_poverty" title="Climate change and poverty">Climate change and poverty</a></li>
+<li><a class="mw-redirect" href="/wiki/Current_sea_level_rise" title="Current sea level rise">Current sea level rise</a></li>
+<li><a href="/wiki/Drought" title="Drought">Drought</a></li>
+<li><a href="/wiki/Economics_of_global_warming" title="Economics of global warming">Economics of global warming</a></li>
+<li><a class="mw-redirect" href="/wiki/Effect_of_climate_change_on_plant_biodiversity" title="Effect of climate change on plant biodiversity">Effect on plant biodiversity</a></li>
+<li><a href="/wiki/Effects_of_global_warming_on_human_health" title="Effects of global warming on human health">Effects on health</a></li>
+<li><a class="mw-redirect" href="/wiki/Effects_of_climate_change_on_humans" title="Effects of climate change on humans">Effects on humans</a></li>
+<li><a class="mw-redirect" href="/wiki/Effects_of_climate_change_on_marine_mammals" title="Effects of climate change on marine mammals">Effects on marine mammals</a></li>
+<li><a href="/wiki/Environmental_migrant" title="Environmental migrant">Environmental migrant</a></li>
+<li><a href="/wiki/Extinction_risk_from_global_warming" title="Extinction risk from global warming">Extinction risk from global warming</a></li>
+<li><a href="/wiki/Fisheries_and_climate_change" title="Fisheries and climate change">Fisheries and climate change</a></li>
+<li><a href="/wiki/Forest_dieback" title="Forest dieback">Forest dieback</a></li>
+<li><a href="/wiki/Climate_change,_industry_and_society" title="Climate change, industry and society">Industry and society</a></li>
+<li><a href="/wiki/Iris_hypothesis" title="Iris hypothesis">Iris hypothesis</a></li>
+<li><a href="/wiki/Megadrought" title="Megadrought">Megadrought</a></li>
+<li><a href="/wiki/Ocean_acidification" title="Ocean acidification">Ocean acidification</a></li>
+<li><a href="/wiki/Ozone_depletion" title="Ozone depletion">Ozone depletion</a></li>
+<li><a href="/wiki/Physical_impacts_of_climate_change" title="Physical impacts of climate change">Physical impacts</a></li>
+<li><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Polar stratospheric cloud</a></li>
+<li><a href="/wiki/Regime_shift" title="Regime shift">Regime shift</a></li>
+<li><a href="/wiki/Retreat_of_glaciers_since_1850" title="Retreat of glaciers since 1850">Retreat of glaciers since 1850</a></li>
+<li><a href="/wiki/Runaway_climate_change" title="Runaway climate change">Runaway climate change</a></li>
+<li><a href="/wiki/Season_creep" title="Season creep">Season creep</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em">By country</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Effects_of_global_warming_on_Australia" title="Effects of global warming on Australia">Australia</a></li>
+<li><a class="mw-redirect" href="/wiki/Effects_of_global_warming_on_India" title="Effects of global warming on India">India</a></li>
+<li><a href="/wiki/Climate_change_adaptation_in_Nepal" title="Climate change adaptation in Nepal">Nepal</a></li>
+<li>(<a href="/wiki/Effects_of_global_warming_on_South_Asia" title="Effects of global warming on South Asia">South Asia</a>)</li>
+<li><a href="/wiki/National_Climate_Assessment" title="National Climate Assessment">United States</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Mitigation" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_change_mitigation" title="Climate change mitigation">Mitigation</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em"><a href="/wiki/Kyoto_Protocol" title="Kyoto Protocol">Kyoto Protocol</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Clean_Development_Mechanism" title="Clean Development Mechanism">Clean Development Mechanism</a></li>
+<li><a href="/wiki/Joint_Implementation" title="Joint Implementation">Joint Implementation</a></li>
+<li><a href="/wiki/Bali_Road_Map" title="Bali Road Map">Bali Road Map</a></li>
+<li><a href="/wiki/2009_United_Nations_Climate_Change_Conference" title="2009 United Nations Climate Change Conference">2009 United Nations Climate Change Conference</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em">Governmental</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/European_Climate_Change_Programme" title="European Climate Change Programme">European Climate Change Programme</a></li>
+<li><a href="/wiki/G8_Climate_Change_Roundtable" title="G8 Climate Change Roundtable">G8 Climate Change Roundtable</a></li>
+<li><a href="/wiki/United_Kingdom_Climate_Change_Programme" title="United Kingdom Climate Change Programme">United Kingdom Climate Change Programme</a></li>
+<li><a href="/wiki/Paris_Agreement" title="Paris Agreement">Paris Agreement</a>
+<ul>
+<li><a href="/wiki/United_States_withdrawal_from_the_Paris_Agreement" title="United States withdrawal from the Paris Agreement">United States withdrawal</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Regional_climate_change_initiatives_in_the_United_States" title="Regional climate change initiatives in the United States">Regional climate change initiatives in the United States</a></li>
+<li><a href="/wiki/List_of_climate_change_initiatives" title="List of climate change initiatives">List of climate change initiatives</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em">Emissions reduction</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_credit" title="Carbon credit">Carbon credit</a></li>
+<li><a href="/wiki/Carbon-neutral_fuel" title="Carbon-neutral fuel">Carbon-neutral fuel</a></li>
+<li><a href="/wiki/Carbon_offset" title="Carbon offset">Carbon offset</a></li>
+<li><a href="/wiki/Carbon_tax" title="Carbon tax">Carbon tax</a></li>
+<li><a href="/wiki/Emissions_trading" title="Emissions trading">Emissions trading</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_phase-out" title="Fossil-fuel phase-out">Fossil-fuel phase-out</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em">Carbon-free energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_capture_and_storage" title="Carbon capture and storage">Carbon capture and storage</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a></li>
+<li><a href="/wiki/Low-carbon_economy" title="Low-carbon economy">Low-carbon economy</a></li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a></li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em">Personal</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Individual_action_on_climate_change" title="Individual action on climate change">Individual action on climate change</a></li>
+<li><a href="/wiki/Simple_living" title="Simple living">Simple living</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em">Other</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carbon_dioxide_removal" title="Carbon dioxide removal">Carbon dioxide removal</a></li>
+<li><a href="/wiki/Carbon_sink" title="Carbon sink">Carbon sink</a></li>
+<li><a href="/wiki/Climate_change_mitigation_scenarios" title="Climate change mitigation scenarios">Climate change mitigation scenarios</a></li>
+<li><a href="/wiki/Climate_engineering" title="Climate engineering">Climate engineering</a></li>
+<li><a href="/wiki/Individual_and_political_action_on_climate_change" title="Individual and political action on climate change">Individual and political action on climate change</a></li>
+<li><a href="/wiki/Reducing_emissions_from_deforestation_and_forest_degradation" title="Reducing emissions from deforestation and forest degradation">Reducing emissions from deforestation and forest degradation</a></li>
+<li><a href="/wiki/Reforestation" title="Reforestation">Reforestation</a></li>
+<li><a href="/wiki/Urban_reforestation" title="Urban reforestation">Urban reforestation</a></li>
+<li><a class="mw-redirect" href="/wiki/Climate_Action_Plan" title="Climate Action Plan">Climate Action Plan</a></li>
+<li><a class="mw-redirect" href="/wiki/Climate_action" title="Climate action">Climate action</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible collapsed navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Proposed_adaptations" style="font-size:114%;margin:0 4em"><a class="mw-redirect" href="/wiki/Adaptation_to_global_warming" title="Adaptation to global warming">Proposed adaptations</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em">Strategies</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dam" title="Dam">Damming</a> <a href="/wiki/Glacial_lake" title="Glacial lake">glacial lakes</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Drought_tolerance" title="Drought tolerance">Drought tolerance</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation investment</a></li>
+<li><a href="/wiki/Rainwater_tank" title="Rainwater tank">Rainwater storage</a></li>
+<li><a href="/wiki/Sustainable_development" title="Sustainable development">Sustainable development</a></li>
+<li><a href="/wiki/Weather_modification" title="Weather modification">Weather modification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.25em">Programmes</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Avoiding_dangerous_climate_change" title="Avoiding dangerous climate change">Avoiding dangerous climate change</a></li>
+<li><a href="/wiki/Land_allocation_decision_support_system" title="Land allocation decision support system">Land allocation decision support system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Glossary_of_climate_change" title="Glossary of climate change">Glossary of climate change</a></li>
+<li><a href="/wiki/Index_of_climate_change_articles" title="Index of climate change articles">Index of climate change articles</a></li>
+<li><a href="/wiki/Category:Climate_change" title="Category:Climate change">Category:Climate change</a></li>
+<li><a href="/wiki/Category:Global_warming" title="Category:Global warming">Category:Global warming</a></li>
+<li><a href="/wiki/Portal:Global_warming" title="Portal:Global warming">Portal:Global warming</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Climate_oscillations" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Climate_oscillations" title="Template:Climate oscillations"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Climate_oscillations" title="Template talk:Climate oscillations"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Climate_oscillations&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Climate_oscillations" style="font-size:114%;margin:0 4em"><a href="/wiki/Climate_oscillation" title="Climate oscillation">Climate oscillations</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Climate oscillations</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/8.2_kiloyear_event" title="8.2 kiloyear event">8.2 kiloyear event</a></li>
+<li><a href="/wiki/Antarctic_Circumpolar_Wave" title="Antarctic Circumpolar Wave">Antarctic Circumpolar Wave</a></li>
+<li><a href="/wiki/Antarctic_oscillation" title="Antarctic oscillation">Antarctic oscillation</a></li>
+<li><a href="/wiki/Arctic_dipole_anomaly" title="Arctic dipole anomaly">Arctic dipole anomaly</a></li>
+<li><a href="/wiki/Arctic_oscillation" title="Arctic oscillation">Arctic oscillation</a></li>
+<li><a href="/wiki/Atlantic_Equatorial_mode" title="Atlantic Equatorial mode">Atlantic Equatorial mode</a></li>
+<li><a class="mw-selflink selflink">Atlantic multidecadal oscillation</a></li>
+<li><a href="/wiki/Axial_tilt#Earth" title="Axial tilt">Earth's axial tilt</a></li>
+<li><a href="/wiki/Bond_event" title="Bond event">Bond event</a></li>
+<li><a href="/wiki/Dansgaard%E2%80%93Oeschger_event" title="Dansgaard–Oeschger event">Dansgaard–Oeschger event</a></li>
+<li><a href="/wiki/Diurnal_cycle" title="Diurnal cycle">Diurnal cycle</a></li>
+<li><a href="/wiki/Diurnal_temperature_variation" title="Diurnal temperature variation">Diurnal temperature variation</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">El Niño–Southern Oscillation</a> (<a href="/wiki/El_Ni%C3%B1o" title="El Niño">El Niño</a> - <a href="/wiki/La_Ni%C3%B1a" title="La Niña">La Niña</a>)</li>
+<li><a class="mw-redirect" href="/wiki/Equatorial_Indian_Ocean_oscillation" title="Equatorial Indian Ocean oscillation">Equatorial Indian Ocean oscillation</a></li>
+<li><a href="/wiki/Ice_age" title="Ice age">Glacial cycles</a></li>
+<li><a href="/wiki/Indian_Ocean_Dipole" title="Indian Ocean Dipole">Indian Ocean Dipole</a></li>
+<li><a href="/wiki/Madden%E2%80%93Julian_oscillation" title="Madden–Julian oscillation">Madden–Julian oscillation</a></li>
+<li><a href="/wiki/Milankovitch_cycles" title="Milankovitch cycles">Milankovitch cycles</a></li>
+<li><a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></li>
+<li><a href="/wiki/North_Atlantic_oscillation" title="North Atlantic oscillation">North Atlantic oscillation</a></li>
+<li><a href="/wiki/North_Pacific_Oscillation" title="North Pacific Oscillation">North Pacific Oscillation</a></li>
+<li><a href="/wiki/Orbital_forcing" title="Orbital forcing">Orbital forcing</a></li>
+<li><a href="/wiki/Pacific_decadal_oscillation" title="Pacific decadal oscillation">Pacific decadal oscillation</a></li>
+<li><a href="/wiki/Pacific%E2%80%93North_American_teleconnection_pattern" title="Pacific–North American teleconnection pattern">Pacific–North American teleconnection pattern</a></li>
+<li><a href="/wiki/Quasi-biennial_oscillation" title="Quasi-biennial oscillation">Quasi-biennial oscillation</a></li>
+<li><a href="/wiki/Seasonal_lag" title="Seasonal lag">Seasonal lag</a></li>
+<li><a href="/wiki/Season" title="Season">Seasons</a></li>
+<li><a href="/wiki/Solar_cycle" title="Solar cycle">Solar variability</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1234
+Cached time: 20170924214358
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.556 seconds
+Real time usage: 0.649 seconds
+Preprocessor visited node count: 3032/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 186262/2097152 bytes
+Template argument size: 12795/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.285/10.000 seconds
+Lua memory usage: 5.13 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  518.693      1 -total
+ 37.96%  196.897     32 Template:Cite_journal
+ 37.25%  193.230      1 Template:Reflist
+ 14.62%   75.844      1 Template:Global_warming
+ 14.03%   72.761      1 Template:Navbox_with_collapsible_groups
+  9.68%   50.208      2 Template:Fix
+  7.11%   36.879      1 Template:Citation_style
+  6.77%   35.091      1 Template:Commons_category
+  6.41%   33.265      2 Template:Delink
+  5.89%   30.550      1 Template:Ambox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:8813953-0!canonical and timestamp 20170924214415 and revision id 802240706
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Atlantic_multidecadal_oscillation&amp;oldid=802240706">https://en.wikipedia.org/w/index.php?title=Atlantic_multidecadal_oscillation&amp;oldid=802240706</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Climate" title="Category:Climate">Climate</a></li><li><a href="/wiki/Category:Tropical_cyclone_meteorology" title="Category:Tropical cyclone meteorology">Tropical cyclone meteorology</a></li><li><a href="/wiki/Category:Atlantic_hurricanes" title="Category:Atlantic hurricanes">Atlantic hurricanes</a></li><li><a href="/wiki/Category:Climate_patterns" title="Category:Climate patterns">Climate patterns</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_with_inconsistent_citation_formats" title="Category:Articles with inconsistent citation formats">Articles with inconsistent citation formats</a></li><li><a href="/wiki/Category:Wikipedia_references_cleanup_from_September_2017" title="Category:Wikipedia references cleanup from September 2017">Wikipedia references cleanup from September 2017</a></li><li><a href="/wiki/Category:All_articles_needing_references_cleanup" title="Category:All articles needing references cleanup">All articles needing references cleanup</a></li><li><a href="/wiki/Category:Articles_covered_by_WikiProject_Wikify_from_September_2017" title="Category:Articles covered by WikiProject Wikify from September 2017">Articles covered by WikiProject Wikify from September 2017</a></li><li><a href="/wiki/Category:All_articles_covered_by_WikiProject_Wikify" title="Category:All articles covered by WikiProject Wikify">All articles covered by WikiProject Wikify</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2011" title="Category:Articles with unsourced statements from February 2011">Articles with unsourced statements from February 2011</a></li><li><a href="/wiki/Category:Wikipedia_articles_that_may_have_off-topic_sections" title="Category:Wikipedia articles that may have off-topic sections">Wikipedia articles that may have off-topic sections</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Atlantic+multidecadal+oscillation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Atlantic+multidecadal+oscillation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Atlantic_multidecadal_oscillation" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Atlantic_multidecadal_oscillation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Atlantic_multidecadal_oscillation">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Atlantic_multidecadal_oscillation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Atlantic_multidecadal_oscillation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;oldid=802240706" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q756835" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Atlantic_multidecadal_oscillation&amp;id=802240706" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Atlantic+multidecadal+oscillation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Atlantic+multidecadal+oscillation&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAtlantic%2Bmultidecadal%2Boscillation%26returnto%3DAtlantic%2Bmultidecadal%2Boscillation%26oldid%3D802240706%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Atlantic_multidecadal_oscillation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Atlantic_Multidecadal_Oscillation" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Atlantische_Multidekaden-Oszillation" hreflang="de" lang="de" title="Atlantische Multidekaden-Oszillation – German">Deutsch</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Atlantika_multjardeka_oscilado" hreflang="eo" lang="eo" title="Atlantika multjardeka oscilado – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Oscillation_atlantique_multid%C3%A9cennale" hreflang="fr" lang="fr" title="Oscillation atlantique multidécennale – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Indice_AMO" hreflang="it" lang="it" title="Indice AMO – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A4%A7%E8%A5%BF%E6%B4%8B%E6%95%B0%E5%8D%81%E5%B9%B4%E8%A6%8F%E6%A8%A1%E6%8C%AF%E5%8B%95" hreflang="ja" lang="ja" title="大西洋数十年規模振動 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Oscila%C3%A7%C3%A3o_multidecadal_do_Atl%C3%A2ntico" hreflang="pt" lang="pt" title="Oscilação multidecadal do Atlântico – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B5%D0%B2%D0%B5%D1%80%D0%BE%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D0%BE%D1%81%D1%86%D0%B8%D0%BB%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Североатлантическая осцилляция – Russian">Русский</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D1%96%D0%B2%D0%BD%D1%96%D1%87%D0%BD%D0%BE%D0%B0%D1%82%D0%BB%D0%B0%D0%BD%D1%82%D0%B8%D1%87%D0%BD%D0%B0_%D0%BE%D1%81%D1%86%D0%B8%D0%BB%D1%8F%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Північноатлантична осциляція – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q756835#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 September 2017, at 21:44.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Atlantic_multidecadal_oscillation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.556","walltime":"0.649","ppvisitednodes":{"value":3032,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":186262,"limit":2097152},"templateargumentsize":{"value":12795,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  518.693      1 -total"," 37.96%  196.897     32 Template:Cite_journal"," 37.25%  193.230      1 Template:Reflist"," 14.62%   75.844      1 Template:Global_warming"," 14.03%   72.761      1 Template:Navbox_with_collapsible_groups","  9.68%   50.208      2 Template:Fix","  7.11%   36.879      1 Template:Citation_style","  6.77%   35.091      1 Template:Commons_category","  6.41%   33.265      2 Template:Delink","  5.89%   30.550      1 Template:Ambox"]},"scribunto":{"limitreport-timeusage":{"value":"0.285","limit":"10.000"},"limitreport-memusage":{"value":5375731,"limit":52428800}},"cachereport":{"origin":"mw1234","timestamp":"20170924214358","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":72,"wgHostname":"mw1251"});});</script>
+</body>
+</html>

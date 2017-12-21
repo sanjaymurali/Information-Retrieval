@@ -1,0 +1,791 @@
+https://en.wikipedia.org/wiki/Troposphere
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Troposphere - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Troposphere","wgTitle":"Troposphere","wgCurRevisionId":801351017,"wgRevisionId":801351017,"wgArticleId":41822,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using web citations with no URL","Articles containing Greek-language text","Wikipedia articles with GND identifiers","Atmosphere","Atmosphere of Earth","Atmospheric thermodynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Troposphere","wgRelevantArticleId":41822,"wgRequestId":"WdB8iwpAMFIAADWHCwkAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q40631","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Endeavour_silhouette_STS-130.jpg/1200px-Endeavour_silhouette_STS-130.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Troposphere" rel="alternate"/>
+<link href="/w/index.php?title=Troposphere&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Troposphere&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Troposphere" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Troposphere rootpage-Troposphere vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Troposphere</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Endeavour_silhouette_STS-130.jpg"><img alt="" class="thumbimage" data-file-height="4032" data-file-width="6048" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Endeavour_silhouette_STS-130.jpg/300px-Endeavour_silhouette_STS-130.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Endeavour_silhouette_STS-130.jpg/450px-Endeavour_silhouette_STS-130.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Endeavour_silhouette_STS-130.jpg/600px-Endeavour_silhouette_STS-130.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Endeavour_silhouette_STS-130.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Space_Shuttle" title="Space Shuttle">Space Shuttle</a> <i><a href="/wiki/Space_Shuttle_Endeavour" title="Space Shuttle Endeavour">Endeavour</a></i> silhouetted against the atmosphere. The orange layer is the troposphere, the white layer is the <a href="/wiki/Stratosphere" title="Stratosphere">stratosphere</a>, and the blue layer is the <a href="/wiki/Mesosphere" title="Mesosphere">mesosphere</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> (The shuttle is actually orbiting at an altitude of more than 320 km (200 mi), far above all three layers.)</div>
+</div>
+</div>
+<p>The <b>troposphere</b> is the lowest portion of <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">Earth's atmosphere</a>, and is also where nearly all <a href="/wiki/Weather" title="Weather">weather</a> takes place. It contains approximately 75% of the <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>'s <a href="/wiki/Mass" title="Mass">mass</a> and 99% of the total mass of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> and <a href="/wiki/Aerosol" title="Aerosol">aerosols</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The average depths of the troposphere are 20 km (12 mi) in the <a href="/wiki/Tropics" title="Tropics">tropics</a>, 17 km (11 mi) in the mid latitudes, and 7 km (4.3 mi) in the <a class="mw-redirect" href="/wiki/Polar_regions" title="Polar regions">polar regions</a> in winter. The lowest part of the troposphere, where <a href="/wiki/Friction" title="Friction">friction</a> with the Earth's surface influences air flow, is the <a href="/wiki/Planetary_boundary_layer" title="Planetary boundary layer">planetary boundary layer</a>. This layer is typically a few hundred meters to 2 km (1.2 mi) deep depending on the <a href="/wiki/Landform" title="Landform">landform</a> and time of day. Atop the troposphere is the <a href="/wiki/Tropopause" title="Tropopause">tropopause</a>, which is the border between the troposphere and <a href="/wiki/Stratosphere" title="Stratosphere">stratosphere</a>. The tropopause is an <a href="/wiki/Inversion_(meteorology)" title="Inversion (meteorology)">inversion layer</a>, where the air temperature ceases to decrease with height and remains constant through its thickness.<sup class="reference" id="cite_ref-DLA_3-0"><a href="#cite_note-DLA-3">[3]</a></sup></p>
+<p>The word <i>troposphere</i> derives from the <a href="/wiki/Greek_language" title="Greek language">Greek</a>: <span lang="el" xml:lang="el"><i>tropos</i></span> for "turn, turn toward, trope" and "-sphere" (as in, the Earth), reflecting the fact that rotational <a href="/wiki/Turbulence" title="Turbulence">turbulent</a> mixing plays an important role in the troposphere's structure and behaviour. Most of the phenomena associated with day-to-day weather occur in the troposphere.<sup class="reference" id="cite_ref-DLA_3-1"><a href="#cite_note-DLA-3">[3]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Pressure_and_temperature_structure"><span class="tocnumber">1</span> <span class="toctext">Pressure and temperature structure</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Composition"><span class="tocnumber">1.1</span> <span class="toctext">Composition</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Pressure"><span class="tocnumber">1.2</span> <span class="toctext">Pressure</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Temperature"><span class="tocnumber">1.3</span> <span class="toctext">Temperature</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Tropopause"><span class="tocnumber">1.4</span> <span class="toctext">Tropopause</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Atmospheric_flow"><span class="tocnumber">2</span> <span class="toctext">Atmospheric flow</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Zonal_flow"><span class="tocnumber">2.1</span> <span class="toctext">Zonal flow</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Meridional_flow"><span class="tocnumber">2.2</span> <span class="toctext">Meridional flow</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Three-cell_model"><span class="tocnumber">2.3</span> <span class="toctext">Three-cell model</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Synoptic_scale_observations_and_concepts"><span class="tocnumber">3</span> <span class="toctext">Synoptic scale observations and concepts</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Forcing"><span class="tocnumber">3.1</span> <span class="toctext">Forcing</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Divergence_and_convergence"><span class="tocnumber">3.2</span> <span class="toctext">Divergence and convergence</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-13"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Pressure_and_temperature_structure">Pressure and temperature structure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=1" title="Edit section: Pressure and temperature structure">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Troposphere_CIMG1853.JPG"><img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Troposphere_CIMG1853.JPG/200px-Troposphere_CIMG1853.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/35/Troposphere_CIMG1853.JPG/300px-Troposphere_CIMG1853.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/35/Troposphere_CIMG1853.JPG/400px-Troposphere_CIMG1853.JPG 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Troposphere_CIMG1853.JPG" title="Enlarge"></a></div>
+A view of Earth's troposphere from an <a href="/wiki/Airplane" title="Airplane">airplane</a>.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=2" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By volume, dry air contains 78.08% <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a>, 20.95% <a href="/wiki/Oxygen" title="Oxygen">oxygen</a>, 0.93% <a href="/wiki/Argon" title="Argon">argon</a>, 0.04% <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a>, and small amounts of other gases. Air also contains a variable amount of <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a>. Execpt for the water vapor content, the composition of the troposphere is essentially uniform. The source of water vapor is at the Earth's surface through the process of <a href="/wiki/Evaporation" title="Evaporation">evaporation</a>. The temperature of the troposphere decreases with <a href="/wiki/Altitude" title="Altitude">altitude</a>. And, <a class="mw-redirect" href="/wiki/Saturation_vapor_pressure" title="Saturation vapor pressure">saturation vapor pressure</a> decreases strongly as temperature drops. Hence, the amount of water vapor that can exist in the atmosphere decreases strongly with altitude and the proportion of water vapor is normally greatest near the surface of the Earth.</p>
+<h3><span class="mw-headline" id="Pressure">Pressure</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=3" title="Edit section: Pressure">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The pressure of the atmosphere is maximum at <a href="/wiki/Sea_level" title="Sea level">sea level</a> and decreases with altitude. This is because the atmosphere is very nearly in <a href="/wiki/Hydrostatic_equilibrium" title="Hydrostatic equilibrium">hydrostatic equilibrium</a> so that the pressure is equal to the weight of air above a given point. The change in pressure with altitude can be equated to the density with the <a class="mw-redirect" href="/wiki/Fluid_statics" title="Fluid statics">hydrostatic</a> equation<sup class="reference" id="cite_ref-LL_4-0"><a href="#cite_note-LL-4">[4]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<msub>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>m</mi>
+<mi>P</mi>
+<msub>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {dP}{dz}}=-\rho g_{n}=-{\frac {mPg_{n}}{RT}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {dP}{dz}}=-\rho g_{n}=-{\frac {mPg_{n}}{RT}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/29f27e8cfd70d38d3e4c8a21db1f4b9fa45593d0" style="vertical-align: -2.005ex; width:24.219ex; height:5.509ex;"/></span></dd>
+</dl>
+<p>where:</p>
+<dl>
+<dd>
+<ul>
+<li><i>g<sub>n</sub></i> is the <a href="/wiki/Standard_gravity" title="Standard gravity">standard gravity</a></li>
+<li><i>ρ</i> is the <a href="/wiki/Density" title="Density">density</a></li>
+<li><i>z</i> is the <a href="/wiki/Altitude" title="Altitude">altitude</a></li>
+<li><i>P</i> is the <a href="/wiki/Pressure" title="Pressure">pressure</a></li>
+<li><i>R</i> is the <a href="/wiki/Gas_constant" title="Gas constant">gas constant</a></li>
+<li><i>T</i> is the <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">thermodynamic (absolute) temperature</a></li>
+<li><i>m</i> is the <a href="/wiki/Molar_mass" title="Molar mass">molar mass</a></li>
+</ul>
+</dd>
+</dl>
+<p>Since temperature in principle also depends on altitude, one needs a second equation to determine the pressure as a function of altitude as discussed in the next section.</p>
+<h3><span class="mw-headline" id="Temperature">Temperature</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=4" title="Edit section: Temperature">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Troposphere_Temperature_Trend1.jpg"><img alt="hi" class="thumbimage" data-file-height="330" data-file-width="561" height="129" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Troposphere_Temperature_Trend1.jpg/220px-Troposphere_Temperature_Trend1.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Troposphere_Temperature_Trend1.jpg/330px-Troposphere_Temperature_Trend1.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Troposphere_Temperature_Trend1.jpg/440px-Troposphere_Temperature_Trend1.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Troposphere_Temperature_Trend1.jpg" title="Enlarge"></a></div>
+This image shows the temperature trend in the Middle Troposphere as measured by a series of satellite-based instruments between January 1979 and December 2005. The middle troposphere is centered around 5 kilometers above the surface. Oranges and yellows dominate the troposphere image, indicating that the air nearest the Earth's surface warmed during the period.Source: <a class="external autonumber" href="http://earthobservatory.nasa.gov/IOTD/view.php?id=7839" rel="nofollow">[1]</a></div>
+</div>
+</div>
+<p>The <a href="/wiki/Temperature" title="Temperature">temperature</a> of the troposphere generally decreases as altitude increases. The rate at which the temperature decreases, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>−<!-- − --></mo>
+<mi>d</mi>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>d</mi>
+<mi>z</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle -dT/dz}</annotation>
+</semantics>
+</math></span><img alt="-dT/dz" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fc20cd5e511d209bb75dedb98be3b10e1f203968" style="vertical-align: -0.838ex; width:8.189ex; height:2.843ex;"/></span>, is called the environmental lapse rate (ELR). The ELR is nothing more than the difference in temperature between the surface and the tropopause divided by the height. The ELR assumes that the air is perfectly still, i.e. that there is no mixing of the layers of air from vertical convection, nor winds that would create turbulence and hence mixing of the layers of air. The reason for this temperature difference is that the ground absorbs most of the sun's energy, which then heats the lower levels of the atmosphere with which it is in contact. Meanwhile, the radiation of heat at the top of the atmosphere results in the cooling of that part of the atmosphere.</p>
+<table class="wikitable" style="border-spacing: 5px; margin:auto;">
+<caption><b>Environmental Lapse Rate (ELR)</b></caption>
+<tr>
+<th scope="col" style="width:150px;">Altitude Region</th>
+<th scope="col" style="width:100px;">Lapse rate</th>
+<th scope="col" style="width:100px;">Lapse Rate</th>
+</tr>
+<tr>
+<th scope="col" style="width:150px;">(m)</th>
+<th scope="col" style="width:100px;">(Kelvin/km)</th>
+<th scope="col" style="width:100px;">(°F/1000 feet)</th>
+</tr>
+<tr>
+<td>0 – 11,000</td>
+<td>−6.5</td>
+<td>−3.57</td>
+</tr>
+<tr>
+<td>11,000 – 20,000</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>20,000 – 32,000</td>
+<td>1.0</td>
+<td>0.55</td>
+</tr>
+<tr>
+<td>32,000 – 47,000</td>
+<td>2.8</td>
+<td>1.54</td>
+</tr>
+<tr>
+<td>47,000 – 51,000</td>
+<td>0.0</td>
+<td>0.0</td>
+</tr>
+<tr>
+<td>51,000 – 71,000</td>
+<td>−2.8</td>
+<td>−1.54</td>
+</tr>
+<tr>
+<td>71,000 – 85,000</td>
+<td>−2.0</td>
+<td>−1.09</td>
+</tr>
+</table>
+<p>The ELR assumes the atmosphere is still, but as air is heated it becomes buoyant and rises. The dry adiabatic lapse rate accounts for the effect of the expansion of dry air as it rises in the atmosphere and wet adiabatic lapse rates includes the effect of the condensation of water vapor on the lapse rate.</p>
+<p>When a parcel of air rises, it expands, because the pressure is lower at higher altitudes. As the air parcel expands, it pushes the surrounding air outward, transferring energy in the form of <a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">work</a> from that parcel to the atmosphere. As energy transfer to a parcel of air by way of heat is very slow, it is assumed to not exchange energy by way of <a href="/wiki/Heat" title="Heat">heat</a> with the environment. Such a process is called an <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic</a> process (no energy transfer by way of heat). Since the rising parcel of air is losing energy as it does work on the surrounding atmosphere and no energy is transferred into it as heat from the atmosphere to make up for the loss, the parcel of air is losing energy, which manifests itself as a decrease in the temperature of the air parcel. The reverse, of course, will be true for a parcel of air that is sinking and is being compressed.<sup class="reference" id="cite_ref-DLA_3-2"><a href="#cite_note-DLA-3">[3]</a></sup></p>
+<p>Since the process of compression and expansion of an air parcel can be considered reversible and no energy is transferred into or out of the parcel, such a process is considered <a class="mw-redirect" href="/wiki/Isentropic" title="Isentropic">isentropic</a>, meaning that there is no change in entropy as the air parcel rises and falls, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>S</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dS=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle dS=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/15c1728539a5b8dba9c2cffa8699790c6ae7a1b9" style="vertical-align: -0.338ex; width:7.018ex; height:2.176ex;"/></span>. Since the heat exchanged <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>Q</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dQ=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle dQ=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ee53cc3d2f9a6817debe5cc6f35b60a87ed10718" style="vertical-align: -0.671ex; width:7.357ex; height:2.509ex;"/></span> is related to the <a href="/wiki/Entropy" title="Entropy">entropy</a> change <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dS}</annotation>
+</semantics>
+</math></span><img alt="dS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66f6ab8a2a8b85df78efbea896fcfeb3d4ea39e4" style="vertical-align: -0.338ex; width:2.736ex; height:2.176ex;"/></span> by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>Q</mi>
+<mo>=</mo>
+<mi>T</mi>
+<mi>d</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dQ=TdS}</annotation>
+</semantics>
+</math></span><img alt="dQ=TdS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96cabfdf54710796c16e14219e69f3ae33240c65" style="vertical-align: -0.671ex; width:10.567ex; height:2.509ex;"/></span>, the equation governing the temperature as a function of height for a thoroughly mixed atmosphere is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>S</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {dS}{dz}}=0}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {dS}{dz}}=0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7a8797af97283e78aeed39595da7ce73e177a1a7" style="vertical-align: -2.005ex; width:7.854ex; height:5.509ex;"/></span></dd>
+</dl>
+<p>where <i>S</i> is the <a href="/wiki/Entropy" title="Entropy">entropy</a>. The above equation states that the entropy of the atmosphere does not change with height. The rate at which temperature decreases with height under such conditions is called the adiabatic <a href="/wiki/Lapse_rate" title="Lapse rate">lapse rate</a>.</p>
+<p>For <i>dry</i> air, which is approximately an <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a>, we can proceed further. The adiabatic equation for an ideal gas is <sup class="reference" id="cite_ref-LL1_5-0"><a href="#cite_note-LL1-5">[5]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mi>T</mi>
+<mo stretchy="false">(</mo>
+<mi>z</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>γ<!-- γ --></mi>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</mrow>
+</msup>
+<mo>=</mo>
+<mi>c</mi>
+<mi>o</mi>
+<mi>n</mi>
+<mi>s</mi>
+<mi>t</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>t</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p(z)T(z)^{-{\frac {\gamma }{\gamma -1}}}=constant}</annotation>
+</semantics>
+</math></span><img alt="p(z)T(z)^{{-{\frac  {\gamma }{\gamma -1}}}}=constant" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fbb812285b8a38e107dd8ad04c603f1dc6be9cd7" style="vertical-align: -0.838ex; margin-left: -0.079ex; width:25.681ex; height:4.343ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>γ<!-- γ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \gamma }</annotation>
+</semantics>
+</math></span><img alt="\gamma " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a223c880b0ce3da8f64ee33c4f0010beee400b1a" style="vertical-align: -0.838ex; width:1.273ex; height:2.176ex;"/></span> is the <a href="/wiki/Heat_capacity_ratio" title="Heat capacity ratio">heat capacity ratio</a> (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>γ<!-- γ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \gamma }</annotation>
+</semantics>
+</math></span><img alt="\gamma " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a223c880b0ce3da8f64ee33c4f0010beee400b1a" style="vertical-align: -0.838ex; width:1.273ex; height:2.176ex;"/></span>=7/5, for air). Combining with the equation for the pressure, one arrives at the <a href="/wiki/Lapse_rate#Dry_adiabatic_lapse_rate" title="Lapse rate">dry adiabatic lapse rate</a>,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>T</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>m</mi>
+<mi>g</mi>
+</mrow>
+<mi>R</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mi>γ<!-- γ --></mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msup>
+<mn>9.8</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>∘<!-- ∘ --></mo>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">k</mi>
+<mi mathvariant="normal">m</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {dT}{dz}}=-{\frac {mg}{R}}{\frac {\gamma -1}{\gamma }}=-9.8^{\circ }\mathrm {C} /\mathrm {km} }</annotation>
+</semantics>
+</math></span><img alt="{\frac  {dT}{dz}}=-{\frac  {mg}{R}}{\frac  {\gamma -1}{\gamma }}=-9.8^{{\circ }}{\mathrm  {C}}/{\mathrm  {km}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/205a2a905a69ab9a7810f5335ac0a65611f9fbb6" style="vertical-align: -2.338ex; width:33.821ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>If the air contains <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a>, then cooling of the air can cause the water to condense, and the behavior is no longer that of an ideal gas. If the air is at the <a class="mw-redirect" href="/wiki/Saturation_vapor_pressure" title="Saturation vapor pressure">saturated vapor pressure</a>, then the rate at which temperature drops with height is called the <a href="/wiki/Lapse_rate#Saturated_adiabatic_lapse_rate" title="Lapse rate">saturated adiabatic lapse rate</a>. More generally, the actual rate at which the temperature drops with altitude is called the <a href="/wiki/Lapse_rate#Environmental_lapse_rate" title="Lapse rate">environmental lapse rate</a>. In the troposphere, the average environmental lapse rate is a drop of about 6.5 °C for every 1 km (1,000 meters) in increased height.<sup class="reference" id="cite_ref-DLA_3-3"><a href="#cite_note-DLA-3">[3]</a></sup></p>
+<p>The environmental lapse rate (the actual rate at which temperature drops with height, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>d</mi>
+<mi>z</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dT/dz}</annotation>
+</semantics>
+</math></span><img alt="dT/dz" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66bc8e6b877b7cf93d634e47fbe4a2c02cea45e4" style="vertical-align: -0.838ex; width:6.371ex; height:2.843ex;"/></span>) is not usually equal to the adiabatic lapse rate (or correspondingly, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>d</mi>
+<mi>z</mi>
+<mo>≠<!-- ≠ --></mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dS/dz\neq 0}</annotation>
+</semantics>
+</math></span><img alt="dS/dz\neq 0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5ae0d2a4d84dedcffc9b9aba41a5528bbc2c5fdd" style="vertical-align: -0.838ex; width:10.516ex; height:2.843ex;"/></span>). If the upper air is warmer than predicted by the adiabatic lapse rate (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>d</mi>
+<mi>z</mi>
+<mo>&gt;</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dS/dz&gt;0}</annotation>
+</semantics>
+</math></span><img alt="dS/dz&gt;0" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5015c1f973a632f4534085c97777371bb2849239" style="vertical-align: -0.838ex; width:10.516ex; height:2.843ex;"/></span>), then when a parcel of air rises and expands, it will arrive at the new height at a lower temperature than its surroundings. In this case, the air parcel is denser than its surroundings, so it sinks back to its original height, and the air is stable against being lifted. If, on the contrary, the upper air is cooler than predicted by the adiabatic lapse rate, then when the air parcel rises to its new height it will have a higher temperature and a lower density than its surroundings, and will continue to accelerate upward.<sup class="reference" id="cite_ref-DLA_3-4"><a href="#cite_note-DLA-3">[3]</a></sup><sup class="reference" id="cite_ref-LL_4-1"><a href="#cite_note-LL-4">[4]</a></sup></p>
+<p>The troposphere is heated from below by <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a>, <a href="/wiki/Outgoing_longwave_radiation" title="Outgoing longwave radiation">longwave radiation</a>, and <a href="/wiki/Sensible_heat" title="Sensible heat">sensible heat</a>. Surplus heating and vertical expansion of the troposphere occurs in the tropics. At middle latitudes, tropospheric temperatures decrease from an average of 15 °C at sea level to about −55 °C at the <a href="/wiki/Tropopause" title="Tropopause">tropopause</a>. At the <a href="/wiki/Geographical_pole" title="Geographical pole">poles</a>, tropospheric temperature only decreases from an average of 0 °C at sea level to about −45 °C at the tropopause. At the <a href="/wiki/Equator" title="Equator">equator</a>, tropospheric temperatures decrease from an average of 20 °C at sea level to about −70 to −75 °C at the tropopause. The troposphere is thinner at the poles and thicker at the equator. The average thickness of the tropical tropopause is roughly 7 kilometers greater than the average tropopause thickness at the poles.<sup class="reference" id="cite_ref-ZonalFlowDef_7-0"><a href="#cite_note-ZonalFlowDef-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Tropopause">Tropopause</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=5" title="Edit section: Tropopause">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Tropopause" title="Tropopause">Tropopause</a></div>
+<p>The tropopause is the boundary region between the troposphere and the <a href="/wiki/Stratosphere" title="Stratosphere">stratosphere</a>.</p>
+<p>Measuring the temperature change with height through the troposphere and the stratosphere identifies the location of the tropopause. In the troposphere, temperature decreases with altitude. In the stratosphere, however, the temperature remains constant for a while and then increases with altitude. The region of the atmosphere where the lapse rate changes from positive (in the troposphere) to negative (in the stratosphere), is defined as the tropopause.<sup class="reference" id="cite_ref-DLA_3-5"><a href="#cite_note-DLA-3">[3]</a></sup> Thus, the tropopause is an <a href="/wiki/Inversion_(meteorology)" title="Inversion (meteorology)">inversion layer</a>, and there is little mixing between the two layers of the atmosphere.</p>
+<h2><span class="mw-headline" id="Atmospheric_flow">Atmospheric flow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=6" title="Edit section: Atmospheric flow">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The flow of the atmosphere generally moves in a west to east direction. This, however, can often become interrupted, creating a more north to south or south to north flow. These scenarios are often described in meteorology as zonal or meridional. These terms, however, tend to be used in reference to localised areas of atmosphere (at a <a class="mw-redirect" href="/wiki/Synoptic_scale" title="Synoptic scale">synoptic scale</a>). A fuller explanation of the flow of atmosphere around the Earth as a whole can be found in the three-cell model.</p>
+<h3><span class="mw-headline" id="Zonal_flow">Zonal flow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=7" title="Edit section: Zonal flow">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Zonalflow.gif"><img alt="" class="thumbimage" data-file-height="265" data-file-width="413" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Zonalflow.gif/250px-Zonalflow.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Zonalflow.gif/375px-Zonalflow.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/0/0c/Zonalflow.gif 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Zonalflow.gif" title="Enlarge"></a></div>
+A <a class="mw-redirect" href="/wiki/Zonal_flow_regime" title="Zonal flow regime">zonal flow regime</a>. Note the dominant west-to-east flow as shown in the 500 hPa height pattern.</div>
+</div>
+</div>
+<p>A <a class="mw-redirect" href="/wiki/Zonal_flow_regime" title="Zonal flow regime">zonal flow regime</a> is the <a href="/wiki/Meteorology" title="Meteorology">meteorological</a> term meaning that the general flow pattern is west to east along the Earth's latitude lines, with weak shortwaves embedded in the flow.<sup class="reference" id="cite_ref-ZonalFlowDef2_8-0"><a href="#cite_note-ZonalFlowDef2-8">[8]</a></sup> The use of the word "zone" refers to the flow being along the Earth's latitudinal "zones". This pattern can buckle and thus become a meridional flow.</p>
+<h3><span class="mw-headline" id="Meridional_flow">Meridional flow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=8" title="Edit section: Meridional flow">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Meridionalflowpattern.jpg"><img alt="" class="thumbimage" data-file-height="475" data-file-width="500" height="238" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Meridionalflowpattern.jpg/250px-Meridionalflowpattern.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Meridionalflowpattern.jpg/375px-Meridionalflowpattern.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/4c/Meridionalflowpattern.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Meridionalflowpattern.jpg" title="Enlarge"></a></div>
+Meridional Flow pattern of October 23, 2003. Note the amplified troughs and ridges in this 500 hPa height pattern.</div>
+</div>
+</div>
+<p>When the zonal flow buckles, the atmosphere can flow in a more longitudinal (or meridional) direction, and thus the term "<a href="/wiki/Meridional_flow" title="Meridional flow">meridional flow</a>" arises. Meridional flow patterns feature strong, amplified troughs of low pressure and ridges of high pressure, with more north-south flow in the general pattern than west-to-east flow.<sup class="reference" id="cite_ref-MeridonialFlow_9-0"><a href="#cite_note-MeridonialFlow-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Three-cell_model">Three-cell model</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=9" title="Edit section: Three-cell model">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:AtmosphCirc2.png"><img alt="" class="thumbimage" data-file-height="507" data-file-width="576" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AtmosphCirc2.png/200px-AtmosphCirc2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AtmosphCirc2.png/300px-AtmosphCirc2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cd/AtmosphCirc2.png/400px-AtmosphCirc2.png 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:AtmosphCirc2.png" title="Enlarge"></a></div>
+Atmospheric circulation shown with three large cells.</div>
+</div>
+</div>
+<p>The three cells model of the atmosphere attempts to describe the actual flow of the Earth's atmosphere as a whole. It divides the Earth into the tropical (<a href="/wiki/Hadley_cell" title="Hadley cell">Hadley cell</a>), mid latitude (<a class="mw-redirect" href="/wiki/Ferrel_cell" title="Ferrel cell">Ferrel cell</a>), and polar (<a href="/wiki/Polar_vortex" title="Polar vortex">polar cell</a>) regions, to describe energy flow and global atmospheric circulation (mass flow). Its fundamental principle is that of balance – the energy that the Earth absorbs from the sun each year is equal to that which it loses to space by radiation. This overall Earth energy balance, however, does not apply in each latitude due to the varying strength of the sun in each "cell" as a result of the tilt of the Earth's axis in relation to its orbit. The result is a circulation of the atmosphere that transports warm air poleward from the tropics and cold air equatorward from the poles. The effect of the three cells is the tendency to even out the heat and moisture in the Earth's atmosphere around the planet<b>.<sup class="reference" id="cite_ref-ThreecellEncarta_10-0"><a href="#cite_note-ThreecellEncarta-10">[10]</a></sup></b></p>
+<h2><span class="mw-headline" id="Synoptic_scale_observations_and_concepts">Synoptic scale observations and concepts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=10" title="Edit section: Synoptic scale observations and concepts">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Forcing">Forcing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=11" title="Edit section: Forcing">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Forcing is a term used by meteorologists to describe the situation where a change or an event in one part of the atmosphere causes a strengthening change in another part of the atmosphere. It is usually used to describe connections between upper, middle or lower levels (such as upper-level divergence causing lower level convergence in cyclone formation), but also be to describe such connections over lateral distance rather than height alone. In some respects, <a href="/wiki/Teleconnection" title="Teleconnection">teleconnections</a> could be considered a type of forcing.</p>
+<h3><span class="mw-headline" id="Divergence_and_convergence">Divergence and convergence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=12" title="Edit section: Divergence and convergence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>An area of convergence is one in which the total mass of air is increasing with time, resulting in an increase in pressure at locations below the convergence level (recall that atmospheric pressure is just the total weight of air above a given point). Divergence is the opposite of convergence – an area where the total mass of air is decreasing with time, resulting in falling pressure in regions below the area of divergence. Where divergence is occurring in the upper atmosphere, there will be air coming in to try to balance the net loss of mass (this is called the principle of mass conservation), and there is a resulting upward motion (positive vertical velocity). Another way to state this is to say that regions of upper air divergence are conducive to lower level convergence, cyclone formation, and positive vertical velocity. Therefore, identifying regions of upper air divergence is an important step in forecasting the formation of a surface low pressure area.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=13" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="icon" class="noviewer" data-file-height="600" data-file-width="800" height="24" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/32px-Cumulus_clouds_in_fair_weather.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/48px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/64px-Cumulus_clouds_in_fair_weather.jpeg 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Atmospheric_sciences" title="Portal:Atmospheric sciences">Atmospheric sciences portal</a></span></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">.nasa.gov/gallery/images/shuttle/sts-130/html/iss022e062672.html|publisher=NASA|accessdate=21 September 2012}}</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">McGraw-Hill Concise Encyclopedia of Science &amp; Technology. (1984). Troposphere. "It contains about four-fifths of the mass of the whole atmosphere."</span></li>
+<li id="cite_note-DLA-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-DLA_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DLA_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-DLA_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-DLA_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-DLA_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-DLA_3-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text">Danielson, Levin, and Abrams, <i>Meteorology</i>, McGraw Hill, 2003</span></li>
+<li id="cite_note-LL-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-LL_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-LL_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Landau and Lifshitz, <i>Fluid Mechanics</i>, Pergamon, 1979</span></li>
+<li id="cite_note-LL1-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-LL1_5-0">^</a></b></span> <span class="reference-text">Landau and Lifshitz, <i>Statistical Physics Part 1</i>, Pergamon, 1980</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Kittel and Kroemer, <i>Thermal Physics</i>, Freeman, 1980; chapter 6, problem 11</span></li>
+<li id="cite_note-ZonalFlowDef-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-ZonalFlowDef_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Paul E. Lydolph (1985). "The Climate of the Earth". Rowman and Littlefield Publishers Inc. p. 12.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATroposphere&amp;rft.au=Paul+E.+Lydolph&amp;rft.btitle=The+Climate+of+the+Earth&amp;rft.date=1985&amp;rft.genre=unknown&amp;rft.pages=12&amp;rft.pub=Rowman+and+Littlefield+Publishers+Inc.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%">Missing or empty <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#cite_web_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-ZonalFlowDef2-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-ZonalFlowDef2_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=zonal-flow1" rel="nofollow">"American Meteorological Society Glossary – Zonal Flow"</a>. Allen Press Inc. June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-10-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATroposphere&amp;rft.btitle=American+Meteorological+Society+Glossary+%E2%80%93+Zonal+Flow&amp;rft.date=2000-06&amp;rft.genre=unknown&amp;rft.pub=Allen+Press+Inc.&amp;rft_id=http%3A%2F%2Famsglossary.allenpress.com%2Fglossary%2Fsearch%3Fid%3Dzonal-flow1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-MeridonialFlow-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-MeridonialFlow_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=meridional-flow1" rel="nofollow">"American Meteorological Society Glossary – Meridional Flow"</a>. Allen Press Inc. June 2000<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-10-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATroposphere&amp;rft.btitle=American+Meteorological+Society+Glossary+%E2%80%93+Meridional+Flow&amp;rft.date=2000-06&amp;rft.genre=unknown&amp;rft.pub=Allen+Press+Inc.&amp;rft_id=http%3A%2F%2Famsglossary.allenpress.com%2Fglossary%2Fsearch%3Fid%3Dmeridional-flow1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ThreecellEncarta-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-ThreecellEncarta_10-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://www.webcitation.org/5kwbSx0AG" rel="nofollow">"Meteorology – MSN Encarta, "Energy Flow and Global Circulation<span style="padding-right:0.2em;">"</span>"</a>. Encarta.Msn.com. Archived from <a class="external text" href="http://encarta.msn.com/encyclopedia_761571037_3/Meteorology.html#s12" rel="nofollow">the original</a> on 2009-10-31<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-10-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATroposphere&amp;rft.btitle=Meteorology+%E2%80%93+MSN+Encarta%2C+%22Energy+Flow+and+Global+Circulation%22&amp;rft.genre=unknown&amp;rft.pub=Encarta.Msn.com&amp;rft_id=http%3A%2F%2Fencarta.msn.com%2Fencyclopedia_761571037_3%2FMeteorology.html%23s12&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Troposphere&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/Special:Search/troposphere" title="wiktionary:Special:Search/troposphere">troposphere</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.srh.noaa.gov/jetstream/atmos/layers.html" rel="nofollow">U.S. National Weather Service – Layers of the Atmosphere</a></li>
+<li><a class="external text" href="http://jan.ucc.nau.edu/~doetqp-p/courses/env440/env440_2/lectures/lec32/lec32.htm" rel="nofollow">Chemical Reactions in the Atmosphere</a></li>
+</ul>
+<div aria-labelledby="Earth.27s_atmosphere" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Earth%27s_atmosphere" title="Template:Earth's atmosphere"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Earth%27s_atmosphere" title="Template talk:Earth's atmosphere"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Earth%27s_atmosphere&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Earth.27s_atmosphere" style="font-size:114%;margin:0 4em"><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Earth's atmosphere</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Troposphere</a></li>
+<li><a href="/wiki/Stratosphere" title="Stratosphere">Stratosphere</a></li>
+<li><a href="/wiki/Mesosphere" title="Mesosphere">Mesosphere</a></li>
+<li><a href="/wiki/Thermosphere" title="Thermosphere">Thermosphere</a></li>
+<li><a href="/wiki/Exosphere" title="Exosphere">Exosphere</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-even hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tropopause" title="Tropopause">Tropopause</a></li>
+<li><a href="/wiki/Stratopause" title="Stratopause">Stratopause</a></li>
+<li><a href="/wiki/Mesopause" title="Mesopause">Mesopause</a></li>
+<li><a href="/wiki/Thermopause" title="Thermopause">Thermopause</a> / <a class="mw-redirect" href="/wiki/Exobase" title="Exobase">Exobase</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Ozone_layer" title="Ozone layer">Ozone layer</a></li>
+<li><a href="/wiki/Turbopause" title="Turbopause">Turbopause</a></li>
+<li><a href="/wiki/Ionosphere" title="Ionosphere">Ionosphere</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4061018-4" rel="nofollow">4061018-4</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/01200546" rel="nofollow">01200546</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1328
+Cached time: 20171001043423
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.232 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 809/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 17565/2097152 bytes
+Template argument size: 261/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Lua time usage: 0.101/10.000 seconds
+Lua memory usage: 4.37 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  234.885      1 -total
+ 26.89%   63.166      1 Template:Reflist
+ 26.79%   62.916      5 Template:Convert
+ 20.20%   47.451      4 Template:Cite_web
+ 12.56%   29.503      1 Template:Lang-el
+ 12.39%   29.102      1 Template:Authority_control
+ 11.91%   27.979      1 Template:Language_with_name_and_transliteration
+ 11.00%   25.843      1 Template:Lang
+ 10.11%   23.736      1 Template:Category_handler
+  4.62%   10.848      2 Template:Main_article
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:41822-0!canonical!math=5 and timestamp 20171001043423 and revision id 801351017
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Troposphere&amp;oldid=801351017">https://en.wikipedia.org/w/index.php?title=Troposphere&amp;oldid=801351017</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Atmosphere" title="Category:Atmosphere">Atmosphere</a></li><li><a href="/wiki/Category:Atmosphere_of_Earth" title="Category:Atmosphere of Earth">Atmosphere of Earth</a></li><li><a href="/wiki/Category:Atmospheric_thermodynamics" title="Category:Atmospheric thermodynamics">Atmospheric thermodynamics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_web_citations_with_no_URL" title="Category:Pages using web citations with no URL">Pages using web citations with no URL</a></li><li><a href="/wiki/Category:Articles_containing_Greek-language_text" title="Category:Articles containing Greek-language text">Articles containing Greek-language text</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Troposphere" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Troposphere" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Troposphere" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Troposphere" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Troposphere">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Troposphere&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Troposphere&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Troposphere" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Troposphere" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Troposphere&amp;oldid=801351017" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Troposphere&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q40631" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Troposphere&amp;id=801351017" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Troposphere">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Troposphere&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DTroposphere%26returnto%3DTroposphere%26oldid%3D801351017%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Troposphere&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D8%B1%D9%88%D8%A8%D9%88%D8%B3%D9%81%D9%8A%D8%B1" hreflang="ar" lang="ar" title="تروبوسفير – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Troposfer" hreflang="az" lang="az" title="Troposfer – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A2%D1%80%D0%B0%D0%BF%D0%B0%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="be" lang="be" title="Трапасфера – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="bg" lang="bg" title="Тропосфера – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bo"><a class="interlanguage-link-target" href="https://bo.wikipedia.org/wiki/%E0%BD%A0%E0%BD%90%E0%BD%96%E0%BC%8B%E0%BD%A2%E0%BE%92%E0%BE%B1%E0%BD%B4%E0%BD%82%E0%BC%8B%E0%BD%A2%E0%BD%B2%E0%BD%98%E0%BC%8D" hreflang="bo" lang="bo" title="འཐབ་རྒྱུག་རིམ། – Tibetan">བོད་ཡིག</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Troposfera" hreflang="bs" lang="bs" title="Troposfera – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Troposfera" hreflang="ca" lang="ca" title="Troposfera – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="cv" lang="cv" title="Тропосфера – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Troposf%C3%A9ra" hreflang="cs" lang="cs" title="Troposféra – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Troposf%C3%A6re" hreflang="da" lang="da" title="Troposfære – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Troposph%C3%A4re" hreflang="de" lang="de" title="Troposphäre – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Troposf%C3%A4%C3%A4r" hreflang="et" lang="et" title="Troposfäär – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CF%81%CE%BF%CF%80%CF%8C%CF%83%CF%86%CE%B1%CE%B9%CF%81%CE%B1" hreflang="el" lang="el" title="Τροπόσφαιρα – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Troposfera" hreflang="es" lang="es" title="Troposfera – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Troposfero" hreflang="eo" lang="eo" title="Troposfero – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Troposfera" hreflang="eu" lang="eu" title="Troposfera – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B1%D9%88%D9%BE%D9%88%D8%B3%D9%81%D8%B1" hreflang="fa" lang="fa" title="تروپوسفر – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Troposph%C3%A8re" hreflang="fr" lang="fr" title="Troposphère – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Tr%C3%B3paisf%C3%A9ar" hreflang="ga" lang="ga" title="Trópaisféar – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Troposfera" hreflang="gl" lang="gl" title="Troposfera – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%8C%80%EB%A5%98%EA%B6%8C" hreflang="ko" lang="ko" title="대류권 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%86%D5%A5%D6%80%D6%84%D5%B6%D5%B8%D5%AC%D5%B8%D6%80%D5%BF" hreflang="hy" lang="hy" title="Ներքնոլորտ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%8B%E0%A4%AD%E0%A4%AE%E0%A4%A3%E0%A5%8D%E0%A4%A1%E0%A4%B2" hreflang="hi" lang="hi" title="क्षोभमण्डल – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Troposfera" hreflang="hr" lang="hr" title="Troposfera – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Troposfer" hreflang="id" lang="id" title="Troposfer – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Troposphera" hreflang="ia" lang="ia" title="Troposphera – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Ve%C3%B0rahvolf" hreflang="is" lang="is" title="Veðrahvolf – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Troposfera" hreflang="it" lang="it" title="Troposfera – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%98%D7%A8%D7%95%D7%A4%D7%95%D7%A1%D7%A4%D7%99%D7%A8%D7%94" hreflang="he" lang="he" title="טרופוספירה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Troposfer" hreflang="jv" lang="jv" title="Troposfer – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A2%E1%83%A0%E1%83%9D%E1%83%9E%E1%83%9D%E1%83%A1%E1%83%A4%E1%83%94%E1%83%A0%E1%83%9D" hreflang="ka" lang="ka" title="ტროპოსფერო – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="kk" lang="kk" title="Тропосфера – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Troposfia" hreflang="sw" lang="sw" title="Troposfia – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Twoposf%C3%A8" hreflang="ht" lang="ht" title="Twoposfè – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="ky" lang="ky" title="Тропосфера – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Troposf%C4%93ra" hreflang="lv" lang="lv" title="Troposfēra – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Troposph%C3%A4r" hreflang="lb" lang="lb" title="Troposphär – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Troposfera" hreflang="lt" lang="lt" title="Troposfera – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Troposzf%C3%A9ra" hreflang="hu" lang="hu" title="Troposzféra – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="mk" lang="mk" title="Тропосфера – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-mg"><a class="interlanguage-link-target" href="https://mg.wikipedia.org/wiki/Sosom-pikoriana" hreflang="mg" lang="mg" title="Sosom-pikoriana – Malagasy">Malagasy</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AD%E0%B5%82%E0%B4%B8%E0%B5%8D%E0%B4%AA%E0%B5%BC%E0%B4%B6%E0%B4%AE%E0%B4%A3%E0%B5%8D%E0%B4%A1%E0%B4%B2%E0%B4%82" hreflang="ml" lang="ml" title="ഭൂസ്പർശമണ്ഡലം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%A4%E0%A4%AA%E0%A4%BE%E0%A4%82%E0%A4%AC%E0%A4%B0" hreflang="mr" lang="mr" title="तपांबर – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Troposfera" hreflang="ms" lang="ms" title="Troposfera – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-my"><a class="interlanguage-link-target" href="https://my.wikipedia.org/wiki/%E1%80%91%E1%80%9B%E1%80%AD%E1%80%AF%E1%80%95%E1%80%AD%E1%80%AF%E1%80%85%E1%80%96%E1%80%AE%E1%80%B8%E1%80%9A%E1%80%AC%E1%80%B8_%E1%80%A1%E1%80%9C%E1%80%BD%E1%80%BE%E1%80%AC" hreflang="my" lang="my" title="ထရိုပိုစဖီးယား အလွှာ – Burmese">မြန်မာဘာသာ</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Troposfeer" hreflang="nl" lang="nl" title="Troposfeer – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%AF%BE%E6%B5%81%E5%9C%8F" hreflang="ja" lang="ja" title="対流圏 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Troposf%C3%A6ren" hreflang="no" lang="no" title="Troposfæren – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Troposf%C3%A6ren" hreflang="nn" lang="nn" title="Troposfæren – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Troposf%C3%A8ra" hreflang="oc" lang="oc" title="Troposfèra – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Troposfera" hreflang="pl" lang="pl" title="Troposfera – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Troposfera" hreflang="pt" lang="pt" title="Troposfera – Portuguese">Português</a></li><li class="interlanguage-link interwiki-kaa"><a class="interlanguage-link-target" href="https://kaa.wikipedia.org/wiki/Troposfera" hreflang="kaa" lang="kaa" title="Troposfera – Kara-Kalpak">Qaraqalpaqsha</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Troposfer%C4%83" hreflang="ro" lang="ro" title="Troposferă – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="ru" lang="ru" title="Тропосфера – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Troposphere" hreflang="sco" lang="sco" title="Troposphere – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Troposfera" hreflang="sq" lang="sq" title="Troposfera – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Trupusfera" hreflang="scn" lang="scn" title="Trupusfera – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%B4%E0%B6%BB%E0%B7%92%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%AD%E0%B7%93_%E0%B6%9C%E0%B7%9D%E0%B6%BD%E0%B6%BA" hreflang="si" lang="si" title="පරිවර්තී ගෝලය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Troposphere" hreflang="simple" lang="simple" title="Troposphere – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Troposf%C3%A9ra" hreflang="sk" lang="sk" title="Troposféra – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Troposfera" hreflang="sl" lang="sl" title="Troposfera – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="sr" lang="sr" title="Тропосфера – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Troposfera" hreflang="sh" lang="sh" title="Troposfera – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Troposf%C3%A4%C3%A4ri" hreflang="fi" lang="fi" title="Troposfääri – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Troposf%C3%A4r" hreflang="sv" lang="sv" title="Troposfär – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%9F%E0%AE%BF%E0%AE%B5%E0%AE%B3%E0%AE%BF%E0%AE%AE%E0%AE%A3%E0%AF%8D%E0%AE%9F%E0%AE%B2%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="அடிவளிமண்டலம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="tt" lang="tt" title="Тропосфера – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%82%E0%B8%97%E0%B8%A3%E0%B9%82%E0%B8%9E%E0%B8%AA%E0%B9%80%E0%B8%9F%E0%B8%B5%E0%B8%A2%E0%B8%A3%E0%B9%8C" hreflang="th" lang="th" title="โทรโพสเฟียร์ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-chr"><a class="interlanguage-link-target" href="https://chr.wikipedia.org/wiki/%E1%8F%A7%E1%8E%B6%E1%8E%A9%E1%8E%B8" hreflang="chr" lang="chr" title="ᏧᎶᎩᎸ – Cherokee">ᏣᎳᎩ</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Troposfer" hreflang="tr" lang="tr" title="Troposfer – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-tk"><a class="interlanguage-link-target" href="https://tk.wikipedia.org/wiki/Troposfera" hreflang="tk" lang="tk" title="Troposfera – Turkmen">Türkmençe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%BF%D0%BE%D1%81%D1%84%D0%B5%D1%80%D0%B0" hreflang="uk" lang="uk" title="Тропосфера – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%DA%A9%D8%B1%DB%82_%D9%85%D8%AA%D8%BA%DB%8C%D8%B1%DB%81" hreflang="ur" lang="ur" title="کرۂ متغیرہ – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/T%E1%BA%A7ng_%C4%91%E1%BB%91i_l%C6%B0u" hreflang="vi" lang="vi" title="Tầng đối lưu – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wo"><a class="interlanguage-link-target" href="https://wo.wikipedia.org/wiki/Fatt-jawwu" hreflang="wo" lang="wo" title="Fatt-jawwu – Wolof">Wolof</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%B0%8D%E6%B5%81%E5%B1%A4" hreflang="zh-yue" lang="zh-yue" title="對流層 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%AF%B9%E6%B5%81%E5%B1%82" hreflang="zh" lang="zh" title="对流层 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q40631#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 19 September 2017, at 04:37.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Troposphere&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.232","walltime":"0.374","ppvisitednodes":{"value":809,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":17565,"limit":2097152},"templateargumentsize":{"value":261,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  234.885      1 -total"," 26.89%   63.166      1 Template:Reflist"," 26.79%   62.916      5 Template:Convert"," 20.20%   47.451      4 Template:Cite_web"," 12.56%   29.503      1 Template:Lang-el"," 12.39%   29.102      1 Template:Authority_control"," 11.91%   27.979      1 Template:Language_with_name_and_transliteration"," 11.00%   25.843      1 Template:Lang"," 10.11%   23.736      1 Template:Category_handler","  4.62%   10.848      2 Template:Main_article"]},"scribunto":{"limitreport-timeusage":{"value":"0.101","limit":"10.000"},"limitreport-memusage":{"value":4581178,"limit":52428800}},"cachereport":{"origin":"mw1328","timestamp":"20171001043423","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":83,"wgHostname":"mw1247"});});</script>
+</body>
+</html>

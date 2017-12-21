@@ -1,0 +1,402 @@
+https://en.wikipedia.org/wiki/Drizzle
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Drizzle - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Drizzle","wgTitle":"Drizzle","wgCurRevisionId":794699859,"wgRevisionId":794699859,"wgArticleId":1980717,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from December 2012","All articles needing additional references","Precipitation","Rain"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Drizzle","wgRelevantArticleId":1980717,"wgRequestId":"WdBj1wpAIDMAABwLtvYAAABR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q211521","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Drizzle" rel="alternate"/>
+<link href="/w/index.php?title=Drizzle&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Drizzle&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Drizzle" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Drizzle rootpage-Drizzle vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Drizzle</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Drizzle_(disambiguation)" title="Drizzle (disambiguation)">Drizzle (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Drizzle&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(December 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of the <a href="/wiki/Nature" title="Nature">nature</a> series</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Weather" title="Weather">Weather</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Season" title="Season">Calendar seasons</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Winter" title="Winter">Winter</a></li>
+<li><a href="/wiki/Spring_(season)" title="Spring (season)">Spring</a></li>
+<li><a href="/wiki/Summer" title="Summer">Summer</a></li>
+<li><a href="/wiki/Autumn" title="Autumn">Autumn</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Tropics" title="Tropics">Tropical seasons</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Dry_season" title="Dry season">Dry season</a></li>
+<li><a href="/wiki/Wet_season" title="Wet season">Wet season</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Storm" title="Storm">Storms</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cumulonimbus_cloud" title="Cumulonimbus cloud">Cumulonimbus cloud</a></li>
+<li><a href="/wiki/Arcus_cloud" title="Arcus cloud">Arcus cloud</a></li>
+<li><a href="/wiki/Downburst" title="Downburst">Downburst</a></li>
+<li><a href="/wiki/Microburst" title="Microburst">Microburst</a></li>
+<li><a href="/wiki/Heat_burst" title="Heat burst">Heat burst</a></li>
+<li><a href="/wiki/Dust_storm" title="Dust storm">Dust storm</a></li>
+<li><a href="/wiki/Simoom" title="Simoom">Simoom</a></li>
+<li><a href="/wiki/Haboob" title="Haboob">Haboob</a></li>
+<li><a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></li>
+<li><a href="/wiki/Gale" title="Gale">Gale</a></li>
+<li><a href="/wiki/Sirocco" title="Sirocco">Sirocco</a></li>
+<li><a href="/wiki/Firestorm" title="Firestorm">Firestorm</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a href="/wiki/Supercell" title="Supercell">Supercell</a></li>
+<li><a href="/wiki/Thunderstorm" title="Thunderstorm">Thunderstorm</a></li>
+<li><a class="mw-redirect" href="/wiki/Severe_thunderstorm" title="Severe thunderstorm">Severe thunderstorm</a></li>
+<li><a href="/wiki/Thundersnow" title="Thundersnow">Thundersnow</a></li>
+<li><a href="/wiki/Storm_surge" title="Storm surge">Storm surge</a></li>
+<li><a href="/wiki/Tornado" title="Tornado">Tornado</a></li>
+<li><a href="/wiki/Cyclone" title="Cyclone">Cyclone</a></li>
+<li><a href="/wiki/Mesocyclone" title="Mesocyclone">Mesocyclone</a></li>
+<li><a href="/wiki/Anticyclone" title="Anticyclone">Anticyclone</a></li>
+<li><a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical cyclone (Hurricane)</a></li>
+<li><a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">Extratropical cyclone</a></li>
+<li><a href="/wiki/European_windstorm" title="European windstorm">European windstorm</a></li>
+<li><a class="mw-redirect" href="/wiki/Atlantic_Hurricane" title="Atlantic Hurricane">Atlantic Hurricane</a></li>
+<li><a href="/wiki/Typhoon" title="Typhoon">Typhoon</a></li>
+<li><a href="/wiki/Derecho" title="Derecho">Derecho</a></li>
+<li><a href="/wiki/Landspout" title="Landspout">Landspout</a></li>
+<li><a href="/wiki/Dust_devil" title="Dust devil">Dust devil</a></li>
+<li><a href="/wiki/Fire_whirl" title="Fire whirl">Fire whirl</a></li>
+<li><a href="/wiki/Waterspout" title="Waterspout">Waterspout</a></li>
+<li><a href="/wiki/Winter_storm" title="Winter storm">Winter storm</a>
+<ul>
+<li><a href="/wiki/Ice_storm" title="Ice storm">Ice storm</a></li>
+<li><a href="/wiki/Blizzard" title="Blizzard">Blizzard</a></li>
+<li><a href="/wiki/Ground_blizzard" title="Ground blizzard">Ground blizzard</a></li>
+<li><a href="/wiki/Snowsquall" title="Snowsquall">Snowsquall</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a class="mw-selflink selflink">Drizzle</a> (<a href="/wiki/Freezing_drizzle" title="Freezing drizzle">Freezing drizzle</a>)</li>
+<li><a href="/wiki/Graupel" title="Graupel">Graupel</a></li>
+<li><a href="/wiki/Hail" title="Hail">Hail</a></li>
+<li><a href="/wiki/Ice_pellets" title="Ice pellets">Ice pellets</a> (<a href="/wiki/Diamond_dust" title="Diamond dust">Diamond dust</a>)</li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a> (<a href="/wiki/Freezing_rain" title="Freezing rain">Freezing rain</a>)</li>
+<li><a href="/wiki/Cloudburst" title="Cloudburst">Cloudburst</a></li>
+<li><a href="/wiki/Snow" title="Snow">Snow</a>
+<ul>
+<li><a href="/wiki/Rain_and_snow_mixed" title="Rain and snow mixed">Rain and snow mixed</a></li>
+<li><a href="/wiki/Snow_grains" title="Snow grains">Snow grains</a></li>
+<li><a href="/wiki/Snow_roller" title="Snow roller">Snow roller</a></li>
+<li><a href="/wiki/Slush" title="Slush">Slush</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Index_of_meteorology_articles" title="Index of meteorology articles">Topics</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Atmospheric_river" title="Atmospheric river">Atmospheric river</a></li>
+<li><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Atmospheric convection</a></li>
+<li><a href="/wiki/Air_pollution" title="Air pollution">Air pollution</a></li>
+<li><a href="/wiki/Climate" title="Climate">Climate</a></li>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Cold_wave" title="Cold wave">Cold wave</a></li>
+<li><a href="/wiki/Heat_wave" title="Heat wave">Heat wave</a></li>
+<li><a href="/wiki/Jet_stream" title="Jet stream">Jet stream</a></li>
+<li><a href="/wiki/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/Severe_weather" title="Severe weather">Severe weather</a></li>
+<li><a href="/wiki/Weather_forecasting" title="Weather forecasting">Weather forecasting</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:#ccc 1px solid; border-bottom:#ccc 1px solid;"><a class="image" href="/wiki/File:Cumulus_clouds_in_fair_weather.jpeg"><img alt="Cumulus clouds in fair weather.jpeg" class="noviewer" data-file-height="600" data-file-width="800" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/16px-Cumulus_clouds_in_fair_weather.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/24px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/32px-Cumulus_clouds_in_fair_weather.jpeg 2x" width="16"/></a> <a href="/wiki/Portal:Weather" title="Portal:Weather">Weather portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Weather" title="Template:Weather"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Weather" title="Template talk:Weather"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Weather&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Drizzle</b> is a light liquid <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> consisting of liquid <a href="/wiki/Water" title="Water">water</a> drops smaller than those of <a href="/wiki/Rain" title="Rain">rain</a> – generally smaller than 0.5 mm (0.02 in) in diameter.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Drizzle is normally produced by low <a href="/wiki/Stratus_cloud" title="Stratus cloud">stratiform</a> <a href="/wiki/Cloud" title="Cloud">clouds</a> and <a href="/wiki/Stratocumulus_cloud" title="Stratocumulus cloud">stratocumulus clouds</a>. Precipitation rates from drizzle are on the order of a millimetre per day or less at the ground. Owing to the small size of drizzle drops, under many circumstances drizzle largely evaporates before reaching the surface and so may be undetected by observers on the ground. The <a href="/wiki/METAR" title="METAR">METAR</a> code for drizzle is <b>DZ</b>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Effects"><span class="tocnumber">1</span> <span class="toctext">Effects</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Occurrence"><span class="tocnumber">2</span> <span class="toctext">Occurrence</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Influence_of_aerosols"><span class="tocnumber">3</span> <span class="toctext">Influence of aerosols</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Effects">Effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drizzle&amp;action=edit&amp;section=1" title="Edit section: Effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>While most drizzle has only a minor immediate impact upon humans, <a href="/wiki/Freezing_drizzle" title="Freezing drizzle">freezing drizzle</a> can lead to treacherous conditions. Freezing drizzle occurs when supercooled drizzle drops land on a surface whose temperature is below freezing. These drops immediately freeze upon impact, leading to the buildup of sheet ice (sometimes called <a href="/wiki/Black_ice" title="Black ice">black ice</a>) on the surface of roads.</p>
+<h2><span class="mw-headline" id="Occurrence">Occurrence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drizzle&amp;action=edit&amp;section=2" title="Edit section: Occurrence">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Drizzle tends to be the most frequent form of precipitation over large areas of the world's oceans, particularly in the colder regions of the <a class="mw-redirect" href="/wiki/Subtropical" title="Subtropical">subtropics</a>. These regions are dominated by shallow marine <a href="/wiki/Stratocumulus_cloud" title="Stratocumulus cloud">stratocumulus</a> and trade wind <a href="/wiki/Cumulus_cloud" title="Cumulus cloud">cumulus</a> clouds, which exist entirely within the marine <a href="/wiki/Boundary_layer" title="Boundary layer">boundary layer</a>. Despite the low rates of surface accumulation, it has become apparent that drizzle actually exerts a major influence over the cloud structure, coverage, and radiative properties in these regions. This has motivated scientists to design more sophisticated, sensitive instruments such as high frequency <a href="/wiki/Radar" title="Radar">radars</a> that can detect drizzle. These studies have shown that the quantity of drizzle is strongly linked to cloud morphology and tends to be associated with updrafts within the marine <a href="/wiki/Boundary_layer" title="Boundary layer">boundary layer</a>. Increased amounts of drizzle tend to be found in marine clouds that form in clean airmasses that have low concentrations of cloud droplets. This interconnection between clouds and drizzle can be explored using high resolution numerical modelling such as <a href="/wiki/Large_eddy_simulation" title="Large eddy simulation">large eddy simulation</a>.</p>
+<h2><span class="mw-headline" id="Influence_of_aerosols">Influence of aerosols</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drizzle&amp;action=edit&amp;section=3" title="Edit section: Influence of aerosols">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>It has been hypothesized that increasing the amounts of <a class="mw-redirect" href="/wiki/Particulate" title="Particulate">particulates</a> in the atmosphere through human activities may lead to a suppression of drizzle. According to this hypothesis, because drizzle can be an effective means of removing moisture from a cloud, its suppression could help to increase the thickness, coverage, and longevity of marine <a href="/wiki/Stratocumulus_cloud" title="Stratocumulus cloud">stratocumulus</a> clouds. This would lead to increased cloud <a href="/wiki/Albedo" title="Albedo">albedo</a> on the regional to global scale, and a cooling effect on the atmosphere. Estimates using complex global <a class="mw-redirect" href="/wiki/Climate_models" title="Climate models">climate models</a> suggest that this effect may be partially masking the effects of <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse gas</a> increases on the global surface temperature. However, it is not clear that the representation of the chemical and physical processes needed to accurately simulate the interaction between aerosols, clouds, and drizzle in our current climate models is sufficient to fully understand the global impacts of changes in particulates.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drizzle&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Mist" title="Mist">Mist</a></li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drizzle&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">National Weather Service Observing Handbook No. 8, Aviation Weather Observations for Supplementary Aviation Weather Reporting Stations (SAWRS), Manual Observations, October 1996</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.eurekalert.org/pub_releases/2005-06/ddoe-aar063005.php" rel="nofollow">"Are aerosols reducing coastal drizzle and increasing cloud cover?"</a>. Eurekalert.org. 2005-06-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-08-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADrizzle&amp;rft.btitle=Are+aerosols+reducing+coastal+drizzle+and+increasing+cloud+cover%3F&amp;rft.date=2005-06-30&amp;rft.genre=unknown&amp;rft.pub=Eurekalert.org&amp;rft_id=http%3A%2F%2Fwww.eurekalert.org%2Fpub_releases%2F2005-06%2Fddoe-aar063005.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Drizzle&amp;action=edit&amp;section=6" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Drizzle" title="commons:Drizzle">Drizzle</a></b></i>.</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1212
+Cached time: 20170930010028
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.116 seconds
+Real time usage: 0.171 seconds
+Preprocessor visited node count: 360/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13695/2097152 bytes
+Template argument size: 207/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.057/10.000 seconds
+Lua memory usage: 3.08 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  141.048      1 -total
+ 27.30%   38.509      1 Template:Reflist
+ 21.03%   29.658      1 Template:Convert
+ 20.67%   29.151      1 Template:Cite_web
+ 20.51%   28.923      1 Template:Refimprove
+ 17.49%   24.668      1 Template:Ambox
+ 15.49%   21.853      1 Template:Other_uses
+  9.30%   13.118      1 Template:Weather
+  4.97%    7.010      1 Template:Commons
+  4.11%    5.795      1 Template:Portal-inline
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1980717-0!canonical and timestamp 20170930010028 and revision id 794699859
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Drizzle&amp;oldid=794699859">https://en.wikipedia.org/w/index.php?title=Drizzle&amp;oldid=794699859</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Precipitation" title="Category:Precipitation">Precipitation</a></li><li><a href="/wiki/Category:Rain" title="Category:Rain">Rain</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_December_2012" title="Category:Articles needing additional references from December 2012">Articles needing additional references from December 2012</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Drizzle" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Drizzle" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Drizzle" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Drizzle" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Drizzle">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Drizzle&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Drizzle&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Drizzle" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Drizzle" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Drizzle&amp;oldid=794699859" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Drizzle&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q211521" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Drizzle&amp;id=794699859" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Drizzle">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Drizzle&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DDrizzle%26returnto%3DDrizzle%26oldid%3D794699859%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Drizzle&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Drizzle" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C3%87iskin" hreflang="az" lang="az" title="Çiskin – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/H%C5%8D%CD%98-sap-%C3%A1" hreflang="zh-min-nan" lang="zh-min-nan" title="Hō͘-sap-á – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%86%D0%BC%D0%B6%D0%B0" hreflang="be" lang="be" title="Імжа – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%86%D0%BC%D0%B6%D0%B0" hreflang="be-x-old" lang="be-x-old" title="Імжа – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A0%D1%8A%D0%BC%D0%B5%D0%B6" hreflang="bg" lang="bg" title="Ръмеж – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Plugim" hreflang="ca" lang="ca" title="Plugim – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%99%C4%95%D0%BF%D1%85%D3%B3" hreflang="cv" lang="cv" title="Йĕпхӳ – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mrholen%C3%AD" hreflang="cs" lang="cs" title="Mrholení – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/St%C3%B8vregn" hreflang="da" lang="da" title="Støvregn – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Spr%C3%BChregen" hreflang="de" lang="de" title="Sprühregen – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Llovizna" hreflang="es" lang="es" title="Llovizna – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Drezelo" hreflang="eo" lang="eo" title="Drezelo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Zirimiri" hreflang="eu" lang="eu" title="Zirimiri – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%B1%D8%A7%D9%86%E2%80%8C%D8%B1%DB%8C%D8%B2%D9%87" hreflang="fa" lang="fa" title="باران‌ریزه – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Bruine" hreflang="fr" lang="fr" title="Bruine – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Poalla" hreflang="gl" lang="gl" title="Poalla – Galician">Galego</a></li><li class="interlanguage-link interwiki-hak"><a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/%E9%9B%A8%E6%AF%9B" hreflang="hak" lang="hak" title="雨毛 – Hakka Chinese">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%B4%EC%8A%AC%EB%B9%84" hreflang="ko" lang="ko" title="이슬비 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Gerimis" hreflang="id" lang="id" title="Gerimis – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Pioviggine" hreflang="it" lang="it" title="Pioviggine – Italian">Italiano</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Smidzino%C5%A1s_lietus" hreflang="lv" lang="lv" title="Smidzinošs lietus – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Fisemreen" hreflang="lb" lang="lb" title="Fisemreen – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Dulksna" hreflang="lt" lang="lt" title="Dulksna – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-xmf"><a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%AA%E1%83%B7%E1%83%9C%E1%83%90%E1%83%A4%E1%83%98" hreflang="xmf" lang="xmf" title="ცჷნაფი – Mingrelian">მარგალური</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Motregen" hreflang="nl" lang="nl" title="Motregen – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9C%A7%E9%9B%A8" hreflang="ja" lang="ja" title="霧雨 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Yr" hreflang="no" lang="no" title="Yr – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Yr" hreflang="nn" lang="nn" title="Yr – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/M%C5%BCawka" hreflang="pl" lang="pl" title="Mżawka – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Chuvisco" hreflang="pt" lang="pt" title="Chuvisco – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Burni%C8%9B%C4%83" hreflang="ro" lang="ro" title="Burniță – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D0%BE%D1%81%D1%8C" hreflang="ru" lang="ru" title="Морось – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Dreezle" hreflang="sco" lang="sco" title="Dreezle – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Drizzle" hreflang="simple" lang="simple" title="Drizzle – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Pr%C5%A1enje" hreflang="sl" lang="sl" title="Pršenje – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D8%AA%D9%88%D9%88%DA%A9%DB%95" hreflang="ckb" lang="ckb" title="تووکە – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A0%D0%BE%D1%81%D1%83%D1%99%D0%B0_(%D0%BF%D0%B0%D0%B4%D0%B0%D0%B2%D0%B8%D0%BD%D0%B0)" hreflang="sr" lang="sr" title="Росуља (падавина) – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Tihku" hreflang="fi" lang="fi" title="Tihku – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Ambon" hreflang="tl" lang="tl" title="Ambon – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9D%E0%B8%99%E0%B8%A5%E0%B8%B0%E0%B8%AD%E0%B8%AD%E0%B8%87" hreflang="th" lang="th" title="ฝนละออง – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C3%87isenti" hreflang="tr" lang="tr" title="Çisenti – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D1%80%D1%8F%D0%BA%D0%B0" hreflang="uk" lang="uk" title="Мряка – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/M%C6%B0a_ph%C3%B9n" hreflang="vi" lang="vi" title="Mưa phùn – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Brouhene" hreflang="wa" lang="wa" title="Brouhene – Walloon">Walon</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E9%9C%8F" hreflang="zh-classical" lang="zh-classical" title="霏 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%9B%A8%E7%B2%89" hreflang="zh-yue" lang="zh-yue" title="雨粉 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-bat-smg"><a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/Dolksmos" hreflang="bat-smg" lang="bat-smg" title="Dolksmos – Samogitian">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%AF%9B%E6%AF%9B%E9%9B%A8" hreflang="zh" lang="zh" title="毛毛雨 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q211521#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 9 August 2017, at 15:13.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Drizzle&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.116","walltime":"0.171","ppvisitednodes":{"value":360,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13695,"limit":2097152},"templateargumentsize":{"value":207,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  141.048      1 -total"," 27.30%   38.509      1 Template:Reflist"," 21.03%   29.658      1 Template:Convert"," 20.67%   29.151      1 Template:Cite_web"," 20.51%   28.923      1 Template:Refimprove"," 17.49%   24.668      1 Template:Ambox"," 15.49%   21.853      1 Template:Other_uses","  9.30%   13.118      1 Template:Weather","  4.97%    7.010      1 Template:Commons","  4.11%    5.795      1 Template:Portal-inline"]},"scribunto":{"limitreport-timeusage":{"value":"0.057","limit":"10.000"},"limitreport-memusage":{"value":3232848,"limit":52428800}},"cachereport":{"origin":"mw1212","timestamp":"20170930010028","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":73,"wgHostname":"mw1181"});});</script>
+</body>
+</html>

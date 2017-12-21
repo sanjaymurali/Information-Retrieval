@@ -1,0 +1,442 @@
+https://en.wikipedia.org/wiki/Anticyclone
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Anticyclone - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anticyclone","wgTitle":"Anticyclone","wgCurRevisionId":799558847,"wgRevisionId":799558847,"wgArticleId":236717,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles needing clarification from April 2014","All articles with unsourced statements","Articles with unsourced statements from February 2013","Wikipedia articles with GND identifiers","Anticyclones","Basic meteorological concepts and phenomena","Tropical cyclone meteorology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anticyclone","wgRelevantArticleId":236717,"wgRequestId":"WcwtVQpAICgAAKOg2hAAAACQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q177414","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.30.0-wmf.19" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/High_pressure_Area_Sep_08_2012.jpg/1200px-High_pressure_Area_Sep_08_2012.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anticyclone" rel="alternate"/>
+<link href="/w/index.php?title=Anticyclone&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Anticyclone&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Anticyclone" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Anticyclone rootpage-Anticyclone skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Anticyclone</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:272px;"><a class="image" href="/wiki/File:High_pressure_Area_Sep_08_2012.jpg"><img alt="" class="thumbimage" data-file-height="4421" data-file-width="6000" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/High_pressure_Area_Sep_08_2012.jpg/270px-High_pressure_Area_Sep_08_2012.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/High_pressure_Area_Sep_08_2012.jpg/405px-High_pressure_Area_Sep_08_2012.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/High_pressure_Area_Sep_08_2012.jpg/540px-High_pressure_Area_Sep_08_2012.jpg 2x" width="270"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:High_pressure_Area_Sep_08_2012.jpg" title="Enlarge"></a></div>
+True color satellite image of an unusual anticyclone off southern <a href="/wiki/Australia" title="Australia">Australia</a> in the Southern Hemisphere, on September 8, 2012, showing a counter-clockwise rotation around an oval area of clear skies.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:232px;"><a class="image" href="/wiki/File:HadleyCross-sec.jpg"><img alt="" class="thumbimage" data-file-height="226" data-file-width="396" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/HadleyCross-sec.jpg/230px-HadleyCross-sec.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/38/HadleyCross-sec.jpg/345px-HadleyCross-sec.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/3/38/HadleyCross-sec.jpg 2x" width="230"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:HadleyCross-sec.jpg" title="Enlarge"></a></div>
+Hadley cell circulation tends to create anticyclonic patterns in the <a href="/wiki/Horse_latitudes" title="Horse latitudes">Horse latitudes</a>, depositing drier air and contributing to the world's great deserts.</div>
+</div>
+</div>
+<p>An <b>anticyclone</b> (that is, opposite to a <a href="/wiki/Cyclone" title="Cyclone">cyclone</a>) is a <a href="/wiki/Weather" title="Weather">weather</a> <a class="mw-redirect" href="/wiki/Meteorological_phenomenon" title="Meteorological phenomenon">phenomenon</a> defined by the United States <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a>'s glossary as "a large-scale circulation of winds around a central region of high atmospheric pressure, clockwise in the Northern Hemisphere, counterclockwise in the Southern Hemisphere".<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> Effects of surface-based anticyclones include clearing skies as well as cooler, drier air. Fog can also form overnight within a region of higher pressure. Mid-tropospheric systems, such as the <a href="/wiki/Subtropical_ridge" title="Subtropical ridge">subtropical ridge</a>, deflect tropical cyclones around their periphery and cause a <a href="/wiki/Inversion_(meteorology)" title="Inversion (meteorology)">temperature inversion</a> inhibiting <a class="mw-redirect" href="/wiki/Free_convection" title="Free convection">free convection</a> near their center, building up surface-based <a href="/wiki/Haze" title="Haze">haze</a> under their base. Anticyclones aloft can form within warm core lows such as <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclones</a>, due to descending cool air from the backside of upper troughs such as polar highs, or from large scale sinking such as the subtropical ridge.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Subtropical_ridge"><span class="tocnumber">1.1</span> <span class="toctext">Subtropical ridge</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Formation_aloft"><span class="tocnumber">1.2</span> <span class="toctext">Formation aloft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Strike"><span class="tocnumber">2</span> <span class="toctext">Strike</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Effects"><span class="tocnumber">3</span> <span class="toctext">Effects</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Surface-based_systems"><span class="tocnumber">3.1</span> <span class="toctext">Surface-based systems</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Mid-tropospheric_systems"><span class="tocnumber">3.2</span> <span class="toctext">Mid-tropospheric systems</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Upper_tropospheric_systems"><span class="tocnumber">3.3</span> <span class="toctext">Upper tropospheric systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Importance_to_global_monsoon_regimes"><span class="tocnumber">4</span> <span class="toctext">Importance to global monsoon regimes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Depiction_on_weather_maps"><span class="tocnumber">5</span> <span class="toctext">Depiction on weather maps</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Extraterrestrial_versions"><span class="tocnumber">6</span> <span class="toctext">Extraterrestrial versions</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/Sir_Francis_Galton" title="Sir Francis Galton">Sir Francis Galton</a> first discovered anticyclones in the 1860s. Preferred areas within a <a href="/wiki/Synoptic_scale_meteorology" title="Synoptic scale meteorology">synoptic</a> flow pattern in higher levels of the hydrosphere are beneath the western side of troughs, or dips in the <a href="/wiki/Rossby_wave" title="Rossby wave">Rossby wave</a> pattern.<sup class="noprint Inline-Template" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag may need clarification or removal of jargon. (April 2014)">clarification needed</span></a></i>]</sup> High-pressure systems are alternatively referred to as anticyclones. Their circulation is sometimes referred to as <a href="/wiki/Cum_sole" title="Cum sole">cum sole</a>. Subtropical high pressure zones form under the descending portion of the <a href="/wiki/Hadley_cell" title="Hadley cell">Hadley cell</a> circulation. Upper-level high-pressure areas lie over tropical cyclones due to their warm core nature.</p>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Siberian_high" title="Siberian high">Siberian high</a></div>
+<p>Surface anticyclones form due to downward motion through the troposphere, the atmospheric layer where weather occurs. Preferred areas within a <a href="/wiki/Synoptic_scale_meteorology" title="Synoptic scale meteorology">synoptic</a> flow pattern in higher levels of the troposphere are beneath the western side of troughs. On weather maps, these areas show converging winds (isotachs), also known as <a href="/wiki/Confluence" title="Confluence">confluence</a>, or converging height lines near or above the level of non-divergence, which is near the 500 hPa pressure surface about midway up the troposphere.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Because they weaken with height, these high-pressure systems are cold.</p>
+<h3><span class="mw-headline" id="Subtropical_ridge">Subtropical ridge</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=2" title="Edit section: Subtropical ridge">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Subtropicalridge2000091412.jpg"><img alt="" class="thumbimage" data-file-height="282" data-file-width="622" height="113" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Subtropicalridge2000091412.jpg/250px-Subtropicalridge2000091412.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Subtropicalridge2000091412.jpg/375px-Subtropicalridge2000091412.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Subtropicalridge2000091412.jpg/500px-Subtropicalridge2000091412.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Subtropicalridge2000091412.jpg" title="Enlarge"></a></div>
+The subtropical ridge shows up as a large area of black (dryness) on this water vapor satellite image from September 2000.</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Subtropical_ridge" title="Subtropical ridge">Subtropical ridge</a></div>
+<p>Heating of the earth near the equator forces upward motion and convection along the <a href="/wiki/Monsoon_trough" title="Monsoon trough">monsoon trough</a> or <a class="mw-redirect" href="/wiki/Intertropical_convergence_zone" title="Intertropical convergence zone">intertropical convergence zone</a>. The divergence over the near-equatorial trough leads to air rising and moving away from the equator aloft. As air moves towards the mid-latitudes, it cools and sinks leading to subsidence near the 30° parallel of both hemispheres. This circulation known as the <a href="/wiki/Hadley_cell" title="Hadley cell">Hadley cell</a> forms the subtropical ridge.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Many of the world's deserts are caused by these climatological <a href="/wiki/High-pressure_area" title="High-pressure area">high-pressure areas</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Because these anticyclones strengthen with height, they are known as warm core ridges.</p>
+<h3><span class="mw-headline" id="Formation_aloft">Formation aloft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=3" title="Edit section: Formation aloft">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The development of anticyclones aloft occurs in warm core cyclones such as <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclones</a> when latent heat caused by the formation of <a href="/wiki/Cloud" title="Cloud">clouds</a> is released aloft increasing the air temperature; the resultant thickness of the atmospheric layer increases high pressure aloft which evacuates their outflow.</p>
+<h2><span class="mw-headline" id="Strike">Strike</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=4" title="Edit section: Strike">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the absence of rotation, the <a href="/wiki/Wind" title="Wind">wind</a> tends to blow from areas of high pressure to <a href="/wiki/Low-pressure_area" title="Low-pressure area">areas of low pressure</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> The stronger the pressure difference (pressure gradient) between a high-pressure system and a low-pressure system, the stronger the wind. The <a href="/wiki/Coriolis_force" title="Coriolis force">coriolis force</a> caused by <a href="/wiki/Earth" title="Earth">Earth</a>'s rotation gives winds within high-pressure systems their clockwise circulation in the northern hemisphere (as the wind moves outward and is deflected right from the center of high pressure) and anticlockwise circulation in the southern hemisphere (as the wind moves outward and is deflected left from the center of high pressure). Friction with land slows down the wind flowing out of high-pressure systems and causes wind to flow more outward (more <a href="/wiki/Geostrophic_wind" title="Geostrophic wind">ageostrophically</a>) from the center.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Effects">Effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=5" title="Edit section: Effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Surface-based_systems">Surface-based systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=6" title="Edit section: Surface-based systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:GGB_in_fog_2007_edit.jpg"><img alt="" class="thumbimage" data-file-height="1120" data-file-width="1777" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/GGB_in_fog_2007_edit.jpg/250px-GGB_in_fog_2007_edit.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0e/GGB_in_fog_2007_edit.jpg/375px-GGB_in_fog_2007_edit.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0e/GGB_in_fog_2007_edit.jpg/500px-GGB_in_fog_2007_edit.jpg 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:GGB_in_fog_2007_edit.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Golden_Gate_Bridge" title="Golden Gate Bridge">Golden Gate Bridge</a> in fog</div>
+</div>
+</div>
+<p>High-pressure systems are frequently associated with light winds at the surface and <a href="/wiki/Subsidence_(atmosphere)" title="Subsidence (atmosphere)">subsidence</a> of air from higher portions of the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>. Subsidence will generally warm an air mass by <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic</a> (compressional) heating.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Thus, high pressure typically brings clear skies.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Because no clouds are present to reflect sunlight during the day, there is more incoming <a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">solar radiation</a> and temperatures rise rapidly near the surface. At night, the absence of clouds means that <a href="/wiki/Outgoing_longwave_radiation" title="Outgoing longwave radiation">outgoing longwave radiation</a> (i.e. heat energy from the surface) is not blocked, giving cooler <a href="/wiki/Diurnal_temperature_variation" title="Diurnal temperature variation">diurnal low temperatures</a> in all seasons. When surface winds become light, the subsidence produced directly under a high-pressure system can lead to a buildup of particulates in urban areas under the high pressure, leading to widespread <a href="/wiki/Haze" title="Haze">haze</a>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> If the surface level <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> rises towards 100 percent overnight, <a href="/wiki/Fog" title="Fog">fog</a> can form.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p>The movement of continental arctic air masses to lower latitudes produces strong but vertically shallow high-pressure systems.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> The surface level, sharp temperature <a href="/wiki/Inversion_(meteorology)" title="Inversion (meteorology)">inversion</a> can lead to areas of persistent <a class="mw-redirect" href="/wiki/Stratocumulus" title="Stratocumulus">stratocumulus</a> or <a href="/wiki/Stratus_cloud" title="Stratus cloud">stratus cloud</a>, colloquially known as anticyclonic gloom. The type of weather brought about by an anticyclone depends on its origin. For example, extensions of the Azores high pressure may bring about anticyclonic gloom during the winter because they pick up moisture as they move over the warmer oceans. High pressures that build to the north and move southwards often bring clear weather because they are cooled at the base (as opposed to warmed) which helps prevent clouds from forming.</p>
+<p>Once arctic air moves over an unfrozen ocean, the air mass modifies greatly over the warmer water and takes on the character of a maritime air mass, which reduces the strength of the high-pressure system.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> When extremely cold air moves over relatively warm oceans, <a href="/wiki/Polar_low" title="Polar low">polar lows</a> can develop.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> However, warm and moist (or maritime tropical) air masses which move poleward from tropical sources are slower to modify than arctic air masses.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Mid-tropospheric_systems">Mid-tropospheric systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=7" title="Edit section: Mid-tropospheric systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Subtropridgejulyna.gif"><img alt="" class="thumbimage" data-file-height="445" data-file-width="625" height="178" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Subtropridgejulyna.gif/250px-Subtropridgejulyna.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Subtropridgejulyna.gif/375px-Subtropridgejulyna.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f2/Subtropridgejulyna.gif/500px-Subtropridgejulyna.gif 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Subtropridgejulyna.gif" title="Enlarge"></a></div>
+Mean July subtropical ridge position in <a href="/wiki/North_America" title="North America">North America</a></div>
+</div>
+</div>
+<p>The circulation around mid-level (altitude) ridges, and the air subsidence at their center, act to steer tropical cyclones around their periphery. Due to the subsidence within this type of system, a <i><a href="/wiki/Inversion_(meteorology)" title="Inversion (meteorology)">cap</a></i> can develop which inhibits free convection and hence mixing of the lower with the middle level troposphere. This limits thunderstorm activity near their centers and traps low-level pollutants such as <a href="/wiki/Ozone" title="Ozone">ozone</a> as <a href="/wiki/Haze" title="Haze">haze</a> under their base, which is a significant problem in large urban centers during summer months such as <a class="mw-redirect" href="/wiki/Los_Angeles,_California" title="Los Angeles, California">Los Angeles, California</a> and <a href="/wiki/Mexico_City" title="Mexico City">Mexico City</a>.</p>
+<h3><span class="mw-headline" id="Upper_tropospheric_systems">Upper tropospheric systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=8" title="Edit section: Upper tropospheric systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The existence of upper-level (altitude) high pressure allows upper level <a href="/wiki/Divergence" title="Divergence">divergence</a> which leads to surface <a href="/wiki/Convergence_zone" title="Convergence zone">convergence</a>. If a capping mid-level ridge does not exist, this leads to <a class="mw-redirect" href="/wiki/Free_convection" title="Free convection">free convection</a> and the development of showers and thunderstorms if the lower atmosphere is humid. Because a <a href="/wiki/Positive_feedback" title="Positive feedback">positive feedback</a> loop develops between the convective tropical cyclone and the upper level high, the two system are strengthened. This loop stops once ocean temperatures cool to below 26.5 °C (79.7 °F),<sup class="reference" id="cite_ref-A15_16-0"><a href="#cite_note-A15-16">[16]</a></sup> reducing the thunderstorm activity, which then weakens the upper level high pressure system.</p>
+<h2><span class="mw-headline" id="Importance_to_global_monsoon_regimes">Importance to global monsoon regimes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=9" title="Edit section: Importance to global monsoon regimes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></div>
+<p>When the subtropical ridge in the Northwest Pacific is stronger than normal, it leads to a wet <a href="/wiki/Monsoon" title="Monsoon">monsoon</a> season for <a href="/wiki/Asia" title="Asia">Asia</a>.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> The subtropical ridge position is linked to how far northward monsoon moisture and <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorms</a> extend into the <a href="/wiki/United_States" title="United States">United States</a>. Typically, the subtropical ridge across <a href="/wiki/North_America" title="North America">North America</a> migrates far enough northward to begin monsoon conditions across the <a class="mw-redirect" href="/wiki/Desert_Southwest" title="Desert Southwest">Desert Southwest</a> from July to September.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> When the subtropical ridge is farther north than normal towards the <a href="/wiki/Four_Corners" title="Four Corners">Four Corners</a>, monsoon thunderstorms can spread northward into <a href="/wiki/Arizona" title="Arizona">Arizona</a>. When suppressed to the south, the atmosphere dries out across the Desert Southwest, causing a break in the monsoon regime.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></p>
+<h2><span class="mw-headline" id="Depiction_on_weather_maps">Depiction on weather maps</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=10" title="Edit section: Depiction on weather maps">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Surface_analysis.gif"><img alt="" class="thumbimage" data-file-height="480" data-file-width="640" height="188" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Surface_analysis.gif/250px-Surface_analysis.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Surface_analysis.gif/375px-Surface_analysis.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Surface_analysis.gif/500px-Surface_analysis.gif 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Surface_analysis.gif" title="Enlarge"></a></div>
+A surface weather analysis for the <a href="/wiki/United_States" title="United States">United States</a> on October 21, 2006</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Weather_map" title="Weather map">Weather map</a></div>
+<p>On weather maps, high-pressure centers are associated with the letter H in English,<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> within the <a class="mw-redirect" href="/wiki/Isobar_(meteorology)" title="Isobar (meteorology)">isobar</a> with the highest pressure value. On constant-pressure upper-level charts, anticyclones are located within the highest height line contour.<sup class="reference" id="cite_ref-AMS_21-0"><a href="#cite_note-AMS-21">[21]</a></sup></p>
+<h2><span class="mw-headline" id="Extraterrestrial_versions">Extraterrestrial versions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=11" title="Edit section: Extraterrestrial versions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On Jupiter, there are two examples of an extraterrestrial anticyclonic storm; the <a href="/wiki/Great_Red_Spot" title="Great Red Spot">Great Red Spot</a> and the recently formed <a class="mw-redirect" href="/wiki/Oval_BA" title="Oval BA">Oval BA</a>. They are powered by smaller storms merging<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> unlike any typical anticyclonic storm that happens on Earth where water powers them. Another theory is that warmer gases rise in a column of cold air, creating a vortex as is the case of other storms that include <a href="/wiki/Anne%27s_Spot" title="Anne's Spot">Anne's Spot</a> on <a href="/wiki/Saturn" title="Saturn">Saturn</a>, and the <a href="/wiki/Great_Dark_Spot" title="Great Dark Spot">Great Dark Spot</a> on Neptune. Anticyclones have been detected near the poles of Venus.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2013)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2004" data-file-width="3032" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/32px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/48px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/64px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Tropical_cyclones" title="Portal:Tropical cyclones">Tropical cyclones portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Anticyclonic_storm" title="Anticyclonic storm">Anticyclonic storm</a></li>
+<li><a href="/wiki/Anticyclonic_tornado" title="Anticyclonic tornado">Anticyclonic tornado</a></li>
+<li><a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Atmosphere of Earth</a></li>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Block_(meteorology)" title="Block (meteorology)">Block (meteorology)</a></li>
+<li><a href="/wiki/North_American_High" title="North American High">North American High</a></li>
+<li><a href="/wiki/Ocean_gyre" title="Ocean gyre">Ocean gyre</a></li>
+<li><a href="/wiki/Pressure_system" title="Pressure system">Pressure system</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nws.noaa.gov/glossary/index.php?word=anticyclone" rel="nofollow">"Glossary: Anticyclone"</a>. National Weather Service<span class="reference-accessdate">. Retrieved <span class="nowrap">January 19,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnticyclone&amp;rft.btitle=Glossary%3A+Anticyclone&amp;rft.genre=unknown&amp;rft.pub=National+Weather+Service&amp;rft_id=http%3A%2F%2Fwww.nws.noaa.gov%2Fglossary%2Findex.php%3Fword%3Danticyclone&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Glossary of Meteorology (2009). <a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=level-of-nondivergence1" rel="nofollow">Level of nondivergence.</a> <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>. Retrieved on 2009-02-17.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Konstantin Matchev (2009). <a class="external text" href="http://www.phys.ufl.edu/~matchev/MET1010/notes/Chapter12b.ppt" rel="nofollow">Middle-Latitude Cyclones - II</a> <a class="external text" href="https://web.archive.org/web/20090225025157/http://www.phys.ufl.edu/~matchev/MET1010/notes/Chapter12b.ppt" rel="nofollow">Archived</a> 2009-02-25 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. <a href="/wiki/University_of_Florida" title="University of Florida">University of Florida</a>. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Dr. Owen E. Thompson (1996). <a class="external text" href="http://www.atmos.umd.edu/~owen/CHPI/IMAGES/circs02.html" rel="nofollow">Hadley Circulation Cell.</a> <a class="external text" href="https://web.archive.org/web/20090305122318/http://www.atmos.umd.edu/~owen/CHPI/IMAGES/circs02.html" rel="nofollow">Archived</a> 2009-03-05 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Channel Video Productions. Retrieved on 2007-02-11.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">ThinkQuest team 26634 (1999). <a class="external text" href="http://library.thinkquest.org/26634/desert/formation.htm" rel="nofollow">The Formation of Deserts</a> <a class="external text" href="https://web.archive.org/web/20121017193948/http://library.thinkquest.org/26634/desert/formation.htm" rel="nofollow">Archived</a> 2012-10-17 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. Oracle ThinkQuest Education Foundation. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">BWEA (2007). <a class="external text" href="http://www.bwea.com/edu/wind.html" rel="nofollow">Education and Careers: <i>What is wind?</i></a> <a class="external text" href="https://web.archive.org/web/20110304181329/http://www.bwea.com/edu/wind.html" rel="nofollow">Archived</a> 2011-03-04 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. British Wind Energy Association. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">JetStream (2008). <a class="external text" href="http://www.srh.noaa.gov/jetstream//synoptic/wind.htm" rel="nofollow"><i>Origin of Wind</i></a>. <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> Southern Region Headquarters. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Office of the Federal Coordinator for Meteorology (2006). <a class="external text" href="http://www.ofcm.gov/fmh3/pdf/15-app-g.pdf" rel="nofollow">Appendix G: Glossary</a> <a class="external text" href="https://web.archive.org/web/20090225025158/http://www.ofcm.gov/fmh3/pdf/15-app-g.pdf" rel="nofollow">Archived</a> 2009-02-25 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">NOAA</a>. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Jack Williams (2007). <a class="external text" href="http://www.usatoday.com/weather/tg/whighlow/whighlow.htm" rel="nofollow">What's happening inside highs and lows</a>. <a href="/wiki/USA_Today" title="USA Today">USA Today</a>. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Myanmar government (2007). <a class="external text" href="http://www.kjc.gov.my/english/education/weather/haze01.html" rel="nofollow"><i>Haze</i></a> <a class="external text" href="https://web.archive.org/web/20070127214023/http://www.kjc.gov.my/english/education/weather/haze01.html" rel="nofollow">Archived</a> 2007-01-27 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. Retrieved on 2007-02-11.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Robert Tardif (2002). <a class="external text" href="http://www.rap.ucar.edu/staff/tardif/Documents/CUprojects/ATOC5600/fog_characteristics.htm" rel="nofollow">Fog characteristics</a> <a class="external text" href="https://web.archive.org/web/20110520021633/http://www.rap.ucar.edu/staff/tardif/Documents/CUprojects/ATOC5600/fog_characteristics.htm" rel="nofollow">Archived</a> 2011-05-20 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. <a class="mw-redirect" href="/wiki/NCAR" title="NCAR">NCAR</a> National Research Laboratory. Retrieved on 2007-02-11.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a href="/wiki/CBC_News" title="CBC News">CBC News</a> (2009). <a class="external text" href="http://www.cbc.ca/canada/north/story/2009/01/26/yukon-weather.html?ref=rss" rel="nofollow">Blame Yukon: Arctic air mass chills rest of North America</a>. Canadian Broadcasting Centre. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">Federal Aviation Administration (1999). <a class="external text" href="http://www.faa.gov/air_traffic/publications/atpubs/NAO/NAOC02.HTM" rel="nofollow"><i>North Atlantic International General Aviation Operations Manual</i>, Chapter 2: Environment</a>. <a class="mw-redirect" href="/wiki/FAA" title="FAA">FAA</a>. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Rasmussen, E.A. and Turner, J. (2003). Polar Lows: Mesoscale Weather Systems in the Polar Regions, Cambridge University Press, Cambridge, p 612.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Dr. Ali Tokay (2000). chapter 11: Air Masses, Fronts, Cyclones, and Anticyclones. <a href="/wiki/University_of_Maryland,_Baltimore_County" title="University of Maryland, Baltimore County">University of Maryland, Baltimore County</a>. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-A15-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-A15_16-0">^</a></b></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/Chris_Landsea" title="Chris Landsea">Chris Landsea</a>. <a class="external text" href="http://www.aoml.noaa.gov/hrd/tcfaq/A15.html" rel="nofollow">Subject: A15) How do tropical cyclones form?</a> <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a>. Retrievon 2008-06-08.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">C.-P. Chang, Yongsheng Zhang, and Tim Li (1999). <a class="external text" href="http://ams.allenpress.com/perlserv/?request=get-abstract&amp;doi=10.1175%2F1520-0442(2000)013%3C4310:IAIVOT%3E2.0.CO%3B2" rel="nofollow">Interannual and Interdecadal Variations of the East Asian Summer Monsoon and Tropical Pacific SSTs, part I: Roles of the Subtropical Ridge</a>. Journal of Climate: pp. 4310–4325. Retrieved on 2007-02-11.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Arizona State University (2009). <a class="external text" href="http://geography.asu.edu/aztc/monsoon.html" rel="nofollow">Basics of the Arizona Monsoon &amp; Desert Meteorology.</a> Retrieved on 2007-02-11.</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">David K. Adams (2009). <a class="external text" href="http://geochange.er.usgs.gov/sw/changes/natural/monsoon/" rel="nofollow">Review of Variability in the North American Monsoon</a>. <a href="/wiki/United_States_Geological_Survey" title="United States Geological Survey">United States Geological Survey</a>. Retrieved on 2007-02-11.</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Keith C. Heidorn (2005). <a class="external text" href="http://www.islandnet.com/~see/weather/elements/high.htm" rel="nofollow">Weather's Highs and Lows: Part 1 The High.</a> The Weather Doctor. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-AMS-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-AMS_21-0">^</a></b></span> <span class="reference-text">Glossary of Meteorology (2009). <a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=high1" rel="nofollow">High</a>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>. Retrieved on 2009-02-16.</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><a class="external free" href="http://iopscience.iop.org/0034-4885/68/8/R06/pdf/0034-4885_68_8_R06.pdf" rel="nofollow">http://iopscience.iop.org/0034-4885/68/8/R06/pdf/0034-4885_68_8_R06.pdf</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anticyclone&amp;action=edit&amp;section=14" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://web.archive.org/web/20041031030134/http://rsd.gsfc.nasa.gov/rsd/images/goes8_lg.jpg" rel="nofollow">Intertropical Convergence Zone photo</a> - NASA Goddard Space Flight Center</li>
+</ul>
+<p><br/></p>
+<div aria-labelledby="Cyclones_and_anticyclones_of_the_world_.28Centers_of_action.29" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style="background:#cceeff;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cyclones" title="Template:Cyclones"><abbr style="background:#cceeff;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cyclones" title="Template talk:Cyclones"><abbr style="background:#cceeff;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cyclones&amp;action=edit"><abbr style="background:#cceeff;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cyclones_and_anticyclones_of_the_world_.28Centers_of_action.29" style="font-size:114%;margin:0 4em"><a href="/wiki/Cyclone" title="Cyclone">Cyclones</a> and <a class="mw-selflink selflink">anticyclones</a> of the world (<a href="/wiki/Centers_of_action" title="Centers of action">Centers of action</a>)</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background:#cceeff;;width:1%">Types</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">Extratropical</a></li>
+<li><a href="/wiki/Mesocyclone" title="Mesocyclone">Mesocyclone</a>/<a href="/wiki/Anticyclonic_storm" title="Anticyclonic storm">Anticyclonic storm</a></li>
+<li><a href="/wiki/Polar_low" title="Polar low">Polar</a></li>
+<li><a href="/wiki/Subtropical_cyclone" title="Subtropical cyclone">Subtropical cyclone</a>/<a href="/wiki/Subtropical_ridge" title="Subtropical ridge">Subtropical ridge</a></li>
+<li><a href="/wiki/Thermal_low" title="Thermal low">Thermal</a></li>
+<li><a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background:#cceeff;;width:1%">Anticyclones</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Polar_High" title="Polar High">Polar High</a></li>
+<li><a href="/wiki/Siberian_High" title="Siberian High">Siberian High</a></li>
+<li><a href="/wiki/Azores_High" title="Azores High">Azores High</a> (Bermuda/North Atlantic)</li>
+<li><a href="/wiki/North_American_High" title="North American High">North American High</a> (Canadian/Greenland)</li>
+<li><a href="/wiki/South_Atlantic_High" title="South Atlantic High">South Atlantic High</a> (St.Helena)</li>
+<li><a href="/wiki/North_Pacific_High" title="North Pacific High">North Pacific High</a> (Hawaii High)</li>
+<li><a href="/wiki/South_Pacific_High" title="South Pacific High">South Pacific High</a></li>
+<li><a href="/wiki/Kalahari_High" title="Kalahari High">Kalahari High</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="background:#cceeff;;width:1%">Cyclones</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aleutian_Low" title="Aleutian Low">Aleutian Low</a> (Alaska/Far East Russia)</li>
+<li><a href="/wiki/Atlantic_hurricane" title="Atlantic hurricane">Atlantic hurricane</a></li>
+<li><a href="/wiki/Australian_east_coast_low" title="Australian east coast low">Australian Low</a> (east coast)</li>
+<li><a href="/wiki/European_windstorm" title="European windstorm">European windstorm</a></li>
+<li><a href="/wiki/Genoa_low" title="Genoa low">Genoa Low</a></li>
+<li><a href="/wiki/Icelandic_Low" title="Icelandic Low">Icelandic Low</a></li>
+<li><a href="/wiki/Kona_storm" title="Kona storm">Kona storm</a> (Hawaii)</li>
+<li><a href="/wiki/Nor%27easter" title="Nor'easter">Nor'easter</a></li>
+<li><a href="/wiki/Pacific_hurricane" title="Pacific hurricane">Pacific hurricane</a></li>
+<li><a href="/wiki/Polar_vortex" title="Polar vortex">Polar vortex</a></li>
+<li><a href="/wiki/Typhoon" title="Typhoon">Typhoon</a></li>
+<li><a href="/wiki/Wake_low" title="Wake low">Wake Low</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4160100-2" rel="nofollow">4160100-2</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20170927225933
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.248 seconds
+Real time usage: 0.336 seconds
+Preprocessor visited node count: 901/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21480/2097152 bytes
+Template argument size: 1047/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 2/500
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 4.34 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  280.966      1 -total
+ 29.01%   81.502      1 Template:Reflist
+ 21.93%   61.628      1 Template:Clarify
+ 15.77%   44.295      1 Template:Fix-span
+ 15.26%   42.884      1 Template:Convert
+ 14.46%   40.627      1 Template:Cite_web
+ 10.02%   28.154      4 Template:Category_handler
+  9.70%   27.241      1 Template:Authority_control
+  6.86%   19.270      2 Template:Delink
+  6.85%   19.235      1 Template:Citation_needed
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:236717-0!canonical and timestamp 20170927225933 and revision id 799558847
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Anticyclone&amp;oldid=799558847">https://en.wikipedia.org/w/index.php?title=Anticyclone&amp;oldid=799558847</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Anticyclones" title="Category:Anticyclones">Anticyclones</a></li><li><a href="/wiki/Category:Basic_meteorological_concepts_and_phenomena" title="Category:Basic meteorological concepts and phenomena">Basic meteorological concepts and phenomena</a></li><li><a href="/wiki/Category:Tropical_cyclone_meteorology" title="Category:Tropical cyclone meteorology">Tropical cyclone meteorology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_April_2014" title="Category:Wikipedia articles needing clarification from April 2014">Wikipedia articles needing clarification from April 2014</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2013" title="Category:Articles with unsourced statements from February 2013">Articles with unsourced statements from February 2013</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Anticyclone" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Anticyclone" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Anticyclone" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Anticyclone" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Anticyclone">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Anticyclone&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Anticyclone&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Anticyclone" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Anticyclone" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Anticyclone&amp;oldid=799558847" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Anticyclone&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q177414" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anticyclone&amp;id=799558847" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anticyclone">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Anticyclone&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAnticyclone%26returnto%3DAnticyclone%26oldid%3D799558847%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Anticyclone&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:High_pressure_systems" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B9%D8%B5%D8%A7%D8%B1_%D8%B9%D9%83%D8%B3%D9%8A" hreflang="ar" lang="ar" title="إعصار عكسي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Antisiklon" hreflang="az" lang="az" title="Antisiklon – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%AA%E0%A7%8D%E0%A6%B0%E0%A6%A4%E0%A7%80%E0%A6%AA_%E0%A6%98%E0%A7%82%E0%A6%B0%E0%A7%8D%E0%A6%A3%E0%A6%BF%E0%A6%9D%E0%A6%A1%E0%A6%BC" hreflang="bn" lang="bn" title="প্রতীপ ঘূর্ণিঝড় – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D1%8B%D1%86%D1%8B%D0%BA%D0%BB%D0%BE%D0%BD" hreflang="be" lang="be" title="Антыцыклон – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD" hreflang="bg" lang="bg" title="Антициклон – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Anticiklona" hreflang="bs" lang="bs" title="Anticiklona – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Anticicl%C3%B3" hreflang="ca" lang="ca" title="Anticicló – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Anticykl%C3%B3na" hreflang="cs" lang="cs" title="Anticyklóna – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Anticyklon" hreflang="da" lang="da" title="Anticyklon – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Hochdruckgebiet" hreflang="de" lang="de" title="Hochdruckgebiet – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Antits%C3%BCklon" hreflang="et" lang="et" title="Antitsüklon – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CE%B4%CE%AF%CE%BF_%CF%85%CF%88%CE%B7%CE%BB%CE%BF%CF%8D_%CE%B2%CE%B1%CF%81%CE%BF%CE%BC%CE%B5%CF%84%CF%81%CE%B9%CE%BA%CE%BF%CF%8D" hreflang="el" lang="el" title="Πεδίο υψηλού βαρομετρικού – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Anticicl%C3%B3n" hreflang="es" lang="es" title="Anticiclón – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Kontra%C5%ADciklono" hreflang="eo" lang="eo" title="Kontraŭciklono – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Antizikloi" hreflang="eu" lang="eu" title="Antizikloi – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%88%D8%A7%DA%86%D8%B1%D8%AE%D9%86%D8%AF" hreflang="fa" lang="fa" title="واچرخند – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Anticyclone" hreflang="fr" lang="fr" title="Anticyclone – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Frithchiocl%C3%B3n" hreflang="ga" lang="ga" title="Frithchioclón – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Anticicl%C3%B3n" hreflang="gl" lang="gl" title="Anticiclón – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B3%A0%EA%B8%B0%EC%95%95" hreflang="ko" lang="ko" title="고기압 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B1%D5%B6%D5%BF%D5%AB%D6%81%D5%AB%D5%AF%D5%AC%D5%B8%D5%B6" hreflang="hy" lang="hy" title="Անտիցիկլոն – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Anticiklona" hreflang="hr" lang="hr" title="Anticiklona – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Antisiklon" hreflang="id" lang="id" title="Antisiklon – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/H%C3%A6%C3%B0_(ve%C3%B0urfr%C3%A6%C3%B0i)" hreflang="is" lang="is" title="Hæð (veðurfræði) – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Anticiclone" hreflang="it" lang="it" title="Anticiclone – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%98%D7%99-%D7%A6%D7%99%D7%A7%D7%9C%D7%95%D7%9F" hreflang="he" lang="he" title="אנטי-ציקלון – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%90%E1%83%9C%E1%83%A2%E1%83%98%E1%83%AA%E1%83%98%E1%83%99%E1%83%9A%E1%83%9D%E1%83%9C%E1%83%98" hreflang="ka" lang="ka" title="ანტიციკლონი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD" hreflang="kk" lang="kk" title="Антициклон – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD" hreflang="ky" lang="ky" title="Антициклон – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Anticiklons" hreflang="lv" lang="lv" title="Anticiklons – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Anticiklonas" hreflang="lt" lang="lt" title="Anticiklonas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Anticiklon" hreflang="hu" lang="hu" title="Anticiklon – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Hogedrukgebied" hreflang="nl" lang="nl" title="Hogedrukgebied – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%AB%98%E6%B0%97%E5%9C%A7" hreflang="ja" lang="ja" title="高気圧 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Antisyklon" hreflang="no" lang="no" title="Antisyklon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Antisyklon" hreflang="nn" lang="nn" title="Antisyklon – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Antitsiklon" hreflang="uz" lang="uz" title="Antitsiklon – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Antycyklon" hreflang="pl" lang="pl" title="Antycyklon – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Anticiclone" hreflang="pt" lang="pt" title="Anticiclone – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Anticiclon" hreflang="ro" lang="ro" title="Anticiclon – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD" hreflang="ru" lang="ru" title="Антициклон – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Anticyclone" hreflang="sco" lang="sco" title="Anticyclone – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Anticikloni" hreflang="sq" lang="sq" title="Anticikloni – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Anticyclone" hreflang="simple" lang="simple" title="Anticyclone – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Tlakov%C3%A1_v%C3%BD%C5%A1" hreflang="sk" lang="sk" title="Tlaková výš – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Anticiklon" hreflang="sl" lang="sl" title="Anticiklon – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD" hreflang="sr" lang="sr" title="Антициклон – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Anticiklona" hreflang="sh" lang="sh" title="Anticiklona – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Korkeapaine" hreflang="fi" lang="fi" title="Korkeapaine – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/H%C3%B6gtryck" hreflang="sv" lang="sv" title="Högtryck – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B9%81%E0%B8%AD%E0%B8%99%E0%B9%84%E0%B8%97%E0%B9%84%E0%B8%8B%E0%B9%82%E0%B8%84%E0%B8%A5%E0%B8%99" hreflang="th" lang="th" title="แอนไทไซโคลน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Y%C3%BCksek_bas%C4%B1n%C3%A7" hreflang="tr" lang="tr" title="Yüksek basınç – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D1%82%D0%B8%D1%86%D0%B8%D0%BA%D0%BB%D0%BE%D0%BD" hreflang="uk" lang="uk" title="Антициклон – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Xo%C3%A1y_ngh%E1%BB%8Bch" hreflang="vi" lang="vi" title="Xoáy nghịch – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E5%8F%8D%E6%B0%A3%E6%97%8B" hreflang="zh-yue" lang="zh-yue" title="反氣旋 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-bat-smg"><a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/Antic%C4%97kluons" hreflang="bat-smg" lang="bat-smg" title="Anticėkluons – Samogitian">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%8F%8D%E6%B0%94%E6%97%8B" hreflang="zh" lang="zh" title="反气旋 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q177414#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 8 September 2017, at 13:06.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Anticyclone&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.248","walltime":"0.336","ppvisitednodes":{"value":901,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21480,"limit":2097152},"templateargumentsize":{"value":1047,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  280.966      1 -total"," 29.01%   81.502      1 Template:Reflist"," 21.93%   61.628      1 Template:Clarify"," 15.77%   44.295      1 Template:Fix-span"," 15.26%   42.884      1 Template:Convert"," 14.46%   40.627      1 Template:Cite_web"," 10.02%   28.154      4 Template:Category_handler","  9.70%   27.241      1 Template:Authority_control","  6.86%   19.270      2 Template:Delink","  6.85%   19.235      1 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":4548711,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20170927225933","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":431,"wgHostname":"mw1319"});});</script>
+</body>
+</html>

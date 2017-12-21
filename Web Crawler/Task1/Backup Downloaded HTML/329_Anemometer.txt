@@ -1,0 +1,1010 @@
+https://en.wikipedia.org/wiki/Anemometer
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Anemometer - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Anemometer","wgTitle":"Anemometer","wgCurRevisionId":803241570,"wgRevisionId":803241570,"wgArticleId":2994,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","All articles with unsourced statements","Articles with unsourced statements from December 2014","Wikipedia articles incorporating a citation from EB9","Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference","Italian inventions","Measuring instruments","Meteorological instrumentation and equipment","Navigational equipment","Wind power"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Anemometer","wgRelevantArticleId":2994,"wgRequestId":"WdRuQwpAAEMAAA6z-bIAAACX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q175029","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/6/61/Wea00920.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Anemometer" rel="alternate"/>
+<link href="/w/index.php?title=Anemometer&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Anemometer&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Anemometer" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Anemometer rootpage-Anemometer vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Anemometer</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Wea00920.jpg"><img alt="" class="thumbimage" data-file-height="1740" data-file-width="1184" height="323" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wea00920.jpg/220px-Wea00920.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wea00920.jpg/330px-Wea00920.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Wea00920.jpg/440px-Wea00920.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Wea00920.jpg" title="Enlarge"></a></div>
+A hemispherical cup anemometer of the type invented in 1846 by <a class="mw-redirect" href="/wiki/John_Thomas_Romney_Robinson" title="John Thomas Romney Robinson">John Thomas Romney Robinson</a></div>
+</div>
+</div>
+<p>An <b>anemometer</b> is a device used for measuring <a href="/wiki/Wind" title="Wind">the speed of wind</a>, and is also a common <a href="/wiki/Weather_station" title="Weather station">weather station</a> instrument. The term is derived from the Greek word <i>anemos</i>, which means wind, and is used to describe any wind speed measurement instrument used in <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>. The first known description of an anemometer was given by Leon Battista Alberti in 1450.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Velocity_anemometers"><span class="tocnumber">2</span> <span class="toctext">Velocity anemometers</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Cup_anemometers"><span class="tocnumber">2.1</span> <span class="toctext">Cup anemometers</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Vane_anemometers"><span class="tocnumber">2.2</span> <span class="toctext">Vane anemometers</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Hot-wire_anemometers"><span class="tocnumber">2.3</span> <span class="toctext">Hot-wire anemometers</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Laser_Doppler_anemometers"><span class="tocnumber">2.4</span> <span class="toctext">Laser Doppler anemometers</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Ultrasonic_anemometers"><span class="tocnumber">2.5</span> <span class="toctext">Ultrasonic anemometers</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#Acoustic_resonance_anemometers"><span class="tocnumber">2.5.1</span> <span class="toctext">Acoustic resonance anemometers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-9"><a href="#Ping-pong_ball_anemometers"><span class="tocnumber">2.6</span> <span class="toctext">Ping-pong ball anemometers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#Pressure_anemometers"><span class="tocnumber">3</span> <span class="toctext">Pressure anemometers</span></a>
+<ul>
+<li class="toclevel-2 tocsection-11"><a href="#Plate_anemometers"><span class="tocnumber">3.1</span> <span class="toctext">Plate anemometers</span></a></li>
+<li class="toclevel-2 tocsection-12"><a href="#Tube_anemometers"><span class="tocnumber">3.2</span> <span class="toctext">Tube anemometers</span></a>
+<ul>
+<li class="toclevel-3 tocsection-13"><a href="#Pitot_tube_static_anemometers"><span class="tocnumber">3.2.1</span> <span class="toctext">Pitot tube static anemometers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-2 tocsection-14"><a href="#Effect_of_density_on_measurements"><span class="tocnumber">3.3</span> <span class="toctext">Effect of density on measurements</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-15"><a href="#Effect_of_icing"><span class="tocnumber">4</span> <span class="toctext">Effect of icing</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Instrument_location"><span class="tocnumber">5</span> <span class="toctext">Instrument location</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#Notes"><span class="tocnumber">7</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The anemometer has changed little since its development in the 15th century. <a href="/wiki/Leon_Battista_Alberti" title="Leon Battista Alberti">Leon Battista Alberti</a> (1404–1472) is said to have invented the first mechanical anemometer around 1450. In following centuries, numerous others, including <a href="/wiki/Robert_Hooke" title="Robert Hooke">Robert Hooke</a> (1635–1703), developed their own versions, with some being mistakenly credited as the inventor. In 1846, <a class="mw-redirect" href="/wiki/John_Thomas_Romney_Robinson" title="John Thomas Romney Robinson">John Thomas Romney Robinson</a> (1792–1882) improved upon the design by using four hemispherical cups and mechanical wheels. In 1926, Canadian meteorologist <a href="/wiki/John_Patterson_(meteorologist)" title="John Patterson (meteorologist)">John Patterson</a> (January 3, 1872 – February 22, 1956) developed a three-cup anemometer, which was improved by Brevoort and Joiner in 1935. In 1991, <a class="new" href="/w/index.php?title=Derek_Weston&amp;action=edit&amp;redlink=1" title="Derek Weston (page does not exist)">Derek Weston</a> added the ability to measure wind direction. In 1994, <a class="new" href="/w/index.php?title=Andrews_Pflitsch&amp;action=edit&amp;redlink=1" title="Andrews Pflitsch (page does not exist)">Andrews Pflitsch</a> developed the sonic anemometer.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Velocity_anemometers">Velocity anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=2" title="Edit section: Velocity anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Cup_anemometers">Cup anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=3" title="Edit section: Cup anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:137px;"><a class="image" href="/wiki/File:Cup-Anemometer-Animation.gif"><img alt="" class="thumbimage" data-file-height="135" data-file-width="135" height="135" src="//upload.wikimedia.org/wikipedia/commons/c/c2/Cup-Anemometer-Animation.gif" width="135"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Cup-Anemometer-Animation.gif" title="Enlarge"></a></div>
+Cup anemometer animation</div>
+</div>
+</div>
+<p>A simple type of anemometer was invented in 1845 by Dr. <a class="mw-redirect" href="/wiki/John_Thomas_Romney_Robinson" title="John Thomas Romney Robinson">John Thomas Romney Robinson</a>, of <a href="/wiki/Armagh_Observatory" title="Armagh Observatory">Armagh Observatory</a>. It consisted of four <a class="mw-redirect" href="/wiki/Hemispherical" title="Hemispherical">hemispherical</a> cups mounted on horizontal arms, which were mounted on a vertical shaft. The air flow past the cups in any horizontal direction turned the shaft at a rate that was proportional to the wind speed. Therefore, counting the turns of the shaft over a set time period produced a value proportional to the average wind speed for a wide range of speeds. On an anemometer with four cups, it is easy to see that since the cups are arranged symmetrically on the end of the arms, the wind always has the hollow of one cup presented to it and is blowing on the back of the cup on the opposite end of the cross.</p>
+<p>When Robinson first designed his anemometer, he asserted that the cups moved one-third of the speed of the wind, unaffected by the cup size or arm length. This was apparently confirmed by some early independent experiments, but it was incorrect. Instead, the ratio of the speed of the wind and that of the cups, the anemometer factor, depends on the dimensions of the cups and arms, and may have a value between two and a little over three. Every previous experiment involving an anemometer had to be repeated.</p>
+<p>The three-cup anemometer developed by the Canadian <a href="/wiki/John_Patterson_(meteorologist)" title="John Patterson (meteorologist)">John Patterson</a> in 1926 and subsequent cup improvements by Brevoort &amp; Joiner of the USA in 1935 led to a cupwheel design which was linear and had an error of less than 3% up to 60 mph (97 km/h). Patterson found that each cup produced maximum torque when it was at 45° to the wind flow. The three-cup anemometer also had a more constant torque and responded more quickly to gusts than the four-cup anemometer.</p>
+<p>The three-cup anemometer was further modified by the Australian Dr Derek Weston in 1991 to measure both wind direction and wind speed. Weston added a tag to one cup, which causes the cupwheel speed to increase and decrease as the tag moves alternately with and against the wind. Wind direction is calculated from these cyclical changes in cupwheel speed, while wind speed is determined from the average cupwheel speed.</p>
+<p>Three-cup anemometers are currently used as the industry standard for <a href="/wiki/Wind_resource_assessment" title="Wind resource assessment">wind resource assessment</a> studies &amp; practice.</p>
+<h3><span class="mw-headline" id="Vane_anemometers">Vane anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=4" title="Edit section: Vane anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>One of the other forms of mechanical velocity anemometer is the <i>vane anemometer</i>. It may be described as a <a href="/wiki/Windmill" title="Windmill">windmill</a> or a propeller anemometer. Unlike the Robinson anemometer, whose axis of rotation is vertical, the vane anemometer must have its axis parallel to the direction of the wind and therefore horizontal. Furthermore, since the wind varies in direction and the axis has to follow its changes, a <a href="/wiki/Weather_vane" title="Weather vane">wind vane</a> or some other contrivance to fulfill the same purpose must be employed.</p>
+<p>A <i>vane anemometer</i> thus combines a propeller and a tail on the same axis to obtain accurate and precise wind speed and direction measurements from the same instrument.<sup class="reference" id="cite_ref-WMO_2-0"><a href="#cite_note-WMO-2">[2]</a></sup> The speed of the fan is measured by a rev counter and converted to a windspeed by an electronic chip. Hence, volumetric flowrate may be calculated if the cross-sectional area is known.</p>
+<p>In cases where the direction of the air motion is always the same, as in ventilating shafts of mines and buildings, wind vanes known as air meters are employed, and give satisfactory results.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2014)">citation needed</span></a></i>]</sup></p>
+<ul class="gallery mw-gallery-traditional center">
+<li class="gallerycaption">Vane anemometers</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35.5px auto;"><a class="image" href="/wiki/File:Wind_speed_and_direction_instrument_-_NOAA.jpg"><img alt="" data-file-height="1208" data-file-width="1824" height="79" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wind_speed_and_direction_instrument_-_NOAA.jpg/120px-Wind_speed_and_direction_instrument_-_NOAA.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wind_speed_and_direction_instrument_-_NOAA.jpg/180px-Wind_speed_and_direction_instrument_-_NOAA.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/67/Wind_speed_and_direction_instrument_-_NOAA.jpg/240px-Wind_speed_and_direction_instrument_-_NOAA.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Vane style of anemometer</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Prop_vane_anemometer.jpg"><img alt="" data-file-height="582" data-file-width="437" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Prop_vane_anemometer.jpg/90px-Prop_vane_anemometer.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/da/Prop_vane_anemometer.jpg/135px-Prop_vane_anemometer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/da/Prop_vane_anemometer.jpg/180px-Prop_vane_anemometer.jpg 2x" width="90"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Helicoid" title="Helicoid">Helicoid</a> propeller anemometer incorporating a <a class="mw-redirect" href="/wiki/Wind_vane" title="Wind vane">wind vane</a> for orientation</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:35px auto;"><a class="image" href="/wiki/File:Anemometer-IMG_4734-white.jpg"><img alt="" data-file-height="2848" data-file-width="4272" height="80" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anemometer-IMG_4734-white.jpg/120px-Anemometer-IMG_4734-white.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anemometer-IMG_4734-white.jpg/180px-Anemometer-IMG_4734-white.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2e/Anemometer-IMG_4734-white.jpg/240px-Anemometer-IMG_4734-white.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Hand-held low-speed vane anemometer</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Digital_Handheld_Anemometer.jpg"><img alt="" data-file-height="4032" data-file-width="3024" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Digital_Handheld_Anemometer.jpg/90px-Digital_Handheld_Anemometer.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Digital_Handheld_Anemometer.jpg/135px-Digital_Handheld_Anemometer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Digital_Handheld_Anemometer.jpg/180px-Digital_Handheld_Anemometer.jpg 2x" width="90"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Hand-held digital anemometer</p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Hot-wire_anemometers">Hot-wire anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=5" title="Edit section: Hot-wire anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Hd_sonde.jpg"><img alt="" class="thumbimage" data-file-height="126" data-file-width="150" height="126" src="//upload.wikimedia.org/wikipedia/commons/c/ca/Hd_sonde.jpg" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Hd_sonde.jpg" title="Enlarge"></a></div>
+Hot-wire sensor</div>
+</div>
+</div>
+<p>Hot wire anemometers use a very fine wire (on the order of several micrometres) electrically heated to some temperature above the ambient. Air flowing past the wire cools the wire. As the electrical resistance of most metals is dependent upon the temperature of the metal (<a href="/wiki/Tungsten" title="Tungsten">tungsten</a> is a popular choice for hot-wires), a relationship can be obtained between the resistance of the wire and the flow speed.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>Several ways of implementing this exist, and hot-wire devices can be further classified as CCA (<a href="/wiki/Constant_current" title="Constant current">constant current</a> anemometer), CVA (<a href="/wiki/Voltage_source" title="Voltage source">constant voltage</a> anemometer) and CTA (constant-temperature anemometer). The voltage output from these anemometers is thus the result of some sort of circuit within the device trying to maintain the specific variable (current, voltage or temperature) constant, following <a href="/wiki/Ohm%27s_law" title="Ohm's law">Ohm's law</a>.</p>
+<p>Additionally, PWM (<a href="/wiki/Pulse-width_modulation" title="Pulse-width modulation">pulse-width modulation</a>) anemometers are also used, wherein the velocity is inferred by the time length of a repeating pulse of current that brings the wire up to a specified resistance and then stops until a threshold "floor" is reached, at which time the pulse is sent again.</p>
+<p>Hot-wire anemometers, while extremely delicate, have extremely high frequency-response and fine spatial resolution compared to other measurement methods, and as such are almost universally employed for the detailed study of turbulent flows, or any flow in which rapid velocity fluctuations are of interest.</p>
+<p>An industrial version of the fine-wire anemometer is the <a href="/wiki/Thermal_mass_flow_meter" title="Thermal mass flow meter">thermal flow meter</a>, which follows the same concept but uses two pins or strings to monitor the variation in temperature. The strings contain fine wires, but encasing the wires makes them much more durable and capable of accurately measuring air, gas, and emissions flow in pipes, ducts, and stacks. Industrial applications often contain dirt that will damage the classic hot-wire anemometer.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:362px;"><a class="image" href="/wiki/File:Laser_anemometer.png"><img alt="" class="thumbimage" data-file-height="588" data-file-width="1186" height="178" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Laser_anemometer.png/360px-Laser_anemometer.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Laser_anemometer.png/540px-Laser_anemometer.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Laser_anemometer.png/720px-Laser_anemometer.png 2x" width="360"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Laser_anemometer.png" title="Enlarge"></a></div>
+Drawing of a laser anemometer. The laser light is emitted (1) through the front lens (6) of the anemometer and is backscattered off the air molecules (7). The backscattered radiation (dots) re-enters the device and is reflected and directed into a detector (12).</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Laser_Doppler_anemometers">Laser Doppler anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=6" title="Edit section: Laser Doppler anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Laser_Doppler_velocimetry" title="Laser Doppler velocimetry">laser Doppler velocimetry</a>, laser Doppler anemometers use a beam of light from a <a href="/wiki/Laser" title="Laser">laser</a> that is divided into two beams, with one propagated out of the anemometer. Particulates (or deliberately introduced seed material) flowing along with air molecules near where the beam exits reflect, or backscatter, the light back into a detector, where it is measured relative to the original laser beam. When the particles are in great motion, they produce a <a class="mw-redirect" href="/wiki/Doppler_shift" title="Doppler shift">Doppler shift</a> for measuring wind speed in the laser light, which is used to calculate the speed of the particles, and therefore the air around the anemometer.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Ultrasonic_Windsensor.png"><img alt="" class="thumbimage" data-file-height="400" data-file-width="300" height="293" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/Ultrasonic_Windsensor.png/220px-Ultrasonic_Windsensor.png" srcset="//upload.wikimedia.org/wikipedia/commons/b/b1/Ultrasonic_Windsensor.png 1.5x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ultrasonic_Windsensor.png" title="Enlarge"></a></div>
+2D ultrasonic anemometer with 3 paths</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Ultrasonic_anemometers">Ultrasonic anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=7" title="Edit section: Ultrasonic anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:WindMaster.jpg"><img alt="" class="thumbimage" data-file-height="259" data-file-width="200" height="259" src="//upload.wikimedia.org/wikipedia/commons/8/87/WindMaster.jpg" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:WindMaster.jpg" title="Enlarge"></a></div>
+3D ultrasonic anemometer</div>
+</div>
+</div>
+<p>Ultrasonic anemometers, first developed in the 1950s, use <a href="/wiki/Ultrasound" title="Ultrasound">ultrasonic sound waves</a> to measure wind velocity. They measure wind speed based on the time of flight of sonic pulses between pairs of <a href="/wiki/Transducer" title="Transducer">transducers</a>. Measurements from pairs of transducers can be combined to yield a measurement of velocity in 1-, 2-, or 3-dimensional flow. The <a class="mw-redirect" href="/wiki/Spatial_resolution" title="Spatial resolution">spatial resolution</a> is given by the path length between transducers, which is typically 10 to 20 <a class="mw-redirect" href="/wiki/Centimeter" title="Centimeter">cm</a>. Ultrasonic anemometers can take measurements with very fine <a href="/wiki/Temporal_resolution" title="Temporal resolution">temporal resolution</a>, 20 <a href="/wiki/Hertz" title="Hertz">Hz</a> or better, which makes them well suited for <a href="/wiki/Turbulence" title="Turbulence">turbulence</a> measurements. The lack of moving parts makes them appropriate for long-term use in exposed automated weather stations and weather buoys where the accuracy and reliability of traditional cup-and-vane anemometers are adversely affected by salty air or dust. Their main disadvantage is the distortion of the flow itself by the structure supporting the transducers, which requires a correction based upon wind tunnel measurements to minimize the effect. An international standard for this process, <a class="new" href="/w/index.php?title=ISO_16622&amp;action=edit&amp;redlink=1" title="ISO 16622 (page does not exist)">ISO 16622</a> <i>Meteorology—Ultrasonic anemometers/thermometers—Acceptance test methods for mean wind measurements</i> is in general circulation. Another disadvantage is lower accuracy due to precipitation, where rain drops may vary the <a href="/wiki/Speed_of_sound" title="Speed of sound">speed of sound</a>.</p>
+<p>Since the speed of sound varies with temperature, and is virtually stable with pressure change, ultrasonic anemometers are also used as <a class="mw-redirect" href="/wiki/Thermometers" title="Thermometers">thermometers</a>. Two-dimensional (wind speed and wind direction) sonic anemometers are used in applications such as <a href="/wiki/Weather_station" title="Weather station">weather stations</a>, ship navigation, aviation, <a href="/wiki/Weather_buoy" title="Weather buoy">weather buoys</a> and wind turbines. Monitoring wind turbines usually requires a refresh rate of wind speed measurements of 3 Hz,<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> easily achieved by sonic anemometers. Three-dimensional sonic anemometers are widely used to measure gas emissions and ecosystem fluxes using the <a href="/wiki/Eddy_covariance" title="Eddy covariance">eddy covariance</a> method when used with fast-response <a href="/wiki/Infrared_gas_analyzer" title="Infrared gas analyzer">infrared gas analyzers</a> or <a href="/wiki/Laser" title="Laser">laser</a>-based analyzers.</p>
+<p>Two-dimensional wind sensors are of two types:</p>
+<ul>
+<li><b>Two ultrasounds paths</b>: These sensors have 4 arms. The disadvantage of this type of sensor is that when the wind comes in the direction of an ultrasound path, the arms disturb the airflow, reducing the accuracy of the resulting measurement.</li>
+<li><b>Three ultrasounds paths</b>: These sensors have 3 arms. They give one path redundancy of the measurement which improves the sensor accuracy and reduces aerodynamic turbulence.</li>
+</ul>
+<h4><span class="mw-headline" id="Acoustic_resonance_anemometers">Acoustic resonance anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=8" title="Edit section: Acoustic resonance anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Acoustic_Resonance_Wind_Sensor.jpg"><img alt="" class="thumbimage" data-file-height="240" data-file-width="200" height="240" src="//upload.wikimedia.org/wikipedia/commons/0/05/Acoustic_Resonance_Wind_Sensor.jpg" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Acoustic_Resonance_Wind_Sensor.jpg" title="Enlarge"></a></div>
+Acoustic resonance anemometer</div>
+</div>
+</div>
+<p>Acoustic resonance anemometers are a more recent variant of sonic anemometer. The technology was invented by Dr Savvas Kapartis and patented (Acu-Res®) by FT Technologies in 2000.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Whereas conventional sonic anemometers rely on time of flight measurement, acoustic resonance sensors use resonating acoustic (ultrasonic) waves within a small purpose-built cavity in order to perform their measurement.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Acoustic_Resonance_Anemometer.jpg"><img alt="" class="thumbimage" data-file-height="249" data-file-width="495" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Acoustic_Resonance_Anemometer.jpg/220px-Acoustic_Resonance_Anemometer.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Acoustic_Resonance_Anemometer.jpg/330px-Acoustic_Resonance_Anemometer.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Acoustic_Resonance_Anemometer.jpg/440px-Acoustic_Resonance_Anemometer.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Acoustic_Resonance_Anemometer.jpg" title="Enlarge"></a></div>
+Acoustic resonance principle</div>
+</div>
+</div>
+<p>Built into the cavity is an array of ultrasonic transducers, which are used to create the separate standing-wave patterns at ultrasonic frequencies. As wind passes through the cavity, a change in the wave’s property occurs (phase shift). By measuring the amount of phase shift in the received signals by each transducer, and then by mathematically processing the data, the sensor is able to provide an accurate horizontal measurement of wind speed and direction.</p>
+<p>Acoustic resonance technology enables measurement within a small cavity, the sensors therefore tend to be typically smaller in size than other ultrasonic sensors. The small size of acoustic resonance anemometers makes them physically strong and easy to heat and therefore resistant to icing. This combination of features means that they achieve high levels of data availability and are well suited to wind turbine control and to other uses that require small robust sensors such as battlefield meteorology. One issue with this sensor type is measurement accuracy when compared to a calibrated mechanical sensor. For many end uses, this weakness is compensated for by the sensor's longevity and the fact that it does not require re-calibrating once installed.</p>
+<h3><span class="mw-headline" id="Ping-pong_ball_anemometers">Ping-pong ball anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=9" title="Edit section: Ping-pong ball anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A common anemometer for basic use is constructed from a <a class="mw-redirect" href="/wiki/Ping-pong_ball" title="Ping-pong ball">ping-pong ball</a> attached to a string. When the wind blows horizontally, it presses on and moves the ball; because ping-pong balls are very lightweight, they move easily in light winds. Measuring the angle between the string-ball apparatus and the vertical gives an estimate of the wind speed.</p>
+<p>This type of anemometer is mostly used for middle-school level instruction which most students make themselves, but a similar device was also flown on <a class="mw-redirect" href="/wiki/Phoenix_Mars_Lander#Meteorological_station" title="Phoenix Mars Lander">Phoenix Mars Lander</a>.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<h2><span class="mw-headline" id="Pressure_anemometers">Pressure anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=10" title="Edit section: Pressure anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Britannia_Yacht_Club_tour,_burgee,_and_wind_gauge.jpg"><img alt="" class="thumbimage" data-file-height="614" data-file-width="614" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Britannia_Yacht_Club_tour%2C_burgee%2C_and_wind_gauge.jpg/220px-Britannia_Yacht_Club_tour%2C_burgee%2C_and_wind_gauge.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Britannia_Yacht_Club_tour%2C_burgee%2C_and_wind_gauge.jpg/330px-Britannia_Yacht_Club_tour%2C_burgee%2C_and_wind_gauge.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/80/Britannia_Yacht_Club_tour%2C_burgee%2C_and_wind_gauge.jpg/440px-Britannia_Yacht_Club_tour%2C_burgee%2C_and_wind_gauge.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Britannia_Yacht_Club_tour,_burgee,_and_wind_gauge.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Britannia_Yacht_Club" title="Britannia Yacht Club">Britannia Yacht Club</a> clubhouse tour, burgee, and wind gauge on roof</div>
+</div>
+</div>
+<p>The first designs of anemometers which measure the pressure were divided into plate and tube classes.</p>
+<h3><span class="mw-headline" id="Plate_anemometers">Plate anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=11" title="Edit section: Plate anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>These are the first modern anemometers. They consist of a flat plate suspended from the top so that the wind deflects the plate. In 1450, the Italian art architect Leon Battista Alberti invented the first mechanical anemometer; in 1664 it was re-invented by Robert Hooke (who is often mistakenly considered the inventor of the first anemometer). Later versions of this form consisted of a flat plate, either square or circular, which is kept normal to the wind by a wind vane. The pressure of the wind on its face is balanced by a spring. The compression of the spring determines the actual force which the wind is exerting on the plate, and this is either read off on a suitable gauge, or on a recorder. Instruments of this kind do not respond to light winds, are inaccurate for high wind readings, and are slow at responding to variable winds. Plate anemometers have been used to trigger high wind alarms on bridges.</p>
+<h3><span class="mw-headline" id="Tube_anemometers">Tube anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=12" title="Edit section: Tube anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Tube_anemometer_invented_by_William_Henry_Dines.jpg"><img alt="" class="thumbimage" data-file-height="307" data-file-width="436" height="155" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tube_anemometer_invented_by_William_Henry_Dines.jpg/220px-Tube_anemometer_invented_by_William_Henry_Dines.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/77/Tube_anemometer_invented_by_William_Henry_Dines.jpg/330px-Tube_anemometer_invented_by_William_Henry_Dines.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/7/77/Tube_anemometer_invented_by_William_Henry_Dines.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Tube_anemometer_invented_by_William_Henry_Dines.jpg" title="Enlarge"></a></div>
+Tube anemometer invented by William Henry Dines. The movable part (right) is mounted on the fixed part (left).</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Instruments_at_Mount_Washington_Observatory.JPG"><img alt="" class="thumbimage" data-file-height="3024" data-file-width="4032" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Instruments_at_Mount_Washington_Observatory.JPG/220px-Instruments_at_Mount_Washington_Observatory.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Instruments_at_Mount_Washington_Observatory.JPG/330px-Instruments_at_Mount_Washington_Observatory.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7f/Instruments_at_Mount_Washington_Observatory.JPG/440px-Instruments_at_Mount_Washington_Observatory.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Instruments_at_Mount_Washington_Observatory.JPG" title="Enlarge"></a></div>
+Instruments at <a href="/wiki/Mount_Washington_Observatory" title="Mount Washington Observatory">Mount Washington Observatory</a>. The pitot tube static anemometer is on the right.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Pitot_tube_static_anemometer.JPG"><img alt="" class="thumbimage" data-file-height="3024" data-file-width="4032" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pitot_tube_static_anemometer.JPG/220px-Pitot_tube_static_anemometer.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pitot_tube_static_anemometer.JPG/330px-Pitot_tube_static_anemometer.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Pitot_tube_static_anemometer.JPG/440px-Pitot_tube_static_anemometer.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Pitot_tube_static_anemometer.JPG" title="Enlarge"></a></div>
+The pointed head is the pitot port. The small holes are connected to the static port.</div>
+</div>
+</div>
+<p><a href="/wiki/James_Lind_(1736%E2%80%931812)" title="James Lind (1736–1812)">James Lind</a>'s anemometer of 1775 consisted of a glass U tube containing a liquid <a class="mw-redirect" href="/wiki/Manometer" title="Manometer">manometer</a> (pressure gauge), with one end bent in a horizontal direction to face the wind and the other vertical end remains parallel to the wind flow. Though the Lind was not the first it was the most practical and best known anemometer of this type. If the wind blows into the mouth of a tube it causes an increase of pressure on one side of the manometer. The wind over the open end of a vertical tube causes little change in pressure on the other side of the manometer. The resulting elevation difference in the two legs of the U tube is an indication of the wind speed. However, an accurate measurement requires that the wind speed be directly into the open end of the tube; small departures from the true direction of the wind causes large variations in the reading.</p>
+<p>The successful metal pressure tube anemometer of William Henry Dines in 1892 utilized the same pressure difference between the open mouth of a straight tube facing the wind and a ring of small holes in a vertical tube which is closed at the upper end. Both are mounted at the same height. The pressure differences on which the action depends are very small, and special means are required to register them. The recorder consists of a float in a sealed chamber partially filled with water. The pipe from the straight tube is connected to the top of the sealed chamber and the pipe from the small tubes is directed into the bottom inside the float. Since the pressure difference determines the vertical position of the float this is a measure of the wind speed.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<p>The great advantage of the tube anemometer lies in the fact that the exposed part can be mounted on a high pole, and requires no oiling or attention for years; and the registering part can be placed in any convenient position. Two connecting tubes are required. It might appear at first sight as though one connection would serve, but the differences in pressure on which these instruments depend are so minute, that the pressure of the air in the room where the recording part is placed has to be considered. Thus if the instrument depends on the pressure or suction effect alone, and this pressure or suction is measured against the air pressure in an ordinary room, in which the doors and windows are carefully closed and a newspaper is then burnt up the chimney, an effect may be produced equal to a wind of 10 mi/h (16 km/h); and the opening of a window in rough weather, or the opening of a door, may entirely alter the registration.</p>
+<p>While the Dines anemometer had an error of only 1% at 10 mph (16 km/h) it did not respond very well to low winds due to the poor response of the flat plate vane required to turn the head into the wind. In 1918 an aerodynamic vane with eight times the torque of the flat plate overcame this problem.</p>
+<h4><span class="mw-headline" id="Pitot_tube_static_anemometers">Pitot tube static anemometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=13" title="Edit section: Pitot tube static anemometers">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Modern tube anemometers use the same principle as in the Dines anemometer but using a different design. The implementation uses a <a href="/wiki/Pitot_tube" title="Pitot tube">pitot-static tube</a> which is a pitot tube with two ports, pitot and static, that is normally used in measuring the airspeed of aircraft. The pitot port measures the dynamic pressure of the open mouth of a tube with pointed head facing wind, and the static port measures the static pressure from small holes along the side on that tube. The pitot tube is connected to a tail so that it always makes the tube's head to face the wind. Additionally, the tube is heated to prevent <a class="mw-redirect" href="/wiki/Rime_ice" title="Rime ice">rime ice</a> formation on the tube.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> There are two lines from the tube down to the devices to measure the difference in pressure of the two lines. The measurement devices can be <a class="mw-redirect" href="/wiki/Manometer" title="Manometer">manometers</a>, <a class="mw-redirect" href="/wiki/Pressure_transducer" title="Pressure transducer">pressure transducers</a>, or analog <a href="/wiki/Chart_recorder" title="Chart recorder">chart recorders</a>.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="Effect_of_density_on_measurements">Effect of density on measurements</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=14" title="Edit section: Effect of density on measurements">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the tube anemometer the dynamic pressure is actually being measured, although the scale is usually graduated as a velocity scale. If the actual air density differs from the calibration value, due to differing temperature, elevation or barometric pressure, a correction is required to obtain the actual wind speed. Approximately 1.5% (1.6% above 6,000 feet) should be added to the velocity recorded by a tube anemometer for each 1000 ft (5% for each kilometer) above sea-level.</p>
+<h2><span class="mw-headline" id="Effect_of_icing">Effect of icing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=15" title="Edit section: Effect of icing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>At airports, it is essential to have accurate wind data under all conditions, including freezing precipitation. Anemometry is also required in monitoring and controlling the operation of wind turbines, which in cold environments are prone to in-cloud icing. Icing alters the aerodynamics of an anemometer and may entirely block it from operating. Therefore, anemometers used in these applications must be internally heated.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> Both cup anemometers and sonic anemometers are presently available with heated versions.</p>
+<h2><span class="mw-headline" id="Instrument_location">Instrument location</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=16" title="Edit section: Instrument location">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In order for wind speeds to be comparable from location to location, the effect of the terrain needs to be considered, especially in regard to height. Other considerations are the presence of trees, and both natural canyons and artificial canyons (urban buildings). The standard anemometer height in open rural terrain is 10 meters.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=17" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><a class="image" href="/wiki/File:Yacht_foresail.svg"><img alt="icon" class="noviewer" data-file-height="955" data-file-width="836" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yacht_foresail.svg/24px-Yacht_foresail.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yacht_foresail.svg/37px-Yacht_foresail.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8f/Yacht_foresail.svg/49px-Yacht_foresail.svg.png 2x" width="24"/></a></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Nautical" title="Portal:Nautical">Nautical portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li>
+<li><a href="/wiki/Anemoi" title="Anemoi">Anemoi</a>, for the ancient origin of the name of this technology</li>
+<li><a href="/wiki/Anemoscope" title="Anemoscope">Anemoscope</a>, ancient device for measuring or predicting wind direction or weather</li>
+<li><a href="/wiki/Automated_airport_weather_station" title="Automated airport weather station">Automated airport weather station</a></li>
+<li><a href="/wiki/Night_of_the_Big_Wind" title="Night of the Big Wind">Night of the Big Wind</a></li>
+<li><a href="/wiki/Particle_image_velocimetry" title="Particle image velocimetry">Particle image velocimetry</a></li>
+<li><a href="/wiki/Wind_power_forecasting" title="Wind power forecasting">Wind power forecasting</a></li>
+<li><a href="/wiki/Wind_run" title="Wind run">Wind run</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=18" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.logicenergy.com/articles/history-anemometer/" rel="nofollow">"History of the Anemometer"</a>. Logic Energy<span class="reference-accessdate">. Retrieved <span class="nowrap">14 April</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.btitle=History+of+the+Anemometer&amp;rft.genre=unknown&amp;rft.pub=Logic+Energy&amp;rft_id=http%3A%2F%2Fwww.logicenergy.com%2Farticles%2Fhistory-anemometer%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-WMO-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-WMO_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/World_Meteorological_Organization" title="World Meteorological Organization">World Meteorological Organization</a>. <a class="external text" href="http://www.eumetcal.org/resources/ukmeteocal/rapid_cyclo/www/english/glossary/vaneanem.htm" rel="nofollow">"Vane anemometer"</a>. <i>Eumetcal</i><span class="reference-accessdate">. Retrieved <span class="nowrap">6 April</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.atitle=Vane+anemometer&amp;rft.au=World+Meteorological+Organization&amp;rft.genre=unknown&amp;rft.jtitle=Eumetcal&amp;rft_id=http%3A%2F%2Fwww.eumetcal.org%2Fresources%2Fukmeteocal%2Frapid_cyclo%2Fwww%2Fenglish%2Fglossary%2Fvaneanem.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.efunda.com/designstandards/sensors/hot_wires/hot_wires_intro.cfm" rel="nofollow">"Hot-wire Anemometer explanation"</a>. eFunda. <a class="external text" href="https://web.archive.org/web/20061010125307/http://www.efunda.com/DesignStandards/sensors/hot_wires/hot_wires_intro.cfm" rel="nofollow">Archived</a> from the original on 10 October 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2006</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.btitle=Hot-wire+Anemometer+explanation&amp;rft.genre=unknown&amp;rft.pub=eFunda&amp;rft_id=http%3A%2F%2Fwww.efunda.com%2Fdesignstandards%2Fsensors%2Fhot_wires%2Fhot_wires_intro.cfm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web">Iten, Paul D. (29 June 1976). <a class="external text" href="http://patft.uspto.gov/netacgi/nph-Parser?patentnumber=3966324" rel="nofollow">"Laser Doppler Anemometer"</a>. United States Patent and Trademark Office<span class="reference-accessdate">. Retrieved <span class="nowrap">18 September</span> 2006</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.aufirst=Paul+D.&amp;rft.aulast=Iten&amp;rft.btitle=Laser+Doppler+Anemometer&amp;rft.date=1976-06-29&amp;rft.genre=unknown&amp;rft.pub=United+States+Patent+and+Trademark+Office&amp;rft_id=http%3A%2F%2Fpatft.uspto.gov%2Fnetacgi%2Fnph-Parser%3Fpatentnumber%3D3966324&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Giebhardt, Jochen (December 20, 2010). "Chapter 11: Wind turbine condition monitoring systems and techniques". In Dalsgaard Sørensen, John; N Sørensen, Jens. <i>Wind Energy Systems: Optimising design and construction for safe and reliable operation</i>. Elsevier. pp. 329–349. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780857090638" title="Special:BookSources/9780857090638">9780857090638</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.atitle=Chapter+11%3A+Wind+turbine+condition+monitoring+systems+and+techniques&amp;rft.aufirst=Jochen&amp;rft.aulast=Giebhardt&amp;rft.btitle=Wind+Energy+Systems%3A+Optimising+design+and+construction+for+safe+and+reliable+operation&amp;rft.date=2010-12-20&amp;rft.genre=bookitem&amp;rft.isbn=9780857090638&amp;rft.pages=329-349&amp;rft.pub=Elsevier&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">European Patent No. EPO 801311 A and USA Patent No. 5,877,416 (1999)</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://marslab.au.dk/research/instrument-development/the-telltale-project/" rel="nofollow">"The Telltale project."</a> <a class="external text" href="https://web.archive.org/web/20120220080017/http://www.marslab.dk/TelltaleProject.html" rel="nofollow">Archived</a> 20 February 2012 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dines, W. H. (1892). <a class="external text" href="https://books.google.com/books?id=f2kMAAAAYAAJ&amp;pg=PA168#v=onepage&amp;q&amp;f=false" rel="nofollow">"Anemometer Comparisons"</a>. <i>Quarterly Journal of the Royal Meteorological Society</i>. Royal Meteorological Society (Great Britain), James Glaisher. <b>18</b>: 168. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1892QJRMS..18..165D" rel="nofollow">1892QJRMS..18..165D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fqj.4970188303" rel="nofollow">10.1002/qj.4970188303</a><span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.atitle=Anemometer+Comparisons&amp;rft.aufirst=W.+H.&amp;rft.aulast=Dines&amp;rft.date=1892&amp;rft.genre=article&amp;rft.jtitle=Quarterly+Journal+of+the+Royal+Meteorological+Society&amp;rft.pages=168&amp;rft.volume=18&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3Df2kMAAAAYAAJ%26pg%3DPA168%23v%3Donepage%26q%26f%3Dfalse&amp;rft_id=info%3Abibcode%2F1892QJRMS..18..165D&amp;rft_id=info%3Adoi%2F10.1002%2Fqj.4970188303&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.accuweather.com/en/weather-blogs/clarkb/instrumentation/14828" rel="nofollow">"Instrumentation: Pitot Tube Static Anemometer, Part 1"</a>. Mt. Washington Observatory<span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.btitle=Instrumentation%3A+Pitot+Tube+Static+Anemometer%2C+Part+1&amp;rft.genre=unknown&amp;rft.pub=Mt.+Washington+Observatory&amp;rft_id=http%3A%2F%2Fwww.accuweather.com%2Fen%2Fweather-blogs%2Fclarkb%2Finstrumentation%2F14828&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.accuweather.com/en/weather-blogs/clarkb/instrumentation-1/15065" rel="nofollow">"Instrumentation: Pitot Tube Static Anemometer, Part 2"</a>. Mt. Washington Observatory<span class="reference-accessdate">. Retrieved <span class="nowrap">14 July</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.btitle=Instrumentation%3A+Pitot+Tube+Static+Anemometer%2C+Part+2&amp;rft.genre=unknown&amp;rft.pub=Mt.+Washington+Observatory&amp;rft_id=http%3A%2F%2Fwww.accuweather.com%2Fen%2Fweather-blogs%2Fclarkb%2Finstrumentation-1%2F15065&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Makkonen, L. et al. (2001) Anemometry in icing conditions. Journal of Atmospheric and Oceanic Technology 18:1457-1469</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation book">Oke, Tim R. (2006). "3.5 Wind speed and direction". <a class="external text" href="http://www.wmo.int/pages/prog/www/IMOP/publications/IOM-81/IOM-81-UrbanMetObs.pdf" rel="nofollow"><i>Initial Guidance to Obtain Representative Meteorological Observations At Urban Sites</i></a> <span style="font-size:85%;">(PDF)</span>. Instruments and Observing Methods. <b>81</b>. World Meteorological Organization. pp. 19–26<span class="reference-accessdate">. Retrieved <span class="nowrap">4 February</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.atitle=3.5+Wind+speed+and+direction&amp;rft.aufirst=Tim+R.&amp;rft.aulast=Oke&amp;rft.btitle=Initial+Guidance+to+Obtain+Representative+Meteorological+Observations+At+Urban+Sites&amp;rft.date=2006&amp;rft.genre=bookitem&amp;rft.pages=19-26&amp;rft.pub=World+Meteorological+Organization&amp;rft.series=Instruments+and+Observing+Methods&amp;rft_id=http%3A%2F%2Fwww.wmo.int%2Fpages%2Fprog%2Fwww%2FIMOP%2Fpublications%2FIOM-81%2FIOM-81-UrbanMetObs.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="refbegin" style="">
+<ul>
+<li>Meteorological Instruments, W.E. Knowles Middleton and Athelstan F. Spilhaus, Third Edition revised, University of Toronto Press, Toronto, 1953</li>
+<li>Invention of the Meteorological Instruments, W. E. Knowles Middleton, The Johns Hopkins Press, Baltimore, 1969</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Anemometer&amp;action=edit&amp;section=20" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Anemometer" title="commons:Anemometer">Anemometer</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/anemometer" title="wiktionary:anemometer">anemometer</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<ul>
+<li><img alt="Wikisource-logo.svg" data-file-height="430" data-file-width="410" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" width="12"/> <cite class="citation encyclopaedia">"<a class="extiw" href="https://en.wikisource.org/wiki/Encyclop%C3%A6dia_Britannica,_Ninth_Edition/Anemometer" title="s:Encyclopædia Britannica, Ninth Edition/Anemometer">Anemometer</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">Encyclopædia Britannica</a></i>. <b>2</b> (9th ed.). 1878. pp. 24–26.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.atitle=Anemometer&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1878&amp;rft.edition=9th&amp;rft.genre=bookitem&amp;rft.pages=24-26&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><img alt="Wikisource-logo.svg" data-file-height="430" data-file-width="410" height="13" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/12px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/18px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/24px-Wikisource-logo.svg.png 2x" width="12"/> <cite class="citation encyclopaedia"><a href="/wiki/William_Henry_Dines" title="William Henry Dines">Dines, William Henry</a> (1911). "<a class="extiw" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Anemometer" title="wikisource:1911 Encyclopædia Britannica/Anemometer">Anemometer</a>". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">Encyclopædia Britannica</a></i>. <b>2</b> (11th ed.). pp. 2–3.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAnemometer&amp;rft.atitle=Anemometer&amp;rft.aufirst=William+Henry&amp;rft.aulast=Dines&amp;rft.btitle=Encyclop%C3%A6dia+Britannica&amp;rft.date=1911&amp;rft.edition=11th&amp;rft.genre=bookitem&amp;rft.pages=2-3&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><a class="external text" href="http://www.dl1glh.de/ultrasonic-anemometer.html" rel="nofollow">Description of the development and the construction of an ultrasonic anemometer</a></li>
+<li><a class="external text" href="http://www.arm.ac.uk/annrep/annrep2000/node13.html" rel="nofollow">Robinson Cup Anemometer</a> - Armagh Observatory</li>
+<li><a class="external text" href="http://www.gill.co.uk/products/anemometer/principleofoperation.htm" rel="nofollow">Animation Showing Sonic Principle of Operation (Time of Flight Theory)</a> - Gill Instruments</li>
+<li><a class="external text" href="http://www.geag.de/txt_sammlung.htm" rel="nofollow">Collection of historical anemometer</a></li>
+<li><a class="external text" href="http://www.fttechnologies.com/About-FT/FT-Technologies/Acu-Res-Technology" rel="nofollow">Principle of Operation: Acoustic Resonance measurement</a> - FT Technologies</li>
+<li><a class="external text" href="http://www.thermopedia.com/content/558" rel="nofollow">Thermopedia, "Anemometers (laser doppler)"</a></li>
+<li><a class="external text" href="http://www.thermopedia.com/content/559" rel="nofollow">Thermopedia, "Anemometers (pulsed thermal)"</a></li>
+<li><a class="external text" href="http://www.thermopedia.com/content/560" rel="nofollow">Thermopedia, "Anemometers (vane)"</a></li>
+<li><a class="external text" href="http://users.tpg.com.au/derekwtpg/diy_anemometer/anemain.htm" rel="nofollow">The Rotorvane Anemometer. Measuring both wind speed and direction using a tagged three-cup sensor</a></li>
+</ul>
+<div aria-labelledby="Earth-based_meteorological_equipment_and_instrumentation" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_equipment" title="Template:Meteorological equipment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_equipment" title="Template talk:Meteorological equipment"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_equipment&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Earth-based_meteorological_equipment_and_instrumentation" style="font-size:114%;margin:0 4em">Earth-based <a href="/wiki/Meteorological_instrumentation" title="Meteorological instrumentation">meteorological equipment and instrumentation</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Anemometer</a></li>
+<li><a href="/wiki/Atmometer" title="Atmometer">Atmometer</a></li>
+<li><a href="/wiki/Barograph" title="Barograph">Barograph</a></li>
+<li><a href="/wiki/Barometer" title="Barometer">Barometer</a></li>
+<li><a href="/wiki/Ceiling_balloon" title="Ceiling balloon">Ceiling balloon</a></li>
+<li><a href="/wiki/Ceiling_projector" title="Ceiling projector">Ceiling projector</a></li>
+<li><a href="/wiki/Ceilometer" title="Ceilometer">Ceilometer</a></li>
+<li><a href="/wiki/Dark_adaptor_goggles" title="Dark adaptor goggles">Dark adaptor goggles</a></li>
+<li><a href="/wiki/Dewcell" title="Dewcell">Dewcell</a></li>
+<li><a href="/wiki/Disdrometer" title="Disdrometer">Disdrometer</a></li>
+<li><a href="/wiki/Dropsonde" title="Dropsonde">Dropsonde</a></li>
+<li><a href="/wiki/Field_mill" title="Field mill">Field mill</a></li>
+<li><a href="/wiki/Heat_flux_sensor" title="Heat flux sensor">Heat flux sensor</a></li>
+<li><a href="/wiki/Hygrometer" title="Hygrometer">Hygrometer</a></li>
+<li><a href="/wiki/Ice_accretion_indicator" title="Ice accretion indicator">Ice accretion indicator</a></li>
+<li><a href="/wiki/Lidar" title="Lidar">Lidar</a></li>
+<li><a href="/wiki/Lightning_detection" title="Lightning detection">Lightning detector</a></li>
+<li><a href="/wiki/Nephelometer" title="Nephelometer">Nephelometer</a></li>
+<li><a href="/wiki/Nephoscope" title="Nephoscope">Nephoscope</a></li>
+<li><a href="/wiki/Pan_evaporation" title="Pan evaporation">Pan evaporation</a></li>
+<li><a href="/wiki/Pyranometer" title="Pyranometer">Pyranometer</a></li>
+<li><a href="/wiki/Pyrheliometer" title="Pyrheliometer">Pyrheliometer</a></li>
+<li><a href="/wiki/Radiosonde" title="Radiosonde">Radiosonde</a></li>
+<li><a href="/wiki/Rain_gauge" title="Rain gauge">Rain gauge</a></li>
+<li><a href="/wiki/Snow_gauge" title="Snow gauge">Snow gauge</a></li>
+<li><a href="/wiki/Snowboard_(meteorology)" title="Snowboard (meteorology)">Snowboard</a></li>
+<li><a href="/wiki/Snow_pillow" title="Snow pillow">Snow pillow</a></li>
+<li><a href="/wiki/SODAR" title="SODAR">SODAR</a></li>
+<li><a href="/wiki/Solarimeter" title="Solarimeter">Solarimeter</a></li>
+<li><a href="/wiki/Sounding_rocket" title="Sounding rocket">Sounding rocket</a></li>
+<li><a href="/wiki/Stevenson_screen" title="Stevenson screen">Stevenson screen</a></li>
+<li><a href="/wiki/Sunshine_recorder" title="Sunshine recorder">Sunshine recorder</a></li>
+<li><a href="/wiki/Tethersonde" title="Tethersonde">Tethersonde</a></li>
+<li><a href="/wiki/Thermo-hygrograph" title="Thermo-hygrograph">Thermo-hygrograph</a></li>
+<li><a href="/wiki/Thermometer" title="Thermometer">Thermometer</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Transmissometer" title="Transmissometer">Transmissometer</a></li>
+<li><a href="/wiki/Weather_balloon" title="Weather balloon">Weather balloon</a></li>
+<li><a href="/wiki/Weather_buoy" title="Weather buoy">Weather buoy</a></li>
+<li><a href="/wiki/Weather_radar" title="Weather radar">Weather radar</a></li>
+<li><a href="/wiki/Weather_vane" title="Weather vane">Weather vane</a></li>
+<li><a href="/wiki/Whole_sky_camera" title="Whole sky camera">Whole sky camera</a></li>
+<li><a href="/wiki/Wind_profiler" title="Wind profiler">Wind profiler</a></li>
+<li><a href="/wiki/Windsock" title="Windsock">Windsock</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Sensors" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Sensors" title="Template:Sensors"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Sensors" title="Template talk:Sensors"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Sensors&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Sensors" style="font-size:114%;margin:0 4em"><a href="/wiki/Sensor" title="Sensor">Sensors</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Acoustic, sound, vibration</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geophone" title="Geophone">Geophone</a></li>
+<li><a href="/wiki/Hydrophone" title="Hydrophone">Hydrophone</a></li>
+<li><a href="/wiki/Microphone" title="Microphone">Microphone</a></li>
+<li><a href="/wiki/Seismometer" title="Seismometer">Seismometer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Automotive, transportation</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air%E2%80%93fuel_ratio_meter" title="Air–fuel ratio meter">Air–fuel ratio meter</a></li>
+<li><a href="/wiki/Blind_spot_monitor" title="Blind spot monitor">Blind spot monitor</a></li>
+<li><a href="/wiki/Crankshaft_position_sensor" title="Crankshaft position sensor">Crankshaft position sensor</a></li>
+<li><a href="/wiki/Curb_feeler" title="Curb feeler">Curb feeler</a></li>
+<li><a href="/wiki/Defect_detector" title="Defect detector">Defect detector</a></li>
+<li><a href="/wiki/Engine_coolant_temperature_sensor" title="Engine coolant temperature sensor">Engine coolant temperature sensor</a></li>
+<li><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></li>
+<li><a href="/wiki/MAP_sensor" title="MAP sensor">MAP sensor</a></li>
+<li><a href="/wiki/Mass_flow_sensor" title="Mass flow sensor">Mass flow sensor</a></li>
+<li><a href="/wiki/Omniview_technology" title="Omniview technology">Omniview technology</a></li>
+<li><a href="/wiki/Oxygen_sensor" title="Oxygen sensor">Oxygen sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Parking_sensors" title="Parking sensors">Parking sensors</a></li>
+<li><a href="/wiki/Radar_gun" title="Radar gun">Radar gun</a></li>
+<li><a href="/wiki/Speed_sensor" title="Speed sensor">Speed sensor</a></li>
+<li><a href="/wiki/Speedometer" title="Speedometer">Speedometer</a></li>
+<li><a href="/wiki/Throttle_position_sensor" title="Throttle position sensor">Throttle position sensor</a></li>
+<li><a href="/wiki/Tire-pressure_monitoring_system" title="Tire-pressure monitoring system">Tire-pressure monitoring system</a></li>
+<li><a href="/wiki/Torque_sensor" title="Torque sensor">Torque sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Transmission_fluid_Temperature_sensor_.28TFT.29" title="Transmission control unit">Transmission fluid temperature sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Turbine_speed_sensor_.28TSS.29" title="Transmission control unit">Turbine speed sensor</a></li>
+<li><a href="/wiki/Variable_reluctance_sensor" title="Variable reluctance sensor">Variable reluctance sensor</a></li>
+<li><a href="/wiki/Transmission_control_unit#Vehicle_speed_sensor_.28VSS.29" title="Transmission control unit">Vehicle speed sensor</a></li>
+<li><a href="/wiki/Water_sensor" title="Water sensor">Water sensor</a></li>
+<li><a href="/wiki/Wheel_speed_sensor" title="Wheel speed sensor">Wheel speed sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Chemical</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Breathalyzer" title="Breathalyzer">Breathalyzer</a></li>
+<li><a href="/wiki/Carbon_dioxide_sensor" title="Carbon dioxide sensor">Carbon dioxide sensor</a></li>
+<li><a href="/wiki/Carbon_monoxide_detector" title="Carbon monoxide detector">Carbon monoxide detector</a></li>
+<li><a href="/wiki/Catalytic_bead_sensor" title="Catalytic bead sensor">Catalytic bead sensor</a></li>
+<li><a href="/wiki/Chemical_field-effect_transistor" title="Chemical field-effect transistor">Chemical field-effect transistor</a></li>
+<li><a href="/wiki/Electrochemical_gas_sensor" title="Electrochemical gas sensor">Electrochemical gas sensor</a></li>
+<li><a href="/wiki/Electrolyte%E2%80%93insulator%E2%80%93semiconductor_sensor" title="Electrolyte–insulator–semiconductor sensor">Electrolyte–insulator–semiconductor sensor</a></li>
+<li><a href="/wiki/Electronic_nose" title="Electronic nose">Electronic nose</a></li>
+<li><a href="/wiki/Fluorescent_chloride_sensors" title="Fluorescent chloride sensors">Fluorescent chloride sensors</a></li>
+<li><a href="/wiki/Holographic_sensor" title="Holographic sensor">Holographic sensor</a></li>
+<li><a href="/wiki/Hydrocarbon_dew_point" title="Hydrocarbon dew point">Hydrocarbon dew point</a> analyzer</li>
+<li><a href="/wiki/Hydrogen_sensor" title="Hydrogen sensor">Hydrogen sensor</a></li>
+<li><a href="/wiki/Hydrogen_sulfide_sensor" title="Hydrogen sulfide sensor">Hydrogen sulfide sensor</a></li>
+<li><a href="/wiki/Infrared_point_sensor" title="Infrared point sensor">Infrared point sensor</a></li>
+<li><a href="/wiki/Ion_selective_electrode" title="Ion selective electrode">Ion selective electrode</a></li>
+<li><a href="/wiki/Microwave_chemistry_sensor" title="Microwave chemistry sensor">Microwave chemistry sensor</a></li>
+<li><a href="/wiki/Nitrogen_oxide_sensor" title="Nitrogen oxide sensor">Nitrogen oxide sensor</a></li>
+<li><a href="/wiki/Nondispersive_infrared_sensor" title="Nondispersive infrared sensor">Nondispersive infrared sensor</a></li>
+<li><a href="/wiki/Olfactometer" title="Olfactometer">Olfactometer</a></li>
+<li><a href="/wiki/Optode" title="Optode">Optode</a></li>
+<li><a href="/wiki/Oxygen_sensor" title="Oxygen sensor">Oxygen sensor</a></li>
+<li><a href="/wiki/Pellistor" title="Pellistor">Pellistor</a></li>
+<li><a class="mw-redirect" href="/wiki/PH_glass_electrode" title="PH glass electrode">pH glass electrode</a></li>
+<li><a href="/wiki/Potentiometric_sensor" title="Potentiometric sensor">Potentiometric sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Redox_electrode" title="Redox electrode">Redox electrode</a></li>
+<li><a href="/wiki/Smoke_detector" title="Smoke detector">Smoke detector</a></li>
+<li><a href="/wiki/Zinc_oxide_nanorod_sensor" title="Zinc oxide nanorod sensor">Zinc oxide nanorod sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Electric, magnetic, radio</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Current_sensor" title="Current sensor">Current sensor</a></li>
+<li><a href="/wiki/Electroscope" title="Electroscope">Electroscope</a></li>
+<li><a href="/wiki/Galvanometer" title="Galvanometer">Galvanometer</a></li>
+<li><a href="/wiki/Hall_effect_sensor" title="Hall effect sensor">Hall effect sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Hall_probe" title="Hall probe">Hall probe</a></li>
+<li><a href="/wiki/Magnetic_anomaly_detector" title="Magnetic anomaly detector">Magnetic anomaly detector</a></li>
+<li><a href="/wiki/Magnetometer" title="Magnetometer">Magnetometer</a></li>
+<li><a href="/wiki/MEMS_magnetic_field_sensor" title="MEMS magnetic field sensor">MEMS magnetic field sensor</a></li>
+<li><a href="/wiki/Metal_detector" title="Metal detector">Metal detector</a></li>
+<li><a href="/wiki/Planar_Hall_sensor" title="Planar Hall sensor">Planar Hall sensor</a></li>
+<li><a href="/wiki/Radio_direction_finder" title="Radio direction finder">Radio direction finder</a></li>
+<li><a href="/wiki/Test_light" title="Test light">Test light</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Environment, weather,<br/>
+moisture</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Actinometer" title="Actinometer">Actinometer</a></li>
+<li><a href="/wiki/Bedwetting_alarm" title="Bedwetting alarm">Bedwetting alarm</a></li>
+<li><a href="/wiki/Ceilometer" title="Ceilometer">Ceilometer</a></li>
+<li><a href="/wiki/Dew_warning" title="Dew warning">Dew warning</a></li>
+<li><a href="/wiki/Electrochemical_gas_sensor" title="Electrochemical gas sensor">Electrochemical gas sensor</a></li>
+<li><a href="/wiki/Fish_counter" title="Fish counter">Fish counter</a></li>
+<li><a href="/wiki/Frequency_domain_sensor" title="Frequency domain sensor">Frequency domain sensor</a></li>
+<li><a href="/wiki/Gas_detector" title="Gas detector">Gas detector</a></li>
+<li><a href="/wiki/Hook_gauge_evaporimeter" title="Hook gauge evaporimeter">Hook gauge evaporimeter</a></li>
+<li><a href="/wiki/Humistor" title="Humistor">Humistor</a></li>
+<li><a href="/wiki/Hygrometer" title="Hygrometer">Hygrometer</a></li>
+<li><a href="/wiki/Leaf_sensor" title="Leaf sensor">Leaf sensor</a></li>
+<li><a class="mw-redirect" href="/wiki/Psychrometer" title="Psychrometer">Psychrometer</a></li>
+<li><a href="/wiki/Pyranometer" title="Pyranometer">Pyranometer</a></li>
+<li><a href="/wiki/Pyrgeometer" title="Pyrgeometer">Pyrgeometer</a></li>
+<li><a href="/wiki/Rain_gauge" title="Rain gauge">Rain gauge</a></li>
+<li><a href="/wiki/Rain_sensor" title="Rain sensor">Rain sensor</a></li>
+<li><a href="/wiki/SNOTEL" title="SNOTEL">SNOTEL</a></li>
+<li><a href="/wiki/Snow_gauge" title="Snow gauge">Snow gauge</a></li>
+<li><a href="/wiki/Soil_moisture_sensor" title="Soil moisture sensor">Soil moisture sensor</a></li>
+<li><a href="/wiki/Stream_gauge" title="Stream gauge">Stream gauge</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Weather_radar" title="Weather radar">Weather radar</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Flow, fluid velocity</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air_flow_meter" title="Air flow meter">Air flow meter</a></li>
+<li><a class="mw-selflink selflink">Anemometer</a></li>
+<li><a class="mw-redirect" href="/wiki/Flow_sensor" title="Flow sensor">Flow sensor</a></li>
+<li><a href="/wiki/Gas_meter" title="Gas meter">Gas meter</a></li>
+<li><a href="/wiki/Mass_flow_sensor" title="Mass flow sensor">Mass flow sensor</a></li>
+<li><a href="/wiki/Water_metering" title="Water metering">Water metering</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ionising radiation,<br/>
+subatomic particles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bubble_chamber" title="Bubble chamber">Bubble chamber</a></li>
+<li><a href="/wiki/Cloud_chamber" title="Cloud chamber">Cloud chamber</a></li>
+<li><a href="/wiki/Geiger%E2%80%93M%C3%BCller_tube" title="Geiger–Müller tube">Geiger–Müller tube</a></li>
+<li><a href="/wiki/Geiger_counter" title="Geiger counter">Geiger counter</a></li>
+<li><a href="/wiki/Ionization_chamber" title="Ionization chamber">Ionization chamber</a></li>
+<li><a href="/wiki/Neutron_detection" title="Neutron detection">Neutron detection</a></li>
+<li><a href="/wiki/Particle_detector" title="Particle detector">Particle detector</a></li>
+<li><a href="/wiki/Proportional_counter" title="Proportional counter">Proportional counter</a></li>
+<li><a href="/wiki/Scintillation_counter" title="Scintillation counter">Scintillation counter</a></li>
+<li><a href="/wiki/Semiconductor_detector" title="Semiconductor detector">Semiconductor detector</a></li>
+<li><a href="/wiki/Scintillator" title="Scintillator">Scintillator</a></li>
+<li><a href="/wiki/Thermoluminescent_dosimeter" title="Thermoluminescent dosimeter">Thermoluminescent dosimeter</a></li>
+<li><a href="/wiki/Wire_chamber" title="Wire chamber">Wire chamber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Navigation instruments</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airspeed_indicator" title="Airspeed indicator">Airspeed indicator</a></li>
+<li><a href="/wiki/Machmeter" title="Machmeter">Machmeter</a></li>
+<li><a href="/wiki/Altimeter" title="Altimeter">Altimeter</a></li>
+<li><a href="/wiki/Attitude_indicator" title="Attitude indicator">Attitude indicator</a></li>
+<li><a href="/wiki/Depth_gauge" title="Depth gauge">Depth gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Fluxgate_compass" title="Fluxgate compass">Fluxgate compass</a></li>
+<li><a href="/wiki/Gyroscope" title="Gyroscope">Gyroscope</a></li>
+<li><a href="/wiki/Inertial_navigation_system" title="Inertial navigation system">Inertial navigation system</a></li>
+<li><a href="/wiki/Inertial_reference_unit" title="Inertial reference unit">Inertial reference unit</a></li>
+<li><a class="mw-redirect" href="/wiki/Magnetic_compass" title="Magnetic compass">Magnetic compass</a></li>
+<li><a class="mw-redirect" href="/wiki/MHD_sensor" title="MHD sensor">MHD sensor</a></li>
+<li><a href="/wiki/Ring_laser_gyroscope" title="Ring laser gyroscope">Ring laser gyroscope</a></li>
+<li><a class="mw-redirect" href="/wiki/Turn_coordinator" title="Turn coordinator">Turn coordinator</a></li>
+<li><a href="/wiki/Variometer" title="Variometer">Variometer</a></li>
+<li><a href="/wiki/Vibrating_structure_gyroscope" title="Vibrating structure gyroscope">Vibrating structure gyroscope</a></li>
+<li><a href="/wiki/Yaw-rate_sensor" title="Yaw-rate sensor">Yaw-rate sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Position, angle,<br/>
+displacement</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accelerometer" title="Accelerometer">Accelerometer</a></li>
+<li><a href="/wiki/Angular_rate_sensor" title="Angular rate sensor">Angular rate sensor</a></li>
+<li><a href="/wiki/Auxanometer" title="Auxanometer">Auxanometer</a></li>
+<li><a href="/wiki/Capacitive_displacement_sensor" title="Capacitive displacement sensor">Capacitive displacement sensor</a></li>
+<li><a href="/wiki/Capacitive_sensing" title="Capacitive sensing">Capacitive sensing</a></li>
+<li><a href="/wiki/Gravimeter" title="Gravimeter">Gravimeter</a></li>
+<li><a href="/wiki/Inclinometer" title="Inclinometer">Inclinometer</a></li>
+<li><a href="/wiki/Integrated_circuit_piezoelectric_sensor" title="Integrated circuit piezoelectric sensor">Integrated circuit piezoelectric sensor</a></li>
+<li><a href="/wiki/Laser_rangefinder" title="Laser rangefinder">Laser rangefinder</a></li>
+<li><a href="/wiki/Laser_surface_velocimeter" title="Laser surface velocimeter">Laser surface velocimeter</a></li>
+<li><a href="/wiki/Lidar" title="Lidar">Lidar</a></li>
+<li><a href="/wiki/Linear_encoder" title="Linear encoder">Linear encoder</a></li>
+<li><a href="/wiki/Linear_variable_differential_transformer" title="Linear variable differential transformer">Linear variable differential transformer</a></li>
+<li><a href="/wiki/Liquid_capacitive_inclinometers" title="Liquid capacitive inclinometers">Liquid capacitive inclinometers</a></li>
+<li><a href="/wiki/Odometer" title="Odometer">Odometer</a></li>
+<li><a href="/wiki/Photoelectric_sensor" title="Photoelectric sensor">Photoelectric sensor</a></li>
+<li><a href="/wiki/Piezoelectric_accelerometer" title="Piezoelectric accelerometer">Piezoelectric accelerometer</a></li>
+<li><a href="/wiki/Position_sensor" title="Position sensor">Position sensor</a></li>
+<li><a href="/wiki/Rotary_encoder" title="Rotary encoder">Rotary encoder</a></li>
+<li><a href="/wiki/Rotary_variable_differential_transformer" title="Rotary variable differential transformer">Rotary variable differential transformer</a></li>
+<li><a class="mw-redirect" href="/wiki/Selsyn" title="Selsyn">Selsyn</a></li>
+<li><a href="/wiki/Sudden_Motion_Sensor" title="Sudden Motion Sensor">Sudden Motion Sensor</a></li>
+<li><a href="/wiki/Tachometer" title="Tachometer">Tachometer</a></li>
+<li><a href="/wiki/Tilt_sensor" title="Tilt sensor">Tilt sensor</a></li>
+<li><a href="/wiki/Ultrasonic_thickness_gauge" title="Ultrasonic thickness gauge">Ultrasonic thickness gauge</a></li>
+<li><a href="/wiki/Variable_reluctance_sensor" title="Variable reluctance sensor">Variable reluctance sensor</a></li>
+<li><a href="/wiki/Velocity_receiver" title="Velocity receiver">Velocity receiver</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Optical, light, imaging</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Charge-coupled_device" title="Charge-coupled device">Charge-coupled device</a></li>
+<li><a href="/wiki/Contact_image_sensor" title="Contact image sensor">Contact image sensor</a></li>
+<li><a href="/wiki/Electro-optical_sensor" title="Electro-optical sensor">Electro-optical sensor</a></li>
+<li><a href="/wiki/Flame_detector" title="Flame detector">Flame detector</a></li>
+<li><a href="/wiki/Infrared" title="Infrared">Infrared</a></li>
+<li><a href="/wiki/Kinetic_inductance_detector" title="Kinetic inductance detector">Kinetic inductance detector</a></li>
+<li><a class="mw-redirect" href="/wiki/LED_as_light_sensor" title="LED as light sensor">LED as light sensor</a></li>
+<li><a href="/wiki/Light-addressable_potentiometric_sensor" title="Light-addressable potentiometric sensor">Light-addressable potentiometric sensor</a></li>
+<li><a href="/wiki/Nichols_radiometer" title="Nichols radiometer">Nichols radiometer</a></li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li>
+<li><a href="/wiki/Photodetector" title="Photodetector">Photodetector</a></li>
+<li><a href="/wiki/Photodiode" title="Photodiode">Photodiode</a></li>
+<li><a href="/wiki/Photoelectric_sensor" title="Photoelectric sensor">Photoelectric sensor</a></li>
+<li><a href="/wiki/Photoionization_detector" title="Photoionization detector">Photoionization detector</a></li>
+<li><a href="/wiki/Photomultiplier" title="Photomultiplier">Photomultiplier</a></li>
+<li><a href="/wiki/Photoresistor" title="Photoresistor">Photoresistor</a></li>
+<li><a href="/wiki/Photoswitch" title="Photoswitch">Photoswitch</a></li>
+<li><a class="mw-redirect" href="/wiki/Phototransistor" title="Phototransistor">Phototransistor</a></li>
+<li><a href="/wiki/Phototube" title="Phototube">Phototube</a></li>
+<li><a href="/wiki/Position_sensitive_device" title="Position sensitive device">Position sensitive device</a></li>
+<li><a href="/wiki/Scintillometer" title="Scintillometer">Scintillometer</a></li>
+<li><a href="/wiki/Shack%E2%80%93Hartmann_wavefront_sensor" title="Shack–Hartmann wavefront sensor">Shack–Hartmann wavefront sensor</a></li>
+<li><a href="/wiki/Single-photon_avalanche_diode" title="Single-photon avalanche diode">Single-photon avalanche diode</a></li>
+<li><a href="/wiki/Superconducting_nanowire_single-photon_detector" title="Superconducting nanowire single-photon detector">Superconducting nanowire single-photon detector</a></li>
+<li><a class="mw-redirect" href="/wiki/Transition_edge_sensor" title="Transition edge sensor">Transition edge sensor</a></li>
+<li><a href="/wiki/Tristimulus_colorimeter" title="Tristimulus colorimeter">Tristimulus colorimeter</a></li>
+<li><a href="/wiki/Visible-light_photon_counter" title="Visible-light photon counter">Visible-light photon counter</a></li>
+<li><a href="/wiki/Wavefront_sensor" title="Wavefront sensor">Wavefront sensor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Pressure</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Barograph" title="Barograph">Barograph</a></li>
+<li><a href="/wiki/Barometer" title="Barometer">Barometer</a></li>
+<li><a href="/wiki/Boost_gauge" title="Boost gauge">Boost gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Bourdon_gauge" title="Bourdon gauge">Bourdon gauge</a></li>
+<li><a href="/wiki/Hot-filament_ionization_gauge" title="Hot-filament ionization gauge">Hot-filament ionization gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Ionization_gauge" title="Ionization gauge">Ionization gauge</a></li>
+<li><a href="/wiki/McLeod_gauge" title="McLeod gauge">McLeod gauge</a></li>
+<li><a href="/wiki/Oscillating_U-tube" title="Oscillating U-tube">Oscillating U-tube</a></li>
+<li><a href="/wiki/Permanent_Downhole_Gauge" title="Permanent Downhole Gauge">Permanent Downhole Gauge</a></li>
+<li><a href="/wiki/Piezometer" title="Piezometer">Piezometer</a></li>
+<li><a href="/wiki/Pirani_gauge" title="Pirani gauge">Pirani gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Pressure_gauge" title="Pressure gauge">Pressure gauge</a></li>
+<li><a href="/wiki/Pressure_sensor" title="Pressure sensor">Pressure sensor</a></li>
+<li><a href="/wiki/Tactile_sensor" title="Tactile sensor">Tactile sensor</a></li>
+<li><a href="/wiki/Time_pressure_gauge" title="Time pressure gauge">Time pressure gauge</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Force, density, level</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bhangmeter" title="Bhangmeter">Bhangmeter</a></li>
+<li><a href="/wiki/Force_gauge" title="Force gauge">Force gauge</a></li>
+<li><a href="/wiki/Hydrometer" title="Hydrometer">Hydrometer</a></li>
+<li><a href="/wiki/Level_sensor" title="Level sensor">Level sensor</a></li>
+<li><a href="/wiki/Load_cell" title="Load cell">Load cell</a></li>
+<li><a href="/wiki/Magnetic_level_gauge" title="Magnetic level gauge">Magnetic level gauge</a></li>
+<li><a href="/wiki/Nuclear_density_gauge" title="Nuclear density gauge">Nuclear density gauge</a></li>
+<li><a href="/wiki/Piezoelectric_sensor" title="Piezoelectric sensor">Piezoelectric sensor</a></li>
+<li><a href="/wiki/Strain_gauge" title="Strain gauge">Strain gauge</a></li>
+<li><a href="/wiki/Torque_sensor" title="Torque sensor">Torque sensor</a></li>
+<li><a href="/wiki/Viscometer" title="Viscometer">Viscometer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Thermal, heat,<br/>
+temperature</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bimetallic_strip" title="Bimetallic strip">Bimetallic strip</a></li>
+<li><a href="/wiki/Bolometer" title="Bolometer">Bolometer</a></li>
+<li><a href="/wiki/Calorimeter" title="Calorimeter">Calorimeter</a></li>
+<li><a href="/wiki/Exhaust_gas_temperature_gauge" title="Exhaust gas temperature gauge">Exhaust gas temperature gauge</a></li>
+<li><a class="mw-redirect" href="/wiki/Flame_detection" title="Flame detection">Flame detection</a></li>
+<li><a href="/wiki/Gardon_gauge" title="Gardon gauge">Gardon gauge</a></li>
+<li><a href="/wiki/Golay_cell" title="Golay cell">Golay cell</a></li>
+<li><a href="/wiki/Heat_flux_sensor" title="Heat flux sensor">Heat flux sensor</a></li>
+<li><a href="/wiki/Infrared_thermometer" title="Infrared thermometer">Infrared thermometer</a></li>
+<li><a href="/wiki/Microbolometer" title="Microbolometer">Microbolometer</a></li>
+<li><a href="/wiki/Microwave_radiometer" title="Microwave radiometer">Microwave radiometer</a></li>
+<li><a href="/wiki/Net_radiometer" title="Net radiometer">Net radiometer</a></li>
+<li><a href="/wiki/Quartz_thermometer" title="Quartz thermometer">Quartz thermometer</a></li>
+<li><a href="/wiki/Resistance_thermometer" title="Resistance thermometer">Resistance thermometer</a></li>
+<li><a href="/wiki/Silicon_bandgap_temperature_sensor" title="Silicon bandgap temperature sensor">Silicon bandgap temperature sensor</a></li>
+<li><a href="/wiki/Special_sensor_microwave/imager" title="Special sensor microwave/imager">Special sensor microwave/imager</a></li>
+<li><a href="/wiki/Thermistor" title="Thermistor">Thermistor</a></li>
+<li><a href="/wiki/Thermocouple" title="Thermocouple">Thermocouple</a></li>
+<li><a href="/wiki/Thermometer" title="Thermometer">Thermometer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Proximity, presence</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alarm_sensor" title="Alarm sensor">Alarm sensor</a></li>
+<li><a href="/wiki/Doppler_radar" title="Doppler radar">Doppler radar</a></li>
+<li><a href="/wiki/Motion_detector" title="Motion detector">Motion detector</a></li>
+<li><a href="/wiki/Occupancy_sensor" title="Occupancy sensor">Occupancy sensor</a></li>
+<li><a href="/wiki/Passive_infrared_sensor" title="Passive infrared sensor">Passive infrared sensor</a></li>
+<li><a href="/wiki/Proximity_sensor" title="Proximity sensor">Proximity sensor</a></li>
+<li><a href="/wiki/Reed_switch" title="Reed switch">Reed switch</a></li>
+<li><a href="/wiki/Stud_finder" title="Stud finder">Stud finder</a></li>
+<li><a href="/wiki/Touch_switch" title="Touch switch">Touch switch</a></li>
+<li><a href="/wiki/Triangulation_sensor" title="Triangulation sensor">Triangulation sensor</a></li>
+<li><a href="/wiki/Wired_glove" title="Wired glove">Wired glove</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Sensor technology</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Active_pixel_sensor" title="Active pixel sensor">Active pixel sensor</a></li>
+<li><a href="/wiki/Back-illuminated_sensor" title="Back-illuminated sensor">Back-illuminated sensor</a></li>
+<li><a href="/wiki/Biochip" title="Biochip">Biochip</a></li>
+<li><a href="/wiki/Biosensor" title="Biosensor">Biosensor</a></li>
+<li><a href="/wiki/Capacitance_probe" title="Capacitance probe">Capacitance probe</a></li>
+<li><a href="/wiki/Carbon_paste_electrode" title="Carbon paste electrode">Carbon paste electrode</a></li>
+<li><a href="/wiki/Catadioptric_sensor" title="Catadioptric sensor">Catadioptric sensor</a></li>
+<li><a href="/wiki/Digital_sensors" title="Digital sensors">Digital sensors</a></li>
+<li><a href="/wiki/Displacement_receiver" title="Displacement receiver">Displacement receiver</a></li>
+<li><a href="/wiki/Electromechanical_film" title="Electromechanical film">Electromechanical film</a></li>
+<li><a href="/wiki/Electro-optical_sensor" title="Electro-optical sensor">Electro-optical sensor</a></li>
+<li><a href="/wiki/Fabry%E2%80%93P%C3%A9rot_interferometer" title="Fabry–Pérot interferometer">Fabry–Pérot interferometer</a></li>
+<li><a href="/wiki/Fisheries_acoustics" title="Fisheries acoustics">Fisheries acoustics</a></li>
+<li><a href="/wiki/Image_sensor" title="Image sensor">Image sensor</a></li>
+<li><a href="/wiki/Image_sensor_format" title="Image sensor format">Image sensor format</a></li>
+<li><a href="/wiki/Inductive_sensor" title="Inductive sensor">Inductive sensor</a></li>
+<li><a href="/wiki/Intelligent_sensor" title="Intelligent sensor">Intelligent sensor</a></li>
+<li><a href="/wiki/Lab-on-a-chip" title="Lab-on-a-chip">Lab-on-a-chip</a></li>
+<li><a href="/wiki/Leaf_sensor" title="Leaf sensor">Leaf sensor</a></li>
+<li><a href="/wiki/Machine_vision" title="Machine vision">Machine vision</a></li>
+<li><a href="/wiki/Microelectromechanical_systems" title="Microelectromechanical systems">Microelectromechanical systems</a></li>
+<li><a href="/wiki/Photoelasticity" title="Photoelasticity">Photoelasticity</a></li>
+<li><a href="/wiki/Quantum_sensor" title="Quantum sensor">Quantum sensor</a></li>
+<li><a href="/wiki/Radar" title="Radar">Radar</a>
+<ul>
+<li><a href="/wiki/Ground-penetrating_radar" title="Ground-penetrating radar">Ground-penetrating radar</a></li>
+<li><a class="mw-redirect" href="/wiki/Synthetic_aperture_radar" title="Synthetic aperture radar">Synthetic aperture radar</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Radar_tracker" title="Radar tracker">Radar tracker</a></li>
+<li><a href="/wiki/Sensor_array" title="Sensor array">Sensor array</a></li>
+<li><a href="/wiki/Sensor_fusion" title="Sensor fusion">Sensor fusion</a></li>
+<li><a href="/wiki/Sensor_grid" title="Sensor grid">Sensor grid</a></li>
+<li><a href="/wiki/Sensor_node" title="Sensor node">Sensor node</a></li>
+<li><a href="/wiki/Soft_sensor" title="Soft sensor">Soft sensor</a></li>
+<li><a href="/wiki/Sonar" title="Sonar">Sonar</a></li>
+<li><a href="/wiki/Staring_array" title="Staring array">Staring array</a></li>
+<li><a href="/wiki/Transducer" title="Transducer">Transducer</a></li>
+<li><a class="mw-redirect" href="/wiki/Ultrasonic_sensor" title="Ultrasonic sensor">Ultrasonic sensor</a></li>
+<li><a href="/wiki/Video_sensor_technology" title="Video sensor technology">Video sensor technology</a></li>
+<li><a href="/wiki/Visual_sensor_network" title="Visual sensor network">Visual sensor network</a></li>
+<li><a href="/wiki/Wheatstone_bridge" title="Wheatstone bridge">Wheatstone bridge</a></li>
+<li><a href="/wiki/Wireless_sensor_network" title="Wireless sensor network">Wireless sensor network</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/List_of_sensors" title="List of sensors">List of sensors</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1216
+Cached time: 20171004051344
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.280 seconds
+Real time usage: 0.365 seconds
+Preprocessor visited node count: 1580/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 70333/2097152 bytes
+Template argument size: 1233/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 1/500
+Lua time usage: 0.108/10.000 seconds
+Lua memory usage: 4.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  256.935      1 -total
+ 34.87%   89.590      1 Template:Reflist
+ 18.02%   46.312      6 Template:Cite_web
+ 17.87%   45.927      1 Template:Citation_needed
+ 16.58%   42.593      2 Template:Convert
+ 16.34%   41.978      1 Template:Fix
+ 10.70%   27.500      2 Template:Category_handler
+  5.00%   12.837      2 Template:Navbox
+  4.91%   12.627      1 Template:Cite_EB1911
+  4.70%   12.088      2 Template:Cite_encyclopedia
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2994-0!canonical and timestamp 20171004051344 and revision id 803241570
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Anemometer&amp;oldid=803241570">https://en.wikipedia.org/w/index.php?title=Anemometer&amp;oldid=803241570</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Italian_inventions" title="Category:Italian inventions">Italian inventions</a></li><li><a href="/wiki/Category:Measuring_instruments" title="Category:Measuring instruments">Measuring instruments</a></li><li><a href="/wiki/Category:Meteorological_instrumentation_and_equipment" title="Category:Meteorological instrumentation and equipment">Meteorological instrumentation and equipment</a></li><li><a href="/wiki/Category:Navigational_equipment" title="Category:Navigational equipment">Navigational equipment</a></li><li><a href="/wiki/Category:Wind_power" title="Category:Wind power">Wind power</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2014" title="Category:Articles with unsourced statements from December 2014">Articles with unsourced statements from December 2014</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_EB9" title="Category:Wikipedia articles incorporating a citation from EB9">Wikipedia articles incorporating a citation from EB9</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_a_citation_from_the_1911_Encyclopaedia_Britannica_with_Wikisource_reference" title="Category:Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference">Wikipedia articles incorporating a citation from the 1911 Encyclopaedia Britannica with Wikisource reference</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Anemometer" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Anemometer" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Anemometer" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Anemometer" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Anemometer">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Anemometer&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Anemometer&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Anemometer" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Anemometer" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Anemometer&amp;oldid=803241570" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Anemometer&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q175029" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Anemometer&amp;id=803241570" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Anemometer">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Anemometer&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAnemometer%26returnto%3DAnemometer%26oldid%3D803241570%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Anemometer&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Anemometers" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Anemometer" hreflang="af" lang="af" title="Anemometer – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%82%D9%8A%D8%A7%D8%B3_%D8%A7%D9%84%D8%B1%D9%8A%D8%AD" hreflang="ar" lang="ar" title="مقياس الريح – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Anem%C3%B3metru" hreflang="ast" lang="ast" title="Anemómetru – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%90%D0%BD%D0%B5%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%8A%D1%80" hreflang="bg" lang="bg" title="Анемометър – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Anem%C3%B2metre" hreflang="ca" lang="ca" title="Anemòmetre – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Anemometr" hreflang="cs" lang="cs" title="Anemometr – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Anemometer" hreflang="da" lang="da" title="Anemometer – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Anemometer" hreflang="de" lang="de" title="Anemometer – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Anemomeeter" hreflang="et" lang="et" title="Anemomeeter – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Anem%C3%B3metro" hreflang="es" lang="es" title="Anemómetro – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Anemometro" hreflang="eo" lang="eo" title="Anemometro – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Anemometro" hreflang="eu" lang="eu" title="Anemometro – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AF%D8%B3%D9%86%D8%AC" hreflang="fa" lang="fa" title="بادسنج – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/An%C3%A9mom%C3%A8tre" hreflang="fr" lang="fr" title="Anémomètre – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Ain%C3%A9imim%C3%A9adar" hreflang="ga" lang="ga" title="Ainéimiméadar – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Anem%C3%B3metro" hreflang="gl" lang="gl" title="Anemómetro – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%92%8D%EC%86%8D%EA%B3%84" hreflang="ko" lang="ko" title="풍속계 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B5%E0%A4%A8-%E0%A4%B5%E0%A5%87%E0%A4%97-%E0%A4%AE%E0%A4%BE%E0%A4%AA%E0%A5%80" hreflang="hi" lang="hi" title="पवन-वेग-मापी – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Anemometar" hreflang="hr" lang="hr" title="Anemometar – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-io"><a class="interlanguage-link-target" href="https://io.wikipedia.org/wiki/Anemometro" hreflang="io" lang="io" title="Anemometro – Ido">Ido</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Anemometer" hreflang="id" lang="id" title="Anemometer – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ik"><a class="interlanguage-link-target" href="https://ik.wikipedia.org/wiki/Palatuq" hreflang="ik" lang="ik" title="Palatuq – Inupiaq">Iñupiak</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Anemometro" hreflang="it" lang="it" title="Anemometro – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%93_%D7%A8%D7%95%D7%97" hreflang="he" lang="he" title="מד רוח – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-csb"><a class="interlanguage-link-target" href="https://csb.wikipedia.org/wiki/Wiatromierz" hreflang="csb" lang="csb" title="Wiatromierz – Kashubian">Kaszëbsczi</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B5%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80" hreflang="kk" lang="kk" title="Анемометр – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Bap%C3%AEv" hreflang="ku" lang="ku" title="Bapîv – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Anemometrs" hreflang="lv" lang="lv" title="Anemometrs – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Anemometras" hreflang="lt" lang="lt" title="Anemometras – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Sz%C3%A9lm%C3%A9r%C5%91" hreflang="hu" lang="hu" title="Szélmérő – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A8%E0%B5%80%E0%B4%AE%E0%B5%8B%E0%B4%AE%E0%B5%80%E0%B4%B1%E0%B5%8D%E0%B4%B1%E0%B5%BC" hreflang="ml" lang="ml" title="അനീമോമീറ്റർ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Anemometer" hreflang="nl" lang="nl" title="Anemometer – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%A2%A8%E9%80%9F%E8%A8%88" hreflang="ja" lang="ja" title="風速計 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Anemometer" hreflang="no" lang="no" title="Anemometer – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Vindm%C3%A5lar" hreflang="nn" lang="nn" title="Vindmålar – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-or"><a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/%E0%AC%86%E0%AC%A8%E0%AC%BF%E0%AC%AE%E0%AD%8B%E0%AC%AE%E0%AC%BF%E0%AC%9F%E0%AC%B0" hreflang="or" lang="or" title="ଆନିମୋମିଟର – Odia">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Anemometr" hreflang="uz" lang="uz" title="Anemometr – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Anemometr" hreflang="pl" lang="pl" title="Anemometr – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Anem%C3%B4metro" hreflang="pt" lang="pt" title="Anemômetro – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Anemometru" hreflang="ro" lang="ro" title="Anemometru – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%90%D0%BD%D0%B5%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80" hreflang="ru" lang="ru" title="Анемометр – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Anemometer" hreflang="sco" lang="sco" title="Anemometer – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Anemometer" hreflang="simple" lang="simple" title="Anemometer – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Anemometer" hreflang="sk" lang="sk" title="Anemometer – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%90%D0%BD%D0%B5%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D0%B0%D1%80" hreflang="sr" lang="sr" title="Анемометар – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Anemometar" hreflang="sh" lang="sh" title="Anemometar – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Anemometri" hreflang="fi" lang="fi" title="Anemometri – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Anemometer" hreflang="sv" lang="sv" title="Anemometer – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%85%E0%AE%A9%E0%AE%BF%E0%AE%AE%E0%AF%8B%E0%AE%AE%E0%AF%80%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%B0%E0%AF%8D" hreflang="ta" lang="ta" title="அனிமோமீட்டர் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Anemometre" hreflang="tr" lang="tr" title="Anemometre – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%90%D0%BD%D0%B5%D0%BC%D0%BE%D0%BC%D0%B5%D1%82%D1%80" hreflang="uk" lang="uk" title="Анемометр – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%A8%D8%A7%D8%AF_%D9%BE%DB%8C%D9%85%D8%A7" hreflang="ur" lang="ur" title="باد پیما – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/M%C3%A1y_%C4%91o_gi%C3%B3" hreflang="vi" lang="vi" title="Máy đo gió – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%A3%8E%E9%80%9F%E8%AE%A1" hreflang="zh" lang="zh" title="风速计 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q175029#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 October 2017, at 10:07.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Anemometer&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.365","ppvisitednodes":{"value":1580,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":70333,"limit":2097152},"templateargumentsize":{"value":1233,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  256.935      1 -total"," 34.87%   89.590      1 Template:Reflist"," 18.02%   46.312      6 Template:Cite_web"," 17.87%   45.927      1 Template:Citation_needed"," 16.58%   42.593      2 Template:Convert"," 16.34%   41.978      1 Template:Fix"," 10.70%   27.500      2 Template:Category_handler","  5.00%   12.837      2 Template:Navbox","  4.91%   12.627      1 Template:Cite_EB1911","  4.70%   12.088      2 Template:Cite_encyclopedia"]},"scribunto":{"limitreport-timeusage":{"value":"0.108","limit":"10.000"},"limitreport-memusage":{"value":5234205,"limit":52428800}},"cachereport":{"origin":"mw1216","timestamp":"20171004051344","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":95,"wgHostname":"mw1272"});});</script>
+</body>
+</html>

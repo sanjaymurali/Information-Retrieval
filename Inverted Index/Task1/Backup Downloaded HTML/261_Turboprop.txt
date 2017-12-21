@@ -1,0 +1,942 @@
+https://en.wikipedia.org/wiki/Turboprop
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Turboprop - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Turboprop","wgTitle":"Turboprop","wgCurRevisionId":803549062,"wgRevisionId":803549062,"wgArticleId":31039,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from July 2011","Articles with unsourced statements from July 2010","Articles needing additional references from July 2010","All articles needing additional references","Use dmy dates from July 2011","Gas turbines","Aircraft engines","Jet engines"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Turboprop","wgRelevantArticleId":31039,"wgRequestId":"WdSX6QpAAD4AACK4-yIAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q309027","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turboprop_operation-en.svg/1200px-Turboprop_operation-en.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Turboprop" rel="alternate"/>
+<link href="/w/index.php?title=Turboprop&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Turboprop&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Turboprop" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Turboprop rootpage-Turboprop vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Turboprop</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a href="/wiki/Propfan" title="Propfan">propfan</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Turboprop_operation-en.svg"><img alt="" class="thumbimage" data-file-height="1252" data-file-width="2149" height="175" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turboprop_operation-en.svg/300px-Turboprop_operation-en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turboprop_operation-en.svg/450px-Turboprop_operation-en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/Turboprop_operation-en.svg/600px-Turboprop_operation-en.svg.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Turboprop_operation-en.svg" title="Enlarge"></a></div>
+Schematic diagram showing the operation of a turboprop engine</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Horizon_f27.jpg"><img alt="" class="thumbimage" data-file-height="473" data-file-width="991" height="143" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Horizon_f27.jpg/300px-Horizon_f27.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/12/Horizon_f27.jpg/450px-Horizon_f27.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/12/Horizon_f27.jpg/600px-Horizon_f27.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Horizon_f27.jpg" title="Enlarge"></a></div>
+A <a href="/wiki/Fairchild_F-27" title="Fairchild F-27">Fairchild F-27</a> representative of the 2nd generation of modern <a href="/wiki/Rolls-Royce_Dart" title="Rolls-Royce Dart">Rolls-Royce Dart</a> turboprop powered aircraft, after the initial success of the 1950s era <a href="/wiki/Vickers_Viscount" title="Vickers Viscount">Vickers Viscount</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:AirDolomiti_ATR72_I-ADCC_MUC_2010-02-21.jpg"><img alt="" class="thumbimage" data-file-height="683" data-file-width="1024" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/AirDolomiti_ATR72_I-ADCC_MUC_2010-02-21.jpg/300px-AirDolomiti_ATR72_I-ADCC_MUC_2010-02-21.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/AirDolomiti_ATR72_I-ADCC_MUC_2010-02-21.jpg/450px-AirDolomiti_ATR72_I-ADCC_MUC_2010-02-21.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/AirDolomiti_ATR72_I-ADCC_MUC_2010-02-21.jpg/600px-AirDolomiti_ATR72_I-ADCC_MUC_2010-02-21.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:AirDolomiti_ATR72_I-ADCC_MUC_2010-02-21.jpg" title="Enlarge"></a></div>
+An <a class="mw-redirect" href="/wiki/ATR-72" title="ATR-72">ATR-72</a>, a typical modern turboprop aircraft</div>
+</div>
+</div>
+<p>A <b>turboprop</b> engine is a <a class="mw-redirect" href="/wiki/Turbine_engine" title="Turbine engine">turbine engine</a> that drives an aircraft <a class="mw-redirect" href="/wiki/Propeller_(aircraft)" title="Propeller (aircraft)">propeller</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> In contrast to a <a href="/wiki/Turbojet" title="Turbojet">turbojet</a>, the engine's <a href="/wiki/Exhaust_gas" title="Exhaust gas">exhaust gases</a> do not contain enough energy to create significant thrust, since almost all of the engine's power is used to drive the propeller.</p>
+<p>In its simplest form a turboprop consists of an intake, <a class="mw-redirect" href="/wiki/Gas_compressor" title="Gas compressor">compressor</a>, <a href="/wiki/Combustor" title="Combustor">combustor</a>, <a href="/wiki/Turbine" title="Turbine">turbine</a>, and a <a href="/wiki/Propelling_nozzle" title="Propelling nozzle">propelling nozzle</a>. Air is drawn into the intake and compressed by the compressor. Fuel is then added to the compressed air in the combustor, where the fuel-air mixture then <a href="/wiki/Combustion" title="Combustion">combusts</a>. The hot combustion gases expand through the turbine. Some of the power generated by the turbine is used to drive the compressor. The rest is transmitted through the reduction gearing to the propeller. Further expansion of the gases occurs in the propelling nozzle, where the gases exhaust to atmospheric pressure. The propelling nozzle provides a relatively small proportion of the thrust generated by a turboprop.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Technological_aspects"><span class="tocnumber">1</span> <span class="toctext">Technological aspects</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Usage"><span class="tocnumber">3</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Current_engines"><span class="tocnumber">4</span> <span class="toctext">Current engines</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Notes"><span class="tocnumber">6.1</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Bibliography"><span class="tocnumber">6.2</span> <span class="toctext">Bibliography</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">7</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Technological_aspects">Technological aspects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=1" title="Edit section: Technological aspects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Flowtp.gif"><img alt="" class="thumbimage" data-file-height="436" data-file-width="482" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flowtp.gif/220px-Flowtp.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flowtp.gif/330px-Flowtp.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/03/Flowtp.gif/440px-Flowtp.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Flowtp.gif" title="Enlarge"></a></div>
+Flow past a turboprop engine in operation</div>
+</div>
+</div>
+<p>Exhaust thrust in a turboprop is sacrificed in favor of shaft power, which is obtained by extracting additional power (up to that necessary to drive the compressor) from turbine expansion. Owing to the additional expansion in the turbine system, the residual energy in the exhaust jet is low.<sup class="reference" id="cite_ref-glennTur_2-0"><a href="#cite_note-glennTur-2">[2]</a></sup><sup class="reference" id="cite_ref-glennThr_3-0"><a href="#cite_note-glennThr-3">[3]</a></sup><sup class="reference" id="cite_ref-lyle_4-0"><a href="#cite_note-lyle-4">[4]</a></sup> Consequently, the exhaust jet typically produces around or less than 10% of the total thrust.<sup class="reference" id="cite_ref-srm_5-0"><a href="#cite_note-srm-5">[5]</a></sup> A higher proportion of the thrust comes from the propeller at low speeds and less at higher speeds.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Turboprops can have <a href="/wiki/Bypass_ratio" title="Bypass ratio">bypass ratios</a> up to 50-100<sup class="reference" id="cite_ref-kroo_7-0"><a href="#cite_note-kroo-7">[7]</a></sup><sup class="reference" id="cite_ref-Spak_8-0"><a href="#cite_note-Spak-8">[8]</a></sup><sup class="reference" id="cite_ref-nag_9-0"><a href="#cite_note-nag-9">[9]</a></sup> although the propulsion airflow is less clearly defined for propellers than for fans.<sup class="reference" id="cite_ref-glennProp_10-0"><a href="#cite_note-glennProp-10">[10]</a></sup></p>
+<p>The propeller is coupled to the turbine through a <a class="mw-redirect" href="/wiki/Reduction_gear" title="Reduction gear">reduction gear</a> that converts the high <a href="/wiki/Revolutions_per_minute" title="Revolutions per minute">RPM</a>/low <a href="/wiki/Torque" title="Torque">torque</a> output to low RPM/high torque. The propeller itself is normally a <a href="/wiki/Constant-speed_propeller" title="Constant-speed propeller">constant speed (variable pitch) type</a> similar to that used with larger <a href="/wiki/Reciprocating_engine" title="Reciprocating engine">reciprocating aircraft engines</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></p>
+<p>Unlike the small diameter fans used in <a href="/wiki/Turbofan" title="Turbofan">turbofan</a> jet engines, the propeller has a large diameter that lets it accelerate a large volume of air. This permits a lower airstream velocity for a given amount of thrust. As it is more efficient at low speeds to accelerate a large amount of air by a small degree than a small amount of air by a large degree,<sup class="reference" id="cite_ref-bevil_11-0"><a href="#cite_note-bevil-11">[11]</a></sup><sup class="reference" id="cite_ref-bensen_12-0"><a href="#cite_note-bensen-12">[12]</a></sup> a low <a class="mw-redirect" href="/wiki/Disc_loading" title="Disc loading">disc loading</a> (thrust per disc area) increases the aircraft's energy efficiency, and this reduces the fuel use.<sup class="reference" id="cite_ref-wayne_13-0"><a href="#cite_note-wayne-13">[13]</a></sup><sup class="reference" id="cite_ref-step_14-0"><a href="#cite_note-step-14">[14]</a></sup></p>
+<p>Propellers lose efficiency as aircraft speed increases, so turboprops are normally not used on high-speed aircraft<sup class="reference" id="cite_ref-glennTur_2-1"><a href="#cite_note-glennTur-2">[2]</a></sup><sup class="reference" id="cite_ref-glennThr_3-1"><a href="#cite_note-glennThr-3">[3]</a></sup><sup class="reference" id="cite_ref-lyle_4-1"><a href="#cite_note-lyle-4">[4]</a></sup> above <a href="/wiki/Mach_number" title="Mach number">Mach</a> 0.6-0.7.<sup class="reference" id="cite_ref-srm_5-1"><a href="#cite_note-srm-5">[5]</a></sup> However, <a href="/wiki/Propfan" title="Propfan">propfan</a> engines, which are very similar to turboprop engines, can cruise at flight speeds approaching <a href="/wiki/Mach_number" title="Mach number">Mach</a> 0.75. To increase propeller efficiency, a mechanism can be used to alter their pitch relative to the airspeed. A variable-pitch propeller, also called a <a class="mw-redirect" href="/wiki/Controllable-pitch_propeller" title="Controllable-pitch propeller">controllable-pitch propeller</a>, can also be used to generate negative thrust while decelerating on the runway. Additionally, in the event of an engine outage, the pitch can be adjusted to a vaning pitch (called <a class="mw-redirect" href="/wiki/Feathering_(propeller)#Feathering" title="Feathering (propeller)">feathering</a>), thus minimizing the drag of the non-functioning propeller.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></p>
+<p>While most modern <a href="/wiki/Turbojet" title="Turbojet">turbojet</a> and <a href="/wiki/Turbofan" title="Turbofan">turbofan</a> engines use <a class="mw-redirect" href="/wiki/Axial-flow_compressor" title="Axial-flow compressor">axial-flow compressors</a>, turboprop engines usually contain at least one stage of <a href="/wiki/Centrifugal_compressor" title="Centrifugal compressor">centrifugal compression</a>. Centrifugal compressors have the advantage of being simple and lightweight, at the expense of a streamlined shape.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></p>
+<p>While the power turbine may be integral with the gas generator section, many turboprops today feature a free power turbine on a separate coaxial shaft. This enables the propeller to rotate freely, independent of compressor speed.<sup class="reference" id="cite_ref-pt6nation_2_15-0"><a href="#cite_note-pt6nation_2-15">[15]</a></sup> <a class="new" href="/w/index.php?title=Residual_thrust&amp;action=edit&amp;redlink=1" title="Residual thrust (page does not exist)">Residual thrust</a> on a turboshaft is avoided by further expansion in the turbine system and/or truncating and turning the exhaust 180 degrees, to produce two opposing jets. Apart from the above, there is very little difference between a turboprop and a turboshaft.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup><sup class="reference" id="cite_ref-nag_9-1"><a href="#cite_note-nag-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Rolls-Royce_RB50_Trent_Turboprop_On_Test_Rig_At_Hucknall.jpg"><img alt="" class="thumbimage" data-file-height="247" data-file-width="300" height="181" src="//upload.wikimedia.org/wikipedia/en/thumb/5/5e/Rolls-Royce_RB50_Trent_Turboprop_On_Test_Rig_At_Hucknall.jpg/220px-Rolls-Royce_RB50_Trent_Turboprop_On_Test_Rig_At_Hucknall.jpg" srcset="//upload.wikimedia.org/wikipedia/en/5/5e/Rolls-Royce_RB50_Trent_Turboprop_On_Test_Rig_At_Hucknall.jpg 1.5x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Rolls-Royce_RB50_Trent_Turboprop_On_Test_Rig_At_Hucknall.jpg" title="Enlarge"></a></div>
+A Rolls-Royce RB.50 <i>Trent</i> on a test rig at <a href="/wiki/Hucknall" title="Hucknall">Hucknall</a>, in March 1945</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Kuznetsov_NK-12M_turboprop_on_Tu-95.jpg"><img alt="" class="thumbimage" data-file-height="1234" data-file-width="1810" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kuznetsov_NK-12M_turboprop_on_Tu-95.jpg/220px-Kuznetsov_NK-12M_turboprop_on_Tu-95.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kuznetsov_NK-12M_turboprop_on_Tu-95.jpg/330px-Kuznetsov_NK-12M_turboprop_on_Tu-95.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e1/Kuznetsov_NK-12M_turboprop_on_Tu-95.jpg/440px-Kuznetsov_NK-12M_turboprop_on_Tu-95.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Kuznetsov_NK-12M_turboprop_on_Tu-95.jpg" title="Enlarge"></a></div>
+Kuznetsov NK-12M Turboprop, on a <a class="mw-redirect" href="/wiki/Tu-95" title="Tu-95">Tu-95</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Rolls_royce_dart_turboprop.jpg"><img alt="" class="thumbimage" data-file-height="2413" data-file-width="3010" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rolls_royce_dart_turboprop.jpg/220px-Rolls_royce_dart_turboprop.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rolls_royce_dart_turboprop.jpg/330px-Rolls_royce_dart_turboprop.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Rolls_royce_dart_turboprop.jpg/440px-Rolls_royce_dart_turboprop.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Rolls_royce_dart_turboprop.jpg" title="Enlarge"></a></div>
+Rolls-Royce Dart turboprop engine</div>
+</div>
+</div>
+<p><a href="/wiki/Alan_Arnold_Griffith" title="Alan Arnold Griffith">Alan Arnold Griffith</a> had published a paper on turbine design in 1926. <a href="/wiki/Turbojet_development_at_the_RAE" title="Turbojet development at the RAE">Subsequent work at the Royal Aircraft Establishment</a> investigated axial turbine designs that could be used to supply power to a shaft and thence a propeller. From 1929, <a href="/wiki/Frank_Whittle" title="Frank Whittle">Frank Whittle</a> began work on centrifugal turbine designs that would deliver pure jet thrust.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<p>The world's first turboprop was designed by the <a href="/wiki/Hungary" title="Hungary">Hungarian</a> <a href="/wiki/Mechanical_engineering" title="Mechanical engineering">mechanical engineer</a> <a href="/wiki/Gy%C3%B6rgy_Jendrassik" title="György Jendrassik">György Jendrassik</a>.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> Jendrassik published a turboprop idea in 1928, and on 12 March 1929 he patented his invention. In 1938, he built a small-scale (100 Hp; 74.6 kW) experimental gas turbine.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> The larger <a href="/wiki/Jendrassik_Cs-1" title="Jendrassik Cs-1">Jendrassik Cs-1</a>, with a predicted output of 1,000 bhp, was produced and tested at the <a href="/wiki/Ganz_Works" title="Ganz Works">Ganz Works</a> in <a href="/wiki/Budapest" title="Budapest">Budapest</a> between 1937 and 1941. It was of axial-flow design with 15 compressor and 7 turbine stages, annular combustion chamber and many other modern features. First run in 1940, combustion problems limited its output to 400 bhp. In 1941,the engine was abandoned due to war, and the factory was turned over to conventional engine production. The world's first turboprop engine that went into mass production was designed by a German engineer, <a class="new" href="/w/index.php?title=Max_Adolf_Mueller&amp;action=edit&amp;redlink=1" title="Max Adolf Mueller (page does not exist)">Max Adolf Mueller</a>, in 1942.<sup class="reference" id="cite_ref-airent1_19-0"><a href="#cite_note-airent1-19">[19]</a></sup></p>
+<p>The first mention of turboprop engines in the general public press was in the February 1944 issue of the British aviation publication <i><a href="/wiki/Flight_International" title="Flight International">Flight</a></i>, which included a detailed cutaway drawing of what a possible future turboprop engine could look like. The drawing was very close to what the future Rolls-Royce Trent would look like.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> The first British turboprop engine was the <a href="/wiki/Rolls-Royce_Limited" title="Rolls-Royce Limited">Rolls-Royce</a> <a class="mw-redirect" href="/wiki/Rolls-Royce_Trent_(turboprop)" title="Rolls-Royce Trent (turboprop)">RB.50 Trent</a>, a converted <a href="/wiki/Rolls-Royce_Derwent" title="Rolls-Royce Derwent">Derwent II</a> fitted with reduction gear and a <a class="mw-redirect" href="/wiki/Rotol" title="Rotol">Rotol</a> 7 ft 11 in (2.41 m) five-bladed propeller. Two Trents were fitted to <a href="/wiki/Gloster_Meteor" title="Gloster Meteor">Gloster Meteor</a> <i>EE227</i> — the sole "Trent-Meteor" — which thus became the world's first turboprop-powered aircraft, albeit a test-bed not intended for production.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> It first flew on 20 September 1945. From their experience with the Trent, Rolls-Royce developed the <a href="/wiki/Rolls-Royce_Clyde" title="Rolls-Royce Clyde">Rolls-Royce Clyde</a>, the first turboprop engine to be fully <a href="/wiki/Type_certificate" title="Type certificate">type certificated</a> for military and civil use,<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> and the <a href="/wiki/Rolls-Royce_Dart" title="Rolls-Royce Dart">Dart</a>, which became one of the most reliable turboprop engines ever built. Dart production continued for more than fifty years. The Dart-powered <a href="/wiki/Vickers_Viscount" title="Vickers Viscount">Vickers Viscount</a> was the first turboprop aircraft of any kind to go into production and sold in large numbers.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> It was also the first four-engined turboprop. Its first flight was on 16 July 1948. The world's first single engined turboprop aircraft was the <a href="/wiki/Armstrong_Siddeley_Mamba" title="Armstrong Siddeley Mamba">Armstrong Siddeley Mamba</a>-powered <a href="/wiki/Boulton_Paul_Balliol" title="Boulton Paul Balliol">Boulton Paul Balliol</a>, which first flew on 24 March 1948.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></p>
+<p>The Soviet Union built on German World War II development by Junkers Motorenwerke, while BMW, <a href="/wiki/Heinkel" title="Heinkel">Heinkel-Hirth</a> and <a href="/wiki/Daimler-Benz" title="Daimler-Benz">Daimler-Benz</a> also developed and partially tested designs.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2010)">citation needed</span></a></i>]</sup> While the Soviet Union had the technology to create the airframe for a jet-powered strategic bomber comparable to Boeing's <a class="mw-redirect" href="/wiki/B-52_Stratofortress" title="B-52 Stratofortress">B-52 Stratofortress</a>, they instead produced the <a href="/wiki/Tupolev_Tu-95" title="Tupolev Tu-95">Tupolev Tu-95</a> Bear, powered with four <a href="/wiki/Kuznetsov_NK-12" title="Kuznetsov NK-12">Kuznetsov NK-12</a> turboprops, mated to eight <a href="/wiki/Contra-rotating_propellers" title="Contra-rotating propellers">contra-rotating propellers</a> (two per nacelle) with supersonic tip speeds to achieve maximum cruise speeds in excess of 575 mph, faster than many of the first jet aircraft and comparable to jet cruising speeds for most missions. The Bear would serve as their most successful long-range combat and surveillance aircraft and symbol of Soviet power projection throughout the end of the 20th century. The USA would incorporate contra-rotating turboprop engines, such as the ill-fated twin-turbine <a href="/wiki/Allison_T40" title="Allison T40">Allison T40</a> — essentially a twinned up pair of <a href="/wiki/Allison_T38" title="Allison T38">Allison T38</a> turboprop engines driving contra-rotating propellers — into a series of experimental aircraft during the 1950s, with aircraft powered with the T40, like the <a href="/wiki/Convair_R3Y_Tradewind" title="Convair R3Y Tradewind">Convair R3Y Tradewind</a> flying boat never entering U.S. Navy service.</p>
+<p>The first American turboprop engine was the <a href="/wiki/GE_Aviation" title="GE Aviation">General Electric</a> <a href="/wiki/General_Electric_T31" title="General Electric T31">XT31</a>, first used in the experimental <a href="/wiki/Consolidated_Vultee_XP-81" title="Consolidated Vultee XP-81">Consolidated Vultee XP-81</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> The XP-81 first flew in December 1945, the first aircraft to use a combination of turboprop and <a href="/wiki/Turbojet" title="Turbojet">turbojet</a> power. The technology of the Allison's earlier T38 design evolved into the <a href="/wiki/Allison_T56" title="Allison T56">Allison T56</a>, with quartets of the T56s being used to power the <a href="/wiki/Lockheed_L-188_Electra" title="Lockheed L-188 Electra">Lockheed Electra</a> airliner, its military maritime patrol derivative the <a class="mw-redirect" href="/wiki/P-3_Orion" title="P-3 Orion">P-3 Orion</a>, and the widely produced <a class="mw-redirect" href="/wiki/C-130_Hercules" title="C-130 Hercules">C-130 Hercules</a> military transport aircraft. One of the most produced turboprop engines used in civil aviation is the <a href="/wiki/Pratt_%26_Whitney_Canada" title="Pratt &amp; Whitney Canada">Pratt &amp; Whitney Canada</a> <a href="/wiki/Pratt_%26_Whitney_Canada_PT6" title="Pratt &amp; Whitney Canada PT6">PT6</a> engine.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></p>
+<p>The first turbine-powered, shaft-driven helicopter was the <a href="/wiki/Kaman_K-225" title="Kaman K-225">Kaman K-225</a>, a development of <a href="/wiki/Charles_Kaman" title="Charles Kaman">Charles Kaman</a>'s K-125 <a class="mw-redirect" href="/wiki/Synchropter" title="Synchropter">synchropter</a>, which used a <a href="/wiki/Boeing_T50" title="Boeing T50">Boeing T50</a> turboshaft engine to power it on 11 December 1951.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup></p>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=3" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Gas_turbine_efficiency.png"><img alt="" class="thumbimage" data-file-height="500" data-file-width="700" height="157" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gas_turbine_efficiency.png/220px-Gas_turbine_efficiency.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gas_turbine_efficiency.png/330px-Gas_turbine_efficiency.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/01/Gas_turbine_efficiency.png/440px-Gas_turbine_efficiency.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Gas_turbine_efficiency.png" title="Enlarge"></a></div>
+Propulsive efficiency comparison for various gas turbine engine configurations</div>
+</div>
+</div>
+<p>Compared to <a href="/wiki/Turbofan" title="Turbofan">turbofans</a>, turboprops are most efficient at flight speeds below 725 km/h (450 mph; 390 knots) because the jet velocity of the propeller (and exhaust) is relatively low. Modern turboprop airliners operate at nearly the same speed as small <a href="/wiki/Regional_jet" title="Regional jet">regional jet</a> airliners but burn two-thirds of the fuel per passenger.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup> However, compared to a <a href="/wiki/Turbojet" title="Turbojet">turbojet</a> (which can fly at high altitude for enhanced speed and <a href="/wiki/Fuel_efficiency" title="Fuel efficiency">fuel efficiency</a>) a propeller aircraft has a lower ceiling.</p>
+<p>The most common application of turboprop engines in civilian aviation is in small <a href="/wiki/Regional_airliner" title="Regional airliner">commuter aircraft</a>, where their greater power and reliability offsets their higher initial cost and fuel consumption. Turboprop-powered aircraft have become popular for <a class="mw-redirect" href="/wiki/Bush_airplane" title="Bush airplane">bush airplanes</a> such as the <a class="mw-redirect" href="/wiki/Cessna_Caravan" title="Cessna Caravan">Cessna Caravan</a> and <a href="/wiki/Quest_Kodiak" title="Quest Kodiak">Quest Kodiak</a> as <a href="/wiki/Jet_fuel" title="Jet fuel">jet fuel</a> is easier to obtain in remote areas than <a href="/wiki/Avgas" title="Avgas">avgas</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup> Due to the high price of turboprop engines, they are mostly used where high-performance short-takeoff and landing (<a href="/wiki/STOL" title="STOL">STOL</a>) capability and efficiency at modest flight speeds are required.</p>
+<p>Turboprop engines are generally used on small subsonic aircraft, but the <a href="/wiki/Tupolev_Tu-114" title="Tupolev Tu-114">Tupolev Tu-114</a> can reach 470 <a href="/wiki/Knot_(unit)" title="Knot (unit)">kt</a> (870 km/h, 541 mph). Large <a href="/wiki/Military_aviation" title="Military aviation">military</a> and <a href="/wiki/Civil_aviation" title="Civil aviation">civil</a> aircraft, such as the <a href="/wiki/Lockheed_L-188_Electra" title="Lockheed L-188 Electra">Lockheed L-188 Electra</a> and the <a href="/wiki/Tupolev_Tu-95" title="Tupolev Tu-95">Tupolev Tu-95</a>, have also used turboprop power. The <a class="mw-redirect" href="/wiki/Airbus_A400M" title="Airbus A400M">Airbus A400M</a> is powered by four <a href="/wiki/Europrop_TP400" title="Europrop TP400">Europrop TP400</a> engines, which are the third most powerful turboprop engines ever produced, after the eleven megawatt-output <a href="/wiki/Kuznetsov_NK-12" title="Kuznetsov NK-12">Kuznetsov NK-12</a> and 10.4 MW-output <a href="/wiki/Progress_D-27" title="Progress D-27">Progress D-27</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></p>
+<p>Some commercial aircraft with turboprop engines include the <a href="/wiki/Bombardier_Dash_8" title="Bombardier Dash 8">Bombardier Dash 8</a>, <a href="/wiki/ATR_42" title="ATR 42">ATR 42</a>, <a href="/wiki/ATR_72" title="ATR 72">ATR 72</a>, <a href="/wiki/Handley_Page_Jetstream" title="Handley Page Jetstream">BAe Jetstream 31</a>, <a href="/wiki/Beechcraft_1900" title="Beechcraft 1900">Beechcraft 1900</a>, <a href="/wiki/Embraer_EMB_120_Brasilia" title="Embraer EMB 120 Brasilia">Embraer EMB 120 Brasilia</a>, <a href="/wiki/Fairchild_Swearingen_Metroliner" title="Fairchild Swearingen Metroliner">Fairchild Swearingen Metroliner</a>, <a href="/wiki/Dornier_328" title="Dornier 328">Dornier 328</a>, <a href="/wiki/Saab_340" title="Saab 340">Saab 340</a> and <a href="/wiki/Saab_2000" title="Saab 2000">2000</a>, <a href="/wiki/Xian_MA60" title="Xian MA60">Xian MA60</a>, <a href="/wiki/Xian_MA600" title="Xian MA600">Xian MA600</a>, and <a href="/wiki/Xian_MA700" title="Xian MA700">Xian MA700</a>, Fokker 27, <a href="/wiki/Fokker_50" title="Fokker 50">50</a> and 60.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (July 2011)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Current_engines">Current engines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=4" title="Edit section: Current engines">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><cite class="citation book"><i><a href="/wiki/Jane%27s_All_the_World%27s_Aircraft" title="Jane's All the World's Aircraft">Jane's All the World's Aircraft</a></i>. 2005–2006.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.btitle=Jane%27s+All+the+World%27s+Aircraft&amp;rft.date=2005%2F2006&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></p>
+<table class="wikitable sortable">
+<tr>
+<th>manufacturer</th>
+<th>Country</th>
+<th>designation</th>
+<th data-sort-type="number">dry weight (kg)</th>
+<th data-sort-type="number">takeoff rating (kW)</th>
+<th>Application</th>
+</tr>
+<tr>
+<td><a href="/wiki/Dongan_Engine_Manufacturing_Company" title="Dongan Engine Manufacturing Company">DEMC</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/35px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/45px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="23"/> </span><a href="/wiki/China" title="China">People's Republic of China</a></td>
+<td><a class="mw-redirect" href="/wiki/Dongan_WJ5" title="Dongan WJ5">WJ5E</a></td>
+<td>720</td>
+<td>2130</td>
+<td><a href="/wiki/Harbin_SH-5" title="Harbin SH-5">Harbin SH-5</a>, <a class="mw-redirect" href="/wiki/Xi%27an_Y-7" title="Xi'an Y-7">Xi'an Y-7</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Europrop_International" title="Europrop International">Europrop International</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="540" data-file-width="810" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/35px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/45px-Flag_of_Europe.svg.png 2x" width="23"/> </span><a href="/wiki/European_Union" title="European Union">European Union</a></td>
+<td><a href="/wiki/Europrop_TP400" title="Europrop TP400">TP400-D6</a></td>
+<td>1800</td>
+<td>8203</td>
+<td><a class="mw-redirect" href="/wiki/Airbus_A400M" title="Airbus A400M">Airbus A400M</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/General_Electric" title="General Electric">General Electric</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/General_Electric_T700" title="General Electric T700">CT7</a>-5A</td>
+<td>365</td>
+<td>1294</td>
+<td></td>
+</tr>
+<tr>
+<td><a href="/wiki/General_Electric" title="General Electric">General Electric</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/General_Electric_T700" title="General Electric T700">CT7</a>-9</td>
+<td>365</td>
+<td>1447</td>
+<td><a href="/wiki/CASA/IPTN_CN-235" title="CASA/IPTN CN-235">CASA/IPTN CN-235</a>, <a href="/wiki/Let_L-610" title="Let L-610">Let L-610</a>, <a href="/wiki/Saab_340" title="Saab 340">Saab 340</a>, <a href="/wiki/Sukhoi_Su-80" title="Sukhoi Su-80">Sukhoi Su-80</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/General_Electric" title="General Electric">General Electric</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a> <span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" width="23"/> </span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></td>
+<td><a href="/wiki/General_Electric_H80" title="General Electric H80">H80 Series</a><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup></td>
+<td>200</td>
+<td>550 - 625</td>
+<td><a href="/wiki/Ayres_Thrush" title="Ayres Thrush">Thrush Model 510</a>, <a href="/wiki/Let_L-410_Turbolet" title="Let L-410 Turbolet">Let 410NG</a>, <a href="/wiki/Let_L-410_Turbolet" title="Let L-410 Turbolet">Let L-410 Turbolet</a> UVP-E, <a class="mw-redirect" href="/wiki/China_Aviation_Industry_General_Aircraft_Primus_150" title="China Aviation Industry General Aircraft Primus 150">CAIGA Primus 150</a>, <a class="mw-redirect" href="/wiki/Nextant_G90XT" title="Nextant G90XT">Nextant G90XT</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/General_Electric" title="General Electric">General Electric</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/General_Electric_T64" title="General Electric T64">T64</a>-P4D</td>
+<td>538</td>
+<td>2535</td>
+<td><a href="/wiki/Aeritalia_G.222" title="Aeritalia G.222">Aeritalia G.222</a>, <a href="/wiki/De_Havilland_Canada_DHC-5_Buffalo" title="De Havilland Canada DHC-5 Buffalo">de Havilland Canada DHC-5 Buffalo</a>, <a href="/wiki/Kawasaki_P-2J" title="Kawasaki P-2J">Kawasaki P-2J</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Honeywell" title="Honeywell">Honeywell</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a class="mw-redirect" href="/wiki/TPE331" title="TPE331">TPE331</a> Series</td>
+<td>150 - 275</td>
+<td>478 - 1650</td>
+<td><a class="mw-redirect" href="/wiki/Aero_Commander_500" title="Aero Commander 500">Aero/Rockwell Turbo Commander 680/690/840/960/1000</a>, <a href="/wiki/Antonov_An-38" title="Antonov An-38">Antonov An-38</a>, <a href="/wiki/Ayres_Thrush" title="Ayres Thrush">Ayres Thrush</a>, <a href="/wiki/Handley_Page_Jetstream" title="Handley Page Jetstream">BAe Jetstream 31/32</a>, <a class="mw-redirect" href="/wiki/BAe_Jetstream_41" title="BAe Jetstream 41">BAe Jetstream 41</a>, <a href="/wiki/CASA_C-212_Aviocar" title="CASA C-212 Aviocar">CASA C-212 Aviocar</a>, <a class="mw-redirect" href="/wiki/Cessna_441" title="Cessna 441">Cessna 441</a> Conquest II, <a href="/wiki/Dornier_Do_228" title="Dornier Do 228">Dornier Do 228</a>, <a href="/wiki/Fairchild_Swearingen_Metroliner" title="Fairchild Swearingen Metroliner">Fairchild Swearingen Metroliner</a>, <a href="/wiki/General_Atomics_MQ-9_Reaper" title="General Atomics MQ-9 Reaper">General Atomics MQ-9 Reaper</a>, <a href="/wiki/Grumman_Ag_Cat" title="Grumman Ag Cat">Grum</a><a href="/wiki/General_Electric_H80" title="General Electric H80">Ge</a><a href="/wiki/Grumman_Ag_Cat" title="Grumman Ag Cat">man</a>, <a href="/wiki/Mitsubishi_MU-2" title="Mitsubishi MU-2">Mitsubishi MU-2</a>, <a href="/wiki/North_American_Rockwell_OV-10_Bronco" title="North American Rockwell OV-10 Bronco">North American Rockwell OV-10 Bronco</a>, <a href="/wiki/Piper_PA-42_Cheyenne" title="Piper PA-42 Cheyenne">Piper PA-42 Cheyenne</a>, <a class="mw-redirect" href="/wiki/RUAG_Do_228NG" title="RUAG Do 228NG">RUAG Do 228NG</a>, <a href="/wiki/Short_SC.7_Skyvan" title="Short SC.7 Skyvan">Short SC.7 Skyvan</a>, <a href="/wiki/Short_Tucano" title="Short Tucano">Short Tucano</a>, <a href="/wiki/Swearingen_Merlin" title="Swearingen Merlin">Swearingen Merlin</a>, <a href="/wiki/Fairchild_Swearingen_Metroliner" title="Fairchild Swearingen Metroliner">Fairchild Swearingen Metroliner</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Honeywell" title="Honeywell">Honeywell</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/Lycoming_LTS101" title="Lycoming LTS101">LTP 101</a>-700</td>
+<td>147</td>
+<td>522</td>
+<td><a class="mw-redirect" href="/wiki/Air_Tractor_AT-302" title="Air Tractor AT-302">Air Tractor AT-302</a>, <a href="/wiki/Piaggio_P.166" title="Piaggio P.166">Piaggio P.166</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Aviakor" title="Aviakor">KKBM</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" width="23"/> </span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td><a href="/wiki/Kuznetsov_NK-12" title="Kuznetsov NK-12">NK-12MV</a></td>
+<td>1900</td>
+<td>11033</td>
+<td><a href="/wiki/Antonov_An-22" title="Antonov An-22">Antonov An-22</a>, <a href="/wiki/Tupolev_Tu-95" title="Tupolev Tu-95">Tupolev Tu-95</a>, <a href="/wiki/Tupolev_Tu-114" title="Tupolev Tu-114">Tupolev Tu-114</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ivchenko-Progress" title="Ivchenko-Progress">Progress</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="800" data-file-width="1200" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" width="23"/> </span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td>
+<td><a href="/wiki/Klimov_TV3-117" title="Klimov TV3-117">TV3-117</a>VMA-SB2</td>
+<td>560</td>
+<td>1864</td>
+<td><a href="/wiki/Antonov_An-140" title="Antonov An-140">Antonov An-140</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Klimov" title="Klimov">Klimov</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" width="23"/> </span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td><a href="/wiki/Klimov_TV7-117" title="Klimov TV7-117">TV7-117</a>S</td>
+<td>530</td>
+<td>2100</td>
+<td><a href="/wiki/Ilyushin_Il-112" title="Ilyushin Il-112">Ilyushin Il-112</a>, <a href="/wiki/Ilyushin_Il-114" title="Ilyushin Il-114">Ilyushin Il-114</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ivchenko-Progress" title="Ivchenko-Progress">Progress</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="800" data-file-width="1200" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" width="23"/> </span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td>
+<td><a href="/wiki/Ivchenko_AI-20" title="Ivchenko AI-20">AI20</a>M</td>
+<td>1040</td>
+<td>2940</td>
+<td><a href="/wiki/Antonov_An-12" title="Antonov An-12">Antonov An-12</a>, <a href="/wiki/Antonov_An-32" title="Antonov An-32">Antonov An-32</a>, <a href="/wiki/Ilyushin_Il-18" title="Ilyushin Il-18">Ilyushin Il-18</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Ivchenko-Progress" title="Ivchenko-Progress">Progress</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="800" data-file-width="1200" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/35px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/45px-Flag_of_Ukraine.svg.png 2x" width="23"/> </span><a href="/wiki/Ukraine" title="Ukraine">Ukraine</a></td>
+<td><a href="/wiki/Ivchenko_AI-24" title="Ivchenko AI-24">AI24</a>T</td>
+<td>600</td>
+<td>1880</td>
+<td><a href="/wiki/Antonov_An-24" title="Antonov An-24">Antonov An-24</a>, <a href="/wiki/Antonov_An-26" title="Antonov An-26">Antonov An-26</a>, <a href="/wiki/Antonov_An-30" title="Antonov An-30">Antonov An-30</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/LHTEC" title="LHTEC">LHTEC</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="650" data-file-width="1235" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/35px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/46px-Flag_of_the_United_States.svg.png 2x" width="23"/> </span><a href="/wiki/United_States" title="United States">United States</a></td>
+<td><a href="/wiki/LHTEC_T800" title="LHTEC T800">LHTEC T800</a></td>
+<td>517</td>
+<td>2013</td>
+<td><a href="/wiki/Westland_Lynx" title="Westland Lynx">AgustaWestland Super Lynx 300</a> (CTS800-4N), <a class="mw-redirect" href="/wiki/AgustaWestland_AW159" title="AgustaWestland AW159">AgustaWestland AW159 Lynx Wildcat</a> (CTS800-4N), <a href="/wiki/Ayres_LM200_Loadmaster" title="Ayres LM200 Loadmaster">Ayres LM200 Loadmaster</a> (LHTEC CTP800-4T) (aircraft not built), <a href="/wiki/Sikorsky_X2" title="Sikorsky X2">Sikorsky X2</a> (T800-LHT-801), <a class="mw-redirect" href="/wiki/TAI/AgustaWestland_T-129" title="TAI/AgustaWestland T-129">TAI/AgustaWestland T-129</a> (CTS800-4A)</td>
+</tr>
+<tr>
+<td><a href="/wiki/Omsk_Engine_Design_Bureau" title="Omsk Engine Design Bureau">OMKB</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" width="23"/> </span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td><a class="new" href="/w/index.php?title=TVD-20&amp;action=edit&amp;redlink=1" title="TVD-20 (page does not exist)">TVD-20</a></td>
+<td>240</td>
+<td>1081</td>
+<td><a href="/wiki/Antonov_An-3" title="Antonov An-3">Antonov An-3</a>, <a href="/wiki/Antonov_An-38" title="Antonov An-38">Antonov An-38</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada" title="Pratt &amp; Whitney Canada">Pratt &amp; Whitney Canada</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/> </span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td><a class="mw-redirect" href="/wiki/PT-6" title="PT-6">PT-6</a> Series</td>
+<td>149 - 260</td>
+<td>430 - 1500</td>
+<td><a class="mw-redirect" href="/wiki/Air_Tractor_AT-502" title="Air Tractor AT-502">Air Tractor AT-502</a>, <a href="/wiki/Air_Tractor_AT-602" title="Air Tractor AT-602">Air Tractor AT-602</a>, <a href="/wiki/Air_Tractor_AT-802" title="Air Tractor AT-802">Air Tractor AT-802</a>, <a href="/wiki/Beechcraft_Model_99" title="Beechcraft Model 99">Beechcraft Model 99</a>, Beechcraft King Air, <a href="/wiki/Beechcraft_Super_King_Air" title="Beechcraft Super King Air">Beechcraft Super King Air</a>, <a href="/wiki/Beechcraft_1900" title="Beechcraft 1900">Beechcraft 1900</a>, <a href="/wiki/Beechcraft_T-6_Texan_II" title="Beechcraft T-6 Texan II">Beechcraft T-6 Texan II</a>, <a class="mw-redirect" href="/wiki/Cessna_208" title="Cessna 208">Cessna 208 Caravan</a>, <a href="/wiki/Cessna_425" title="Cessna 425">Cessna 425 Corsair/Conquest I</a>, <a href="/wiki/De_Havilland_Canada_DHC-6_Twin_Otter" title="De Havilland Canada DHC-6 Twin Otter">de Havilland Canada DHC-6 Twin Otter</a>, <a href="/wiki/Harbin_Y-12" title="Harbin Y-12">Harbin Y-12</a>, <a href="/wiki/Embraer_EMB_110_Bandeirante" title="Embraer EMB 110 Bandeirante">Embraer EMB 110 Bandeirante</a>, <a href="/wiki/Let_L-410_Turbolet" title="Let L-410 Turbolet">Let L-410 Turbolet</a>, <a href="/wiki/Piaggio_P.180_Avanti" title="Piaggio P.180 Avanti">Piaggio P.180 Avanti</a>, <a href="/wiki/Pilatus_PC-6_Porter" title="Pilatus PC-6 Porter">Pilatus PC-6 Porter</a>, <a href="/wiki/Pilatus_PC-12" title="Pilatus PC-12">Pilatus PC-12</a>, <a href="/wiki/Piper_PA-42_Cheyenne" title="Piper PA-42 Cheyenne">Piper PA-42 Cheyenne</a>, <a class="mw-redirect" href="/wiki/Piper_Malibu" title="Piper Malibu">Piper PA-46-500TP Meridian</a>, <a class="mw-redirect" href="/wiki/Shorts_360" title="Shorts 360">Shorts 360</a>, <a href="/wiki/SOCATA_TBM" title="SOCATA TBM">Daher TBM 700</a>, <a href="/wiki/SOCATA_TBM" title="SOCATA TBM">Daher TBM 850</a>, <a href="/wiki/SOCATA_TBM" title="SOCATA TBM">Daher TBM 900</a>, <a href="/wiki/Embraer_EMB_314_Super_Tucano" title="Embraer EMB 314 Super Tucano">Embraer EMB 314 Super Tucano</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada" title="Pratt &amp; Whitney Canada">Pratt &amp; Whitney Canada</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/> </span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada_PW100" title="Pratt &amp; Whitney Canada PW100">PW120</a></td>
+<td>418</td>
+<td>1491</td>
+<td><a href="/wiki/ATR_42" title="ATR 42">ATR 42</a>-300/320</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada" title="Pratt &amp; Whitney Canada">Pratt &amp; Whitney Canada</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/> </span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada_PW100" title="Pratt &amp; Whitney Canada PW100">PW121</a></td>
+<td>425</td>
+<td>1603</td>
+<td><a href="/wiki/ATR_42" title="ATR 42">ATR 42</a>-300/320, <a href="/wiki/Bombardier_Dash_8" title="Bombardier Dash 8">Bombardier Dash 8</a> Q100</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada" title="Pratt &amp; Whitney Canada">Pratt &amp; Whitney Canada</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/> </span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada_PW100" title="Pratt &amp; Whitney Canada PW100">PW123</a> C/D</td>
+<td>450</td>
+<td>1603</td>
+<td><a href="/wiki/Bombardier_Dash_8" title="Bombardier Dash 8">Bombardier Dash 8</a> Q300</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada" title="Pratt &amp; Whitney Canada">Pratt &amp; Whitney Canada</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/> </span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada_PW100" title="Pratt &amp; Whitney Canada PW100">PW126</a> C/D</td>
+<td>450</td>
+<td>1950</td>
+<td><a class="mw-redirect" href="/wiki/BAe_ATP" title="BAe ATP">BAe ATP</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada" title="Pratt &amp; Whitney Canada">Pratt &amp; Whitney Canada</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/> </span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada_PW100" title="Pratt &amp; Whitney Canada PW100">PW127</a></td>
+<td>481</td>
+<td>2051</td>
+<td><a href="/wiki/ATR_72" title="ATR 72">ATR 72</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada" title="Pratt &amp; Whitney Canada">Pratt &amp; Whitney Canada</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="500" data-file-width="1000" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/35px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/46px-Flag_of_Canada.svg.png 2x" width="23"/> </span><a href="/wiki/Canada" title="Canada">Canada</a></td>
+<td><a href="/wiki/Pratt_%26_Whitney_Canada_PW100" title="Pratt &amp; Whitney Canada PW100">PW150</a>A</td>
+<td>717</td>
+<td>3781</td>
+<td><a href="/wiki/Bombardier_Dash_8" title="Bombardier Dash 8">Bombardier Dash 8</a> Q400</td>
+</tr>
+<tr>
+<td><a href="/wiki/PZL" title="PZL">PZL</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="800" data-file-width="1280" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/23px-Flag_of_Poland.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/35px-Flag_of_Poland.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/12/Flag_of_Poland.svg/46px-Flag_of_Poland.svg.png 2x" width="23"/> </span><a href="/wiki/Poland" title="Poland">Poland</a></td>
+<td><a class="new" href="/w/index.php?title=TWD-10B&amp;action=edit&amp;redlink=1" title="TWD-10B (page does not exist)">TWD-10B</a></td>
+<td>230</td>
+<td>754</td>
+<td><a class="mw-redirect" href="/wiki/PZL_M28" title="PZL M28">PZL M28</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/NPO_Saturn" title="NPO Saturn">RKBM</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" width="23"/> </span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td><a class="new" href="/w/index.php?title=TVD-1500S&amp;action=edit&amp;redlink=1" title="TVD-1500S (page does not exist)">TVD-1500S</a></td>
+<td>240</td>
+<td>1044</td>
+<td><a href="/wiki/Sukhoi_Su-80" title="Sukhoi Su-80">Sukhoi Su-80</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Rolls-Royce_Limited" title="Rolls-Royce Limited">Rolls-Royce</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><a href="/wiki/Rolls-Royce_Dart" title="Rolls-Royce Dart">Dart</a> Mk 536</td>
+<td>569</td>
+<td>1700</td>
+<td><a class="mw-redirect" href="/wiki/Avro_748" title="Avro 748">Avro 748</a>, <a class="mw-redirect" href="/wiki/Fokker_F27" title="Fokker F27">Fokker F27</a>, <a href="/wiki/Vickers_Viscount" title="Vickers Viscount">Vickers Viscount</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Rolls-Royce_Limited" title="Rolls-Royce Limited">Rolls-Royce</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><a href="/wiki/Rolls-Royce_Tyne" title="Rolls-Royce Tyne">Tyne</a> 21</td>
+<td>569</td>
+<td>4500</td>
+<td><a href="/wiki/Aeritalia_G.222" title="Aeritalia G.222">Aeritalia G.222</a>, <a href="/wiki/Breguet_Atlantic" title="Breguet Atlantic">Breguet Atlantic</a>, <a href="/wiki/Transall_C-160" title="Transall C-160">Transall C-160</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Rolls-Royce_plc" title="Rolls-Royce plc">Rolls-Royce</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><a href="/wiki/Allison_Model_250" title="Allison Model 250">250</a>-B17</td>
+<td>88.4</td>
+<td>313</td>
+<td><a href="/wiki/Fuji_T-7" title="Fuji T-7">Fuji T-7</a>, <a class="mw-redirect" href="/wiki/Britten-Norman_Islander" title="Britten-Norman Islander">Britten-Norman Turbine Islander</a>, O&amp;N <a href="/wiki/Cessna_210" title="Cessna 210">Cessna 210</a>, Soloy <a href="/wiki/Cessna_206" title="Cessna 206">Cessna 206</a>, Propjet <a href="/wiki/Beechcraft_Bonanza" title="Beechcraft Bonanza">Bonanza</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Rolls-Royce_plc" title="Rolls-Royce plc">Rolls-Royce</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td>Allison <a href="/wiki/Allison_T56" title="Allison T56">T56</a></td>
+<td>828 - 880</td>
+<td>3424 - 3910</td>
+<td><a class="mw-redirect" href="/wiki/P-3_Orion" title="P-3 Orion">P-3 Orion</a>, <a class="mw-redirect" href="/wiki/E-2_Hawkeye" title="E-2 Hawkeye">E-2 Hawkeye</a>, <a class="mw-redirect" href="/wiki/C-2_Greyhound" title="C-2 Greyhound">C-2 Greyhound</a>, <a class="mw-redirect" href="/wiki/C-130_Hercules" title="C-130 Hercules">C-130 Hercules</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Rolls-Royce_plc" title="Rolls-Royce plc">Rolls-Royce</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><a href="/wiki/Rolls-Royce_AE_2100" title="Rolls-Royce AE 2100">AE2100</a>A</td>
+<td>715.8</td>
+<td>3095</td>
+<td><a href="/wiki/Saab_2000" title="Saab 2000">Saab 2000</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Rolls-Royce_plc" title="Rolls-Royce plc">Rolls-Royce</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><a href="/wiki/Rolls-Royce_AE_2100" title="Rolls-Royce AE 2100">AE2100</a>J</td>
+<td>710</td>
+<td>3424</td>
+<td><a href="/wiki/ShinMaywa_US-2" title="ShinMaywa US-2">ShinMaywa US-2</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Rolls-Royce_plc" title="Rolls-Royce plc">Rolls-Royce</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="1200" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/35px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/46px-Flag_of_the_United_Kingdom.svg.png 2x" width="23"/> </span><a href="/wiki/United_Kingdom" title="United Kingdom">United Kingdom</a></td>
+<td><a href="/wiki/Rolls-Royce_AE_2100" title="Rolls-Royce AE 2100">AE2100</a>D2, D3</td>
+<td>702</td>
+<td>3424</td>
+<td><a href="/wiki/Alenia_C-27J_Spartan" title="Alenia C-27J Spartan">Alenia C-27J Spartan</a>, <a href="/wiki/Lockheed_Martin_C-130J_Super_Hercules" title="Lockheed Martin C-130J Super Hercules">Lockheed Martin C-130J Super Hercules</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/NPO_Saturn" title="NPO Saturn">Rybinsk</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" width="23"/> </span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td><a class="new" href="/w/index.php?title=TVD-1500V&amp;action=edit&amp;redlink=1" title="TVD-1500V (page does not exist)">TVD-1500V</a></td>
+<td>220</td>
+<td>1156</td>
+<td></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/NPO_Saturn" title="NPO Saturn">Saturn</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/35px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/45px-Flag_of_Russia.svg.png 2x" width="23"/> </span><a href="/wiki/Russia" title="Russia">Russia</a></td>
+<td><a class="new" href="/w/index.php?title=TAL-34-1&amp;action=edit&amp;redlink=1" title="TAL-34-1 (page does not exist)">TAL-34-1</a></td>
+<td>178</td>
+<td>809</td>
+<td></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Turbomeca" title="Turbomeca">Turbomeca</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/> </span><a href="/wiki/France" title="France">France</a></td>
+<td><a href="/wiki/Turbomeca_Arrius" title="Turbomeca Arrius">Arrius</a> 1D</td>
+<td>111</td>
+<td>313</td>
+<td rowspan="2"><a href="/wiki/Socata_TB_30_Epsilon" title="Socata TB 30 Epsilon">Socata TB 31 Omega</a></td>
+</tr>
+<tr>
+<td><a class="mw-redirect" href="/wiki/Turbomeca" title="Turbomeca">Turbomeca</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/35px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/45px-Flag_of_France.svg.png 2x" width="23"/> </span><a href="/wiki/France" title="France">France</a></td>
+<td><a href="/wiki/Turbomeca_Arrius" title="Turbomeca Arrius">Arrius</a> 2F</td>
+<td>103</td>
+<td>376</td>
+</tr>
+<tr>
+<td><a href="/wiki/Walter_Aircraft_Engines" title="Walter Aircraft Engines">Walter</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" width="23"/> </span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></td>
+<td><a href="/wiki/Walter_M601" title="Walter M601">M601 Series</a><sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></td>
+<td>200</td>
+<td>560</td>
+<td><a href="/wiki/Let_L-410_Turbolet" title="Let L-410 Turbolet">Let L-410 Turbolet</a>, <a class="new" href="/w/index.php?title=Aerocomp_Comp_Air_10_XL&amp;action=edit&amp;redlink=1" title="Aerocomp Comp Air 10 XL (page does not exist)">Aerocomp Comp Air 10 XL</a>, <a href="/wiki/Comp_Air_7" title="Comp Air 7">Aerocomp Comp Air 7</a>, <a href="/wiki/Ayres_Thrush" title="Ayres Thrush">Ayres Thrush</a>, <a href="/wiki/Dornier_Do_28" title="Dornier Do 28">Dornier Do 28</a>, <a href="/wiki/Lancair_Propjet" title="Lancair Propjet">Lancair Propjet</a>, <a href="/wiki/Zl%C3%ADn_Z_37" title="Zlín Z 37">Let Z-37T</a>, <a href="/wiki/Let_L-410_Turbolet" title="Let L-410 Turbolet">Let L-420</a>, <a href="/wiki/Myasishchev_M-101T" title="Myasishchev M-101T">Myasishchev M-101T</a>, <a href="/wiki/PAC_Fletcher" title="PAC Fletcher">PAC FU-24 Fletcher</a>, <a href="/wiki/Technoavia_Rysachok" title="Technoavia Rysachok">Progress Rysachok</a>, <a href="/wiki/PZL-106_Kruk" title="PZL-106 Kruk">PZL-106 Kruk</a>, <a href="/wiki/PZL-130_Orlik" title="PZL-130 Orlik">PZL-130 Orlik</a>, <a href="/wiki/Technoavia_SM92_Finist" title="Technoavia SM92 Finist">SM-92T Turbo Finist</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Walter_Aircraft_Engines" title="Walter Aircraft Engines">Walter</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" width="23"/> </span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></td>
+<td><a href="/wiki/Walter_M602" title="Walter M602">M602</a>A</td>
+<td>570</td>
+<td>1360</td>
+<td rowspan="2"><a href="/wiki/Let_L-610" title="Let L-610">Let L-610</a></td>
+</tr>
+<tr>
+<td><a href="/wiki/Walter_Aircraft_Engines" title="Walter Aircraft Engines">Walter</a></td>
+<td><span class="flagicon"><img alt="" class="thumbborder" data-file-height="600" data-file-width="900" height="15" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/23px-Flag_of_the_Czech_Republic.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/35px-Flag_of_the_Czech_Republic.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Flag_of_the_Czech_Republic.svg/45px-Flag_of_the_Czech_Republic.svg.png 2x" width="23"/> </span><a href="/wiki/Czech_Republic" title="Czech Republic">Czech Republic</a></td>
+<td><a href="/wiki/Walter_M602" title="Walter M602">M602</a>B</td>
+<td>480</td>
+<td>1500</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Jet_engine" title="Jet engine">Jet engine</a></li>
+<li><a href="/wiki/Jet_aircraft" title="Jet aircraft">Jet aircraft</a></li>
+<li><a href="/wiki/Jetboat" title="Jetboat">Jetboat</a></li>
+<li><a href="/wiki/Propfan" title="Propfan">Propfan</a></li>
+<li><a href="/wiki/Ramjet" title="Ramjet">Ramjet</a></li>
+<li><a href="/wiki/Scimitar_propeller" title="Scimitar propeller">Scimitar propeller</a></li>
+<li><a href="/wiki/Supercharger" title="Supercharger">Supercharger</a></li>
+<li><a href="/wiki/Tiltrotor" title="Tiltrotor">Tiltrotor</a></li>
+<li><a href="/wiki/Turbocharger" title="Turbocharger">Turbocharger</a></li>
+<li><a href="/wiki/Turbofan" title="Turbofan">Turbofan</a></li>
+<li><a href="/wiki/Turbojet" title="Turbojet">Turbojet</a></li>
+<li><a href="/wiki/Turboshaft" title="Turboshaft">Turboshaft</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Turboprop&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(July 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=7" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="https://books.google.com/books?id=AWscFMlooH8C&amp;pg=PT201" rel="nofollow">"Turboprop"</a>, <i>Pilot's Handbook of Aeronautical Knowledge</i>, <a href="/wiki/Federal_Aviation_Administration" title="Federal Aviation Administration">Federal Aviation Administration</a>, 2009.</span></li>
+<li id="cite_note-glennTur-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-glennTur_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-glennTur_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a class="external text" href="http://www.grc.nasa.gov/WWW/K-12/airplane/aturbp.html" rel="nofollow">Turboprop Engine</a>" <i><a href="/wiki/Glenn_Research_Center" title="Glenn Research Center">Glenn Research Center</a> (<a href="/wiki/NASA" title="NASA">NASA</a>)</i></span></li>
+<li id="cite_note-glennThr-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-glennThr_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-glennThr_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a class="external text" href="http://www.grc.nasa.gov/WWW/K-12/airplane/aturbp.html" rel="nofollow">Turboprop Thrust</a>" <i><a href="/wiki/Glenn_Research_Center" title="Glenn Research Center">Glenn Research Center</a> (<a href="/wiki/NASA" title="NASA">NASA</a>)</i></span></li>
+<li id="cite_note-lyle-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-lyle_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-lyle_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://lyle.smu.edu/propulsion/Pages/variations.htm" rel="nofollow">"Variations of Jet Engines"</a>. <i>smu.edu</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.atitle=Variations+of+Jet+Engines&amp;rft.genre=unknown&amp;rft.jtitle=smu.edu&amp;rft_id=http%3A%2F%2Flyle.smu.edu%2Fpropulsion%2FPages%2Fvariations.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-srm-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-srm_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-srm_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">"<a class="external text" href="http://www.srmuniv.ac.in/downloads/turbofan-2012.pdf" rel="nofollow">"The turbofan engine</a>", page 7. <a href="/wiki/SRM_University" title="SRM University">SRM University</a>, Department of aerospace engineering.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">J. Russell (2 Aug 1996). <a class="external text" href="https://books.google.com/books?id=IuGILwrEMBYC&amp;lpg=PA1&amp;dq=0080538649&amp;hl=fr&amp;pg=PA16#v=onepage&amp;q&amp;f=false" rel="nofollow"><i>Performance and Stability of Aircraft</i></a>. Butterworth-Heinemann. p. 16. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0080538649" title="Special:BookSources/0080538649">0080538649</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.au=J.+Russell&amp;rft.btitle=Performance+and+Stability+of+Aircraft&amp;rft.date=1996-08-02&amp;rft.genre=book&amp;rft.isbn=0080538649&amp;rft.pages=16&amp;rft.pub=Butterworth-Heinemann&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DIuGILwrEMBYC%26lpg%3DPA1%26dq%3D0080538649%26hl%3Dfr%26pg%3DPA16%23v%3Donepage%26q%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-kroo-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-kroo_7-0">^</a></b></span> <span class="reference-text">Ilan Kroo and Juan Alonso. "<a class="external text" href="http://adg.stanford.edu/aa241/propulsion/propulsionintro.html" rel="nofollow">Aircraft Design: Synthesis and Analysis, Propulsion Systems: Basic Concepts</a>" Stanford University School of Engineering, Department of Aeronautics and Astronautics <a class="external text" href="http://adg.stanford.edu/aa241/AircraftDesign.html" rel="nofollow">Main page</a></span></li>
+<li id="cite_note-Spak-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Spak_8-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://web.mit.edu/aeroastro/people/spakovszky.html" rel="nofollow">Prof. Z. S. Spakovszky</a>. "<a class="external text" href="http://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/node84.html" rel="nofollow">11.5 Trends in thermal and propulsive efficiency</a>" <i><a class="mw-redirect" href="/wiki/School_of_Engineering,_Massachusetts_Institute_of_Technology#Aeronautics_and_Astronautics" title="School of Engineering, Massachusetts Institute of Technology">MIT turbines</a></i>, 2002. <a class="external text" href="http://web.mit.edu/16.unified/www/FALL/thermodynamics/notes/notes.html" rel="nofollow">Thermodynamics and Propulsion</a></span></li>
+<li id="cite_note-nag-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-nag_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nag_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Nag, P.K. "<a class="external text" href="https://books.google.dk/books?id=Rq7uBQAAQBAJ" rel="nofollow">Basic And Applied Thermodynamics</a>" p550. Published by Tata McGraw-Hill Education. Quote: "If the cowl is removed from the fan the result is a turboprop engine. Turbofan and turboprop engines differ mainly in their bypass ratio: 5 or 6 for turbofans and as high as 100 for turboprop."</span></li>
+<li id="cite_note-glennProp-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-glennProp_10-0">^</a></b></span> <span class="reference-text">"<a class="external text" href="http://www.grc.nasa.gov/WWW/K-12/airplane/propth.html" rel="nofollow">Propeller thrust</a>" <i><a href="/wiki/Glenn_Research_Center" title="Glenn Research Center">Glenn Research Center</a> (<a href="/wiki/NASA" title="NASA">NASA</a>)</i></span></li>
+<li id="cite_note-bevil-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-bevil_11-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Paul_Bevilaqua" title="Paul Bevilaqua">Paul Bevilaqua</a>. <a class="external text" href="http://www.dtic.mil/dticasd/sbir/sbir032/n184.doc" rel="nofollow">The shaft driven Lift Fan propulsion system for the Joint Strike Fighter</a> page 3. Presented 1 May 1997. DTIC.MIL Word document, 5.5 MB. Accessed: 25 February 2012.</span></li>
+<li id="cite_note-bensen-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-bensen_12-0">^</a></b></span> <span class="reference-text"><a href="/wiki/Igor_Bensen" title="Igor Bensen">Bensen, Igor</a>. "<a class="external text" href="http://www.gyrocopters.co.uk/html/dr_bensen_explains_all.html" rel="nofollow">How they fly - Bensen explains all</a>" <i>Gyrocopters UK</i>. Accessed: 10 April 2014.</span></li>
+<li id="cite_note-wayne-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-wayne_13-0">^</a></b></span> <span class="reference-text">Johnson, Wayne. <a class="external text" href="https://books.google.dk/books?id=SgZheyNeXJIC&amp;hl=da&amp;source=gbs_navlinks_s" rel="nofollow">Helicopter theory</a> pp3+32, <i>Courier Dover Publications</i>, 1980. Accessed: 25 February 2012. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-486-68230-7" title="Special:BookSources/0-486-68230-7">0-486-68230-7</a></span></li>
+<li id="cite_note-step-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-step_14-0">^</a></b></span> <span class="reference-text">Wieslaw Zenon Stepniewski, C. N. Keys. <a class="external text" href="https://books.google.com/books?id=PawbFeAAllIC&amp;printsec=frontcover&amp;hl=en" rel="nofollow">Rotary-wing aerodynamics</a> p3, Courier Dover Publications, 1979. Accessed: 25 February 2012. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-486-64647-5" title="Special:BookSources/0-486-64647-5">0-486-64647-5</a></span></li>
+<li id="cite_note-pt6nation_2-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-pt6nation_2_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.pt6nation.com/en/articles/article/history-an-engine-ahead-of-its-time/" rel="nofollow">"An Engine Ahead of Its Time"</a>. <i>PT6 Nation</i>. Pratt &amp; Whitney Canada.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.atitle=An+Engine+Ahead+of+Its+Time&amp;rft.genre=unknown&amp;rft.jtitle=PT6+Nation&amp;rft_id=http%3A%2F%2Fwww.pt6nation.com%2Fen%2Farticles%2Farticle%2Fhistory-an-engine-ahead-of-its-time%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Gunston Jet, p. 120</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Gunston World, p.111</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.sztnh.gov.hu/feltalalok/jendrass.html" rel="nofollow">"Magyar feltalálók és találmányok - JENDRASSIK GYÖRGY (1898 - 1954)"</a>. SZTNH<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-05-31</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.btitle=Magyar+feltal%C3%A1l%C3%B3k+%C3%A9s+tal%C3%A1lm%C3%A1nyok+-+JENDRASSIK+GY%C3%96RGY+%281898+-+1954%29&amp;rft.genre=unknown&amp;rft.pub=SZTNH&amp;rft_id=http%3A%2F%2Fwww.sztnh.gov.hu%2Ffeltalalok%2Fjendrass.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-airent1-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-airent1_19-0">^</a></b></span> <span class="reference-text">Green, W. and Swanborough, G.; "Plane Facts", 'Max'Air Enthusiast <i><b>Vol. 1</b> No. 1 (1971), Page 53.</i></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.flightglobal.com/pdfarchive/view/1951/1951%20-%200908.html" rel="nofollow">"Our Contribution - How Flight Introduced and Made Familiar With Gas Turbines and Jet Propulsion"</a> <i>Flight</i>, 11 May 1951, p. 569.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">James p. 251-2</span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text">Green p.18-9</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.flightglobal.com/pdfarchive/view/1950/1950%20-%202035.html" rel="nofollow">"rolls-royce trent - armstrong siddeley - 1950 - 2035 - Flight Archive"</a>. <i>flightglobal.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.atitle=rolls-royce+trent+-+armstrong+siddeley+-+1950+-+2035+-+Flight+Archive&amp;rft.genre=unknown&amp;rft.jtitle=flightglobal.com&amp;rft_id=http%3A%2F%2Fwww.flightglobal.com%2Fpdfarchive%2Fview%2F1950%2F1950%2520-%25202035.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text">Green p.82</span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text">Green p.81</span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Green p.57</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://airandspace.si.edu/collections/artifact.cfm?id=A19571016000" rel="nofollow">"Smithsonian National Air and Space Museum - Collections - Kaman K-225 <i>(Long Description)</i>"</a>. National Air and Space Museum<span class="reference-accessdate">. Retrieved <span class="nowrap">4 April</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.btitle=Smithsonian+National+Air+and+Space+Museum+-+Collections+-+Kaman+K-225+%28Long+Description%29&amp;rft.genre=unknown&amp;rft.pub=National+Air+and+Space+Museum&amp;rft_id=http%3A%2F%2Fairandspace.si.edu%2Fcollections%2Fartifact.cfm%3Fid%3DA19571016000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.centreforaviation.com/news/2010/07/09/more-turboprops-coming-to-the-market---maybe/page1" rel="nofollow">"More turboprops coming to the market - maybe - CAPA - Centre for Aviation"</a>. <i>centreforaviation.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">31 August</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.atitle=More+turboprops+coming+to+the+market+-+maybe+-+CAPA+-+Centre+for+Aviation&amp;rft.genre=unknown&amp;rft.jtitle=centreforaviation.com&amp;rft_id=http%3A%2F%2Fwww.centreforaviation.com%2Fnews%2F2010%2F07%2F09%2Fmore-turboprops-coming-to-the-market---maybe%2Fpage1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.geaviation.com/bga/engines/h-series/" rel="nofollow">"The H-Series Engine | Engines | B&amp;GA | GE Aviation"</a>. <i>www.geaviation.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-06-01</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.atitle=The+H-Series+Engine+%7C+Engines+%7C+B%26GA+%7C+GE+Aviation&amp;rft.genre=unknown&amp;rft.jtitle=www.geaviation.com&amp;rft_id=http%3A%2F%2Fwww.geaviation.com%2Fbga%2Fengines%2Fh-series%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external autonumber" href="http://www.praguebest.cz" rel="nofollow">[1]</a>, PragueBest s.r.o. <a class="external text" href="https://www.geaviation.cz/en/company/history" rel="nofollow">"History | GE Aviation"</a>. <i>www.geaviation.cz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-06-01</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.atitle=History+%7C+GE+Aviation&amp;rft.aufirst=PragueBest+s.r.o.&amp;rft.aulast=%5Bhttp%3A%2F%2Fwww.praguebest.cz%5D&amp;rft.genre=unknown&amp;rft.jtitle=www.geaviation.cz&amp;rft_id=https%3A%2F%2Fwww.geaviation.cz%2Fen%2Fcompany%2Fhistory&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h3><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=8" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li>Green, W. and Cross, R.<i>The Jet Aircraft of the World</i> (1955). London: MacDonald</li>
+<li><cite class="citation book">Gunston, Bill (2006). <i>The Development of Jet and Turbine Aero Engines, 4th Edition</i>. Sparkford, Somerset, England, UK: Patrick Stephens, Haynes Publishing. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7509-4477-3" title="Special:BookSources/0-7509-4477-3">0-7509-4477-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.aufirst=Bill&amp;rft.aulast=Gunston&amp;rft.btitle=The+Development+of+Jet+and+Turbine+Aero+Engines%2C+4th+Edition&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-7509-4477-3&amp;rft.place=Sparkford%2C+Somerset%2C+England%2C+UK&amp;rft.pub=Patrick+Stephens%2C+Haynes+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Gunston, Bill (2006). <i>World Encyclopedia of Aero Engines, 5th Edition</i>. Phoenix Mill, Gloucestershire, England, UK: Sutton Publishing Limited. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7509-4479-X" title="Special:BookSources/0-7509-4479-X">0-7509-4479-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.aufirst=Bill&amp;rft.aulast=Gunston&amp;rft.btitle=World+Encyclopedia+of+Aero+Engines%2C+5th+Edition&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-7509-4479-X&amp;rft.place=Phoenix+Mill%2C+Gloucestershire%2C+England%2C+UK&amp;rft.pub=Sutton+Publishing+Limited&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>James, D.N. <i>Gloster Aircraft since 1917</i> (1971). London: Putnam &amp; Co. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-370-00084-6" title="Special:BookSources/0-370-00084-6">0-370-00084-6</a></li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book"><a href="/wiki/Neil_D._Van_Sickle" title="Neil D. Van Sickle">Van Sickle, Neil D.</a>; et al. (1999). "Turboprop Engines". <a class="external text" href="https://books.google.com/books?id=Ol-KVtOk_ZEC&amp;pg=PA205" rel="nofollow"><i>Van Sickle's modern airmanship</i></a>. McGraw-Hill Professional. p. 205. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-069633-4" title="Special:BookSources/978-0-07-069633-4">978-0-07-069633-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATurboprop&amp;rft.atitle=Turboprop+Engines&amp;rft.au=Van+Sickle%2C+Neil+D.&amp;rft.btitle=Van+Sickle%27s+modern+airmanship&amp;rft.date=1999&amp;rft.genre=bookitem&amp;rft.isbn=978-0-07-069633-4&amp;rft.pages=205&amp;rft.pub=McGraw-Hill+Professional&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DOl-KVtOk_ZEC%26pg%3DPA205&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Turboprop&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.popsci.com/archive-viewer?id=ciEDAAAAMBAJ&amp;pg=76&amp;query=June+1945" rel="nofollow">Jet Turbine Planes</a> by LtCol Silsbee USAAF, Popular Science, December 1945, first article on turboprops printed</li>
+<li><a class="extiw" href="https://en.wikibooks.org/wiki/Jet_Propulsion" title="wikibooks:Jet Propulsion">Wikibooks: Jet propulsion</a></li>
+<li><a class="external text" href="http://www.flightglobal.com/pdfarchive/view/1950/1950%20-%202035.html" rel="nofollow">"Development of the Turboprop"</a> a 1950 <i>Flight</i> article on UK and US turboprop engines</li>
+</ul>
+<div aria-labelledby="Jet_engines_and_Aircraft_gas_turbines" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Aircraft_gas_turbine_engine_components" title="Template:Aircraft gas turbine engine components"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Aircraft_gas_turbine_engine_components" title="Template talk:Aircraft gas turbine engine components"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Aircraft_gas_turbine_engine_components&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Jet_engines_and_Aircraft_gas_turbines" style="font-size:114%;margin:0 4em"><a href="/wiki/Jet_engine" title="Jet engine">Jet engines</a> and <a href="/wiki/Aircraft_engine" title="Aircraft engine">Aircraft</a> <a href="/wiki/Gas_turbine" title="Gas turbine">gas turbines</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Gas_turbine" title="Gas turbine">Gas turbines</a><br/>
+and <a href="/wiki/Jet_propulsion" title="Jet propulsion">jet propulsion</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Types</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Propfan" title="Propfan">Propfan</a></li>
+<li><a href="/wiki/Turbofan" title="Turbofan">Turbofan</a></li>
+<li><a href="/wiki/Turbojet" title="Turbojet">Turbojet</a></li>
+<li><a class="mw-selflink selflink">Turboprop</a></li>
+<li><a href="/wiki/Turboshaft" title="Turboshaft">Turboshaft</a></li>
+<li><a href="/wiki/Ramjet" title="Ramjet">Ramjet</a></li>
+<li><a href="/wiki/Rocket_engine" title="Rocket engine">Rocket</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Mechanical<br/>
+components</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Accessory_drive" title="Accessory drive">Accessory drive</a></li>
+<li><a href="/wiki/Components_of_jet_engines#Air_intakes" title="Components of jet engines">Air intake</a></li>
+<li><a href="/wiki/Afterburner" title="Afterburner">Afterburner (reheat)</a></li>
+<li><a href="/wiki/Axial_compressor" title="Axial compressor">Axial compressor</a></li>
+<li><a href="/wiki/Centrifugal_compressor" title="Centrifugal compressor">Centrifugal compressor</a></li>
+<li><a href="/wiki/Combustor" title="Combustor">Combustor</a></li>
+<li><a href="/wiki/Constant_speed_drive" title="Constant speed drive">Constant speed drive</a></li>
+<li><a href="/wiki/Propelling_nozzle" title="Propelling nozzle">Propelling nozzle</a></li>
+<li><a href="/wiki/Turbine_blade" title="Turbine blade">Turbine blade</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Principles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Thrust" title="Thrust">thrust</a></li>
+<li><a href="/wiki/Bleed_air" title="Bleed air">bleed air</a></li>
+<li><a href="/wiki/Brayton_cycle" title="Brayton cycle">Brayton cycle</a></li>
+<li><a href="/wiki/Jet_engine_performance" title="Jet engine performance">jet engine performance</a></li>
+<li><a href="/wiki/Overall_pressure_ratio" title="Overall pressure ratio">overall pressure ratio</a></li>
+<li><a href="/wiki/Propulsive_efficiency" title="Propulsive efficiency">propulsive efficiency</a></li>
+<li><a href="/wiki/Thrust_specific_fuel_consumption" title="Thrust specific fuel consumption">thrust specific fuel consumption</a></li>
+<li><a href="/wiki/Specific_impulse" title="Specific impulse">specific impulse</a></li>
+<li><a class="mw-redirect" href="/wiki/Thrust_lapse" title="Thrust lapse">thrust lapse</a></li>
+<li><a class="mw-redirect" href="/wiki/Thrust_to_weight_ratio" title="Thrust to weight ratio">thrust to weight ratio</a></li>
+<li><a href="/wiki/Variable_cycle_engine" title="Variable cycle engine">variable cycle engine</a></li>
+<li><a href="/wiki/Aircraft_engine_starting" title="Aircraft engine starting">Aircraft engine starting</a></li>
+<li><a href="/wiki/Bypass_ratio" title="Bypass ratio">Bypass ratio</a></li>
+<li><a href="/wiki/Compressor_stall" title="Compressor stall">Compressor stall</a></li>
+<li><a href="/wiki/Engine_pressure_ratio" title="Engine pressure ratio">Engine pressure ratio (EPR)</a></li>
+<li><a href="/wiki/Flameout" title="Flameout">Flameout</a></li>
+<li><a class="mw-redirect" href="/wiki/Windmill_restart" title="Windmill restart">Windmill restart</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Propeller_(aeronautics)" title="Propeller (aeronautics)">Propellers</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Components</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Propeller_governor" title="Propeller governor">Propeller governor</a></li>
+<li><a href="/wiki/Propeller_speed_reduction_unit" title="Propeller speed reduction unit">Propeller speed reduction unit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Principles</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autofeather" title="Autofeather">Autofeather</a></li>
+<li><a href="/wiki/Blade_pitch" title="Blade pitch">Blade pitch</a></li>
+<li><a href="/wiki/Constant-speed_propeller" title="Constant-speed propeller">Constant-speed</a></li>
+<li><a href="/wiki/Contra-rotating_propellers" title="Contra-rotating propellers">Contra-rotating</a></li>
+<li><a href="/wiki/Counter-rotating_propellers" title="Counter-rotating propellers">Counter-rotating</a></li>
+<li><a href="/wiki/Proprotor" title="Proprotor">Proprotor</a></li>
+<li><a href="/wiki/Scimitar_propeller" title="Scimitar propeller">Scimitar</a></li>
+<li><a href="/wiki/Variable-pitch_propeller" title="Variable-pitch propeller">Variable-pitch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Engine<br/>
+instruments</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Annunciator_panel" title="Annunciator panel">Annunciator panel</a></li>
+<li><a href="/wiki/Electronic_centralised_aircraft_monitor" title="Electronic centralised aircraft monitor">Electronic centralised aircraft monitor (ECAM)</a></li>
+<li><a href="/wiki/Electronic_flight_instrument_system" title="Electronic flight instrument system">Electronic flight instrument system (EFIS)</a></li>
+<li><a href="/wiki/Engine-indicating_and_crew-alerting_system" title="Engine-indicating and crew-alerting system">Engine-indicating and crew-alerting system (EICAS)</a></li>
+<li><a class="mw-redirect" href="/wiki/Flight_data_recorder" title="Flight data recorder">Flight data recorder</a></li>
+<li><a href="/wiki/Glass_cockpit" title="Glass cockpit">Glass cockpit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aircraft_engine_controls" title="Aircraft engine controls">Engine controls</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Autothrottle" title="Autothrottle">Autothrottle</a></li>
+<li><a href="/wiki/FADEC" title="FADEC">Full Authority Digital Engine/Electronics (FADEC)</a></li>
+<li><a href="/wiki/Thrust_lever" title="Thrust lever">Thrust lever</a></li>
+<li><a href="/wiki/Thrust_reversal" title="Thrust reversal">Thrust reversal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Aircraft_fuel_system" title="Aircraft fuel system">Fuel</a> and induction<br/>
+systems</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jet_fuel" title="Jet fuel">Jet fuel</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other systems</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Air-start_system" title="Air-start system">Air-start system</a></li>
+<li><a href="/wiki/Auxiliary_power_unit" title="Auxiliary power unit">Auxiliary power unit (APU)</a></li>
+<li><a href="/wiki/Bleed_air" title="Bleed air">Bleed air system</a></li>
+<li><a href="/wiki/Hydraulic_fluid#Aircraft_hydraulic_systems" title="Hydraulic fluid">Hydraulic system</a></li>
+<li><a href="/wiki/Ice_protection_system" title="Ice protection system">Ice protection system</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Heat_engines" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style="background:#F0DC82;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Heat_engines" title="Template:Heat engines"><abbr style=";background:#F0DC82;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Heat_engines" title="Template talk:Heat engines"><abbr style=";background:#F0DC82;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Heat_engines&amp;action=edit"><abbr style=";background:#F0DC82;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Heat_engines" style="font-size:114%;margin:0 4em"><a href="/wiki/Heat_engine" title="Heat engine">Heat engines</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot engine</a></li>
+<li><a href="/wiki/Fluidyne_engine" title="Fluidyne engine">Fluidyne</a></li>
+<li><a href="/wiki/Gas_turbine" title="Gas turbine">Gas turbine</a></li>
+<li><a href="/wiki/Hot_air_engine" title="Hot air engine">Hot air</a></li>
+<li><a href="/wiki/Jet_engine" title="Jet engine">Jet</a></li>
+<li><a href="/wiki/Minto_wheel" title="Minto wheel">Minto wheel</a></li>
+<li><a href="/wiki/Photo-Carnot_engine" title="Photo-Carnot engine">Photo-Carnot engine</a></li>
+<li><a href="/wiki/Reciprocating_engine" title="Reciprocating engine">Piston</a></li>
+<li><a href="/wiki/Pistonless_rotary_engine" title="Pistonless rotary engine">Pistonless (Rotary)</a></li>
+<li><a href="/wiki/Rijke_tube" title="Rijke tube">Rijke tube</a></li>
+<li><a href="/wiki/Rocket_engine" title="Rocket engine">Rocket</a></li>
+<li><a href="/wiki/Split-single" title="Split-single">Split-single</a></li>
+<li><a href="/wiki/Steam_engine" title="Steam engine">Steam (reciprocating)</a></li>
+<li><a href="/wiki/Steam_turbine" title="Steam turbine">Steam turbine</a></li>
+<li><a href="/wiki/Stirling_engine" title="Stirling engine">Stirling</a></li>
+<li><a href="/wiki/Thermoacoustic_heat_engine" title="Thermoacoustic heat engine">Thermoacoustic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-even hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beale_number" title="Beale number">Beale number</a></li>
+<li><a href="/wiki/West_number" title="West number">West number</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Timeline of heat engine technology</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2" style="background:#F0DC82;">
+<div><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Thermodynamic cycle</a></div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1186
+Cached time: 20171004080523
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.504 seconds
+Real time usage: 0.614 seconds
+Preprocessor visited node count: 4051/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 84162/2097152 bytes
+Template argument size: 6777/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.207/10.000 seconds
+Lua memory usage: 5.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  461.035      1 -total
+ 28.71%  132.381      9 Template:Citation_needed
+ 26.30%  121.239      1 Template:Reflist
+ 26.06%  120.139      9 Template:Fix
+ 15.03%   69.306      9 Template:Delink
+ 10.20%   47.045      5 Template:Cite_book
+  9.69%   44.663     18 Template:Category_handler
+  8.99%   41.463      8 Template:Cite_web
+  8.78%   40.495      3 Template:ISBN
+  5.78%   26.651      1 Template:Convert
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:31039-0!canonical and timestamp 20171004080523 and revision id 803549062
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Turboprop&amp;oldid=803549062">https://en.wikipedia.org/w/index.php?title=Turboprop&amp;oldid=803549062</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Gas_turbines" title="Category:Gas turbines">Gas turbines</a></li><li><a href="/wiki/Category:Aircraft_engines" title="Category:Aircraft engines">Aircraft engines</a></li><li><a href="/wiki/Category:Jet_engines" title="Category:Jet engines">Jet engines</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2011" title="Category:Articles with unsourced statements from July 2011">Articles with unsourced statements from July 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_July_2010" title="Category:Articles with unsourced statements from July 2010">Articles with unsourced statements from July 2010</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_July_2010" title="Category:Articles needing additional references from July 2010">Articles needing additional references from July 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2011" title="Category:Use dmy dates from July 2011">Use dmy dates from July 2011</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Turboprop" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Turboprop" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Turboprop" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Turboprop" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Turboprop">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Turboprop&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Turboprop&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Turboprop" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Turboprop" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Turboprop&amp;oldid=803549062" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Turboprop&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q309027" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Turboprop&amp;id=803549062" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Turboprop">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Turboprop&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DTurboprop%26returnto%3DTurboprop%26oldid%3D803549062%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Turboprop&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Turboprop_engines" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AD%D8%B1%D9%83_%D9%85%D8%B1%D9%88%D8%AD%D8%A9_%D8%B9%D9%86%D9%81%D9%8A%D8%A9" hreflang="ar" lang="ar" title="محرك مروحة عنفية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%AA%D9%88%D8%B1%D8%A8%D9%88%D9%BE%D8%B1%D8%A7%D9%BE" hreflang="azb" lang="azb" title="توربوپراپ – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Turboh%C3%A8lix" hreflang="ca" lang="ca" title="Turbohèlix – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Turbovrtulov%C3%BD_motor" hreflang="cs" lang="cs" title="Turbovrtulový motor – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Turboprop" hreflang="da" lang="da" title="Turboprop – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Turboprop" hreflang="de" lang="de" title="Turboprop – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Turbopropellermootor" hreflang="et" lang="et" title="Turbopropellermootor – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Turboh%C3%A9lice" hreflang="es" lang="es" title="Turbohélice – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D9%88%D8%B1%D8%A8%D9%88%D9%BE%D8%B1%D8%A7%D9%BE" hreflang="fa" lang="fa" title="توربوپراپ – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Turbopropulseur" hreflang="fr" lang="fr" title="Turbopropulseur – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Turboprop" hreflang="fy" lang="fy" title="Turboprop – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Turboh%C3%A9lice" hreflang="gl" lang="gl" title="Turbohélice – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%84%B0%EB%B3%B4%ED%94%84%EB%A1%AD" hreflang="ko" lang="ko" title="터보프롭 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8F%D5%B8%D6%82%D6%80%D5%A2%D5%B8%D5%BA%D5%BF%D5%B8%D6%82%D5%BF%D5%A1%D5%AF%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B7%D5%A1%D6%80%D5%AA%D5%AB%D5%B9" hreflang="hy" lang="hy" title="Տուրբոպտուտակային շարժիչ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Turboprop" hreflang="id" lang="id" title="Turboprop – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Turboelica" hreflang="it" lang="it" title="Turboelica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%D0%B2%D0%B8%D0%BD%D1%82%D1%82%D1%96_%D2%9B%D0%BE%D0%B7%D2%93%D0%B0%D0%BB%D1%82%D2%9B%D1%8B%D1%88" hreflang="kk" lang="kk" title="Турбовинтті қозғалтқыш – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/L%C3%A9gcsavaros_g%C3%A1zturbina" hreflang="hu" lang="hu" title="Légcsavaros gázturbina – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Turbin_bebaling" hreflang="ms" lang="ms" title="Turbin bebaling – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Turboprop" hreflang="nl" lang="nl" title="Turboprop – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%BF%E3%83%BC%E3%83%9C%E3%83%97%E3%83%AD%E3%83%83%E3%83%97%E3%82%A8%E3%83%B3%E3%82%B8%E3%83%B3" hreflang="ja" lang="ja" title="ターボプロップエンジン – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Turboprop" hreflang="no" lang="no" title="Turboprop – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Silnik_turbo%C5%9Bmig%C5%82owy" hreflang="pl" lang="pl" title="Silnik turbośmigłowy – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Turbo%C3%A9lice" hreflang="pt" lang="pt" title="Turboélice – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Turbopropulsor" hreflang="ro" lang="ro" title="Turbopropulsor – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%BE%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D0%B0%D1%82%D0%B5%D0%BB%D1%8C" hreflang="ru" lang="ru" title="Турбовинтовой двигатель – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Turbovrtu%C4%BEov%C3%BD_motor" hreflang="sk" lang="sk" title="Turbovrtuľový motor – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Turbopropelerski_motor" hreflang="sl" lang="sl" title="Turbopropelerski motor – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Potkuriturbiini" hreflang="fi" lang="fi" title="Potkuriturbiini – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Turbopropmotor" hreflang="sv" lang="sv" title="Turbopropmotor – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Turboprop" hreflang="tr" lang="tr" title="Turboprop – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D1%80%D0%B1%D0%BE%D0%B3%D0%B2%D0%B8%D0%BD%D1%82%D0%BE%D0%B2%D0%B8%D0%B9_%D0%B4%D0%B2%D0%B8%D0%B3%D1%83%D0%BD" hreflang="uk" lang="uk" title="Турбогвинтовий двигун – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99ng_c%C6%A1_tu%E1%BB%91c_bin_c%C3%A1nh_qu%E1%BA%A1t" hreflang="vi" lang="vi" title="Động cơ tuốc bin cánh quạt – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B8%A6%E8%BC%AA%E8%9E%BA%E6%97%8B%E6%A7%B3%E7%99%BC%E5%8B%95%E6%A9%9F" hreflang="zh" lang="zh" title="渦輪螺旋槳發動機 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q309027#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 October 2017, at 05:26.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Turboprop&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.614","ppvisitednodes":{"value":4051,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":84162,"limit":2097152},"templateargumentsize":{"value":6777,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  461.035      1 -total"," 28.71%  132.381      9 Template:Citation_needed"," 26.30%  121.239      1 Template:Reflist"," 26.06%  120.139      9 Template:Fix"," 15.03%   69.306      9 Template:Delink"," 10.20%   47.045      5 Template:Cite_book","  9.69%   44.663     18 Template:Category_handler","  8.99%   41.463      8 Template:Cite_web","  8.78%   40.495      3 Template:ISBN","  5.78%   26.651      1 Template:Convert"]},"scribunto":{"limitreport-timeusage":{"value":"0.207","limit":"10.000"},"limitreport-memusage":{"value":6058644,"limit":52428800}},"cachereport":{"origin":"mw1186","timestamp":"20171004080523","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":90,"wgHostname":"mw1267"});});</script>
+</body>
+</html>

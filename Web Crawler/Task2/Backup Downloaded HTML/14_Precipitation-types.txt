@@ -1,0 +1,390 @@
+https://en.wikipedia.org/wiki/Convection_rain
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Precipitation types - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Precipitation_types","wgTitle":"Precipitation types","wgCurRevisionId":801814183,"wgRevisionId":801814183,"wgArticleId":10906237,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with dead external links","Articles with dead external links from October 2010","Webarchive template wayback links","Articles needing expert attention from April 2015","All articles needing expert attention","Meteorology articles needing expert attention","Wikipedia articles needing clarification from April 2015","Precipitation","Hydrology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Precipitation_types","wgRelevantArticleId":10906237,"wgRequestId":"WcrHqgpAAD8AAGMFABUAAABP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Convection_rain","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Precipitation_types#Convection","wgWikibaseItemId":"Q3268251","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","mediawiki.page.gallery","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.30.0-wmf.19" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/c/c1/Precipitation_by_type.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Precipitation_types#Convection" rel="alternate"/>
+<link href="/w/index.php?title=Precipitation_types&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Precipitation_types&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Precipitation_types#Convection" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Precipitation_types rootpage-Precipitation_types skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Precipitation types</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Convection_rain&amp;redirect=no" title="Convection rain">Convection rain</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs attention from an expert in Meteorology</b>. The specific problem is: <b>unclear and incomplete explanations.</b> <span class="hide-when-compact"><a href="/wiki/Wikipedia:WikiProject_Meteorology" title="Wikipedia:WikiProject Meteorology">WikiProject Meteorology</a> may be able to help recruit an expert.</span> <small><i>(April 2015)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Precipitation_by_type.png"><img alt="" class="thumbimage" data-file-height="356" data-file-width="575" height="136" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Precipitation_by_type.png/220px-Precipitation_by_type.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Precipitation_by_type.png/330px-Precipitation_by_type.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Precipitation_by_type.png/440px-Precipitation_by_type.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Precipitation_by_type.png" title="Enlarge"></a></div>
+Typical precipitation types associated with a <a href="/wiki/Warm_front" title="Warm front">warm front</a> advancing over frigid air</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Flaming_Rain_at_Sunset.jpg"><img alt="" class="thumbimage" data-file-height="2075" data-file-width="4288" height="145" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flaming_Rain_at_Sunset.jpg/300px-Flaming_Rain_at_Sunset.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flaming_Rain_at_Sunset.jpg/450px-Flaming_Rain_at_Sunset.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Flaming_Rain_at_Sunset.jpg/600px-Flaming_Rain_at_Sunset.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Flaming_Rain_at_Sunset.jpg" title="Enlarge"></a></div>
+Precipitation in the form of a <a href="/wiki/Sunshower" title="Sunshower">sunshower</a></div>
+</div>
+</div>
+<p>In <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, "precipitation types" can include the character or phase of the <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> which is falling to ground level. There are three distinct ways that precipitation can occur. <b>Convective</b> precipitation is generally more intense, and of shorter duration, than <b>stratiform</b> precipitation. <b>Orographic</b> precipitation occurs when moist air is forced upwards over rising terrain, such as a mountain.</p>
+<p>Precipitation can also fall in either liquid or solid phases, or transition between them. Liquid forms of precipitation include rain and drizzle. Rain or drizzle which freezes on contact within a subfreezing air mass gains the preceding adjective "freezing", becoming known as freezing rain or freezing drizzle. Frozen forms of precipitation include <a href="/wiki/Snow" title="Snow">snow</a>, <a href="/wiki/Diamond_dust" title="Diamond dust">ice needles</a>, <a href="/wiki/Ice_pellets" title="Ice pellets">sleet</a>, <a href="/wiki/Hail" title="Hail">hail</a>, and <a href="/wiki/Graupel" title="Graupel">graupel</a>. Intensity is classified either by rate of fall, or by visibility restriction.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Phases"><span class="tocnumber">1</span> <span class="toctext">Phases</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mechanisms"><span class="tocnumber">2</span> <span class="toctext">Mechanisms</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Convectional"><span class="tocnumber">2.1</span> <span class="toctext">Convectional</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Cyclonic"><span class="tocnumber">2.2</span> <span class="toctext">Cyclonic</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Orographic"><span class="tocnumber">2.3</span> <span class="toctext">Orographic</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Intensity"><span class="tocnumber">3</span> <span class="toctext">Intensity</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Gallery"><span class="tocnumber">4</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Phases">Phases</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=1" title="Edit section: Phases">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Precipitation falls in many forms, or phases. They can be subdivided into:</p>
+<ul>
+<li>Liquid precipitation:
+<ul>
+<li><a href="/wiki/Drizzle" title="Drizzle">Drizzle</a> (DZ)</li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a> (RA)</li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a> <a href="/wiki/Condensation" title="Condensation">condensation</a> on <a href="/wiki/Vegetation" title="Vegetation">vegetation</a> <a class="mw-redirect" href="/wiki/Foliage" title="Foliage">foliage</a>, dripping on <a href="/wiki/Forest" title="Forest">forest</a> <a href="/wiki/Soil" title="Soil">soil</a>.<sup class="reference" id="cite_ref-UPMC_.26_CNRS_1-0"><a href="#cite_note-UPMC_.26_CNRS-1">[1]</a></sup></li>
+</ul>
+</li>
+<li>Freezing precipitation:
+<ul>
+<li><a href="/wiki/Freezing_drizzle" title="Freezing drizzle">Freezing drizzle</a> (FZDZ)</li>
+<li><a href="/wiki/Freezing_rain" title="Freezing rain">Freezing rain</a> (FZRA)</li>
+<li><a href="/wiki/Rain_and_snow_mixed" title="Rain and snow mixed">Rain and snow mixed</a> / "Snain" (RASN)</li>
+<li><a href="/wiki/Sunshower" title="Sunshower">Sun Shower</a></li>
+</ul>
+</li>
+<li>Frozen precipitation:
+<ul>
+<li><a href="/wiki/Snow" title="Snow">Snow</a> (SN)</li>
+<li><a href="/wiki/Snow_grains" title="Snow grains">Snow grains</a> (SG)</li>
+<li><a href="/wiki/Ice_pellets" title="Ice pellets">Ice pellets / Sleet</a> (PL)</li>
+<li><a href="/wiki/Hail" title="Hail">Hail</a> (GR)</li>
+<li><a href="/wiki/Graupel" title="Graupel">Snow pellets / Graupel</a> (GS)</li>
+<li><a href="/wiki/Diamond_dust" title="Diamond dust">Ice crystals</a> (IC)</li>
+</ul>
+</li>
+</ul>
+<p>The parenthesized letters are the <a href="/wiki/METAR" title="METAR">METAR</a> codes for each phenomenon.<sup class="reference" id="cite_ref-Metar_2-0"><a href="#cite_note-Metar-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Mechanisms">Mechanisms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=2" title="Edit section: Mechanisms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Precipitation occurs when the air becomes saturated with water vapor, and can no longer hold all of it in vapor form. This occurs when moist air cools, usually when an airmass rises through the atmosphere. However, an airmass can also cool (e.g. through <a href="/wiki/Radiative_cooling" title="Radiative cooling">radiative cooling</a>, or ground contact with cold terrain) without a change in altitude.</p>
+<p><i>Convective</i> precipitation occurs when air rises vertically through the (temporarily) self-sustaining mechanism of <a href="/wiki/Convection" title="Convection">convection</a>. <i>Stratiform</i> precipitation occurs when large air masses rise diagonally as larger-scale atmospheric dynamics force them to move over each other. <i>Orographic</i> precipitation is similar, except the upwards motion is forced when a moving airmass encounters the rising slope of a landform such as a mountain ridge.</p>
+<h3><span class="mw-headline" id="Convectional">Convectional</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=3" title="Edit section: Convectional">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Desert_Electric.jpg"><img alt="" class="thumbimage" data-file-height="2441" data-file-width="3887" height="138" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Desert_Electric.jpg/220px-Desert_Electric.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/94/Desert_Electric.jpg/330px-Desert_Electric.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/94/Desert_Electric.jpg/440px-Desert_Electric.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Desert_Electric.jpg" title="Enlarge"></a></div>
+A Violent electrical storm results from convective <a class="mw-redirect" href="/wiki/Cumulus_congestus" title="Cumulus congestus">cumulus congestus</a> clouds.</div>
+</div>
+</div>
+<p>Convection occurs when the Earth's surface, within a conditionally unstable or moist <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a>, becomes heated more than its surroundings, leading to significant evaporation. Convective rain, or showery precipitation, occurs from convective clouds, e.g., <a class="mw-redirect" href="/wiki/Cumulonimbus" title="Cumulonimbus">cumulonimbus</a> or <a class="mw-redirect" href="/wiki/Cumulus_congestus" title="Cumulus congestus">cumulus congestus</a>. It falls as showers with rapidly changing intensity. Convective precipitation falls over a certain area for a relatively short time, as convective clouds have limited horizontal extent. Most precipitation in the <a href="/wiki/Tropics" title="Tropics">tropics</a> appears to be convective; however, it has been suggested that stratiform precipitation thunderstorms.<sup class="reference" id="cite_ref-Geerts_3-0"><a href="#cite_note-Geerts-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p><a href="/wiki/Graupel" title="Graupel">Graupel</a> and <a href="/wiki/Hail" title="Hail">hail</a> indicate convection.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> In mid-latitudes, convective precipitation is associated with <a href="/wiki/Cold_front" title="Cold front">cold fronts</a> (often behind the front), <a href="/wiki/Squall_line" title="Squall line">squall lines</a>, and warm fronts in very moist air.</p>
+<h3><span class="mw-headline" id="Cyclonic">Cyclonic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=4" title="Edit section: Cyclonic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a class="mw-redirect" href="/wiki/Weather_fronts" title="Weather fronts">Weather fronts</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Warmfrontai.svg"><img alt="" class="thumbimage" data-file-height="181" data-file-width="224" height="178" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warmfrontai.svg/220px-Warmfrontai.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warmfrontai.svg/330px-Warmfrontai.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Warmfrontai.svg/440px-Warmfrontai.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Warmfrontai.svg" title="Enlarge"></a></div>
+A weather front is the boundary of two airmasses</div>
+</div>
+</div>
+<p>Frontal precipitation is caused by frontal systems surrounding <a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">extratropical cyclones</a> or lows, which form when warm and often tropical air meets cooler air. Frontal precipitation typically falls out of <a class="mw-redirect" href="/wiki/Nimbostratus" title="Nimbostratus">nimbostratus</a> clouds.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p>When masses of air with different density (moisture and temperature characteristics) meet, less dense warmer air overrides colder air. The warmer air is forced to rise and if conditions are right becomes saturated, causing precipitation. In turn, precipitation can enhance the temperature and moisture contrast along a frontal boundary.<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag needs further explanation. (April 2015)">further explanation needed</span></a></i>]</sup> Passing weather fronts cause sudden changes in general temperature, and in the <a href="/wiki/Humidity" title="Humidity">humidity</a> and <a href="/wiki/Pressure" title="Pressure">pressure</a> in the air at ground level.</p>
+<p><a href="/wiki/Warm_front" title="Warm front">Warm fronts</a> occur where the warm air pushes out a previously lodged cold air mass. The warm air overrides the cooler air and moves upward. Warm fronts are followed by extended periods of light rain and drizzle, because, after the warm air rises above the cooler air (which remains on the ground), it gradually cools due to the air's expansion while being lifted, which forms clouds and leads to precipitation.</p>
+<p><a href="/wiki/Cold_front" title="Cold front">Cold fronts</a> occur when a mass of cooler air dislodges a mass of warm air. This type of transition is sharper,<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Please_clarify" title="Wikipedia:Please clarify"><span title="The text near this tag needs further explanation. (April 2015)">further explanation needed</span></a></i>]</sup> since cold air is more dense than warm air. The rain duration is shorter, and generally more intense, than that which occurs ahead of warm fronts.</p>
+<p>A wide variety of weather can be found along an <a href="/wiki/Occluded_front" title="Occluded front">occluded front</a>, with thunderstorms possible, but usually their passage is associated with a drying of the air mass.</p>
+<h3><span class="mw-headline" id="Orographic">Orographic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=5" title="Edit section: Orographic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Steigungsregen.jpg"><img alt="" class="thumbimage" data-file-height="454" data-file-width="612" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Steigungsregen.jpg/220px-Steigungsregen.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Steigungsregen.jpg/330px-Steigungsregen.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Steigungsregen.jpg/440px-Steigungsregen.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Steigungsregen.jpg" title="Enlarge"></a></div>
+Orographic precipitation occurs when moist air is forced upwards by terrain.</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Orographic_lift" title="Orographic lift">Orographic lift</a></div>
+<p><a href="/wiki/Orography" title="Orography">Orographic</a> or relief rainfall is caused when masses of air pushed by <a href="/wiki/Wind" title="Wind">wind</a> are forced up the side of elevated land formations, such as large <a href="/wiki/Mountain" title="Mountain">mountains</a>. The lift of the air up the side of the mountain results in <a class="mw-redirect" href="/wiki/Adiabatic_lapse_rate" title="Adiabatic lapse rate">adiabatic</a> cooling, and ultimately condensation and precipitation. In mountainous parts of the world subjected to relatively consistent winds (for example, the <a class="mw-redirect" href="/wiki/Trade_wind" title="Trade wind">trade winds</a>), a more moist <a href="/wiki/Climate" title="Climate">climate</a> usually prevails on the windward side of a mountain than on the <a class="mw-redirect" href="/wiki/Leeward" title="Leeward">leeward</a> (downwind) side. Moisture is removed by orographic lift, leaving drier air (see <a class="mw-redirect" href="/wiki/Foehn" title="Foehn">Foehn</a>) on the descending (generally warming), leeward side where a <a href="/wiki/Rain_shadow" title="Rain shadow">rain shadow</a> is observed.<sup class="reference" id="cite_ref-MT_7-0"><a href="#cite_note-MT-7">[7]</a></sup></p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Towering_Verticle_Thunderhead.jpg"><img alt="" class="thumbimage" data-file-height="2471" data-file-width="4288" height="127" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Towering_Verticle_Thunderhead.jpg/220px-Towering_Verticle_Thunderhead.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Towering_Verticle_Thunderhead.jpg/330px-Towering_Verticle_Thunderhead.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Towering_Verticle_Thunderhead.jpg/440px-Towering_Verticle_Thunderhead.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Towering_Verticle_Thunderhead.jpg" title="Enlarge"></a></div>
+Post <a href="/wiki/Orographic_lift" title="Orographic lift">orographic lift</a> isolated towering vertical thunderhead shower in <a href="/wiki/Mojave_Desert" title="Mojave Desert">Mojave Desert</a>, western USA</div>
+</div>
+</div>
+<p>In <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a>, <a class="mw-redirect" href="/wiki/Mount_Wai%CA%BBale%CA%BBale" title="Mount Waiʻaleʻale">Mount Waiʻaleʻale</a> (<i>Wai<span class="unicode">ʻ</span>ale<span class="unicode">ʻ</span>ale</i>), on the island of Kauai, is notable for its extreme rainfall. It has the highest average annual rainfall on Earth, with 460 inches (12,000 mm) per year.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Storm systems affect the region with heavy rains between October and March. Local climates vary considerably on each island due to their topography, divisible into windward (<i>Ko<span class="unicode">ʻ</span>olau</i>) and leeward (<i>Kona</i>) regions based upon location relative to the higher mountains. Windward sides face the east-to-northeast <a href="/wiki/Trade_winds" title="Trade winds">trade winds</a> and receive much more rainfall; leeward sides are drier and sunnier, with less rain and less cloud cover.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> On the island of Oahu, clouds and often rain can usually be observed around the windward mountain peaks, while the southern parts of the island (including most of Honolulu and Waikiki) receive dramatically less rainfall throughout the year.</p>
+<p>In South America, the <a href="/wiki/Andes" title="Andes">Andes</a> mountain range blocks <a href="/wiki/Pacific_Ocean" title="Pacific Ocean">Pacific Ocean</a> moisture that arrives on the continent, resulting in a desert-like climate just downwind across western Argentina.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> The <a href="/wiki/Sierra_Nevada_(U.S.)" title="Sierra Nevada (U.S.)">Sierra Nevada</a> range creates the same effect in North America, causing the <a href="/wiki/Great_Basin" title="Great Basin">Great Basin</a> desert,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> <a href="/wiki/Mojave_Desert" title="Mojave Desert">Mojave Desert</a>, and <a href="/wiki/Sonoran_Desert" title="Sonoran Desert">Sonoran Desert</a>.</p>
+<h2><span class="mw-headline" id="Intensity">Intensity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=6" title="Edit section: Intensity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Precipitation is measured using a <a href="/wiki/Rain_gauge" title="Rain gauge">rain gauge</a>. When classified according to the rate of precipitation, rain can be divided into categories. Light rain describes rainfall which falls at a rate of between a trace and 2.5 millimetres (0.098 in) per hour. Moderate rain describes rainfall with a precipitation rate of between 2.6 millimetres (0.10 in) and 7.6 millimetres (0.30 in) per hour. Heavy rain describes rainfall with a precipitation rate above 7.6 millimetres (0.30 in) per hour.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Snowfall intensity is classified in terms of <a href="/wiki/Visibility" title="Visibility">visibility</a>. When the visibility is over 1 kilometre (0.62 mi), snow is determined to be light. Moderate snow describes snowfall with visibility restrictions between .5 kilometres (0.31 mi) and 1 kilometre (0.62 mi). Heavy snowfall describes conditions when visibility is restricted below .5 kilometres (0.31 mi).<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=7" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 183.33333333333px">
+<div style="width: 183.33333333333px">
+<div class="thumb" style="width: 181.33333333333px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Tropical_downpour_(6122910850).jpg"><img alt="" data-file-height="678" data-file-width="1024" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tropical_downpour_%286122910850%29.jpg/272px-Tropical_downpour_%286122910850%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tropical_downpour_%286122910850%29.jpg/408px-Tropical_downpour_%286122910850%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Tropical_downpour_%286122910850%29.jpg/544px-Tropical_downpour_%286122910850%29.jpg 2x" width="182"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Tropical downpour in <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 185.33333333333px">
+<div style="width: 185.33333333333px">
+<div class="thumb" style="width: 183.33333333333px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Rain_in_Kolkata.jpg"><img alt="" data-file-height="406" data-file-width="620" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rain_in_Kolkata.jpg/275px-Rain_in_Kolkata.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rain_in_Kolkata.jpg/413px-Rain_in_Kolkata.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Rain_in_Kolkata.jpg/550px-Rain_in_Kolkata.jpg 2x" width="184"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Heavy rain falling in <a class="mw-redirect" href="/wiki/Kolkata,_India" title="Kolkata, India">Kolkata, India</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+<div class="thumb" style="width: 160px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:2013-02-23_03_59_28_Graupel_(snow_pellets)_in_Elko,_Nevada.JPG"><img alt="" data-file-height="2448" data-file-width="3264" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2013-02-23_03_59_28_Graupel_%28snow_pellets%29_in_Elko%2C_Nevada.JPG/240px-2013-02-23_03_59_28_Graupel_%28snow_pellets%29_in_Elko%2C_Nevada.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2013-02-23_03_59_28_Graupel_%28snow_pellets%29_in_Elko%2C_Nevada.JPG/360px-2013-02-23_03_59_28_Graupel_%28snow_pellets%29_in_Elko%2C_Nevada.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cf/2013-02-23_03_59_28_Graupel_%28snow_pellets%29_in_Elko%2C_Nevada.JPG/480px-2013-02-23_03_59_28_Graupel_%28snow_pellets%29_in_Elko%2C_Nevada.JPG 2x" width="160"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Graupel accumulation in <a href="/wiki/Elko,_Nevada" title="Elko, Nevada">Elko, Nevada</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Weather" title="Weather">Weather</a></li>
+<li><a href="/wiki/Flood" title="Flood">Flood</a></li>
+<li><a href="/wiki/Cyclone" title="Cyclone">Cyclone</a></li>
+<li><a class="mw-redirect" href="/wiki/Low_pressure_area" title="Low pressure area">Low pressure area</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-UPMC_.26_CNRS-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-UPMC_.26_CNRS_1-0">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://www.sciencedirect.com/science/article/pii/S016819231200127X" rel="nofollow">"Quantification of cloud water interception"</a>. Elsevier. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2012AgFM..161...94P" rel="nofollow">2012AgFM..161...94P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2Fj.agrformet.2012.03.018" rel="nofollow">10.1016/j.agrformet.2012.03.018</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-08-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrecipitation+types&amp;rft.atitle=Quantification+of+cloud+water+interception&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.sciencedirect.com%2Fscience%2Farticle%2Fpii%2FS016819231200127X&amp;rft_id=info%3Abibcode%2F2012AgFM..161...94P&amp;rft_id=info%3Adoi%2F10.1016%2Fj.agrformet.2012.03.018&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Metar-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-Metar_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nws.noaa.gov/oso/oso1/oso12/document/guide.shtml" rel="nofollow">"METAR Conversion Card"</a>. National Weather Service<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-12-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrecipitation+types&amp;rft.btitle=METAR+Conversion+Card&amp;rft.genre=unknown&amp;rft.pub=National+Weather+Service&amp;rft_id=http%3A%2F%2Fwww.nws.noaa.gov%2Foso%2Foso1%2Foso12%2Fdocument%2Fguide.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Geerts-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Geerts_3-0">^</a></b></span> <span class="reference-text">B. Geerts. <a class="external text" href="http://www-das.uwyo.edu/~geerts/cwx/notes/chap10/con_str.html" rel="nofollow">Convective and stratiform rainfall in the tropics.</a> Retrieved on 2007-11-27.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Houze, Robert (October 1997). <a class="external text" href="http://ams.allenpress.com/archive/1520-0477/78/10/pdf/i1520-0477-78-10-2179.pdf" rel="nofollow">"Stratiform Precipitation in Regions of Convection: A Meteorological Paradox?"</a> <span style="font-size:85%;">(PDF)</span>. <i>Bulletin of the American Meteorological Society</i>. <b>78</b> (10): 2179–2196. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1997BAMS...78.2179H" rel="nofollow">1997BAMS...78.2179H</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/1520-0477" rel="nofollow">1520-0477</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0477%281997%29078%3C2179%3ASPIROC%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0477(1997)078&lt;2179:SPIROC&gt;2.0.CO;2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-11-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrecipitation+types&amp;rft.atitle=Stratiform+Precipitation+in+Regions+of+Convection%3A+A+Meteorological+Paradox%3F&amp;rft.aufirst=Robert&amp;rft.aulast=Houze&amp;rft.date=1997-10&amp;rft.genre=article&amp;rft.issn=1520-0477&amp;rft.issue=10&amp;rft.jtitle=Bulletin+of+the+American+Meteorological+Society&amp;rft.pages=2179-2196&amp;rft.volume=78&amp;rft_id=http%3A%2F%2Fams.allenpress.com%2Farchive%2F1520-0477%2F78%2F10%2Fpdf%2Fi1520-0477-78-10-2179.pdf&amp;rft_id=info%3Abibcode%2F1997BAMS...78.2179H&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0477%281997%29078%3C2179%3ASPIROC%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><sup class="noprint Inline-Template"><span style="white-space: nowrap;">[<i><a href="/wiki/Wikipedia:Link_rot" title="Wikipedia:Link rot"><span title=" Dead link since October 2010">dead link</span></a></i>]</span></sup></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Glossary of Meteorology. <a class="external text" href="http://amsglossary.allenpress.com/glossary/search?p=1&amp;query=graupel&amp;submit=Search" rel="nofollow">Graupel.</a> <a class="external text" href="https://web.archive.org/web/20080308123814/http://amsglossary.allenpress.com/glossary/search?p=1&amp;query=graupel&amp;submit=Search" rel="nofollow">Archived</a> 2008-03-08 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved on 2009-01-02.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Glossary of Meteorology (2009). <a class="external text" href="http://amsglossary.allenpress.com/glossary/search?p=1&amp;query=stratiform+precipitation&amp;submit=Search" rel="nofollow">"Stratiform precipitation area"</a>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrecipitation+types&amp;rft.au=Glossary+of+Meteorology&amp;rft.btitle=Stratiform+precipitation+area&amp;rft.date=2009&amp;rft.genre=unknown&amp;rft.pub=American+Meteorological+Society&amp;rft_id=http%3A%2F%2Famsglossary.allenpress.com%2Fglossary%2Fsearch%3Fp%3D1%26query%3Dstratiform%2Bprecipitation%26submit%3DSearch&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-MT-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-MT_7-0">^</a></b></span> <span class="reference-text">Physical Geography. <a class="external text" href="http://www.physicalgeography.net/fundamentals/8e.html" rel="nofollow">CHAPTER 8: Introduction to the Hydrosphere (e). Cloud Formation Processes.</a> Retrieved on 2009-01-01.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Diana Leone <a class="external text" href="http://starbulletin.com/2002/05/27/news/story3.html" rel="nofollow">Rain supreme.</a> Retrieved on 2008-03-19.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Western Regional Climate Center. <a class="external text" href="http://www.wrcc.dri.edu/narratives/HAWAII.htm" rel="nofollow">Climate of Hawaii.</a> Retrieved on 2008-03-19.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Paul E. Lydolph. <a class="external text" href="https://books.google.com/books?id=bBjIuXHEgZ4C&amp;pg=PA333&amp;lpg=PA333&amp;dq=effect+of+Andes+on+rainfall+in+Chile&amp;source=web&amp;ots=HwFkS0f4BQ&amp;sig=ibCwQhN-vZPpAWylwrWOgaRlfTo&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=9&amp;ct=result" rel="nofollow">The Climate of the Earth.</a> Retrieved on 2009-01-02.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Michael A. Mares. <a class="external text" href="https://books.google.com/books?id=g3CbqZtaF4oC&amp;pg=PA252&amp;lpg=PA252&amp;dq=sierra+nevada+leads+to+great+basin+desert&amp;source=bl&amp;ots=uWzrnwnUPA&amp;sig=0gl6AdoVQDlRPnAOphPG5txHd3Q&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=3&amp;ct=result" rel="nofollow">Encyclopedia of Deserts.</a> Retrieved on 2009-01-02.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Glossary of Meteorology (2012). <a class="external text" href="http://glossary.ametsoc.org/wiki/Rain" rel="nofollow">"Rain"</a>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-11-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrecipitation+types&amp;rft.au=Glossary+of+Meteorology&amp;rft.btitle=Rain&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft.pub=American+Meteorological+Society&amp;rft_id=http%3A%2F%2Fglossary.ametsoc.org%2Fwiki%2FRain&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">Glossary of Meteorology (2009). <a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=snow1" rel="nofollow">"Snow"</a>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-06-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3APrecipitation+types&amp;rft.au=Glossary+of+Meteorology&amp;rft.btitle=Snow&amp;rft.date=2009&amp;rft.genre=unknown&amp;rft.pub=American+Meteorological+Society&amp;rft_id=http%3A%2F%2Famsglossary.allenpress.com%2Fglossary%2Fsearch%3Fid%3Dsnow1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Precipitation_types&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.metoffice.gov.uk/learning/rain/why-does-it-rain" rel="nofollow">UK Met Office: Why does it rain?</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1228
+Cached time: 20170922010812
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.204 seconds
+Real time usage: 0.277 seconds
+Preprocessor visited node count: 1061/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21068/2097152 bytes
+Template argument size: 1710/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.102/10.000 seconds
+Lua memory usage: 4.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  236.750      1 -total
+ 38.63%   91.445      1 Template:Reflist
+ 20.22%   47.878      1 Template:Expert_needed
+ 15.86%   37.538      2 Template:Cite_journal
+ 15.55%   36.804      9 Template:Convert
+ 14.27%   33.784      3 Template:Fix
+ 13.31%   31.515      2 Template:Elucidate
+ 11.66%   27.614      1 Template:Ambox
+  8.06%   19.071      2 Template:Delink
+  7.71%   18.247      4 Template:Cite_web
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10906237-0!canonical and timestamp 20170922010812 and revision id 801814183
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Precipitation_types&amp;oldid=801814183#Convection">https://en.wikipedia.org/w/index.php?title=Precipitation_types&amp;oldid=801814183#Convection</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Precipitation" title="Category:Precipitation">Precipitation</a></li><li><a href="/wiki/Category:Hydrology" title="Category:Hydrology">Hydrology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_dead_external_links" title="Category:All articles with dead external links">All articles with dead external links</a></li><li><a href="/wiki/Category:Articles_with_dead_external_links_from_October_2010" title="Category:Articles with dead external links from October 2010">Articles with dead external links from October 2010</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_April_2015" title="Category:Articles needing expert attention from April 2015">Articles needing expert attention from April 2015</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li><li><a href="/wiki/Category:Meteorology_articles_needing_expert_attention" title="Category:Meteorology articles needing expert attention">Meteorology articles needing expert attention</a></li><li><a href="/wiki/Category:Wikipedia_articles_needing_clarification_from_April_2015" title="Category:Wikipedia articles needing clarification from April 2015">Wikipedia articles needing clarification from April 2015</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Precipitation+types" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Precipitation+types" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Precipitation_types" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Precipitation_types" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Precipitation_types">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Precipitation_types&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Precipitation_types&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Precipitation_types" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Precipitation_types" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Precipitation_types&amp;oldid=801814183" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Precipitation_types&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3268251" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Precipitation_types&amp;id=801814183" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Precipitation+types">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Precipitation+types&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DPrecipitation%2Btypes%26returnto%3DPrecipitation%2Btypes%26oldid%3D801814183%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Precipitation_types&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A3%D9%86%D9%88%D8%A7%D8%B9_%D8%A7%D9%84%D9%87%D8%B7%D9%88%D9%84" hreflang="ar" lang="ar" title="أنواع الهطول – Arabic">العربية</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Regen#Konvektionsregen" hreflang="de" lang="de" title="Regen – German">Deutsch</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B0%95%EC%88%98_%ED%98%95%ED%83%9C" hreflang="ko" lang="ko" title="강수 형태 – Korean">한국어</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Nedb%C3%B8rtyper" hreflang="no" lang="no" title="Nedbørtyper – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Opad_wielkoskalowy" hreflang="pl" lang="pl" title="Opad wielkoskalowy – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Chuva_orogr%C3%A1fica" hreflang="pt" lang="pt" title="Chuva orográfica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Frontnederb%C3%B6rd" hreflang="sv" lang="sv" title="Frontnederbörd – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Konveksiyonel_ya%C4%9F%C4%B1%C5%9F" hreflang="tr" lang="tr" title="Konveksiyonel yağış – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-wuu"><a class="interlanguage-link-target" href="https://wuu.wikipedia.org/wiki/%E9%8B%92%E9%9D%A2%E9%9B%A8" hreflang="wuu" lang="wuu" title="鋒面雨 – Wu Chinese">吴语</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%8B%92%E9%9D%A2%E9%9B%A8" hreflang="zh-yue" lang="zh-yue" title="鋒面雨 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%94%8B%E9%9D%A2%E9%9B%A8" hreflang="zh" lang="zh" title="锋面雨 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q3268251#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 September 2017, at 01:08.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Precipitation_types&amp;mobileaction=toggle_view_mobile#Convection">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.204","walltime":"0.277","ppvisitednodes":{"value":1061,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21068,"limit":2097152},"templateargumentsize":{"value":1710,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  236.750      1 -total"," 38.63%   91.445      1 Template:Reflist"," 20.22%   47.878      1 Template:Expert_needed"," 15.86%   37.538      2 Template:Cite_journal"," 15.55%   36.804      9 Template:Convert"," 14.27%   33.784      3 Template:Fix"," 13.31%   31.515      2 Template:Elucidate"," 11.66%   27.614      1 Template:Ambox","  8.06%   19.071      2 Template:Delink","  7.71%   18.247      4 Template:Cite_web"]},"scribunto":{"limitreport-timeusage":{"value":"0.102","limit":"10.000"},"limitreport-memusage":{"value":5101826,"limit":52428800}},"cachereport":{"origin":"mw1228","timestamp":"20170922010812","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1268"});});</script>
+</body>
+</html>

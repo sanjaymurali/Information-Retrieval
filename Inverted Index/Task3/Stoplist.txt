@@ -1,0 +1,105 @@
+STOP LIST FOR CORPUS
+=====================
+
+NOTE:
+
+The Code for generating and writing the Document Frequency Table and Term Frequency Table is done as part of Task2 in
+"inverted-indexer.py".
+------------------------------------------------------------------------------------------------------------------------
+
+Stoplist:
+
+
+The Stoplist that has been generated from the unigram is as follows:
+
+1. the
+2. of
+3. and
+4. in
+5. to
+6. a
+7. is
+8. on
+9. as
+10. was
+11. for
+12. by
+13. from
+14. with
+15. s
+16. that
+17. at
+18. it
+19. are
+20. were
+21. edit
+22. or
+23. an
+24. which
+25. this
+26. be
+27. also
+28. its
+29. 1
+30. new
+31. 2
+32. has
+33. over
+34. have
+------------------------------------------------------------------------------------------------------------------------
+
+The Stoplist has been generated as follows:
+
+1. The term frequencies for every word in the corpus is determined from the inverted index for unigram from Task2.
+2. These words are then arranged in descending order of their frequencies.
+3. The Top N words from this is selected and put it into the Stoplist.
+4. When we choose the Top N words, some of the words that are useful to the corpus would also be present, so I had to
+   remove such words from the Stoplist
+------------------------------------------------------------------------------------------------------------------------
+
+For the Corpus I have, I have chosen the Top 39 words from the Term Frequency of the Unigram as the Stoplist. But the
+problem is there are words in these Top 39 words which are relevant to the corpus since they are relevant to the topic
+of Tropical Cyclone. They are:
+
+1. "hurricane" which has a term frequency of 11743
+2. "storm" which has a term frequency of 8226
+3. "tropical" which has a term frequency of 8087
+4. "state" which has a term frequency of 5567
+5. "states" which has a term frequency of 5369
+
+So these need to be removed from the Stoplist
+------------------------------------------------------------------------------------------------------------------------
+
+Choosing a Cut-off value and generating the Stoplist:
+
+Generating a Stoplist for a given corpus is extremely important in the case where we do not have enough disk space to
+store all the words in the corpus. Stoplist is generated using hand-filtering the Terms from the Term frequency table of
+the unigram data.
+
+Choosing a Threshold/Cut-Off value:
+
+1. First the Term Frequency table of the unigram which is in descending order of the frequency is reviewed.
+2. Select the Top 60 words from the frequency table and have a look into the words, we can see many words like :
+   A. "city" with frequency of 4213
+   B. "united" wth frequency of 4832
+   C. "island" with frequency of 3854
+3. We realize that this cut-off isnt good because too many topically relevant words are being added to the stoplist
+4. We decrease the cut-off value to 50 even then lot of topically relevant words get added to the list.
+5. By trial and error and by employing hand-filtering we get to 39
+6. Thus we have a chosen a cutoff value of 39 such that the words in the stoplist are very frequent and have very less or
+   no value to the index.
+
+View on generating the stoplist:
+
+1. As we go from top to bottom in the Term frequency table of the unigram which is in decreasing order of the freqeuency
+   we find that the words that appear deeper in the table are more topically relevant than the words that are at the top
+2. These words must be preserved because they would be helpful during query processing.
+3. Words such as "hurricane", "storm" and "tropical" appear on the top of the table but they cant be removed since they
+   add high topical relevance to the corpus generated and hence they need to be excluded from the stoplist even though
+   they are part of the Top 39 words I have chosen as the threshold.
+4. Most of the words in the Stoplist are actually delimiters, prepositions (such as on,in, etc), auxillary words (such as
+   be, have, has etc) and numerics (such as 1,2 etc)
+5. Another word which is curiously at the top of table is "edit" which is part of wikipedia article, since it doesnt add
+   topical relevance to the corpus, we can safely add it to the stoplist
+5. The above mentioned words are all functional words which add very significance to the topical relevance of the corpus
+6. Thus these words can be removed before generating the index for ranking

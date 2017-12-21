@@ -1,0 +1,1098 @@
+https://en.wikipedia.org/wiki/Thermohaline_circulation
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Thermohaline circulation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thermohaline_circulation","wgTitle":"Thermohaline circulation","wgCurRevisionId":797382291,"wgRevisionId":797382291,"wgArticleId":387457,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use dmy dates from September 2015","Articles containing video clips","Physical oceanography","Chemical oceanography","Climate change","Climate forcing agents"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thermohaline_circulation","wgRelevantArticleId":387457,"wgRequestId":"WdPg5ApAAEIAAE93QiYAAAAF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q463223","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/4c/Thermohaline_Circulation_2.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Thermohaline_circulation" rel="alternate"/>
+<link href="/w/index.php?title=Thermohaline_circulation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Thermohaline_circulation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Thermohaline_circulation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Thermohaline_circulation rootpage-Thermohaline_circulation vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Thermohaline circulation</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Thermohaline_Circulation_2.png"><img alt="" class="thumbimage" data-file-height="690" data-file-width="1100" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Thermohaline_Circulation_2.png/350px-Thermohaline_Circulation_2.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Thermohaline_Circulation_2.png/525px-Thermohaline_Circulation_2.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Thermohaline_Circulation_2.png/700px-Thermohaline_Circulation_2.png 2x" width="350"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Thermohaline_Circulation_2.png" title="Enlarge"></a></div>
+A summary of the path of the thermohaline circulation. Blue paths represent deep-water currents, while red paths represent surface currents.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;">
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:350px;" videopayload='&lt;div class="mediaContainer" style="width:640px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Thermohaline_Circulation_using_Improved_Flow_Field.ogv/640px--Thermohaline_Circulation_using_Improved_Flow_Field.ogv.jpg" controls="" preload="none" autoplay="" style="width:640px;height:216px" class="kskin" data-durationhint="166.66666666667" data-startoffset="0" data-mwtitle="Thermohaline_Circulation_using_Improved_Flow_Field.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/Thermohaline_Circulation_using_Improved_Flow_Field.ogv/Thermohaline_Circulation_using_Improved_Flow_Field.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="216" data-bandwidth="490512" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/4/4a/Thermohaline_Circulation_using_Improved_Flow_Field.ogv" type="video/ogg; codecs=&amp;quot;theora&amp;quot;" data-title="Original Ogg file, 640 × 216 (697 kbps)" data-shorttitle="Ogg source" data-width="640" data-height="216" data-bandwidth="697475" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/Thermohaline_Circulation_using_Improved_Flow_Field.ogv/Thermohaline_Circulation_using_Improved_Flow_Field.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="288" data-height="98" data-bandwidth="122592" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/4a/Thermohaline_Circulation_using_Improved_Flow_Field.ogv/Thermohaline_Circulation_using_Improved_Flow_Field.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="144" data-bandwidth="243528" data-framerate="30"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:Thermohaline Circulation using Improved Flow Field.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Thermohaline_Circulation_using_Improved_Flow_Field.ogv/350px--Thermohaline_Circulation_using_Improved_Flow_Field.ogv.jpg" style="width:350px;height:118px"/><a href="//upload.wikimedia.org/wikipedia/commons/4/4a/Thermohaline_Circulation_using_Improved_Flow_Field.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Thermohaline_Circulation_using_Improved_Flow_Field.ogv" title="Enlarge"></a></div>
+Thermohaline circulation</div>
+</div>
+</div>
+<p><b>Thermohaline circulation</b> (<b>THC</b>) is a part of the large-scale <a href="/wiki/Ocean_current" title="Ocean current">ocean circulation</a> that is driven by global <a href="/wiki/Density_gradient" title="Density gradient">density gradients</a> created by surface heat and freshwater <a href="/wiki/Flux" title="Flux">fluxes</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The adjective <i>thermohaline</i> derives from <i><a class="extiw" href="https://en.wiktionary.org/wiki/thermo-" title="wikt:thermo-">thermo-</a></i> referring to <a href="/wiki/Temperature" title="Temperature">temperature</a> and <i><span class="nowrap">-haline</span></i> referring to <a href="/wiki/Salinity" title="Salinity">salt content</a>, factors which together determine the <a class="mw-redirect" href="/wiki/Water_(molecule)#Density_of_saltwater_and_ice" title="Water (molecule)">density of sea water</a>. <a href="/wiki/Wind" title="Wind">Wind</a>-driven surface currents (such as the <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a>) travel <a href="/wiki/Polar_regions_of_Earth" title="Polar regions of Earth">polewards</a> from the equatorial <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>, cooling en route, and eventually sinking at high <a href="/wiki/Latitude" title="Latitude">latitudes</a> (forming <a href="/wiki/North_Atlantic_Deep_Water" title="North Atlantic Deep Water">North Atlantic Deep Water</a>). This dense water then flows into the <a class="mw-redirect" href="/wiki/Ocean_basin" title="Ocean basin">ocean basins</a>. While the bulk of it <a href="/wiki/Upwelling" title="Upwelling">upwells</a> in the <a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a>, the oldest waters (with a transit time of around 1000 years)<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> upwell in the North Pacific.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Extensive mixing therefore takes place between the ocean basins, reducing differences between them and making the Earth's oceans a global system. On their journey, the water masses transport both energy (in the form of heat) and matter (solids, dissolved substances and gases) around the globe. As such, the state of the circulation has a large impact on the <a href="/wiki/Climate" title="Climate">climate</a> of the Earth.</p>
+<p>The thermohaline circulation is sometimes called the ocean conveyor belt, the great ocean conveyor, or the global conveyor belt. On occasion, it is used to refer to the <a href="/wiki/Zonal_and_meridional" title="Zonal and meridional">meridional</a> overturning circulation (often abbreviated as MOC). The term <i>MOC</i> is more accurate and well defined, as it is difficult to separate the part of the circulation which is driven by temperature and <a href="/wiki/Salinity" title="Salinity">salinity</a> alone as opposed to other factors such as the wind and <a href="/wiki/Tidal_force" title="Tidal force">tidal forces</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Moreover, temperature and salinity gradients can also lead to circulation effects that are not included in the MOC itself.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Formation_of_deep_water_masses"><span class="tocnumber">1.1</span> <span class="toctext">Formation of deep water masses</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Movement_of_deep_water_masses"><span class="tocnumber">1.2</span> <span class="toctext">Movement of deep water masses</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Quantitative_estimation"><span class="tocnumber">1.3</span> <span class="toctext">Quantitative estimation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Gulf_Stream"><span class="tocnumber">2</span> <span class="toctext">Gulf Stream</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Upwelling"><span class="tocnumber">3</span> <span class="toctext">Upwelling</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Effects_on_global_climate"><span class="tocnumber">4</span> <span class="toctext">Effects on global climate</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Shutdown_of_thermohaline_circulation"><span class="tocnumber">4.1</span> <span class="toctext">Shutdown of thermohaline circulation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Other_sources"><span class="tocnumber">7</span> <span class="toctext">Other sources</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:277px;"><a class="image" href="/wiki/File:Conveyor_belt.svg"><img alt="" class="thumbimage" data-file-height="376" data-file-width="343" height="301" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Conveyor_belt.svg/275px-Conveyor_belt.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Conveyor_belt.svg/413px-Conveyor_belt.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a6/Conveyor_belt.svg/550px-Conveyor_belt.svg.png 2x" width="275"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Conveyor_belt.svg" title="Enlarge"></a></div>
+The global conveyor belt on a continuous-ocean map</div>
+</div>
+</div>
+<p>The movement of surface currents pushed by the wind is fairly intuitive. For example, the wind easily produces ripples on the surface of a pond. Thus the deep ocean—devoid of wind—was assumed to be perfectly static by early oceanographers. However, modern instrumentation shows that current velocities in deep water masses can be significant (although much less than surface speeds). In general, ocean water velocities range from fractions of centimeters per second (in the depth of the oceans) to sometimes more than 1 m/s in surface currents like the <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a> and <a href="/wiki/Kuroshio_Current" title="Kuroshio Current">Kuroshio</a>.</p>
+<p>In the deep ocean, the predominant driving force is differences in <a href="/wiki/Density" title="Density">density</a>, caused by salinity and temperature variations (increasing salinity and lowering the temperature of a fluid both increase its density). There is often confusion over the components of the circulation that are wind and density driven.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> Note that ocean currents due to <a class="mw-redirect" href="/wiki/Tides" title="Tides">tides</a> are also significant in many places; most prominent in relatively shallow coastal areas, tidal currents can also be significant in the deep ocean. There they are currently thought to facilitate mixing processes, especially diapycnal mixing.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<p>The density of ocean water is not globally homogeneous, but varies significantly and discretely. Sharply defined boundaries exist between <a href="/wiki/Water_mass" title="Water mass">water masses</a> which form at the surface, and subsequently maintain their own identity within the ocean. But these sharp boundaries are not to be imagined spatially but rather in a T-S-diagram where water masses are distinguished. They position themselves above or below each other according to their <a href="/wiki/Density" title="Density">density</a>, which depends on both temperature and salinity.</p>
+<p>Warm seawater expands and is thus less dense than cooler seawater. Saltier water is denser than fresher water because the dissolved salts fill interstices between water molecules, resulting in more mass per unit volume. Lighter <a href="/wiki/Water_mass" title="Water mass">water masses</a> float over denser ones (just as a piece of wood or ice will float on water, see <a href="/wiki/Buoyancy" title="Buoyancy">buoyancy</a>). This is known as "stable stratification" as opposed to unstable stratification (see Bruunt-Väisälä frequency) where denser waters are located over less dense waters (see <a href="/wiki/Convection" title="Convection">convection</a> or deep convection needed for water mass formation). When dense water masses are first formed, they are not stably stratified, so they seek to locate themselves in the correct vertical position according to their density. This motion is called convection, it orders the stratification by gravitation. Driven by the density gradients this sets up the main driving force behind deep ocean currents like the deep western boundary current (DWBC).</p>
+<p>The thermohaline circulation is mainly driven by the formation of deep water masses in the <a class="mw-redirect" href="/wiki/North_Atlantic" title="North Atlantic">North Atlantic</a> and the <a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a> caused by differences in temperature and salinity of the water.</p>
+<p>The great quantities of dense water sinking at high latitudes must be offset by equal quantities of water rising elsewhere. Note that cold water in polar zones sink relatively rapidly over a small area, while warm water in temperate and tropical zones rise more gradually across a much larger area. It then slowly returns poleward near the surface to repeat the cycle. The continual diffuse upwelling of deep water maintains the existence of the permanent thermocline found everywhere at low and mid-latitudes. This model was described by Henry Stommel and Arnold B. Arons in 1960 and is known as the Stommel-Arons box model for the MOC.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> This slow upward movement is approximated to be about 1 centimeter (0.5 inch) per day over most of the ocean. If this rise were to stop, downward movement of heat would cause the <a href="/wiki/Thermocline" title="Thermocline">thermocline</a> to descend and would reduce its steepness.</p>
+<h3><span class="mw-headline" id="Formation_of_deep_water_masses">Formation of deep water masses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=2" title="Edit section: Formation of deep water masses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The dense water masses that sink into the deep basins are formed in quite specific areas of the <a class="mw-redirect" href="/wiki/North_Atlantic" title="North Atlantic">North Atlantic</a> and the <a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a>. In the North Atlantic, seawater at the surface of the ocean is intensely cooled by the wind and low ambient air temperatures. Wind moving over the water also produces a great deal of evaporation, leading to a decrease in temperature, called <a class="mw-redirect" href="/wiki/Evaporative_cooling" title="Evaporative cooling">evaporative cooling</a> related to latent heat. Evaporation removes only water molecules, resulting in an increase in the salinity of the seawater left behind, and thus an increase in the density of the water mass along with the decrease in temperature. In the <a href="/wiki/Norwegian_Sea" title="Norwegian Sea">Norwegian Sea</a> evaporative cooling is predominant, and the sinking water mass, the <a href="/wiki/North_Atlantic_Deep_Water" title="North Atlantic Deep Water">North Atlantic Deep Water</a> (NADW), fills the basin and spills southwards through crevasses in the <a class="mw-redirect" href="/wiki/Submarine_sill" title="Submarine sill">submarine sills</a> that connect <a href="/wiki/Greenland" title="Greenland">Greenland</a>, <a href="/wiki/Iceland" title="Iceland">Iceland</a> and <a href="/wiki/Great_Britain" title="Great Britain">Great Britain</a> which are known as the Greenland-Scotland-Ridge. It then flows very slowly into the deep <a href="/wiki/Abyssal_plain" title="Abyssal plain">abyssal plains</a> of the Atlantic, always in a southerly direction. Flow from the <a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a> Basin into the Pacific, however, is blocked by the narrow shallows of the <a href="/wiki/Bering_Strait" title="Bering Strait">Bering Strait</a>.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:295px;"><a class="image" href="/wiki/File:Sea_water_freezing_temperature_and_density_maximum.png"><img alt="" class="thumbimage" data-file-height="450" data-file-width="547" height="241" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sea_water_freezing_temperature_and_density_maximum.png/293px-Sea_water_freezing_temperature_and_density_maximum.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Sea_water_freezing_temperature_and_density_maximum.png/440px-Sea_water_freezing_temperature_and_density_maximum.png 1.5x, //upload.wikimedia.org/wikipedia/commons/1/18/Sea_water_freezing_temperature_and_density_maximum.png 2x" width="293"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sea_water_freezing_temperature_and_density_maximum.png" title="Enlarge"></a></div>
+Diagram showing relation between temperature and salinity for sea water density maximum and sea water freezing temperature.</div>
+</div>
+</div>
+<p>In the <a href="/wiki/Southern_Ocean" title="Southern Ocean">Southern Ocean</a>, strong <a href="/wiki/Katabatic_wind" title="Katabatic wind">katabatic winds</a> blowing from the Antarctic continent onto the ice shelves will blow the newly formed <a href="/wiki/Sea_ice" title="Sea ice">sea ice</a> away, opening <a class="mw-redirect" href="/wiki/Polynyas" title="Polynyas">polynyas</a> along the coast. The ocean, no longer protected by sea ice, suffers a brutal and strong cooling (see <a href="/wiki/Polynya" title="Polynya">polynya</a>). Meanwhile, sea ice starts reforming, so the surface waters also get saltier, hence very dense. In fact, the formation of sea ice contributes to an increase in surface seawater salinity; saltier <a href="/wiki/Brine" title="Brine">brine</a> is left behind as the sea ice forms around it (pure water preferentially being frozen). Increasing salinity lowers the freezing point of seawater, so cold liquid brine is formed in inclusions within a honeycomb of ice. The brine progressively melts the ice just beneath it, eventually dripping out of the ice matrix and sinking. This process is known as <a href="/wiki/Brine_rejection" title="Brine rejection">brine rejection</a>.</p>
+<p>The resulting <a class="mw-redirect" href="/wiki/Antarctic_Bottom_Water" title="Antarctic Bottom Water">Antarctic Bottom Water</a> (AABW) sinks and flows north and east, but is so dense it actually underflows the NADW. AABW formed in the <a href="/wiki/Weddell_Sea" title="Weddell Sea">Weddell Sea</a> will mainly fill the Atlantic and Indian Basins, whereas the AABW formed in the <a href="/wiki/Ross_Sea" title="Ross Sea">Ross Sea</a> will flow towards the Pacific Ocean.</p>
+<p>The dense water masses formed by these processes flow downhill at the bottom of the ocean, like a stream within the surrounding less dense fluid, and fill up the basins of the polar seas. Just as river valleys direct streams and rivers on the continents, the bottom topography constrains the deep and bottom water masses.</p>
+<p>Note that, unlike fresh water, <a href="/wiki/Seawater" title="Seawater">seawater</a> does not have a density maximum at 4 °C but gets denser as it cools all the way to its freezing point of approximately −1.8 °C. This freezing point is however a function of salinity and pressure and thus -1.8 °C is not a general freezing temperature for sea water (see diagram to the right).</p>
+<h3><span class="mw-headline" id="Movement_of_deep_water_masses">Movement of deep water masses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=3" title="Edit section: Movement of deep water masses">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Formation and movement of the deep water masses at the North Atlantic Ocean, creates sinking water masses that fill the basin and flows very slowly into the deep abyssal plains of the Atlantic. This high-latitude cooling and the low-latitude heating drives the movement of the deep water in a polar southward flow. The deep water flows through the <a class="mw-redirect" href="/wiki/Antarctic_Ocean" title="Antarctic Ocean">Antarctic Ocean</a> Basin around <a href="/wiki/South_Africa" title="South Africa">South Africa</a> where it is split into two routes: one into the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> and one past <a href="/wiki/Australia" title="Australia">Australia</a> into the Pacific.</p>
+<p>At the Indian Ocean, some of the cold and salty water from the Atlantic—drawn by the flow of warmer and fresher upper ocean water from the tropical Pacific—causes a vertical exchange of dense, sinking water with lighter water above. It is known as <b>overturning</b>. In the Pacific Ocean, the rest of the cold and salty water from the Atlantic undergoes haline forcing, and becomes warmer and fresher more quickly.</p>
+<p>The out-flowing undersea of cold and salty water makes the sea level of the Atlantic slightly lower than the Pacific and salinity or halinity of water at the Atlantic higher than the Pacific. This generates a large but slow flow of warmer and fresher upper ocean water from the tropical Pacific to the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> through the <a class="mw-redirect" href="/wiki/Indonesian_Archipelago" title="Indonesian Archipelago">Indonesian Archipelago</a> to replace the cold and salty <a class="mw-redirect" href="/wiki/Antarctic_Bottom_Water" title="Antarctic Bottom Water">Antarctic Bottom Water</a>. This is also known as 'haline forcing' (net high latitude freshwater gain and low latitude evaporation). This warmer, fresher water from the Pacific flows up through the <a class="mw-redirect" href="/wiki/South_Atlantic" title="South Atlantic">South Atlantic</a> to <a href="/wiki/Greenland" title="Greenland">Greenland</a>, where it cools off and undergoes <a class="mw-redirect" href="/wiki/Evaporative_cooling" title="Evaporative cooling">evaporative cooling</a> and sinks to the ocean floor, providing a continuous thermohaline circulation.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<p>Hence, a recent and popular name for the thermohaline circulation, emphasizing the vertical nature and pole-to-pole character of this kind of ocean circulation, is the <b>meridional overturning circulation</b>.</p>
+<h3><span class="mw-headline" id="Quantitative_estimation">Quantitative estimation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=4" title="Edit section: Quantitative estimation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Direct estimates of the strength of the thermohaline circulation have been made at 26.5°N in the North Atlantic since 2004 by the UK-US RAPID programme.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> By combining direct estimates of ocean transport using current meters and subsea cable measurements with estimates of the <a href="/wiki/Geostrophic_current" title="Geostrophic current">geostrophic current</a> from temperature and salinity measurements, the RAPID programme provides continuous, full-depth, basinwide estimates of the thermohaline circulation or, more accurately, the meridional overturning circulation.</p>
+<p>The deep water masses that participate in the MOC have chemical, temperature and isotopic ratio signatures and can be traced, their flow rate calculated, and their age determined. These include <a href="/wiki/Isotope_geochemistry" title="Isotope geochemistry"><sup>231</sup>Pa / <sup>230</sup>Th</a> ratios.</p>
+<h2><span class="mw-headline" id="Gulf_Stream">Gulf Stream</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=5" title="Edit section: Gulf Stream">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Franklingulfstream.jpg"><img alt="" class="thumbimage" data-file-height="4761" data-file-width="5868" height="178" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Franklingulfstream.jpg/220px-Franklingulfstream.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/45/Franklingulfstream.jpg/330px-Franklingulfstream.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/45/Franklingulfstream.jpg/440px-Franklingulfstream.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Franklingulfstream.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Benjamin_Franklin" title="Benjamin Franklin">Benjamin Franklin</a>'s map of the <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></div>
+</div>
+</div>
+<p>The <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a>, together with its northern extension towards Europe, the <a href="/wiki/North_Atlantic_Current" title="North Atlantic Current">North Atlantic Drift</a>, is a powerful, warm, and swift <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic</a> <a href="/wiki/Ocean_current" title="Ocean current">ocean current</a> that originates at the tip of <a href="/wiki/Florida" title="Florida">Florida</a>, and follows the eastern coastlines of the <a href="/wiki/United_States" title="United States">United States</a> and <a href="/wiki/Newfoundland_and_Labrador" title="Newfoundland and Labrador">Newfoundland</a> before crossing the Atlantic Ocean. The process of <a href="/wiki/Boundary_current" title="Boundary current">western intensification</a> causes the Gulf Stream to be a northward accelerating current off the east coast of <a href="/wiki/North_America" title="North America">North America</a>.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> At about <span class="plainlinks nourlexpansion"><a class="external text" href="//tools.wmflabs.org/geohack/geohack.php?pagename=Thermohaline_circulation&amp;params=40_0_N_30_0_W_"><span class="geo-default"><span class="geo-dms" title="Maps, aerial photos, and other data for this location"><span class="latitude">40°0′N</span> <span class="longitude">30°0′W</span></span></span><span class="geo-multi-punct">﻿ / ﻿</span><span class="geo-nondefault"><span class="geo-dec" title="Maps, aerial photos, and other data for this location">40.000°N 30.000°W</span><span style="display:none">﻿ / <span class="geo">40.000; -30.000</span></span></span></a></span>, it splits in two, with the northern stream crossing to <a href="/wiki/Northern_Europe" title="Northern Europe">northern Europe</a> and the southern stream recirculating off <a href="/wiki/West_Africa" title="West Africa">West Africa</a>. The Gulf Stream influences the climate of the east coast of North America from Florida to Newfoundland, and the west coast of <a href="/wiki/Europe" title="Europe">Europe</a>. Although there has been recent debate, there is consensus that the climate of <a href="/wiki/Western_Europe" title="Western Europe">Western Europe</a> and <a href="/wiki/Northern_Europe" title="Northern Europe">Northern Europe</a> is warmer than it would otherwise be due to the <a class="mw-redirect" href="/wiki/North_Atlantic_drift" title="North Atlantic drift">North Atlantic drift</a>,<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> one of the branches from the tail of the Gulf Stream. It is part of the <a href="/wiki/North_Atlantic_Gyre" title="North Atlantic Gyre">North Atlantic Gyre</a>. Its presence has led to the development of strong <a href="/wiki/Cyclone" title="Cyclone">cyclones</a> of all types, both within the <a href="/wiki/Atmosphere" title="Atmosphere">atmosphere</a> and within the <a href="/wiki/Ocean" title="Ocean">ocean</a>. The Gulf Stream is also a significant potential source of <a class="mw-redirect" href="/wiki/Renewable_power" title="Renewable power">renewable power</a> generation.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup><sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="Upwelling">Upwelling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=6" title="Edit section: Upwelling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></div>
+<p>All these dense water masses sinking into the ocean basins displace the older deep water masses that were made less dense by ocean mixing. To maintain a balance, water must be rising elsewhere. However, because this thermohaline upwelling is so widespread and diffuse, its speeds are very slow even compared to the movement of the bottom water masses. It is therefore difficult to measure where upwelling occurs using current speeds, given all the other wind-driven processes going on in the surface ocean. Deep waters have their own chemical signature, formed from the breakdown of particulate matter falling into them over the course of their long journey at depth. A number of scientists have tried to use these tracers to infer where the upwelling occurs.</p>
+<p><a class="mw-redirect" href="/wiki/Wallace_S._Broecker" title="Wallace S. Broecker">Wallace Broecker</a>, using box models, has asserted that the bulk of deep upwelling occurs in the North Pacific, using as evidence the high values of silicon found in these waters. Other investigators have not found such clear evidence. Computer models of ocean circulation increasingly place most of the deep upwelling in the Southern Ocean,<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> associated with the strong winds in the open latitudes between South America and Antarctica. While this picture is consistent with the global observational synthesis of William Schmitz at Woods Hole and with low observed values of diffusion, not all observational syntheses agree. Recent papers by <a href="/wiki/Lynne_Talley" title="Lynne Talley">Lynne Talley</a> at the <a href="/wiki/Scripps_Institution_of_Oceanography" title="Scripps Institution of Oceanography">Scripps Institution of Oceanography</a> and Bernadette Sloyan and Stephen Rintoul in Australia suggest that a significant amount of dense deep water must be transformed to light water somewhere north of the Southern Ocean.</p>
+<h2><span class="mw-headline" id="Effects_on_global_climate">Effects on global climate</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=7" title="Edit section: Effects on global climate">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The thermohaline circulation plays an important role in supplying heat to the polar regions, and thus in regulating the amount of sea ice in these regions, although poleward heat transport outside the tropics is considerably larger in the atmosphere than in the ocean.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> Changes in the thermohaline circulation are thought to have significant impacts on the Earth's <a class="mw-redirect" href="/wiki/Radiation_budget" title="Radiation budget">radiation budget</a>. Insofar as the thermohaline circulation governs the rate at which deep waters are exposed to the surface, it may also play an important role in the concentration of carbon dioxide in the atmosphere. While it is often stated that the thermohaline circulation is the primary reason that Western Europe is so temperate, it has been suggested that this is largely incorrect, and that Europe is warm mostly because it lies downwind of an ocean basin, and because of the effect of <a class="mw-redirect" href="/wiki/Atmospheric_waves" title="Atmospheric waves">atmospheric waves</a> bringing warm air north from the <a href="/wiki/Subtropics" title="Subtropics">subtropics</a>.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> However, the underlying assumptions of this particular analysis have likewise been challenged.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></p>
+<p>Large influxes of low-density meltwater from <a href="/wiki/Lake_Agassiz" title="Lake Agassiz">Lake Agassiz</a> and deglaciation in <a href="/wiki/North_America" title="North America">North America</a> are thought to have led to a shifting of deep water formation and subsidence in the extreme North Atlantic and caused the climate period in Europe known as the <a href="/wiki/Younger_Dryas" title="Younger Dryas">Younger Dryas</a>.<sup class="reference" id="cite_ref-Broecker_21-0"><a href="#cite_note-Broecker-21">[21]</a></sup></p>
+<h3><span class="mw-headline" id="Shutdown_of_thermohaline_circulation">Shutdown of thermohaline circulation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=8" title="Edit section: Shutdown of thermohaline circulation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Deglaciation" title="Deglaciation">Deglaciation</a> and <a href="/wiki/Cold_blob_(North_Atlantic)" title="Cold blob (North Atlantic)">Cold blob (North Atlantic)</a></div>
+<p>In 2005, British researchers noticed that the net flow of the northern Gulf Stream had decreased by about 30% since 1957. Coincidentally, scientists at Woods Hole had been measuring the freshening of the North Atlantic as Earth becomes warmer. Their findings suggested that precipitation increases in the high northern latitudes, and polar ice melts as a consequence. By flooding the northern seas with lots of extra fresh water, global warming could, in theory, divert the Gulf Stream waters that usually flow northward, past the British Isles and Norway, and cause them to instead circulate toward the equator. If this were to happen, Europe's climate would be seriously impacted.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup><sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup><sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup></p>
+<p>Downturn of AMOC (<a href="/wiki/Atlantic_meridional_overturning_circulation" title="Atlantic meridional overturning circulation">Atlantic meridional overturning circulation</a>), has been tied to extreme regional <a href="/wiki/Sea_level_rise" title="Sea level rise">sea level rise</a>.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup></p>
+<p>In 2013, an unexpected significant weakening of the THC led to <a href="/wiki/2013_Atlantic_hurricane_season" title="2013 Atlantic hurricane season">one of the quietest Atlantic hurricane seasons observed since 1994</a>. The main cause of the inactivity was caused by a continuation of the spring pattern across the Atlantic basin.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Atlantic_Multidecadal_Oscillation" title="Atlantic Multidecadal Oscillation">Atlantic Multidecadal Oscillation</a> (AMO) (in regard to "sea surface temperature")</li>
+<li><a href="/wiki/Climate_change" title="Climate change">Climate change</a></li>
+<li><a href="/wiki/Contourite" title="Contourite">Contourite</a></li>
+<li><a href="/wiki/Downwelling" title="Downwelling">Downwelling</a></li>
+<li><a href="/wiki/Halothermal_circulation" title="Halothermal circulation">Halothermal circulation</a></li>
+<li><a href="/wiki/Hydrothermal_circulation" title="Hydrothermal circulation">Hydrothermal circulation</a></li>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">Shutdown of thermohaline circulation</a></li>
+<li><a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rahmstorf, S (2003). <a class="external text" href="http://www.pik-potsdam.de/~stefan/Publications/Nature/nature_concept_03.pdf" rel="nofollow">"The concept of the thermohaline circulation"</a> <span style="font-size:85%;">(PDF)</span>. <i>Nature</i>. <b>421</b> (6924): 699. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2003Natur.421..699R" rel="nofollow">2003Natur.421..699R</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12610602" rel="nofollow">12610602</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F421699a" rel="nofollow">10.1038/421699a</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=The+concept+of+the+thermohaline+circulation&amp;rft.aufirst=S&amp;rft.aulast=Rahmstorf&amp;rft.date=2003&amp;rft.genre=article&amp;rft.issue=6924&amp;rft.jtitle=Nature&amp;rft.pages=699&amp;rft.volume=421&amp;rft_id=http%3A%2F%2Fwww.pik-potsdam.de%2F~stefan%2FPublications%2FNature%2Fnature_concept_03.pdf&amp;rft_id=info%3Abibcode%2F2003Natur.421..699R&amp;rft_id=info%3Adoi%2F10.1038%2F421699a&amp;rft_id=info%3Apmid%2F12610602&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Lappo, SS (1984). "On reason of the northward heat advection across the Equator in the South Pacific and Atlantic ocean". <i>Study of Ocean and Atmosphere Interaction Processes</i>. Moscow Department of Gidrometeoizdat (in Mandarin): 125–9.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=On+reason+of+the+northward+heat+advection+across+the+Equator+in+the+South+Pacific+and+Atlantic+ocean&amp;rft.aufirst=SS&amp;rft.aulast=Lappo&amp;rft.date=1984&amp;rft.genre=article&amp;rft.jtitle=Study+of+Ocean+and+Atmosphere+Interaction+Processes&amp;rft.pages=125-9&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">The global ocean conveyor belt is a constantly moving system of deep-ocean circulation driven by temperature and salinity; <a class="external text" href="http://oceanservice.noaa.gov/facts/conveyor.html" rel="nofollow">What is the global ocean conveyor belt?</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Primeau, F (2005). "Characterizing transport between the surface mixed layer and the ocean interior with a forward and adjoint global ocean transport model". <i>Journal of Physical Oceanography</i>. <b>35</b> (4): 545–64. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005JPO....35..545P" rel="nofollow">2005JPO....35..545P</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2FJPO2699.1" rel="nofollow">10.1175/JPO2699.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=Characterizing+transport+between+the+surface+mixed+layer+and+the+ocean+interior+with+a+forward+and+adjoint+global+ocean+transport+model&amp;rft.aufirst=F&amp;rft.aulast=Primeau&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Journal+of+Physical+Oceanography&amp;rft.pages=545-64&amp;rft.volume=35&amp;rft_id=info%3Abibcode%2F2005JPO....35..545P&amp;rft_id=info%3Adoi%2F10.1175%2FJPO2699.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wunsch, C (2002). "What is the thermohaline circulation?". <i>Science</i>. <b>298</b> (5596): 1179–81. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12424356" rel="nofollow">12424356</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1079329" rel="nofollow">10.1126/science.1079329</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=What+is+the+thermohaline+circulation%3F&amp;rft.aufirst=C&amp;rft.aulast=Wunsch&amp;rft.date=2002&amp;rft.genre=article&amp;rft.issue=5596&amp;rft.jtitle=Science&amp;rft.pages=1179-81&amp;rft.volume=298&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1079329&amp;rft_id=info%3Apmid%2F12424356&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wyrtki, K (1961). "The thermohaline circulation in relation to the general circulation in the oceans". <i>Deep-Sea Research</i>. <b>8</b> (1): 39–64. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1961DSR.....8...39W" rel="nofollow">1961DSR.....8...39W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0146-6313%2861%2990014-4" rel="nofollow">10.1016/0146-6313(61)90014-4</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=The+thermohaline+circulation+in+relation+to+the+general+circulation+in+the+oceans&amp;rft.aufirst=K&amp;rft.aulast=Wyrtki&amp;rft.date=1961&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Deep-Sea+Research&amp;rft.pages=39-64&amp;rft.volume=8&amp;rft_id=info%3Abibcode%2F1961DSR.....8...39W&amp;rft_id=info%3Adoi%2F10.1016%2F0146-6313%2861%2990014-4&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Schmidt, G., 2005, <a class="external text" href="http://www.realclimate.org/index.php?p=159" rel="nofollow">Gulf Stream slowdown?</a>, <a href="/wiki/RealClimate" title="RealClimate">RealClimate</a></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Eden, Carsten (2012). <i>Ocean Dynamics</i>. Springer. p. 177. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-642-23449-1" title="Special:BookSources/978-3-642-23449-1">978-3-642-23449-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.aufirst=Carsten&amp;rft.aulast=Eden&amp;rft.btitle=Ocean+Dynamics&amp;rft.date=2012&amp;rft.genre=book&amp;rft.isbn=978-3-642-23449-1&amp;rft.pages=177&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Stommel, H., &amp; Arons, A. B. (1960). On the abyssal circulation of the world ocean. – I. Stationary planetary flow patterns on a sphere. Deep Sea Research (1953), 6, 140-154.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">United Nations Environment Programme / GRID-Arendal, 2006, <a class="external autonumber" href="http://www.grida.no/climate/vital/32.htm" rel="nofollow">[1]</a>. <i>Potential Impact of Climate Change</i></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.rapid.ac.uk/rapidmoc/overview.php" rel="nofollow">"RAPID: monitoring the Atlantic Meridional Overturning Circulation at 26.5N since 2004"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.btitle=RAPID%3A+monitoring+the+Atlantic+Meridional+Overturning+Circulation+at+26.5N+since+2004&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.rapid.ac.uk%2Frapidmoc%2Foverview.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">National Environmental Satellite, Data, and Information Service (2009). <a class="external text" href="http://www.science-house.org/nesdis/gulf/background.html" rel="nofollow">Investigating the Gulf Stream</a> <a class="external text" href="https://web.archive.org/web/20100503013457/http://www.science-house.org/nesdis/gulf/background.html" rel="nofollow">Archived</a> 3 May 2010 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. <a href="/wiki/North_Carolina_State_University" title="North Carolina State University">North Carolina State University</a> Retrieved 6 May 2009</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Hennessy (1858). <a class="external text" href="https://books.google.com/books?id=Les4AAAAMAAJ&amp;pg=RA1-PA132&amp;lpg=RA1-PA132&amp;dq=ireland+is+warmed+by+the+Gulf+Stream#PPR2,M1" rel="nofollow"><i>Report of the Annual Meeting: On the Influence of the Gulf-stream on the Climate of Ireland</i></a>. Richard Taylor and William Francis<span class="reference-accessdate">. Retrieved <span class="nowrap">6 January</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.au=Hennessy&amp;rft.btitle=Report+of+the+Annual+Meeting%3A+On+the+Influence+of+the+Gulf-stream+on+the+Climate+of+Ireland&amp;rft.date=1858&amp;rft.genre=book&amp;rft.pub=Richard+Taylor+and+William+Francis&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DLes4AAAAMAAJ%26pg%3DRA1-PA132%26lpg%3DRA1-PA132%26dq%3Direland%2Bis%2Bwarmed%2Bby%2Bthe%2BGulf%2BStream%23PPR2%2CM1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://oceanmotion.org/html/impact/climate-variability.htm" rel="nofollow">"Satellites Record Weakening North Atlantic Current Impact"</a>. NASA<span class="reference-accessdate">. Retrieved <span class="nowrap">10 September</span> 2008</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.btitle=Satellites+Record+Weakening+North+Atlantic+Current+Impact&amp;rft.genre=unknown&amp;rft.pub=NASA&amp;rft_id=http%3A%2F%2Foceanmotion.org%2Fhtml%2Fimpact%2Fclimate-variability.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">The Institute for Environmental Research &amp; Eductation. <a class="external text" href="http://www.iere.org/documents/tidal.pdf" rel="nofollow">Tidal.pdf</a> Retrieved on 28 July 2010.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Jeremy Elton Jacquot. <a class="external text" href="http://www.treehugger.com/files/2007/12/gulf_streams_wave_energy.php" rel="nofollow">Gulf Stream's Tidal Energy Could Provide Up to a Third of Florida's Power</a> Retrieved 21 September 2008</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal">Marshall, John; Speer, Kevin (26 February 2012). "Closure of the meridional overturning circulation through Southern Ocean upwelling". <i>Nature Geoscience</i>. <b>5</b> (3): 171–180. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2012NatGe...5..171M" rel="nofollow">2012NatGe...5..171M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fngeo1391" rel="nofollow">10.1038/ngeo1391</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=Closure+of+the+meridional+overturning+circulation+through+Southern+Ocean+upwelling&amp;rft.au=Speer%2C+Kevin&amp;rft.aufirst=John&amp;rft.aulast=Marshall&amp;rft.date=2012-02-26&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Nature+Geoscience&amp;rft.pages=171-180&amp;rft.volume=5&amp;rft_id=info%3Abibcode%2F2012NatGe...5..171M&amp;rft_id=info%3Adoi%2F10.1038%2Fngeo1391&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation journal">Trenberth, K; Caron, J (2001). "Estimates of Meridional Atmosphere and Ocean Heat Transports". <i>Journal of Climate</i>. <b>14</b> (16): 3433–43. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001JCli...14.3433T" rel="nofollow">2001JCli...14.3433T</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0442%282001%29014%3C3433%3AEOMAAO%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0442(2001)014&lt;3433:EOMAAO&gt;2.0.CO;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=Estimates+of+Meridional+Atmosphere+and+Ocean+Heat+Transports&amp;rft.au=Caron%2C+J&amp;rft.aufirst=K&amp;rft.aulast=Trenberth&amp;rft.date=2001&amp;rft.genre=article&amp;rft.issue=16&amp;rft.jtitle=Journal+of+Climate&amp;rft.pages=3433-43&amp;rft.volume=14&amp;rft_id=info%3Abibcode%2F2001JCli...14.3433T&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0442%282001%29014%3C3433%3AEOMAAO%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">Seager,R., 2006, <a class="external text" href="http://www.americanscientist.org/issues/feature/2006/4/the-source-of-europes-mild-climate/1" rel="nofollow">The Source of Europe's Mild Climate</a>, <i>American Scientist</i></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Rhines and Hakkinen, 2003, <a class="external text" href="http://www.realclimate.org/Rhines_hakkinen_2003.pdf" rel="nofollow">Is the Oceanic Heat Transport in the North Atlantic Irrelevant to the Climate in Europe?</a> <i>ASOF Newsletter</i></span></li>
+<li id="cite_note-Broecker-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Broecker_21-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Broecker, WS (2006). "Was the Younger Dryas Triggered by a Flood?". <i>Science</i>. <b>312</b> (5777): 1146–8. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16728622" rel="nofollow">16728622</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1123253" rel="nofollow">10.1126/science.1123253</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=Was+the+Younger+Dryas+Triggered+by+a+Flood%3F&amp;rft.aufirst=WS&amp;rft.aulast=Broecker&amp;rft.date=2006&amp;rft.genre=article&amp;rft.issue=5777&amp;rft.jtitle=Science&amp;rft.pages=1146-8&amp;rft.volume=312&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1123253&amp;rft_id=info%3Apmid%2F16728622&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Garrison, Tom (2009). <i>Oceanography: An Invitation to Marine Science</i> (7th ed.). Cengage Learning. p. 582. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780495391937" title="Special:BookSources/9780495391937">9780495391937</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.aufirst=Tom&amp;rft.aulast=Garrison&amp;rft.btitle=Oceanography%3A+An+Invitation+to+Marine+Science&amp;rft.date=2009&amp;rft.edition=7th&amp;rft.genre=book&amp;rft.isbn=9780495391937&amp;rft.pages=582&amp;rft.pub=Cengage+Learning&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bryden, H.L.; H.R. Longworth; S.A. Cunningham (2005). "Slowing of the Atlantic meridional overturning circulation at 25° N". <i>Nature</i>. <b>438</b> (7068): 655–657. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005Natur.438..655B" rel="nofollow">2005Natur.438..655B</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/16319889" rel="nofollow">16319889</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature04385" rel="nofollow">10.1038/nature04385</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=Slowing+of+the+Atlantic+meridional+overturning+circulation+at+25%C2%B0+N&amp;rft.au=Bryden%2C+H.L.&amp;rft.au=H.R.+Longworth&amp;rft.au=S.A.+Cunningham&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issue=7068&amp;rft.jtitle=Nature&amp;rft.pages=655-657&amp;rft.volume=438&amp;rft_id=info%3Abibcode%2F2005Natur.438..655B&amp;rft_id=info%3Adoi%2F10.1038%2Fnature04385&amp;rft_id=info%3Apmid%2F16319889&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Curry, R.; C. Mauritzen (2005). "Dilution of the northern North Atlantic in recent decades". <i>Science</i>. <b>308</b>: 1772–1774. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005Sci...308.1772C" rel="nofollow">2005Sci...308.1772C</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15961666" rel="nofollow">15961666</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1109477" rel="nofollow">10.1126/science.1109477</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=Dilution+of+the+northern+North+Atlantic+in+recent+decades&amp;rft.au=C.+Mauritzen&amp;rft.au=Curry%2C+R.&amp;rft.date=2005&amp;rft.genre=article&amp;rft.jtitle=Science&amp;rft.pages=1772-1774&amp;rft.volume=308&amp;rft_id=info%3Abibcode%2F2005Sci...308.1772C&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1109477&amp;rft_id=info%3Apmid%2F15961666&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation news">Jianjun Yin; Stephen Griffies (25 March 2015). <a class="external text" href="http://www.usclivar.org/research-highlights/extreme-sea-level-rise-event-linked-amoc-downturn" rel="nofollow">"Extreme sea level rise event linked to AMOC downturn"</a>. CLIVAR.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=Extreme+sea+level+rise+event+linked+to+AMOC+downturn&amp;rft.au=Jianjun+Yin&amp;rft.au=Stephen+Griffies&amp;rft.date=2015-03-25&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.usclivar.org%2Fresearch-highlights%2Fextreme-sea-level-rise-event-linked-amoc-downturn&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Other_sources">Other sources</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=11" title="Edit section: Other sources">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Apel, JR (1987). <i>Principles of Ocean Physics</i>. Academic Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-058866-8" title="Special:BookSources/0-12-058866-8">0-12-058866-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.aufirst=JR&amp;rft.aulast=Apel&amp;rft.btitle=Principles+of+Ocean+Physics&amp;rft.date=1987&amp;rft.genre=book&amp;rft.isbn=0-12-058866-8&amp;rft.pub=Academic+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal">Gnanadesikan, A.; R. D. Slater; P. S. Swathi; G. K. Vallis (2005). "The energetics of ocean heat transport". <i>Journal of Climate</i>. <b>18</b> (14): 2604–16. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005JCli...18.2604G" rel="nofollow">2005JCli...18.2604G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2FJCLI3436.1" rel="nofollow">10.1175/JCLI3436.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=The+energetics+of+ocean+heat+transport&amp;rft.au=G.+K.+Vallis&amp;rft.au=Gnanadesikan%2C+A.&amp;rft.au=P.+S.+Swathi&amp;rft.au=R.+D.+Slater&amp;rft.date=2005&amp;rft.genre=article&amp;rft.issue=14&amp;rft.jtitle=Journal+of+Climate&amp;rft.pages=2604-16&amp;rft.volume=18&amp;rft_id=info%3Abibcode%2F2005JCli...18.2604G&amp;rft_id=info%3Adoi%2F10.1175%2FJCLI3436.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Knauss, JA (1996). <i>Introduction to Physical Oceanography</i>. Prentice Hall. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-238155-9" title="Special:BookSources/0-13-238155-9">0-13-238155-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.aufirst=JA&amp;rft.aulast=Knauss&amp;rft.btitle=Introduction+to+Physical+Oceanography&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=0-13-238155-9&amp;rft.pub=Prentice+Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation web"><a class="external text" href="http://www.grida.no/climate/vital/32.htm" rel="nofollow">"Potential Impact of Climate Change"</a>. <a href="/wiki/United_Nations_Environment_Programme" title="United Nations Environment Programme">United Nations Environment Programme</a> / GRID-Arendal. 2006.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.btitle=Potential+Impact+of+Climate+Change&amp;rft.date=2006&amp;rft.genre=unknown&amp;rft.pub=United+Nations+Environment+Programme+%2F+GRID-Arendal&amp;rft_id=http%3A%2F%2Fwww.grida.no%2Fclimate%2Fvital%2F32.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book">Rahmstorf, S (2006). <a class="external text" href="http://pik-potsdam.de/~stefan/Publications/Book_chapters/rahmstorf_eqs_2006.pdf" rel="nofollow">"Thermohaline Ocean Circulation"</a> <span style="font-size:85%;">(PDF)</span>. In Elias, S. A. <i>Encyclopedia of Quaternary Sciences</i>. Elsevier Science. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-444-52747-8" title="Special:BookSources/0-444-52747-8">0-444-52747-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermohaline+circulation&amp;rft.atitle=Thermohaline+Ocean+Circulation&amp;rft.aufirst=S&amp;rft.aulast=Rahmstorf&amp;rft.btitle=Encyclopedia+of+Quaternary+Sciences&amp;rft.date=2006&amp;rft.genre=bookitem&amp;rft.isbn=0-444-52747-8&amp;rft.pub=Elsevier+Science&amp;rft_id=http%3A%2F%2Fpik-potsdam.de%2F~stefan%2FPublications%2FBook_chapters%2Frahmstorf_eqs_2006.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermohaline_circulation&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://oceanmotion.org/html/background/ocean-conveyor-belt.htm" rel="nofollow">Ocean Conveyor Belt</a></li>
+<li>THOR FP7 projects <a class="external free" href="http://www.eu-thor.eu" rel="nofollow">http://www.eu-thor.eu</a> investigates on the topic "Thermohaline overturning- at risk?" and the predictability of changes of the THC. THOR is financed by the 7th Framework Programme of the European Commission.</li>
+</ul>
+<div aria-labelledby="Atmospheric.2C_oceanographic_and_climate_models" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Atmospheric,_Oceanographic_and_Climate_Models" title="Template:Atmospheric, Oceanographic and Climate Models"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Atmospheric,_Oceanographic_and_Climate_Models" title="Template talk:Atmospheric, Oceanographic and Climate Models"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Atmospheric,_Oceanographic_and_Climate_Models&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Atmospheric.2C_oceanographic_and_climate_models" style="font-size:114%;margin:0 4em">Atmospheric, oceanographic and climate models</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Model_types" style="font-size:114%;margin:0 4em">Model types</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_model" title="Atmospheric model">Atmospheric model</a></li>
+<li><a href="/wiki/Climate_model" title="Climate model">Climate model</a></li>
+<li><a href="/wiki/Numerical_weather_prediction" title="Numerical weather prediction">Numerical weather prediction</a></li>
+<li><a href="/wiki/Tropical_cyclone_forecast_model" title="Tropical cyclone forecast model">Tropical cyclone forecast model</a></li>
+<li><a href="/wiki/Atmospheric_dispersion_modeling" title="Atmospheric dispersion modeling">Atmospheric dispersion modeling</a></li>
+<li><a href="/wiki/Chemical_transport_model" title="Chemical transport model">Chemical transport model</a></li>
+<li><a href="/wiki/Upper-atmospheric_models" title="Upper-atmospheric models">Upper-atmospheric models</a></li>
+<li><a href="/wiki/Ensemble_forecasting" title="Ensemble forecasting">Ensemble forecasting</a></li>
+<li><a href="/wiki/Model_output_statistics" title="Model output statistics">Model output statistics</a></li>
+<li><a href="/wiki/Meteorological_reanalysis" title="Meteorological reanalysis">Meteorological reanalysis</a></li>
+<li><a href="/wiki/Parametrization_(atmospheric_modeling)" title="Parametrization (atmospheric modeling)">Parametrization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="Specific_models" style="font-size:114%;margin:0 4em">Specific models</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Climate</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Intermediate_General_Circulation_Model" title="Intermediate General Circulation Model">IGCM</a></li>
+<li><a href="/wiki/HadCM3" title="HadCM3">HadCM3</a></li>
+<li><a href="/wiki/HadGEM1" title="HadGEM1">HadGEM1</a></li>
+<li><a class="mw-redirect" href="/wiki/GFDL_CM2.X" title="GFDL CM2.X">GFDL CM2.X</a></li>
+<li><a class="mw-redirect" href="/wiki/CGCM" title="CGCM">CGCM</a></li>
+<li><a href="/wiki/Community_Climate_System_Model" title="Community Climate System Model">CCSM</a></li>
+<li><a href="/wiki/Community_Earth_System_Model" title="Community Earth System Model">CESM</a></li>
+<li><a href="/wiki/Climate_Forecast_System" title="Climate Forecast System">CFSv2</a></li>
+<li><a href="/wiki/ECHAM" title="ECHAM">ECHAM</a></li>
+<li><a href="/wiki/Model_for_Prediction_Across_Scales" title="Model for Prediction Across Scales">MPAS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Global weather</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Integrated_Forecast_System" title="Integrated Forecast System">IFS (ECMWF)</a></li>
+<li><a href="/wiki/Flow-following,_finite-volume_Icosahedral_Model" title="Flow-following, finite-volume Icosahedral Model">FIM</a></li>
+<li><a href="/wiki/Global_Environmental_Multiscale_Model" title="Global Environmental Multiscale Model">GEM / GDPS</a></li>
+<li><a href="/wiki/Global_Forecast_System" title="Global Forecast System">GFS</a></li>
+<li><a href="/wiki/North_American_Ensemble_Forecast_System" title="North American Ensemble Forecast System">NAEFS</a></li>
+<li><a href="/wiki/Navy_Global_Environmental_Model" title="Navy Global Environmental Model">NAVGEM</a></li>
+<li><a href="/wiki/Unified_Model" title="Unified Model">UM</a></li>
+<li>JMA-GSM</li>
+<li><a href="/wiki/GME_of_Deutscher_Wetterdienst" title="GME of Deutscher Wetterdienst">GME / ICON</a></li>
+<li>ARPEGE</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Regional and mesoscale atmospheric</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/North_American_Mesoscale_Model" title="North American Mesoscale Model">NAM</a></li>
+<li><a href="/wiki/Rapid_Refresh" title="Rapid Refresh">RR / RAP</a></li>
+<li><a href="/wiki/Regional_Atmospheric_Modeling_System" title="Regional Atmospheric Modeling System">RAMS</a></li>
+<li><a class="mw-redirect" href="/wiki/Weather_Research_and_Forecasting_model" title="Weather Research and Forecasting model">WRF</a></li>
+<li>RAQMS</li>
+<li><a href="/wiki/HIRLAM" title="HIRLAM">HIRLAM</a></li>
+<li>LAPS</li>
+<li>RPM</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Regional and mesoscale oceanographic</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>HyCOM</li>
+<li><a href="/wiki/Regional_Ocean_Modeling_System" title="Regional Ocean Modeling System">ROMS</a></li>
+<li><a class="mw-redirect" href="/wiki/Princeton_ocean_model" title="Princeton ocean model">POM</a></li>
+<li><a class="mw-redirect" href="/wiki/Modular_ocean_model" title="Modular ocean model">MOM</a></li>
+<li><a href="/wiki/Finite_Volume_Community_Ocean_Model" title="Finite Volume Community Ocean Model">FVCOM</a></li>
+<li><a href="/wiki/MIT_General_Circulation_Model" title="MIT General Circulation Model">MITgcm</a></li>
+<li><a href="/wiki/FESOM" title="FESOM">FESOM</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Atmospheric dispersion</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADMS_3" title="ADMS 3">ADMS</a></li>
+<li><a href="/wiki/AERMOD" title="AERMOD">AERMOD</a></li>
+<li><a href="/wiki/ATSTEP" title="ATSTEP">ATSTEP</a></li>
+<li><a href="/wiki/AUSTAL2000" title="AUSTAL2000">AUSTAL2000</a></li>
+<li><a href="/wiki/CALPUFF" title="CALPUFF">CALPUFF</a></li>
+<li><a href="/wiki/DISPERSION21" title="DISPERSION21">DISPERSION21</a></li>
+<li><a href="/wiki/ISC3" title="ISC3">ISC3</a></li>
+<li><a href="/wiki/MEMO_Model" title="MEMO Model">MEMO</a></li>
+<li><a href="/wiki/MERCURE" title="MERCURE">MERCURE</a></li>
+<li><a href="/wiki/NAME_(dispersion_model)" title="NAME (dispersion model)">NAME</a></li>
+<li><a href="/wiki/Operational_Street_Pollution_Model" title="Operational Street Pollution Model">OSPM</a></li>
+<li><a href="/wiki/PUFF-PLUME" title="PUFF-PLUME">PUFF-PLUME</a></li>
+<li><a href="/wiki/RIMPUFF" title="RIMPUFF">RIMPUFF</a></li>
+<li><a href="/wiki/SAFE_AIR" title="SAFE AIR">SAFE AIR</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Chemical transport</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/CLaMS" title="CLaMS">CLaMS</a></li>
+<li><a href="/wiki/MOZART_(model)" title="MOZART (model)">MOZART</a></li>
+<li><a class="new" href="/w/index.php?title=GEOS-Chem&amp;action=edit&amp;redlink=1" title="GEOS-Chem (page does not exist)">GEOS-Chem</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Land surface parametrization</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/JULES" title="JULES">JULES</a></li>
+<li><a href="/wiki/Canadian_Land_Surface_Scheme" title="Canadian Land Surface Scheme">CLASS</a></li>
+<li><a href="/wiki/Interaction_Soil-Biosphere-Atmosphere" title="Interaction Soil-Biosphere-Atmosphere">ISBA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Discontinued</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li>AVN / MRF / GSM</li>
+<li>Eta</li>
+<li>LFM</li>
+<li><a href="/wiki/MM5_(weather_model)" title="MM5 (weather model)">MM5</a></li>
+<li><a href="/wiki/Nested_Grid_Model" title="Nested Grid Model">NGM</a></li>
+<li><a href="/wiki/Navy_Operational_Global_Atmospheric_Prediction_System" title="Navy Operational Global Atmospheric Prediction System">NOGAPS</a></li>
+<li><a class="mw-redirect" href="/wiki/Rapid_Update_Cycle" title="Rapid Update Cycle">RUC</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/Mathematical_model" title="Mathematical model">Mathematical model</a></li>
+<li><a href="/wiki/Statistical_model" title="Statistical model">Statistical model</a></li>
+<li><a href="/wiki/Scientific_modelling" title="Scientific modelling">Scientific modelling</a></li>
+<li><a href="/wiki/Computer_simulation" title="Computer simulation">Computer simulation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Ocean_currents_and_gyres" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Ocean" title="Template:Ocean"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Ocean" title="Template talk:Ocean"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Ocean&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Ocean_currents_and_gyres" style="font-size:114%;margin:0 4em"><a href="/wiki/Ocean_current" title="Ocean current">Ocean currents</a> and <a href="/wiki/Ocean_gyre" title="Ocean gyre">gyres</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_current" title="Ocean current">Currents</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Arctic Ocean</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/East_Greenland_Current" title="East Greenland Current">East Greenland</a></li>
+<li><a href="/wiki/North_Icelandic_Jet" title="North Icelandic Jet">North Icelandic</a></li>
+<li><a href="/wiki/Norwegian_Current" title="Norwegian Current">Norwegian</a></li>
+<li><a href="/wiki/Transpolar_Drift_Stream" title="Transpolar Drift Stream">Transpolar Drift Stream</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Atlantic Ocean</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Angola_Current" title="Angola Current">Angola</a></li>
+<li><a href="/wiki/Antilles_Current" title="Antilles Current">Antilles</a></li>
+<li><a href="/wiki/Azores_Current" title="Azores Current">Azores</a></li>
+<li><a href="/wiki/Baffin_Island_Current" title="Baffin Island Current">Baffin Island</a></li>
+<li><a href="/wiki/Benguela_Current" title="Benguela Current">Benguela</a></li>
+<li><a href="/wiki/Brazil_Current" title="Brazil Current">Brazil</a></li>
+<li><a href="/wiki/Canary_Current" title="Canary Current">Canary</a></li>
+<li><a href="/wiki/Cape_Horn_Current" title="Cape Horn Current">Cape Horn</a></li>
+<li><a href="/wiki/Caribbean_Current" title="Caribbean Current">Caribbean</a></li>
+<li><a href="/wiki/East_Greenland_Current" title="East Greenland Current">East Greenland</a></li>
+<li><a href="/wiki/East_Iceland_Current" title="East Iceland Current">East Iceland</a></li>
+<li><a href="/wiki/Falkland_Current" title="Falkland Current">Falkland</a></li>
+<li><a href="/wiki/Florida_Current" title="Florida Current">Florida</a></li>
+<li><a href="/wiki/Guinea_Current" title="Guinea Current">Guinea</a></li>
+<li><a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></li>
+<li><a href="/wiki/Irminger_Current" title="Irminger Current">Irminger</a></li>
+<li><a href="/wiki/Labrador_Current" title="Labrador Current">Labrador</a></li>
+<li><a href="/wiki/Lomonosov_Current" title="Lomonosov Current">Lomonosov</a></li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop</a></li>
+<li><a href="/wiki/North_Atlantic_Current" title="North Atlantic Current">North Atlantic</a></li>
+<li><a href="/wiki/North_Brazil_Current" title="North Brazil Current">North Brazil</a></li>
+<li><a href="/wiki/North_Equatorial_Current" title="North Equatorial Current">North Equatorial</a></li>
+<li><a href="/wiki/Norwegian_Current" title="Norwegian Current">Norwegian</a></li>
+<li><a href="/wiki/Portugal_Current" title="Portugal Current">Portugal</a></li>
+<li><a class="new" href="/w/index.php?title=Slope_Jet_Current&amp;action=edit&amp;redlink=1" title="Slope Jet Current (page does not exist)">Slope Jet</a></li>
+<li><a href="/wiki/South_Atlantic_Current" title="South Atlantic Current">South Atlantic</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/West_Greenland_Current" title="West Greenland Current">West Greenland</a></li>
+<li><a href="/wiki/West_Spitsbergen_Current" title="West Spitsbergen Current">West Spitsbergen</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Indian Ocean</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Agulhas_Current" title="Agulhas Current">Agulhas</a></li>
+<li><a href="/wiki/Agulhas_Return_Current" title="Agulhas Return Current">Agulhas Return</a></li>
+<li><a href="/wiki/East_Madagascar_Current" title="East Madagascar Current">East Madagascar</a></li>
+<li><a href="/wiki/Equatorial_Counter_Current" title="Equatorial Counter Current">Equatorial Counter</a></li>
+<li><a href="/wiki/Indian_Monsoon_Current" title="Indian Monsoon Current">Indian Monsoon</a></li>
+<li><a href="/wiki/Indonesian_Throughflow" title="Indonesian Throughflow">Indonesian Throughflow</a></li>
+<li><a href="/wiki/Leeuwin_Current" title="Leeuwin Current">Leeuwin</a></li>
+<li><a href="/wiki/Madagascar_Current" title="Madagascar Current">Madagascar</a></li>
+<li><a href="/wiki/Mozambique_Current" title="Mozambique Current">Mozambique</a></li>
+<li><a href="/wiki/North_Madagascar_Current" title="North Madagascar Current">North Madagascar</a></li>
+<li><a href="/wiki/Somali_Current" title="Somali Current">Somali</a></li>
+<li><a class="new" href="/w/index.php?title=South_Australian_Counter_Current&amp;action=edit&amp;redlink=1" title="South Australian Counter Current (page does not exist)">South Australian</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/West_Australian_Current" title="West Australian Current">West Australian</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Pacific Ocean</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alaska_Current" title="Alaska Current">Alaska</a></li>
+<li><a href="/wiki/Aleutian_Current" title="Aleutian Current">Aleutian</a></li>
+<li><a href="/wiki/California_Current" title="California Current">California</a></li>
+<li><a href="/wiki/Cromwell_Current" title="Cromwell Current">Cromwell</a></li>
+<li><a href="/wiki/Davidson_Current" title="Davidson Current">Davidson</a></li>
+<li><a href="/wiki/East_Australian_Current" title="East Australian Current">East Australian</a></li>
+<li><a href="/wiki/East_Korea_Warm_Current" title="East Korea Warm Current">East Korea Warm</a></li>
+<li><a href="/wiki/Equatorial_Counter_Current" title="Equatorial Counter Current">Equatorial Counter</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt</a></li>
+<li><a href="/wiki/Indonesian_Throughflow" title="Indonesian Throughflow">Indonesian Throughflow</a></li>
+<li><a href="/wiki/Kamchatka_Current" title="Kamchatka Current">Kamchatka</a></li>
+<li><a href="/wiki/Kuroshio_Current" title="Kuroshio Current">Kuroshio</a></li>
+<li><a href="/wiki/Mindanao_Current" title="Mindanao Current">Mindanao</a></li>
+<li><a href="/wiki/North_Equatorial_Current" title="North Equatorial Current">North Equatorial</a></li>
+<li><a href="/wiki/North_Korea_Cold_Current" title="North Korea Cold Current">North Korea Cold</a></li>
+<li><a href="/wiki/North_Pacific_Current" title="North Pacific Current">North Pacific</a></li>
+<li><a href="/wiki/Oyashio_Current" title="Oyashio Current">Oyashio</a></li>
+<li><a href="/wiki/South_Equatorial_Current" title="South Equatorial Current">South Equatorial</a></li>
+<li><a href="/wiki/Tasman_Front" title="Tasman Front">Tasman Front</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Southern Ocean</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Antarctic_Circumpolar_Current" title="Antarctic Circumpolar Current">Antarctic Circumpolar</a></li>
+<li><a href="/wiki/Tasman_Outflow" title="Tasman Outflow">Tasman Outflow</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_gyre" title="Ocean gyre">Gyres</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Major gyres</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Indian_Ocean_Gyre" title="Indian Ocean Gyre">Indian Ocean Gyre</a></li>
+<li><a href="/wiki/North_Atlantic_Gyre" title="North Atlantic Gyre">North Atlantic Gyre</a></li>
+<li><a href="/wiki/South_Atlantic_Gyre" title="South Atlantic Gyre">South Atlantic Gyre</a></li>
+<li><a href="/wiki/North_Pacific_Gyre" title="North Pacific Gyre">North Pacific Gyre</a></li>
+<li><a href="/wiki/South_Pacific_Gyre" title="South Pacific Gyre">South Pacific Gyre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other gyres</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beaufort_Gyre" title="Beaufort Gyre">Beaufort Gyre</a></li>
+<li><a href="/wiki/Ross_Gyre" title="Ross Gyre">Ross Gyre</a></li>
+<li><a href="/wiki/Weddell_Gyre" title="Weddell Gyre">Weddell Gyre</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Boundary_current" title="Boundary current">Boundary current</a></li>
+<li><a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/Great_Pacific_garbage_patch" title="Great Pacific garbage patch">Great Pacific garbage patch</a></li>
+<li><a href="/wiki/Indian_Ocean_garbage_patch" title="Indian Ocean garbage patch">Indian Ocean garbage patch</a></li>
+<li><a href="/wiki/Marine_debris" title="Marine debris">Marine debris</a></li>
+<li><a href="/wiki/North_Atlantic_garbage_patch" title="North Atlantic garbage patch">North Atlantic garbage patch</a></li>
+<li><a class="mw-selflink selflink">Thermohaline circulation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Physical_oceanography" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Physical_oceanography" title="Template:Physical oceanography"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Physical_oceanography" title="Template talk:Physical oceanography"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Physical_oceanography&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Physical_oceanography" style="font-size:114%;margin:0 4em"><a href="/wiki/Physical_oceanography" title="Physical oceanography">Physical oceanography</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wind_wave" title="Wind wave">Waves</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airy_wave_theory" title="Airy wave theory">Airy wave theory</a></li>
+<li><a href="/wiki/Ballantine_scale" title="Ballantine scale">Ballantine scale</a></li>
+<li><a href="/wiki/Modulational_instability" title="Modulational instability">Benjamin–Feir instability</a></li>
+<li><a href="/wiki/Boussinesq_approximation_(water_waves)" title="Boussinesq approximation (water waves)">Boussinesq approximation</a></li>
+<li><a href="/wiki/Breaking_wave" title="Breaking wave">Breaking wave</a></li>
+<li><a href="/wiki/Clapotis" title="Clapotis">Clapotis</a></li>
+<li><a href="/wiki/Cnoidal_wave" title="Cnoidal wave">Cnoidal wave</a></li>
+<li><a href="/wiki/Cross_sea" title="Cross sea">Cross sea</a></li>
+<li><a href="/wiki/Dispersion_(water_waves)" title="Dispersion (water waves)">Dispersion</a></li>
+<li><a href="/wiki/Edge_wave" title="Edge wave">Edge wave</a></li>
+<li><a href="/wiki/Equatorial_wave" title="Equatorial wave">Equatorial waves</a></li>
+<li><a href="/wiki/Fetch_(geography)" title="Fetch (geography)">Fetch</a></li>
+<li><a href="/wiki/Gravity_wave" title="Gravity wave">Gravity wave</a></li>
+<li><a href="/wiki/Green%27s_law" title="Green's law">Green's law</a></li>
+<li><a href="/wiki/Infragravity_wave" title="Infragravity wave">Infragravity wave</a></li>
+<li><a href="/wiki/Internal_wave" title="Internal wave">Internal wave</a></li>
+<li><a href="/wiki/Iribarren_number" title="Iribarren number">Iribarren number</a></li>
+<li><a href="/wiki/Kelvin_wave" title="Kelvin wave">Kelvin wave</a></li>
+<li><a href="/wiki/Kinematic_wave" title="Kinematic wave">Kinematic wave</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Luke%27s_variational_principle" title="Luke's variational principle">Luke's variational principle</a></li>
+<li><a href="/wiki/Mild-slope_equation" title="Mild-slope equation">Mild-slope equation</a></li>
+<li><a href="/wiki/Radiation_stress" title="Radiation stress">Radiation stress</a></li>
+<li><a href="/wiki/Rogue_wave" title="Rogue wave">Rogue wave</a></li>
+<li><a href="/wiki/Rossby_wave" title="Rossby wave">Rossby wave</a></li>
+<li><a href="/wiki/Rossby-gravity_waves" title="Rossby-gravity waves">Rossby-gravity waves</a></li>
+<li><a href="/wiki/Sea_state" title="Sea state">Sea state</a></li>
+<li><a href="/wiki/Seiche" title="Seiche">Seiche</a></li>
+<li><a href="/wiki/Significant_wave_height" title="Significant wave height">Significant wave height</a></li>
+<li><a href="/wiki/Soliton" title="Soliton">Soliton</a></li>
+<li><a href="/wiki/Stokes_boundary_layer" title="Stokes boundary layer">Stokes boundary layer</a></li>
+<li><a href="/wiki/Stokes_drift" title="Stokes drift">Stokes drift</a></li>
+<li><a href="/wiki/Stokes_wave" title="Stokes wave">Stokes wave</a></li>
+<li><a href="/wiki/Swell_(ocean)" title="Swell (ocean)">Swell</a></li>
+<li><a href="/wiki/Trochoidal_wave" title="Trochoidal wave">Trochoidal wave</a></li>
+<li><a href="/wiki/Tsunami" title="Tsunami">Tsunami</a>
+<ul>
+<li><a href="/wiki/Megatsunami" title="Megatsunami">megatsunami</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Undertow_(water_waves)" title="Undertow (water waves)">Undertow</a></li>
+<li><a href="/wiki/Ursell_number" title="Ursell number">Ursell number</a></li>
+<li><a href="/wiki/Wave_action_(continuum_mechanics)" title="Wave action (continuum mechanics)">Wave action</a></li>
+<li><a href="/wiki/Wave_base" title="Wave base">Wave base</a></li>
+<li><a href="/wiki/Wave_height" title="Wave height">Wave height</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave power</a></li>
+<li><a href="/wiki/Wave_radar" title="Wave radar">Wave radar</a></li>
+<li><a href="/wiki/Wave_setup" title="Wave setup">Wave setup</a></li>
+<li><a href="/wiki/Wave_shoaling" title="Wave shoaling">Wave shoaling</a></li>
+<li><a href="/wiki/Wave_turbulence" title="Wave turbulence">Wave turbulence</a></li>
+<li><a href="/wiki/Wave%E2%80%93current_interaction" title="Wave–current interaction">Wave–current interaction</a></li>
+<li><a href="/wiki/Waves_and_shallow_water" title="Waves and shallow water">Waves and shallow water</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/One-dimensional_Saint-Venant_equations" title="One-dimensional Saint-Venant equations">one-dimensional Saint-Venant equations</a></li>
+<li><a href="/wiki/Shallow_water_equations" title="Shallow water equations">shallow water equations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wind_wave" title="Wind wave">Wind wave</a>
+<ul>
+<li><a href="/wiki/Wind_wave_model" title="Wind wave model">model</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Upwelling.svg" title="Upwelling"><img alt="Upwelling" data-file-height="242" data-file-width="365" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/140px-Upwelling.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/210px-Upwelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/280px-Upwelling.svg.png 2x" width="140"/></a><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<a class="image" href="/wiki/File:Antarctic_bottom_water.svg" title="Antarctic bottom water"><img alt="Antarctic bottom water" data-file-height="470" data-file-width="745" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/140px-Antarctic_bottom_water.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/210px-Antarctic_bottom_water.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/280px-Antarctic_bottom_water.svg.png 2x" width="140"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_current" title="Ocean current">Circulation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a href="/wiki/Boundary_current" title="Boundary current">Boundary current</a></li>
+<li><a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a></li>
+<li><a href="/wiki/Coriolis%E2%80%93Stokes_force" title="Coriolis–Stokes force">Coriolis–Stokes force</a></li>
+<li><a href="/wiki/Craik%E2%80%93Leibovich_vortex_force" title="Craik–Leibovich vortex force">Craik–Leibovich vortex force</a></li>
+<li><a href="/wiki/Downwelling" title="Downwelling">Downwelling</a></li>
+<li><a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">Eddy</a></li>
+<li><a href="/wiki/Ekman_layer" title="Ekman layer">Ekman layer</a></li>
+<li><a href="/wiki/Ekman_spiral" title="Ekman spiral">Ekman spiral</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">El Niño–Southern Oscillation</a></li>
+<li><a href="/wiki/General_circulation_model" title="General circulation model">General circulation model</a></li>
+<li><a href="/wiki/Geostrophic_current" title="Geostrophic current">Geostrophic current</a></li>
+<li><a href="/wiki/Global_Ocean_Data_Analysis_Project" title="Global Ocean Data Analysis Project">Global Ocean Data Analysis Project</a></li>
+<li><a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></li>
+<li><a href="/wiki/Halothermal_circulation" title="Halothermal circulation">Halothermal circulation</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt Current</a></li>
+<li><a href="/wiki/Hydrothermal_circulation" title="Hydrothermal circulation">Hydrothermal circulation</a></li>
+<li><a href="/wiki/Langmuir_circulation" title="Langmuir circulation">Langmuir circulation</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop Current</a></li>
+<li><a href="/wiki/Modular_Ocean_Model" title="Modular Ocean Model">Modular Ocean Model</a></li>
+<li><a href="/wiki/Ocean_dynamics" title="Ocean dynamics">Ocean dynamics</a></li>
+<li><a href="/wiki/Ocean_gyre" title="Ocean gyre">Ocean gyre</a></li>
+<li><a href="/wiki/Princeton_Ocean_Model" title="Princeton Ocean Model">Princeton Ocean Model</a></li>
+<li><a href="/wiki/Rip_current" title="Rip current">Rip current</a></li>
+<li><a href="/wiki/Subsurface_currents" title="Subsurface currents">Subsurface currents</a></li>
+<li><a href="/wiki/Sverdrup_balance" title="Sverdrup balance">Sverdrup balance</a></li>
+<li><a class="mw-selflink selflink">Thermohaline circulation</a>
+<ul>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">shutdown</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></li>
+<li><a href="/wiki/Whirlpool" title="Whirlpool">Whirlpool</a></li>
+<li><a href="/wiki/World_Ocean_Circulation_Experiment" title="World Ocean Circulation Experiment">World Ocean Circulation Experiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tide" title="Tide">Tides</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amphidromic_point" title="Amphidromic point">Amphidromic point</a></li>
+<li><a href="/wiki/Earth_tide" title="Earth tide">Earth tide</a></li>
+<li><a href="/wiki/Head_of_tide" title="Head of tide">Head of tide</a></li>
+<li><a href="/wiki/Internal_tide" title="Internal tide">Internal tide</a></li>
+<li><a href="/wiki/Lunitidal_interval" title="Lunitidal interval">Lunitidal interval</a></li>
+<li><a href="/wiki/Perigean_spring_tide" title="Perigean spring tide">Perigean spring tide</a></li>
+<li><a href="/wiki/Rip_tide" title="Rip tide">Rip tide</a></li>
+<li><a href="/wiki/Rule_of_twelfths" title="Rule of twelfths">Rule of twelfths</a></li>
+<li><a href="/wiki/Slack_water" title="Slack water">Slack water</a></li>
+<li><a href="/wiki/Tidal_bore" title="Tidal bore">Tidal bore</a></li>
+<li><a href="/wiki/Tidal_force" title="Tidal force">Tidal force</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+<li><a href="/wiki/Tidal_race" title="Tidal race">Tidal race</a></li>
+<li><a href="/wiki/Tidal_range" title="Tidal range">Tidal range</a></li>
+<li><a href="/wiki/Tidal_resonance" title="Tidal resonance">Tidal resonance</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Tideline" title="Tideline">Tideline</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Landform" title="Landform">Landforms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abyssal_fan" title="Abyssal fan">Abyssal fan</a></li>
+<li><a href="/wiki/Abyssal_plain" title="Abyssal plain">Abyssal plain</a></li>
+<li><a href="/wiki/Atoll" title="Atoll">Atoll</a></li>
+<li><a href="/wiki/Bathymetric_chart" title="Bathymetric chart">Bathymetric chart</a></li>
+<li><a href="/wiki/Coastal_geography" title="Coastal geography">Coastal geography</a></li>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seep</a></li>
+<li><a href="/wiki/Continental_margin" title="Continental margin">Continental margin</a></li>
+<li><a href="/wiki/Continental_rise" title="Continental rise">Continental rise</a></li>
+<li><a href="/wiki/Continental_shelf" title="Continental shelf">Continental shelf</a></li>
+<li><a href="/wiki/Contourite" title="Contourite">Contourite</a></li>
+<li><a href="/wiki/Guyot" title="Guyot">Guyot</a></li>
+<li><a href="/wiki/Hydrography" title="Hydrography">Hydrography</a></li>
+<li><a href="/wiki/Oceanic_basin" title="Oceanic basin">Oceanic basin</a></li>
+<li><a href="/wiki/Oceanic_plateau" title="Oceanic plateau">Oceanic plateau</a></li>
+<li><a href="/wiki/Oceanic_trench" title="Oceanic trench">Oceanic trench</a></li>
+<li><a href="/wiki/Passive_margin" title="Passive margin">Passive margin</a></li>
+<li><a href="/wiki/Seabed" title="Seabed">Seabed</a></li>
+<li><a href="/wiki/Seamount" title="Seamount">Seamount</a></li>
+<li><a href="/wiki/Submarine_canyon" title="Submarine canyon">Submarine canyon</a></li>
+<li><a href="/wiki/Submarine_volcano" title="Submarine volcano">Submarine volcano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate<br/>
+tectonics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convergent_boundary" title="Convergent boundary">Convergent boundary</a></li>
+<li><a href="/wiki/Divergent_boundary" title="Divergent boundary">Divergent boundary</a></li>
+<li><a href="/wiki/Fracture_zone" title="Fracture zone">Fracture zone</a></li>
+<li><a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">Hydrothermal vent</a></li>
+<li><a href="/wiki/Marine_geology" title="Marine geology">Marine geology</a></li>
+<li><a href="/wiki/Mid-ocean_ridge" title="Mid-ocean ridge">Mid-ocean ridge</a></li>
+<li><a href="/wiki/Mohorovi%C4%8Di%C4%87_discontinuity" title="Mohorovičić discontinuity">Mohorovičić discontinuity</a></li>
+<li><a href="/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis" title="Vine–Matthews–Morley hypothesis">Vine–Matthews–Morley hypothesis</a></li>
+<li><a href="/wiki/Oceanic_crust" title="Oceanic crust">Oceanic crust</a></li>
+<li><a href="/wiki/Outer_trench_swell" title="Outer trench swell">Outer trench swell</a></li>
+<li><a href="/wiki/Ridge_push" title="Ridge push">Ridge push</a></li>
+<li><a href="/wiki/Seafloor_spreading" title="Seafloor spreading">Seafloor spreading</a></li>
+<li><a href="/wiki/Slab_pull" title="Slab pull">Slab pull</a></li>
+<li><a href="/wiki/Slab_suction" title="Slab suction">Slab suction</a></li>
+<li><a href="/wiki/Slab_window" title="Slab window">Slab window</a></li>
+<li><a href="/wiki/Subduction" title="Subduction">Subduction</a></li>
+<li><a href="/wiki/Transform_fault" title="Transform fault">Transform fault</a></li>
+<li><a href="/wiki/Volcanic_arc" title="Volcanic arc">Volcanic arc</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ocean zones</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Benthic_zone" title="Benthic zone">Benthic</a></li>
+<li><a href="/wiki/Deep_ocean_water" title="Deep ocean water">Deep ocean water</a></li>
+<li><a href="/wiki/Deep_sea" title="Deep sea">Deep sea</a></li>
+<li><a href="/wiki/Littoral_zone" title="Littoral zone">Littoral</a></li>
+<li><a href="/wiki/Mesopelagic_zone" title="Mesopelagic zone">Mesopelagic</a></li>
+<li><a href="/wiki/Oceanic_zone" title="Oceanic zone">Oceanic</a></li>
+<li><a href="/wiki/Pelagic_zone" title="Pelagic zone">Pelagic</a></li>
+<li><a href="/wiki/Photic_zone" title="Photic zone">Photic</a></li>
+<li><a href="/wiki/Surf_zone" title="Surf zone">Surf</a></li>
+<li><a href="/wiki/Swash" title="Swash">Swash</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sea_level" title="Sea level">Sea level</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep-ocean_Assessment_and_Reporting_of_Tsunamis" title="Deep-ocean Assessment and Reporting of Tsunamis">Deep-ocean Assessment and Reporting of Tsunamis</a></li>
+<li><a href="/wiki/Future_sea_level" title="Future sea level">Future sea level</a></li>
+<li><a href="/wiki/Global_Sea_Level_Observing_System" title="Global Sea Level Observing System">Global Sea Level Observing System</a></li>
+<li><a href="/wiki/North_West_Shelf_Operational_Oceanographic_System" title="North West Shelf Operational Oceanographic System">North West Shelf Operational Oceanographic System</a></li>
+<li><a href="/wiki/Sea-level_curve" title="Sea-level curve">Sea-level curve</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/World_Geodetic_System" title="World Geodetic System">World Geodetic System</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Acoustical_oceanography" title="Acoustical oceanography">Acoustics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep_scattering_layer" title="Deep scattering layer">Deep scattering layer</a></li>
+<li><a href="/wiki/Hydroacoustics" title="Hydroacoustics">Hydroacoustics</a></li>
+<li><a href="/wiki/Ocean_acoustic_tomography" title="Ocean acoustic tomography">Ocean acoustic tomography</a></li>
+<li><a href="/wiki/Sofar_bomb" title="Sofar bomb">Sofar bomb</a></li>
+<li><a href="/wiki/SOFAR_channel" title="SOFAR channel">SOFAR channel</a></li>
+<li><a href="/wiki/Underwater_acoustics" title="Underwater acoustics">Underwater acoustics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Satellites</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jason-1" title="Jason-1">Jason-1</a></li>
+<li><a href="/wiki/Ocean_Surface_Topography_Mission" title="Ocean Surface Topography Mission">Jason-2 (Ocean Surface Topography Mission)</a></li>
+<li><a href="/wiki/Jason-3" title="Jason-3">Jason-3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Argo_(oceanography)" title="Argo (oceanography)">Argo</a></li>
+<li><a href="/wiki/Benthic_lander" title="Benthic lander">Benthic lander</a></li>
+<li><a href="/wiki/Color_of_water" title="Color of water">Color of water</a></li>
+<li><a href="/wiki/DSV_Alvin" title="DSV Alvin">DSV <i>Alvin</i></a></li>
+<li><a class="mw-redirect" href="/wiki/Marginal_sea" title="Marginal sea">Marginal sea</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine energy</a></li>
+<li><a href="/wiki/Marine_pollution" title="Marine pollution">Marine pollution</a></li>
+<li><a href="/wiki/Mooring_(oceanography)" title="Mooring (oceanography)">Mooring</a></li>
+<li><a href="/wiki/National_Oceanographic_Data_Center" title="National Oceanographic Data Center">National Oceanographic Data Center</a></li>
+<li><a href="/wiki/Ocean" title="Ocean">Ocean</a></li>
+<li><a href="/wiki/Ocean_exploration" title="Ocean exploration">Ocean exploration</a></li>
+<li><a href="/wiki/Ocean_observations" title="Ocean observations">Ocean observations</a></li>
+<li><a href="/wiki/Ocean_reanalysis" title="Ocean reanalysis">Ocean reanalysis</a></li>
+<li><a href="/wiki/Ocean_surface_topography" title="Ocean surface topography">Ocean surface topography</a></li>
+<li><a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">Ocean thermal energy conversion</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Pelagic_sediment" title="Pelagic sediment">Pelagic sediment</a></li>
+<li><a href="/wiki/Sea_surface_microlayer" title="Sea surface microlayer">Sea surface microlayer</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature</a></li>
+<li><a href="/wiki/Seawater" title="Seawater">Seawater</a></li>
+<li><a href="/wiki/Science_On_a_Sphere" title="Science On a Sphere">Science On a Sphere</a></li>
+<li><a href="/wiki/Thermocline" title="Thermocline">Thermocline</a></li>
+<li><a href="/wiki/Underwater_glider" title="Underwater glider">Underwater glider</a></li>
+<li><a href="/wiki/Water_column" title="Water column">Water column</a></li>
+<li><a href="/wiki/World_Ocean_Atlas" title="World Ocean Atlas">World Ocean Atlas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Physical_oceanography" title="commons:Category:Physical oceanography">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1256
+Cached time: 20170929124248
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.372 seconds
+Preprocessor visited node count: 1883/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 133771/2097152 bytes
+Template argument size: 4851/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.118/10.000 seconds
+Lua memory usage: 3.99 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  257.494      1 -total
+ 46.91%  120.798      1 Template:Reflist
+ 26.75%   68.867     11 Template:Cite_journal
+ 13.35%   34.371      1 Template:Atmospheric,_Oceanographic_and_Climate_Models
+ 12.42%   31.977      1 Template:Navbox_with_collapsible_groups
+  9.70%   24.967      5 Template:Navbox
+  9.21%   23.727      6 Template:Cite_book
+  8.07%   20.769      1 Template:Use_dmy_dates
+  5.30%   13.642      1 Template:Physical_oceanography
+  4.55%   11.728      3 Template:Main_article
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:387457-0!canonical and timestamp 20170929124248 and revision id 797382291
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thermohaline_circulation&amp;oldid=797382291">https://en.wikipedia.org/w/index.php?title=Thermohaline_circulation&amp;oldid=797382291</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Physical oceanography</a></li><li><a href="/wiki/Category:Chemical_oceanography" title="Category:Chemical oceanography">Chemical oceanography</a></li><li><a href="/wiki/Category:Climate_change" title="Category:Climate change">Climate change</a></li><li><a href="/wiki/Category:Climate_forcing_agents" title="Category:Climate forcing agents">Climate forcing agents</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_September_2015" title="Category:Use dmy dates from September 2015">Use dmy dates from September 2015</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thermohaline+circulation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Thermohaline+circulation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Thermohaline_circulation" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Thermohaline_circulation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Thermohaline_circulation">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Thermohaline_circulation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Thermohaline_circulation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Thermohaline_circulation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Thermohaline_circulation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Thermohaline_circulation&amp;oldid=797382291" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Thermohaline_circulation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q463223" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thermohaline_circulation&amp;id=797382291" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Thermohaline+circulation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Thermohaline+circulation&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DThermohaline%2Bcirculation%26returnto%3DThermohaline%2Bcirculation%26oldid%3D797382291%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Thermohaline_circulation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Ocean_currents" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1%D8%A9_%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A%D8%A9_%D9%85%D9%84%D8%AD%D9%8A%D8%A9" hreflang="ar" lang="ar" title="دورة حرارية ملحية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A2%D1%8D%D1%80%D0%BC%D0%B0%D1%85%D0%B0%D0%BB%D1%96%D0%BD%D0%BD%D0%B0%D1%8F_%D1%86%D1%8B%D1%80%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Тэрмахалінная цыркуляцыя – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Circulaci%C3%B3_termohalina" hreflang="ca" lang="ca" title="Circulació termohalina – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Termohalinn%C3%AD_v%C3%BDm%C4%9Bn%C3%ADk" hreflang="cs" lang="cs" title="Termohalinní výměník – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Den_termohaline_cirkulation" hreflang="da" lang="da" title="Den termohaline cirkulation – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Thermohaline_Zirkulation" hreflang="de" lang="de" title="Thermohaline Zirkulation – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Termohaliinne_tsirkulatsioon" hreflang="et" lang="et" title="Termohaliinne tsirkulatsioon – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Circulaci%C3%B3n_termohalina" hreflang="es" lang="es" title="Circulación termohalina – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%DA%AF%D8%B1%D8%AF%D8%B4_%D8%AF%D9%85%D8%A7%D8%B4%D9%88%D8%B1%DB%8C" hreflang="fa" lang="fa" title="گردش دماشوری – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Circulation_thermohaline" hreflang="fr" lang="fr" title="Circulation thermohaline – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Imshruth%C3%BA_teirmeahail%C3%ADneach" hreflang="ga" lang="ga" title="Imshruthú teirmeahailíneach – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Circulaci%C3%B3n_termohalina" hreflang="gl" lang="gl" title="Circulación termohalina – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%B4%EC%97%BC%EC%88%9C%ED%99%98" hreflang="ko" lang="ko" title="열염순환 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Termohalinska_pokretna_traka" hreflang="hr" lang="hr" title="Termohalinska pokretna traka – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Circolazione_termoalina" hreflang="it" lang="it" title="Circolazione termoalina – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%9E%D7%A1%D7%95%D7%A2_%D7%94%D7%99%D7%9E%D7%99" hreflang="he" lang="he" title="המסוע הימי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Termohalin%C4%97_cirkuliacija" hreflang="lt" lang="lt" title="Termohalinė cirkuliacija – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Peredaran_termohalin" hreflang="ms" lang="ms" title="Peredaran termohalin – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Thermohaliene_circulatie" hreflang="nl" lang="nl" title="Thermohaliene circulatie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%86%B1%E5%A1%A9%E5%BE%AA%E7%92%B0" hreflang="ja" lang="ja" title="熱塩循環 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Termohalin_sirkulasjon" hreflang="no" lang="no" title="Termohalin sirkulasjon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Cyrkulacja_termohalinowa" hreflang="pl" lang="pl" title="Cyrkulacja termohalinowa – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Circula%C3%A7%C3%A3o_termoalina" hreflang="pt" lang="pt" title="Circulação termoalina – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D0%BD%D0%B0%D1%8F_%D1%86%D0%B8%D1%80%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Термохалинная циркуляция – Russian">Русский</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%85%D0%B0%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%B0_%D0%BF%D0%BE%D0%BA%D1%80%D0%B5%D1%82%D0%BD%D0%B0_%D1%82%D1%80%D0%B0%D0%BA%D0%B0" hreflang="sr" lang="sr" title="Термохалинска покретна трака – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Termohalinska_pokretna_traka" hreflang="sh" lang="sh" title="Termohalinska pokretna traka – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Termohaliinikierto" hreflang="fi" lang="fi" title="Termohaliinikierto – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Termohalin_cirkulation" hreflang="sv" lang="sv" title="Termohalin cirkulation – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-kab"><a class="interlanguage-link-target" href="https://kab.wikipedia.org/wiki/Tasnisnit_Tamatut_n_Ugaraw" hreflang="kab" lang="kab" title="Tasnisnit Tamatut n Ugaraw – Kabyle">Taqbaylit</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Termohalin_D%C3%B6ng%C3%BC" hreflang="tr" lang="tr" title="Termohalin Döngü – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D1%80%D0%BC%D0%BE%D1%85%D0%B0%D0%BB%D1%96%D0%BD%D0%BD%D0%B0_%D1%86%D0%B8%D1%80%D0%BA%D1%83%D0%BB%D1%8F%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Термохалінна циркуляція – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%BA%AB%E9%B9%BD%E7%92%B0%E6%B5%81" hreflang="zh" lang="zh" title="溫鹽環流 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q463223#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 26 August 2017, at 18:31.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Thermohaline_circulation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.372","ppvisitednodes":{"value":1883,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":133771,"limit":2097152},"templateargumentsize":{"value":4851,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  257.494      1 -total"," 46.91%  120.798      1 Template:Reflist"," 26.75%   68.867     11 Template:Cite_journal"," 13.35%   34.371      1 Template:Atmospheric,_Oceanographic_and_Climate_Models"," 12.42%   31.977      1 Template:Navbox_with_collapsible_groups","  9.70%   24.967      5 Template:Navbox","  9.21%   23.727      6 Template:Cite_book","  8.07%   20.769      1 Template:Use_dmy_dates","  5.30%   13.642      1 Template:Physical_oceanography","  4.55%   11.728      3 Template:Main_article"]},"scribunto":{"limitreport-timeusage":{"value":"0.118","limit":"10.000"},"limitreport-memusage":{"value":4182507,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20170929124248","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":159,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

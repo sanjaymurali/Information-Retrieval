@@ -1,0 +1,451 @@
+https://en.wikipedia.org/wiki/Condensation
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Condensation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Condensation","wgTitle":"Condensation","wgCurRevisionId":800241645,"wgRevisionId":800241645,"wgArticleId":47521,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Phase transitions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Condensation","wgRelevantArticleId":47521,"wgRequestId":"WdBxCgpAMEkAAFa5XekAAABS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q166583","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cloud_over_A340_wing.JPG/1200px-Cloud_over_A340_wing.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Condensation" rel="alternate"/>
+<link href="/w/index.php?title=Condensation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Condensation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Condensation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Condensation rootpage-Condensation vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Condensation</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Condensation_(disambiguation)" title="Condensation (disambiguation)">Condensation (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Cloud_over_A340_wing.JPG"><img alt="" class="thumbimage" data-file-height="2112" data-file-width="2816" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cloud_over_A340_wing.JPG/220px-Cloud_over_A340_wing.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cloud_over_A340_wing.JPG/330px-Cloud_over_A340_wing.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Cloud_over_A340_wing.JPG/440px-Cloud_over_A340_wing.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Cloud_over_A340_wing.JPG" title="Enlarge"></a></div>
+Condensation forming in the low pressure zone above the wing of an aircraft due to <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic</a> expansion</div>
+</div>
+</div>
+<p><b>Condensation</b> is the change of the physical <a href="/wiki/State_of_matter" title="State of matter">state of matter</a> from <a href="/wiki/Gas" title="Gas">gas phase</a> into <a href="/wiki/Liquid" title="Liquid">liquid phase</a>, and is the reverse of <a href="/wiki/Evaporation" title="Evaporation">evaporation</a>. The word most often refers to the <a href="/wiki/Water_cycle" title="Water cycle">water cycle</a>.<sup class="reference" id="cite_ref-Gold_1-0"><a href="#cite_note-Gold-1">[1]</a></sup> It can also be defined as the change in the state of water vapour to liquid water when in contact with a liquid or solid surface or <a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">cloud condensation nuclei</a> within the <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">atmosphere</a>. When the transition happens from the gaseous phase into the solid phase directly, the change is called <a class="mw-redirect" href="/wiki/Deposition_(physics)" title="Deposition (physics)">deposition</a> (or desublimation, see <a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">Sublimation (phase transition)</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Initiation"><span class="tocnumber">1</span> <span class="toctext">Initiation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Reversibility_scenarios"><span class="tocnumber">2</span> <span class="toctext">Reversibility scenarios</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Most_common_scenarios"><span class="tocnumber">3</span> <span class="toctext">Most common scenarios</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#How_condensation_is_measured"><span class="tocnumber">4</span> <span class="toctext">How condensation is measured</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Applications_of_condensation"><span class="tocnumber">5</span> <span class="toctext">Applications of condensation</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Biological_adaptation"><span class="tocnumber">6</span> <span class="toctext">Biological adaptation</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Condensation_in_building_construction"><span class="tocnumber">7</span> <span class="toctext">Condensation in building construction</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">9</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Initiation">Initiation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condensation&amp;action=edit&amp;section=1" title="Edit section: Initiation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Condensation is initiated by the formation of <a class="mw-redirect" href="/wiki/Atomic_clusters" title="Atomic clusters">atomic/molecular clusters</a> of that species within its gaseous volume—like <a class="mw-redirect" href="/wiki/Rain_drop" title="Rain drop">rain drop</a> or <a class="mw-redirect" href="/wiki/Snow_flake" title="Snow flake">snow flake</a> formation within <a href="/wiki/Cloud" title="Cloud">clouds</a>—or at the contact between such gaseous phase and a liquid or solid surface.</p>
+<h2><span class="mw-headline" id="Reversibility_scenarios">Reversibility scenarios</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condensation&amp;action=edit&amp;section=2" title="Edit section: Reversibility scenarios">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A few distinct reversibility scenarios emerge here with respect to the nature of the surface.</p>
+<ul>
+<li>absorption into the surface of a liquid (either of the same substance or one of its solvents)—is reversible as <a href="/wiki/Evaporation" title="Evaporation">evaporation</a>.<sup class="reference" id="cite_ref-Gold_1-1"><a href="#cite_note-Gold-1">[1]</a></sup></li>
+<li><a href="/wiki/Adsorption" title="Adsorption">adsorption</a> (as dew droplets) onto solid surface at pressures and temperatures higher than the species' <a href="/wiki/Triple_point" title="Triple point">triple point</a>—also reversible as evaporation.</li>
+<li>adsorption onto solid surface (as supplemental layers of solid) at pressures and temperatures lower than the species' <a href="/wiki/Triple_point" title="Triple point">triple point</a>—is reversible as <a class="mw-redirect" href="/wiki/Sublimation_(Physics)" title="Sublimation (Physics)">sublimation</a>.</li>
+</ul>
+<h2><span class="mw-headline" id="Most_common_scenarios">Most common scenarios</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condensation&amp;action=edit&amp;section=3" title="Edit section: Most common scenarios">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Condensation commonly occurs when a <a href="/wiki/Vapor" title="Vapor">vapor</a> is cooled and/or compressed to its <a href="/wiki/Dew_point" title="Dew point">saturation limit</a> when the molecular density in the gas phase reaches its maximal threshold. Vapor cooling and compressing equipment that collects condensed liquids is called a <a href="/wiki/Condenser_(heat_transfer)" title="Condenser (heat transfer)">"condenser"</a>.</p>
+<h2><span class="mw-headline" id="How_condensation_is_measured">How condensation is measured</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condensation&amp;action=edit&amp;section=4" title="Edit section: How condensation is measured">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a class="mw-redirect" href="/wiki/Psychrometry" title="Psychrometry">Psychrometry</a> measures the rates of condensation through evaporation into the air moisture at various atmospheric pressures and temperatures. Water is the product of its vapor condensation—condensation is the process of such phase conversion.</p>
+<h2><span class="mw-headline" id="Applications_of_condensation">Applications of condensation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condensation&amp;action=edit&amp;section=5" title="Edit section: Applications of condensation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Condensation is a crucial component of <a href="/wiki/Distillation" title="Distillation">distillation</a>, an important laboratory and industrial chemistry application.</p>
+<p>Because condensation is a naturally occurring phenomenon, it can often be used to generate water in large quantities for human use. Many structures are made solely for the purpose of collecting water from condensation, such as <a href="/wiki/Air_well_(condenser)" title="Air well (condenser)">air wells</a> and <a href="/wiki/Fog_fence" title="Fog fence">fog fences</a>. Such systems can often be used to retain soil moisture in areas where active <a href="/wiki/Desertification" title="Desertification">desertification</a> is occurring—so much so that some organizations educate people living in affected areas about water condensers to help them deal effectively with the situation.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>It is also a crucial process in forming particle tracks in a <a href="/wiki/Cloud_chamber" title="Cloud chamber">cloud chamber</a>. In this case, ions produced by an incident particle act as nucleation centers for the condensation of the vapor producing the visible "cloud" trails.</p>
+<p>Furthermore, condensation is a critical step in many industrial processes, such as power generation, water desalination, thermal management, refrigeration, and air conditioning.<sup class="reference" id="cite_ref-Enright_3-0"><a href="#cite_note-Enright-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Biological_adaptation">Biological adaptation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condensation&amp;action=edit&amp;section=6" title="Edit section: Biological adaptation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Numerous living beings use water made accessible by condensation. A few examples of these are the <a href="/wiki/Australia" title="Australia">Australian</a> <a href="/wiki/Thorny_devil" title="Thorny devil">thorny devil</a>, the <a href="/wiki/Darkling_beetle" title="Darkling beetle">darkling beetles</a> of the <a href="/wiki/Namibia" title="Namibia">Namibian</a> coast, and the <a href="/wiki/Sequoia_sempervirens" title="Sequoia sempervirens">coast redwoods</a> of the <a href="/wiki/West_Coast_of_the_United_States" title="West Coast of the United States">West Coast of the United States</a>.</p>
+<h2><span class="mw-headline" id="Condensation_in_building_construction">Condensation in building construction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condensation&amp;action=edit&amp;section=7" title="Edit section: Condensation in building construction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Window_in_Ireland.jpg"><img alt="" class="thumbimage" data-file-height="1728" data-file-width="2288" height="166" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Window_in_Ireland.jpg/220px-Window_in_Ireland.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Window_in_Ireland.jpg/330px-Window_in_Ireland.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Window_in_Ireland.jpg/440px-Window_in_Ireland.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Window_in_Ireland.jpg" title="Enlarge"></a></div>
+Condensation on a window during a rain shower.</div>
+</div>
+</div>
+<p>Condensation in building <a href="/wiki/Construction" title="Construction">construction</a> is an unwanted <a href="/wiki/Phenomenon" title="Phenomenon">phenomenon</a> as it may cause <a href="/wiki/Damp_(structural)" title="Damp (structural)">dampness</a>, <a href="/wiki/Mold_health_issues" title="Mold health issues">mold health issues</a>, <a href="/wiki/Wood" title="Wood">wood</a> <a href="/wiki/Dry_rot" title="Dry rot">rot</a>, <a href="/wiki/Corrosion" title="Corrosion">corrosion</a>, weakening of mortar and masonry walls, and energy penalties due to increased <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a>. To alleviate these issues, the indoor air humidity needs to be lowered, or air ventilation in the building needs to be improved. This can be done in a number of ways, for example opening windows, turning on extractor fans, using dehumidifiers, drying clothes outside and covering pots and pans whilst cooking. Air conditioning or ventilation systems can be installed that help remove moisture from the air, and move air throughout a building.<sup class="reference" id="cite_ref-PropertyHive_4-0"><a href="#cite_note-PropertyHive-4">[4]</a></sup> The amount of water vapour that can be stored in the air can be increased simply by increasing the temperature.<sup class="reference" id="cite_ref-PropertyHive_4-1"><a href="#cite_note-PropertyHive-4">[4]</a></sup> However, this can be a double edged sword as most condensation in the home occurs when warm, moisture heavy air comes into contact with a cool surface. As the air is cooled, it can no longer hold as much water vapour. This leads to deposition of water on the cool surface. This is very apparent when central heating is used in combination with single glazed windows in winter.</p>
+<p>Interstructure condensation may be caused by <a href="/wiki/Thermal_bridge" title="Thermal bridge">thermal bridges</a>, insufficient or lacking insulation, <a href="/wiki/Damp_proofing" title="Damp proofing">damp proofing</a> or <a href="/wiki/Insulated_glazing" title="Insulated glazing">insulated glazing</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condensation&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Air_well_(condenser)" title="Air well (condenser)">Air well (condenser)</a></li>
+<li><a href="/wiki/Bose%E2%80%93Einstein_condensate" title="Bose–Einstein condensate">Bose–Einstein condensate</a></li>
+<li><a href="/wiki/Cloud_physics" title="Cloud physics">Cloud physics</a></li>
+<li><a href="/wiki/Condenser_(heat_transfer)" title="Condenser (heat transfer)">Condenser (heat transfer)</a></li>
+<li><a href="/wiki/DNA_condensation" title="DNA condensation">DNA condensation</a></li>
+<li><a href="/wiki/Kelvin_equation" title="Kelvin equation">Kelvin equation</a></li>
+<li><a href="/wiki/Phase_diagram" title="Phase diagram">Phase diagram</a></li>
+<li><a href="/wiki/Phase_transition" title="Phase transition">Phase transition</a></li>
+<li><a href="/wiki/Retrograde_condensation" title="Retrograde condensation">Retrograde condensation</a></li>
+<li><a href="/wiki/Surface_condenser" title="Surface condenser">Surface condenser</a></li>
+<li><a href="/wiki/Groasis_Waterboxx" title="Groasis Waterboxx">Groasis Waterboxx</a></li>
+<li><a href="/wiki/Liquefaction_of_gases" title="Liquefaction of gases">Liquefaction of gases</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Condensation&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Gold-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Gold_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Gold_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/International_Union_of_Pure_and_Applied_Chemistry" title="International Union of Pure and Applied Chemistry">IUPAC</a>, <i><a href="/wiki/Compendium_of_Chemical_Terminology" title="Compendium of Chemical Terminology">Compendium of Chemical Terminology</a></i>, 2nd ed. (the "Gold Book") (1997). Online corrected version:  (2006–) "<a class="external text" href="http://goldbook.iupac.org/C01235.html" rel="nofollow">condensation <i>in atmospheric chemistry</i></a>".</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.fogquest.org/" rel="nofollow">FogQuest - Fog Collection / Water Harvesting Projects - Welcome</a></span></li>
+<li id="cite_note-Enright-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Enright_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Enright, Ryan (23 Jul 2014). "Dropwise Condensation on Micro- and Nanostructured Surfaces". <i>Nanoscale and Microscale Thermophysical Engineering</i>. <b>18</b> (3). <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F15567265.2013.862889" rel="nofollow">10.1080/15567265.2013.862889</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACondensation&amp;rft.atitle=Dropwise+Condensation+on+Micro-+and+Nanostructured+Surfaces&amp;rft.aufirst=Ryan&amp;rft.aulast=Enright&amp;rft.date=2014-07-23&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Nanoscale+and+Microscale+Thermophysical+Engineering&amp;rft.volume=18&amp;rft_id=info%3Adoi%2F10.1080%2F15567265.2013.862889&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-PropertyHive-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-PropertyHive_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-PropertyHive_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20131213114908/http://propertyhive.org/condensation/" rel="nofollow">"Condensation"</a>. Property Hive. Archived from <a class="external text" href="http://www.wisepropertycare.com/condensation" rel="nofollow">the original</a> on 2013-12-13.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACondensation&amp;rft.btitle=Condensation&amp;rft.genre=unknown&amp;rft.pub=Property+Hive&amp;rft_id=http%3A%2F%2Fwww.wisepropertycare.com%2Fcondensation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.diydata.com/problem/condensation/condensation.php" rel="nofollow">"Condensation around the house - what causes condensation"</a>. <i>diydata.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ACondensation&amp;rft.atitle=Condensation+around+the+house+-+what+causes+condensation&amp;rft.genre=unknown&amp;rft.jtitle=diydata.com&amp;rft_id=http%3A%2F%2Fwww.diydata.com%2Fproblem%2Fcondensation%2Fcondensation.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<dl>
+<dt>Sources</dt>
+</dl>
+<div aria-labelledby="States_of_matter_.28list.29" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:States_of_matter" title="Template:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:States_of_matter" title="Template talk:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:States_of_matter&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="States_of_matter_.28list.29" style="font-size:114%;margin:0 4em"><a href="/wiki/State_of_matter" title="State of matter">States of matter</a> (<a href="/wiki/List_of_states_of_matter" title="List of states of matter">list</a>)</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">State</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solid" title="Solid">Solid</a></li>
+<li><a href="/wiki/Liquid" title="Liquid">Liquid</a></li>
+<li><a href="/wiki/Gas" title="Gas">Gas</a> / <a href="/wiki/Vapor" title="Vapor">Vapor</a></li>
+<li><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasma</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Phase_change_-_en.svg"><img alt="Phase change - en.svg" data-file-height="524" data-file-width="493" height="266" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/250px-Phase_change_-_en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/375px-Phase_change_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/500px-Phase_change_-_en.svg.png 2x" width="250"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Low energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bose%E2%80%93Einstein_condensate" title="Bose–Einstein condensate">Bose–Einstein condensate</a></li>
+<li><a href="/wiki/Fermionic_condensate" title="Fermionic condensate">Fermionic condensate</a></li>
+<li><a href="/wiki/Degenerate_matter" title="Degenerate matter">Degenerate matter</a></li>
+<li><a href="/wiki/Quantum_Hall_effect" title="Quantum Hall effect">Quantum Hall</a></li>
+<li><a href="/wiki/Rydberg_matter" title="Rydberg matter">Rydberg matter</a></li>
+<li><a href="/wiki/Strange_matter" title="Strange matter">Strange matter</a></li>
+<li><a href="/wiki/Superfluidity" title="Superfluidity">Superfluid</a></li>
+<li><a href="/wiki/Supersolid" title="Supersolid">Supersolid</a></li>
+<li><a class="mw-redirect" href="/wiki/Photonic_matter" title="Photonic matter">Photonic matter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">High energy</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/QCD_matter" title="QCD matter">QCD matter</a></li>
+<li><a href="/wiki/Lattice_QCD" title="Lattice QCD">Lattice QCD</a></li>
+<li><a href="/wiki/Quark%E2%80%93gluon_plasma" title="Quark–gluon plasma">Quark–gluon plasma</a></li>
+<li><a href="/wiki/Supercritical_fluid" title="Supercritical fluid">Supercritical fluid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other states</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Glass" title="Glass">Glass</a></li>
+<li><a href="/wiki/Liquid_crystal" title="Liquid crystal">Liquid crystal</a></li>
+<li><a href="/wiki/Quantum_spin_liquid" title="Quantum spin liquid">Quantum spin liquid</a></li>
+<li>Magnetically ordered
+<ul>
+<li><a href="/wiki/Antiferromagnetism" title="Antiferromagnetism">Antiferromagnet</a></li>
+<li><a href="/wiki/Ferrimagnetism" title="Ferrimagnetism">Ferrimagnet</a></li>
+<li><a href="/wiki/Ferromagnetism" title="Ferromagnetism">Ferromagnet</a></li>
+</ul>
+</li>
+<li><a href="/wiki/String-net_liquid" title="String-net liquid">String-net liquid</a></li>
+<li><a href="/wiki/Superglass" title="Superglass">Superglass</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Phase_transition" title="Phase transition">Transitions</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boiling" title="Boiling">Boiling</a></li>
+<li><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a></li>
+<li><a class="mw-selflink selflink">Condensation</a></li>
+<li><a href="/wiki/Critical_line_(thermodynamics)" title="Critical line (thermodynamics)">Critical line</a></li>
+<li><a href="/wiki/Critical_point_(thermodynamics)" title="Critical point (thermodynamics)">Critical point</a></li>
+<li><a href="/wiki/Crystallization" title="Crystallization">Crystallization</a></li>
+<li><a href="/wiki/Deposition_(phase_transition)" title="Deposition (phase transition)">Deposition</a></li>
+<li><a href="/wiki/Evaporation" title="Evaporation">Evaporation</a></li>
+<li><a href="/wiki/Flash_evaporation" title="Flash evaporation">Flash evaporation</a></li>
+<li><a href="/wiki/Freezing" title="Freezing">Freezing</a></li>
+<li><a href="/wiki/Chemical_ionization" title="Chemical ionization">Chemical ionization</a></li>
+<li><a href="/wiki/Ionization" title="Ionization">Ionization</a></li>
+<li><a href="/wiki/Lambda_point" title="Lambda point">Lambda point</a></li>
+<li><a href="/wiki/Melting" title="Melting">Melting</a></li>
+<li><a href="/wiki/Melting_point" title="Melting point">Melting point</a></li>
+<li><a href="/wiki/Plasma_recombination" title="Plasma recombination">Recombination</a></li>
+<li><a href="/wiki/Regelation" title="Regelation">Regelation</a></li>
+<li><a href="/wiki/Vapor%E2%80%93liquid_equilibrium" title="Vapor–liquid equilibrium">Saturated fluid</a></li>
+<li><a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">Sublimation</a></li>
+<li><a href="/wiki/Supercooling" title="Supercooling">Supercooling</a></li>
+<li><a href="/wiki/Triple_point" title="Triple point">Triple point</a></li>
+<li><a href="/wiki/Vaporization" title="Vaporization">Vaporization</a></li>
+<li><a href="/wiki/Vitrification" title="Vitrification">Vitrification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Quantities</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Enthalpy of fusion</a></li>
+<li><a href="/wiki/Enthalpy_of_sublimation" title="Enthalpy of sublimation">Enthalpy of sublimation</a></li>
+<li><a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">Enthalpy of vaporization</a></li>
+<li><a href="/wiki/Latent_heat" title="Latent heat">Latent heat</a></li>
+<li><a href="/wiki/Latent_internal_energy" title="Latent internal energy">Latent internal energy</a></li>
+<li><a href="/wiki/Trouton%27s_ratio" title="Trouton's ratio">Trouton's ratio</a></li>
+<li><a href="/wiki/Volatility_(chemistry)" title="Volatility (chemistry)">Volatility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Binodal" title="Binodal">Binodal</a></li>
+<li><a href="/wiki/Compressed_fluid" title="Compressed fluid">Compressed fluid</a></li>
+<li><a href="/wiki/Cooling_curve" title="Cooling curve">Cooling curve</a></li>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Leidenfrost_effect" title="Leidenfrost effect">Leidenfrost effect</a></li>
+<li><a href="/wiki/Macroscopic_quantum_phenomena" title="Macroscopic quantum phenomena">Macroscopic quantum phenomena</a></li>
+<li><a href="/wiki/Mpemba_effect" title="Mpemba effect">Mpemba effect</a></li>
+<li><a class="mw-redirect" href="/wiki/Order_and_disorder_(physics)" title="Order and disorder (physics)">Order and disorder (physics)</a></li>
+<li><a href="/wiki/Spinodal" title="Spinodal">Spinodal</a></li>
+<li><a href="/wiki/Superconductivity" title="Superconductivity">Superconductivity</a></li>
+<li><a href="/wiki/Superheated_water" title="Superheated water">Superheated vapor</a></li>
+<li><a href="/wiki/Superheating" title="Superheating">Superheating</a></li>
+<li><a href="/wiki/Thermo-dielectric_effect" title="Thermo-dielectric effect">Thermo-dielectric effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1167
+Cached time: 20170921200837
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.108 seconds
+Real time usage: 0.176 seconds
+Preprocessor visited node count: 370/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 19327/2097152 bytes
+Template argument size: 123/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.035/10.000 seconds
+Lua memory usage: 2.03 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  132.232      1 -total
+ 57.51%   76.040      1 Template:Reflist
+ 37.87%   50.075      1 Template:Cite_journal
+ 28.35%   37.494      1 Template:Other_uses
+  8.77%   11.592      1 Template:States_of_matter
+  7.40%    9.786      1 Template:Navbox
+  5.38%    7.111      2 Template:Cite_web
+  1.34%    1.774      1 Template:Main_other
+  1.30%    1.717      1 Template:GoldBookRef
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47521-0!canonical and timestamp 20170921200837 and revision id 800241645
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Condensation&amp;oldid=800241645">https://en.wikipedia.org/w/index.php?title=Condensation&amp;oldid=800241645</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Phase_transitions" title="Category:Phase transitions">Phase transitions</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Condensation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Condensation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Condensation" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Condensation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Condensation">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Condensation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Condensation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Condensation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Condensation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Condensation&amp;oldid=800241645" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Condensation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q166583" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Condensation&amp;id=800241645" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Condensation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Condensation&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DCondensation%26returnto%3DCondensation%26oldid%3D800241645%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Condensation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Condensation" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Kondensasie" hreflang="af" lang="af" title="Kondensasie – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%83%D8%AB%D9%8A%D9%81" hreflang="ar" lang="ar" title="تكثيف – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Condensaci%C3%B3n" hreflang="ast" lang="ast" title="Condensación – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Kondensasiya" hreflang="az" lang="az" title="Kondensasiya – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9A%D0%B0%D0%BD%D0%B4%D1%8D%D0%BD%D1%81%D0%B0%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Кандэнсацыя – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D0%B7%D0%B0%D1%86%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Кондензация – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Kondenzacija" hreflang="bs" lang="bs" title="Kondenzacija – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Condensaci%C3%B3" hreflang="ca" lang="ca" title="Condensació – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Kapaln%C4%9Bn%C3%AD" hreflang="cs" lang="cs" title="Kapalnění – Czech">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Kubundira" hreflang="sn" lang="sn" title="Kubundira – Shona">ChiShona</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Cyddwyso" hreflang="cy" lang="cy" title="Cyddwyso – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kondensering" hreflang="da" lang="da" title="Kondensering – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Kondensation" hreflang="de" lang="de" title="Kondensation – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kondensatsioon" hreflang="et" lang="et" title="Kondensatsioon – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CF%85%CE%BC%CF%80%CF%8D%CE%BA%CE%BD%CF%89%CF%83%CE%B7" hreflang="el" lang="el" title="Συμπύκνωση – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Condensaci%C3%B3n_(cambio_de_estado)" hreflang="es" lang="es" title="Condensación (cambio de estado) – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Kondensado" hreflang="eo" lang="eo" title="Kondensado – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Kondentsazio" hreflang="eu" lang="eu" title="Kondentsazio – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%DB%8C%D8%B9%D8%A7%D9%86" hreflang="fa" lang="fa" title="میعان – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Condensation" hreflang="fr" lang="fr" title="Condensation – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Condensaci%C3%B3n" hreflang="gl" lang="gl" title="Condensación – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%9D%91%EC%B6%95" hreflang="ko" lang="ko" title="응축 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BF%D5%B8%D5%B6%D5%A4%D5%A5%D5%B6%D5%BD%D5%A1%D6%81%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Կոնդենսացում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%82%E0%A4%98%E0%A4%A8%E0%A4%A8" hreflang="hi" lang="hi" title="संघनन – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Kondenzacija" hreflang="hr" lang="hr" title="Kondenzacija – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kondensasi" hreflang="id" lang="id" title="Kondensasi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Condensazione" hreflang="it" lang="it" title="Condensazione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%94%D7%AA%D7%A2%D7%91%D7%95%D7%AA" hreflang="he" lang="he" title="התעבות – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Конденсация – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Kondansasyon" hreflang="ht" lang="ht" title="Kondansasyon – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D1%8F" hreflang="ky" lang="ky" title="Конденсация – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Kondens%C4%81cija" hreflang="lv" lang="lv" title="Kondensācija – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Kondensacija" hreflang="lt" lang="lt" title="Kondensacija – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D0%B7%D0%B0%D1%86%D0%B8%D1%98%D0%B0" hreflang="mk" lang="mk" title="Кондензација – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B5%80%E0%B4%95%E0%B4%B0%E0%B4%A3%E0%B4%82" hreflang="ml" lang="ml" title="സാന്ദ്രീകരണം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Pemeluwapan" hreflang="ms" lang="ms" title="Pemeluwapan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Condensatie" hreflang="nl" lang="nl" title="Condensatie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%B5%90%E9%9C%B2" hreflang="ja" lang="ja" title="結露 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kondensasjon" hreflang="no" lang="no" title="Kondensasjon – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kondensasjon" hreflang="nn" lang="nn" title="Kondensasjon – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Skraplanie" hreflang="pl" lang="pl" title="Skraplanie – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Condensa%C3%A7%C3%A3o" hreflang="pt" lang="pt" title="Condensação – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Condensare" hreflang="ro" lang="ro" title="Condensare – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Конденсация – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Condensation" hreflang="sco" lang="sco" title="Condensation – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Kondensimi" hreflang="sq" lang="sq" title="Kondensimi – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Condensation" hreflang="simple" lang="simple" title="Condensation – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Skvapal%C5%88ovanie" hreflang="sk" lang="sk" title="Skvapalňovanie – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Kondenzacija" hreflang="sl" lang="sl" title="Kondenzacija – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D0%B7%D0%B0%D1%86%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Кондензација – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Kondenzacija" hreflang="sh" lang="sh" title="Kondenzacija – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Tiivistyminen" hreflang="fi" lang="fi" title="Tiivistyminen – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kondensering" hreflang="sv" lang="sv" title="Kondensering – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Kondensasyon" hreflang="tl" lang="tl" title="Kondensasyon – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%86%E0%AE%B5%E0%AE%BF_%E0%AE%92%E0%AE%9F%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="ஆவி ஒடுக்கம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%84%E0%B8%A7%E0%B8%9A%E0%B9%81%E0%B8%99%E0%B9%88%E0%B8%99" hreflang="th" lang="th" title="การควบแน่น – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Yo%C4%9Fu%C5%9Fma" hreflang="tr" lang="tr" title="Yoğuşma – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9A%D0%BE%D0%BD%D0%B4%D0%B5%D0%BD%D1%81%D0%B0%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Конденсація – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Ng%C6%B0ng_t%E1%BB%A5" hreflang="vi" lang="vi" title="Ngưng tụ – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-yi"><a class="interlanguage-link-target" href="https://yi.wikipedia.org/wiki/%D7%A7%D7%90%D7%A0%D7%93%D7%A2%D7%A0%D7%A1%D7%99%D7%A8%D7%95%D7%A0%D7%92" hreflang="yi" lang="yi" title="קאנדענסירונג – Yiddish">ייִדיש</a></li><li class="interlanguage-link interwiki-bat-smg"><a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/Kuondensac%C4%97j%C4%97" hreflang="bat-smg" lang="bat-smg" title="Kuondensacėjė – Samogitian">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%87%9D%E7%B5%90" hreflang="zh" lang="zh" title="凝結 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q166583#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 12 September 2017, at 08:40.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Condensation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.108","walltime":"0.176","ppvisitednodes":{"value":370,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":19327,"limit":2097152},"templateargumentsize":{"value":123,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  132.232      1 -total"," 57.51%   76.040      1 Template:Reflist"," 37.87%   50.075      1 Template:Cite_journal"," 28.35%   37.494      1 Template:Other_uses","  8.77%   11.592      1 Template:States_of_matter","  7.40%    9.786      1 Template:Navbox","  5.38%    7.111      2 Template:Cite_web","  1.34%    1.774      1 Template:Main_other","  1.30%    1.717      1 Template:GoldBookRef"]},"scribunto":{"limitreport-timeusage":{"value":"0.035","limit":"10.000"},"limitreport-memusage":{"value":2127943,"limit":52428800}},"cachereport":{"origin":"mw1167","timestamp":"20170921200837","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1238"});});</script>
+</body>
+</html>

@@ -1,0 +1,67 @@
+Goal: Generating Graph - Assignment 2 : Task 1 - Information Retrieval - CS 6200
+================================================================================
+
+We need to build a directed web graph for the URLs we obtained in Assignment 1 : Task 1. We have two versions of our
+crawlers now. Crawler implemented with Breadth First Traversal and Crawler implemented with Depth First Traversal.
+------------------------------------------------------------------------------------------------------------------------
+
+A. Obtaining Directed Graph for Breadth First Crawler
+
+1. While we run the "web-crawler-bfs.py", it creates a file "url_list_bfs.txt" containing all the URLs it encountered
+   when traversing the web pages breadth first.
+2. We take this "url_list_bfs.txt" as an input for our program that generates graph. "generate-graph.py", creates a
+   graph such that each URL has a set of URLs next to it, which are its in-links and writes it to a file.
+   Ex: From Generated Graph:
+       Isothermal Carnot_heat_engine Hypercane Tropical_cyclone Thermal_wind
+
+   Isothermal is a wikipedia given by : "https://en.wikipedia.org/wiki/Isothermal" and it can be reached from URLs
+   "Carnot_heat_engine", "Hypercane", "Tropical_cyclone" and "Thermal_wind".
+3. We name this file "graph-1.txt"
+
+B. Obtaining Directed Graph for Depth First Crawler
+
+1. While we run the "web-crawler-dfs.py", it creates a file "url_list_dfs.txt" containing all the URLs it encountered
+   when traversing the web pages depth first.
+2. We take this "url_list_dfs.txt" as an input for our program that generates graph. "generate-graph.py", creates a
+   graph such that each URL has a set of URLs next to it, which are its in-links and writes it to a file.
+   Ex: From Generated Graph:
+       Association_(psychology) Tagline
+
+   Association_(psychology) is a wikipedia given by : "https://en.wikipedia.org/wiki/Association_(psychology)" and it
+   can be reached from URL "Tagline".
+3. We name this file "graph-2.txt".
+------------------------------------------------------------------------------------------------------------------------
+
+REPORT
+
+A. Report on Crawler implemented using Breadth First Traversal:
+
+Total Number of Pages Crawled = 952
+
+Total Number of Pages which have no in-links i.e., Sources = 0
+
+Total Number of Pages which have no out-links i.e., Sinks = 68
+
+Proportion of pages with no in-links (sources) = (Number of Pages with no in-links)/(Total Number of Pages Crawled)
+                                               = 0/952
+                                               = 0
+
+Proportion of pages with no out-links (sinks) = (Number of Pages with no out-links)/(Total Number of Pages Crawled)
+                                               = 68/952
+                                               = 0.07142857142
+
+B. Report on Crawler implemented using Depth First Traversal:
+
+Total Number of Pages Crawled = 974
+
+Total Number of Pages which have no in-links i.e., Sources = 0
+
+Total Number of Pages which have no out-links i.e., Sinks = 28
+
+Proportion of pages with no in-links (sources) = (Number of Pages with no in-links)/(Total Number of Pages Crawled)
+                                               = 0/974
+                                               = 0
+
+Proportion of pages with no out-links (sinks) = (Number of Pages with no out-links)/(Total Number of Pages Crawled)
+                                               = 28/974
+                                               = 0.02874743326

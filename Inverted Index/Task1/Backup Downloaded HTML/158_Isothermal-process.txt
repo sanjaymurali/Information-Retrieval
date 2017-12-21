@@ -1,0 +1,1319 @@
+https://en.wikipedia.org/wiki/Isothermal
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Isothermal process - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Isothermal_process","wgTitle":"Isothermal process","wgCurRevisionId":803078544,"wgRevisionId":803078544,"wgArticleId":409951,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages with missing ISBNs","Thermodynamic processes","Atmospheric thermodynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Isothermal_process","wgRelevantArticleId":409951,"wgRequestId":"Wc-yfgpAMFIAAEkJzZAAAAAD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Isothermal","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Isothermal_process","wgWikibaseItemId":"Q486921","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/1200px-Carnot_heat_engine_2.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Isothermal_process" rel="alternate"/>
+<link href="/w/index.php?title=Isothermal_process&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Isothermal_process&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Isothermal_process" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Isothermal_process rootpage-Isothermal_process vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Isothermal process</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Isothermal&amp;redirect=no" title="Isothermal">Isothermal</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.3em;border-bottom:1px solid #aaa;"><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;display:block;margin:0.3em 0 0.4em;"><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine"><img alt="Carnot heat engine 2.svg" data-file-height="370" data-file-width="840" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/330px-Carnot_heat_engine_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/440px-Carnot_heat_engine_2.svg.png 2x" width="220"/></a>
+<div style="padding-top:0.2em;line-height:1.2em">The classical <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Branches</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Classical</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Chemical</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Equilibrium_thermodynamics" title="Equilibrium thermodynamics">Equilibrium</a> / <a href="/wiki/Non-equilibrium_thermodynamics" title="Non-equilibrium thermodynamics">Non-equilibrium</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Zeroth_law_of_thermodynamics" title="Zeroth law of thermodynamics">Zeroth</a></li>
+<li><a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">First</a></li>
+<li><a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">Second</a></li>
+<li><a href="/wiki/Third_law_of_thermodynamics" title="Third law of thermodynamics">Third</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Systems</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_state" title="Thermodynamic state">State</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Ideal_gas" title="Ideal gas">Ideal gas</a></li>
+<li><a href="/wiki/Real_gas" title="Real gas">Real gas</a></li>
+<li><a href="/wiki/State_of_matter" title="State of matter">State of matter</a></li>
+<li><a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">Equilibrium</a></li>
+<li><a href="/wiki/Control_volume" title="Control volume">Control volume</a></li>
+<li><a href="/wiki/Thermodynamic_instruments" title="Thermodynamic instruments">Instruments</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_process" title="Thermodynamic process">Processes</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Isobaric_process" title="Isobaric process">Isobaric</a></li>
+<li><a href="/wiki/Isochoric_process" title="Isochoric process">Isochoric</a></li>
+<li><a class="mw-selflink selflink">Isothermal</a></li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic</a></li>
+<li><a href="/wiki/Isentropic_process" title="Isentropic process">Isentropic</a></li>
+<li><a href="/wiki/Isenthalpic_process" title="Isenthalpic process">Isenthalpic</a></li>
+<li><a href="/wiki/Quasistatic_process" title="Quasistatic process">Quasistatic</a></li>
+<li><a href="/wiki/Polytropic_process" title="Polytropic process">Polytropic</a></li>
+<li><a href="/wiki/Free_expansion" title="Free expansion">Free expansion</a></li>
+<li><a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">Reversibility</a></li>
+<li><a href="/wiki/Irreversible_process" title="Irreversible process">Irreversibility</a></li>
+<li><a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">Endoreversibility</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Cycles</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Heat_engine" title="Heat engine">Heat engines</a></li>
+<li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pumps</a></li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/List_of_thermodynamic_properties" title="List of thermodynamic properties">System properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div style="font-size:90%;padding-bottom:0.2em;border-bottom:1px solid #aaa;">Note: <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">Conjugate variables</a> in <i>italics</i></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;margin-top:0.4em;">
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">Property diagrams</a></li>
+<li><a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">Intensive and extensive properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/State_function" title="State function">Functions of state</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Temperature</a> / <i><a href="/wiki/Entropy" title="Entropy">Entropy</a></i> (<a href="/wiki/Introduction_to_entropy" title="Introduction to entropy">introduction</a>)</li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a> / <i><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume</a></i></li>
+<li><a href="/wiki/Chemical_potential" title="Chemical potential">Chemical potential</a> / <i><a href="/wiki/Particle_number" title="Particle number">Particle number</a></i></li>
+<li><a href="/wiki/Vapor_quality" title="Vapor quality">Vapor quality</a></li>
+<li><a href="/wiki/Reduced_properties" title="Reduced properties">Reduced properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Process_function" title="Process function">Process functions</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;;padding-bottom:0.4em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">Work</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Material_properties_(thermodynamics)" title="Material properties (thermodynamics)">Material properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Thermodynamic_databases_for_pure_substances" title="Thermodynamic databases for pure substances">Property databases</a></li>
+</ul>
+<div style="font-size:90%;margin-top:0.4em;border-top:1px solid #aaa;text-align:center;">
+<table>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Heat_capacity" title="Heat capacity">Specific heat capacity</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=}</annotation>
+</semantics>
+</math></span><img alt="c=" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/891d40a9b18752b04065caee655d008b3ec11428" style="vertical-align: -0.338ex; width:3.481ex; height:1.676ex;"/></span></td>
+<td>
+<table>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial S}</annotation>
+</semantics>
+</math></span><img alt="\partial S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c609f4d3c5692ea4495479ef47594dc67f9fa464" style="vertical-align: -0.338ex; width:2.838ex; height:2.343ex;"/></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="N" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;"/></span></td>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;"/></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Compressibility" title="Compressibility">Compressibility</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>β<!-- β --></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta =-}</annotation>
+</semantics>
+</math></span><img alt="\beta =-" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b01c042bf1456bd4d2a8caed1f4912820a7ecbb3" style="vertical-align: -0.671ex; width:6.27ex; height:2.509ex;"/></span></td>
+<td>
+<table>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;"/></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;"/></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/></span></td>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial p}</annotation>
+</semantics>
+</math></span><img alt="\partial p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebc4a48eb2412f08b54fe438b5139c88f9cfa372" style="vertical-align: -0.671ex; width:2.508ex; height:2.676ex;"/></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Thermal_expansion" title="Thermal expansion">Thermal expansion</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =}</annotation>
+</semantics>
+</math></span><img alt="\alpha =" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a92d4583d351f08c1c70985f0c843b2fff1b01e7" style="vertical-align: -0.338ex; width:3.962ex; height:1.676ex;"/></span></td>
+<td>
+<table>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;"/></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;"/></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/></span></td>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;"/></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_equations" title="Thermodynamic equations">Equations</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem</a></li>
+<li><a href="/wiki/Clausius_theorem" title="Clausius theorem">Clausius theorem</a></li>
+<li><a href="/wiki/Fundamental_thermodynamic_relation" title="Fundamental thermodynamic relation">Fundamental relation</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Maxwell_relations" title="Maxwell relations">Maxwell relations</a></li>
+<li><a href="/wiki/Onsager_reciprocal_relations" title="Onsager reciprocal relations">Onsager reciprocal relations</a></li>
+<li><a href="/wiki/Bridgman%27s_thermodynamic_equations" title="Bridgman's thermodynamic equations">Bridgman's equations</a></li>
+<li><i><a href="/wiki/Table_of_thermodynamic_equations" title="Table of thermodynamic equations">Table of thermodynamic equations</a></i></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Potentials</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">Free energy</a></li>
+<li><a href="/wiki/Free_entropy" title="Free entropy">Free entropy</a></li>
+</ul>
+</div>
+<div class="plainlist">
+<ul>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Internal_energy" title="Internal energy">Internal energy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U(S,V)}</annotation>
+</semantics>
+</math></span><img alt="U(S,V)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/921f33f9c6551562ec836007b035c2de6323d2d6" style="vertical-align: -0.838ex; width:7.975ex; height:2.843ex;"/></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H(S,p)=U+pV}</annotation>
+</semantics>
+</math></span><img alt="H(S,p)=U+pV" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6407d78e5f39d07f70e2414a92e08e2e068519f3" style="vertical-align: -0.838ex; width:18.369ex; height:2.843ex;"/></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A(T,V)=U-TS}</annotation>
+</semantics>
+</math></span><img alt="A(T,V)=U-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e93692f031ba6484d82731c54db83a69daed3f0" style="vertical-align: -0.838ex; width:18.982ex; height:2.843ex;"/></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G(T,p)=H-TS}</annotation>
+</semantics>
+</math></span><img alt="G(T,p)=H-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dd7a8f0b8ae04963da133e3b202432e1b6caed4" style="vertical-align: -0.838ex; width:18.729ex; height:2.843ex;"/></span></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+<div class="hlist hlist-separated">
+<ul>
+<li>History</li>
+<li>Culture</li>
+</ul>
+</div>
+</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">History</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">General</a></li>
+<li><a href="/wiki/History_of_heat" title="History of heat">Heat</a></li>
+<li><a href="/wiki/History_of_entropy" title="History of entropy">Entropy</a></li>
+<li><a href="/wiki/Gas_laws" title="Gas laws">Gas laws</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/History_of_perpetual_motion_machines" title="History of perpetual motion machines">"Perpetual motion" machines</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">Philosophy</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Entropy_(arrow_of_time)" title="Entropy (arrow of time)">Entropy and time</a></li>
+<li><a href="/wiki/Entropy_and_life" title="Entropy and life">Entropy and life</a></li>
+<li><a href="/wiki/Brownian_ratchet" title="Brownian ratchet">Brownian ratchet</a></li>
+<li><a href="/wiki/Maxwell%27s_demon" title="Maxwell's demon">Maxwell's demon</a></li>
+<li><a href="/wiki/Heat_death_paradox" title="Heat death paradox">Heat death paradox</a></li>
+<li><a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">Loschmidt's paradox</a></li>
+<li><a href="/wiki/Synergetics_(Haken)" title="Synergetics (Haken)">Synergetics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Theories</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Caloric_theory" title="Caloric theory">Caloric theory</a></li>
+<li><a href="/wiki/Theory_of_heat" title="Theory of heat">Theory of heat</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Vis_viva" title="Vis viva"><i>Vis viva</i> <span style="font-size:90%;">("living force")</span></a></li>
+<li><a href="/wiki/Mechanical_equivalent_of_heat" title="Mechanical equivalent of heat">Mechanical equivalent of heat</a></li>
+<li><a href="/wiki/Motive_power" title="Motive power">Motive power</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/List_of_important_publications_in_physics" title="List of important publications in physics">Key publications</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/An_Experimental_Enquiry_Concerning_the_Source_of_the_Heat_which_is_Excited_by_Friction" title="An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction">An Experimental Enquiry<br/>
+Concerning ... Heat</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/On_the_Equilibrium_of_Heterogeneous_Substances" title="On the Equilibrium of Heterogeneous Substances">On the Equilibrium of<br/>
+Heterogeneous Substances</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/Reflections_on_the_Motive_Power_of_Fire" title="Reflections on the Motive Power of Fire">Reflections on the<br/>
+Motive Power of Fire</a>"</div>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Timelines</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Heat engines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<div class="hlist hlist-separated">
+<ul>
+<li>Art</li>
+<li>Education</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">Maxwell's thermodynamic surface</a></li>
+<li><a href="/wiki/Entropy_(energy_dispersal)" title="Entropy (energy dispersal)">Entropy as energy dispersal</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Scientists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Bernoulli</a></li>
+<li><a href="/wiki/Ludwig_Boltzmann" title="Ludwig Boltzmann">Boltzmann</a></li>
+<li><a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Carnot</a></li>
+<li><a href="/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron" title="Benoît Paul Émile Clapeyron">Clapeyron</a></li>
+<li><a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Clausius</a></li>
+<li><a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">Carathéodory</a></li>
+<li><a href="/wiki/Pierre_Duhem" title="Pierre Duhem">Duhem</a></li>
+<li><a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Gibbs</a></li>
+<li><a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">von Helmholtz</a></li>
+<li><a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">Joule</a></li>
+<li><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a></li>
+<li><a href="/wiki/Julius_von_Mayer" title="Julius von Mayer">von Mayer</a></li>
+<li><a href="/wiki/Lars_Onsager" title="Lars Onsager">Onsager</a></li>
+<li><a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">Rankine</a></li>
+<li><a href="/wiki/John_Smeaton" title="John Smeaton">Smeaton</a></li>
+<li><a href="/wiki/Georg_Ernst_Stahl" title="Georg Ernst Stahl">Stahl</a></li>
+<li><a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">Thompson</a></li>
+<li><a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Thomson</a></li>
+<li><a href="/wiki/Johannes_Diderik_van_der_Waals" title="Johannes Diderik van der Waals">van der Waals</a></li>
+<li><a href="/wiki/John_James_Waterston" title="John James Waterston">Waterston</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/Book:Thermodynamics" title="Book:Thermodynamics">Book:Thermodynamics</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Thermodynamics_sidebar" title="Template:Thermodynamics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamics_sidebar" title="Template talk:Thermodynamics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>An <b>isothermal process</b> is a <a href="/wiki/Thermodynamic_process" title="Thermodynamic process">change</a> of a <i>system</i>, in which the <a href="/wiki/Temperature" title="Temperature">temperature</a> remains constant: Δ<i>T</i> = 0. This typically occurs when a system is in contact with an outside thermal reservoir (<a class="mw-redirect" href="/wiki/Heat_bath" title="Heat bath">heat bath</a>), and the change will occur slowly enough to allow the system to continually adjust to the temperature of the reservoir through <a href="/wiki/Heat" title="Heat">heat</a> exchange. In contrast, an <i><a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic process</a></i> is where a system exchanges no heat with its surroundings (<i>Q</i> = 0). In other words, in an isothermal process, the value Δ<i>T</i> = 0 and therefore Δ<i>U</i> = 0 (only for an ideal gas) but Q ≠ 0, while in an adiabatic process, Δ<i>T</i> ≠ 0 but Q = 0.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Details_for_an_ideal_gas"><span class="tocnumber">2</span> <span class="toctext">Details for an ideal gas</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Calculation_of_work"><span class="tocnumber">3</span> <span class="toctext">Calculation of work</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Entropy_changes"><span class="tocnumber">4</span> <span class="toctext">Entropy changes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Etymology"><span class="tocnumber">5</span> <span class="toctext">Etymology</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isothermal_process&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Isothermal processes can occur in any kind of system that has some means of regulating the temperature, including highly structured <a class="mw-redirect" href="/wiki/Machines" title="Machines">machines</a>, and even <a href="/wiki/Life" title="Life">living</a> cells. Some parts of the cycles of some <a href="/wiki/Heat_engine" title="Heat engine">heat engines</a> are carried out isothermally (for example, in the <a href="/wiki/Carnot_cycle" title="Carnot cycle">Carnot cycle</a>).<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> In the thermodynamic analysis of <a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">chemical reactions</a>, it is usual to first analyze what happens under isothermal conditions and then consider the effect of temperature.<sup class="reference" id="cite_ref-:Rock_2-0"><a href="#cite_note-:Rock-2">[2]</a></sup> <a class="mw-redirect" href="/wiki/Phase_changes" title="Phase changes">Phase changes</a>, such as <a href="/wiki/Melting" title="Melting">melting</a> or <a href="/wiki/Evaporation" title="Evaporation">evaporation</a>, are also isothermal processes when, as is usually the case, they occur at constant pressure.<sup class="reference" id="cite_ref-Petrucci_3-0"><a href="#cite_note-Petrucci-3">[3]</a></sup> Isothermal processes are often used and a starting point in analyzing more complex, non-isothermal processes.</p>
+<p>Isothermal processes are of special interest for ideal gases. This is a consequence of <a href="/wiki/Joule_effect#Joule.27s_second_law" title="Joule effect">Joule's second law</a> which states that the <a href="/wiki/Internal_energy" title="Internal energy">internal energy</a> of a fixed amount of an ideal gas depends only on its temperature.<sup class="reference" id="cite_ref-Klotz_4-0"><a href="#cite_note-Klotz-4">[4]</a></sup> Thus, in an isothermal process the internal energy of an ideal gas is constant. This is a result of the fact that in an ideal gas there are no <a class="mw-redirect" href="/wiki/Intermolecular_forces" title="Intermolecular forces">intermolecular forces</a>.<sup class="reference" id="cite_ref-Klotz_4-1"><a href="#cite_note-Klotz-4">[4]</a></sup> Note that this is true only for ideal gases; the internal energy depends on pressure as well as on temperature for liquids, solids, and real gases.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>In the isothermal compression of a gas there is work done on the system to decrease the volume and increase the pressure.<sup class="reference" id="cite_ref-Klotz_4-2"><a href="#cite_note-Klotz-4">[4]</a></sup> Doing work on the gas increases the internal energy and will tend to increase the temperature. To maintain the constant temperature energy must leave the system as heat and enter the environment. If the gas is ideal, the amount of energy entering the environment is equal to the work done on the gas, because internal energy does not change. For details of the calculations, see <a href="/wiki/Isothermal_process#Calculation_of_work" title="Isothermal process">calculation of work</a>.</p>
+<p>For an <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic process</a>, in which no heat flows into or out of the gas because its container is well insulated, <i>Q</i> = 0. If there is also no work done, i.e. a <a href="/wiki/Joule_expansion" title="Joule expansion">free expansion</a>, there is no change in internal energy. For an ideal gas, this means that the process is also isothermal.<sup class="reference" id="cite_ref-Klotz_4-3"><a href="#cite_note-Klotz-4">[4]</a></sup> Thus, specifying that a process is isothermal is not sufficient to specify a unique process.</p>
+<h2><span class="mw-headline" id="Details_for_an_ideal_gas">Details for an ideal gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isothermal_process&amp;action=edit&amp;section=2" title="Edit section: Details for an ideal gas">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Ideal_gas_isotherms.png"><img alt="" class="thumbimage" data-file-height="1386" data-file-width="1504" height="203" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ideal_gas_isotherms.png/220px-Ideal_gas_isotherms.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ideal_gas_isotherms.png/330px-Ideal_gas_isotherms.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e2/Ideal_gas_isotherms.png/440px-Ideal_gas_isotherms.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ideal_gas_isotherms.png" title="Enlarge"></a></div>
+<b>Figure 1.</b> Several isotherms of an ideal gas on a p-V diagram</div>
+</div>
+</div>
+<p>For the special case of a gas to which <a href="/wiki/Boyle%27s_law" title="Boyle's law">Boyle's law</a><sup class="reference" id="cite_ref-Klotz_4-4"><a href="#cite_note-Klotz-4">[4]</a></sup> applies, the product <i>pV</i> is a constant if the gas is kept at isothermal conditions. The value of the constant is <i>nRT</i>, where <i>n</i> is the number of moles of gas present and <i>R</i> is the <a class="mw-redirect" href="/wiki/Ideal_gas_constant" title="Ideal gas constant">ideal gas constant</a>. In other words, the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a> <i>pV</i> = <i>nRT</i> applies.<sup class="reference" id="cite_ref-Klotz_4-5"><a href="#cite_note-Klotz-4">[4]</a></sup> This means that</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>V</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>constant</mtext>
+</mrow>
+<mi>V</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p={nRT \over V}={{\text{constant}} \over V}}</annotation>
+</semantics>
+</math></span><img alt="p={nRT \over V}={{\text{constant}} \over V}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31bf02a5a314197711d400cfcd2dbb0a31ccca30" style="vertical-align: -2.005ex; margin-left: -0.079ex; width:22.727ex; height:5.509ex;"/></span></dd>
+</dl>
+<p>holds. The family of curves generated by this equation is shown in the graph in Figure 1. Each curve is called an isotherm. Such graphs are termed <a class="mw-redirect" href="/wiki/Indicator_diagram" title="Indicator diagram">indicator diagrams</a> and were first used by <a href="/wiki/James_Watt" title="James Watt">James Watt</a> and others to monitor the efficiency of engines. The temperature corresponding to each curve in the figure increases from the lower left to the upper right.</p>
+<h2><span class="mw-headline" id="Calculation_of_work">Calculation of work</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isothermal_process&amp;action=edit&amp;section=3" title="Edit section: Calculation of work">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Isothermal_process.svg"><img alt="" class="thumbimage" data-file-height="375" data-file-width="375" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Isothermal_process.svg/220px-Isothermal_process.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Isothermal_process.svg/330px-Isothermal_process.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Isothermal_process.svg/440px-Isothermal_process.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Isothermal_process.svg" title="Enlarge"></a></div>
+<b>Figure 2.</b> The purple area represents the <a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">work</a> for this isothermal change</div>
+</div>
+</div>
+<p>In thermodynamics, the reversible <a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">work</a> involved when a gas changes from state <i>A</i> to state <i>B</i> is<sup class="reference" id="cite_ref-:Atkins_6-0"><a href="#cite_note-:Atkins-6">[6]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mi>B</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mrow>
+</msubsup>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W_{A\to B}=-\int _{V_{A}}^{V_{B}}p\,dV}</annotation>
+</semantics>
+</math></span><img alt="W_{{A\to B}}=-\int _{{V_{A}}}^{{V_{B}}}p\,dV" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d4811743ab3c4aa65c5e14f987669e5f3064dd80" style="vertical-align: -2.838ex; width:21.73ex; height:6.843ex;"/></span></dd>
+</dl>
+<p>For an isothermal, <a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">reversible</a> process, this integral equals the area under the relevant pressure-volume isotherm, and is indicated in purple in Figure 2 for an ideal gas. Again, <i>p</i> = <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><i>nRT</i></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;"><i>V</i></span></span> applies and with <i>T</i> being constant (as this is an isothermal process), the expression for work becomes:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+<mo stretchy="false">→<!-- → --></mo>
+<mi>B</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mrow>
+</msubsup>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>V</mi>
+</mfrac>
+</mrow>
+<mi>d</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>V</mi>
+</mfrac>
+</mrow>
+<mi>d</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>A</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle W_{A\to B}=-\int _{V_{A}}^{V_{B}}p\,dV=-\int _{V_{A}}^{V_{B}}{\frac {nRT}{V}}dV=-nRT\int _{V_{A}}^{V_{B}}{\frac {1}{V}}dV=-nRT\ln {\frac {V_{B}}{V_{A}}}}</annotation>
+</semantics>
+</math></span><img alt="W_{{A\to B}}=-\int _{{V_{A}}}^{{V_{B}}}p\,dV=-\int _{{V_{A}}}^{{V_{B}}}{\frac  {nRT}{V}}dV=-nRT\int _{{V_{A}}}^{{V_{B}}}{\frac  {1}{V}}dV=-nRT\ln {{\frac  {V_{B}}{V_{A}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/42ac649e31084bc3ed53da900825a099bcad48c9" style="vertical-align: -2.838ex; width:78.192ex; height:6.843ex;"/></span></dd>
+</dl>
+<p>By convention, work is defined as the work on the system by its surroundings. If, for example, the system is compressed, then the work is positive and the internal energy of the system increases. Conversely, if the system expands, it does work on the surroundings and the internal energy of the system decreases.</p>
+<p>It is also worth noting that for ideal gases, if the temperature is held constant, the internal energy of the system also is constant, and so Δ<i>U</i> = 0. Since the <a class="mw-redirect" href="/wiki/First_Law_of_Thermodynamics" title="First Law of Thermodynamics">First Law of Thermodynamics</a> states that Δ<i>U</i> = <i>Q</i> + <i>W</i> (<a class="mw-redirect" href="/wiki/IUPAC" title="IUPAC">IUPAC</a> convention), it follows that <i>Q</i> = −<i>W</i> for the isothermal compression or expansion of ideal gases.</p>
+<h2><span class="mw-headline" id="Entropy_changes">Entropy changes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isothermal_process&amp;action=edit&amp;section=4" title="Edit section: Entropy changes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Isothermal processes are especially convenient for calculating changes in <a href="/wiki/Entropy" title="Entropy">entropy</a> since, in this case, the formula for the entropy change, Δ<i>S</i>, is simply</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>rev</mtext>
+</mrow>
+</msub>
+<mi>T</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S={\frac {Q_{\text{rev}}}{T}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S={\frac {Q_{\text{rev}}}{T}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3db8e564be8d2d6901d6e6b73cb62d68a8c83a1f" style="vertical-align: -1.838ex; width:11.747ex; height:5.509ex;"/></span></dd>
+</dl>
+<p>where <i>Q</i><sub>rev</sub> is the heat transferred reversibly to the system and <i>T</i> is <a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">absolute temperature</a>.<sup class="reference" id="cite_ref-Atkins4_7-0"><a href="#cite_note-Atkins4-7">[7]</a></sup> This formula is valid only for a hypothetical <a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">reversible process</a>; that is, a process in which equilibrium is maintained at all times.</p>
+<p>A simple example is an equilibrium phase transition (such as melting or evaporation) taking place at constant temperature and pressure. For a phase transition at constant pressure, the heat transferred to the system is equal to the <a href="/wiki/Thermodynamic_databases_for_pure_substances#Enthalpy_change_of_phase_transitions" title="Thermodynamic databases for pure substances">enthalpy of transformation</a>, Δ<i>H</i><sub>tr</sub>, thus <i>Q</i> = Δ<i>H</i><sub>tr</sub>.<sup class="reference" id="cite_ref-Petrucci_3-1"><a href="#cite_note-Petrucci-3">[3]</a></sup> At any given pressure, there will be a transition temperature, <i>T</i><sub>tr</sub>, for which the two phases are in equilibrium (for example, the normal <a href="/wiki/Boiling_point" title="Boiling point">boiling point</a> for vaporization of a liquid at one atmosphere pressure). If the transition takes place under such equilibrium conditions, the formula above may be used to directly calculate the entropy change<sup class="reference" id="cite_ref-Atkins4_7-1"><a href="#cite_note-Atkins4-7">[7]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>tr</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<msub>
+<mi>H</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>tr</mtext>
+</mrow>
+</msub>
+</mrow>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>tr</mtext>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S_{\text{tr}}={\frac {\Delta H_{\text{tr}}}{T_{\text{tr}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S_{\text{tr}}={\frac {\Delta H_{\text{tr}}}{T_{\text{tr}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1069477f6a039422141b46fed47fd2fae6be6273" style="vertical-align: -2.338ex; width:14.277ex; height:5.843ex;"/></span>.</dd>
+</dl>
+<p>Another example is the reversible isothermal expansion (or compression) of an <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a> from an initial volume <i>V</i><sub>A</sub> and pressure <i>P</i><sub>A</sub> to a final volume <i>V</i><sub>B</sub> and pressure <i>P</i><sub>B</sub>. As shown in <a href="#Calculation_of_work">Calculation of work</a>, the heat transferred to the gas is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>Q</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>W</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Q=-W=nRT\ln {\frac {V_{\text{B}}}{V_{\text{A}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Q=-W=nRT\ln {\frac {V_{\text{B}}}{V_{\text{A}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d4ba7da664188aa28af48230fdbee3c7aa87109" style="vertical-align: -2.338ex; width:23.566ex; height:5.843ex;"/></span>.</dd>
+</dl>
+<p>This result is for a reversible process, so it may be substituted in the formula for the entropy change to obtain<sup class="reference" id="cite_ref-Atkins4_7-2"><a href="#cite_note-Atkins4-7">[7]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S=nR\ln {\frac {V_{\text{B}}}{V_{\text{A}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S=nR\ln {\frac {V_{\text{B}}}{V_{\text{A}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/36d50e4e2c89c4962f7845cf9dcf72025744ed11" style="vertical-align: -2.338ex; width:16.153ex; height:5.843ex;"/></span>.</dd>
+</dl>
+<p>Since an ideal gas obey's <a class="mw-redirect" href="/wiki/Boyle%27s_Law" title="Boyle's Law">Boyle's Law</a>, this can be rewritten, if desired, as</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>S</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>A</mtext>
+</mrow>
+</msub>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>B</mtext>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta S=nR\ln {\frac {P_{\text{A}}}{P_{\text{B}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta S=nR\ln {\frac {P_{\text{A}}}{P_{\text{B}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8c89ebcffdf80998261d6255b8774e235a885d10" style="vertical-align: -2.338ex; width:16.29ex; height:5.843ex;"/></span>.</dd>
+</dl>
+<p>Once obtained, these formulas can be applied to an <a href="/wiki/Irreversible_process" title="Irreversible process">irreversible process</a>, such as the <a href="/wiki/Joule_expansion" title="Joule expansion">free expansion</a> of an ideal gas. Such an expansion is also isothermal and may have the same initial and final states as in the reversible expansion. Since entropy is a <a href="/wiki/State_function" title="State function">state function</a>, the change in entropy of the system is the same as in the reversible process and is given by the formulas above. Note that the result <i>Q</i> = 0 for the free expansion can not be used in the formula for the entropy change since the process is not reversible.</p>
+<p>The difference between the reversible and free expansions is found in the entropy of the surroundings. In both cases, the surroundings are at a constant temperature, <i>T</i>, so that Δ<i>S</i><sub>sur</sub> = −<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;"><i>Q</i></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;"><i>T</i></span></span>; the minus sign is used since the heat transferred to the surroundings is equal in magnitude and opposite in sign to the heat, <i>Q</i>, transferred to the system. In the reversible case, the change in entropy of the surroundings is equal and opposite to the change in the system, so the change in entropy of the universe is zero. In the free expansion, <i>Q</i> = 0, so the entropy of the surroundings does not change and the change in entropy of the universe is equal to Δ<i>S</i> for the system.</p>
+<h2><span class="mw-headline" id="Etymology">Etymology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isothermal_process&amp;action=edit&amp;section=5" title="Edit section: Etymology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The adjective "isothermal" is derived from the <a href="/wiki/Ancient_Greek" title="Ancient Greek">Greek</a> words ἴσος <i>(</i>isos<i>) meaning "equal", and θέρμη (</i>therme<i>) meaning "heat."</i></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isothermal_process&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Joule%E2%80%93Thomson_effect" title="Joule–Thomson effect">Joule–Thomson effect</a></li>
+<li><a href="/wiki/Joule_expansion" title="Joule expansion">Joule expansion</a> (also called free expansion)</li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic process</a></li>
+<li><a class="mw-redirect" href="/wiki/Cyclic_process" title="Cyclic process">Cyclic process</a></li>
+<li><a href="/wiki/Isobaric_process" title="Isobaric process">Isobaric process</a></li>
+<li><a href="/wiki/Isochoric_process" title="Isochoric process">Isochoric process</a></li>
+<li><a href="/wiki/Polytropic_process" title="Polytropic process">Polytropic process</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isothermal_process&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation book">Keenan, J. H. (1970). "Chapter 12: Heat-engine cycles". <i>Thermodynamics</i>. Cambridge, MA: MIT Press.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsothermal+process&amp;rft.atitle=Chapter+12%3A+Heat-engine+cycles&amp;rft.aufirst=J.+H.&amp;rft.aulast=Keenan&amp;rft.btitle=Thermodynamics&amp;rft.date=1970&amp;rft.genre=bookitem&amp;rft.place=Cambridge%2C+MA&amp;rft.pub=MIT+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-:Rock-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-:Rock_2-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Rock, P. A. (1983). "Chapter 11: Thermodynamics of chemical reactions". <i>Chemical Thermodynamics</i>. Mill Valley, CA: University Science Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-935702-12-1" title="Special:BookSources/0-935702-12-1">0-935702-12-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsothermal+process&amp;rft.atitle=Chapter+11%3A+Thermodynamics+of+chemical+reactions&amp;rft.aufirst=P.+A.&amp;rft.aulast=Rock&amp;rft.btitle=Chemical+Thermodynamics&amp;rft.date=1983&amp;rft.genre=bookitem&amp;rft.isbn=0-935702-12-1&amp;rft.place=Mill+Valley%2C+CA&amp;rft.pub=University+Science+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Petrucci-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-Petrucci_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Petrucci_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Petrucci, R. H.; Harwood, W. S.; Herring, F. G.; Madura, J. D. (2007). "Chapter 12". <i>General Chemistry</i>. Upper Saddle River, NJ: Pearson. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-13-149330-2" title="Special:BookSources/0-13-149330-2">0-13-149330-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsothermal+process&amp;rft.atitle=Chapter+12&amp;rft.au=Harwood%2C+W.+S.&amp;rft.au=Herring%2C+F.+G.&amp;rft.au=Madura%2C+J.+D.&amp;rft.aufirst=R.+H.&amp;rft.aulast=Petrucci&amp;rft.btitle=General+Chemistry&amp;rft.date=2007&amp;rft.genre=bookitem&amp;rft.isbn=0-13-149330-2&amp;rft.place=Upper+Saddle+River%2C+NJ&amp;rft.pub=Pearson&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Klotz-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-Klotz_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Klotz_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Klotz_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Klotz_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Klotz_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-Klotz_4-5"><sup><i><b>f</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Klotz, I. M.; Rosenberg, R. M. (1991). "Chapter 6, Application of the first law to gases". <i>Chemical Thermodynamics</i>. Meno Park, CA: Benjamin.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsothermal+process&amp;rft.atitle=Chapter+6%2C+Application+of+the+first+law+to+gases&amp;rft.au=Rosenberg%2C+R.+M.&amp;rft.aufirst=I.+M.&amp;rft.aulast=Klotz&amp;rft.btitle=Chemical+Thermodynamics&amp;rft.date=1991&amp;rft.genre=bookitem&amp;rft.place=Meno+Park%2C+CA&amp;rft.pub=Benjamin&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="Please supply an ISBN for this book.">ISBN missing</span></a></i>]</sup></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Adkins, C. J. (1983). <i>Equilibrium Thermodynamics</i>. Cambridge: Cambridge University Press.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsothermal+process&amp;rft.aufirst=C.+J.&amp;rft.aulast=Adkins&amp;rft.btitle=Equilibrium+Thermodynamics&amp;rft.date=1983&amp;rft.genre=book&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources"><span title="Please supply an ISBN for this book.">ISBN missing</span></a></i>]</sup></span></li>
+<li id="cite_note-:Atkins-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-:Atkins_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Atkins, Peter (1997). "Chapter 2: The first law: the concepts". <i>Physical Chemistry</i> (6th ed.). New York, NY: W. H. Freeman and Co. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7167-2871-0" title="Special:BookSources/0-7167-2871-0">0-7167-2871-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsothermal+process&amp;rft.atitle=Chapter+2%3A+The+first+law%3A+the+concepts&amp;rft.aufirst=Peter&amp;rft.aulast=Atkins&amp;rft.btitle=Physical+Chemistry&amp;rft.date=1997&amp;rft.edition=6th&amp;rft.genre=bookitem&amp;rft.isbn=0-7167-2871-0&amp;rft.place=New+York%2C+NY&amp;rft.pub=W.+H.+Freeman+and+Co&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Atkins4-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Atkins4_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Atkins4_7-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Atkins4_7-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Atkins, Peter (1997). "Chapter 4: The second law: the concepts". <i>Physical Chemistry</i> (6th ed.). New York, NY: W. H. Freeman and Co. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7167-2871-0" title="Special:BookSources/0-7167-2871-0">0-7167-2871-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsothermal+process&amp;rft.atitle=Chapter+4%3A+The+second+law%3A+the+concepts&amp;rft.aufirst=Peter&amp;rft.aulast=Atkins&amp;rft.btitle=Physical+Chemistry&amp;rft.date=1997&amp;rft.edition=6th&amp;rft.genre=bookitem&amp;rft.isbn=0-7167-2871-0&amp;rft.place=New+York%2C+NY&amp;rft.pub=W.+H.+Freeman+and+Co&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1287
+Cached time: 20170930091659
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.216 seconds
+Real time usage: 1.423 seconds
+Preprocessor visited node count: 1042/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 56019/2097152 bytes
+Template argument size: 717/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.074/10.000 seconds
+Lua memory usage: 3.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  189.022      1 -total
+ 60.52%  114.393      1 Template:Reflist
+ 34.60%   65.401      7 Template:Cite_book
+ 32.20%   60.866      1 Template:Thermodynamics
+ 16.86%   31.862      2 Template:ISBN_missing
+ 15.77%   29.815      1 Template:Fix
+ 11.51%   21.759      1 Template:Category_handler
+  7.06%   13.340      3 Template:Sidebar
+  3.08%    5.826      1 Template:Delink
+  3.06%    5.780      1 Template:Unbulleted_list
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:409951-0!canonical!math=5 and timestamp 20170930091711 and revision id 803078544
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Isothermal_process&amp;oldid=803078544">https://en.wikipedia.org/w/index.php?title=Isothermal_process&amp;oldid=803078544</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Thermodynamic_processes" title="Category:Thermodynamic processes">Thermodynamic processes</a></li><li><a href="/wiki/Category:Atmospheric_thermodynamics" title="Category:Atmospheric thermodynamics">Atmospheric thermodynamics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_with_missing_ISBNs" title="Category:Pages with missing ISBNs">Pages with missing ISBNs</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Isothermal+process" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Isothermal+process" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Isothermal_process" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Isothermal_process" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Isothermal_process">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Isothermal_process&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Isothermal_process&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Isothermal_process" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Isothermal_process" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Isothermal_process&amp;oldid=803078544" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Isothermal_process&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q486921" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Isothermal_process&amp;id=803078544" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Isothermal+process">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Isothermal+process&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DIsothermal%2Bprocess%26returnto%3DIsothermal%2Bprocess%26oldid%3D803078544%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Isothermal_process&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Isothermal_processes" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%84%D9%8A%D8%A9_%D9%85%D8%AA%D8%B3%D8%A7%D9%88%D9%8A%D8%A9_%D8%AF%D8%B1%D8%AC%D8%A9_%D8%A7%D9%84%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9" hreflang="ar" lang="ar" title="عملية متساوية درجة الحرارة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az badge-Q17437796 badge-featuredarticle" title="featured article"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C4%B0zotermik_proses" hreflang="az" lang="az" title="İzotermik proses – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%86%D0%B7%D0%B0%D1%82%D1%8D%D1%80%D0%BC%D1%96%D1%87%D0%BD%D1%8B_%D0%BF%D1%80%D0%B0%D1%86%D1%8D%D1%81" hreflang="be" lang="be" title="Ізатэрмічны працэс – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B5%D0%BD_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81" hreflang="bg" lang="bg" title="Изотермен процес – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Izotermni_proces" hreflang="bs" lang="bs" title="Izotermni proces – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Proc%C3%A9s_isot%C3%A8rmic" hreflang="ca" lang="ca" title="Procés isotèrmic – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Izotermick%C3%BD_d%C4%9Bj" hreflang="cs" lang="cs" title="Izotermický děj – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Isoterm" hreflang="da" lang="da" title="Isoterm – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Isotherme_Zustands%C3%A4nderung" hreflang="de" lang="de" title="Isotherme Zustandsänderung – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Isotermiline_protsess" hreflang="et" lang="et" title="Isotermiline protsess – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%99%CF%83%CF%8C%CE%B8%CE%B5%CF%81%CE%BC%CE%B7_%CE%BC%CE%B5%CF%84%CE%B1%CE%B2%CE%BF%CE%BB%CE%AE" hreflang="el" lang="el" title="Ισόθερμη μεταβολή – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Proceso_isot%C3%A9rmico" hreflang="es" lang="es" title="Proceso isotérmico – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Izotemperatura_procezo" hreflang="eo" lang="eo" title="Izotemperatura procezo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%DB%8C%D9%86%D8%AF_%D9%87%D9%85%E2%80%8C%D8%AF%D9%85%D8%A7" hreflang="fa" lang="fa" title="فرایند هم‌دما – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Processus_isotherme" hreflang="fr" lang="fr" title="Processus isotherme – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Pr%C3%B3iseas_isiteirmeach" hreflang="ga" lang="ga" title="Próiseas isiteirmeach – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Proceso_isot%C3%A9rmico" hreflang="gl" lang="gl" title="Proceso isotérmico – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%93%B1%EC%98%A8%EA%B3%BC%EC%A0%95" hreflang="ko" lang="ko" title="등온과정 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%BB%D5%A6%D5%B8%D5%A9%D5%A5%D6%80%D5%B4_%D5%BA%D6%80%D5%B8%D6%81%D5%A5%D5%BD" hreflang="hy" lang="hy" title="Իզոթերմ պրոցես – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A4%A4%E0%A4%BE%E0%A4%AA%E0%A5%80_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE" hreflang="hi" lang="hi" title="समतापी प्रक्रम – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Isoterma_(termodinamica)" hreflang="it" lang="it" title="Isoterma (termodinamica) – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%AA%D7%94%D7%9C%D7%99%D7%9A_%D7%90%D7%99%D7%96%D7%95%D7%AA%D7%A8%D7%9E%D7%99" hreflang="he" lang="he" title="תהליך איזותרמי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B0%D0%BB%D1%8B%D2%9B_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81" hreflang="kk" lang="kk" title="Изотермалық процесс – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Izoterminis_procesas" hreflang="lt" lang="lt" title="Izoterminis procesas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Izoterm_%C3%A1llapotv%C3%A1ltoz%C3%A1s" hreflang="hu" lang="hu" title="Izoterm állapotváltozás – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Isotherm_proces" hreflang="nl" lang="nl" title="Isotherm proces – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%AD%89%E6%B8%A9%E9%81%8E%E7%A8%8B" hreflang="ja" lang="ja" title="等温過程 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Isotermprosess" hreflang="no" lang="no" title="Isotermprosess – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Isoterm_prosess" hreflang="nn" lang="nn" title="Isoterm prosess – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Izotermik_jarayon" hreflang="uz" lang="uz" title="Izotermik jarayon – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Przemiana_izotermiczna" hreflang="pl" lang="pl" title="Przemiana izotermiczna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Transforma%C3%A7%C3%A3o_isot%C3%A9rmica" hreflang="pt" lang="pt" title="Transformação isotérmica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81" hreflang="ru" lang="ru" title="Изотермический процесс – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Isothermal_process" hreflang="sco" lang="sco" title="Isothermal process – Scots">Scots</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Izotermick%C3%BD_dej" hreflang="sk" lang="sk" title="Izotermický dej – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Izotermna_sprememba" hreflang="sl" lang="sl" title="Izotermna sprememba – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%BE%D8%B1%DB%86%D8%B3%DB%95%DB%8C_%D8%A6%D8%A7%DB%8C%D8%B2%DB%86%D8%AA%DB%8E%D8%B1%D9%85%DB%8C" hreflang="ckb" lang="ckb" title="پرۆسەی ئایزۆتێرمی – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D1%81%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81" hreflang="sr" lang="sr" title="Изотермски процес – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Isoterm_process" hreflang="sv" lang="sv" title="Isoterm process – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AE%AE%E0%AE%B5%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%9A%E0%AF%8D_%E0%AE%9A%E0%AF%86%E0%AE%AF%E0%AE%B2%E0%AF%8D%E0%AE%AE%E0%AF%81%E0%AE%B1%E0%AF%88" hreflang="ta" lang="ta" title="சமவெப்பச் செயல்முறை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C4%B0zotermik_proses" hreflang="tr" lang="tr" title="İzotermik proses – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%86%D0%B7%D0%BE%D1%82%D0%B5%D1%80%D0%BC%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81" hreflang="uk" lang="uk" title="Ізотермічний процес – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Qu%C3%A1_tr%C3%ACnh_%C4%91%E1%BA%B3ng_nhi%E1%BB%87t" hreflang="vi" lang="vi" title="Quá trình đẳng nhiệt – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%AD%89%E6%B8%A9%E8%BF%87%E7%A8%8B" hreflang="zh" lang="zh" title="等温过程 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q486921#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 30 September 2017, at 09:17.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Isothermal_process&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.216","walltime":"1.423","ppvisitednodes":{"value":1042,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":56019,"limit":2097152},"templateargumentsize":{"value":717,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  189.022      1 -total"," 60.52%  114.393      1 Template:Reflist"," 34.60%   65.401      7 Template:Cite_book"," 32.20%   60.866      1 Template:Thermodynamics"," 16.86%   31.862      2 Template:ISBN_missing"," 15.77%   29.815      1 Template:Fix"," 11.51%   21.759      1 Template:Category_handler","  7.06%   13.340      3 Template:Sidebar","  3.08%    5.826      1 Template:Delink","  3.06%    5.780      1 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.074","limit":"10.000"},"limitreport-memusage":{"value":3297569,"limit":52428800}},"cachereport":{"origin":"mw1287","timestamp":"20170930091659","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":100,"wgHostname":"mw1247"});});</script>
+</body>
+</html>

@@ -1,0 +1,392 @@
+https://en.wikipedia.org/wiki/Tropical_cyclone_rainfall_forecasting
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Tropical cyclone rainfall forecasting - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Tropical_cyclone_rainfall_forecasting","wgTitle":"Tropical cyclone rainfall forecasting","wgCurRevisionId":799885834,"wgRevisionId":799885834,"wgArticleId":10073219,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Good articles","Tropical cyclone meteorology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Tropical_cyclone_rainfall_forecasting","wgRelevantArticleId":10073219,"wgRequestId":"WdVoHApAAEUAAJeyGScAAABF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q16824724","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/c/c1/Rita5dayqpf.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Tropical_cyclone_rainfall_forecasting" rel="alternate"/>
+<link href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Tropical_cyclone_rainfall_forecasting" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Tropical_cyclone_rainfall_forecasting rootpage-Tropical_cyclone_rainfall_forecasting vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Tropical cyclone rainfall forecasting</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Rita5dayqpf.png"><img alt="" class="thumbimage" data-file-height="295" data-file-width="571" height="129" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rita5dayqpf.png/250px-Rita5dayqpf.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rita5dayqpf.png/375px-Rita5dayqpf.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rita5dayqpf.png/500px-Rita5dayqpf.png 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Rita5dayqpf.png" title="Enlarge"></a></div>
+Hurricane QPF</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;width:22.5em;">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em;padding:0 0.2em 0.4em; font-size:150%; line-height:1.5em;"><a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical cyclones</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-bottom: 1px solid #cee0f2; background: none; text-align: left;">Formation and naming</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Tropical_cyclogenesis" title="Tropical cyclogenesis">Development</a><br/>
+<a href="/wiki/Eye_(cyclone)" title="Eye (cyclone)">Structure</a><br/></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-bottom: 1px solid #cee0f2; background: none; text-align: left;"><a href="/wiki/Effects_of_tropical_cyclones" title="Effects of tropical cyclones">Effects</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Tropical_cyclone_warnings_and_watches" title="Tropical cyclone warnings and watches">Warnings and watches</a><br/>
+<a href="/wiki/Storm_surge" title="Storm surge">Storm surge</a><br/>
+<a href="/wiki/List_of_tropical_cyclones" title="List of tropical cyclones">Notable storms</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-bottom: 1px solid #cee0f2; background: none; text-align: left;">Climatology and tracking</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Tropical_cyclone_basins" title="Tropical cyclone basins">Basins</a><br/>
+<a href="/wiki/Regional_Specialized_Meteorological_Center" title="Regional Specialized Meteorological Center">RSMCs</a><br/>
+<a href="/wiki/Tropical_cyclone_scales" title="Tropical cyclone scales">Scales</a><br/>
+<a href="/wiki/Tropical_cyclone_observation" title="Tropical cyclone observation">Observation</a><br/>
+<a href="/wiki/Tropical_cyclone_forecasting" title="Tropical cyclone forecasting">Forecasting</a><br/>
+<a class="mw-selflink selflink">Rainfall forecasting</a><br/>
+<a href="/wiki/Tropical_cyclone_rainfall_climatology" title="Tropical cyclone rainfall climatology">Rainfall climatology</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;border-bottom: 1px solid #cee0f2; background: none; text-align: left;">Tropical cyclone naming</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Tropical_cyclone_naming" title="Tropical cyclone naming">Tropical cyclone naming</a><br/>
+<a href="/wiki/History_of_tropical_cyclone_naming" title="History of tropical cyclone naming">History of tropical cyclone naming</a><br/>
+<a href="/wiki/List_of_historic_tropical_cyclone_names" title="List of historic tropical cyclone names">List of historic tropical cyclone names</a><br/>
+<a href="/wiki/List_of_retired_Atlantic_hurricane_names" title="List of retired Atlantic hurricane names">List of retired Atlantic hurricane names</a><br/>
+<a href="/wiki/List_of_retired_Pacific_hurricane_names" title="List of retired Pacific hurricane names">List of retired Pacific hurricane names</a><br/>
+<a href="/wiki/List_of_retired_Pacific_typhoon_names" title="List of retired Pacific typhoon names">List of retired Pacific typhoon names</a><br/>
+<a href="/wiki/List_of_retired_Philippine_typhoon_names" title="List of retired Philippine typhoon names">List of retired Philippine typhoon names</a><br/>
+<a href="/wiki/List_of_retired_Australian_cyclone_names" title="List of retired Australian cyclone names">List of retired Australian cyclone names</a><br/>
+<a href="/wiki/List_of_retired_South_Pacific_cyclone_names" title="List of retired South Pacific cyclone names">List of retired South Pacific cyclone names</a></div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/Outline_of_tropical_cyclones" title="Outline of tropical cyclones">Outline of tropical cyclones</a><br/>
+<a class="image" href="/wiki/File:Weather-showers-scattered.svg"><img alt="Weather-showers-scattered.svg" data-file-height="48" data-file-width="48" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Weather-showers-scattered.svg/20px-Weather-showers-scattered.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Weather-showers-scattered.svg/30px-Weather-showers-scattered.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c6/Weather-showers-scattered.svg/40px-Weather-showers-scattered.svg.png 2x" width="20"/></a><a href="/wiki/Portal:Tropical_cyclones" title="Portal:Tropical cyclones">Tropical cyclones portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Tropicalcyclone" title="Template:Tropicalcyclone"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Tropicalcyclone" title="Template talk:Tropicalcyclone"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Tropicalcyclone&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Tropical cyclone rainfall forecasting</b> involves using scientific models and other tools to predict the precipitation expected in <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclones</a> such as hurricanes and typhoons. Knowledge of <a href="/wiki/Tropical_cyclone_rainfall_climatology" title="Tropical cyclone rainfall climatology">tropical cyclone rainfall climatology</a> is helpful in the determination of a tropical cyclone rainfall forecast. More rainfall falls in advance of the center of the cyclone than in its wake. The heaviest rainfall falls within its <a href="/wiki/Central_dense_overcast" title="Central dense overcast">central dense overcast</a> and <a class="mw-redirect" href="/wiki/Eyewall" title="Eyewall">eyewall</a>. Slow moving tropical cyclones, like <a href="/wiki/Hurricane_Danny_(1997)" title="Hurricane Danny (1997)">Hurricane Danny</a> and <a href="/wiki/Hurricane_Wilma" title="Hurricane Wilma">Hurricane Wilma</a>, can lead to the highest rainfall amounts due to prolonged heavy rains over a specific location. However, vertical <a href="/wiki/Wind_shear" title="Wind shear">wind shear</a> leads to decreased rainfall amounts, as rainfall is favored downshear and slightly left of the center and the upshear side is left devoid of rainfall. The presence of hills or mountains near the coast, as is the case across much of <a href="/wiki/Mexico" title="Mexico">Mexico</a>, <a href="/wiki/Haiti" title="Haiti">Haiti</a>, the <a href="/wiki/Dominican_Republic" title="Dominican Republic">Dominican Republic</a>, much of <a href="/wiki/Central_America" title="Central America">Central America</a>, <a href="/wiki/Madagascar" title="Madagascar">Madagascar</a>, <a href="/wiki/R%C3%A9union" title="Réunion">Réunion</a>, <a href="/wiki/China" title="China">China</a>, and <a href="/wiki/Japan" title="Japan">Japan</a> act to magnify amounts on their windward side due to forced ascent causing heavy rainfall in the mountains. A strong system moving through the mid latitudes, such as a <a href="/wiki/Cold_front" title="Cold front">cold front</a>, can lead to high amounts from tropical systems, occurring well in advance of its center. Movement of a tropical cyclone over cool water will also limit its rainfall potential. A combination of factors can lead to exceptionally high rainfall amounts, as was seen during <a href="/wiki/Hurricane_Mitch" title="Hurricane Mitch">Hurricane Mitch</a> in <a href="/wiki/Central_America" title="Central America">Central America</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Use of forecast models can help determine the magnitude and pattern of the rainfall expected. <a href="/wiki/Climatology" title="Climatology">Climatology</a> and persistence models, such as r-CLIPER, can create a baseline for tropical cyclone rainfall <a href="/wiki/Forecast_skill" title="Forecast skill">forecast skill</a>. Simplified forecast models, such as the Kraft technique and the eight and sixteen-inch rules, can create quick and simple rainfall forecasts, but come with a variety of assumptions which may not be true, such as assuming average forward motion, average storm size, and a knowledge of the rainfall observing network the tropical cyclone is moving towards. The forecast method of TRaP assumes that the rainfall structure the tropical cyclone currently has changes little over the next 24 hours. The global forecast model which shows the most skill in forecasting tropical cyclone-related rainfall in the <a href="/wiki/United_States" title="United States">United States</a> is the ECMWF IFS (Integrated Forecasting System) <sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> <sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Rainfall_distribution_around_a_tropical_cyclone"><span class="tocnumber">1</span> <span class="toctext">Rainfall distribution around a tropical cyclone</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Vertical_wind_shear"><span class="tocnumber">1.1</span> <span class="toctext">Vertical wind shear</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Interaction_with_frontal_boundaries_and_upper_level_troughs"><span class="tocnumber">1.2</span> <span class="toctext">Interaction with frontal boundaries and upper level troughs</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Mountains"><span class="tocnumber">1.3</span> <span class="toctext">Mountains</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Tools_used_in_preparation_of_forecast"><span class="tocnumber">2</span> <span class="toctext">Tools used in preparation of forecast</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Climatology_and_persistence"><span class="tocnumber">2.1</span> <span class="toctext">Climatology and persistence</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Numerical_weather_prediction"><span class="tocnumber">2.2</span> <span class="toctext">Numerical weather prediction</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Kraft_rule"><span class="tocnumber">2.3</span> <span class="toctext">Kraft rule</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Rainfall_distribution_around_a_tropical_cyclone">Rainfall distribution around a tropical cyclone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=1" title="Edit section: Rainfall distribution around a tropical cyclone">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Tropical_cyclone_rainfall_climatology" title="Tropical cyclone rainfall climatology">Tropical cyclone rainfall climatology</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:290px;"><a class="image" href="/wiki/File:Typhoonsizes.jpg"><img alt="" class="thumbimage" data-file-height="180" data-file-width="288" height="180" src="//upload.wikimedia.org/wikipedia/commons/4/4e/Typhoonsizes.jpg" width="288"/></a>
+<div class="thumbcaption">The relative sizes of <a href="/wiki/Typhoon_Tip" title="Typhoon Tip">Typhoon Tip</a>, <a href="/wiki/Cyclone_Tracy" title="Cyclone Tracy">Cyclone Tracy</a>, and the United States.</div>
+</div>
+</div>
+<p>A larger proportion of rainfall falls in advance of the center (or <a href="/wiki/Eye_(cyclone)" title="Eye (cyclone)">eye</a>) than after the center's passage, with the highest percentage falling in the right-front <a href="/wiki/Cartesian_coordinate_system#Cartesian_coordinates_in_two_dimensions" title="Cartesian coordinate system">quadrant</a>. A tropical cyclone's highest rainfall rates can lie in the right rear quadrant within a training (non-moving) inflow band.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Rainfall is found to be strongest in their inner core, within a degree of <a href="/wiki/Latitude" title="Latitude">latitude</a> of the center, with lesser amounts farther away from the center. Most of the rainfall in hurricanes is concentrated within its radius of <a href="/wiki/Beaufort_scale" title="Beaufort scale">gale-force winds</a>.<sup class="reference" id="cite_ref-CORENE_5-0"><a href="#cite_note-CORENE-5">[5]</a></sup> Larger tropical cyclones have larger rain shields, which can lead to higher rainfall amounts farther from the cyclone's center.<sup class="reference" id="cite_ref-CORENE_5-1"><a href="#cite_note-CORENE-5">[5]</a></sup> Storms which have moved slowly, or loop, lead to the highest rainfall amounts. Riehl calculated that 33.97 inches (863 mm) of rainfall per day can be expected within one-half degree, or 35 miles (56 km), of the center of a mature tropical cyclone.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Many tropical cyclones progress at a forward motion of 10 knots, which would limit the duration of this excessive rainfall to around one-quarter of a day, which would yield about 8.50 inches (216 mm) of rainfall. This would be true over water, within 100 miles (160 km) of the coastline,<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> and outside topographic features. As a cyclone moves farther inland and is cut off from its supply of warmth and moisture (the ocean), rainfall amounts from tropical cyclones and their remains decrease quickly.<sup class="reference" id="cite_ref-statemaxima_8-0"><a href="#cite_note-statemaxima-8">[8]</a></sup></p>
+<h3><span class="mw-headline" id="Vertical_wind_shear">Vertical wind shear</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=2" title="Edit section: Vertical wind shear">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Floyd1999RadarPANYNJDMP.gif"><img alt="" class="thumbimage" data-file-height="455" data-file-width="773" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Floyd1999RadarPANYNJDMP.gif/250px-Floyd1999RadarPANYNJDMP.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Floyd1999RadarPANYNJDMP.gif/375px-Floyd1999RadarPANYNJDMP.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Floyd1999RadarPANYNJDMP.gif/500px-Floyd1999RadarPANYNJDMP.gif 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Floyd1999RadarPANYNJDMP.gif" title="Enlarge"></a></div>
+Circulation around the east side of <a href="/wiki/Hurricane_Floyd" title="Hurricane Floyd">Floyd</a> forcing rainfall near and behind a front to its northeast</div>
+</div>
+</div>
+<p>Vertical <a href="/wiki/Wind_shear" title="Wind shear">wind shear</a> forces the rainfall pattern around a tropical cyclone to become highly asymmetric, with most of the precipitation falling to the left and downwind of the shear vector, or downshear left. In other words, southwesterly shear forces the bulk of the rainfall north-northeast of the center.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> If the wind shear is strong enough, the bulk of the rainfall will move away from the center leading to what is known as an exposed circulation center. When this occurs, the potential magnitude of rainfall with the tropical cyclone will be significantly reduced.</p>
+<h3><span class="mw-headline" id="Interaction_with_frontal_boundaries_and_upper_level_troughs">Interaction with frontal boundaries and upper level troughs</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=3" title="Edit section: Interaction with frontal boundaries and upper level troughs">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>As a <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a> interacts with an upper-level <a href="/wiki/Trough_(meteorology)" title="Trough (meteorology)">trough</a> and the related <a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">surface front</a>, a distinct northern area of precipitation is seen along the front ahead of the axis of the upper level trough. Surface fronts with precipitable water amounts of 1.46 inches (37 mm) or more and upper level divergence overhead east of an upper level trough can lead to significant rainfall.<sup class="reference" id="cite_ref-WESWET_10-0"><a href="#cite_note-WESWET-10">[10]</a></sup> This type of interaction can lead to the appearance of the heaviest rainfall falling along and to the left of the tropical cyclone track, with the precipitation streaking hundreds of miles or kilometers downwind from the tropical cyclone.<sup class="reference" id="cite_ref-WES_11-0"><a href="#cite_note-WES-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Mountains">Mountains</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=4" title="Edit section: Mountains">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Moist air forced up the slopes of coastal hills and mountain chains can lead to much heavier rainfall than in the coastal plain.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> This heavy rainfall can lead to landslides, which still cause significant loss of life such as seen during <a href="/wiki/Hurricane_Mitch" title="Hurricane Mitch">Hurricane Mitch</a> in <a href="/wiki/Central_America" title="Central America">Central America</a>, where several thousand perished.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="Tools_used_in_preparation_of_forecast">Tools used in preparation of forecast</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=5" title="Edit section: Tools used in preparation of forecast">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Isabel2003rcliper.jpg"><img alt="" class="thumbimage" data-file-height="396" data-file-width="452" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Isabel2003rcliper.jpg/150px-Isabel2003rcliper.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Isabel2003rcliper.jpg/225px-Isabel2003rcliper.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Isabel2003rcliper.jpg/300px-Isabel2003rcliper.jpg 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Isabel2003rcliper.jpg" title="Enlarge"></a></div>
+r-CLIPER for Isabel (2003)</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Climatology_and_persistence">Climatology and persistence</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=6" title="Edit section: Climatology and persistence">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The Hurricane Research Division of the <a href="/wiki/Atlantic_Oceanographic_and_Meteorological_Laboratory" title="Atlantic Oceanographic and Meteorological Laboratory">Atlantic Oceanographic and Meteorological Laboratory</a> created the r-CLIPER (<a href="/wiki/Rain" title="Rain">rainfall</a> <a href="/wiki/Climatology" title="Climatology">climatology</a> and persistence) model to act as a baseline for all verification regarding <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a> rainfall. The theory is, if the global forecast models cannot beat predictions based on climatology, then there is no <a href="/wiki/Forecast_skill" title="Forecast skill">skill</a> in their use. There is a definite advantage to using the forecast track with r-CLIPER because it could be run out 120 hours/5 days with the forecast track of any tropical cyclone globally within a short amount of time.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> The short range variation which uses persistence is the <b>T</b>ropical <b>Ra</b>infall <b>P</b>otential technique (<b>TRaP</b>) technique, which uses satellite-derived rainfall amounts from <a href="/wiki/Microwave" title="Microwave">microwave</a> <a href="/wiki/Satellite_imagery" title="Satellite imagery">imaging satellites</a> and extrapolates the current rainfall configuration forward for 24 hours along the current forecast track.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> This technique's main flaw is that it assumes a <a href="/wiki/Steady_state" title="Steady state">steady state</a> tropical cyclone which undergoes little structural change with time, which is why it is only run forward for 24 hours into the future.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<div style="clear:both;"></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:GFSisabel2003.jpg"><img alt="" class="thumbimage" data-file-height="396" data-file-width="451" height="132" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/GFSisabel2003.jpg/150px-GFSisabel2003.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/79/GFSisabel2003.jpg/225px-GFSisabel2003.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/79/GFSisabel2003.jpg/300px-GFSisabel2003.jpg 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:GFSisabel2003.jpg" title="Enlarge"></a></div>
+GFS for Isabel (2003)</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Numerical_weather_prediction">Numerical weather prediction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=7" title="Edit section: Numerical weather prediction">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a class="mw-redirect" href="/wiki/Tropical_cyclone_prediction_model" title="Tropical cyclone prediction model">Tropical cyclone prediction model</a></div>
+<p>Computer models can be used to diagnose the magnitude of tropical cyclone rainfall. Since forecast models output their information on a grid, they only give a general idea as to the areal coverage of moderate to heavy rainfall. No current forecast models run at a small enough grid scale (1 km or smaller) to be able to detect the absolute maxima measured within tropical cyclones. Of the <a href="/wiki/United_States" title="United States">United States</a> forecasting models, the best performing model for tropical cyclone rainfall forecasting is known as the <b>GFS</b>, or <b>G</b>lobal <b>F</b>orecasting <b>S</b>ystem.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> The <a href="/wiki/Geophysical_Fluid_Dynamics_Laboratory" title="Geophysical Fluid Dynamics Laboratory">GFDL</a> model has been shown to have a high bias concerning the magnitude of heavier core rains within tropical cyclones.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> Beginning in 2007, the <a href="/wiki/National_Centers_for_Environmental_Prediction" title="National Centers for Environmental Prediction">NCEP</a> Hurricane-WRF became available to help predict rainfall from tropical cyclones.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> Recent verification shows that both the European <a href="/wiki/European_Centre_for_Medium-Range_Weather_Forecasts" title="European Centre for Medium-Range Weather Forecasts">ECMWF</a> forecast model and <a href="/wiki/North_American_Mesoscale_Model" title="North American Mesoscale Model">North American Mesoscale Model</a> (NAM) show a low bias with heavier rainfall amounts within tropical cyclones.<sup class="reference" id="cite_ref-DR032009_20-0"><a href="#cite_note-DR032009-20">[20]</a></sup></p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Kraft_rule">Kraft rule</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=8" title="Edit section: Kraft rule">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>During the late 1950s, this <a href="/wiki/Rule_of_thumb" title="Rule of thumb">rule of thumb</a> came into being, developed by R. H. Kraft.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> It was noted from rainfall amounts (in imperial units) reported by the first order rainfall network in the <a href="/wiki/United_States" title="United States">United States</a> that the storm total rainfall fit a simple equation: 100 divided by the speed of motion in knots.<sup class="reference" id="cite_ref-WES_2_22-0"><a href="#cite_note-WES_2-22">[22]</a></sup> This rule works, even in other countries, as long as a tropical cyclone is moving and only the first order or synoptic station network (with observations spaced about 60 miles (97 km) apart) are used to derive storm totals. Canada uses a modified version of the Kraft rule which divides the results by a factor of two, which takes into account the lower sea surface temperatures seen around Atlantic Canada and the prevalence of systems undergoing vertical wind shear at their northerly latitudes.<sup class="reference" id="cite_ref-DR032009_20-1"><a href="#cite_note-DR032009-20">[20]</a></sup> The main problem with this rule is that the rainfall observing network is denser than either the synoptic reporting network or the first order station networks, which means the absolute maximum is likely to be underestimated. Another problem is that it does not take the size of the tropical cyclone or topography into account.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Tropical_cyclone_forecasting" title="Tropical cyclone forecasting">Tropical cyclone forecasting</a></li>
+<li><a href="/wiki/Tropical_cyclone_observation" title="Tropical cyclone observation">Tropical cyclone observation</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Federal Emergency Management Agency. <a class="external text" href="http://www.fema.gov/areyouready/hurricanes.shtm" rel="nofollow">Are You Ready?</a> Retrieved on 2006-04-05.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external free" href="http://www.atmos.albany.edu/facstaff/tang/tcguidance/" rel="nofollow">http://www.atmos.albany.edu/facstaff/tang/tcguidance/</a></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="external free" href="https://arstechnica.com/science/2017/09/us-forecast-models-have-been-pretty-terrible-during-hurricane-irma/" rel="nofollow">https://arstechnica.com/science/2017/09/us-forecast-models-have-been-pretty-terrible-during-hurricane-irma/</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="/wiki/Ivan_Ray_Tannehill" title="Ivan Ray Tannehill">Ivan Ray Tannehill</a>. <b>Hurricanes.</b> Princeton University Press: Princeton, 1942. Pages 70-76.</span></li>
+<li id="cite_note-CORENE-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-CORENE_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CORENE_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Corene J. Matyas. <a class="external text" href="http://ams.confex.com/ams/pdfpapers/108831.pdf" rel="nofollow">Relating Tropical Cyclone Rainfall Patterns to Storm Size.</a> Retrieved on 2007-02-14.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Herbert Riehl. <b>Tropical Meteorology.</b> McGraw-Hill Book Company, Inc.: New York, 1954. Pages 293-297.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Russell Pfost. <a class="external text" href="http://www.srh.noaa.gov/mfl/newpage/tampa/index.htm" rel="nofollow">Tropical Cyclone Quantitative Precipitation Forecasting.</a> Retrieved on 2007-02-25.</span></li>
+<li id="cite_note-statemaxima-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-statemaxima_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Roth, David M; Weather Prediction Center (January 7, 2013). "Maximum Rainfall caused by Tropical Cyclones and their Remnants Per State (1950–2012)". <a class="external text" href="http://www.wpc.ncep.noaa.gov/tropical/rain/tcstatemaxima.gif" rel="nofollow"><i>Tropical Cyclone Point Maxima</i></a>. United States National Oceanic and Atmospheric Administration's National Weather Service<span class="reference-accessdate">. Retrieved <span class="nowrap">March 15,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ATropical+cyclone+rainfall+forecasting&amp;rft.atitle=Maximum+Rainfall+caused+by+Tropical+Cyclones+and+their+Remnants+Per+State+%281950%E2%80%932012%29&amp;rft.au=Roth%2C+David+M&amp;rft.au=Weather+Prediction+Center&amp;rft.btitle=Tropical+Cyclone+Point+Maxima&amp;rft.date=2013-01-07&amp;rft.genre=bookitem&amp;rft.pub=United+States+National+Oceanic+and+Atmospheric+Administration%27s+National+Weather+Service&amp;rft_id=http%3A%2F%2Fwww.wpc.ncep.noaa.gov%2Ftropical%2Frain%2Ftcstatemaxima.gif&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">Shuyi S. Chen, John A. Knaff, and Frank D. Marks, Jr. <a class="external text" href="http://rammb.cira.colostate.edu/resources/docs/chen_etal_2006.pdf" rel="nofollow">Effects of Vertical Wind Shear and Storm Motion on Tropical Cyclone Rainfall Asymmetries Deduced from TRMM.</a> Retrieved on 2007-03-28.</span></li>
+<li id="cite_note-WESWET-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-WESWET_10-0">^</a></b></span> <span class="reference-text">Norman W. Junker. <a class="external text" href="http://www.wpc.ncep.noaa.gov/research/mcs_web_test_test_files/Page907.htm" rel="nofollow">Original Maddox et al. MCS archetypes associated with flash flooding.</a> Retrieved on 2007-06-24.</span></li>
+<li id="cite_note-WES-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-WES_11-0">^</a></b></span> <span class="reference-text">Norman W. Junker. <a class="external text" href="http://www.wpc.ncep.noaa.gov/research/mcs_web_test_test_files/Page1637.htm" rel="nofollow">Hurricanes and extreme rainfall.</a> Retrieved on 2006-02-13.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Yuh-Lang Lin, S. Chiao, J. A. Thurman, D. B. Ensley, and J. J. Charney. <a class="external text" href="http://ams.confex.com/ams/10Mountain/techprogram/paper_40695.htm" rel="nofollow">Some Common Ingredients for heavy Orographic Rainfall and their Potential Application for Prediction.</a> Retrieved on 2007-04-26.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text">John L. Guiney and Miles B. Lawrence. <a class="external text" href="http://www.nhc.noaa.gov/1998mitch.html" rel="nofollow">Hurricane Mitch.</a> Retrieved on 2007-04-26.</span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Frank Marks. <a class="external text" href="http://gpm.gsfc.nasa.gov/4thworkshop/files/48-Marks.ppt" rel="nofollow">GPM and Tropical Cyclones.</a> <a class="external text" href="https://web.archive.org/web/20061006230302/http://gpm.gsfc.nasa.gov/4thworkshop/files/48-Marks.ppt" rel="nofollow">Archived</a> 2006-10-06 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved on 2007-03-15.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text">Elizabeth Ebert, Sheldon Kusselson, and Michael Turk. <a class="external text" href="http://www.bom.gov.au/bmrc/wefor/staff/eee/TRaP_Australia.pdf" rel="nofollow">Validation of Tropical Rainfall Potential (TRaP) Forecasts for Australian Tropical Cyclones.</a> Retrieved on 2007-03-28.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Stanley Q. Kidder, Sheldon J. Kusselson, John A. Knaff, and Robert J. Kuligowski. <a class="external text" href="http://amsu.cira.colostate.edu/kidder/11thSatmetPaper.pdf" rel="nofollow">Improvements to the Experimental Tropical Rainfall Potential (TRaP) Technique.</a> <a class="external text" href="https://web.archive.org/web/20070817025800/http://amsu.cira.colostate.edu/kidder/11thSatmetPaper.pdf" rel="nofollow">Archived</a> 2007-08-17 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved on 2007-03-15.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Timothy P. Marchok, Robert F. Rogers, and Robert E. Tuleya. <a class="external text" href="http://www.ofcm.gov/ihc04/presentations/e_session3/06_marchok_ihc58_final.ppt" rel="nofollow">Improving the Validation and Prediction of Tropical Cyclone Rainfall.</a> <a class="external text" href="https://web.archive.org/web/20061010130335/http://www.ofcm.gov//ihc04/presentations/e_session3/06_marchok_ihc58_final.ppt" rel="nofollow">Archived</a> 2006-10-10 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved on 2007-03-15.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Robert E. Tuleya, Mark DeMaria, and Robert J. Kuligowski. <a class="external text" href="http://www.gfdl.noaa.gov/reference/bibliography/2007/rt0701.pdf" rel="nofollow">Evaluation of GFDL and Simple Statistical Model Rainfall Forecasts for U. S. Landfalling Tropical Storms.</a></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text">WRF Program Coordinator. <a class="external text" href="http://wrf-model.org/development/wexob/meetings/Monthly-PC-Report-31Oct04.pdf" rel="nofollow">Monthly Report of the WRF Program Coordinator.</a> Retrieved on 2007-04-10.</span></li>
+<li id="cite_note-DR032009-20"><span class="mw-cite-backlink">^ <a href="#cite_ref-DR032009_20-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-DR032009_20-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">David M. Roth <a class="external text" href="http://www.wpc.ncep.noaa.gov/research/roth/TC_QPF_talk032009.ppt" rel="nofollow">Tropical Cyclone Rainfall (July 2007 presentation).</a> Retrieved on 2009-05-07.</span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text">Frank Marks. <a class="external text" href="http://ams.confex.com/ams/last2000/techprogram/paper_12681.htm" rel="nofollow">WSR-88D Derived Rainfall Distributions in Hurricane Danny (1997).</a> Retrieved on 2007-04-13.</span></li>
+<li id="cite_note-WES_2-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-WES_2_22-0">^</a></b></span> <span class="reference-text">Norman W. Junker. <a class="external text" href="http://www.wpc.ncep.noaa.gov/research/mcs_web_test_test_files/page0024.htm" rel="nofollow">Hurricanes and Extreme Rainfall.</a> Retrieved on 2007-03-15.</span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.wpc.ncep.noaa.gov/tropical/rain/web/cliqr.html" rel="nofollow">CLIQR tool - finds historical matches to ongoing tropical cyclones near North America and Puerto Rico</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1216
+Cached time: 20171002173950
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.176 seconds
+Real time usage: 0.238 seconds
+Preprocessor visited node count: 683/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 16901/2097152 bytes
+Template argument size: 287/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.069/10.000 seconds
+Lua memory usage: 3.25 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  198.643      1 -total
+ 34.35%   68.230      1 Template:Reflist
+ 18.75%   37.241      1 Template:Cite_book
+ 18.40%   36.550      6 Template:Convert
+ 16.30%   32.373      1 Template:Tropicalcyclone
+ 15.10%   29.987      1 Template:Sidebar_with_collapsible_lists
+ 14.11%   28.030      1 Template:Good_article
+ 13.39%   26.590      1 Template:Top_icon
+  8.87%   17.628      1 Template:Category_handler
+  4.23%    8.396      3 Template:Webarchive
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10073219-0!canonical and timestamp 20171002173950 and revision id 799885834
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;oldid=799885834">https://en.wikipedia.org/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;oldid=799885834</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tropical_cyclone_meteorology" title="Category:Tropical cyclone meteorology">Tropical cyclone meteorology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Tropical+cyclone+rainfall+forecasting" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Tropical+cyclone+rainfall+forecasting" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Tropical_cyclone_rainfall_forecasting" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Tropical_cyclone_rainfall_forecasting" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Tropical_cyclone_rainfall_forecasting">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Tropical_cyclone_rainfall_forecasting" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Tropical_cyclone_rainfall_forecasting" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;oldid=799885834" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q16824724" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Tropical_cyclone_rainfall_forecasting&amp;id=799885834" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Tropical+cyclone+rainfall+forecasting">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Tropical+cyclone+rainfall+forecasting&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DTropical%2Bcyclone%2Brainfall%2Bforecasting%26returnto%3DTropical%2Bcyclone%2Brainfall%2Bforecasting%26oldid%3D799885834%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Previs%C3%A3o_de_chuvas_de_ciclones_tropicais" hreflang="pt" lang="pt" title="Previsão de chuvas de ciclones tropicais – Portuguese">Português</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q16824724#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 10 September 2017, at 11:55.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Tropical_cyclone_rainfall_forecasting&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.176","walltime":"0.238","ppvisitednodes":{"value":683,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":16901,"limit":2097152},"templateargumentsize":{"value":287,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  198.643      1 -total"," 34.35%   68.230      1 Template:Reflist"," 18.75%   37.241      1 Template:Cite_book"," 18.40%   36.550      6 Template:Convert"," 16.30%   32.373      1 Template:Tropicalcyclone"," 15.10%   29.987      1 Template:Sidebar_with_collapsible_lists"," 14.11%   28.030      1 Template:Good_article"," 13.39%   26.590      1 Template:Top_icon","  8.87%   17.628      1 Template:Category_handler","  4.23%    8.396      3 Template:Webarchive"]},"scribunto":{"limitreport-timeusage":{"value":"0.069","limit":"10.000"},"limitreport-memusage":{"value":3409101,"limit":52428800}},"cachereport":{"origin":"mw1216","timestamp":"20171002173950","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1274"});});</script>
+</body>
+</html>

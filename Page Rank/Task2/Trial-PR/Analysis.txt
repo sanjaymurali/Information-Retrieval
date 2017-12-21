@@ -1,0 +1,28 @@
+Goal: Page Rank for Trial graph given to us in Assignment 2: Task 2: (C)
+
+The input graph is available in "trial.txt"
+
+The Perplexity values for each round until convergence can be found in file "trial-perplexity.txt"
+
+The Page Rank values for each DOC_ID in graph can be found in "trial-topPR.txt"
+
+DOC_IDs based on the decreasing order of in-link count is :
+
+('E', 4),
+('F', 3),
+('C', 3),
+('A', 3),
+('D', 2),
+('B', 2)
+
+
+DOC_IDs based on decreasing order of Page Rank value:
+
+'A' is 0.251216484704878,
+'E' is 0.1863561344798768,
+'F' is 0.15185544176643628,
+'C' is 0.15185544176643628,
+'B' is 0.14020340686138416,
+'D' is 0.11851309042098854
+
+Thus A > E > (F,C) > b > D

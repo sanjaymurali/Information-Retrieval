@@ -1,0 +1,1223 @@
+https://en.wikipedia.org/wiki/Vorticity
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Vorticity - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Vorticity","wgTitle":"Vorticity","wgCurRevisionId":798603415,"wgRevisionId":798603415,"wgArticleId":166010,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Articles lacking in-text citations from May 2009","All articles lacking in-text citations","Articles to be expanded from July 2014","All articles to be expanded","Articles with empty sections from July 2014","All articles with empty sections","Articles using small message boxes","Continuum mechanics","Fluid dynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Vorticity","wgRelevantArticleId":166010,"wgRequestId":"WdOW3wpAADwAAGgEd10AAADC","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1143513","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vorticity" rel="alternate"/>
+<link href="/w/index.php?title=Vorticity&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Vorticity&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Vorticity" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Vorticity rootpage-Vorticity vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Vorticity</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(May 2009)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Continuum_mechanics" title="Continuum mechanics">Continuum mechanics</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">Laws</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;font-style:italic;font-weight:normal;">Conservations</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Conservation_of_energy" title="Conservation of energy">Energy</a></li>
+<li><a href="/wiki/Conservation_of_mass" title="Conservation of mass">Mass</a></li>
+<li><a href="/wiki/Momentum#Conservation" title="Momentum">Momentum</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-style:italic;font-weight:normal;">Inequalities</th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Clausius%E2%80%93Duhem_inequality" title="Clausius–Duhem inequality">Clausius–Duhem (entropy)</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a href="/wiki/Solid_mechanics" title="Solid mechanics">Solid mechanics</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Stress_(mechanics)" title="Stress (mechanics)">Stress</a></li>
+<li><a href="/wiki/Deformation_(mechanics)" title="Deformation (mechanics)">Deformation</a></li>
+<li><a href="/wiki/Compatibility_(mechanics)" title="Compatibility (mechanics)">Compatibility</a></li>
+<li><a href="/wiki/Finite_strain_theory" title="Finite strain theory">Finite strain</a></li>
+<li><a href="/wiki/Infinitesimal_strain_theory" title="Infinitesimal strain theory">Infinitesimal strain</a></li>
+<li><a href="/wiki/Elasticity_(physics)" title="Elasticity (physics)">Elasticity</a> (<a href="/wiki/Linear_elasticity" title="Linear elasticity">linear</a>)</li>
+<li><a href="/wiki/Plasticity_(physics)" title="Plasticity (physics)">Plasticity</a></li>
+<li><a href="/wiki/Bending" title="Bending">Bending</a></li>
+<li><a href="/wiki/Hooke%27s_law" title="Hooke's law">Hooke's law</a></li>
+<li><a href="/wiki/Material_failure_theory" title="Material failure theory">Material failure theory</a></li>
+<li><a href="/wiki/Fracture_mechanics" title="Fracture mechanics">Fracture mechanics</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Contact_mechanics" title="Contact mechanics">Contact mechanics</a> (<a href="/wiki/Frictional_contact_mechanics" title="Frictional contact mechanics">frictional</a>)</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a href="/wiki/Fluid_mechanics" title="Fluid mechanics">Fluid mechanics</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;font-style:italic;"><a href="/wiki/Fluid" title="Fluid">Fluids</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="wraplinks">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Fluid_statics" title="Fluid statics">Statics</a> <b>·</b> <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">Dynamics</a></li>
+<li><a href="/wiki/Archimedes%27_principle" title="Archimedes' principle">Archimedes' principle</a> <b>·</b> <a href="/wiki/Bernoulli%27s_principle" title="Bernoulli's principle">Bernoulli's principle</a></li>
+<li><a href="/wiki/Navier%E2%80%93Stokes_equations" title="Navier–Stokes equations">Navier–Stokes equations</a></li>
+<li><a href="/wiki/Hagen%E2%80%93Poiseuille_equation" title="Hagen–Poiseuille equation">Poiseuille equation</a> <b>·</b> <a href="/wiki/Pascal%27s_law" title="Pascal's law">Pascal's law</a></li>
+<li><a href="/wiki/Viscosity" title="Viscosity">Viscosity</a> (<a href="/wiki/Newtonian_fluid" title="Newtonian fluid">Newtonian</a> <b>·</b> <a href="/wiki/Non-Newtonian_fluid" title="Non-Newtonian fluid">non-Newtonian</a>)</li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a> <b>·</b> <a href="/wiki/Mixing_(process_engineering)" title="Mixing (process engineering)">Mixing</a> <b>·</b> <a href="/wiki/Pressure" title="Pressure">Pressure</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-style:italic;"><a href="/wiki/Liquid" title="Liquid">Liquids</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Surface_tension" title="Surface tension">Surface tension</a></li>
+<li><a href="/wiki/Capillary_action" title="Capillary action">Capillary action</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-style:italic;"><a href="/wiki/Gas" title="Gas">Gases</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Atmosphere" title="Atmosphere">Atmosphere</a></li>
+<li><a href="/wiki/Boyle%27s_law" title="Boyle's law">Boyle's law</a></li>
+<li><a href="/wiki/Charles%27s_law" title="Charles's law">Charles's law</a></li>
+<li><a href="/wiki/Gay-Lussac%27s_law" title="Gay-Lussac's law">Gay-Lussac's law</a></li>
+<li><a href="/wiki/Combined_gas_law" title="Combined gas law">Combined gas law</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-style:italic;"><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasma</a></th>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a href="/wiki/Rheology" title="Rheology">Rheology</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Viscoelasticity" title="Viscoelasticity">Viscoelasticity</a></li>
+<li><a href="/wiki/Rheometry" title="Rheometry">Rheometry</a></li>
+<li><a href="/wiki/Rheometer" title="Rheometer">Rheometer</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;font-style:italic;"><a href="/wiki/Smart_fluid" title="Smart fluid">Smart fluids</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Magnetorheological_fluid" title="Magnetorheological fluid">Magnetorheological</a></li>
+<li><a href="/wiki/Electrorheological_fluid" title="Electrorheological fluid">Electrorheological</a></li>
+<li><a href="/wiki/Ferrofluid" title="Ferrofluid">Ferrofluids</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">Scientists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Bernoulli</a></li>
+<li><a href="/wiki/Robert_Boyle" title="Robert Boyle">Boyle</a></li>
+<li><a href="/wiki/Augustin-Louis_Cauchy" title="Augustin-Louis Cauchy">Cauchy</a></li>
+<li><a href="/wiki/Jacques_Charles" title="Jacques Charles">Charles</a></li>
+<li><a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a></li>
+<li><a href="/wiki/Joseph_Louis_Gay-Lussac" title="Joseph Louis Gay-Lussac">Gay-Lussac</a></li>
+<li><a href="/wiki/Robert_Hooke" title="Robert Hooke">Hooke</a></li>
+<li><a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Pascal</a></li>
+<li><a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton</a></li>
+<li><a href="/wiki/Claude-Louis_Navier" title="Claude-Louis Navier">Navier</a></li>
+<li><a href="/wiki/Sir_George_Stokes,_1st_Baronet" title="Sir George Stokes, 1st Baronet">Stokes</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Continuum_mechanics" title="Template:Continuum mechanics"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Continuum_mechanics" title="Template talk:Continuum mechanics"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Continuum_mechanics&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Continuum_mechanics" title="Continuum mechanics">continuum mechanics</a>, the <b>vorticity</b> is a <a href="/wiki/Pseudovector" title="Pseudovector">pseudovector</a> <a href="/wiki/Vector_field" title="Vector field">field</a> that describes the <i>local</i> <a href="/wiki/Rotation" title="Rotation">spinning</a> motion of a continuum near some point (the tendency of something to rotate <sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>), as would be seen by an observer located at that point and traveling along with the flow.</p>
+<p>Conceptually, vorticity could be determined by marking the part of continuum in a small neighborhood of the point in question, and watching their <i>relative</i> displacements as they move along the flow. The vorticity vector would be twice the mean <a href="/wiki/Angular_velocity" title="Angular velocity">angular velocity</a> vector of those particles relative to their <a href="/wiki/Center_of_mass" title="Center of mass">center of mass</a>, oriented according to the <a href="/wiki/Right-hand_rule" title="Right-hand rule">right-hand rule</a>. This quantity must not be confused with the angular velocity of the particles relative to some other point.</p>
+<p>More precisely, the vorticity is a <a href="/wiki/Pseudovector" title="Pseudovector">pseudovector</a> <a href="/wiki/Vector_field" title="Vector field">field</a> <i>ω</i><span style="position:relative; margin-right:-0.75em; right:0.75em; bottom:0.75em;;"><small>→</small></span>, defined as the <a href="/wiki/Curl_(mathematics)" title="Curl (mathematics)">curl</a> (rotational) of the <a href="/wiki/Flow_velocity" title="Flow velocity">flow velocity</a> <i>u</i><span style="position:relative; margin-right:-0.75em; right:0.75em; bottom:0.75em;;"><small>→</small></span> vector. The definition can be expressed by the <a class="mw-redirect" href="/wiki/Vector_analysis" title="Vector analysis">vector analysis</a> formula:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>≡<!-- ≡ --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>u</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {\omega }}\equiv \nabla \times {\vec {u}}\,,}</annotation>
+</semantics>
+</math></span><img alt="{\vec {\omega }}\equiv \nabla \times {\vec {u}}\,," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/935becfc92cf01178dcdf24d621b64f9c455a948" style="vertical-align: -0.671ex; width:11.747ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>where ∇ is the <a class="mw-redirect" href="/wiki/Del_operator" title="Del operator">del operator</a>. The vorticity of a <a href="/wiki/Two-dimensional_flow" title="Two-dimensional flow">two-dimensional flow</a> is always perpendicular to the plane of the flow, and therefore can be considered a <a href="/wiki/Scalar_field" title="Scalar field">scalar field</a>.</p>
+<p>The vorticity is related to the flow's <a href="/wiki/Circulation_(fluid_dynamics)" title="Circulation (fluid dynamics)">circulation</a> (line integral of the velocity) along a closed path by the (classical) <a href="/wiki/Stokes%27_theorem" title="Stokes' theorem">Stokes' theorem</a>.<sup class="reference" id="cite_ref-Clancy7.11_2-0"><a href="#cite_note-Clancy7.11-2">[2]</a></sup> Namely, for any <a href="/wiki/Infinitesimal" title="Infinitesimal">infinitesimal</a> <a href="/wiki/Differential_(infinitesimal)" title="Differential (infinitesimal)">surface element</a> <i>C</i> with <a href="/wiki/Normal_(geometry)" title="Normal (geometry)">normal direction</a> <i>n</i><span style="position:relative; margin-right:-0.75em; right:0.75em; bottom:0.75em;;"><small>→</small></span> and area <i>dA</i>, the circulation <i>d</i>Γ along the <a href="/wiki/Perimeter" title="Perimeter">perimeter</a> of <i>C</i> is the <a href="/wiki/Dot_product" title="Dot product">dot product</a> <i>ω</i><span style="position:relative; margin-right:-0.75em; right:0.75em; bottom:0.75em;;"><small>→</small></span> ∙ (<i>dA</i> <i>n</i><span style="position:relative; margin-right:-0.75em; right:0.75em; bottom:0.75em;;"><small>→</small></span>) where <i>ω</i><span style="position:relative; margin-right:-0.75em; right:0.75em; bottom:0.75em;;"><small>→</small></span> is the vorticity at the center of <i>C</i>.<sup class="reference" id="cite_ref-Clancy7.11_2-1"><a href="#cite_note-Clancy7.11-2">[2]</a></sup></p>
+<p>Many phenomena, such as the blowing out of a candle by a puff of air, are more readily explained in terms of vorticity rather than the basic concepts of <a href="/wiki/Pressure" title="Pressure">pressure</a> and velocity. This applies, in particular, to the formation and motion of <a href="/wiki/Vortex_ring" title="Vortex ring">vortex rings</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Examples"><span class="tocnumber">1</span> <span class="toctext">Examples</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Mathematical_definition"><span class="tocnumber">2</span> <span class="toctext">Mathematical definition</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Evolution"><span class="tocnumber">3</span> <span class="toctext">Evolution</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Vortex_lines_and_vortex_tubes"><span class="tocnumber">4</span> <span class="toctext">Vortex lines and vortex tubes</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Vorticity_meters"><span class="tocnumber">5</span> <span class="toctext">Vorticity meters</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Rotating-vane_vorticity_meter"><span class="tocnumber">5.1</span> <span class="toctext">Rotating-vane vorticity meter</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Non-rotating_vorticity_meters"><span class="tocnumber">5.2</span> <span class="toctext">Non-rotating vorticity meters</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#Specific_sciences"><span class="tocnumber">6</span> <span class="toctext">Specific sciences</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Aeronautics"><span class="tocnumber">6.1</span> <span class="toctext">Aeronautics</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Atmospheric_sciences"><span class="tocnumber">6.2</span> <span class="toctext">Atmospheric sciences</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#See_also"><span class="tocnumber">7</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Fluid_dynamics"><span class="tocnumber">7.1</span> <span class="toctext">Fluid dynamics</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Atmospheric_sciences_2"><span class="tocnumber">7.2</span> <span class="toctext">Atmospheric sciences</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-14"><a href="#References"><span class="tocnumber">8</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#Bibliography"><span class="tocnumber">9</span> <span class="toctext">Bibliography</span></a></li>
+<li class="toclevel-1 tocsection-16"><a href="#Further_reading"><span class="tocnumber">10</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-17"><a href="#External_links"><span class="tocnumber">11</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=1" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In a mass of continuum that is rotating like a rigid body, the vorticity is twice the <a href="/wiki/Angular_velocity" title="Angular velocity">angular velocity</a> vector of that rotation. This is the case, for example, of water in a tank that has been spinning for a while around its vertical axis, at a constant rate.</p>
+<p>The vorticity may be nonzero even when all particles are flowing along straight and parallel <a class="mw-redirect" href="/wiki/Pathline" title="Pathline">pathlines</a>, if there is <a class="mw-redirect" href="/wiki/Shear_(fluid)" title="Shear (fluid)">shear</a> (that is, if the flow speed varies across <a href="/wiki/Streamlines,_streaklines,_and_pathlines" title="Streamlines, streaklines, and pathlines">streamlines</a>). For example, in the <a href="/wiki/Laminar_flow" title="Laminar flow">laminar flow</a> within a pipe with constant <a href="/wiki/Cross_section_(geometry)" title="Cross section (geometry)">cross section</a>, all particles travel parallel to the axis of the pipe; but faster near that axis, and practically stationary next to the walls. The vorticity will be zero on the axis, and maximum near the walls, where the shear is largest.</p>
+<p>Conversely, a flow may have zero vorticity even though its particles travel along curved trajectories. An example is the ideal <a href="/wiki/Vortex" title="Vortex">irrotational vortex</a>, where most particles rotate about some straight axis, with speed inversely proportional to their distances to that axis. A small parcel of continuum that does not straddle the axis will be rotated in one sense but sheared in the opposite sense, in such a way that their mean angular velocity <i>about their center of mass</i> is zero.</p>
+<table border="0">
+<tr>
+<td colspan="3" style="text-align:center;">Example flows:</td>
+</tr>
+<tr>
+<td valign="top"><a class="image" href="/wiki/File:Vorticity_Figure_01_a-m.gif"><img alt="Vorticity Figure 01 a-m.gif" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/b/bf/Vorticity_Figure_01_a-m.gif" width="200"/></a></td>
+<td valign="top"><a class="image" href="/wiki/File:Vorticity_Figure_03_a-m.gif"><img alt="Vorticity Figure 03 a-m.gif" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/0/0c/Vorticity_Figure_03_a-m.gif" width="200"/></a></td>
+<td valign="top"><a class="image" href="/wiki/File:Vorticity_Figure_02_a-m.gif"><img alt="Vorticity Figure 02 a-m.gif" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/c/c0/Vorticity_Figure_02_a-m.gif" width="200"/></a></td>
+</tr>
+<tr>
+<td style="text-align:center;">Rigid-body-like vortex<br/>
+<var style="padding-right: 1px;">v</var> ∝ <var style="padding-right: 1px;">r</var></td>
+<td style="text-align:center;">Parallel flow with shear</td>
+<td style="text-align:center;">Irrotational vortex<br/>
+<var style="padding-right: 1px;">v</var> ∝ 1/<var style="padding-right: 1px;">r</var></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;">where <var style="padding-right: 1px;">v</var> is the velocity of the flow, <var style="padding-right: 1px;">r</var> is the distance to the center of the vortex and ∝ indicates <a href="/wiki/Proportionality_(mathematics)" title="Proportionality (mathematics)">proportionality</a>.<br/>
+Absolute velocities around the highlighted point:</td>
+</tr>
+<tr>
+<td valign="top"><a class="image" href="/wiki/File:Vorticity_Figure_01_b.png"><img alt="Vorticity Figure 01 b.png" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/8/80/Vorticity_Figure_01_b.png" width="200"/></a></td>
+<td valign="top"><a class="image" href="/wiki/File:Vorticity_Figure_03_b.png"><img alt="Vorticity Figure 03 b.png" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/6/6f/Vorticity_Figure_03_b.png" width="200"/></a></td>
+<td valign="top"><a class="image" href="/wiki/File:Vorticity_Figure_02_b.png"><img alt="Vorticity Figure 02 b.png" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/9/9e/Vorticity_Figure_02_b.png" width="200"/></a></td>
+</tr>
+<tr>
+<td colspan="3" style="text-align:center;">Relative velocities (magnified) around the highlighted point</td>
+</tr>
+<tr>
+<td valign="top"><a class="image" href="/wiki/File:Vorticity_Figure_01_c.png"><img alt="Vorticity Figure 01 c.png" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/8/8b/Vorticity_Figure_01_c.png" width="200"/></a></td>
+<td valign="top"><a class="image" href="/wiki/File:Vorticity_Figure_03_c.png"><img alt="Vorticity Figure 03 c.png" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/5/5a/Vorticity_Figure_03_c.png" width="200"/></a></td>
+<td valign="top"><a class="image" href="/wiki/File:Vorticity_Figure_02_c.png"><img alt="Vorticity Figure 02 c.png" data-file-height="200" data-file-width="200" height="200" src="//upload.wikimedia.org/wikipedia/commons/a/a5/Vorticity_Figure_02_c.png" width="200"/></a></td>
+</tr>
+<tr>
+<td style="text-align:center;">Vorticity ≠ 0</td>
+<td style="text-align:center;">Vorticity ≠ 0</td>
+<td style="text-align:center;">Vorticity = 0</td>
+</tr>
+</table>
+<p>Another way to visualize vorticity is to imagine that, instantaneously, a tiny part of the continuum becomes solid and the rest of the flow disappears. If that tiny new solid particle is rotating, rather than just moving with the flow, then there is vorticity in the flow.</p>
+<p><a class="image" href="/wiki/File:Illustration_of_vorticity.svg"><img alt="Illustration of vorticity.svg" data-file-height="135" data-file-width="352" height="135" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Illustration_of_vorticity.svg/352px-Illustration_of_vorticity.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Illustration_of_vorticity.svg/528px-Illustration_of_vorticity.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Illustration_of_vorticity.svg/704px-Illustration_of_vorticity.svg.png 2x" width="352"/></a></p>
+<h2><span class="mw-headline" id="Mathematical_definition">Mathematical definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=2" title="Edit section: Mathematical definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Mathematically, the vorticity of a three-dimensional flow is a pseudovector field, usually denoted by <i>ω</i><span style="position:relative; margin-right:-0.75em; right:0.75em; bottom:0.75em;;"><small>→</small></span>, defined as the <a href="/wiki/Curl_(mathematics)" title="Curl (mathematics)">curl</a> or rotational of the velocity field <i>v</i><span style="position:relative; margin-right:-0.75em; right:0.75em; bottom:0.75em;;"><small>→</small></span> describing the continuum motion. In <a class="mw-redirect" href="/wiki/Cartesian_coordinates" title="Cartesian coordinates">Cartesian coordinates</a>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtable columnalign="right center left" columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mtd>
+<mtd>
+<mo>=</mo>
+</mtd>
+<mtd>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>v</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thickmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>×<!-- × --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+<mtd>
+<mo>=</mo>
+</mtd>
+<mtd>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>,</mo>
+<mspace width="thickmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mtd>
+</mtr>
+</mtable>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{array}{rcl}{\vec {\omega }}&amp;=&amp;\nabla \times {\vec {v}}\;=\;\left({\frac {\partial }{\partial x}},{\frac {\partial }{\partial y}},{\frac {\partial }{\partial z}}\right)\times (v_{x},v_{y},v_{z})\\&amp;=&amp;\left({\frac {\partial v_{z}}{\partial y}}-{\frac {\partial v_{y}}{\partial z}},\;{\frac {\partial v_{x}}{\partial z}}-{\frac {\partial v_{z}}{\partial x}},\;{\frac {\partial v_{y}}{\partial x}}-{\frac {\partial v_{x}}{\partial y}}\right)\end{array}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{array}{rcl}{\vec {\omega }}&amp;=&amp;\nabla \times {\vec {v}}\;=\;\left({\frac {\partial }{\partial x}},{\frac {\partial }{\partial y}},{\frac {\partial }{\partial z}}\right)\times (v_{x},v_{y},v_{z})\\&amp;=&amp;\left({\frac {\partial v_{z}}{\partial y}}-{\frac {\partial v_{y}}{\partial z}},\;{\frac {\partial v_{x}}{\partial z}}-{\frac {\partial v_{z}}{\partial x}},\;{\frac {\partial v_{y}}{\partial x}}-{\frac {\partial v_{x}}{\partial y}}\right)\end{array}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3457a24bf0a01b2a787fd2ecc71c85fd398755e4" style="vertical-align: -4.338ex; width:45.239ex; height:9.843ex;"/></span></dd>
+</dl>
+<p>In words, the vorticity tells how the velocity vector changes when one moves by an infinitesimal distance in a direction perpendicular to it.</p>
+<p>In a two-dimensional flow where the velocity is independent of the <i>z</i> coordinate and has no <i>z</i> component, the vorticity vector is always parallel to the <i>z</i> axis, and therefore can be expressed as a scalar field multiplied by a constant unit vector <i>z</i><span style="position:relative; margin-right:-0.75em; right:0.75em; bottom:0.75em;;"><small>→</small></span>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thickmathspace"></mspace>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>v</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thickmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thickmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>,</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="false" scriptlevel="0">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>×<!-- × --></mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mspace width="thickmathspace"></mspace>
+<mo>=</mo>
+<mspace width="thickmathspace"></mspace>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>z</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {\omega }}\;=\;\nabla \times {\vec {v}}\;=\;\left({\tfrac {\partial }{\partial x}},{\tfrac {\partial }{\partial y}},{\tfrac {\partial }{\partial z}}\right)\times (v_{x},v_{y},0)\;=\;\left({\frac {\partial v_{y}}{\partial x}}-{\frac {\partial v_{x}}{\partial y}}\right){\vec {z}}\,.}</annotation>
+</semantics>
+</math></span><img alt="{\vec {\omega }}\;=\;\nabla \times {\vec {v}}\;=\;\left({\tfrac {\partial }{\partial x}},{\tfrac {\partial }{\partial y}},{\tfrac {\partial }{\partial z}}\right)\times (v_{x},v_{y},0)\;=\;\left({\frac {\partial v_{y}}{\partial x}}-{\frac {\partial v_{x}}{\partial y}}\right){\vec {z}}\,." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a30346032f2817d3878355e880e1bb3b0a0e1d1" style="vertical-align: -2.505ex; width:63.644ex; height:6.343ex;"/></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Evolution">Evolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=3" title="Edit section: Evolution">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The evolution of the vorticity field in time is described by the <a href="/wiki/Vorticity_equation" title="Vorticity equation">vorticity equation</a>, which can be derived from the <a href="/wiki/Navier%E2%80%93Stokes_equations" title="Navier–Stokes equations">Navier–Stokes equations</a>.</p>
+<p>In many real flows where the viscosity can be neglected (more precisely, in flows with high <a href="/wiki/Reynolds_number" title="Reynolds number">Reynolds number</a>), the vorticity field can be modeled well by a collection of discrete vortices, the vorticity being negligible everywhere except in small regions of space surrounding the axes of the vortices. This is clearly true in the case of 2-D <a href="/wiki/Potential_flow" title="Potential flow">potential flow</a> (i.e. 2-D zero viscosity flow), in which case the flowfield can be modeled as a <a href="/wiki/Complex_number" title="Complex number">complex-valued</a> field on the <a href="/wiki/Complex_plane" title="Complex plane">complex plane</a>.</p>
+<p>Vorticity is a useful tool to understand how the ideal potential flow solutions can be perturbed to model real flows. In general, the presence of viscosity causes a <a href="/wiki/Diffusion" title="Diffusion">diffusion</a> of vorticity away from the vortex cores into the general flow field. This flow is accounted for by the diffusion term in the vorticity transport equation. Thus, in cases of very viscous flows (e.g. <a class="mw-redirect" href="/wiki/Couette_Flow" title="Couette Flow">Couette Flow</a>), the vorticity will be diffused throughout the flow field and it is probably simpler to look at the velocity field than at the vorticity.</p>
+<h2><span class="mw-headline" id="Vortex_lines_and_vortex_tubes">Vortex lines and vortex tubes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=4" title="Edit section: Vortex lines and vortex tubes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A <b>vortex line</b> or <b>vorticity line</b> is a line which is everywhere tangent to the local vorticity vector. Vortex lines are defined by the relation <sup class="reference" id="cite_ref-Kundu_3-0"><a href="#cite_note-Kundu-3">[3]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>x</mi>
+</mrow>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>y</mi>
+</mrow>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>z</mi>
+</mrow>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {dx \over \omega _{x}}={dy \over \omega _{y}}={dz \over \omega _{z}},}</annotation>
+</semantics>
+</math></span><img alt="{dx \over \omega _{x}}={dy \over \omega _{y}}={dz \over \omega _{z}}," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a8b21935528ceaff10940f81e7adf0e353f076d0" style="vertical-align: -2.505ex; width:16.998ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>ω<!-- ω --></mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>ω<!-- ω --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\vec {\omega }}=(\omega _{x},\omega _{y},\omega _{z}),}</annotation>
+</semantics>
+</math></span><img alt="{\vec {\omega }}=(\omega _{x},\omega _{y},\omega _{z})," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3b09285b4c5fcef7b4f6b5f317da1429d05c7ec3" style="vertical-align: -1.005ex; width:16.756ex; height:3.009ex;"/></span> is the vorticity vector in cartesian coordinates.</p>
+<p>A <b>vortex tube</b> is the surface in the continuum formed by all vortex-lines passing through a given (reducible) closed curve in the continuum. The 'strength' of a vortex-tube (also called <b>vortex flux</b>)<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> is the integral of the vorticity across a cross-section of the tube, and is the same everywhere along the tube (because vorticity has zero divergence). It is a consequence of <a href="/wiki/Helmholtz%27s_theorems" title="Helmholtz's theorems">Helmholtz's theorems</a> (or equivalently, of <a href="/wiki/Kelvin%27s_circulation_theorem" title="Kelvin's circulation theorem">Kelvin's circulation theorem</a>) that in an inviscid fluid the 'strength' of the vortex tube is also constant with time. Viscous effects introduce frictional losses and time dependence.</p>
+<p>In a three dimensional flow, vorticity (as measured by the volume integral of its squared magnitude) can be intensified when a vortex-line is extended — a phenomenon known as <a href="/wiki/Vortex_stretching" title="Vortex stretching">vortex stretching</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> This phenomenon occurs in the formation of a bath-tub vortex in out-flowing water, and the build-up of a tornado by rising air-currents.</p>
+<p><a href="/wiki/Hydrodynamical_helicity" title="Hydrodynamical helicity">Helicity</a> is vorticity in motion along a third axis in a corkscrew fashion.</p>
+<h2><span class="mw-headline" id="Vorticity_meters">Vorticity meters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=5" title="Edit section: Vorticity meters">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Rotating-vane_vorticity_meter">Rotating-vane vorticity meter</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=6" title="Edit section: Rotating-vane vorticity meter">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>A rotating-vane vorticity meter was invented by Russian hydraulic engineer A.Ya.Milovich (1874-1958). In 1913 he proposed a cork with four blades attached as a device qualitatively showing the magnitude of the vertical projection of the vorticity and demonstrated a motion-picture photography of float's motion on the water surface in a model of river bend.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p>Rotating-vane vorticity meters are commonly shown in educational films on continuum mechanics (famous examples include the NCFMF's "Vorticity"<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> and "Fundamental Principles of Flow" by Iowa Institute of Hydraulic Research<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup>).</p>
+<h3><span class="mw-headline" id="Non-rotating_vorticity_meters">Non-rotating vorticity meters</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=7" title="Edit section: Non-rotating vorticity meters">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg"><img alt="[icon]" data-file-height="31" data-file-width="44" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/></a></td>
+<td class="mbox-text">
+<div class="mbox-text-span"><b>This section is empty.</b> <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Vorticity&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(July 2014)</i></small></div>
+</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Specific_sciences">Specific sciences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=8" title="Edit section: Specific sciences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Aeronautics">Aeronautics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=9" title="Edit section: Aeronautics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In <a href="/wiki/Aerodynamics" title="Aerodynamics">aerodynamics</a>, the <a href="/wiki/Lift_(force)" title="Lift (force)">lift</a> distribution over a finite wing may be approximated by assuming that each segment of the wing has a semi-infinite trailing vortex behind it. It is then possible to solve for the strength of the vortices using the criterion that there be no flow induced through the surface of the wing. This procedure is called the vortex panel method of <a href="/wiki/Computational_fluid_dynamics" title="Computational fluid dynamics">computational fluid dynamics</a>. The strengths of the vortices are then summed to find the total approximate <a href="/wiki/Circulation_(fluid_dynamics)" title="Circulation (fluid dynamics)">circulation</a> about the wing. According to the <a href="/wiki/Kutta%E2%80%93Joukowski_theorem" title="Kutta–Joukowski theorem">Kutta–Joukowski theorem</a>, lift is the product of circulation, airspeed, and air density.</p>
+<h3><span class="mw-headline" id="Atmospheric_sciences">Atmospheric sciences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=10" title="Edit section: Atmospheric sciences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <b>relative vorticity</b> is the vorticity of the air velocity field relative to the Earth. This is often modeled as a two-dimensional flow parallel to the ground, so that the relative vorticity vector is generally perpendicular to the ground, and can then be viewed as a scalar quantity, positive when the vector points upward, negative when it points downwards. Therefore, vorticity is positive when the wind turns counter-clockwise (looking down onto the Earth's surface). In the Northern Hemisphere, positive vorticity is called <a href="/wiki/Cyclonic_rotation" title="Cyclonic rotation">cyclonic rotation</a>, and negative vorticity is <a href="/wiki/Anticyclone" title="Anticyclone">anticyclonic rotation</a>; the nomenclature is reversed in the Southern Hemisphere.</p>
+<p>The <b>absolute vorticity</b> is computed from the air velocity relative to an inertial frame, and therefore includes a term due to the Earth's rotation, the <a class="mw-redirect" href="/wiki/Coriolis_parameter" title="Coriolis parameter">Coriolis parameter</a>.</p>
+<p>The <a href="/wiki/Potential_vorticity" title="Potential vorticity">potential vorticity</a> is absolute vorticity divided by the vertical spacing between levels of constant <a href="/wiki/Entropy" title="Entropy">entropy</a> (or <a href="/wiki/Potential_temperature" title="Potential temperature">potential temperature</a>). The absolute vorticity of an air mass will change if the air mass is stretched (or compressed) in the <i>z</i> direction, but the potential vorticity is <a class="mw-redirect" href="/wiki/Conservation_law_(physics)" title="Conservation law (physics)">conserved</a> in an <a class="mw-redirect" href="/wiki/Adiabatic" title="Adiabatic">adiabatic</a> flow, which predominates in the atmosphere. The potential vorticity is therefore useful as an approximate <a href="/wiki/Flow_tracer" title="Flow tracer">tracer</a> of air masses over the timescale of a few days, particularly when viewed on levels of constant entropy.</p>
+<p>The <a href="/wiki/Barotropic_vorticity_equation" title="Barotropic vorticity equation">barotropic vorticity equation</a> is the simplest way for forecasting the movement of <a href="/wiki/Rossby_wave" title="Rossby wave">Rossby waves</a> (that is, the <a href="/wiki/Trough_(meteorology)" title="Trough (meteorology)">troughs</a> and <a href="/wiki/Ridge" title="Ridge">ridges</a> of 500 <a href="/wiki/Pascal_(unit)" title="Pascal (unit)">hPa</a> <a href="/wiki/Geopotential_height" title="Geopotential height">geopotential height</a>) over a limited amount of time (a few days). In the 1950s, the first successful programs for <a class="mw-redirect" href="/wiki/Numerical_weather_forecasting" title="Numerical weather forecasting">numerical weather forecasting</a> utilized that equation.</p>
+<p>In modern <i>numerical weather forecasting models</i> and <a href="/wiki/General_circulation_model" title="General circulation model">general circulation models</a> (GCM's), vorticity may be one of the predicted variables, in which case the corresponding time-dependent equation is a <a href="/wiki/Prognostic_equation" title="Prognostic equation">prognostic equation</a>.</p>
+<p>Helicity of the air motion is important in forecasting <a href="/wiki/Supercell" title="Supercell">supercells</a> and the potential for <a href="/wiki/Tornado" title="Tornado">tornadic</a> activity.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=11" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Barotropic_vorticity_equation" title="Barotropic vorticity equation">Barotropic vorticity equation</a></li>
+<li><a href="/wiki/D%27Alembert%27s_paradox" title="D'Alembert's paradox">D'Alembert's paradox</a></li>
+<li><a href="/wiki/Enstrophy" title="Enstrophy">Enstrophy</a></li>
+<li><a href="/wiki/Velocity_potential" title="Velocity potential">Velocity potential</a></li>
+<li><a href="/wiki/Vortex" title="Vortex">Vortex</a></li>
+<li><a href="/wiki/Vortex_tube" title="Vortex tube">Vortex tube</a></li>
+<li><a href="/wiki/Vortex_stretching" title="Vortex stretching">Vortex stretching</a></li>
+<li><a class="mw-redirect" href="/wiki/Vortical" title="Vortical">Vortical</a></li>
+<li><a href="/wiki/Horseshoe_vortex" title="Horseshoe vortex">Horseshoe vortex</a></li>
+<li><a href="/wiki/Wingtip_vortices" title="Wingtip vortices">Wingtip vortices</a></li>
+</ul>
+<h3><span class="mw-headline" id="Fluid_dynamics">Fluid dynamics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=12" title="Edit section: Fluid dynamics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Biot%E2%80%93Savart_law#Aerodynamics_applications" title="Biot–Savart law">Biot–Savart law</a></li>
+<li><a href="/wiki/Circulation_(fluid_dynamics)" title="Circulation (fluid dynamics)">Circulation</a></li>
+<li><a href="/wiki/Vorticity_equation" title="Vorticity equation">Vorticity equations</a></li>
+<li><a href="/wiki/Kutta%E2%80%93Joukowski_theorem" title="Kutta–Joukowski theorem">Kutta–Joukowski theorem</a></li>
+</ul>
+<h3><span class="mw-headline" id="Atmospheric_sciences_2">Atmospheric sciences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=13" title="Edit section: Atmospheric sciences">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Prognostic_equation" title="Prognostic equation">Prognostic equation</a></li>
+<li><a href="/wiki/Carl-Gustaf_Rossby" title="Carl-Gustaf Rossby">Carl-Gustaf Rossby</a></li>
+<li><a href="/wiki/Hans_Ertel" title="Hans Ertel">Hans Ertel</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=14" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.atmos.washington.edu/2004Q4/211/Lecture10_notes.html" rel="nofollow">Lecture Notes from University of Washington</a> <a class="external text" href="https://web.archive.org/web/20151016224443/http://www.atmos.washington.edu/2004Q4/211/Lecture10_notes.html" rel="nofollow">Archived</a> October 16, 2015, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-Clancy7.11-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Clancy7.11_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Clancy7.11_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Clancy, L.J., <i>Aerodynamics</i>, Section 7.11</span></li>
+<li id="cite_note-Kundu-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Kundu_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Kundu P and Cohen I. <i>Fluid Mechanics</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVorticity&amp;rft.au=Kundu+P+and+Cohen+I&amp;rft.btitle=Fluid+Mechanics&amp;rft.genre=book&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.astro.uu.nl/~achterb/aigd/aigd6.ppt" rel="nofollow">Introduction to Astrophysical Gas Dynamics</a> <a class="external text" href="https://web.archive.org/web/20110614145254/http://www.astro.uu.nl/~achterb/aigd/aigd6.ppt" rel="nofollow">Archived</a> June 14, 2011, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Batchelor, section 5.2</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Nikolay_Yegorovich_Zhukovsky" title="Nikolay Yegorovich Zhukovsky">Joukovsky N.E.</a> (1914). "On the motion of water at a turn of a river". <i><a href="/wiki/Matematicheskii_Sbornik" title="Matematicheskii Sbornik">Matematicheskii Sbornik</a></i>. <b>28</b>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVorticity&amp;rft.atitle=On+the+motion+of+water+at+a+turn+of+a+river&amp;rft.au=Joukovsky+N.E.&amp;rft.date=1914&amp;rft.genre=article&amp;rft.jtitle=Matematicheskii+Sbornik&amp;rft.volume=28&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span>. Reprinted in: <cite class="citation book"><a class="external text" href="http://books.e-heritage.ru/book/10075055" rel="nofollow"><i>Collected works</i></a>. <b>4</b>. Moscow; Leningrad. 1937. pp. 193–216; 231–233 (abstract in English).</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVorticity&amp;rft.btitle=Collected+works&amp;rft.date=1937&amp;rft.genre=book&amp;rft.pages=193-216%3B+231-233+%28abstract+in+English%29&amp;rft.place=Moscow%3B+Leningrad&amp;rft_id=http%3A%2F%2Fbooks.e-heritage.ru%2Fbook%2F10075055&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> "Professor Milovich's float", as Joukovsky refers this vorticity meter to, is schematically shown in figure on page 196 of Collected works.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://web.mit.edu/hml/ncfmf.html" rel="nofollow">National Committee for Fluid Mechanics Films</a> <a class="external text" href="https://web.archive.org/web/20161021122939/http://web.mit.edu/hml/ncfmf.html" rel="nofollow">Archived</a> October 21, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.iihr.uiowa.edu/research/publications-and-media/films-by-hunter-rouse/" rel="nofollow">Films by Hunter Rouse — IIHR — Hydroscience &amp; Engineering</a> <a class="external text" href="https://web.archive.org/web/20160421032612/http://www.iihr.uiowa.edu/research/publications-and-media/films-by-hunter-rouse/" rel="nofollow">Archived</a> April 21, 2016, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="Bibliography">Bibliography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=15" title="Edit section: Bibliography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Clancy, L.J. (1975), <i>Aerodynamics</i>, Pitman Publishing Limited, London <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-273-01120-0" title="Special:BookSources/0-273-01120-0">0-273-01120-0</a></li>
+<li>"<i><a class="external text" href="http://www.weather.com/glossary/v.html" rel="nofollow">Weather Glossary</a></i>"' The Weather Channel Interactive, Inc.. 2004.</li>
+<li>"<i><a class="external text" href="http://www.tpub.com/content/aerographer/14010/css/14010_18.htm" rel="nofollow">Vorticity</a></i>". Integrated Publishing.</li>
+</ul>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=16" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation" id="CITEREFBatchelor2000"><a href="/wiki/George_Batchelor" title="George Batchelor">Batchelor, G. K.</a> (2000) [1967], <i>An Introduction to Fluid Dynamics</i>, Cambridge University Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-66396-2" title="Special:BookSources/0-521-66396-2">0-521-66396-2</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVorticity&amp;rft.aufirst=G.+K.&amp;rft.aulast=Batchelor&amp;rft.btitle=An+Introduction+to+Fluid+Dynamics&amp;rft.date=2000&amp;rft.genre=book&amp;rft.isbn=0-521-66396-2&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li>Ohkitani, K., "<i>Elementary Account Of Vorticity And Related Equations</i>". Cambridge University Press. January 30, 2005. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-81984-9" title="Special:BookSources/0-521-81984-9">0-521-81984-9</a></li>
+<li><a href="/wiki/Alexandre_Chorin" title="Alexandre Chorin">Chorin, Alexandre J.</a>, "<i>Vorticity and Turbulence</i>". Applied Mathematical Sciences, Vol 103, Springer-Verlag. March 1, 1994. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-387-94197-5" title="Special:BookSources/0-387-94197-5">0-387-94197-5</a></li>
+<li><a href="/wiki/Andrew_Majda" title="Andrew Majda">Majda, Andrew J.</a>, Andrea L. Bertozzi, "<i>Vorticity and Incompressible Flow</i>". Cambridge University Press; 2002. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-63948-4" title="Special:BookSources/0-521-63948-4">0-521-63948-4</a></li>
+<li>Tritton, D. J., "<i>Physical Fluid Dynamics</i>". Van Nostrand Reinhold, New York. 1977. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-19-854493-6" title="Special:BookSources/0-19-854493-6">0-19-854493-6</a></li>
+<li>Arfken, G., "<i>Mathematical Methods for Physicists</i>", 3rd ed. Academic Press, Orlando, Florida. 1985. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-059820-5" title="Special:BookSources/0-12-059820-5">0-12-059820-5</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vorticity&amp;action=edit&amp;section=17" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Vorticity" title="commons:Category:Vorticity">Vorticity</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li>Weisstein, Eric W., "<i><a class="external text" href="http://scienceworld.wolfram.com/physics/Vorticity.html" rel="nofollow">Vorticity</a></i>". Scienceworld.wolfram.com.</li>
+<li>Doswell III, Charles A., "<i><a class="external text" href="http://www.cimms.ou.edu/~doswell/vorticity/vorticity_primer.html" rel="nofollow">A Primer on Vorticity for Application in Supercells and Tornadoes</a></i>". Cooperative Institute for Mesoscale Meteorological Studies, Norman, Oklahoma.</li>
+<li>Cramer, M. S., "<i>Navier–Stokes Equations -- <a class="external text" href="http://www.navier-stokes.net/nsvint.htm" rel="nofollow">Vorticity Transport Theorems</a>: Introduction</i>". Foundations of Fluid Mechanics.</li>
+<li>Parker, Douglas, "<i>ENVI 2210 - Atmosphere and Ocean Dynamics, <a class="external text" href="https://web.archive.org/web/20040504110849/http://www.env.leeds.ac.uk/envi2210/lectures/lect9.html" rel="nofollow">9: Vorticity</a></i>". School of the Environment, University of Leeds. September 2001.</li>
+<li><a href="/wiki/James_R._Graham" title="James R. Graham">Graham, James R.</a>, "<i>Astronomy 202: Astrophysical Gas Dynamics</i>". Astronomy Department, <a class="mw-redirect" href="/wiki/UC_Berkeley" title="UC Berkeley">UC Berkeley</a>.
+<ul>
+<li>"<i><a class="external text" href="http://astron.berkeley.edu/~jrg/ay202/node92.html" rel="nofollow">The vorticity equation: incompressible and barotropic fluids</a></i>".</li>
+<li>"<i><a class="external text" href="http://astron.berkeley.edu/~jrg/ay202/node93.html" rel="nofollow">Interpretation of the vorticity equation</a></i>".</li>
+<li>"<i><a class="external text" href="http://astron.berkeley.edu/~jrg/ay202/node94.html" rel="nofollow">Kelvin's vorticity theorem for incompressible or barotropic flow</a></i>".</li>
+</ul>
+</li>
+<li>"<i><a class="external text" href="http://www.scd.ucar.edu/css/software/spherepack/" rel="nofollow">Spherepack 3.1</a></i>". (includes a collection of FORTRAN vorticity program)</li>
+<li>"<i><a class="external text" href="http://132.206.43.151:5080/realtime/main_page.html" rel="nofollow">Mesoscale Compressible Community (MC2)</a> Real-Time Model Predictions</i>". (Potential vorticity analysis)</li>
+</ul>
+<div aria-labelledby="Meteorological_data_and_variables" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_variables" title="Template:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_variables" title="Template talk:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_variables&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Meteorological_data_and_variables" style="font-size:114%;margin:0 4em">Meteorological data and variables</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic processes</a></li>
+<li><a href="/wiki/Advection" title="Advection">Advection</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Lapse_rate" title="Lapse rate">Lapse rate</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">Surface solar radiation</a></li>
+<li><a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Surface weather analysis</a></li>
+<li><a href="/wiki/Visibility" title="Visibility">Visibility</a></li>
+<li><a class="mw-selflink selflink">Vorticity</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Wind_shear" title="Wind shear">Wind shear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Condensation" title="Condensation">Condensation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">Cloud condensation nuclei (CCN)</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Convective_condensation_level" title="Convective condensation level">Convective condensation level (CCL)</a></li>
+<li><a href="/wiki/Lifted_condensation_level" title="Lifted condensation level">Lifted condensation level (LCL)</a></li>
+<li><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></li>
+<li><a href="/wiki/Water_vapor" title="Water vapor">Water vapor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Convection</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">Convective available potential energy (CAPE)</a></li>
+<li><a href="/wiki/Convective_inhibition" title="Convective inhibition">Convective inhibition (CIN)</a></li>
+<li><a href="/wiki/Convective_instability" title="Convective instability">Convective instability</a></li>
+<li><a href="/wiki/Convective_momentum_transport" title="Convective momentum transport">Convective momentum transport</a></li>
+<li><a href="/wiki/Convective_temperature" title="Convective temperature">Convective temperature (<i>T</i><sub>c</sub>)</a></li>
+<li><a href="/wiki/Equilibrium_level" title="Equilibrium level">Equilibrium level (EL)</a></li>
+<li><a href="/wiki/Free_convective_layer" title="Free convective layer">Free convective layer (FCL)</a></li>
+<li><a class="mw-redirect" href="/wiki/Helicity_(fluid_mechanics)#Meteorology" title="Helicity (fluid mechanics)">Helicity</a></li>
+<li><a href="/wiki/K-index_(meteorology)" title="K-index (meteorology)">K Index</a></li>
+<li><a href="/wiki/Level_of_free_convection" title="Level of free convection">Level of free convection (LFC)</a></li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index (LI)</a></li>
+<li><a href="/wiki/Maximum_parcel_level" title="Maximum parcel level">Maximum parcel level (MPL)</a></li>
+<li><a href="/wiki/Bulk_Richardson_number" title="Bulk Richardson number">Bulk Richardson number (BRN)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Temperature" title="Temperature">Temperature</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dew_point" title="Dew point">Dew point (<i>T</i><sub>d</sub>)</a></li>
+<li><a href="/wiki/Dew_point_depression" title="Dew point depression">Dew point depression</a></li>
+<li><a href="/wiki/Dry-bulb_temperature" title="Dry-bulb temperature">Dry-bulb temperature</a></li>
+<li><a href="/wiki/Equivalent_temperature" title="Equivalent temperature">Equivalent temperature (<i>T</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Forest_fire_weather_index" title="Forest fire weather index">Forest fire weather index</a></li>
+<li><a href="/wiki/Haines_Index" title="Haines Index">Haines Index</a></li>
+<li><a href="/wiki/Heat_index" title="Heat index">Heat index</a></li>
+<li><a href="/wiki/Humidex" title="Humidex">Humidex</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Relative_humidity" title="Relative humidity">Relative humidity (RH)</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Potential_temperature" title="Potential temperature">Potential temperature (<i>θ</i>)</a></li>
+<li><a href="/wiki/Equivalent_potential_temperature" title="Equivalent potential temperature">Equivalent potential temperature (<i>θ</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature (SST)</a></li>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Thermodynamic temperature</a></li>
+<li><a href="/wiki/Vapor_pressure" title="Vapor pressure">Vapor pressure</a></li>
+<li><a href="/wiki/Virtual_temperature" title="Virtual temperature">Virtual temperature</a></li>
+<li><a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">Wet-bulb temperature</a></li>
+<li><a href="/wiki/Wet-bulb_potential_temperature" title="Wet-bulb potential temperature">Wet-bulb potential temperature</a></li>
+<li><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pressure" title="Pressure">Pressure</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a class="mw-redirect" href="/wiki/Barotropic" title="Barotropic">Barotropicity</a></li>
+<li><a href="/wiki/Pressure_gradient" title="Pressure gradient">Pressure gradient</a></li>
+<li><a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">Pressure-gradient force (PGF)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1274
+Cached time: 20171002095150
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.260 seconds
+Real time usage: 0.387 seconds
+Preprocessor visited node count: 2542/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63371/2097152 bytes
+Template argument size: 2789/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.084/10.000 seconds
+Lua memory usage: 3.59 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  260.150      1 -total
+ 31.11%   80.941      1 Template:Reflist
+ 19.18%   49.889      6 Template:ISBN
+ 18.08%   47.047      2 Template:Cite_book
+ 17.10%   44.483      1 Template:More_footnotes
+ 11.02%   28.663      1 Template:Commons_category
+ 10.93%   28.436      2 Template:Ambox
+  9.74%   25.340      1 Template:Commons
+  9.21%   23.950      1 Template:Sister_project
+  8.37%   21.764      1 Template:Continuum_mechanics
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:166010-0!canonical!math=5 and timestamp 20171002095149 and revision id 798603415
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vorticity&amp;oldid=798603415">https://en.wikipedia.org/w/index.php?title=Vorticity&amp;oldid=798603415</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Continuum_mechanics" title="Category:Continuum mechanics">Continuum mechanics</a></li><li><a href="/wiki/Category:Fluid_dynamics" title="Category:Fluid dynamics">Fluid dynamics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_May_2009" title="Category:Articles lacking in-text citations from May 2009">Articles lacking in-text citations from May 2009</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:Articles_to_be_expanded_from_July_2014" title="Category:Articles to be expanded from July 2014">Articles to be expanded from July 2014</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_with_empty_sections_from_July_2014" title="Category:Articles with empty sections from July 2014">Articles with empty sections from July 2014</a></li><li><a href="/wiki/Category:All_articles_with_empty_sections" title="Category:All articles with empty sections">All articles with empty sections</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vorticity" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Vorticity" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Vorticity" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Vorticity" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Vorticity">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Vorticity&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Vorticity&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Vorticity" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Vorticity" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Vorticity&amp;oldid=798603415" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Vorticity&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1143513" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vorticity&amp;id=798603415" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vorticity">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Vorticity&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DVorticity%26returnto%3DVorticity%26oldid%3D798603415%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Vorticity&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Vorticity" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%A7%D9%85%D9%8A%D8%A9" hreflang="ar" lang="ar" title="دوامية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D1%96%D1%85%D1%80%D0%B0%D0%BD%D0%B0%D1%81%D1%86%D1%8C" hreflang="be" lang="be" title="Завіхранасць – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Vorticitat" hreflang="ca" lang="ca" title="Vorticitat – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Vorticita" hreflang="cs" lang="cs" title="Vorticita – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Wirbelst%C3%A4rke" hreflang="de" lang="de" title="Wirbelstärke – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Vorticidad" hreflang="es" lang="es" title="Vorticidad – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Tourbillon_(physique)" hreflang="fr" lang="fr" title="Tourbillon (physique) – French">Français</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%BF%E0%A4%B2%E0%A4%A4%E0%A4%BE" hreflang="hi" lang="hi" title="भ्रमिलता – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Vorticit%C3%A0" hreflang="it" lang="it" title="Vorticità – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%91%D7%95%D7%9C%D7%99%D7%95%D7%AA" hreflang="he" lang="he" title="ערבוליות – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Vorticiteit" hreflang="nl" lang="nl" title="Vorticiteit – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B8%A6%E5%BA%A6" hreflang="ja" lang="ja" title="渦度 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kvervling" hreflang="nn" lang="nn" title="Kvervling – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wirowo%C5%9B%C4%87" hreflang="pl" lang="pl" title="Wirowość – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Vorticidade" hreflang="pt" lang="pt" title="Vorticidade – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Vorticitate" hreflang="ro" lang="ro" title="Vorticitate – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%97%D0%B0%D0%B2%D0%B8%D1%85%D1%80%D0%B5%D0%BD%D0%BD%D0%BE%D1%81%D1%82%D1%8C" hreflang="ru" lang="ru" title="Завихренность – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Vorticity" hreflang="simple" lang="simple" title="Vorticity – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%81%E0%AE%B4%E0%AE%BF%E0%AE%AE%E0%AF%88" hreflang="ta" lang="ta" title="சுழிமை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B6%A1%E9%87%8F" hreflang="zh" lang="zh" title="涡量 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1143513#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 2 September 2017, at 21:26.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Vorticity&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.260","walltime":"0.387","ppvisitednodes":{"value":2542,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63371,"limit":2097152},"templateargumentsize":{"value":2789,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  260.150      1 -total"," 31.11%   80.941      1 Template:Reflist"," 19.18%   49.889      6 Template:ISBN"," 18.08%   47.047      2 Template:Cite_book"," 17.10%   44.483      1 Template:More_footnotes"," 11.02%   28.663      1 Template:Commons_category"," 10.93%   28.436      2 Template:Ambox","  9.74%   25.340      1 Template:Commons","  9.21%   23.950      1 Template:Sister_project","  8.37%   21.764      1 Template:Continuum_mechanics"]},"scribunto":{"limitreport-timeusage":{"value":"0.084","limit":"10.000"},"limitreport-memusage":{"value":3767896,"limit":52428800}},"cachereport":{"origin":"mw1274","timestamp":"20171002095150","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1265"});});</script>
+</body>
+</html>

@@ -1,0 +1,611 @@
+https://en.wikipedia.org/wiki/Wind_shear
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Wind shear - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wind_shear","wgTitle":"Wind shear","wgCurRevisionId":789040430,"wgRevisionId":789040430,"wgArticleId":223992,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from February 2012","Articles with unsourced statements from February 2014","Good articles","Articles containing video clips","Wind","Weather hazards to aircraft","Microscale meteorology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wind_shear","wgRelevantArticleId":223992,"wgRequestId":"WcQWJgpAME0AAK@qQW8AAACR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1027878","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.30.0-wmf.19" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/7/73/Cirrus_clouds2.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wind_shear" rel="alternate"/>
+<link href="/w/index.php?title=Wind_shear&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Wind_shear&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Wind_shear" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wind_shear rootpage-Wind_shear skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Wind shear</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Wind_shear_(disambiguation)" title="Wind shear (disambiguation)">Wind shear (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Cirrus_clouds2.jpg"><img alt="" class="thumbimage" data-file-height="713" data-file-width="1024" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cirrus_clouds2.jpg/220px-Cirrus_clouds2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cirrus_clouds2.jpg/330px-Cirrus_clouds2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/73/Cirrus_clouds2.jpg/440px-Cirrus_clouds2.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Cirrus_clouds2.jpg" title="Enlarge"></a></div>
+<a class="mw-redirect" href="/wiki/Cirrus_clouds" title="Cirrus clouds">Cirrus</a> uncinus ice crystal plumes showing high level wind shear, with changes in wind speed and direction.</div>
+</div>
+</div>
+<p><b>Wind shear</b> (or <b>windshear</b>), sometimes referred to as <a href="/wiki/Wind_gradient" title="Wind gradient">wind gradient</a>, is a difference in <a href="/wiki/Wind" title="Wind">wind</a> <a href="/wiki/Wind_speed" title="Wind speed">speed</a> and/or <a href="/wiki/Wind_direction" title="Wind direction">direction</a> over a relatively short distance in the <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">atmosphere</a>. Atmospheric wind shear is normally described as either vertical or horizontal wind shear. Vertical wind shear is a change in wind speed or direction with change in altitude. Horizontal wind shear is a change in wind speed with change in lateral position for a given altitude.<sup class="reference" id="cite_ref-Shear_1-0"><a href="#cite_note-Shear-1">[1]</a></sup></p>
+<p>Wind shear is a <a href="/wiki/Microscale_meteorology" title="Microscale meteorology">microscale meteorological</a> phenomenon occurring over a very small distance, but it can be associated with <a href="/wiki/Mesoscale_meteorology" title="Mesoscale meteorology">mesoscale</a> or <a class="mw-redirect" href="/wiki/Synoptic_scale" title="Synoptic scale">synoptic scale</a> weather features such as squall lines and cold fronts. It is commonly observed near <a href="/wiki/Microburst" title="Microburst">microbursts</a> and <a href="/wiki/Downburst" title="Downburst">downbursts</a> caused by <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorms</a>, fronts, areas of locally higher low-level winds referred to as low level jets, near <a href="/wiki/Mountain" title="Mountain">mountains</a>, radiation inversions that occur due to clear skies and calm winds, buildings, wind turbines, and sailboats. Wind shear has significant effects on control of an aircraft effect, and it has been a sole or contributing cause of many aircraft accidents.</p>
+<p>Wind shear is sometimes experienced by pedestrians at ground level when walking across a plaza towards a tower block and suddenly encountering a strong wind stream that is flowing around the base of the tower.</p>
+<p>Sound movement through the atmosphere is affected by wind shear, which can bend the wave front, causing sounds to be heard where they normally would not, or vice versa. Strong vertical wind shear within the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a> also inhibits <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a> development, but helps to organize individual thunderstorms into longer life cycles which can then produce <a href="/wiki/Severe_weather" title="Severe weather">severe weather</a>. The <a href="/wiki/Thermal_wind" title="Thermal wind">thermal wind</a> concept explains how differences in wind speed at different heights are dependent on horizontal temperature differences, and explains the existence of the <a href="/wiki/Jet_stream" title="Jet stream">jet stream</a>.<sup class="reference" id="cite_ref-IP_2-0"><a href="#cite_note-IP-2">[2]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Downdraft_Wind_shear-2.jpg"><img alt="" class="thumbimage" data-file-height="2848" data-file-width="4288" height="146" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Downdraft_Wind_shear-2.jpg/220px-Downdraft_Wind_shear-2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Downdraft_Wind_shear-2.jpg/330px-Downdraft_Wind_shear-2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Downdraft_Wind_shear-2.jpg/440px-Downdraft_Wind_shear-2.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Downdraft_Wind_shear-2.jpg" title="Enlarge"></a></div>
+Down draft winds with associated <a href="/wiki/Virga" title="Virga">virga</a> allow these <a href="/wiki/Cloud" title="Cloud">clouds</a> in the eastern sky at civil <a href="/wiki/Twilight" title="Twilight">twilight</a> to mimic <a class="mw-redirect" href="/wiki/Aurora_borealis" title="Aurora borealis">aurora borealis</a> in the <a class="mw-redirect" href="/wiki/Mojave_desert" title="Mojave desert">Mojave desert</a></div>
+</div>
+</div>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Where_and_when_it_is_strongly_observed"><span class="tocnumber">2</span> <span class="toctext">Where and when it is strongly observed</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Horizontal_component"><span class="tocnumber">3</span> <span class="toctext">Horizontal component</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Weather_fronts"><span class="tocnumber">3.1</span> <span class="toctext">Weather fronts</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Near_coastlines"><span class="tocnumber">3.2</span> <span class="toctext">Near coastlines</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Vertical_component"><span class="tocnumber">4</span> <span class="toctext">Vertical component</span></a>
+<ul>
+<li class="toclevel-2 tocsection-7"><a href="#Thermal_wind"><span class="tocnumber">4.1</span> <span class="toctext">Thermal wind</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Effects_on_tropical_cyclones"><span class="tocnumber">4.2</span> <span class="toctext">Effects on tropical cyclones</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Effects_on_thunderstorms_and_severe_weather"><span class="tocnumber">4.3</span> <span class="toctext">Effects on thunderstorms and severe weather</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Planetary_boundary_layer"><span class="tocnumber">4.4</span> <span class="toctext">Planetary boundary layer</span></a>
+<ul>
+<li class="toclevel-3 tocsection-11"><a href="#Effects_on_flight"><span class="tocnumber">4.4.1</span> <span class="toctext">Effects on flight</span></a>
+<ul>
+<li class="toclevel-4 tocsection-12"><a href="#Gliding"><span class="tocnumber">4.4.1.1</span> <span class="toctext">Gliding</span></a></li>
+<li class="toclevel-4 tocsection-13"><a href="#Parachuting"><span class="tocnumber">4.4.1.2</span> <span class="toctext">Parachuting</span></a></li>
+<li class="toclevel-4 tocsection-14"><a href="#Soaring"><span class="tocnumber">4.4.1.3</span> <span class="toctext">Soaring</span></a></li>
+<li class="toclevel-4 tocsection-15"><a href="#Impact_on_passenger_aircraft"><span class="tocnumber">4.4.1.4</span> <span class="toctext">Impact on passenger aircraft</span></a></li>
+</ul>
+</li>
+<li class="toclevel-3 tocsection-16"><a href="#Sailing"><span class="tocnumber">4.4.2</span> <span class="toctext">Sailing</span></a></li>
+<li class="toclevel-3 tocsection-17"><a href="#Sound_propagation"><span class="tocnumber">4.4.3</span> <span class="toctext">Sound propagation</span></a></li>
+<li class="toclevel-3 tocsection-18"><a href="#Effects_on_architecture"><span class="tocnumber">4.4.4</span> <span class="toctext">Effects on architecture</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Wind shear refers to the variation of wind over either horizontal or vertical distances. Airplane pilots generally regard significant wind shear to be a horizontal change in airspeed of 30 <a href="/wiki/Knot_(unit)" title="Knot (unit)">knots</a> (15 m/s) for light aircraft, and near 45 <a href="/wiki/Knot_(unit)" title="Knot (unit)">knots</a> (22 m/s) for airliners at flight altitude.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Vertical speed changes greater than 4.9 knots (2.5 m/s) also qualify as significant wind shear for aircraft. Low level wind shear can affect aircraft airspeed during take off and landing in disastrous ways, and airliner pilots are trained to avoid all microburst wind shear (headwind loss in excess of 30 knots).<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The rationale for this additional caution includes: (1) microburst intensity can double in a minute or less, (2) the winds can shift to excessive cross wind, (3) 40-50 knots is the threshold for survivability at some stages of low-altitude operations, and (4) several of the historical wind shear accidents involved 35-45 knot microbursts. Wind shear is also a key factor in the creation of severe thunderstorms. The additional hazard of <a href="/wiki/Turbulence" title="Turbulence">turbulence</a> is often associated with wind shear.</p>
+<h2><span class="mw-headline" id="Where_and_when_it_is_strongly_observed">Where and when it is strongly observed</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=2" title="Edit section: Where and when it is strongly observed">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Jet_stream" title="Jet stream">Jet stream</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Microburstnasa.JPG"><img alt="" class="thumbimage" data-file-height="496" data-file-width="641" height="193" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microburstnasa.JPG/250px-Microburstnasa.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microburstnasa.JPG/375px-Microburstnasa.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Microburstnasa.JPG/500px-Microburstnasa.JPG 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Microburstnasa.JPG" title="Enlarge"></a></div>
+<a href="/wiki/Microburst" title="Microburst">Microburst</a> schematic from NASA. Note the downward motion of the air until it hits ground level, then spreads outward in all directions. The wind regime in a microburst is completely opposite to a tornado.</div>
+</div>
+</div>
+<p>Weather situations where shear is observed include:</p>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Weather_fronts" title="Weather fronts">Weather fronts</a>. Significant shear is observed when the temperature difference across the front is 5 °C (9 °F) or more, and the front moves at 30 <a href="/wiki/Knot_(unit)" title="Knot (unit)">knots</a> or faster. Because fronts are three-dimensional phenomena, frontal shear can be observed at any altitude between surface and <a href="/wiki/Tropopause" title="Tropopause">tropopause</a>, and therefore be seen both horizontally and vertically. Vertical wind shear above warm fronts is more of an aviation concern than near and behind cold fronts due to their greater duration.<sup class="reference" id="cite_ref-IP_2-1"><a href="#cite_note-IP-2">[2]</a></sup></li>
+<li>Upper-level jet streams. Associated with upper level jet streams is a phenomenon known as <a class="mw-redirect" href="/wiki/Clear_air_turbulence" title="Clear air turbulence">clear air turbulence</a> (CAT), caused by vertical and horizontal wind shear connected to the wind gradient at the edge of the jet streams.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> The CAT is strongest on the anticyclonic shear side of the jet,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> usually next to or just below the axis of the jet.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></li>
+<li>Low-level jet streams. When a nocturnal low-level jet forms overnight above the Earth's surface ahead of a cold front, significant low level vertical wind shear can develop near the lower portion of the low level jet. This is also known as nonconvective wind shear since it is not due to nearby thunderstorms.<sup class="reference" id="cite_ref-IP_2-2"><a href="#cite_note-IP-2">[2]</a></sup></li>
+<li>Mountains. When winds blow over a mountain, vertical shear is observed on the <a href="/wiki/Windward_and_leeward" title="Windward and leeward">lee</a> side. If the flow is strong enough, turbulent <a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">eddies</a> known as "rotors" associated with <a class="mw-redirect" href="/wiki/Lee_waves" title="Lee waves">lee waves</a> may form, which are dangerous to ascending and descending aircraft.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></li>
+<li><a href="/wiki/Inversion_(meteorology)" title="Inversion (meteorology)">Inversions</a>. When on a clear and calm night, a radiation inversion is formed near the ground, the <a href="/wiki/Friction" title="Friction">friction</a> does not affect wind above the top of the inversion layer. The change in wind can be 90 degrees in direction and 40 kt in speed. Even a nocturnal (overnight) low level jet can sometimes be observed. It tends to be strongest towards sunrise. Density differences cause additional problems to aviation.<sup class="reference" id="cite_ref-IP_2-3"><a href="#cite_note-IP-2">[2]</a></sup></li>
+<li><a href="/wiki/Downburst" title="Downburst">Downbursts</a>. When an outflow boundary forms due to a shallow layer of rain-cooled air spreading out near ground level from the parent thunderstorm, both speed and directional wind shear can result at the leading edge of the three dimensional boundary. The stronger the <a href="/wiki/Outflow_boundary" title="Outflow boundary">outflow boundary</a> is, the stronger the resultant vertical wind shear will become.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Horizontal_component">Horizontal component</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=3" title="Edit section: Horizontal component">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Weather_fronts">Weather fronts</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=4" title="Edit section: Weather fronts">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Weather_fronts" title="Weather fronts">Weather fronts</a></div>
+<p>Weather fronts are boundaries between two masses of air of different <a href="/wiki/Density" title="Density">densities</a>, or different temperature and moisture properties, which normally are <a href="/wiki/Convergence_zone" title="Convergence zone">convergence zones</a> in the wind field and are the principal cause of significant weather. Within surface weather analyses, they are depicted using various colored lines and symbols. The air masses usually differ in <a href="/wiki/Temperature" title="Temperature">temperature</a> and may also differ in <a href="/wiki/Humidity" title="Humidity">humidity</a>. Wind shear in the horizontal occurs near these boundaries. <a href="/wiki/Cold_front" title="Cold front">Cold fronts</a> feature narrow bands of <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorms</a> and <a href="/wiki/Severe_weather" title="Severe weather">severe weather</a>, and may be preceded by <a href="/wiki/Squall_line" title="Squall line">squall lines</a> and <a href="/wiki/Dry_line" title="Dry line">dry lines</a>. Cold fronts are sharper surface boundaries with more significant horizontal wind shear than warm fronts. When a front becomes <a href="/wiki/Stationary_front" title="Stationary front">stationary</a>, it can degenerate into a line which separates regions of differing wind speed, known as a <a class="mw-redirect" href="/wiki/Shear_line_(meteorology)" title="Shear line (meteorology)">shear line</a>, though the wind direction across the front normally remains constant. In the <a href="/wiki/Tropics" title="Tropics">tropics</a>, <a href="/wiki/Tropical_wave" title="Tropical wave">tropical waves</a> move from east to west across the <a class="mw-redirect" href="/wiki/Atlantic_basin" title="Atlantic basin">Atlantic</a> and eastern <a class="mw-redirect" href="/wiki/Pacific_basin" title="Pacific basin">Pacific basins</a>. Directional and speed shear can occur across the axis of stronger tropical waves, as northerly winds precede the wave axis and southeast winds are seen behind the wave axis. Horizontal wind shear can also occur along local land breeze and <a href="/wiki/Sea_breeze" title="Sea breeze">sea breeze</a> boundaries.<sup class="reference" id="cite_ref-DR_10-0"><a href="#cite_note-DR-10">[10]</a></sup></p>
+<h3><span class="mw-headline" id="Near_coastlines">Near coastlines</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=5" title="Edit section: Near coastlines">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;">
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:220px;" videopayload='&lt;div class="mediaContainer" style="width:640px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv/640px--20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv.jpg" controls="" preload="none" autoplay="" style="width:640px;height:480px" class="kskin" data-durationhint="21.083333333333" data-startoffset="0" data-mwtitle="20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/52/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="640" data-height="480" data-bandwidth="1026808" data-framerate="12"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/5/52/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv" type="video/ogg; codecs=&amp;quot;theora&amp;quot;" data-title="Original Ogg file, 640 × 480 (1.28 Mbps)" data-shorttitle="Ogg source" data-width="640" data-height="480" data-bandwidth="1276274" data-framerate="12"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/52/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="214" data-height="160" data-bandwidth="129032" data-framerate="12"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/52/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="320" data-height="240" data-bandwidth="254728" data-framerate="12"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/5/52/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="480" data-height="360" data-bandwidth="506616" data-framerate="12"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:20150226-08h40 to 09h45 - JBay - Wind shear.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv/220px--20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv.jpg" style="width:220px;height:165px"/><a href="//upload.wikimedia.org/wikipedia/commons/5/52/20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:20150226-08h40_to_09h45_-_JBay_-_Wind_shear.ogv" title="Enlarge"></a></div>
+Wind shear along the coast with low level clouds moving towards the east and higher level clouds moving towards the south-west</div>
+</div>
+</div>
+<p>The magnitude of winds offshore are nearly double the wind speed observed onshore. This is attributed to the differences in friction between land masses and offshore waters. Sometimes, there are even directional differences, particularly if local sea breezes change the wind on shore during daylight hours.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Vertical_component">Vertical component</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=6" title="Edit section: Vertical component">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Thermal_wind">Thermal wind</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=7" title="Edit section: Thermal wind">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Thermal_wind" title="Thermal wind">Thermal wind</a></div>
+<p>Thermal wind is a meteorological term not referring to an actual <a href="/wiki/Wind" title="Wind">wind</a>, but a <i>difference</i> in the <a href="/wiki/Geostrophic_wind" title="Geostrophic wind">geostrophic wind</a> between two <a class="mw-redirect" href="/wiki/Pressure_level" title="Pressure level">pressure levels</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p_{1}}</annotation>
+</semantics>
+</math></span><img alt="p_{1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b9b58f22283ca46dd5da309cc34303b06a797783" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:2.32ex; height:2.009ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p_{0}}</annotation>
+</semantics>
+</math></span><img alt="p_{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b969ada68a88e2aeba9a2d2096abaf1fd53c21d" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:2.32ex; height:2.009ex;"/></span>, with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>&lt;</mo>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p_{1}&lt;p_{0}}</annotation>
+</semantics>
+</math></span><img alt="p_{1}&lt;p_{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/829a693c770831e1cca12c7922d376d7d880d5d9" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:7.671ex; height:2.176ex;"/></span>; in essence, wind shear. It is only present in an atmosphere with horizontal changes in <a href="/wiki/Temperature" title="Temperature">temperature</a> (or in an ocean with horizontal gradients of <a href="/wiki/Density" title="Density">density</a>), i.e. <a class="mw-redirect" href="/wiki/Baroclinicity" title="Baroclinicity">baroclinicity</a>. In a <a class="mw-redirect" href="/wiki/Barotropic" title="Barotropic">barotropic</a> atmosphere, where temperature is uniform, the geostrophic wind is independent of height. The name stems from the fact that this wind flows around areas of low (and high) temperature in the same manner as the <a href="/wiki/Geostrophic_wind" title="Geostrophic wind">geostrophic wind</a> flows around areas of <a class="mw-redirect" href="/wiki/Low_pressure_area" title="Low pressure area">low</a> (and <a class="mw-redirect" href="/wiki/High_pressure_area" title="High pressure area">high</a>) <a href="/wiki/Pressure" title="Pressure">pressure</a>.<sup class="reference" id="cite_ref-Holton_12-0"><a href="#cite_note-Holton-12">[12]</a></sup></p>
+<p>The <i>thermal wind equation</i> is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>ϕ<!-- ϕ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>ϕ<!-- ϕ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f\mathbf {v} _{T}=\mathbf {k} \times \nabla (\phi _{1}-\phi _{0})}</annotation>
+</semantics>
+</math></span><img alt="f\mathbf {v} _{T}=\mathbf {k} \times \nabla (\phi _{1}-\phi _{0})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/20335c9a562db6285e70ffbe33a0d54bbabd8619" style="vertical-align: -0.838ex; width:23.031ex; height:2.843ex;"/></span>,</dd>
+</dl>
+<p>where the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ϕ<!-- ϕ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi _{x}}</annotation>
+</semantics>
+</math></span><img alt="\phi _{x}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6c310bb476ad5fc326d5e7153c205c0f4e9d94f" style="vertical-align: -0.671ex; width:2.576ex; height:2.509ex;"/></span> are <a href="/wiki/Geopotential_height" title="Geopotential height">geopotential height</a> fields with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ϕ<!-- ϕ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>&gt;</mo>
+<msub>
+<mi>ϕ<!-- ϕ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi _{1}&gt;\phi _{0}}</annotation>
+</semantics>
+</math></span><img alt="\phi _{1}&gt;\phi _{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4054b283305edfc66069db4abc67348bb156cd0c" style="vertical-align: -0.671ex; width:8.024ex; height:2.509ex;"/></span>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+</semantics>
+</math></span><img alt="f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" style="vertical-align: -0.671ex; width:1.289ex; height:2.509ex;"/></span> is the <a class="mw-redirect" href="/wiki/Coriolis_parameter" title="Coriolis parameter">Coriolis parameter</a>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {k} }</annotation>
+</semantics>
+</math></span><img alt="\mathbf {k} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9ea699cbc1f843f2e855577d57529430ec33a1ed" style="vertical-align: -0.338ex; width:1.421ex; height:2.176ex;"/></span> is the upward-pointing <a href="/wiki/Unit_vector" title="Unit vector">unit vector</a> in the <a class="mw-redirect" href="/wiki/Vertical_direction" title="Vertical direction">vertical direction</a>. The thermal wind equation does not determine the wind in the <a href="/wiki/Tropics" title="Tropics">tropics</a>. Since <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f}</annotation>
+</semantics>
+</math></span><img alt="f" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/132e57acb643253e7810ee9702d9581f159a1c61" style="vertical-align: -0.671ex; width:1.289ex; height:2.509ex;"/></span> is small or zero, such as near the equator, the equation reduces to stating that <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>ϕ<!-- ϕ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>ϕ<!-- ϕ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla (\phi _{1}-\phi _{0})}</annotation>
+</semantics>
+</math></span><img alt="\nabla (\phi _{1}-\phi _{0})" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/662fe2e23e7a1b5ba5b8a35838b181b9e4650518" style="vertical-align: -0.838ex; width:11.542ex; height:2.843ex;"/></span> is small.<sup class="reference" id="cite_ref-Holton_12-1"><a href="#cite_note-Holton-12">[12]</a></sup></p>
+<p>This equation basically describes the existence of the jet stream, a westerly current of air with maximum wind speeds close to the <a href="/wiki/Tropopause" title="Tropopause">tropopause</a> which is (even though other factors are also important) the result of the temperature contrast between equator and pole.</p>
+<h3><span class="mw-headline" id="Effects_on_tropical_cyclones">Effects on tropical cyclones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=8" title="Edit section: Effects on tropical cyclones">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Thunderhead.anvil.jpg"><img alt="" class="thumbimage" data-file-height="1528" data-file-width="2421" height="139" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Thunderhead.anvil.jpg/220px-Thunderhead.anvil.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Thunderhead.anvil.jpg/330px-Thunderhead.anvil.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Thunderhead.anvil.jpg/440px-Thunderhead.anvil.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Thunderhead.anvil.jpg" title="Enlarge"></a></div>
+Strong wind shear in the high <a href="/wiki/Troposphere" title="Troposphere">troposphere</a> forms the anvil-shaped top of this mature <a class="mw-redirect" href="/wiki/Cumulonimbus" title="Cumulonimbus">cumulonimbus</a> cloud, or thunderstorm.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Tropical_cyclogenesis" title="Tropical cyclogenesis">Tropical cyclogenesis</a></div>
+<p><a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical cyclones</a> are basically <a href="/wiki/Heat_engine" title="Heat engine">heat engines</a> that are fueled by the <a href="/wiki/Temperature_gradient" title="Temperature gradient">temperature gradient</a> between the warm tropical ocean surface and the colder upper atmosphere. Tropical cyclone development requires relatively low values of vertical wind shear so that their warm core can remain above their surface circulation center, thereby promoting intensification. Vertical wind shear tears up the "machinery" of the heat engine causing it to break down. Strongly sheared tropical cyclones weaken as the upper circulation is blown away from the low level center.</p>
+<p>The vertical wind shear in a tropical cyclone's environment is very important. When the wind shear is weak, the storms that are part of the cyclone grow vertically, and the <a href="/wiki/Latent_heat" title="Latent heat">latent heat</a> from <a href="/wiki/Condensation" title="Condensation">condensation</a> is released into the air directly above the storm, aiding in development. When there is stronger wind shear, this means that the storms become more slanted and the latent heat release is dispersed over a much larger area <sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup><sup class="reference" id="cite_ref-Hurricanes_and_wind_shear_15-0"><a href="#cite_note-Hurricanes_and_wind_shear-15">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Effects_on_thunderstorms_and_severe_weather">Effects on thunderstorms and severe weather</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=9" title="Edit section: Effects on thunderstorms and severe weather">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Severe_thunderstorm" title="Severe thunderstorm">Severe thunderstorm</a></div>
+<p>Severe thunderstorms, which can spawn <a href="/wiki/Tornado" title="Tornado">tornadoes</a> and hailstorms, require wind shear to organize the storm in such a way as to maintain the <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorm</a> for a longer period of time. This occurs as the storm's inflow becomes separated from its rain-cooled outflow. An increasing nocturnal, or overnight, low level jet can increase the severe weather potential by increasing the vertical wind shear through the troposphere. Thunderstorms in an atmosphere with virtually no vertical wind shear weaken as soon as they send out an outflow boundary in all directions, which then quickly cuts off its inflow of relatively warm, moist air and kills the thunderstorm.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<div style="clear:both;"></div>
+<h3><span class="mw-headline" id="Planetary_boundary_layer">Planetary boundary layer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=10" title="Edit section: Planetary boundary layer">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:PBLimage.jpg"><img alt="" class="thumbimage" data-file-height="369" data-file-width="540" height="150" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PBLimage.jpg/220px-PBLimage.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PBLimage.jpg/330px-PBLimage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5f/PBLimage.jpg/440px-PBLimage.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:PBLimage.jpg" title="Enlarge"></a></div>
+Depiction of where the planetary boundary layer lies on a sunny day</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Ekman_layer" title="Ekman layer">Ekman layer</a>, <a href="/wiki/Ekman_spiral" title="Ekman spiral">Ekman spiral</a>, <a href="/wiki/Planetary_boundary_layer" title="Planetary boundary layer">Planetary boundary layer</a>, and <a href="/wiki/Surface_layer" title="Surface layer">Surface layer</a></div>
+<p>The atmospheric effect of surface friction with winds aloft force surface winds to slow and back counterclockwise near the surface of the <a href="/wiki/Earth" title="Earth">Earth</a> blowing inward across isobars (lines of equal pressure), when compared to the winds in frictionless flow well above the Earth's surface.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> This layer where friction slows and changes the wind is known as the <a href="/wiki/Planetary_boundary_layer" title="Planetary boundary layer">planetary boundary layer</a>, sometimes the <a href="/wiki/Ekman_layer" title="Ekman layer">Ekman layer</a>, and it is thickest during the day and thinnest at night. Daytime heating thickens the boundary layer as winds at the surface become increasingly mixed with winds aloft due to <a class="mw-redirect" href="/wiki/Insolation" title="Insolation">insolation</a>, or solar heating. Radiative cooling overnight further enhances wind decoupling between the winds at the surface and the winds above the boundary layer by calming the surface wind which increases wind shear. These wind changes force wind shear between the boundary layer and the wind aloft, and is most emphasized at night.</p>
+<h4><span class="mw-headline" id="Effects_on_flight">Effects on flight</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=11" title="Edit section: Effects on flight">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote navigation-not-searchable" role="note">Main articles: <a href="/wiki/Aeronautics" title="Aeronautics">Aeronautics</a> and <a href="/wiki/Gliding" title="Gliding">Gliding</a></div>
+<h5><span class="mw-headline" id="Gliding">Gliding</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=12" title="Edit section: Gliding">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:FAA-8083-13_Fig_7-20.PNG"><img alt="" class="thumbimage" data-file-height="295" data-file-width="733" height="89" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/FAA-8083-13_Fig_7-20.PNG/220px-FAA-8083-13_Fig_7-20.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/FAA-8083-13_Fig_7-20.PNG/330px-FAA-8083-13_Fig_7-20.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/FAA-8083-13_Fig_7-20.PNG/440px-FAA-8083-13_Fig_7-20.PNG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:FAA-8083-13_Fig_7-20.PNG" title="Enlarge"></a></div>
+Glider ground launch affected by wind shear.</div>
+</div>
+</div>
+<p>In gliding, wind gradients just above the surface affect the takeoff and landing phases of flight of a <a href="/wiki/Glider_(sailplane)" title="Glider (sailplane)">glider</a>. Wind gradient can have a noticeable effect on <a class="mw-redirect" href="/wiki/Ground_launch" title="Ground launch">ground launches</a>, also known as winch launches or wire launches. If the wind gradient is significant or sudden, or both, and the pilot maintains the same pitch attitude, the indicated airspeed will increase, possibly exceeding the maximum ground launch tow speed. The pilot must adjust the airspeed to deal with the effect of the gradient.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></p>
+<p>When landing, wind shear is also a hazard, particularly when the winds are strong. As the glider descends through the wind gradient on final approach to landing, airspeed decreases while sink rate increases, and there is insufficient time to accelerate prior to ground contact. The pilot must anticipate the wind gradient and use a higher approach speed to compensate for it.<sup class="reference" id="cite_ref-Piggott_19-0"><a href="#cite_note-Piggott-19">[19]</a></sup></p>
+<p>Wind shear is also a hazard for aircraft making steep turns near the ground. It is a particular problem for gliders which have a relatively long <a href="/wiki/Wingspan" title="Wingspan">wingspan</a>, which exposes them to a greater wind speed difference for a given <a class="mw-redirect" href="/wiki/Roll_(flight)" title="Roll (flight)">bank</a> angle. The different airspeed experienced by each wing tip can result in an aerodynamic stall on one wing, causing a loss of control accident.<sup class="reference" id="cite_ref-Piggott_19-1"><a href="#cite_note-Piggott-19">[19]</a></sup><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></p>
+<h5><span class="mw-headline" id="Parachuting">Parachuting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=13" title="Edit section: Parachuting">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Wind shear or wind gradients are a threat to parachutists, particularly to <a href="/wiki/BASE_jumping" title="BASE jumping">BASE jumping</a> and <a href="/wiki/Wingsuit_flying" title="Wingsuit flying">wingsuit flying</a>. Skydivers have been pushed off of their course by sudden shifts in wind direction and speed, and have collided with bridges, cliffsides, trees, other skydivers, the ground, and other obstacles.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2012)">citation needed</span></a></i>]</sup> Skydivers routinely make adjustments to the position of their open canopies to compensate for changes in direction while making landings to prevent accidents such as canopy collisions and canopy inversion.</p>
+<h5><span class="mw-headline" id="Soaring">Soaring</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=14" title="Edit section: Soaring">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<p>Soaring related to wind shear, also called <a href="/wiki/Dynamic_soaring" title="Dynamic soaring">dynamic soaring</a>, is a technique used by <a class="mw-redirect" href="/wiki/Soaring_birds" title="Soaring birds">soaring birds</a> like <a href="/wiki/Albatross" title="Albatross">albatrosses</a>, who can maintain flight without wing flapping. If the wind shear is of sufficient magnitude, a bird can climb into the wind gradient, trading ground speed for height, while maintaining airspeed.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> By then turning downwind, and diving through the wind gradient, they can also gain energy.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup> It has also been used by <a href="/wiki/Gliding" title="Gliding">glider pilots</a> on rare occasions.</p>
+<p>Wind shear can also create <a href="/wiki/Lee_wave" title="Lee wave">wave</a>. This occurs when an <a class="mw-redirect" href="/wiki/Atmospheric_inversion" title="Atmospheric inversion">atmospheric inversion</a> separates two layers with a marked difference in wind direction. If the wind encounters distortions in the inversion layer caused by <a href="/wiki/Thermal" title="Thermal">thermals</a> coming up from below, it will create significant shear waves that can be used for soaring.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup></p>
+<h5><span class="mw-headline" id="Impact_on_passenger_aircraft">Impact on passenger aircraft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=15" title="Edit section: Impact on passenger aircraft">edit</a><span class="mw-editsection-bracket">]</span></span></h5>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Windshearaircraftnasa.gif"><img alt="" class="thumbimage" data-file-height="468" data-file-width="720" height="130" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Windshearaircraftnasa.gif/200px-Windshearaircraftnasa.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Windshearaircraftnasa.gif/300px-Windshearaircraftnasa.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f5/Windshearaircraftnasa.gif/400px-Windshearaircraftnasa.gif 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Windshearaircraftnasa.gif" title="Enlarge"></a></div>
+Effect of wind shear on aircraft trajectory. Note how merely correcting for the initial gust front can have dire consequences.</div>
+</div>
+</div>
+<p>Strong outflow from thunderstorms causes rapid changes in the three-dimensional wind velocity just above ground level. Initially, this outflow causes a headwind that increases airspeed, which normally causes a pilot to reduce engine power if they are unaware of the wind shear. As the aircraft passes into the region of the downdraft, the localized headwind diminishes, reducing the aircraft's airspeed and increasing its sink rate. Then, when the aircraft passes through the other side of the downdraft, the headwind becomes a tailwind, reducing lift generated by the wings, and leaving the aircraft in a low-power, low-speed descent. This can lead to an accident if the aircraft is too low to effect a recovery before ground contact.</p>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Delta_191_wreckage.jpg"><img alt="" class="thumbimage" data-file-height="386" data-file-width="600" height="142" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Delta_191_wreckage.jpg/220px-Delta_191_wreckage.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/Delta_191_wreckage.jpg/330px-Delta_191_wreckage.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/Delta_191_wreckage.jpg/440px-Delta_191_wreckage.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Delta_191_wreckage.jpg" title="Enlarge"></a></div>
+Wreckage of <a href="/wiki/Delta_Air_Lines_Flight_191" title="Delta Air Lines Flight 191">Delta Air Lines Flight 191</a> tail section after a microburst slammed the aircraft into the ground. Another aircraft can be seen flying in the background past the crash scene.</div>
+</div>
+</div>
+<p>As the result of the accidents in the 1970s and 1980s, most notably following the 1985 crash of <a href="/wiki/Delta_Air_Lines_Flight_191" title="Delta Air Lines Flight 191">Delta Air Lines Flight 191</a>, in 1988 the U.S. <a href="/wiki/Federal_Aviation_Administration" title="Federal Aviation Administration">Federal Aviation Administration</a> mandated that all commercial aircraft have <a href="/wiki/Airborne_wind_shear_detection_and_alert_system" title="Airborne wind shear detection and alert system">on-board wind shear detection systems</a> by 1993. Between 1964 and 1985, wind shear directly caused or contributed to 26 major civil transport aircraft accidents in the U.S. that led to 620 deaths and 200 injuries.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> Since 1995, the number of major civil aircraft accidents caused by wind shear has dropped to approximately one every ten years, due to the mandated on-board detection as well as the addition of Doppler <a href="/wiki/Weather_radar" title="Weather radar">weather radar</a> units on the ground (<a href="/wiki/NEXRAD" title="NEXRAD">NEXRAD</a>).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2014)">citation needed</span></a></i>]</sup> The installation of high-resolution <a href="/wiki/Terminal_Doppler_Weather_Radar" title="Terminal Doppler Weather Radar">Terminal Doppler Weather Radar</a> stations at many U.S. airports that are commonly affected by wind shear has further aided the ability of pilots and ground controllers to avoid wind shear conditions.<sup class="reference" id="cite_ref-tdwr-nws_25-0"><a href="#cite_note-tdwr-nws-25">[25]</a></sup></p>
+<h4><span class="mw-headline" id="Sailing">Sailing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=16" title="Edit section: Sailing">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p>Wind shear affects <a class="mw-redirect" href="/wiki/Sailboats" title="Sailboats">sailboats</a> in motion by presenting a different wind speed and direction at different heights along the <a href="/wiki/Mast_(sailing)" title="Mast (sailing)">mast</a>. The effect of low level wind shear can be factored into the selection of <a href="/wiki/Sail_twist" title="Sail twist">sail twist</a> in the sail design, but this can be difficult to predict since wind shear may vary widely in different weather conditions. <a class="mw-redirect" href="/wiki/Sailors" title="Sailors">Sailors</a> may also adjust the trim of the sail to account for low level wind shear, for example using a <a href="/wiki/Boom_vang" title="Boom vang">boom vang</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup></p>
+<h4><span class="mw-headline" id="Sound_propagation">Sound propagation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=17" title="Edit section: Sound propagation">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Speed_of_sound" title="Speed of sound">Speed of sound</a></div>
+<p>Wind shear can have a pronounced effect upon sound propagation in the lower atmosphere, where waves can be "bent" by <a href="/wiki/Refraction" title="Refraction">refraction</a> phenomenon. The audibility of sounds from distant sources, such as <a href="/wiki/Thunder" title="Thunder">thunder</a> or <a href="/wiki/Gunshot" title="Gunshot">gunshots</a>, is very dependent on the amount of shear. The result of these differing sound levels is key in <a href="/wiki/Noise_pollution" title="Noise pollution">noise pollution</a> considerations, for example from <a href="/wiki/Roadway_noise" title="Roadway noise">roadway noise</a> and <a href="/wiki/Aircraft_noise" title="Aircraft noise">aircraft noise</a>, and must be considered in the design of <a href="/wiki/Noise_barrier" title="Noise barrier">noise barriers</a>.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup> This phenomenon was first applied to the field of <a href="/wiki/Noise_pollution" title="Noise pollution">noise pollution</a> study in the 1960s, contributing to the design of urban highways as well as <a href="/wiki/Noise_barrier" title="Noise barrier">noise barriers</a>.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Hodographe_NOAA.PNG"><img alt="" class="thumbimage" data-file-height="648" data-file-width="553" height="258" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hodographe_NOAA.PNG/220px-Hodographe_NOAA.PNG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hodographe_NOAA.PNG/330px-Hodographe_NOAA.PNG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/21/Hodographe_NOAA.PNG/440px-Hodographe_NOAA.PNG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Hodographe_NOAA.PNG" title="Enlarge"></a></div>
+<a href="/wiki/Hodograph" title="Hodograph">Hodograph</a> plot of wind vectors at various heights in the troposphere. Meteorologists can use this plot to evaluate vertical wind shear in weather forecasting. (Source: <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a>)</div>
+</div>
+</div>
+<p>The <a href="/wiki/Speed_of_sound" title="Speed of sound">speed of sound</a> varies with temperature. Since temperature and sound velocity normally decrease with increasing altitude, sound is <a href="/wiki/Refraction" title="Refraction">refracted</a> upward, away from listeners on the ground, creating an <a href="/wiki/Acoustic_shadow" title="Acoustic shadow">acoustic shadow</a> at some distance from the source.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> In the 1862, during the <a href="/wiki/American_Civil_War" title="American Civil War">American Civil War</a> <a href="/wiki/Battle_of_Iuka" title="Battle of Iuka">Battle of Iuka</a>, an acoustic shadow, believed to have been enhanced by a northeast wind, kept two divisions of Union soldiers out of the battle,<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup> because they could not hear the sounds of battle only six miles downwind.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></p>
+<h4><span class="mw-headline" id="Effects_on_architecture">Effects on architecture</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=18" title="Edit section: Effects on architecture">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<p><a href="/wiki/Wind_engineering" title="Wind engineering">Wind engineering</a> is a field of <a href="/wiki/Engineering" title="Engineering">engineering</a> devoted to the analysis of <a href="/wiki/Wind" title="Wind">wind</a> effects on the natural and <a href="/wiki/Built_environment" title="Built environment">built environment</a>. It includes strong winds which may cause discomfort as well as extreme winds such as <a class="mw-redirect" href="/wiki/Tornadoes" title="Tornadoes">tornadoes</a>, <a class="mw-redirect" href="/wiki/Hurricanes" title="Hurricanes">hurricanes</a> and storms which may cause widespread destruction. Wind engineering draws upon <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, <a href="/wiki/Aerodynamics" title="Aerodynamics">aerodynamics</a> and a number of specialist <a href="/wiki/Engineering" title="Engineering">engineering</a> disciplines. The tools used include climate models, atmospheric boundary layer wind tunnels and numerical models. It involves, among other topics, how wind impacting buildings must be accounted for in engineering.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup></p>
+<p><a href="/wiki/Wind_turbine" title="Wind turbine">Wind turbines</a> are affected by wind shear. Vertical wind-speed profiles result in different wind speeds at the blades nearest to the ground level compared to those at the top of blade travel, and this in turn affects the turbine operation.<sup class="reference" id="cite_ref-Heier_33-0"><a href="#cite_note-Heier-33">[33]</a></sup> This low level wind shear can create a large bending moment in the shaft of a two bladed turbine when the blades are vertical.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup> The reduced wind shear over water means shorter and less expensive wind turbine towers can be used in shallow seas.<sup class="reference" id="cite_ref-Lubosny_35-0"><a href="#cite_note-Lubosny-35">[35]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=19" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Aviation_safety" title="Aviation safety">Aviation safety</a></li>
+<li><a href="/wiki/Low_level_windshear_alert_system" title="Low level windshear alert system">Low level windshear alert system</a></li>
+<li><a href="/wiki/Sailing" title="Sailing">Sailing</a></li>
+<li><a href="/wiki/Cumulonimbus_and_aviation" title="Cumulonimbus and aviation">Cumulonimbus and aviation</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Shear-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Shear_1-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.hurricanescience.org/glossary/?letter=V#glossaryword373" rel="nofollow">"Vertical wind shear. Retrieved on 2015-10-24"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.btitle=Vertical+wind+shear.+Retrieved+on+2015-10-24&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.hurricanescience.org%2Fglossary%2F%3Fletter%3DV%23glossaryword373&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-IP-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-IP_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-IP_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-IP_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-IP_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Publishing, Integrated. <a class="external text" href="http://www.tpub.com/weather3/6-15.htm" rel="nofollow">"LOW-LEVEL WIND SHEAR.] Retrieved on 2007-11-25"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Integrated&amp;rft.aulast=Publishing&amp;rft.btitle=LOW-LEVEL+WIND+SHEAR.%5D+Retrieved+on+2007-11-25&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.tpub.com%2Fweather3%2F6-15.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/FAA" title="FAA">FAA</a> <a class="external text" href="http://www.airweb.faa.gov/Regulatory_and_Guidance_Library/rgAdvisoryCircular.nsf/0/b3fb7dd636fb870b862569ba0068920b/$FILE/AC00-54.pdf" rel="nofollow">FAA Advisory Circular Pilot Wind Shear Guide.</a> Retrieved on 2007-12-15.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20071009144924/http://oea.larc.nasa.gov/PAIS/Concept2Reality/wind_shear.html" rel="nofollow">"Wind Shear"</a>. NASA. Archived from <a class="external text" href="http://oea.larc.nasa.gov/PAIS/Concept2Reality/wind_shear.html" rel="nofollow">the original</a> on 2007-10-09<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-10-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.btitle=Wind+Shear&amp;rft.genre=unknown&amp;rft.pub=NASA&amp;rft_id=http%3A%2F%2Foea.larc.nasa.gov%2FPAIS%2FConcept2Reality%2Fwind_shear.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20080118235955/http://www.bbc.co.uk/weather/features/understanding/jetstreams_uk.shtml" rel="nofollow">"Jet Streams in the UK"</a>. BBC. Archived from <a class="external text" href="http://www.bbc.co.uk/weather/features/understanding/jetstreams_uk.shtml" rel="nofollow">the original</a> on January 18, 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2008-05-08</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.btitle=Jet+Streams+in+the+UK&amp;rft.genre=unknown&amp;rft.pub=BBC&amp;rft_id=http%3A%2F%2Fwww.bbc.co.uk%2Fweather%2Ffeatures%2Funderstanding%2Fjetstreams_uk.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Knox, John A. (1997). <a class="external text" href="http://journals.ametsoc.org/doi/abs/10.1175/1520-0493%281997%29125%3C1251:PMOCAT%3E2.0.CO%3B2" rel="nofollow"><i>Possible Mechanisms of Clear-Air Turbulence in Strongly Anticyclonic Flows.</i></a> Retrieved on 2015-01-13.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">CLARK T. L., HALL W. D., KERR R. M., MIDDLETON D., RADKE L., RALPH F. M., NEIMAN P. J., LEVINSON D. <a class="external text" href="http://cat.inist.fr/?aModele=afficheN&amp;cpsidt=1345004" rel="nofollow">Origins of aircraft-damaging clear-air turbulence during the 9 December 1992 Colorado downslope windstorm : Numerical simulations and comparison with observations.</a> Retrieved on 2008-05-08.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">National Center for Atmospheric Research. <a class="external text" href="http://www.ucar.edu/communications/quarterly/spring06/trex.jsp" rel="nofollow">T-REX: Catching the Sierra’s waves and rotors</a> Retrieved on 2006-10-21.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="/wiki/Ted_Fujita" title="Ted Fujita">Fujita, T.T.</a> (1985). "The Downburst, microburst and macroburst". SMRP Research Paper 210, 122 pp.</span></li>
+<li id="cite_note-DR-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-DR_10-0">^</a></b></span> <span class="reference-text">David M. Roth. Hydrometeorological Prediction Center. <a class="external text" href="http://www.wpc.ncep.noaa.gov/sfc/UASfcManualVersion1.pdf" rel="nofollow">Unified Surface Analysis Manual.</a> Retrieved on 2006-10-22.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Franklin B. Schwing and Jackson O. Blanton. <a class="external text" href="http://ams.allenpress.com/perlserv/?request=get-document&amp;doi=10.1175%2F1520-0485(1984)014%3C0193%3ATUOLAS%3E2.0.CO%3B2&amp;ct=1" rel="nofollow">The Use of Land and Sea Based Wind Data in a Simple Circulation Model.</a> Retrieved on 2007-10-03.</span></li>
+<li id="cite_note-Holton-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-Holton_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Holton_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">James R. Holton (2004). <i>An Introduction to Dynamic Meteorology.</i> <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-12-354015-1" title="Special:BookSources/0-12-354015-1">0-12-354015-1</a></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation book">Mcilveen, J. (1992). <i>Fundamentals of Weather and Climate</i>. London: Chapman &amp; Hall. p. 339. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-412-41160-1" title="Special:BookSources/0-412-41160-1">0-412-41160-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=J.&amp;rft.aulast=Mcilveen&amp;rft.btitle=Fundamentals+of+Weather+and+Climate&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=0-412-41160-1&amp;rft.pages=339&amp;rft.place=London&amp;rft.pub=Chapman+%26+Hall&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">University of Illinois. <a class="external text" href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/hurr/grow/home.rxml" rel="nofollow">Hurricanes.</a> Retrieved 2006-10-21.</span></li>
+<li id="cite_note-Hurricanes_and_wind_shear-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hurricanes_and_wind_shear_15-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/hurr/grow/home.rxml" rel="nofollow">"Hurricanes: a tropical cyclone with winds &gt; 64 knots"</a>. University of Illinois.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.btitle=Hurricanes%3A+a+tropical+cyclone+with+winds+%3E+64+knots&amp;rft.genre=unknown&amp;rft.pub=University+of+Illinois&amp;rft_id=http%3A%2F%2Fww2010.atmos.uiuc.edu%2F%28Gh%29%2Fguides%2Fmtr%2Fhurr%2Fgrow%2Fhome.rxml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">University of Illinois. <a class="external text" href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/svr/comp/wind/home.rxml" rel="nofollow">Vertical Wind Shear</a> Retrieved on 2006-10-21.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://glossary.ametsoc.org/wiki/Ekman_layer" rel="nofollow">"AMS Glossary of Meteorology, Ekman layer"</a>. <a class="mw-redirect" href="/wiki/American_Meteorological_Association" title="American Meteorological Association">American Meteorological Association</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-02-15</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.btitle=AMS+Glossary+of+Meteorology%2C+Ekman+layer&amp;rft.genre=unknown&amp;rft.pub=American+Meteorological+Association&amp;rft_id=http%3A%2F%2Fglossary.ametsoc.org%2Fwiki%2FEkman_layer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book"><a class="external text" href="http://www.faa.gov/library/manuals/aircraft/glider_handbook/" rel="nofollow"><i>Glider Flying Handbook</i></a>. U.S. Government Printing Office, Washington D.C.: U.S. Federal Aviation Administration. 2003. pp. 7–16. FAA-8083-13_GFH.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.btitle=Glider+Flying+Handbook&amp;rft.date=2003&amp;rft.genre=book&amp;rft.pages=7-16&amp;rft.place=U.S.+Government+Printing+Office%2C+Washington+D.C.&amp;rft.pub=U.S.+Federal+Aviation+Administration&amp;rft_id=http%3A%2F%2Fwww.faa.gov%2Flibrary%2Fmanuals%2Faircraft%2Fglider_handbook%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Piggott-19"><span class="mw-cite-backlink">^ <a href="#cite_ref-Piggott_19-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Piggott_19-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Piggott, Derek (1997). <i>Gliding: a Handbook on Soaring Flight</i>. Knauff &amp; Grove. pp. 85–86, 130–132. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-9605676-4-5" title="Special:BookSources/978-0-9605676-4-5">978-0-9605676-4-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Derek&amp;rft.aulast=Piggott&amp;rft.btitle=Gliding%3A+a+Handbook+on+Soaring+Flight&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=978-0-9605676-4-5&amp;rft.pages=85-86%2C+130-132&amp;rft.pub=Knauff+%26+Grove&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation book">Knauff, Thomas (1984). <i>Glider Basics from First Flight to Solo</i>. Thomas Knauff. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-9605676-3-1" title="Special:BookSources/0-9605676-3-1">0-9605676-3-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Thomas&amp;rft.aulast=Knauff&amp;rft.btitle=Glider+Basics+from+First+Flight+to+Solo&amp;rft.date=1984&amp;rft.genre=book&amp;rft.isbn=0-9605676-3-1&amp;rft.pub=Thomas+Knauff&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book">Alexander, R. (2002). <i>Principles of Animal Locomotion</i>. Princeton: Princeton University Press. p. 206. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-691-08678-8" title="Special:BookSources/0-691-08678-8">0-691-08678-8</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=R.&amp;rft.aulast=Alexander&amp;rft.btitle=Principles+of+Animal+Locomotion&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=0-691-08678-8&amp;rft.pages=206&amp;rft.place=Princeton&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation book">Alerstam, Thomas (1990). <i>Bird Migration</i>. Cambridge: Cambridge University Press. p. 275. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-521-44822-0" title="Special:BookSources/0-521-44822-0">0-521-44822-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Thomas&amp;rft.aulast=Alerstam&amp;rft.btitle=Bird+Migration&amp;rft.date=1990&amp;rft.genre=book&amp;rft.isbn=0-521-44822-0&amp;rft.pages=275&amp;rft.place=Cambridge&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book">Eckey, Bernard (2007). <i>Advanced Soaring Made Easy</i>. Eqip Verbung &amp; Verlag GmbH. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-9808838-2-5" title="Special:BookSources/3-9808838-2-5">3-9808838-2-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Bernard&amp;rft.aulast=Eckey&amp;rft.btitle=Advanced+Soaring+Made+Easy&amp;rft.date=2007&amp;rft.genre=book&amp;rft.isbn=3-9808838-2-5&amp;rft.pub=Eqip+Verbung+%26+Verlag+GmbH&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation web">National Aeronautics and Space Administration, <a href="/wiki/Langley_Research_Center" title="Langley Research Center">Langley Research Center</a> (June 1992). <a class="external text" href="https://web.archive.org/web/20100329221032/http://oea.larc.nasa.gov/PAIS/Windshear.html" rel="nofollow">"Making the Skies Safer From Windshear"</a>. Archived from <a class="external text" href="http://oea.larc.nasa.gov/PAIS/Windshear.html" rel="nofollow">the original</a> on March 29, 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-16</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.au=National+Aeronautics+and+Space+Administration%2C+Langley+Research+Center&amp;rft.btitle=Making+the+Skies+Safer+From+Windshear&amp;rft.date=1992-06&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Foea.larc.nasa.gov%2FPAIS%2FWindshear.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-tdwr-nws-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-tdwr-nws_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.erh.noaa.gov/gsp/tdwr/info/specs.html" rel="nofollow">"Terminal Doppler Weather Radar Information"</a>. National Weather Service<span class="reference-accessdate">. Retrieved <span class="nowrap">4 August</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.btitle=Terminal+Doppler+Weather+Radar+Information&amp;rft.genre=unknown&amp;rft.pub=National+Weather+Service&amp;rft_id=http%3A%2F%2Fwww.erh.noaa.gov%2Fgsp%2Ftdwr%2Finfo%2Fspecs.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation book">Garrett, Ross (1996). <i>The Symmetry of Sailing</i>. Dobbs Ferry: Sheridan House. pp. 97–99. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-57409-000-3" title="Special:BookSources/1-57409-000-3">1-57409-000-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Ross&amp;rft.aulast=Garrett&amp;rft.btitle=The+Symmetry+of+Sailing&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=1-57409-000-3&amp;rft.pages=97-99&amp;rft.place=Dobbs+Ferry&amp;rft.pub=Sheridan+House&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Foss, Rene N. (June 1978). <a class="external text" href="http://www.wsdot.wa.gov/Research/Reports/000/033.1.htm" rel="nofollow">"Ground Plane Wind Shear Interaction on Acoustic Transmission"</a>. WA-RD 033.1. Washington State Department of Transportation<span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-30</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.atitle=Ground+Plane+Wind+Shear+Interaction+on+Acoustic+Transmission&amp;rft.au=Foss%2C+Rene+N.&amp;rft.date=1978-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.wsdot.wa.gov%2FResearch%2FReports%2F000%2F033.1.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://www.springerlink.com/content/x1707075n815g604/" rel="nofollow">"C. Michael Hogan, <i>Analysis of highway noise</i>, Journal of Water, Air, &amp; Soil Pollution, Volume 2, Number 3, Biomedical and Life Sciences and Earth and Environmental Science Issue, Pages 387-392, September, 1973, Springer Verlag, Netherlands"</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0049-6979" rel="nofollow">0049-6979</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.atitle=C.+Michael+Hogan%2C++Analysis+of+highway+noise%2C+Journal+of+Water%2C+Air%2C+%26+Soil+Pollution%2C+Volume+2%2C+Number+3%2C+Biomedical+and+Life+Sciences+and+Earth+and+Environmental+Science+Issue%2C+Pages+387-392%2C+September%2C+1973%2C+Springer+Verlag%2C+Netherlands&amp;rft.genre=article&amp;rft.issn=0049-6979&amp;rft_id=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2Fx1707075n815g604%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation book">Everest, F. (2001). <i>The Master Handbook of Acoustics</i>. New York: McGraw-Hill. pp. 262–263. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-136097-2" title="Special:BookSources/0-07-136097-2">0-07-136097-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=F.&amp;rft.aulast=Everest&amp;rft.btitle=The+Master+Handbook+of+Acoustics&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-07-136097-2&amp;rft.pages=262-263&amp;rft.place=New+York&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation book">Cornwall, Sir (1996). <i>Grant as Military Commander</i>. Barnes &amp; Noble Inc. p. 92. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-56619-913-1" title="Special:BookSources/1-56619-913-1">1-56619-913-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Sir&amp;rft.aulast=Cornwall&amp;rft.btitle=Grant+as+Military+Commander&amp;rft.date=1996&amp;rft.genre=book&amp;rft.isbn=1-56619-913-1&amp;rft.pages=92&amp;rft.pub=Barnes+%26+Noble+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation book">Cozzens, Peter (2006). <i>The Darkest Days of the War: the Battles of Iuka and Corinth</i>. Chapel Hill: The University of North Carolina Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8078-5783-1" title="Special:BookSources/0-8078-5783-1">0-8078-5783-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Peter&amp;rft.aulast=Cozzens&amp;rft.btitle=The+Darkest+Days+of+the+War%3A+the+Battles+of+Iuka+and+Corinth&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=0-8078-5783-1&amp;rft.place=Chapel+Hill&amp;rft.pub=The+University+of+North+Carolina+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text">Professor John Twidell. <a class="external text" href="http://www.multi-science.co.uk/windeng.htm" rel="nofollow">Wind Engineering.</a> Retrieved on 2007-11-25.</span></li>
+<li id="cite_note-Heier-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-Heier_33-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Heier, Siegfried (2005). <i>Grid Integration of Wind Energy Conversion Systems</i>. Chichester: John Wiley &amp; Sons. p. 45. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-470-86899-6" title="Special:BookSources/0-470-86899-6">0-470-86899-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Siegfried&amp;rft.aulast=Heier&amp;rft.btitle=Grid+Integration+of+Wind+Energy+Conversion+Systems&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=0-470-86899-6&amp;rft.pages=45&amp;rft.place=Chichester&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation book">Harrison, Robert (2001). <i>Large Wind Turbines</i>. Chichester: John Wiley &amp; Sons. p. 30. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-49456-9" title="Special:BookSources/0-471-49456-9">0-471-49456-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Robert&amp;rft.aulast=Harrison&amp;rft.btitle=Large+Wind+Turbines&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=0-471-49456-9&amp;rft.pages=30&amp;rft.place=Chichester&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Lubosny-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-Lubosny_35-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Lubosny, Zbigniew (2003). <i>Wind Turbine Operation in Electric Power Systems: Advanced Modeling</i>. Berlin: Springer. p. 17. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/3-540-40340-X" title="Special:BookSources/3-540-40340-X">3-540-40340-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWind+shear&amp;rft.aufirst=Zbigniew&amp;rft.aulast=Lubosny&amp;rft.btitle=Wind+Turbine+Operation+in+Electric+Power+Systems%3A+Advanced+Modeling&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=3-540-40340-X&amp;rft.pages=17&amp;rft.place=Berlin&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wind_shear&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://education.arm.gov/nsdl/Library/glossary.shtml#Wind_shear" rel="nofollow">National Science Digital Library - Wind shear</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1249
+Cached time: 20170921194134
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.288 seconds
+Real time usage: 0.472 seconds
+Preprocessor visited node count: 1868/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39855/2097152 bytes
+Template argument size: 1650/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 2/500
+Lua time usage: 0.123/10.000 seconds
+Lua memory usage: 4.8 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  284.865      1 -total
+ 59.30%  168.911      1 Template:Reflist
+ 18.22%   51.913      8 Template:Cite_web
+ 17.98%   51.228     14 Template:Cite_book
+ 17.73%   50.515      2 Template:Citation_needed
+ 16.15%   45.992      2 Template:Fix
+  8.97%   25.546      5 Template:Category_handler
+  7.44%   21.205      1 Template:ISBN
+  6.51%   18.535      2 Template:Delink
+  6.42%   18.302      1 Template:Other_uses
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:223992-0!canonical!math=5 and timestamp 20170921194133 and revision id 789040430
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wind_shear&amp;oldid=789040430">https://en.wikipedia.org/w/index.php?title=Wind_shear&amp;oldid=789040430</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wind" title="Category:Wind">Wind</a></li><li><a href="/wiki/Category:Weather_hazards_to_aircraft" title="Category:Weather hazards to aircraft">Weather hazards to aircraft</a></li><li><a href="/wiki/Category:Microscale_meteorology" title="Category:Microscale meteorology">Microscale meteorology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2012" title="Category:Articles with unsourced statements from February 2012">Articles with unsourced statements from February 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2014" title="Category:Articles with unsourced statements from February 2014">Articles with unsourced statements from February 2014</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wind+shear" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Wind+shear" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Wind_shear" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Wind_shear" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Wind_shear">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Wind_shear&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Wind_shear&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Wind_shear" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Wind_shear" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wind_shear&amp;oldid=789040430" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wind_shear&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1027878" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wind_shear&amp;id=789040430" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wind+shear">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wind+shear&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DWind%2Bshear%26returnto%3DWind%2Bshear%26oldid%3D789040430%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Wind_shear&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Cisallament_del_vent" hreflang="ca" lang="ca" title="Cisallament del vent – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Windscherung" hreflang="de" lang="de" title="Windscherung – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%94%CE%B9%CE%B1%CF%84%CE%BC%CE%B7%CF%84%CE%B9%CE%BA%CF%8C%CF%82_%CE%AC%CE%BD%CE%B5%CE%BC%CE%BF%CF%82" hreflang="el" lang="el" title="Διατμητικός άνεμος – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Cizalladura" hreflang="es" lang="es" title="Cizalladura – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Haize_ebakidura" hreflang="eu" lang="eu" title="Haize ebakidura – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Cisaillement_(m%C3%A9t%C3%A9orologie)" hreflang="fr" lang="fr" title="Cisaillement (météorologie) – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Fiaradh_gaoithe" hreflang="ga" lang="ga" title="Fiaradh gaoithe – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Wind_shear" hreflang="it" lang="it" title="Wind shear – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Sz%C3%A9lny%C3%ADr%C3%A1s" hreflang="hu" lang="hu" title="Szélnyírás – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Rincihan_angin" hreflang="ms" lang="ms" title="Rincihan angin – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Windschering" hreflang="nl" lang="nl" title="Windschering – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A6%E3%82%A4%E3%83%B3%E3%83%89%E3%82%B7%E3%82%A2" hreflang="ja" lang="ja" title="ウインドシア – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Vindskj%C3%A6r" hreflang="no" lang="no" title="Vindskjær – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Vindskjer" hreflang="nn" lang="nn" title="Vindskjer – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Uskok_wiatru" hreflang="pl" lang="pl" title="Uskok wiatru – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Windshear" hreflang="pt" lang="pt" title="Windshear – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B4%D0%B2%D0%B8%D0%B3_%D0%B2%D0%B5%D1%82%D1%80%D0%B0" hreflang="ru" lang="ru" title="Сдвиг ветра – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Wind_shear" hreflang="simple" lang="simple" title="Wind shear – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Tuuliv%C3%A4%C3%A4nne" hreflang="fi" lang="fi" title="Tuuliväänne – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A5%E0%B8%A1%E0%B9%80%E0%B8%89%E0%B8%B7%E0%B8%AD%E0%B8%99" hreflang="th" lang="th" title="ลมเฉือน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/R%C3%BCzgar_makas%C4%B1" hreflang="tr" lang="tr" title="Rüzgar makası – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%93%D1%80%D0%B0%D0%B4%D1%96%D1%94%D0%BD%D1%82_%D0%B2%D1%96%D1%82%D1%80%D1%83" hreflang="uk" lang="uk" title="Градієнт вітру – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Gi%C3%B3_%C4%91%E1%BB%A9t" hreflang="vi" lang="vi" title="Gió đứt – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%A2%A8%E5%88%87%E8%AE%8A" hreflang="zh-yue" lang="zh-yue" title="風切變 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%A3%8E%E5%88%87%E5%8F%98" hreflang="zh" lang="zh" title="风切变 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1027878#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 5 July 2017, at 00:09.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Wind_shear&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.288","walltime":"0.472","ppvisitednodes":{"value":1868,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39855,"limit":2097152},"templateargumentsize":{"value":1650,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  284.865      1 -total"," 59.30%  168.911      1 Template:Reflist"," 18.22%   51.913      8 Template:Cite_web"," 17.98%   51.228     14 Template:Cite_book"," 17.73%   50.515      2 Template:Citation_needed"," 16.15%   45.992      2 Template:Fix","  8.97%   25.546      5 Template:Category_handler","  7.44%   21.205      1 Template:ISBN","  6.51%   18.535      2 Template:Delink","  6.42%   18.302      1 Template:Other_uses"]},"scribunto":{"limitreport-timeusage":{"value":"0.123","limit":"10.000"},"limitreport-memusage":{"value":5032480,"limit":52428800}},"cachereport":{"origin":"mw1249","timestamp":"20170921194134","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1242"});});</script>
+</body>
+</html>

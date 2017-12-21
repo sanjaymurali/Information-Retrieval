@@ -1,0 +1,531 @@
+https://en.wikipedia.org/wiki/Dvorak_technique
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Dvorak technique - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Dvorak_technique","wgTitle":"Dvorak technique","wgCurRevisionId":786738199,"wgRevisionId":786738199,"wgArticleId":5240327,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Good articles","Satellite interpretation","Tropical cyclone meteorology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Dvorak_technique","wgRelevantArticleId":5240327,"wgRequestId":"Wcuv3wpAAD4AAH7V0C0AAADR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1268345","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.page.gallery","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.30.0-wmf.19" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/DvorakCDP1973.png/1200px-DvorakCDP1973.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Dvorak_technique" rel="alternate"/>
+<link href="/w/index.php?title=Dvorak_technique&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Dvorak_technique&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Dvorak_technique" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Dvorak_technique rootpage-Dvorak_technique skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Dvorak technique</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:DvorakCDP1973.png"><img alt="" class="thumbimage" data-file-height="926" data-file-width="1286" height="158" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/DvorakCDP1973.png/220px-DvorakCDP1973.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/DvorakCDP1973.png/330px-DvorakCDP1973.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/DvorakCDP1973.png/440px-DvorakCDP1973.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:DvorakCDP1973.png" title="Enlarge"></a></div>
+Common developmental patterns seen during tropical cyclone development, and their Dvorak-assigned intensities</div>
+</div>
+</div>
+<p>The <b>Dvorak technique</b> (developed between 1969 and 1984 by <a href="/wiki/Vernon_Dvorak" title="Vernon Dvorak">Vernon Dvorak</a>) is a widely used system to estimate <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a> intensity (which includes tropical depression, tropical storm, and hurricane/typhoon/intense tropical cyclone intensities) based solely on visible and <a href="/wiki/Infrared" title="Infrared">infrared</a> <a href="/wiki/Weather_satellite" title="Weather satellite">satellite images</a>. Within the Dvorak satellite strength estimate for tropical cyclones, there are several <a href="/wiki/Pattern_recognition" title="Pattern recognition">visual patterns</a> that a cyclone may take on which define the upper and lower bounds on its intensity. The primary patterns used are curved <a href="/wiki/Rainband" title="Rainband">band</a> pattern (T1.0-T4.5), <a href="/wiki/Wind_shear#Effects_on_tropical_cyclones" title="Wind shear">shear pattern</a> (T1.5–T3.5), central dense overcast (CDO) pattern (T2.5–T5.0), central cold cover (CCC) pattern, banding <a href="/wiki/Eye_(cyclone)" title="Eye (cyclone)">eye</a> pattern (T4.0–T4.5), and eye pattern (T4.5–T8.0).</p>
+<p>Both the <a href="/wiki/Central_dense_overcast" title="Central dense overcast">central dense overcast</a> and embedded eye pattern use the size of the CDO. The CDO pattern intensities start at T2.5, equivalent to minimal tropical storm intensity (40 mph, 65 km/h). The shape of the central dense overcast is also considered. The eye pattern utilizes the coldness of the cloud tops within the surrounding mass of thunderstorms and contrasts it with the temperature within the eye itself. The larger the temperature difference is, the stronger the tropical cyclone. Once a pattern is identified, the storm features (such as length and curvature of banding features) are further analyzed to arrive at a particular T-number. The CCC pattern indicates little development is occurring, despite the cold cloud tops associated with the quickly evolving feature.</p>
+<p>Several agencies issue Dvorak intensity numbers for tropical cyclones and their precursors, including the <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a>'s <a class="mw-redirect" href="/wiki/Tropical_Analysis_and_Forecast_Branch" title="Tropical Analysis and Forecast Branch">Tropical Analysis and Forecast Branch</a> (TAFB), the <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">NOAA</a>/<a href="/wiki/National_Oceanic_and_Atmospheric_Administration#National_Environmental_Satellite.2C_Data.2C_and_Information_Service_.28NESDIS.29" title="National Oceanic and Atmospheric Administration">NESDIS</a> <a href="/wiki/Satellite_Analysis_Branch" title="Satellite Analysis Branch">Satellite Analysis Branch</a> (SAB), and the <a href="/wiki/Joint_Typhoon_Warning_Center" title="Joint Typhoon Warning Center">Joint Typhoon Warning Center</a> at the <a href="/wiki/Naval_Meteorology_and_Oceanography_Command" title="Naval Meteorology and Oceanography Command">Naval Meteorology and Oceanography Command</a> in <a href="/wiki/Pearl_Harbor" title="Pearl Harbor">Pearl Harbor</a>, <a href="/wiki/Hawaii" title="Hawaii">Hawaii</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Evolution_of_the_method"><span class="tocnumber">1</span> <span class="toctext">Evolution of the method</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Details_of_the_method"><span class="tocnumber">2</span> <span class="toctext">Details of the method</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Pattern_types"><span class="tocnumber">2.1</span> <span class="toctext">Pattern types</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Usage"><span class="tocnumber">3</span> <span class="toctext">Usage</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Benefits_and_disadvantages"><span class="tocnumber">4</span> <span class="toctext">Benefits and disadvantages</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Evolution_of_the_method">Evolution of the method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dvorak_technique&amp;action=edit&amp;section=1" title="Edit section: Evolution of the method">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Subtropical_Storm_Andrea_2007.jpg"><img alt="" class="thumbimage" data-file-height="3000" data-file-width="2750" height="218" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Subtropical_Storm_Andrea_2007.jpg/200px-Subtropical_Storm_Andrea_2007.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/34/Subtropical_Storm_Andrea_2007.jpg/300px-Subtropical_Storm_Andrea_2007.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/34/Subtropical_Storm_Andrea_2007.jpg/400px-Subtropical_Storm_Andrea_2007.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Subtropical_Storm_Andrea_2007.jpg" title="Enlarge"></a></div>
+The Dvorak technique does not correctly diagnose cyclone intensity for storms like <a href="/wiki/Subtropical_Storm_Andrea_(2007)" title="Subtropical Storm Andrea (2007)">Subtropical Storm Andrea</a> since it applies to tropical cyclones only</div>
+</div>
+</div>
+<p>The initial development of this technique occurred in 1969 by Vernon Dvorak, using satellite pictures of tropical cyclones within the northwest Pacific Ocean. The system as it was initially conceived involved pattern matching of cloud features with a development and decay model. As the technique matured through the 1970s and 1980s, measurement of cloud features became dominant in defining tropical cyclone intensity and central pressure of the tropical cyclone's <a href="/wiki/Low-pressure_area" title="Low-pressure area">low-pressure area</a>. Use of infrared <a href="/wiki/Satellite_imagery" title="Satellite imagery">satellite imagery</a> led to a more objective assessment of the strength of tropical cyclones with eyes, using the cloud top temperatures within the eyewall and contrasting them with the warm temperatures within the eye itself. Constraints on short term intensity change are used less frequently than they were back in the 1970s and 1980s. The central pressures assigned to tropical cyclones have required modification, as the original estimates were 5–10 hPa (0.15–0.29 inHg) too low in the Atlantic and up to 20 hPa (0.59 inHg) too high in the northwest Pacific. This led to the development of a separate wind-pressure relationship for the northwest Pacific, devised by Atkinson and Holliday in 1975, then modified in 1977.<sup class="reference" id="cite_ref-evolution_1-0"><a href="#cite_note-evolution-1">[1]</a></sup></p>
+<p>As human analysts using the technique lead to subjective biases, efforts have been made to make more objective estimates using computer programs, which have been aided by higher-resolution satellite imagery and more powerful computers. Since tropical cyclone satellite patterns can fluctuate over time, automated techniques use a six-hour averaging period to lead to more reliable intensity estimates. Development of the objective Dvorak technique began in 1998, which performed best with tropical cyclones that had eyes (of hurricane or typhoon strength). It still required a manual center placement, keeping some subjectivity within the process. By 2004, an advanced objective Dvorak technique was developed which utilized banding features for systems below hurricane intensity and to objectively determine the tropical cyclone's center. A central pressure bias was uncovered in 2004 relating to the slope of the <a href="/wiki/Tropopause" title="Tropopause">tropopause</a> and cloud top temperatures which change with latitude that helped improve central pressure estimates within the objective technique.<sup class="reference" id="cite_ref-evolution_1-1"><a href="#cite_note-evolution-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Details_of_the_method">Details of the method</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dvorak_technique&amp;action=edit&amp;section=2" title="Edit section: Details of the method">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable" style="float:right; margin-left:1.5em; width:35em; text-align:center; font-size: 92%;">
+<caption><b>Dvorak T-Number and Corresponding Intensity</b><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></caption>
+<tr>
+<th rowspan="2" style="background:gold" width="20%">T-Number</th>
+<th colspan="3" style="background:gold" width="20%"><a href="/wiki/Maximum_sustained_wind" title="Maximum sustained wind">1-min Winds</a></th>
+<th rowspan="2" style="background:gold" width="20%">Category <small>(<a class="mw-redirect" href="/wiki/Saffir%E2%80%93Simpson_hurricane_wind_scale" title="Saffir–Simpson hurricane wind scale">SSHWS</a>)</small></th>
+<th colspan="2" style="background:gold">Min. Pressure <small>(millibars)</small></th>
+</tr>
+<tr>
+<th style="background:gold"><small>(<a href="/wiki/Knot_(unit)" title="Knot (unit)">knots</a>)</small></th>
+<th style="background:gold"><small>(mph)</small></th>
+<th style="background:gold"><small>(km/h)</small></th>
+<th style="background:orange" width="15%">Atlantic</th>
+<th style="background:orange">NW Pacific</th>
+</tr>
+<tr>
+<td>1.0 – 1.5</td>
+<td>25</td>
+<td>29</td>
+<td>46</td>
+<td style="background: #5ebaff;">TD</td>
+<td>----</td>
+<td>----</td>
+</tr>
+<tr>
+<td>2.0</td>
+<td>30</td>
+<td>35</td>
+<td>56</td>
+<td style="background: #5ebaff;">TD</td>
+<td>1009</td>
+<td>1000</td>
+</tr>
+<tr>
+<td>2.5</td>
+<td>35</td>
+<td>40</td>
+<td>65</td>
+<td style="background: #00faf4;">TS</td>
+<td>1005</td>
+<td>997</td>
+</tr>
+<tr>
+<td>3.0</td>
+<td>45</td>
+<td>52</td>
+<td>83</td>
+<td style="background: #00faf4;">TS</td>
+<td>1000</td>
+<td>991</td>
+</tr>
+<tr>
+<td>3.5</td>
+<td>55</td>
+<td>63</td>
+<td>102</td>
+<td style="background: #00faf4;">TS</td>
+<td>994</td>
+<td>984</td>
+</tr>
+<tr>
+<td>4.0</td>
+<td>65</td>
+<td>75</td>
+<td>120</td>
+<td style="background: #ffffcc;">Cat 1</td>
+<td>987</td>
+<td>976</td>
+</tr>
+<tr>
+<td>4.5</td>
+<td>77</td>
+<td>89</td>
+<td>143</td>
+<td style="background: #ffffcc;">Cat 1–2</td>
+<td>979</td>
+<td>966</td>
+</tr>
+<tr>
+<td>5.0</td>
+<td>90</td>
+<td>104</td>
+<td>167</td>
+<td style="background: #ffe775;">Cat 2–3</td>
+<td>970</td>
+<td>954</td>
+</tr>
+<tr>
+<td>5.5</td>
+<td>102</td>
+<td>117</td>
+<td>189</td>
+<td style="background: #ffc140;">Cat 3</td>
+<td>960</td>
+<td>941</td>
+</tr>
+<tr>
+<td>6.0</td>
+<td>115</td>
+<td>132</td>
+<td>213</td>
+<td style="background: #ff8f20;">Cat 4</td>
+<td>948</td>
+<td>927</td>
+</tr>
+<tr>
+<td>6.5</td>
+<td>127</td>
+<td>146</td>
+<td>235</td>
+<td style="background: #ff8f20;">Cat 4</td>
+<td>935</td>
+<td>914</td>
+</tr>
+<tr>
+<td>7.0</td>
+<td>140</td>
+<td>161</td>
+<td>260</td>
+<td style="background: #ff6060;">Cat 5</td>
+<td>921</td>
+<td>898</td>
+</tr>
+<tr>
+<td>7.5</td>
+<td>155</td>
+<td>178</td>
+<td>287</td>
+<td style="background: #ff6060;">Cat 5</td>
+<td>906</td>
+<td>879</td>
+</tr>
+<tr>
+<td>8.0</td>
+<td>170</td>
+<td>196</td>
+<td>315</td>
+<td style="background: #ff6060;">Cat 5</td>
+<td>890</td>
+<td>858</td>
+</tr>
+<tr>
+<td>8.5<img alt="dagger" data-file-height="14" data-file-width="9" height="14" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" width="9"/></td>
+<td>185</td>
+<td>213</td>
+<td>343</td>
+<td style="background: #ff6060;">Cat 5</td>
+<td>873</td>
+<td>841</td>
+</tr>
+<tr>
+<td align="left" colspan="7"><small>Note: The pressures shown for the NW Pacific basin are lower as the pressure of the entire basin are relatively lower than that of the Atlantic basin.<sup class="reference" id="cite_ref-HRD_3-0"><a href="#cite_note-HRD-3">[3]</a></sup><br/>
+<img alt="dagger" data-file-height="14" data-file-width="9" height="14" src="//upload.wikimedia.org/wikipedia/commons/3/37/Dagger-14-plain.png" width="9"/>Values of 8.1–8.5 are only assigned by the <a href="/wiki/Cooperative_Institute_for_Meteorological_Satellite_Studies" title="Cooperative Institute for Meteorological Satellite Studies">CIMSS</a> and NOAA automated advanced Dvorak systems and not used in subjective analyses.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></small></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Haiyan_2013-11-07_1430Z_IR-BD.png"><img alt="" class="thumbimage" data-file-height="1576" data-file-width="1970" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Haiyan_2013-11-07_1430Z_IR-BD.png/220px-Haiyan_2013-11-07_1430Z_IR-BD.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/33/Haiyan_2013-11-07_1430Z_IR-BD.png/330px-Haiyan_2013-11-07_1430Z_IR-BD.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/33/Haiyan_2013-11-07_1430Z_IR-BD.png/440px-Haiyan_2013-11-07_1430Z_IR-BD.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Haiyan_2013-11-07_1430Z_IR-BD.png" title="Enlarge"></a></div>
+Dvorak enhancement imagery of <a href="/wiki/Typhoon_Haiyan" title="Typhoon Haiyan">Typhoon Haiyan</a> at T8.0</div>
+</div>
+</div>
+<p>In a developing cyclone, the technique takes advantage of the fact that cyclones of similar <a href="/wiki/Tropical_cyclone_scales" title="Tropical cyclone scales">intensity</a> tend to have certain characteristic features, and as they strengthen, they tend to change in appearance in a predictable manner. The structure and organization of the tropical cyclone are tracked over 24 hours to determine if the storm has weakened, maintained its intensity, or strengthened. Various central cloud and banding features are compared with templates that show typical storm patterns and their associated intensity.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> If infrared satellite imagery is available for a cyclone with a visible eye pattern, then the technique utilizes the difference between the temperature of the warm eye and the surrounding cold cloud tops to determine intensity (colder cloud tops generally indicate a more intense storm). In each case a "T-number" (an abbreviation for Tropical Number) and a Current Intensity (CI) value are assigned to the storm. These measurements range between 1 (minimum intensity) and 8 (maximum intensity).<sup class="reference" id="cite_ref-HRD_3-1"><a href="#cite_note-HRD-3">[3]</a></sup> The T-number and CI value are the same except for weakening storms, in which case the CI is higher.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup><sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> For weakening systems, the CI is held as the tropical cyclone intensity for 12 hours, though research from the <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a> indicates that six hours is more reasonable.<sup class="reference" id="cite_ref-WMO_8-0"><a href="#cite_note-WMO-8">[8]</a></sup> The table at right shows the approximate surface wind speed and <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">sea level pressure</a> that corresponds to a given T-number.<sup class="reference" id="cite_ref-ODT_9-0"><a href="#cite_note-ODT-9">[9]</a></sup> The amount a tropical cyclone can change in strength per 24‑hour period is limited to 2.5 T-numbers per day.<sup class="reference" id="cite_ref-evolution_1-2"><a href="#cite_note-evolution-1">[1]</a></sup></p>
+<h3><span class="mw-headline" id="Pattern_types">Pattern types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dvorak_technique&amp;action=edit&amp;section=3" title="Edit section: Pattern types">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Within the Dvorak satellite strength estimate for tropical cyclones, there are several visual patterns that a cyclone may take on which define the upper and lower bounds on its intensity. The primary patterns used are curved band pattern (T1.0-T4.5), shear pattern (T1.5-T3.5), central dense overcast (CDO) pattern (T2.5-T5.0), banding eye pattern (T4.0-T4.5), eye pattern (T4.5 – T8.0), and central cold cover (CCC) pattern.<sup class="reference" id="cite_ref-CCC_10-0"><a href="#cite_note-CCC-10">[10]</a></sup> Both the central dense overcast and embedded eye pattern utilize the size of the CDO. The CDO pattern intensities start at T2.5, equivalent to minimal tropical storm intensity (40 miles per hour (64 km/h)). The shape of the central dense overcast is also considered. The farther the center is tucked into the CDO, the stronger it is deemed.<sup class="reference" id="cite_ref-Vern_11-0"><a href="#cite_note-Vern-11">[11]</a></sup> Tropical cyclones with maximum sustained winds between 65 miles per hour (105 km/h) and 100 miles per hour (160 km/h) can have their center of circulations obscured by cloudiness within visible and infrared satellite imagery, which makes diagnosis of their intensity a challenge.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>The CCC pattern, with its large and quickly developing mass of thick <a href="/wiki/Cirrus_cloud" title="Cirrus cloud">cirrus clouds</a> spreading out from an area of convection near a tropical cyclone center within a short time frame, indicates little development. When it develops, rainbands and cloud lines around the tropical cyclone weaken and the thick cloud shield obscures the circulation center. While it resembles a CDO pattern, it is rarely seen.<sup class="reference" id="cite_ref-CCC_10-1"><a href="#cite_note-CCC-10">[10]</a></sup></p>
+<p>The eye pattern utilizes the coldness of the cloud tops within the surrounding mass of thunderstorms and contrasts it with the temperature within the eye itself. The larger the temperature difference is, the stronger the tropical cyclone.<sup class="reference" id="cite_ref-Vern_11-1"><a href="#cite_note-Vern-11">[11]</a></sup> Winds within tropical cyclones can also be estimated by tracking features within the CDO using rapid scan <a href="/wiki/Weather_satellite#Geostationary" title="Weather satellite">geostationary satellite imagery</a>, whose pictures are taken minutes apart rather than every half-hour.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<p>Once a pattern is identified, the storm features (such as length and curvature of banding features) are further analyzed to arrive at a particular T-number.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<div style="clear:both;"></div>
+<h2><span class="mw-headline" id="Usage">Usage</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dvorak_technique&amp;action=edit&amp;section=4" title="Edit section: Usage">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Several agencies issue Dvorak intensity numbers for tropical cyclones and their precursors. These include the National Hurricane Center's Tropical Analysis and Forecast Branch (TAFB), the National Oceanic and Atmospheric Administration's Satellite Analysis Branch (SAB), and the Joint Typhoon Warning Center at the Naval Pacific Meteorology and Oceanography Center in Pearl Harbor, Hawaii.<sup class="reference" id="cite_ref-ODT_9-1"><a href="#cite_note-ODT-9">[9]</a></sup></p>
+<p>The National Hurricane Center will often quote Dvorak T-numbers in their tropical cyclone products. The following example is from discussion number 3 of Tropical Depression 24 (eventually <a href="/wiki/Hurricane_Wilma" title="Hurricane Wilma">Hurricane Wilma</a>) of the <a href="/wiki/2005_Atlantic_hurricane_season" title="2005 Atlantic hurricane season">2005 Atlantic hurricane season</a>:<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></p>
+<pre>
+BOTH TAFB AND SAB CAME IN WITH A DVORAK SATELLITE INTENSITY ESTIMATE OF T2.5/35 KT. HOWEVER ...OFTENTIMES THE SURFACE WIND FIELD OF LARGE DEVELOPING LOW PRESSURE SYSTEMS LIKE THIS ONE WILL LAG ABOUT 12 HOURS BEHIND THE SATELLITE SIGNATURE. THEREFORE... THE INITIAL INTENSITY HAS ONLY BEEN INCREASED TO 30 KT.
+</pre>
+<p>Note that in this case the Dvorak T-number (in this case T2.5) was simply used as a guide but other factors determined how the NHC decided to set the system's intensity.</p>
+<p>The <a href="/wiki/Cooperative_Institute_for_Meteorological_Satellite_Studies" title="Cooperative Institute for Meteorological Satellite Studies">Cooperative Institute for Meteorological Satellite Studies</a> (CIMSS) at the <a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">University of Wisconsin–Madison</a> has developed the Objective Dvorak Technique (ODT). This is a modified version of the Dvorak technique which uses computer algorithms rather than subjective human interpretation to arrive at a CI number. This is generally not implemented for tropical depressions or weak tropical storms.<sup class="reference" id="cite_ref-ODT_9-2"><a href="#cite_note-ODT-9">[9]</a></sup> The <a class="mw-redirect" href="/wiki/China_Meteorological_Agency" title="China Meteorological Agency">China Meteorological Agency</a> (CMA) is expected to start using the standard 1984 version of Dvorak in the near future. The <a class="mw-redirect" href="/wiki/Indian_Meteorological_Department" title="Indian Meteorological Department">Indian Meteorological Department</a> (IMD) prefers using visible satellite imagery over infrared imagery due to a perceived high bias in estimates derived from infrared imagery during the early morning hours of convective maximum. The <a href="/wiki/Japan_Meteorological_Agency" title="Japan Meteorological Agency">Japan Meteorological Agency</a> (JMA) uses the infrared version of Dvorak over the visible imagery version. <a href="/wiki/Hong_Kong_Observatory" title="Hong Kong Observatory">Hong Kong Observatory</a> and JMA continue to utilize Dvorak after tropical cyclone landfall. Various centers hold on to the maximum current intensity for 6–12 hours, though this rule is broken when rapid weakening is obvious.<sup class="reference" id="cite_ref-WMO_8-1"><a href="#cite_note-WMO-8">[8]</a></sup></p>
+<p><a href="/wiki/Citizen_science" title="Citizen science">Citizen science</a> site <a class="mw-redirect" href="/wiki/Cyclone_Center" title="Cyclone Center">Cyclone Center</a> uses a modified version of the Dvorak technique to categorize post-1970 tropical weather.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerycaption">Satellite Images of Selected Tropical Storms and Associated T-Number</li>
+<li class="gallerybox" style="width: 148.66666666667px">
+<div style="width: 148.66666666667px">
+<div class="thumb" style="width: 146.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Wilma-17-1315z-T30-discussion1500z.png"><img alt="" data-file-height="154" data-file-width="188" height="120" src="//upload.wikimedia.org/wikipedia/commons/2/25/Wilma-17-1315z-T30-discussion1500z.png" width="147"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Hurricane_Wilma" title="Hurricane Wilma">Tropical Storm Wilma</a> at T3.0</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 148.66666666667px">
+<div style="width: 148.66666666667px">
+<div class="thumb" style="width: 146.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Dennis-06-1445z-T40-discussion1500z.png"><img alt="" data-file-height="154" data-file-width="188" height="120" src="//upload.wikimedia.org/wikipedia/commons/2/28/Dennis-06-1445z-T40-discussion1500z.png" width="147"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Hurricane_Dennis" title="Hurricane Dennis">Tropical Storm Dennis</a> at T4.0</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 148.66666666667px">
+<div style="width: 148.66666666667px">
+<div class="thumb" style="width: 146.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Jeanne-22-1945z-T50-discussion2100z.png"><img alt="" data-file-height="154" data-file-width="188" height="120" src="//upload.wikimedia.org/wikipedia/commons/a/a7/Jeanne-22-1945z-T50-discussion2100z.png" width="147"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Hurricane_Jeanne" title="Hurricane Jeanne">Hurricane Jeanne</a> at T5.0</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 148.66666666667px">
+<div style="width: 148.66666666667px">
+<div class="thumb" style="width: 146.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Emily-14-1915z-T60-discussion15-0300z.png"><img alt="" data-file-height="154" data-file-width="188" height="120" src="//upload.wikimedia.org/wikipedia/commons/d/d0/Emily-14-1915z-T60-discussion15-0300z.png" width="147"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Hurricane_Emily_(2005)" title="Hurricane Emily (2005)">Hurricane Emily</a> at T6.0</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Benefits_and_disadvantages">Benefits and disadvantages</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dvorak_technique&amp;action=edit&amp;section=5" title="Edit section: Benefits and disadvantages">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The most significant benefit of the use of the technique is that it has provided a more complete history of tropical cyclone intensity in areas where aircraft reconnaissance is neither possible nor routinely available. Intensity estimates of <a href="/wiki/Maximum_sustained_wind" title="Maximum sustained wind">maximum sustained wind</a> are currently within 5 miles per hour (8.0 km/h) of what aircraft are able to measure half of the time, though the assignment of intensity of systems with strengths between moderate tropical-storm force (60 miles per hour (97 km/h)) and weak hurricane- or typhoon-force (100 miles per hour (160 km/h)) is the least certain. Its overall precision has not always been true, as refinements in the technique led to intensity changes between 1972 and 1977 of up to 20 miles per hour (32 km/h). The method is internally consistent in that it constrains rapid increases or decreases in tropical cyclone intensity. Some tropical cyclones fluctuate in strength more than the 2.5 T numbers per day limit allowed by the rule, which can work to the technique's disadvantage and has led to occasional abandonment of the constraints since the 1980s. Systems with small eyes near the limb, or edge, of a satellite image can be biased too weakly using the technique, which can be resolved through use of <a href="/wiki/Weather_satellite#Polar_orbiting" title="Weather satellite">polar-orbiting satellite imagery</a>. Subtropical cyclone intensity cannot be determined using Dvorak, which led to the development of the <a class="new" href="/w/index.php?title=Hebert-Poteat_technique&amp;action=edit&amp;redlink=1" title="Hebert-Poteat technique (page does not exist)">Hebert-Poteat technique</a> in 1975. Cyclones undergoing extratropical transition, losing their thunderstorm activity, see their intensities underestimated using the Dvorak technique. This led to the development of the Miller and Lander <a class="mw-redirect" href="/wiki/Extratropical_transition_technique" title="Extratropical transition technique">extratropical transition technique</a> which can be used under these circumstances.<sup class="reference" id="cite_ref-evolution_1-3"><a href="#cite_note-evolution-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dvorak_technique&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2004" data-file-width="3032" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/32px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/48px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/64px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Tropical_cyclones" title="Portal:Tropical cyclones">Tropical cyclones portal</a></span></li>
+</ul>
+</div>
+<p>Other tools used to determine tropical cyclone intensity:</p>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Quikscat" title="Quikscat">Quikscat</a></li>
+<li><a href="/wiki/Tropical_Rainfall_Measuring_Mission" title="Tropical Rainfall Measuring Mission">TRMM</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dvorak_technique&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-evolution-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-evolution_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-evolution_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-evolution_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-evolution_1-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Velden, Christopher; Bruce Harper; Frank Wells; John L. Beven II; Ray Zehr; Timothy Olander; Max Mayfield; Charles “Chip” Guard; Mark Lander; Roger Edson; Lixion Avila; Andrew Burton; Mike Turk; Akihiro Kikuchi; Adam Christian; Philippe Caroff &amp; Paul McCrone (September 2006). <a class="external text" href="http://www.nhc.noaa.gov/pdf/06velden.pdf" rel="nofollow">"The Dvorak Tropical Cyclone Intensity Estimation Technique: A Satellite-Based Method That Has Endured For Over 30 Years"</a> <span style="font-size:85%;">(PDF)</span>. <i>Bulletin of the American Meteorological Society</i>. <b>87</b>: 1195–1214. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2006BAMS...87.1195V" rel="nofollow">2006BAMS...87.1195V</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2Fbams-87-9-1195" rel="nofollow">10.1175/bams-87-9-1195</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.atitle=The+Dvorak+Tropical+Cyclone+Intensity+Estimation+Technique%3A+A+Satellite-Based+Method+That+Has+Endured+For+Over+30+Years&amp;rft.au=Adam+Christian&amp;rft.au=Akihiro+Kikuchi&amp;rft.au=Andrew+Burton&amp;rft.au=Bruce+Harper&amp;rft.au=Charles+%E2%80%9CChip%E2%80%9D+Guard&amp;rft.au=Frank+Wells&amp;rft.au=John+L.+Beven+II&amp;rft.au=Lixion+Avila&amp;rft.au=Mark+Lander&amp;rft.au=Max+Mayfield&amp;rft.au=Mike+Turk&amp;rft.au=Paul+McCrone&amp;rft.au=Philippe+Caroff&amp;rft.au=Ray+Zehr&amp;rft.au=Roger+Edson&amp;rft.au=Timothy+Olander&amp;rft.au=Velden%2C+Christopher&amp;rft.date=2006-09&amp;rft.genre=article&amp;rft.jtitle=Bulletin+of+the+American+Meteorological+Society&amp;rft.pages=1195-1214&amp;rft.volume=87&amp;rft_id=http%3A%2F%2Fwww.nhc.noaa.gov%2Fpdf%2F06velden.pdf&amp;rft_id=info%3Abibcode%2F2006BAMS...87.1195V&amp;rft_id=info%3Adoi%2F10.1175%2Fbams-87-9-1195&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Satellite and Information Service Division (April 17, 2005). <a class="external text" href="http://www.ssd.noaa.gov/PS/TROP/CI-chart.html" rel="nofollow">"Dvorak Current Intensity Chart"</a>. <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-06-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=Satellite+and+Information+Service+Division&amp;rft.btitle=Dvorak+Current+Intensity+Chart&amp;rft.date=2005-04-17&amp;rft.genre=unknown&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.ssd.noaa.gov%2FPS%2FTROP%2FCI-chart.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-HRD-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-HRD_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HRD_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Landsea, Chris (2006). <a class="external text" href="http://www.aoml.noaa.gov/hrd/tcfaq/H1.html" rel="nofollow">"Subject: H1) What is the Dvorak technique and how is it used?"</a>. <a href="/wiki/Hurricane_Research_Division" title="Hurricane Research Division">Hurricane Research Division</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=Landsea%2C+Chris&amp;rft.btitle=Subject%3A+H1%29+What+is+the+Dvorak+technique+and+how+is+it+used%3F&amp;rft.date=2006&amp;rft.genre=unknown&amp;rft.pub=Hurricane+Research+Division&amp;rft_id=http%3A%2F%2Fwww.aoml.noaa.gov%2Fhrd%2Ftcfaq%2FH1.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation report">Timothy L. Olander; Christopher S. Velden (February 2015). <a class="external text" href="http://tropic.ssec.wisc.edu/misc/adt/guides/ADTV8.2.1_Guide.pdf" rel="nofollow">ADT – Advanced Dvorak Technique Users' Guide (McIDAS Version 8.2.1)</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Cooperative_Institute_for_Meteorological_Satellite_Studies" title="Cooperative Institute for Meteorological Satellite Studies">Cooperative Institute for Meteorological Satellite Studies</a></i> (Report). <a href="/wiki/University_of_Wisconsin%E2%80%93Madison" title="University of Wisconsin–Madison">University of Wisconsin–Madison</a>. p. 49<span class="reference-accessdate">. Retrieved <span class="nowrap">October 29,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=Christopher+S.+Velden&amp;rft.au=Timothy+L.+Olander&amp;rft.btitle=ADT+%E2%80%93+Advanced+Dvorak+Technique+Users%27+Guide+%28McIDAS+Version+8.2.1%29&amp;rft.date=2015-02&amp;rft.genre=report&amp;rft.pages=49&amp;rft.pub=University+of+Wisconsin%E2%80%93Madison&amp;rft_id=http%3A%2F%2Ftropic.ssec.wisc.edu%2Fmisc%2Fadt%2Fguides%2FADTV8.2.1_Guide.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web">Naval Research Laboratory. <a class="external text" href="http://www.nrlmry.navy.mil/~chu/chap6/ch6apb.htm" rel="nofollow">"Tropical Cyclone Forecasters Reference Guide"</a>. <a href="/wiki/United_States_Navy" title="United States Navy">United States Navy</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-05-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=Naval+Research+Laboratory&amp;rft.btitle=Tropical+Cyclone+Forecasters+Reference+Guide&amp;rft.genre=unknown&amp;rft.pub=United+States+Navy&amp;rft_id=http%3A%2F%2Fwww.nrlmry.navy.mil%2F~chu%2Fchap6%2Fch6apb.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Leffler, J.W. <a class="external text" href="https://web.archive.org/web/20060725214722/http://metoc.npmoc.navy.mil/jtwc/tnumcurves.jpg" rel="nofollow">"T-Number Curve Comparison between JTWC and JMA"</a>. Archived from <a class="external text" href="http://metoc.npmoc.navy.mil/jtwc/tnumcurves.jpg" rel="nofollow">the original</a> on 2006-07-25.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=Leffler%2C+J.W&amp;rft.btitle=T-Number+Curve+Comparison+between+JTWC+and+JMA&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fmetoc.npmoc.navy.mil%2Fjtwc%2Ftnumcurves.jpg&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a> Satellite and Information Service (2011-08-26). <a class="external text" href="http://www.ssd.noaa.gov/PS/TROP/dvorak.html" rel="nofollow">"The Dvorak Technique Explained"</a>. <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-05-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=National+Oceanic+and+Atmospheric+Administration+Satellite+and+Information+Service&amp;rft.btitle=The+Dvorak+Technique+Explained&amp;rft.date=2011-08-26&amp;rft.genre=unknown&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.ssd.noaa.gov%2FPS%2FTROP%2Fdvorak.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-WMO-8"><span class="mw-cite-backlink">^ <a href="#cite_ref-WMO_8-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-WMO_8-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Burton, Andrew; Christopher Velden (2011-04-16). <a class="external text" href="http://www.wmo.int/pages/prog/www/tcp/documents/TCP-52_IWSATC_proceedings_en.pdf" rel="nofollow">"Proceedings of the International Workshop on Satellite Analysis of Tropical Cyclones Report No. TCP-52"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/World_Meteorological_Organization" title="World Meteorological Organization">World Meteorological Organization</a>. pp. 3–4<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-11-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=Burton%2C+Andrew&amp;rft.au=Christopher+Velden&amp;rft.btitle=Proceedings+of+the+International+Workshop+on+Satellite+Analysis+of+Tropical+Cyclones+Report+No.+TCP-52&amp;rft.date=2011-04-16&amp;rft.genre=unknown&amp;rft.pages=3-4&amp;rft.pub=World+Meteorological+Organization&amp;rft_id=http%3A%2F%2Fwww.wmo.int%2Fpages%2Fprog%2Fwww%2Ftcp%2Fdocuments%2FTCP-52_IWSATC_proceedings_en.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ODT-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-ODT_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ODT_9-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ODT_9-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Velden, Christopher; Timothy L. Olander &amp; Raymond M. Zehr (March 1998). <a class="external text" href="http://tropic.ssec.wisc.edu/misc/adt/odt/odt.html" rel="nofollow">"Development of an Objective Scheme to Estimate Tropical Cyclone Intensity from Digital Geostationary Satellite Infrared Imagery"</a>. <i>Weather and Forecasting</i>. University of Wisconsin. <b>13</b>: 172–186. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0434%281998%29013%3C0172%3ADOAOST%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0434(1998)013&lt;0172:DOAOST&gt;2.0.CO;2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2012-09-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.atitle=Development+of+an+Objective+Scheme+to+Estimate+Tropical+Cyclone+Intensity+from+Digital+Geostationary+Satellite+Infrared+Imagery&amp;rft.au=Raymond+M.+Zehr&amp;rft.au=Timothy+L.+Olander&amp;rft.au=Velden%2C+Christopher&amp;rft.date=1998-03&amp;rft.genre=article&amp;rft.jtitle=Weather+and+Forecasting&amp;rft.pages=172-186&amp;rft.volume=13&amp;rft_id=http%3A%2F%2Ftropic.ssec.wisc.edu%2Fmisc%2Fadt%2Fodt%2Fodt.html&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0434%281998%29013%3C0172%3ADOAOST%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-CCC-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-CCC_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CCC_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Lander, Mark A. (January 1999). "Pictures of the Month: A Tropical Cyclone With an Enormous Central Cold Cover". <i>Monthly Weather Review</i>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>. <b>127</b>: 132–134. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1999MWRv..127..132L" rel="nofollow">1999MWRv..127..132L</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0493%281999%29127%3C0132%3Aatcwae%3E2.0.co%3B2" rel="nofollow">10.1175/1520-0493(1999)127&lt;0132:atcwae&gt;2.0.co;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.atitle=Pictures+of+the+Month%3A+A+Tropical+Cyclone+With+an+Enormous+Central+Cold+Cover&amp;rft.au=Lander%2C+Mark+A.&amp;rft.date=1999-01&amp;rft.genre=article&amp;rft.jtitle=Monthly+Weather+Review&amp;rft.pages=132-134&amp;rft.volume=127&amp;rft_id=info%3Abibcode%2F1999MWRv..127..132L&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0493%281999%29127%3C0132%3Aatcwae%3E2.0.co%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Vern-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Vern_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Vern_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Dvorak, Vernon F. (February 1973). "A Technique For the Analysis and Forecasting of Tropical Cyclone Intensities From Satellite Pictures". <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a>: 5–8.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.atitle=A+Technique+For+the+Analysis+and+Forecasting+of+Tropical+Cyclone+Intensities+From+Satellite+Pictures&amp;rft.au=Dvorak%2C+Vernon+F.&amp;rft.date=1973-02&amp;rft.genre=article&amp;rft.pages=5-8&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Wimmers, Anthony; Chistopher Velden (2012). <a class="external text" href="https://docs.google.com/viewer?a=v&amp;q=cache:TNjsYx3-4tYJ:https://ams.confex.com/ams/30Hurricane/webprogram/Manuscript/Paper205619/hurrconf_2012_archer_extabs.pdf+Objectively+Determining+the+Rotational+Center+of+Tropical+Cyclones+in+Passive+Microwave+Satellite+Imagery+Anthony+J.+Wimmers+and+Christopher+S.+Velden&amp;hl=en&amp;gl=us&amp;pid=bl&amp;srcid=ADGEEShshgH1vysQyzdH8CmUQ2cUchwb6JJdg8q2-vIiIJ8uf5nFrmjAtTXCMD2PFrFah5R6Hl5q9A3x1-gV5iiLUzeVQbXO0D35UokP9lPv3wG6KVCjTOQp8zDmToJZzaKoiIXCEdP4&amp;sig=AHIEtbTlbbUiMfUOQ_0o0lCPuM4jkc47bw" rel="nofollow">"Advances in Objective Tropical Cyclone Center Fixing Using Multispectral Satellite Imagery"</a> <span style="font-size:85%;">(PDF)</span>. American Meteorological Society<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-08-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=Chistopher+Velden&amp;rft.au=Wimmers%2C+Anthony&amp;rft.btitle=Advances+in+Objective+Tropical+Cyclone+Center+Fixing+Using+Multispectral+Satellite+Imagery&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft.pub=American+Meteorological+Society&amp;rft_id=https%3A%2F%2Fdocs.google.com%2Fviewer%3Fa%3Dv%26q%3Dcache%3ATNjsYx3-4tYJ%3Ahttps%3A%2F%2Fams.confex.com%2Fams%2F30Hurricane%2Fwebprogram%2FManuscript%2FPaper205619%2Fhurrconf_2012_archer_extabs.pdf%2BObjectively%2BDetermining%2Bthe%2BRotational%2BCenter%2Bof%2BTropical%2BCyclones%2Bin%2BPassive%2BMicrowave%2BSatellite%2BImagery%2BAnthony%2BJ.%2BWimmers%2Band%2BChristopher%2BS.%2BVelden%26hl%3Den%26gl%3Dus%26pid%3Dbl%26srcid%3DADGEEShshgH1vysQyzdH8CmUQ2cUchwb6JJdg8q2-vIiIJ8uf5nFrmjAtTXCMD2PFrFah5R6Hl5q9A3x1-gV5iiLUzeVQbXO0D35UokP9lPv3wG6KVCjTOQp8zDmToJZzaKoiIXCEdP4%26sig%3DAHIEtbTlbbUiMfUOQ_0o0lCPuM4jkc47bw&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Rogers, Edward; R. Cecil Gentry; William Shenk &amp; Vincent Oliver (May 1979). "The Benefits of Using Short-Interval Satellite Images To Derive Winds For Tropical Cyclones". <i>Monthly Weather Review</i>. American Meteorological Society. <b>107</b>: 575–584. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1979MWRv..107..575R" rel="nofollow">1979MWRv..107..575R</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0493%281979%29107%3C0575%3Atbousi%3E2.0.co%3B2" rel="nofollow">10.1175/1520-0493(1979)107&lt;0575:tbousi&gt;2.0.co;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.atitle=The+Benefits+of+Using+Short-Interval+Satellite+Images+To+Derive+Winds+For+Tropical+Cyclones&amp;rft.au=R.+Cecil+Gentry&amp;rft.au=Rogers%2C+Edward&amp;rft.au=Vincent+Oliver&amp;rft.au=William+Shenk&amp;rft.date=1979-05&amp;rft.genre=article&amp;rft.jtitle=Monthly+Weather+Review&amp;rft.pages=575-584&amp;rft.volume=107&amp;rft_id=info%3Abibcode%2F1979MWRv..107..575R&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0493%281979%29107%3C0575%3Atbousi%3E2.0.co%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">De Maria, Mark (1999-04-19). <a class="external text" href="https://web.archive.org/web/20060813210951/http://www.comet.ucar.edu/class/satmet/11_Apr19_1999/html/demariamn/sld030.htm" rel="nofollow">"Satellite Application is Tropical Weather Forecasting"</a>. Archived from <a class="external text" href="http://www.comet.ucar.edu/class/satmet/11_Apr19_1999/html/demariamn/sld030.htm" rel="nofollow">the original</a> on 2006-08-13<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-05-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=De+Maria%2C+Mark&amp;rft.btitle=Satellite+Application+is+Tropical+Weather+Forecasting&amp;rft.date=1999-04-19&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsatmet%2F11_Apr19_1999%2Fhtml%2Fdemariamn%2Fsld030.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web">Stewart, Stacy (2005-10-16). <a class="external text" href="http://www.nhc.noaa.gov/archive/2005/dis/al242005.discus.003.shtml?" rel="nofollow">"NHC Tropical Depression 24 Discussion Number 3"</a>. <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-05-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.au=Stewart%2C+Stacy&amp;rft.btitle=NHC+Tropical+Depression+24+Discussion+Number+3&amp;rft.date=2005-10-16&amp;rft.genre=unknown&amp;rft.pub=National+Hurricane+Center&amp;rft_id=http%3A%2F%2Fwww.nhc.noaa.gov%2Farchive%2F2005%2Fdis%2Fal242005.discus.003.shtml%3F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.cyclonecenter.org/#/about/how-it-works" rel="nofollow">"Cyclone Center"</a>. <i>www.cyclonecenter.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-08-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ADvorak+technique&amp;rft.atitle=Cyclone+Center&amp;rft.genre=unknown&amp;rft.jtitle=www.cyclonecenter.org&amp;rft_id=http%3A%2F%2Fwww.cyclonecenter.org%2F%23%2Fabout%2Fhow-it-works&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Dvorak_technique&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Dvorak_technique" title="commons:Category:Dvorak technique">Dvorak technique</a></b></i>.</td>
+</tr>
+</table>
+<dl>
+<dt>Agencies issuing Dvorak intensity estimates</dt>
+</dl>
+<ul>
+<li><a class="external text" href="http://www.usno.navy.mil/JTWC" rel="nofollow">Joint Typhoon Warning Center</a></li>
+<li><a class="external text" href="http://tropic.ssec.wisc.edu/real-time/adt/adt.html" rel="nofollow">UW–CIMSS</a> (Advanced Dvorak Technique)</li>
+<li><a class="external text" href="http://www.ssd.noaa.gov/PS/TROP/tdpositions.html" rel="nofollow">NOAA/NESDIS Satellite Analysis Branch</a></li>
+<li><a class="external text" href="http://www.nhc.noaa.gov/abouttafb.shtml" rel="nofollow">About the TAFB</a></li>
+</ul>
+<dl>
+<dt>Other</dt>
+</dl>
+<ul>
+<li><a class="external text" href="http://journals.ametsoc.org/doi/abs/10.1175/1520-0493%281975%29103%3C0420%3ATCIAAF%3E2.0.CO%3B2" rel="nofollow">Tropical Cyclone Intensity Analysis and Forecasting from Satellite Imagery</a> Dvorak, 1974. (PDF, 1.3 MB)</li>
+<li><a class="external text" href="http://ams.confex.com/ams/pdfpapers/75193.pdf" rel="nofollow">Dvorak Tropical Cyclone Wind Speed Biases Determined from Reconnaissance-based "Best Track" Data (1997–2003)</a> Franklin and Brown</li>
+<li><a class="external text" href="https://confex.webex.com/confex/playback.php?FileName=http%3A%2F%2Fams.confex.com%2Fdata%2Fams%2Fwebex%2F26HURR%2F75544.wrf" rel="nofollow">The Dvorak Technique Through Time</a> Dr. Jack Beven. (WRF File. Requires WebEx player)</li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1256
+Cached time: 20170920123142
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.256 seconds
+Real time usage: 0.310 seconds
+Preprocessor visited node count: 1329/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37025/2097152 bytes
+Template argument size: 589/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.119/10.000 seconds
+Lua memory usage: 5.11 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  273.397      1 -total
+ 48.21%  131.803      1 Template:Reflist
+ 22.42%   61.308      5 Template:Cite_journal
+ 15.16%   41.456      1 Template:Good_article
+ 14.57%   39.845      1 Template:Top_icon
+ 13.22%   36.148     10 Template:Cite_web
+ 12.56%   34.349      7 Template:Convert
+ 11.90%   32.545      1 Template:Category_handler
+  8.62%   23.571      1 Template:Commons_category
+  2.53%    6.922      1 Template:Commons
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:5240327-0!canonical and timestamp 20170920123142 and revision id 786738199
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Dvorak_technique&amp;oldid=786738199">https://en.wikipedia.org/w/index.php?title=Dvorak_technique&amp;oldid=786738199</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Satellite_interpretation" title="Category:Satellite interpretation">Satellite interpretation</a></li><li><a href="/wiki/Category:Tropical_cyclone_meteorology" title="Category:Tropical cyclone meteorology">Tropical cyclone meteorology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Dvorak+technique" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Dvorak+technique" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Dvorak_technique" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Dvorak_technique" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Dvorak_technique">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Dvorak_technique&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Dvorak_technique&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Dvorak_technique" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Dvorak_technique" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Dvorak_technique&amp;oldid=786738199" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Dvorak_technique&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1268345" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Dvorak_technique&amp;id=786738199" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Dvorak+technique">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Dvorak+technique&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DDvorak%2Btechnique%26returnto%3DDvorak%2Btechnique%26oldid%3D786738199%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Dvorak_technique&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Dvorak_technique" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/T%C3%A8cnica_Dvorak" hreflang="ca" lang="ca" title="Tècnica Dvorak – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Dvorak-Technik" hreflang="de" lang="de" title="Dvorak-Technik – German">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Technique_de_Dvorak" hreflang="fr" lang="fr" title="Technique de Dvorak – French">Français</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Teknik_Dvorak" hreflang="ms" lang="ms" title="Teknik Dvorak – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Dvoraktechniek" hreflang="nl" lang="nl" title="Dvoraktechniek – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%89%E3%83%9C%E3%83%A9%E3%83%83%E3%82%AF%E6%B3%95" hreflang="ja" lang="ja" title="ドボラック法 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Dvorakteknikk" hreflang="no" lang="no" title="Dvorakteknikk – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Metoda_Dvoraka" hreflang="pl" lang="pl" title="Metoda Dvoraka – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/T%C3%A9cnica_Dvorak" hreflang="pt" lang="pt" title="Técnica Dvorak – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Dvorak_technique" hreflang="simple" lang="simple" title="Dvorak technique – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Dvorakteknik" hreflang="sv" lang="sv" title="Dvorakteknik – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%BE%B7%E6%B2%83%E5%A4%8F%E5%85%8B%E5%88%86%E6%9E%90%E6%B3%95" hreflang="zh" lang="zh" title="德沃夏克分析法 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1268345#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 21 June 2017, at 09:24.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Dvorak_technique&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.256","walltime":"0.310","ppvisitednodes":{"value":1329,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37025,"limit":2097152},"templateargumentsize":{"value":589,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  273.397      1 -total"," 48.21%  131.803      1 Template:Reflist"," 22.42%   61.308      5 Template:Cite_journal"," 15.16%   41.456      1 Template:Good_article"," 14.57%   39.845      1 Template:Top_icon"," 13.22%   36.148     10 Template:Cite_web"," 12.56%   34.349      7 Template:Convert"," 11.90%   32.545      1 Template:Category_handler","  8.62%   23.571      1 Template:Commons_category","  2.53%    6.922      1 Template:Commons"]},"scribunto":{"limitreport-timeusage":{"value":"0.119","limit":"10.000"},"limitreport-memusage":{"value":5361352,"limit":52428800}},"cachereport":{"origin":"mw1256","timestamp":"20170920123142","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1267"});});</script>
+</body>
+</html>

@@ -1,0 +1,406 @@
+https://en.wikipedia.org/wiki/Microgravity
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Micro-g environment - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Micro-g_environment","wgTitle":"Micro-g environment","wgCurRevisionId":800865587,"wgRevisionId":800865587,"wgArticleId":516838,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from December 2012","Articles with unsourced statements from January 2013","Articles with unsourced statements from May 2012","Gravitation","Weightlessness"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Micro-g_environment","wgRelevantArticleId":516838,"wgRequestId":"WdMclQpAMFIAAJn0qOEAAABS","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Microgravity","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Micro-g_environment","wgWikibaseItemId":"Q48655","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5b/STS-130_Endeavour_flyaround_5.jpg/1200px-STS-130_Endeavour_flyaround_5.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Micro-g_environment" rel="alternate"/>
+<link href="/w/index.php?title=Micro-g_environment&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Micro-g_environment&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Micro-g_environment" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Micro-g_environment rootpage-Micro-g_environment vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Micro-g environment</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Microgravity&amp;redirect=no" title="Microgravity">Microgravity</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:STS-130_Endeavour_flyaround_5.jpg"><img alt="" class="thumbimage" data-file-height="2040" data-file-width="3072" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/STS-130_Endeavour_flyaround_5.jpg/300px-STS-130_Endeavour_flyaround_5.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5b/STS-130_Endeavour_flyaround_5.jpg/450px-STS-130_Endeavour_flyaround_5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5b/STS-130_Endeavour_flyaround_5.jpg/600px-STS-130_Endeavour_flyaround_5.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:STS-130_Endeavour_flyaround_5.jpg" title="Enlarge"></a></div>
+The <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a> in <a href="/wiki/Orbit" title="Orbit">orbit</a> around <a href="/wiki/Earth" title="Earth">Earth</a>, February 2010. The ISS is in a <b>micro-g environment</b>.</div>
+</div>
+</div>
+<p>The term <b>micro-g environment</b> (also <b>µg</b>, often referred to by the term <b>microgravity</b>) is more or less a synonym for <i><a href="/wiki/Weightlessness" title="Weightlessness">weightlessness</a></i> and <i>zero-g</i>, but indicates that <a href="/wiki/G-force" title="G-force">g-forces</a> are not quite zero, just very small.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> The symbol for microgravity, <i>µg</i>, was used on the insignias of <a href="/wiki/Space_Shuttle" title="Space Shuttle">Space Shuttle</a> flights <a href="/wiki/STS-87" title="STS-87">STS-87</a> and <a href="/wiki/STS-107" title="STS-107">STS-107</a>, because these flights were devoted to microgravity research in <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">low Earth orbit</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Absence_of_gravity"><span class="tocnumber">1</span> <span class="toctext">Absence of gravity</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Free_fall"><span class="tocnumber">2</span> <span class="toctext">Free fall</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Tidal_and_inertial_acceleration"><span class="tocnumber">3</span> <span class="toctext">Tidal and inertial acceleration</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Commercial_applications"><span class="tocnumber">4</span> <span class="toctext">Commercial applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Metal_spheres"><span class="tocnumber">4.1</span> <span class="toctext">Metal spheres</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#High-quality_crystals"><span class="tocnumber">4.2</span> <span class="toctext">High-quality crystals</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Absence_of_gravity">Absence of gravity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro-g_environment&amp;action=edit&amp;section=1" title="Edit section: Absence of gravity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A "stationary" micro-g environment<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> would require travelling far enough into deep space so as to reduce the effect of gravity by <a href="/wiki/Attenuation" title="Attenuation">attenuation</a> to almost zero. This is the simplest in conception, but requires traveling an enormous distance, rendering it most impractical. For example, to reduce the gravity of the Earth by a factor of one million, one needs to be at a distance of 6 million kilometers from the Earth, but to reduce the gravity of the Sun to this amount one has to be at a distance of 3.7 billion kilometers. (The gravity due to the rest of the <a href="/wiki/Milky_Way" title="Milky Way">Milky Way</a> is already smaller than one millionth of the gravity on Earth, so we do not need to move away further from its <a href="/wiki/Galactic_Center" title="Galactic Center">center</a><sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2012)">citation needed</span></a></i>]</sup>). Thus it is not impossible, but it has only been achieved so far by four <a href="/wiki/Interstellar_probe" title="Interstellar probe">interstellar probes</a> (<a href="/wiki/Voyager_1" title="Voyager 1">Voyager 1</a> and <a href="/wiki/Voyager_2" title="Voyager 2">2</a>, part of the <a href="/wiki/Voyager_program" title="Voyager program">Voyager program</a>, <a href="/wiki/Pioneer_10" title="Pioneer 10">Pioneer 10</a> and <a href="/wiki/Pioneer_11" title="Pioneer 11">11</a> part of the <a href="/wiki/Pioneer_program" title="Pioneer program">Pioneer program</a>) and they did not return to Earth. To reduce the gravity to one thousandth of that on Earth's surface, one needs to be at a distance of 200,000 km.</p>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Location</th>
+<th colspan="3">Gravity due to</th>
+<th rowspan="2">Total</th>
+</tr>
+<tr>
+<th><a href="/wiki/Earth" title="Earth">Earth</a></th>
+<th><a href="/wiki/Sun" title="Sun">Sun</a></th>
+<th>rest of <a href="/wiki/Milky_Way" title="Milky Way">Milky Way</a></th>
+</tr>
+<tr>
+<td>Earth's surface</td>
+<td>9.81 m/s<sup>2</sup></td>
+<td>6 mm/s<sup>2</sup></td>
+<td>200 pm/s<sup>2</sup> = 6 mm/s/yr</td>
+<td>9.81 m/s<sup>2</sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">Low Earth orbit</a></td>
+<td>9 m/s<sup>2</sup></td>
+<td>6 mm/s<sup>2</sup></td>
+<td>200 pm/s<sup>2</sup></td>
+<td>9 m/s<sup>2</sup></td>
+</tr>
+<tr>
+<td>200,000 km from Earth</td>
+<td>10 mm/s<sup>2</sup></td>
+<td>6 mm/s<sup>2</sup></td>
+<td>200 pm/s<sup>2</sup></td>
+<td>up to 12 mm/s<sup>2</sup></td>
+</tr>
+<tr>
+<td><span class="nowrap"><span class="sortkey" style="display:none">7009600000000000000♠</span>6<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>6</sup> km</span> from Earth</td>
+<td>10 μm/s<sup>2</sup></td>
+<td>6 mm/s<sup>2</sup></td>
+<td>200 pm/s<sup>2</sup></td>
+<td>6 mm/s<sup>2</sup></td>
+</tr>
+<tr>
+<td><span class="nowrap"><span class="sortkey" style="display:none">7012370000000000000♠</span>3.7<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>9</sup> km</span> from Earth</td>
+<td>29 pm/s<sup>2</sup></td>
+<td>10 μm/s<sup>2</sup></td>
+<td>200 pm/s<sup>2</sup></td>
+<td>10 μm/s<sup>2</sup></td>
+</tr>
+<tr>
+<td><a href="/wiki/Voyager_1" title="Voyager 1">Voyager 1</a> (<span class="nowrap"><span class="sortkey" style="display:none">7013170000000000000♠</span>17<span style="margin-left:0.25em;margin-right:0.15em;">×</span>10<sup>9</sup> km</span> from Earth)</td>
+<td>1 pm/s<sup>2</sup></td>
+<td>500 nm/s<sup>2</sup></td>
+<td>200 pm/s<sup>2</sup></td>
+<td>500 nm/s<sup>2</sup></td>
+</tr>
+<tr>
+<td>0.1 <a href="/wiki/Light-year" title="Light-year">light-year</a> from Earth</td>
+<td>400 am/s<sup>2</sup></td>
+<td>200 pm/s<sup>2</sup></td>
+<td>200 pm/s<sup>2</sup></td>
+<td>up to 400 pm/s<sup>2</sup></td>
+</tr>
+</table>
+<p>At a distance relatively close to Earth (less than 3000 km), gravity is only slightly reduced. As an object orbits a body such as the Earth, gravity is still attracting objects towards the Earth and the object is accelerated downward at almost 1g. Because the objects are typically moving laterally with respect to the surface at such immense speeds, the object will not lose altitude because of the curvature of the Earth. When viewed from an orbiting observer, other close objects in space appear to be floating because everything is being pulled towards Earth at the same speed, but also moving forward as the Earth's surface "falls" away below. All these objects are in free fall, not zero gravity.</p>
+<p>Compare the <a href="/wiki/Gravitational_potential#Numerical_values" title="Gravitational potential">gravitational potential at some of these locations</a>.</p>
+<h2><span class="mw-headline" id="Free_fall">Free fall</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro-g_environment&amp;action=edit&amp;section=2" title="Edit section: Free fall">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>What remains is a micro-g environment moving in <a href="/wiki/Free_fall" title="Free fall">free fall</a>, i.e. there are no forces other than gravity acting on the people or objects in this environment. To prevent air drag making the free fall less perfect, objects and people can free-fall in a capsule that itself, while not necessarily in free fall, is accelerated as in free fall.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2013)">citation needed</span></a></i>]</sup> This can be done by applying a force to compensate for air drag. Alternatively free fall can be carried out in space, or in a vacuum tower or shaft.</p>
+<p>The two cases that can be distinguished are that where the situation is only temporary because after some time the Earth's surface is or would be reached, and the case where the situation can go on indefinitely.</p>
+<p>A temporary micro-g environment exists in a <a href="/wiki/Drop_tube" title="Drop tube">drop tube</a> (in a tower or shaft), a <a href="/wiki/Sub-orbital_spaceflight" title="Sub-orbital spaceflight">sub-orbital spaceflight</a>, e.g. with a <a href="/wiki/Sounding_rocket" title="Sounding rocket">sounding rocket</a>, and in an airplane such as used by <a href="/wiki/NASA" title="NASA">NASA</a>'s Reduced Gravity Research Program, aka the <a class="mw-redirect" href="/wiki/Vomit_Comet" title="Vomit Comet">Vomit Comet</a>, and by the <a href="/wiki/Zero_Gravity_Corporation" title="Zero Gravity Corporation">Zero Gravity Corporation</a>. A temporary micro-g environment is applied for training of astronauts, for some experiments, for filming movies, and for recreational purposes.</p>
+<p>A micro-g environment for an indefinite time, while also possible in a spaceship going to infinity in a parabolic or hyperbolic orbit, is most practical in an Earth orbit. This is the environment commonly experienced in the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a>, <a href="/wiki/Space_Shuttle" title="Space Shuttle">Space Shuttle</a>, etc. While this scenario is the most suitable for scientific experimentation and commercial exploitation, it is still quite expensive to operate in, mostly due to launch costs.</p>
+<h2><span class="mw-headline" id="Tidal_and_inertial_acceleration">Tidal and inertial acceleration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro-g_environment&amp;action=edit&amp;section=3" title="Edit section: Tidal and inertial acceleration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Objects in orbit are not perfectly weightless due to several effects:</p>
+<ul>
+<li>Effects depending on relative position in the spacecraft:
+<ul>
+<li>Because the force of gravity decreases with distance, objects with non-zero size will be subjected to a <a href="/wiki/Tidal_force" title="Tidal force">tidal force</a>, or a differential pull, between the ends of the object nearest and furthest from the Earth. (An extreme version of this effect is <a href="/wiki/Spaghettification" title="Spaghettification">spaghettification</a>.) At <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">low Earth orbit</a> (LEO) altitudes, the force differential is approximately 0.33 μ<i>g</i>/m.</li>
+<li>In a spacecraft in LEO, the <a href="/wiki/Centrifugal_force" title="Centrifugal force">centrifugal force</a> is greater on the side of the spacecraft furthest from the Earth. This is also a tidal force, adding 0.17 μ<i>g</i>/m to the first-mentioned effect.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (May 2012)">citation needed</span></a></i>]</sup></li>
+<li>"Floating" objects in a spacecraft in LEO are actually in independent orbits around the Earth. If two objects are placed side-by-side (relative to their direction of motion), they will be orbiting the Earth in different orbital planes. Since all orbital planes pass through the center of the earth, any two orbital planes intersect along a line. Therefore, two objects placed side-by-side (at any distance apart) will come together after one quarter of a revolution. If they are placed so they miss each other, they will oscillate past each other, with the same period as the orbit. This corresponds to an inward acceleration of 0.17 μ<i>g</i> per meter horizontal distance from the center. If they are placed one ahead of the other in the same orbital plane, they will maintain their separation. If they are placed one above the other (at different radii from the center of the Earth), they will have different potential energies, so the size, eccentricity, and period of their orbits will be different, causing them to move in a complex looping pattern relative to each other.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></li>
+<li>Gravity between the spacecraft and an object within it may make the object slowly "fall" toward a more massive part of it. The acceleration is 0.007 μ<i>g</i> for 1000 kg at 1 m distance.</li>
+</ul>
+</li>
+<li>Uniform effects (which could be compensated):
+<ul>
+<li>Though very thin, there is some air at orbital altitudes of 185 to 1,000 km. This atmosphere causes deceleration due to friction. This could be compensated by a small continuous thrust, but in practice the deceleration is only compensated from time to time, so the small g-force of this effect is not eliminated.</li>
+<li>The effects of the <a href="/wiki/Solar_wind" title="Solar wind">solar wind</a> and <a href="/wiki/Radiation_pressure" title="Radiation pressure">radiation pressure</a> are similar, but directed away from the Sun. Unlike the effect of the atmosphere, it does not reduce with altitude.</li>
+</ul>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Commercial_applications">Commercial applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro-g_environment&amp;action=edit&amp;section=4" title="Edit section: Commercial applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Metal_spheres">Metal spheres</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro-g_environment&amp;action=edit&amp;section=5" title="Edit section: Metal spheres">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a <a href="/wiki/Shot_tower" title="Shot tower">shot tower</a> (now obsolete), molten metal (such as <a href="/wiki/Lead" title="Lead">lead</a> or <a href="/wiki/Steel" title="Steel">steel</a>) was dripped through a sieve into free fall. With sufficient height (several hundred feet), the metal would be solid enough to resist impact (usually in a water bath) at the bottom of the tower. While the shot may have been slightly deformed by its passage through the air and by impact at the bottom, this method produced metal spheres of sufficient roundness to be used directly in <a href="/wiki/Shotgun" title="Shotgun">shotgun</a> shells or to be refined by further processing for applications requiring higher accuracy.</p>
+<h3><span class="mw-headline" id="High-quality_crystals">High-quality crystals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro-g_environment&amp;action=edit&amp;section=6" title="Edit section: High-quality crystals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>While not yet a commercial application, there has been interest in growing <a href="/wiki/Crystal" title="Crystal">crystals</a> in micro-g, as in a <a href="/wiki/Space_station" title="Space station">space station</a> or automated artificial <a href="/wiki/Satellite" title="Satellite">satellite</a>, in an attempt to reduce crystal lattice defects.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> Such defect-free crystals may prove useful for certain microelectronic applications and also to produce crystals for subsequent <a href="/wiki/X-ray_crystallography" title="X-ray crystallography">X-ray crystallography</a>.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:55.5px auto;"><a class="image" href="/wiki/File:Comparison2.jpg"><img alt="" data-file-height="176" data-file-width="540" height="39" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Comparison2.jpg/120px-Comparison2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Comparison2.jpg/180px-Comparison2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Comparison2.jpg/240px-Comparison2.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Comparison of boiling of water under earth's gravity (1 g, left) and microgravity (right). The source of heat is in the lower part of the photograph.</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:28.5px auto;"><a class="image" href="/wiki/File:Space_Fire.jpg"><img alt="" data-file-height="600" data-file-width="771" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Space_Fire.jpg/120px-Space_Fire.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/Space_Fire.jpg/180px-Space_Fire.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/Space_Fire.jpg/240px-Space_Fire.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>A comparison between the combustion of a candle on <a href="/wiki/Earth" title="Earth">Earth</a> (left) and in a microgravity environment, such as that found on the <a class="mw-redirect" href="/wiki/ISS" title="ISS">ISS</a> (right).</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:30px auto;"><a class="image" href="/wiki/File:Crystals_grown_in_microgravity.jpg"><img alt="" data-file-height="698" data-file-width="926" height="90" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Crystals_grown_in_microgravity.jpg/120px-Crystals_grown_in_microgravity.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Crystals_grown_in_microgravity.jpg/180px-Crystals_grown_in_microgravity.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Crystals_grown_in_microgravity.jpg/240px-Crystals_grown_in_microgravity.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Protein crystals grown by American scientists on the Russian Space Station <i><a href="/wiki/Mir" title="Mir">Mir</a></i> in 1995.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:33px auto;"><a class="image" href="/wiki/File:Insulin_crystals_comparison.jpg"><img alt="" data-file-height="210" data-file-width="300" height="84" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Insulin_crystals_comparison.jpg/120px-Insulin_crystals_comparison.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/af/Insulin_crystals_comparison.jpg/180px-Insulin_crystals_comparison.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/af/Insulin_crystals_comparison.jpg/240px-Insulin_crystals_comparison.jpg 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Comparison of <a href="/wiki/Insulin" title="Insulin">insulin</a> crystals growth in outer space (left) and on Earth (right).</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro-g_environment&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/%CE%9CFluids@Home" title="ΜFluids@Home">μFluids@Home</a> — a distributed computing project that models the behavior of liquid rocket propellants in micro-g</li>
+<li><a href="/wiki/Weightlessness" title="Weightlessness">Weightlessness</a></li>
+<li><a href="/wiki/European_Low_Gravity_Research_Association" title="European Low Gravity Research Association">European Low Gravity Research Association</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro-g_environment&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://www.jamesoberg.com/myth.html" rel="nofollow">"Space myths and misconceptions – space flight"</a>. <i><a href="/wiki/Omni_(magazine)" title="Omni (magazine)">OMNI</a></i>. <b>15</b> (7): 38ff. May 1993.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro-g+environment&amp;rft.atitle=Space+myths+and+misconceptions+%E2%80%93+space+flight&amp;rft.date=1993-05&amp;rft.genre=article&amp;rft.issue=7&amp;rft.jtitle=OMNI&amp;rft.pages=38ff&amp;rft.volume=15&amp;rft_id=http%3A%2F%2Fwww.jamesoberg.com%2Fmyth.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Depending on distance, "stationary" is meant relative to Earth or the Sun.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation journal">Chandler, David (May 1991). <a class="external text" href="http://www.lcurve.org/writings/PT-WeightlessnessAndMicrogravity.pdf" rel="nofollow">"Weightlessness and Microgravity"</a> <span style="font-size:85%;">(PDF)</span>. <i>The Physics Teacher</i>: 312–13.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro-g+environment&amp;rft.atitle=Weightlessness+and+Microgravity&amp;rft.au=Chandler%2C+David&amp;rft.date=1991-05&amp;rft.genre=article&amp;rft.jtitle=The+Physics+Teacher&amp;rft.pages=312-13&amp;rft_id=http%3A%2F%2Fwww.lcurve.org%2Fwritings%2FPT-WeightlessnessAndMicrogravity.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">"<a class="external text" href="http://news.discovery.com/space/growing-crystals-in-zero-gravity-121227.htm" rel="nofollow">Growing Crystals in Zero-Gravity</a>" News Article by <a href="/wiki/Discovery_Channel" title="Discovery Channel">Discovery</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Koszelak, S; Leja, C; McPherson, A (1996). "Crystallization of biological macromolecules from flash frozen samples on the Russian Space Station Mir". <i>Biotechnology and Bioengineering</i>. <b>52</b> (4): 449–58. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11541085" rel="nofollow">11541085</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2F%28SICI%291097-0290%2819961120%2952%3A4%3C449%3A%3AAID-BIT1%3E3.0.CO%3B2-P" rel="nofollow">10.1002/(SICI)1097-0290(19961120)52:4&lt;449::AID-BIT1&gt;3.0.CO;2-P</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMicro-g+environment&amp;rft.atitle=Crystallization+of+biological+macromolecules+from+flash+frozen+samples+on+the+Russian+Space+Station+Mir&amp;rft.au=Leja%2C+C&amp;rft.au=McPherson%2C+A&amp;rft.aufirst=S&amp;rft.aulast=Koszelak&amp;rft.date=1996&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Biotechnology+and+Bioengineering&amp;rft.pages=449-58&amp;rft.volume=52&amp;rft_id=info%3Adoi%2F10.1002%2F%28SICI%291097-0290%2819961120%2952%3A4%3C449%3A%3AAID-BIT1%3E3.0.CO%3B2-P&amp;rft_id=info%3Apmid%2F11541085&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Micro-g_environment&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <wbr/><i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Weightlessness_(zero_gravity)" title="commons:Category:Weightlessness (zero gravity)">Weightlessness (zero gravity)</a></b></i> and <wbr/><i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Microgravity" title="commons:Category:Microgravity">Microgravity</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.labflight.com" rel="nofollow">Overview of microgravity applications and methods</a></li>
+<li><a class="external text" href="http://groups.google.com/group/sci.space.station/msg/8878d0bc915ae768?dmode=source&amp;hl=en" rel="nofollow">Criticism of the terms "Zero Gravity" and "Microgravity"</a>, a persuasion to use terminology that reflects accurate physics (Sci.space post).</li>
+<li><a class="external text" href="http://bio.au-kbc.org/faculty/suvro/space.htm" rel="nofollow">Space Biology Research at AU-KBC Research Centre</a></li>
+<li>Microgravity alters cancer growth and progression <a class="external autonumber" href="http://www.ncbi.nlm.nih.gov/pubmed/24720362" rel="nofollow">[1]</a></li>
+<li>The adaptation of <i>Escherichia coli</i> cells grown in simulated microgravity for an extended period is both phenotypic and genomic. <a class="external autonumber" href="https://www.nature.com/articles/s41526-017-0020-1" rel="nofollow">[2]</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1182
+Cached time: 20170921000216
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.275 seconds
+Preprocessor visited node count: 796/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 15014/2097152 bytes
+Template argument size: 1772/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 3/500
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 3.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  238.573      1 -total
+ 40.23%   95.978      3 Template:Citation_needed
+ 31.12%   74.243      3 Template:Fix
+ 26.53%   63.298      1 Template:Reflist
+ 20.38%   48.619      3 Template:Cite_journal
+ 20.16%   48.089      3 Template:Val
+ 14.62%   34.868      3 Template:Delink
+ 14.57%   34.750      6 Template:Category_handler
+  6.89%   16.443      1 Template:Commons_category_multi
+  6.03%   14.377      1 Template:Sister_project
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:516838-0!canonical and timestamp 20170921000216 and revision id 800865587
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Micro-g_environment&amp;oldid=800865587">https://en.wikipedia.org/w/index.php?title=Micro-g_environment&amp;oldid=800865587</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Gravitation" title="Category:Gravitation">Gravitation</a></li><li><a href="/wiki/Category:Weightlessness" title="Category:Weightlessness">Weightlessness</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2012" title="Category:Articles with unsourced statements from December 2012">Articles with unsourced statements from December 2012</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2013" title="Category:Articles with unsourced statements from January 2013">Articles with unsourced statements from January 2013</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_May_2012" title="Category:Articles with unsourced statements from May 2012">Articles with unsourced statements from May 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Micro-g+environment" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Micro-g+environment" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Micro-g_environment" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Micro-g_environment" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Micro-g_environment">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Micro-g_environment&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Micro-g_environment&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Micro-g_environment" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Micro-g_environment" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Micro-g_environment&amp;oldid=800865587" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Micro-g_environment&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q48655" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Micro-g_environment&amp;id=800865587" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Micro-g+environment">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Micro-g+environment&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DMicro-g%2Benvironment%26returnto%3DMicro-g%2Benvironment%26oldid%3D800865587%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Micro-g_environment&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Weightlessness_(zero_gravity)" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D1%96%D0%BA%D1%80%D0%B0%D0%B3%D1%80%D0%B0%D0%B2%D1%96%D1%82%D0%B0%D1%86%D1%8B%D1%8F" hreflang="be" lang="be" title="Мікрагравітацыя – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Microgravetat" hreflang="ca" lang="ca" title="Microgravetat – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Mikrogravitation" hreflang="de" lang="de" title="Mikrogravitation – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Microgravedad" hreflang="es" lang="es" title="Microgravedad – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Mikrograbitate" hreflang="eu" lang="eu" title="Mikrograbitate – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B1%DB%8C%D8%B2%DA%AF%D8%B1%D8%A7%D9%86%D8%B4" hreflang="fa" lang="fa" title="ریزگرانش – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Micropesanteur" hreflang="fr" lang="fr" title="Micropesanteur – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Micreadhomhantarraingt" hreflang="ga" lang="ga" title="Micreadhomhantarraingt – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%97%D7%95%D7%A1%D7%A8_%D7%9E%D7%A9%D7%A7%D7%9C" hreflang="he" lang="he" title="חוסר משקל – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Микрогравитация – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Mikrogravit%C3%A1ci%C3%B3" hreflang="hu" lang="hu" title="Mikrogravitáció – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Mikrograwitacja" hreflang="pl" lang="pl" title="Mikrograwitacja – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Microgravidade" hreflang="pt" lang="pt" title="Microgravidade – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Микрогравитация – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Mikrogravit%C3%A1cia" hreflang="sk" lang="sk" title="Mikrogravitácia – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Lebdenje" hreflang="sl" lang="sl" title="Lebdenje – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B8%D0%BA%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%B2%D0%B8%D1%82%D0%B0%D1%86%D0%B8%D1%98%D0%B0" hreflang="sr" lang="sr" title="Микрогравитација – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Mikrogravitacija" hreflang="sh" lang="sh" title="Mikrogravitacija – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D1%96%D0%BA%D1%80%D0%BE%D0%B3%D1%80%D0%B0%D0%B2%D1%96%D1%82%D0%B0%D1%86%D1%96%D1%8F" hreflang="uk" lang="uk" title="Мікрогравітація – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%85%D8%B9%D8%AF%D9%88%D8%AF_%D8%AB%D9%82%D9%84%DB%8C%D8%A6%D8%AA" hreflang="ur" lang="ur" title="معدود ثقلیئت – Urdu">اردو</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q48655#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 16 September 2017, at 04:23.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Micro-g_environment&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.275","ppvisitednodes":{"value":796,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":15014,"limit":2097152},"templateargumentsize":{"value":1772,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  238.573      1 -total"," 40.23%   95.978      3 Template:Citation_needed"," 31.12%   74.243      3 Template:Fix"," 26.53%   63.298      1 Template:Reflist"," 20.38%   48.619      3 Template:Cite_journal"," 20.16%   48.089      3 Template:Val"," 14.62%   34.868      3 Template:Delink"," 14.57%   34.750      6 Template:Category_handler","  6.89%   16.443      1 Template:Commons_category_multi","  6.03%   14.377      1 Template:Sister_project"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":4019792,"limit":52428800}},"cachereport":{"origin":"mw1182","timestamp":"20170921000216","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":74,"wgHostname":"mw1247"});});</script>
+</body>
+</html>

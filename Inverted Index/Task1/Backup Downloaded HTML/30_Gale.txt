@@ -1,0 +1,848 @@
+https://en.wikipedia.org/wiki/Gale
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Gale - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Gale","wgTitle":"Gale","wgCurRevisionId":801366919,"wgRevisionId":801366919,"wgArticleId":320909,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from September 2017","Articles lacking reliable references from September 2017","All articles lacking reliable references","Articles needing additional references from September 2017","All articles needing additional references","Articles needing cleanup from September 2017","All pages needing cleanup","Cleanup tagged articles with a reason field from September 2017","Wikipedia pages needing cleanup from September 2017","Wind"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Gale","wgRelevantArticleId":320909,"wgRequestId":"WdMlBQpAMF0AAK4hZcwAAABO","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q2144546","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.makeCollapsible","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/e/e8/Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Gale" rel="alternate"/>
+<link href="/w/index.php?title=Gale&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Gale&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Gale" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Gale rootpage-Gale vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Gale</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about the wind. For other uses, see <a class="mw-disambig" href="/wiki/Gale_(disambiguation)" title="Gale (disambiguation)">Gale (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-multiple_issues compact-ambox" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">
+<div class="mw-collapsible" style="width:95%; margin: 0.2em 0;"><b>This article has multiple issues.</b> Please help <b><a class="external text" href="//en.wikipedia.org/w/index.php?title=Gale&amp;action=edit">improve it</a></b> or discuss these issues on the <b><a href="/wiki/Talk:Gale" title="Talk:Gale">talk page</a></b>. <small><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove these template messages</a>)</i></small>
+<div class="mw-collapsible-content" style="margin-top: 0.3em;">
+<table class="plainlinks metadata ambox ambox-content" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="40" data-file-width="40" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/40px-Ambox_important.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/60px-Ambox_important.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Ambox_important.svg/80px-Ambox_important.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>is incomplete</b>. <span class="hide-when-compact">Please help to improve it, or discuss the issue on the <a href="/wiki/Talk:Gale" title="Talk:Gale">talk page</a>.</span> <small><i>(September 2017)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Primary_sources" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="Question book-new.svg" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>relies too much on <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">references</a> to <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">primary sources</a></b>. <span class="hide-when-compact">Please improve this by adding <a href="/wiki/Wikipedia:No_original_research#Primary.2C_secondary_and_tertiary_sources" title="Wikipedia:No original research">secondary or tertiary sources</a>.</span> <small><i>(September 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Gale&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(September 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-Cleanup" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article may <b>require <a href="/wiki/Wikipedia:Cleanup" title="Wikipedia:Cleanup">cleanup</a></b> to meet Wikipedia's <a href="/wiki/Wikipedia:Manual_of_Style" title="Wikipedia:Manual of Style">quality standards</a>. The specific problem is: <b>Very incomplete article. See cleanup tag on talk for details.</b> <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Gale&amp;action=edit">improve this article</a> if you can.</span> <small><i>(September 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+<small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg"><img alt="" class="thumbimage" data-file-height="379" data-file-width="768" height="109" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg/220px-Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg/330px-Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg/440px-Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Brooklyn_Museum_-_After_a_Gale--Wreckers_-_James_Hamilton_-_overall.jpg" title="Enlarge"></a></div>
+<i>After a Gale – Wreckers</i> by <a class="new" href="/w/index.php?title=James_Hamilton_(1819-1878)&amp;action=edit&amp;redlink=1" title="James Hamilton (1819-1878) (page does not exist)">James Hamilton</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Galewarning_flag.svg"><img alt="" class="thumbimage" data-file-height="300" data-file-width="480" height="138" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Galewarning_flag.svg/220px-Galewarning_flag.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Galewarning_flag.svg/330px-Galewarning_flag.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Galewarning_flag.svg/440px-Galewarning_flag.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Galewarning_flag.svg" title="Enlarge"></a></div>
+Gale warning flag</div>
+</div>
+</div>
+<p>The U.S. <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> defines a gale as 34–47 <a href="/wiki/Knot_(unit)" title="Knot (unit)">knots</a> (<span class="nowrap">63–87 km/h</span>, <span class="nowrap">17.5–24.2 m/s</span> or <span class="nowrap">39–54 miles/hour</span>) of sustained surface winds.<sup class="reference" id="cite_ref-noaa_glossary_1-0"><a href="#cite_note-noaa_glossary-1">[1]</a></sup> Forecasters typically issue <a href="/wiki/Gale_warning" title="Gale warning">gale warnings</a> when winds of this strength are expected.</p>
+<p>Other sources use minima as low as 28 knots (52 km/h, 32 mph) and maxima as high as 90 knots (170 km/h, 100 mph). Through 1986, the <a href="/wiki/National_Hurricane_Center" title="National Hurricane Center">National Hurricane Center</a> used the term gale to refer to winds of <a class="mw-redirect" href="/wiki/Tropical" title="Tropical">tropical</a> force for coastal areas, between 33 knots (61 km/h, 38 mph) and 63 knots (117 km/h, 72 mph). The 90 knots (170 km/h, 100 mph) definition is very non-standard. A common alternative definition of the maximum is 55 knots (102 km/h, 63 mph).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>The most common way of measuring winds is with the <a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort scale</a>,<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> which defines a gale as wind from 50 to 102 km/h. It is an empirical measure for describing wind speed based mainly on observed sea conditions. Its full name is the Beaufort Wind Force Scale.</p>
+<p>On the <a class="mw-redirect" href="/wiki/Beaufort_Wind_Scale" title="Beaufort Wind Scale">Beaufort Wind Scale</a>, a gale is classified as: 7: Moderate Gale (32–38 miles per hour), 8: Fresh Gale (39-46 mph), 9: Strong Gale (47-54 mph) and 10: Storm/Whole Gale (55-63 mph). A gale is a type of Wind Description preceded by 0: Calm, 1: Light Air, 2: Light Breeze, 3: Gentle Breeze, 4: Moderate Breeze, 5: Fresh Breeze, 6: Strong Breeze and succeeded by 11: Violent Storm and 12: Hurricane on a Beaufort Wind Scale. There is a unique Beaufort Scale number and a unique Arrow Indication for each type of Wind Description mentioned above.</p>
+<p>The word <i>gale</i> is derived from the older <i>gail</i>, but its origin is uncertain.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Gale&amp;action=edit&amp;section=1" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-noaa_glossary-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-noaa_glossary_1-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nws.noaa.gov/glossary/" rel="nofollow">National Weather Service Glossary</a>, s.v. <a class="external text" href="http://www.nws.noaa.gov/glossary/index.php?word=Gale" rel="nofollow">"gale"</a>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.novalynx.com/glossary-g.html" rel="nofollow">Glossary of Meteorological Terms</a>, NovaLynx Corporation.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">see article for more on the traditional nautical use of the word "gale"</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.etymonline.com/index.php?term=gale" rel="nofollow">"Online Etymology Dictionary"</a>. Etymonline.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AGale&amp;rft.btitle=Online+Etymology+Dictionary&amp;rft.genre=unknown&amp;rft.pub=Etymonline.com&amp;rft_id=http%3A%2F%2Fwww.etymonline.com%2Findex.php%3Fterm%3Dgale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<div aria-labelledby="Severe_weather_terminology_in_the_United_States" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Severe_weather_terminology_(United_States)_navbox" title="Template:Severe weather terminology (United States) navbox"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Severe_weather_terminology_(United_States)_navbox" title="Template talk:Severe weather terminology (United States) navbox"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Severe_weather_terminology_(United_States)_navbox&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Severe_weather_terminology_in_the_United_States" style="font-size:114%;margin:0 4em"><a href="/wiki/Severe_weather_terminology_(United_States)" title="Severe weather terminology (United States)">Severe weather terminology in the United States</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Severe<br/>
+storms</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Severe_thunderstorm" title="Severe thunderstorm">Thunderstorm</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Significant_weather_advisory" title="Significant weather advisory">Advisory</a></li>
+<li><a href="/wiki/Severe_thunderstorm_watch" title="Severe thunderstorm watch">Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Watch</a></li>
+<li><a href="/wiki/Severe_thunderstorm_warning" title="Severe thunderstorm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Tornado" title="Tornado">Tornado</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Tornado_watch" title="Tornado watch">Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Watch</a></li>
+<li><a href="/wiki/Tornado_warning" title="Tornado warning">Warning</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Warning</a></li>
+<li><a href="/wiki/Tornado_emergency" title="Tornado emergency">Emergency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Marine thunderstorm</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Special_marine_warning" title="Special marine warning">Special marine warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Winter<br/>
+weather</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Advisories</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Winter_weather_advisory" title="Winter weather advisory">Winter weather advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Winter_storm" title="Winter storm">Winter storm</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Winter_storm_watch" title="Winter storm watch">Watch</a></li>
+<li><a href="/wiki/Winter_storm_warning" title="Winter storm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Blizzard" title="Blizzard">Blizzard/Blowing snow</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Blowing_snow_advisory" title="Blowing snow advisory">Blowing snow advisory</a></li>
+<li><a href="/wiki/Blizzard_Watch" title="Blizzard Watch">Blizzard Watch</a></li>
+<li><a href="/wiki/Blizzard_Warning" title="Blizzard Warning">Blizzard Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Heavy snow</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heavy_snow_warning" title="Heavy snow warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Lake-effect_snow" title="Lake-effect snow">Lake-effect snow</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lake_effect_snow_advisory" title="Lake effect snow advisory">Advisory</a></li>
+<li><a href="/wiki/Lake_effect_snow_watch" title="Lake effect snow watch">Watch</a></li>
+<li><a href="/wiki/Lake_effect_snow_warning" title="Lake effect snow warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Ice_storm" title="Ice storm">Ice</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Freezing_rain_advisory" title="Freezing rain advisory">Freezing rain advisory</a></li>
+<li><a href="/wiki/Ice_storm_warning" title="Ice storm warning">Ice storm warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Tropical_cyclone_warnings_and_watches" title="Tropical cyclone warnings and watches">Tropical<br/>
+cyclones</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Tropical_storms" title="Tropical storms">Tropical storms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Tropical_storm_watch" title="Tropical storm watch">Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Tropical_storm_warning" title="Tropical storm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Hurricanes" title="Hurricanes">Hurricanes</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Hurricane_Watch" title="Hurricane Watch">Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Hurricane_warning" title="Hurricane warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-redirect" href="/wiki/Inland_advisories" title="Inland advisories">Inland advisories</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Inland_Tropical_Storm_Watch" title="Inland Tropical Storm Watch">Inland Tropical Storm Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Inland_Tropical_Storm_Warning" title="Inland Tropical Storm Warning">Inland Tropical Storm Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Inland_Hurricane_Watch" title="Inland Hurricane Watch">Inland Hurricane Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Inland_Hurricane_Warning" title="Inland Hurricane Warning">Inland Hurricane Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a href="/wiki/Hurricane_Local_Statement" title="Hurricane Local Statement">Hurricane Local Statement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Flood" title="Flood">Flood</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Flood" title="Flood">Flood</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Flood_watch" title="Flood watch">Watch</a></li>
+<li><a href="/wiki/Flood_warning" title="Flood warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Flash_flood" title="Flash flood">Flash flood</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Flash_flood_watch" title="Flash flood watch">Watch</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Watch</a></li>
+<li><a href="/wiki/Flash_flood_warning" title="Flash flood warning">Warning</a></li>
+<li><a href="/wiki/Flash_flood_warning" title="Flash flood warning">Emergency</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Coastal_flood" title="Coastal flood">Coastal flood</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Coastal_flood_advisory" title="Coastal flood advisory">Advisory</a></li>
+<li><a href="/wiki/Coastal_flood_watch" title="Coastal flood watch">Watch</a></li>
+<li><a href="/wiki/Coastal_flood_warning" title="Coastal flood warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Lakeshore flood</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Lakeshore_flood_advisory&amp;action=edit&amp;redlink=1" title="Lakeshore flood advisory (page does not exist)">Advisory</a></li>
+<li><a class="new" href="/w/index.php?title=Lakeshore_flood_watch&amp;action=edit&amp;redlink=1" title="Lakeshore flood watch (page does not exist)">Watch</a></li>
+<li><a class="new" href="/w/index.php?title=Lakeshore_flood_warning&amp;action=edit&amp;redlink=1" title="Lakeshore flood warning (page does not exist)">Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Seiche_Warning" title="Seiche Warning">Seiche Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">River flood</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/River_flood_advisory" title="River flood advisory">Advisory</a></li>
+<li><a href="/wiki/River_flood_watch" title="River flood watch">Watch</a></li>
+<li><a href="/wiki/River_flood_warning" title="River flood warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Urban and small stream flood</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Urban_and_small_stream_flood_advisory" title="Urban and small stream flood advisory">Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Apparent_temperature" title="Apparent temperature">Apparent<br/>
+temperature</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Heat_index" title="Heat index">Heat index</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Heat_advisory" title="Heat advisory">Heat advisory</a></li>
+<li><a href="/wiki/Excessive_heat_watch" title="Excessive heat watch">Excessive heat watch</a></li>
+<li><a href="/wiki/Excessive_heat_warning" title="Excessive heat warning">Excessive heat warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Wind_chill_advisory" title="Wind chill advisory">Advisory</a></li>
+<li><a href="/wiki/Wind_chill_watch" title="Wind chill watch">Watch</a></li>
+<li><a href="/wiki/Wind_chill_warning" title="Wind chill warning">Warning</a></li>
+<li><a href="/wiki/Particularly_Dangerous_Situation" title="Particularly Dangerous Situation">PDS Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Extreme cold</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Extreme_cold_watch&amp;action=edit&amp;redlink=1" title="Extreme cold watch (page does not exist)">Watch</a></li>
+<li><a href="/wiki/Extreme_cold_warning" title="Extreme cold warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Freeze</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Freeze_Watch&amp;action=edit&amp;redlink=1" title="Freeze Watch (page does not exist)">Watch</a></li>
+<li><a class="mw-redirect" href="/wiki/Freeze_Warning" title="Freeze Warning">Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Hard_Freeze_Warning" title="Hard Freeze Warning">Hard Freeze Warning</a></li>
+<li><a class="mw-redirect" href="/wiki/Frost_Advisory" title="Frost Advisory">Frost Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Maritime<br/>
+and<br/>
+coastal<br/>
+weather</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Marine winds</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Small_craft_advisory" title="Small craft advisory">Small craft advisory</a></li>
+<li><a class="mw-redirect" href="/wiki/Brisk_wind_advisory" title="Brisk wind advisory">Brisk wind advisory</a></li>
+<li><a href="/wiki/Lake_Wind_Advisory" title="Lake Wind Advisory">Lake Wind Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-selflink selflink">Gale</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Gale_watch" title="Gale watch">Watch</a></li>
+<li><a href="/wiki/Gale_warning" title="Gale warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Storm</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Storm_watch" title="Storm watch">Watch</a></li>
+<li><a href="/wiki/Storm_warning" title="Storm warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Hurricane-force wind</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Hurricane_force_wind_watch&amp;action=edit&amp;redlink=1" title="Hurricane force wind watch (page does not exist)">Watch</a></li>
+<li><a href="/wiki/Hurricane_force_wind_warning" title="Hurricane force wind warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Hazardous seas</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hazardous_seas_watch" title="Hazardous seas watch">Watch</a></li>
+<li><a href="/wiki/Hazardous_seas_warning" title="Hazardous seas warning">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Freezing spray</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Freezing_spray_advisory" title="Freezing spray advisory">Freezing spray advisory</a></li>
+<li><a href="/wiki/Heavy_freezing_spray_watch" title="Heavy freezing spray watch">Heavy freezing spray watch</a></li>
+<li><a href="/wiki/Heavy_freezing_spray_warning" title="Heavy freezing spray warning">Heavy freezing spray warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">High surf</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=High_surf_advisory&amp;action=edit&amp;redlink=1" title="High surf advisory (page does not exist)">Advisory</a></li>
+<li><a class="new" href="/w/index.php?title=High_surf_warning&amp;action=edit&amp;redlink=1" title="High surf warning (page does not exist)">Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Marine_weather_statement" title="Marine weather statement">Marine weather statement</a></li>
+<li><a href="/wiki/Rip_current_statement" title="Rip current statement">Rip current statement</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Wind</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Advisory-force winds</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Wind_Advisory" title="Wind Advisory">Wind Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a class="mw-selflink selflink">Gale</a>-force winds</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/High_wind_watch" title="High wind watch">High wind watch</a></li>
+<li><a class="mw-redirect" href="/wiki/High_wind_warning" title="High wind warning">High wind warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Major hurricane-force winds</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Extreme_wind_warning" title="Extreme wind warning">Extreme wind warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Particulates" title="Particulates">Airborne<br/>
+particulates</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10em">Dust/sand</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Blowing_Dust_Advisory&amp;action=edit&amp;redlink=1" title="Blowing Dust Advisory (page does not exist)">Blowing Dust Advisory</a></li>
+<li><a href="/wiki/Dust_Storm_Warning" title="Dust Storm Warning">Dust Storm Warning</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Fog" title="Fog">Fog</a>/<a href="/wiki/Smoke" title="Smoke">Smoke</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Dense_Fog_Advisory" title="Dense Fog Advisory">Dense Fog Advisory</a></li>
+<li><a class="new" href="/w/index.php?title=Dense_Smoke_Advisory&amp;action=edit&amp;redlink=1" title="Dense Smoke Advisory (page does not exist)">Dense Smoke Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Volcanic_ash" title="Volcanic ash">Ash</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Ashfall_Advisory&amp;action=edit&amp;redlink=1" title="Ashfall Advisory (page does not exist)">Ashfall Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10em"><a href="/wiki/Air_pollution" title="Air pollution">Air pollution</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Air_Stagnation_Advisory" title="Air Stagnation Advisory">Air Stagnation Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a href="/wiki/Wildfire" title="Wildfire">Fire</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Fire_weather_watch&amp;action=edit&amp;redlink=1" title="Fire weather watch (page does not exist)">Fire weather watch</a></li>
+<li><a href="/wiki/Red_flag_warning" title="Red flag warning">Red flag warning</a></li>
+<li><a href="/wiki/Fire_warning" title="Fire warning">Fire warning</a></li>
+<li><a href="/wiki/Evacuation_Immediate" title="Evacuation Immediate">Evacuation Immediate</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;"><a class="mw-redirect" href="/wiki/Aviation_meteorology" title="Aviation meteorology">Aviation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="new" href="/w/index.php?title=Center_Weather_Advisory&amp;action=edit&amp;redlink=1" title="Center Weather Advisory (page does not exist)">Center Weather Advisory</a></li>
+<li><a href="/wiki/SIGMET" title="SIGMET">SIGMET</a></li>
+<li><a href="/wiki/Volcanic_Ash_Advisory_Center#Alerts" title="Volcanic Ash Advisory Center">Volcanic Ash Advisory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Weather scales<br/>
+used by NWS</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beaufort_scale" title="Beaufort scale">Beaufort</a> (wind)</li>
+<li><a href="/wiki/Enhanced_Fujita_scale" title="Enhanced Fujita scale">Enhanced Fujita</a> (tornadoes)</li>
+<li><a href="/wiki/Saffir%E2%80%93Simpson_scale" title="Saffir–Simpson scale">Saffir–Simpson scale</a> (tropical cyclones)</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;line-height:1.3em;">Other</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Special_weather_statement" title="Special weather statement">Special weather statement</a></li>
+<li><a class="mw-redirect" href="/wiki/Severe_weather_statement" title="Severe weather statement">Severe weather statement</a></li>
+<li><a href="/wiki/Hazardous_weather_outlook" title="Hazardous weather outlook">Hazardous weather outlook</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1258
+Cached time: 20171003054958
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.184 seconds
+Real time usage: 0.247 seconds
+Preprocessor visited node count: 1324/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 120398/2097152 bytes
+Template argument size: 12663/2097152 bytes
+Highest expansion depth: 19/40
+Expensive parser function count: 7/500
+Lua time usage: 0.086/10.000 seconds
+Lua memory usage: 4.3 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  198.292      1 -total
+ 47.62%   94.431      5 Template:Ambox
+ 37.12%   73.611      1 Template:Multiple_issues
+ 21.74%   43.103      9 Template:Navbox
+ 18.20%   36.087     12 Template:Convert
+ 17.69%   35.071      1 Template:Reflist
+ 15.91%   31.557      1 Template:SevWea_nav
+ 14.59%   28.936      1 Template:Cite_web
+ 12.17%   24.136      1 Template:Cleanup
+ 10.36%   20.538      4 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:320909-0!canonical and timestamp 20171003054958 and revision id 801366919
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Gale&amp;oldid=801366919">https://en.wikipedia.org/w/index.php?title=Gale&amp;oldid=801366919</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Wind" title="Category:Wind">Wind</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_September_2017" title="Category:Articles to be expanded from September 2017">Articles to be expanded from September 2017</a></li><li><a href="/wiki/Category:Articles_lacking_reliable_references_from_September_2017" title="Category:Articles lacking reliable references from September 2017">Articles lacking reliable references from September 2017</a></li><li><a href="/wiki/Category:All_articles_lacking_reliable_references" title="Category:All articles lacking reliable references">All articles lacking reliable references</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_September_2017" title="Category:Articles needing additional references from September 2017">Articles needing additional references from September 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:Articles_needing_cleanup_from_September_2017" title="Category:Articles needing cleanup from September 2017">Articles needing cleanup from September 2017</a></li><li><a href="/wiki/Category:All_pages_needing_cleanup" title="Category:All pages needing cleanup">All pages needing cleanup</a></li><li><a href="/wiki/Category:Cleanup_tagged_articles_with_a_reason_field_from_September_2017" title="Category:Cleanup tagged articles with a reason field from September 2017">Cleanup tagged articles with a reason field from September 2017</a></li><li><a href="/wiki/Category:Wikipedia_pages_needing_cleanup_from_September_2017" title="Category:Wikipedia pages needing cleanup from September 2017">Wikipedia pages needing cleanup from September 2017</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Gale" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Gale" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Gale" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Gale" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Gale">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Gale&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Gale&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Gale" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Gale" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Gale&amp;oldid=801366919" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Gale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2144546" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Gale&amp;id=801366919" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Gale">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Gale&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DGale%26returnto%3DGale%26oldid%3D801366919%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Gale&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B1%D9%8A%D8%AD_%D9%87%D9%88%D8%AC%D8%A7%D8%A1" hreflang="ar" lang="ar" title="ريح هوجاء – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Temporal" hreflang="ca" lang="ca" title="Temporal – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Kuling" hreflang="da" lang="da" title="Kuling – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Starkwind" hreflang="de" lang="de" title="Starkwind – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Temporal_(meteorolog%C3%ADa)" hreflang="es" lang="es" title="Temporal (meteorología) – Spanish">Español</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Burrasca" hreflang="it" lang="it" title="Burrasca – Italian">Italiano</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Auka" hreflang="lv" lang="lv" title="Auka – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Kuling" hreflang="no" lang="no" title="Kuling – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Kuling" hreflang="nn" lang="nn" title="Kuling – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Wicher" hreflang="pl" lang="pl" title="Wicher – Polish">Polski</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Burrasca" hreflang="scn" lang="scn" title="Burrasca – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Gale" hreflang="simple" lang="simple" title="Gale – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Kuling" hreflang="sv" lang="sv" title="Kuling – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%83%88%E9%A2%A8" hreflang="zh" lang="zh" title="烈風 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q2144546#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 19 September 2017, at 07:26.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Gale&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.184","walltime":"0.247","ppvisitednodes":{"value":1324,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":120398,"limit":2097152},"templateargumentsize":{"value":12663,"limit":2097152},"expansiondepth":{"value":19,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  198.292      1 -total"," 47.62%   94.431      5 Template:Ambox"," 37.12%   73.611      1 Template:Multiple_issues"," 21.74%   43.103      9 Template:Navbox"," 18.20%   36.087     12 Template:Convert"," 17.69%   35.071      1 Template:Reflist"," 15.91%   31.557      1 Template:SevWea_nav"," 14.59%   28.936      1 Template:Cite_web"," 12.17%   24.136      1 Template:Cleanup"," 10.36%   20.538      4 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.086","limit":"10.000"},"limitreport-memusage":{"value":4506541,"limit":52428800}},"cachereport":{"origin":"mw1258","timestamp":"20171003054958","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":322,"wgHostname":"mw1258"});});</script>
+</body>
+</html>

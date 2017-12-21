@@ -1,0 +1,1360 @@
+https://en.wikipedia.org/wiki/Saturated_fluid
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Vapor–liquid equilibrium - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Vapor–liquid_equilibrium","wgTitle":"Vapor–liquid equilibrium","wgCurRevisionId":797013886,"wgRevisionId":797013886,"wgArticleId":7817474,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Chemical engineering thermodynamics","Equilibrium chemistry","Distillation","Phases of matter"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Vapor–liquid_equilibrium","wgRelevantArticleId":7817474,"wgRequestId":"WdVxGwpAADgAAEcxYbgAAABI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Saturated_fluid","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Vapor%E2%80%93liquid_equilibrium","wgWikibaseItemId":"Q10273440","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Vapor%E2%80%93liquid_equilibrium" rel="alternate"/>
+<link href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Vapor%E2%80%93liquid_equilibrium" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Vapor–liquid_equilibrium rootpage-Vapor–liquid_equilibrium vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Vapor–liquid equilibrium</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Saturated_fluid&amp;redirect=no" title="Saturated fluid">Saturated fluid</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> and <a href="/wiki/Chemical_engineering" title="Chemical engineering">chemical engineering</a>, the <b>vapor–liquid equilibrium</b> (VLE) describes the distribution of a <a href="/wiki/Chemical_species" title="Chemical species">chemical species</a> between the gas phase and a liquid phase.</p>
+<p>The concentration of a vapor in contact with its liquid, especially at equilibrium, is often expressed in terms of <a href="/wiki/Vapor_pressure" title="Vapor pressure">vapor pressure</a>, which will be a <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a> (a part of the total gas pressure) if any other gas(es) are present with the vapor. The equilibrium vapor pressure of a liquid is in general strongly dependent on temperature. At vapor–liquid equilibrium, a liquid with individual components in certain concentrations will have an equilibrium vapor in which the concentrations or partial pressures of the vapor components have certain values depending on all of the liquid component concentrations and the temperature. The converse is also true: if a vapor with components at certain concentrations or partial pressures is in vapor–liquid equilibrium with its liquid, then the component concentrations in the liquid will be determined dependent on the vapor concentrations and on the temperature. The equilibrium concentration of each component in the liquid phase is often different from its concentration (or vapor pressure) in the vapor phase, but there is a relationship. The VLE concentration data can be determined experimentally, or computed or approximated with the help of theories such as <a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a>, <a href="/wiki/Dalton%27s_law" title="Dalton's law">Dalton's law</a>, and <a href="/wiki/Henry%27s_law" title="Henry's law">Henry's law</a>.</p>
+<p>Such vapor–liquid equilibrium information is useful in designing <a href="/wiki/Fractionating_column" title="Fractionating column">columns</a> for <a href="/wiki/Distillation" title="Distillation">distillation</a>, especially <a href="/wiki/Fractional_distillation" title="Fractional distillation">fractional distillation</a>, which is a particular specialty of <a href="/wiki/Chemical_engineer" title="Chemical engineer">chemical engineers</a>.<sup class="reference" id="cite_ref-Kister_1-0"><a href="#cite_note-Kister-1">[1]</a></sup><sup class="reference" id="cite_ref-Perry_2-0"><a href="#cite_note-Perry-2">[2]</a></sup><sup class="reference" id="cite_ref-SeaderHenley_3-0"><a href="#cite_note-SeaderHenley-3">[3]</a></sup> Distillation is a process used to separate or partially separate components in a mixture by boiling (vaporization) followed by <a href="/wiki/Condensation" title="Condensation">condensation</a>. Distillation takes advantage of differences in concentrations of components in the liquid and vapor phases.</p>
+<p>In mixtures containing two or more components, the concentrations of each component are often expressed as <a href="/wiki/Mole_fraction" title="Mole fraction">mole fractions</a>. The mole fraction of a given component of a mixture in a particular phase (either the vapor or the liquid phase) is the number of <a href="/wiki/Mole_(unit)" title="Mole (unit)">moles</a> of that component in that <a href="/wiki/Phase_(matter)" title="Phase (matter)">phase</a> divided by the total number of moles of all components in that phase.</p>
+<p>Binary mixtures are those having two components. Three-component mixtures are called ternary mixtures. There can be VLE data for mixtures with even more components, but such data is often hard to show graphically. VLE data is a function of the total pressure, such as 1 <a href="/wiki/Atmosphere" title="Atmosphere">atm</a> or whatever pressure the process is conducted at.</p>
+<p>When a temperature is reached such that the sum of the equilibrium vapor pressures of the liquid components becomes equal to the total pressure of the system (it is otherwise smaller), then vapor bubbles generated from the liquid begin to displace the gas that was maintaining the overall pressure, and the mixture is said to <a href="/wiki/Boiling" title="Boiling">boil</a>. This temperature is called the <i>boiling point</i> of the liquid mixture at the given pressure. (It is assumed that the total pressure is held steady by adjusting the total volume of the system to accommodate the specific volume changes that accompany boiling.) The boiling point at an overall pressure of 1 atm is called the <i><a class="mw-redirect" href="/wiki/Normal_boiling_point" title="Normal boiling point">normal boiling point</a></i> of the liquid mixture.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Thermodynamic_description_of_vapor.E2.80.93liquid_equilibrium"><span class="tocnumber">1</span> <span class="toctext">Thermodynamic description of vapor–liquid equilibrium</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Pure_.28single-component.29_systems"><span class="tocnumber">1.1</span> <span class="toctext">Pure (single-component) systems</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Multicomponent_systems"><span class="tocnumber">1.2</span> <span class="toctext">Multicomponent systems</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Boiling-point_diagrams"><span class="tocnumber">2</span> <span class="toctext">Boiling-point diagrams</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#K_values_and_relative_volatility_values"><span class="tocnumber">2.1</span> <span class="toctext"><i>K</i> values and relative volatility values</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Vapor.E2.80.93liquid_equilibrium_diagrams"><span class="tocnumber">3</span> <span class="toctext">Vapor–liquid equilibrium diagrams</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Raoult.27s_law"><span class="tocnumber">4</span> <span class="toctext">Raoult's law</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Thermodynamic_description_of_vapor.E2.80.93liquid_equilibrium">Thermodynamic description of vapor–liquid equilibrium</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=1" title="Edit section: Thermodynamic description of vapor–liquid equilibrium">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The field of <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a> describes when vapor–liquid equilibrium is possible, and its properties. Much of the analysis depends on whether the vapor and liquid consist of a single component, or if they are mixtures.</p>
+<h3><span class="mw-headline" id="Pure_.28single-component.29_systems">Pure (single-component) systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=2" title="Edit section: Pure (single-component) systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>If the liquid and vapor are pure, in that they consist of only one molecular component and no impurities, then the equilibrium state between the two phases is described by the following equations:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P^{liq}=P^{vap}\,}</annotation>
+</semantics>
+</math></span><img alt="P^{liq} = P^{vap}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ccd8750d12bff4c32ab3bb07f61871da340a366d" style="vertical-align: -0.338ex; width:11.977ex; height:2.676ex;"/></span>;</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T^{liq}=T^{vap}\,}</annotation>
+</semantics>
+</math></span><img alt="T^{liq} = T^{vap}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8a160b136ed794b848c1e69fa25bab824aa880f2" style="vertical-align: -0.338ex; width:11.774ex; height:2.676ex;"/></span>; and</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>G</mi>
+<mo stretchy="false">~<!-- ~ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>G</mi>
+<mo stretchy="false">~<!-- ~ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\tilde {G}}^{liq}={\tilde {G}}^{vap}}</annotation>
+</semantics>
+</math></span><img alt="\tilde{G}^{liq} = \tilde{G}^{vap}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e2f802b4faadc62c75e9bd4226cd837e6bc24b89" style="vertical-align: -0.338ex; width:11.6ex; height:3.343ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P^{liq}\,}</annotation>
+</semantics>
+</math></span><img alt="P^{liq}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/83c94d8e6f6c373840268eb51c4be9d0f500413e" style="vertical-align: -0.338ex; width:4.287ex; height:2.676ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P^{vap}\,}</annotation>
+</semantics>
+</math></span><img alt="P^{vap}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/32137ec4ae64b29010af13963cb5e87b9e695840" style="vertical-align: -0.338ex; width:4.967ex; height:2.343ex;"/></span> are the <a href="/wiki/Pressure" title="Pressure">pressures</a> within the liquid and vapor, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T^{liq}\,}</annotation>
+</semantics>
+</math></span><img alt="T^{liq}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/53000ad8e791310a5405ca6de070e0e55b68e30a" style="vertical-align: -0.338ex; width:4.186ex; height:2.676ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T^{vap}\,}</annotation>
+</semantics>
+</math></span><img alt="T^{vap}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69b54ff14780764cb663c16af5f5cdf208d1919d" style="vertical-align: -0.338ex; width:4.866ex; height:2.343ex;"/></span> are the <a href="/wiki/Temperature" title="Temperature">temperatures</a> within the liquid and vapor, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>G</mi>
+<mo stretchy="false">~<!-- ~ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\tilde {G}}^{liq}}</annotation>
+</semantics>
+</math></span><img alt="\tilde{G}^{liq}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a16d28ebaae3a7e06996e69c13873d6d7ed39fe6" style="vertical-align: -0.338ex; width:3.906ex; height:3.343ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>G</mi>
+<mo stretchy="false">~<!-- ~ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\tilde {G}}^{vap}}</annotation>
+</semantics>
+</math></span><img alt="\tilde{G}^{vap}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d053cc4568470d3edf794d86904bda17a19bee8b" style="vertical-align: -0.338ex; width:4.585ex; height:2.843ex;"/></span> are the molar <a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energies</a> (units of energy per <a href="/wiki/Amount_of_substance" title="Amount of substance">amount of substance</a>) within the liquid and vapor, respectively.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> In other words, the temperature, pressure and molar Gibbs free energy are the same between the two phases when they are at equilibrium.</p>
+<p>An equivalent, more common way to express the vapor–liquid equilibrium condition in a pure system is by using the concept of <a href="/wiki/Fugacity" title="Fugacity">fugacity</a>. Under this view, equilibrium is described by the following equation:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="thinmathspace"></mspace>
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<msup>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="thinmathspace"></mspace>
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f^{\,liq}(T_{s},P_{s})=f^{\,vap}(T_{s},P_{s})}</annotation>
+</semantics>
+</math></span><img alt="f^{\,liq}(T_s,P_s) = f^{\,vap}(T_s,P_s)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/233916cc18dce50aa9a1d660266d8f8bd1c26d8a" style="vertical-align: -0.838ex; width:26.895ex; height:3.176ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="thinmathspace"></mspace>
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f^{\,liq}(T_{s},P_{s})}</annotation>
+</semantics>
+</math></span><img alt="f^{\,liq}(T_s,P_s)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/46d84ad8a800b81bbc7741bcfb45c28c94a9f638" style="vertical-align: -0.838ex; width:11.553ex; height:3.176ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mspace width="thinmathspace"></mspace>
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>,</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f^{\,vap}(T_{s},P_{s})}</annotation>
+</semantics>
+</math></span><img alt="f^{\,vap}(T_s,P_s)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac2482011ca40c4db87d4b0fe91707fde73434ab" style="vertical-align: -0.838ex; width:12.233ex; height:2.843ex;"/></span> are the <a href="/wiki/Fugacity" title="Fugacity">fugacities</a> of the liquid and vapor, respectively, at the system temperature <span class="texhtml mvar" style="font-style:italic;">T<sub>s</sub></span> and pressure <span class="texhtml mvar" style="font-style:italic;">P<sub>s</sub></span>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Using fugacity is often more convenient for calculation, given that the fugacity of the liquid is, to a good approximation, pressure-independent,<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> and it is often convenient to use the quantity <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϕ<!-- ϕ --></mi>
+<mo>=</mo>
+<mi>f</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>P</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \phi =f/P\,}</annotation>
+</semantics>
+</math></span><img alt="\phi=f/P\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/873cedac1489992261c515fbf917bbada316824b" style="vertical-align: -0.838ex; width:9.11ex; height:2.843ex;"/></span>, the dimensionless <i>fugacity coefficient</i>, which is 1 for an <a href="/wiki/Ideal_gas" title="Ideal gas">ideal gas</a>.</p>
+<h3><span class="mw-headline" id="Multicomponent_systems">Multicomponent systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=3" title="Edit section: Multicomponent systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a multicomponent system, where the vapor and liquid consist of more than one type of molecule, describing the equilibrium state is more complicated. For all components <span class="texhtml mvar" style="font-style:italic;">i</span> in the system, the equilibrium state between the two phases is described by the following equations:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P^{liq}=P^{vap}\,}</annotation>
+</semantics>
+</math></span><img alt="P^{liq} = P^{vap}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ccd8750d12bff4c32ab3bb07f61871da340a366d" style="vertical-align: -0.338ex; width:11.977ex; height:2.676ex;"/></span>;</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T^{liq}=T^{vap}\,}</annotation>
+</semantics>
+</math></span><img alt="T^{liq} = T^{vap}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8a160b136ed794b848c1e69fa25bab824aa880f2" style="vertical-align: -0.338ex; width:11.774ex; height:2.676ex;"/></span>; and</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>G</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>G</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {G}}_{i}^{liq}={\bar {G}}_{i}^{vap}}</annotation>
+</semantics>
+</math></span><img alt="\bar{G}_i^{liq} = \bar{G}_i^{vap}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ef2dc6dd490b73a806ba51b9192c82e6081ca798" style="vertical-align: -0.838ex; width:11.6ex; height:3.676ex;"/></span></dd>
+</dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">P</span> and <span class="texhtml mvar" style="font-style:italic;">T</span> are the temperature and pressure for each phase, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>G</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>l</mi>
+<mi>i</mi>
+<mi>q</mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {G}}_{i}^{liq}}</annotation>
+</semantics>
+</math></span><img alt="\bar{G}_i^{liq}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/93ffa67fd5d11e199972f7c863c1753c399e13bc" style="vertical-align: -0.838ex; width:3.906ex; height:3.676ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>G</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+<mi>a</mi>
+<mi>p</mi>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {G}}_{i}^{vap}}</annotation>
+</semantics>
+</math></span><img alt="\bar{G}_i^{vap}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f71815f9b7251bff76729dc02ac25f668011205c" style="vertical-align: -0.838ex; width:4.585ex; height:3.343ex;"/></span> are the <a class="mw-redirect" href="/wiki/Partial_molar_Gibbs_free_energy" title="Partial molar Gibbs free energy">partial molar Gibbs free energy</a> also called <a href="/wiki/Chemical_potential" title="Chemical potential">chemical potential</a> (units of energy per <a href="/wiki/Amount_of_substance" title="Amount of substance">amount of substance</a>) within the liquid and vapor, respectively, for each phase. The partial molar Gibbs free energy is defined by:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>G</mi>
+<mo stretchy="false">¯<!-- ¯ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-REL">
+<mover>
+<mrow class="MJX-TeXAtom-OP">
+<mo>=</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">f</mi>
+</mrow>
+</mrow>
+</mover>
+</mrow>
+</mrow>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>G</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>n</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\bar {G}}_{i}\ {\stackrel {\mathrm {def} }{=}}\ {\frac {\partial G}{\partial n_{i}}}}</annotation>
+</semantics>
+</math></span><img alt="\bar{G}_i \ \stackrel{\mathrm{def}}{=}\   \frac{\partial G}{\partial n_i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6dceaa4694c3472edc925f82f39d1de04528d3a1" style="vertical-align: -2.338ex; width:10.46ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">G</span> is the (<a class="mw-redirect" href="/wiki/Extensive_property" title="Extensive property">extensive</a>) Gibbs free energy, and <span class="texhtml mvar" style="font-style:italic;">n<sub>i</sub></span> is the <a href="/wiki/Amount_of_substance" title="Amount of substance">amount of substance</a> of component <span class="texhtml mvar" style="font-style:italic;">i</span>.</p>
+<h2><span class="mw-headline" id="Boiling-point_diagrams">Boiling-point diagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=4" title="Edit section: Boiling-point diagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Binary mixture VLE data at a certain overall pressure, such as 1 atm, showing mole fraction vapor and liquid concentrations when boiling at various temperatures can be shown as a two-dimensional <a href="/wiki/Graphics" title="Graphics">graph</a> called a <b>boiling-point diagram</b>. The mole fraction of component 1 in the mixture can be represented by the symbol <span class="texhtml"><i>x</i><sub>1</sub></span>. The mole fraction of component 2, represented by <span class="texhtml"><i>x</i><sub>2</sub></span>, is related to <span class="texhtml"><i>x</i><sub>1</sub></span> in a binary mixture as follows:</p>
+<dl>
+<dd><span class="texhtml"><i>x</i><sub>1</sub> + <i>x</i><sub>2</sub> = 1</span></dd>
+</dl>
+<p>In multi-component mixtures in general with n components, this becomes:</p>
+<dl>
+<dd><span class="texhtml"><i>x</i><sub>1</sub> + <i>x</i><sub>2</sub> + ... + <i>x</i><sub><i>n</i></sub> = 1</span></dd>
+</dl>
+<div class="thumb tright">
+<div class="thumbinner" style="width:393px;"><a class="image" href="/wiki/File:Binary_Boiling_Point_Diagram_new.svg"><img alt="" class="thumbimage" data-file-height="378" data-file-width="391" height="378" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/60/Binary_Boiling_Point_Diagram_new.svg/391px-Binary_Boiling_Point_Diagram_new.svg.png" width="391"/></a>
+<div class="thumbcaption">Boiling-point diagram</div>
+</div>
+</div>
+<p>The preceding equilibrium equations are typically applied for each phase (liquid or vapor) individually, but the result can be plotted in a single diagram. In a binary boiling-point diagram, temperature (<span class="texhtml mvar" style="font-style:italic;">T </span>) is graphed vs. <span class="texhtml"><i>x</i><sub>1</sub></span>. At any given temperature where both phases are present, vapor with a certain mole fraction is in equilibrium with liquid with a certain mole fraction. The two mole fractions often differ. These vapor and liquid mole fractions are represented by two points on the same horizontal isotherm (constant <span class="texhtml mvar" style="font-style:italic;">T </span>) line. When an entire range of temperatures vs. vapor and liquid mole fractions is graphed, two (usually curved) lines result. The lower one, representing the mole fraction of the boiling liquid at various temperatures, is called the <i><a href="/wiki/Bubble_point" title="Bubble point">bubble point</a> curve</i>. The upper one, representing the mole fraction of the vapor at various temperatures, is called the <i>dew point curve</i>.<sup class="reference" id="cite_ref-Kister_1-1"><a href="#cite_note-Kister-1">[1]</a></sup></p>
+<p>These two curves necessarily meet where the mixture becomes purely one component, namely where <span class="texhtml"><i>x</i><sub>1</sub> = 0</span> (and <span class="texhtml"><i>x</i><sub>2</sub> = 1</span>, pure component 2) or <span class="texhtml"><i>x</i><sub>1</sub> = 1</span> (and <span class="texhtml"><i>x</i><sub>2</sub> = 0</span>, pure component 1). The temperatures at those two points correspond to the boiling points of each of the two pure components.</p>
+<p>For certain pairs of substances, the two curves also coincide at some point strictly between <span class="texhtml"><i>x</i><sub>1</sub> = 0</span> and <span class="texhtml"><i>x</i><sub>1</sub> = 1</span>. When they meet, they meet tangently; the dew-point temperature always lies above the boiling-point temperature for a given composition when they are not equal. The meeting point is called an <b><a href="/wiki/Azeotrope" title="Azeotrope">azeotrope</a></b> for that particular pair of substances. It is characterized by an azeotrope temperature and an azeotropic composition, often expressed as a mole fraction. There can be <b>maximum-boiling azeotropes</b>, where the azeotrope temperature is at a maximum in the boiling curves, or <b>minimum-boiling azeotropes</b>, where the azeotrope temperature is at a minimum in the boiling curves.</p>
+<p>If one wants to represent a VLE data for a three-component mixture as a boiling point "diagram", a <a class="mw-redirect" href="/wiki/Graph_of_a_function_of_two_variables" title="Graph of a function of two variables">three-dimensional graph</a> can be used. Two of the dimensions would be used to represent the composition mole fractions, and the third dimension would be the temperature. Using two dimensions, the composition can be represented as an equilateral triangle in which each corner represents one of the pure components. The edges of the triangle represent a mixture of the two components at each end of the edge. Any point inside the triangle represents the composition of a mixture of all three components. The mole fraction of each component would correspond to where a point lies along a line starting at that component's corner and perpendicular to the opposite edge. The <a href="/wiki/Bubble_point" title="Bubble point">bubble point</a> and <a href="/wiki/Dew_point" title="Dew point">dew point</a> data would become curved surfaces inside a triangular prism, which connect the three boiling points on the vertical temperature "axes". Each face of this triangular prism would represent a two-dimensional boiling-point diagram for the corresponding binary mixture. Due to their three-dimensional complexity, such boiling-point diagrams are rarely seen. Alternatively, the three-dimensional curved surfaces can be represented on a two-dimensional graph by the use of curved isotherm lines at graduated intervals, similar to iso-altitude lines on a map. Two sets of such isotherm lines are needed on such a two-dimensional graph: one set for the bubble point surface and another set for the dew point surface.</p>
+<h3><span class="mw-headline" id="K_values_and_relative_volatility_values"><i>K</i> values and relative volatility values</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=5" title="Edit section: K values and relative volatility values">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Relative_volatility" title="Relative volatility">Relative volatility</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Vapor-Liquid_Equilibrium_K_Values_Chloroform_%2B_Methanol.png"><img alt="" class="thumbimage" data-file-height="626" data-file-width="553" height="249" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vapor-Liquid_Equilibrium_K_Values_Chloroform_%2B_Methanol.png/220px-Vapor-Liquid_Equilibrium_K_Values_Chloroform_%2B_Methanol.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vapor-Liquid_Equilibrium_K_Values_Chloroform_%2B_Methanol.png/330px-Vapor-Liquid_Equilibrium_K_Values_Chloroform_%2B_Methanol.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Vapor-Liquid_Equilibrium_K_Values_Chloroform_%2B_Methanol.png/440px-Vapor-Liquid_Equilibrium_K_Values_Chloroform_%2B_Methanol.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Vapor-Liquid_Equilibrium_K_Values_Chloroform_%2B_Methanol.png" title="Enlarge"></a></div>
+K Values Diagram (with <a href="/wiki/UNIQUAC" title="UNIQUAC">UNIQUAC</a> Best-Fit Curve), Mixture of <a href="/wiki/Chloroform" title="Chloroform">Chloroform</a>/<a href="/wiki/Methanol" title="Methanol">Methanol</a></div>
+</div>
+</div>
+<p>The tendency of a given chemical species to partition itself preferentially between liquid and vapor phases is the <a href="/wiki/Henry%27s_law" title="Henry's law">Henry's law</a> constant. There can be VLE data for mixtures of four or more components, but such a boiling-point diagram is hard to show in either tabular or graphical form. For such multi-component mixtures, as well as binary mixtures, the vapor–liquid equilibrium data are represented in terms of <span class="texhtml mvar" style="font-style:italic;">K</span> values (<a href="/wiki/Relative_volatility" title="Relative volatility">vapor–liquid distribution ratios</a>)<sup class="reference" id="cite_ref-Kister_1-2"><a href="#cite_note-Kister-1">[1]</a></sup><sup class="reference" id="cite_ref-Perry_2-1"><a href="#cite_note-Perry-2">[2]</a></sup> defined by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>x</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{i}={\frac {y_{i}}{x}}_{i}}</annotation>
+</semantics>
+</math></span><img alt="K_i=\frac {y_i}x_i" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f955d4da399bbfeb59ba485911c0b220800aae1c" style="vertical-align: -2.005ex; width:9.499ex; height:5.009ex;"/></span></dd>
+</dl>
+<p>where <span class="texhtml mvar" style="font-style:italic;">y<sub>i</sub></span> and <span class="texhtml mvar" style="font-style:italic;">x<sub>i</sub></span> are the mole fractions of component <span class="texhtml mvar" style="font-style:italic;">i</span> in the phases <span class="texhtml mvar" style="font-style:italic;">y</span> and <span class="texhtml mvar" style="font-style:italic;">x</span> respectively.</p>
+<p>For <a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msubsup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>⋆<!-- ⋆ --></mo>
+</mrow>
+</msubsup>
+<mi>P</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{i}={\frac {P_{i}^{\star }}{P}}}</annotation>
+</semantics>
+</math></span><img alt="K_i=\frac {P_i^{\star}}P" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e8816fba0c846b9a5f30ad61b2b4d9280939e288" style="vertical-align: -2.005ex; width:9.629ex; height:5.843ex;"/></span></dd>
+</dl>
+<p><br/>
+For modified <a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>γ<!-- γ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<msubsup>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>⋆<!-- ⋆ --></mo>
+</mrow>
+</msubsup>
+</mrow>
+<mi>P</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K_{i}={\frac {\gamma _{i}P_{i}^{\star }}{P}}}</annotation>
+</semantics>
+</math></span><img alt="K_i=\frac {\gamma_iP_i^{\star}}P" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a577b5ff167522ca89b07173d14bc188fc1a89aa" style="vertical-align: -2.005ex; width:11.651ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>γ<!-- γ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \gamma _{i}}</annotation>
+</semantics>
+</math></span><img alt="\gamma _{i}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/907e4a28946d45e5cbf3cf3c6c48de68296039c4" style="vertical-align: -0.838ex; width:2.022ex; height:2.176ex;"/></span> is the <a href="/wiki/Activity_coefficient" title="Activity coefficient">activity coefficient</a>, <span class="texhtml mvar" style="font-style:italic;">P<sub>i</sub></span> is the <a href="/wiki/Partial_pressure" title="Partial pressure">partial pressure</a> and <span class="texhtml mvar" style="font-style:italic;">P</span> is the <a href="/wiki/Pressure" title="Pressure">pressure</a></p>
+<p>The values of the ratio <span class="texhtml mvar" style="font-style:italic;">K<sub>i</sub></span> are correlated empirically or theoretically in terms of temperature, pressure and phase compositions in the form of equations, tables or graph such as the DePriester charts (Shown on the right).<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:DePriester_Chart_1.JPG"><img alt="" class="thumbimage" data-file-height="749" data-file-width="571" height="289" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/DePriester_Chart_1.JPG/220px-DePriester_Chart_1.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/28/DePriester_Chart_1.JPG/330px-DePriester_Chart_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/28/DePriester_Chart_1.JPG/440px-DePriester_Chart_1.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:DePriester_Chart_1.JPG" title="Enlarge"></a></div>
+K-Values for systems of light hydrocarbons Low Temperature Range</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:DePriester_Chart_2.JPG"><img alt="" class="thumbimage" data-file-height="676" data-file-width="550" height="270" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DePriester_Chart_2.JPG/220px-DePriester_Chart_2.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DePriester_Chart_2.JPG/330px-DePriester_Chart_2.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/DePriester_Chart_2.JPG/440px-DePriester_Chart_2.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:DePriester_Chart_2.JPG" title="Enlarge"></a></div>
+K-Values for systems of light hydrocarbons High Temperature Range</div>
+</div>
+</div>
+<p>For binary mixtures, the ratio of the <span class="texhtml mvar" style="font-style:italic;">K</span> values for the two components is called the <a href="/wiki/Relative_volatility" title="Relative volatility">relative volatility</a> denoted by <span class="texhtml mvar" style="font-style:italic;">α</span></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>K</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>K</mi>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>j</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha ={\frac {K_{i}}{K}}_{j}={\frac {(y_{i}/x_{i})}{(y_{j}/x_{j})}}}</annotation>
+</semantics>
+</math></span><img alt="\alpha=\frac {K_i}K_j=\frac {(y_i/x_i)}{(y_j/x_j)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/39470258b8969352c88051f710b76a08794b5ed0" style="vertical-align: -2.838ex; width:20.423ex; height:6.676ex;"/></span></dd>
+</dl>
+<p>which is a measure of the relative ease or difficulty of separating the two components. Large-scale industrial distillation is rarely undertaken if the relative volatility is less than 1.05 with the volatile component being <span class="texhtml mvar" style="font-style:italic;">i</span> and the less volatile component being <span class="texhtml mvar" style="font-style:italic;">j</span>.<sup class="reference" id="cite_ref-Perry_2-2"><a href="#cite_note-Perry-2">[2]</a></sup></p>
+<p><span class="texhtml mvar" style="font-style:italic;">K</span> values are widely used in the design calculations of <a href="/wiki/Continuous_distillation" title="Continuous distillation">continuous distillation</a> columns for distilling multicomponent mixtures.</p>
+<h2><span class="mw-headline" id="Vapor.E2.80.93liquid_equilibrium_diagrams">Vapor–liquid equilibrium diagrams</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=6" title="Edit section: Vapor–liquid equilibrium diagrams">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:395px;"><a class="image" href="/wiki/File:Vapor-Liquid_Equilibrium_Diagram.PNG"><img alt="" class="thumbimage" data-file-height="390" data-file-width="393" height="390" src="//upload.wikimedia.org/wikipedia/commons/4/4c/Vapor-Liquid_Equilibrium_Diagram.PNG" width="393"/></a>
+<div class="thumbcaption">Vapor-Liquid Equilibrium Diagram</div>
+</div>
+</div>
+<p>For each component in a binary mixture, one could make a vapor–liquid equilibrium diagram. Such a diagram would graph liquid mole fraction on a horizontal axis and vapor mole fraction on a vertical axis. In such VLE diagrams, liquid mole fractions for components 1 and 2 can be represented as <span class="texhtml"><i>x</i><sub>1</sub></span> and <span class="texhtml"><i>x</i><sub>2</sub></span> respectively, and vapor mole fractions of the corresponding components are commonly represented as <span class="texhtml"><i>y</i><sub>1</sub></span> and <span class="texhtml"><i>y</i><sub>2</sub></span>.<sup class="reference" id="cite_ref-Perry_2-3"><a href="#cite_note-Perry-2">[2]</a></sup> Similarly for binary mixtures in these VLE diagrams:</p>
+<dl>
+<dd><span class="texhtml"><i>x</i><sub>1</sub> + <i>x</i><sub>2</sub> = 1</span> and  <span class="texhtml"><i>y</i><sub>1</sub> + <i>y</i><sub>2</sub> = 1</span></dd>
+</dl>
+<p>Such VLE diagrams are square with a diagonal line running from the (<span class="texhtml"><i>x</i><sub>1</sub> = 0, <i>y</i><sub>1</sub> = 0</span>) corner to the (<span class="texhtml"><i>x</i><sub>1</sub> = 1, <i>y</i><sub>1</sub> = 1</span>) corner for reference.</p>
+<p>These types of VLE diagrams are used in the <a href="/wiki/McCabe%E2%80%93Thiele_method" title="McCabe–Thiele method">McCabe–Thiele method</a> to determine the number of equilibrium stages (or <a href="/wiki/Theoretical_plate" title="Theoretical plate">theoretical plates</a>) needed to distill a given composition binary feed mixture into one distillate fraction and one bottoms fraction. Corrections can also be made to take into account the incomplete efficiency of each tray in a distillation column when compared to a theoretical plate.</p>
+<h2><span class="mw-headline" id="Raoult.27s_law">Raoult's law</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=7" title="Edit section: Raoult's law">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a></div>
+<p>At boiling and higher temperatures the sum of the individual component partial pressures becomes equal to the overall pressure, which can symbolized as <i>P</i><sub>tot</sub>.</p>
+<p>Under such conditions, <a href="/wiki/Dalton%27s_law" title="Dalton's law">Dalton's law</a> would be in effect as follows:</p>
+<dl>
+<dd><i>P</i><sub>tot</sub> = <i>P</i><sub>1</sub> + <i>P</i><sub>2</sub> + ...</dd>
+</dl>
+<p>Then for each component in the vapor phase:</p>
+<dl>
+<dd><i>y</i><sub>1</sub> = <i>P</i><sub>1</sub> / <i>P</i><sub>tot</sub>,   <i>y</i><sub>2</sub> = <i>P</i><sub>2</sub> / <i>P</i><sub>tot</sub>, ... etc.</dd>
+</dl>
+<p>where <i>P</i><sub>1</sub> = partial pressure of component 1, <i>P</i><sub>2</sub> = partial pressure of component 2, etc.</p>
+<p><a href="/wiki/Raoult%27s_law" title="Raoult's law">Raoult's law</a> is approximately valid for mixtures of components between which there is very little interaction other than the effect of dilution by the other components. Examples of such mixtures includes mixtures of <a href="/wiki/Alkane" title="Alkane">alkanes</a>, which are non-<a href="/wiki/Chemical_polarity" title="Chemical polarity">polar</a>, relatively inert <a href="/wiki/Chemical_compound" title="Chemical compound">compounds</a> in many ways, so there is little attraction or repulsion between the molecules. Raoult's law states that for components 1, 2, etc. in a mixture:</p>
+<dl>
+<dd><i>P</i><sub>1</sub> = <i>x</i><sub>1</sub> <i>P</i><sup> o</sup><sub>1</sub>,   <i>P</i><sub>2</sub> = <i>x</i><sub>2</sub> <i>P</i><sup> o</sup><sub>2</sub>, ... etc.</dd>
+</dl>
+<p>where <i>P</i><sup> o</sup><sub>1</sub>, P<sup> o</sup><sub>2</sub>, etc. are the vapor pressures of components 1, 2, etc. when they are pure, and <i>x</i><sub>1</sub>, <i>x</i><sub>2</sub>, etc. are mole fractions of the corresponding component in the liquid.</p>
+<p>Recall from the first section that vapor pressures of liquids are very dependent on temperature. Thus the <i>P</i><sup>o</sup> pure vapor pressures for each component are a function of temperature (<i>T</i>): For example, commonly for a pure liquid component, the <a href="/wiki/Clausius%E2%80%93Clapeyron_relation" title="Clausius–Clapeyron relation">Clausius–Clapeyron relation</a> may be used to approximate how the vapor pressure varies as a function of temperature. This makes each of the partial pressures dependent on temperature also regardless of whether Raoult's law applies or not. When Raoult's law is valid these expressions become:</p>
+<dl>
+<dd><i>P</i><sub>1</sub><i>T</i> = <i>x</i><sub>1</sub> <i>P</i><sup> o</sup><sub>1</sub><i>T</i>,   <i>P</i><sub>2</sub><i>T</i> = <i>x</i><sub>2</sub> <i>P</i><sup> o</sup><sub>2</sub><i>T</i>, ... etc.</dd>
+</dl>
+<p>At boiling temperatures if Raoult's law applies, the total pressure becomes:</p>
+<dl>
+<dd><i>P</i><sub>tot</sub> = <i>x</i><sub>1</sub> <i>P</i><sup> o</sup><sub>1</sub><i>T</i> + <i>x</i><sub>2</sub> <i>P</i><sup> o</sup><sub>2</sub><i>T</i> + ... etc.</dd>
+</dl>
+<p>At a given <i>P</i><sub>tot</sub> such as 1 atm and a given liquid composition, <i>T</i> can be solved for to give the liquid mixture's boiling point or bubble point, although the solution for <i>T</i> may not be mathematically analytical (i.e., may require a numerical solution or approximation). For a binary mixture at a given <i>P</i><sub>tot</sub>, the bubble point <i>T</i> can become a function of <i>x</i><sub>1</sub> (or <i>x</i><sub>2</sub>) and this function can be shown on a two-dimensional graph like a binary boiling point diagram.</p>
+<p>At boiling temperatures if Raoult's law applies, a number of the preceding equations in this section can be combined to give the following expressions for vapor mole fractions as a function of liquid mole fractions and temperature:</p>
+<dl>
+<dd><i>y</i><sub>1</sub> = <i>x</i><sub>1</sub> <i>P</i><sup> o</sup><sub>1</sub><i>T</i> / <i>P</i><sub>tot</sub>,   <i>y</i><sub>2</sub> = <i>x</i><sub>2</sub> <i>P</i><sup> o</sup><sub>2</sub><i>T</i> / <i>P</i><sub>tot</sub>, ... etc.</dd>
+</dl>
+<p>Once the bubble point <i>T'</i>s as a function of liquid composition in terms of mole fractions have been determined, these values can be inserted into the above equations to obtain corresponding vapor compositions in terms of mole fractions. When this is finished over a complete range of liquid mole fractions and their corresponding temperatures, one effectively obtains a temperature  <i>T</i> function of vapor composition mole fractions. This function effectively acts as the dew point <i>T</i> function of vapor composition.</p>
+<p>In the case of a binary mixture, <i>x</i><sub>2</sub> = 1 − <i>x</i><sub>1</sub> and the above equations can be expressed as:</p>
+<dl>
+<dd><i>y</i><sub>1</sub> = <i>x</i><sub>1</sub> <i>P</i><sup> o</sup><sub>1</sub><i>T</i> / <i>P</i><sub>tot</sub>, and</dd>
+<dd><i>y</i><sub>2</sub> = (1  −  <i>x</i><sub>1</sub>) <i>P</i><sup> o</sup><sub>2</sub><i>T</i> / <i>P</i><sub>tot</sub></dd>
+</dl>
+<p>For many kinds of mixtures, particularly where there is interaction between components beyond simply the effects of dilution, Raoult's law does not work well for determining the shapes of the curves in the boiling point or VLE diagrams. Even in such mixtures, there are usually still differences in the vapor and liquid equilibrium concentrations at most points, and distillation is often still useful for separating components at least partially. For such mixtures, empirical data is typically used in determining such boiling point and VLE diagrams. <a href="/wiki/Chemical_engineer" title="Chemical engineer">Chemical engineers</a> have done a significant amount of research trying to develop equations for correlating and/or predicting VLE data for various kinds of mixtures which do not obey Raoult's law well.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Continuous_distillation" title="Continuous distillation">Continuous distillation</a></li>
+<li><a href="/wiki/Dortmund_Data_Bank" title="Dortmund Data Bank">Dortmund Data Bank</a> (includes a collection of VLE data)</li>
+<li><a href="/wiki/Fenske_equation" title="Fenske equation">Fenske equation</a></li>
+<li><a href="/wiki/Flash_evaporation" title="Flash evaporation">Flash evaporation</a></li>
+<li><a href="/wiki/DECHEMA_model" title="DECHEMA model">DECHEMA model</a></li>
+<li><a href="/wiki/Hand_boiler" title="Hand boiler">Hand boiler</a></li>
+<li><a href="/wiki/Van_Laar_equation" title="Van Laar equation">Van Laar equation</a></li>
+<li><a href="/wiki/Margules_activity_model" title="Margules activity model">Margules activity model</a></li>
+<li><a href="/wiki/Pervaporation" title="Pervaporation">Pervaporation</a></li>
+<li><a href="/wiki/Supercooling" title="Supercooling">Supercooling</a></li>
+<li><a href="/wiki/Superheated_steam" title="Superheated steam">Superheated steam</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://web.archive.org/web/20100219001912/http://lorien.ncl.ac.uk/ming/distil/distilpri.htm" rel="nofollow">Distillation Principals</a> by Ming T. Tham, <a class="mw-redirect" href="/wiki/University_of_Newcastle_upon_Tyne" title="University of Newcastle upon Tyne">University of Newcastle upon Tyne</a> (scroll down to Relative Volatility)</li>
+<li><a class="external text" href="http://lorien.ncl.ac.uk/ming/distil/distilvle.htm" rel="nofollow">Introduction to Distillation: Vapor Liquid Equilibria</a></li>
+<li><a class="external text" href="http://www.et.byu.edu:8080/~rowley/VLEfinal/background2.htm" rel="nofollow">VLE Thermodynamics</a> (Chemical Engineering Dept., Prof. Richard Rowley, Brigham Young University)</li>
+<li><a class="external text" href="https://www.nist.gov/srd/nist103b.cfm" rel="nofollow">NIST Standard Reference Database 103b</a> (Describes the extensive VLE database available from <a class="mw-redirect" href="/wiki/NIST" title="NIST">NIST</a>)</li>
+<li><a class="external text" href="http://www.ddbst.com/en/EED/VLE/VLEindex.php" rel="nofollow">Some VLE data sets and diagrams for mixtures of 30 common components</a>, a small subset of the <a href="/wiki/Dortmund_Data_Bank" title="Dortmund Data Bank">Dortmund Data Bank</a></li>
+<li><a class="external text" href="http://www.ognition.com/1480/where-can-i-get-the-phase-equilibrium-data" rel="nofollow">Where can I get the vapor-liquid phase equilibrium data?</a> Reference to the various phase equilibrium data sources</li>
+<li>George Schlowsky, Alan Erickson, and Thomas A. Schafer, Modular Process Systems, Inc., <a class="external text" href="http://modularprocess.com/wp-content/uploads/2015/07/Article-GeneratingYourOwnVLE-ChE-1995.pdf" rel="nofollow">Operations &amp; Maintenance - Generating your own VLE Data</a>, Chemical Engineering, March 1995, McGraw-Hill, Inc.</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Kister-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Kister_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Kister_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Kister_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Kister, Henry Z. (1992). <i><a href="/wiki/Distillation_Design" title="Distillation Design">Distillation Design</a></i> (1st ed.). McGraw-hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-034909-6" title="Special:BookSources/0-07-034909-6">0-07-034909-6</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVapor%E2%80%93liquid+equilibrium&amp;rft.au=Kister%2C+Henry+Z.&amp;rft.btitle=Distillation+Design&amp;rft.date=1992&amp;rft.edition=1st&amp;rft.genre=book&amp;rft.isbn=0-07-034909-6&amp;rft.pub=McGraw-hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Perry-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Perry_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Perry_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Perry_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Perry_2-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Perry, R.H.; Green, D.W., eds. (1997). <i><a href="/wiki/Perry%27s_Chemical_Engineers%27_Handbook" title="Perry's Chemical Engineers' Handbook">Perry's Chemical Engineers' Handbook</a></i> (7th ed.). McGraw-hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-07-049841-5" title="Special:BookSources/0-07-049841-5">0-07-049841-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVapor%E2%80%93liquid+equilibrium&amp;rft.btitle=Perry%27s+Chemical+Engineers%27+Handbook&amp;rft.date=1997&amp;rft.edition=7th&amp;rft.genre=book&amp;rft.isbn=0-07-049841-5&amp;rft.pub=McGraw-hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-SeaderHenley-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-SeaderHenley_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Seader, J. D. &amp; Henley, Ernest J. (1998). <i>Separation Process Principles</i>. New York: Wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-58626-9" title="Special:BookSources/0-471-58626-9">0-471-58626-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AVapor%E2%80%93liquid+equilibrium&amp;rft.au=Henley%2C+Ernest+J.&amp;rft.au=Seader%2C+J.+D.&amp;rft.btitle=Separation+Process+Principles&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=0-471-58626-9&amp;rft.place=New+York&amp;rft.pub=Wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Balzhiser et al. (1972), <i>Chemical Engineering Thermodynamics</i>, p. 215.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Balzhiser et al. (1972), <i>Chemical Engineering Thermodynamics</i>, p. 216.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Balzhiser et al. (1972), <i>Chemical Engineering Thermodynamics</i>, p. 218.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">DePriester, C.L., <i>Chem. Eng. Prog. Symposium Series</i>, 7, <b>49</b>, pages 1–43</span></li>
+</ol>
+</div>
+</div>
+<div aria-labelledby="Chemical_equilibria" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Chemical_equilibria" title="Template:Chemical equilibria"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Chemical_equilibria" title="Template talk:Chemical equilibria"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Chemical_equilibria&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Chemical_equilibria" style="font-size:114%;margin:0 4em"><a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">Chemical equilibria</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acid_dissociation_constant" title="Acid dissociation constant">Acid dissociation constant</a></li>
+<li><a href="/wiki/Binding_constant" title="Binding constant">Binding constant</a></li>
+<li><a href="/wiki/Binding_selectivity" title="Binding selectivity">Binding selectivity</a></li>
+<li><a href="/wiki/Buffer_solution" title="Buffer solution">Buffer solution</a></li>
+<li><a href="/wiki/Chemical_equilibrium" title="Chemical equilibrium">Chemical equilibrium</a></li>
+<li><a href="/wiki/Chemical_stability" title="Chemical stability">Chemical stability</a></li>
+<li><a href="/wiki/Chelation" title="Chelation">Chelation</a></li>
+<li><a href="/wiki/Determination_of_equilibrium_constants" title="Determination of equilibrium constants">Determination of equilibrium constants</a></li>
+<li><a href="/wiki/Dissociation_constant" title="Dissociation constant">Dissociation constant</a></li>
+<li><a href="/wiki/Partition_coefficient" title="Partition coefficient">Distribution coefficient</a></li>
+<li><a href="/wiki/Dynamic_equilibrium" title="Dynamic equilibrium">Dynamic equilibrium</a></li>
+<li><a href="/wiki/Equilibrium_chemistry" title="Equilibrium chemistry">Equilibrium chemistry</a></li>
+<li><a href="/wiki/Equilibrium_constant" title="Equilibrium constant">Equilibrium constant</a></li>
+<li><a href="/wiki/Equilibrium_unfolding" title="Equilibrium unfolding">Equilibrium unfolding</a></li>
+<li><a class="mw-redirect" href="/wiki/Equilibrium_stage" title="Equilibrium stage">Equilibrium stage</a></li>
+<li><a href="/wiki/Hammett_acidity_function" title="Hammett acidity function">Hammett acidity function</a></li>
+<li><a href="/wiki/Henry%27s_law" title="Henry's law">Henry's law</a></li>
+<li><a href="/wiki/Liquid%E2%80%93liquid_extraction" title="Liquid–liquid extraction">Liquid–liquid extraction</a></li>
+<li><a href="/wiki/Macrocycle" title="Macrocycle">Macrocycle effect</a></li>
+<li><a href="/wiki/Phase_diagram" title="Phase diagram">Phase diagram</a></li>
+<li><a href="/wiki/Predominance_diagram" title="Predominance diagram">Predominance diagram</a></li>
+<li><a href="/wiki/Phase_rule" title="Phase rule">Phase rule</a></li>
+<li><a href="/wiki/Reaction_quotient" title="Reaction quotient">Reaction quotient</a></li>
+<li><a href="/wiki/Self-ionization_of_water" title="Self-ionization of water">Self-ionization of water</a></li>
+<li><a href="/wiki/Solubility_equilibrium" title="Solubility equilibrium">Solubility equilibrium</a></li>
+<li><a href="/wiki/Stability_constants_of_complexes" title="Stability constants of complexes">Stability constants of complexes</a></li>
+<li><a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">Thermodynamic equilibrium</a></li>
+<li><a href="/wiki/Thermodynamic_activity" title="Thermodynamic activity">Thermodynamic activity</a></li>
+<li><a class="mw-selflink selflink">Vapor–liquid equilibrium</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="States_of_matter_.28list.29" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:States_of_matter" title="Template:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:States_of_matter" title="Template talk:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:States_of_matter&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="States_of_matter_.28list.29" style="font-size:114%;margin:0 4em"><a href="/wiki/State_of_matter" title="State of matter">States of matter</a> (<a href="/wiki/List_of_states_of_matter" title="List of states of matter">list</a>)</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">State</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solid" title="Solid">Solid</a></li>
+<li><a href="/wiki/Liquid" title="Liquid">Liquid</a></li>
+<li><a href="/wiki/Gas" title="Gas">Gas</a> / <a href="/wiki/Vapor" title="Vapor">Vapor</a></li>
+<li><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasma</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Phase_change_-_en.svg"><img alt="Phase change - en.svg" data-file-height="524" data-file-width="493" height="266" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/250px-Phase_change_-_en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/375px-Phase_change_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/500px-Phase_change_-_en.svg.png 2x" width="250"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Low energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bose%E2%80%93Einstein_condensate" title="Bose–Einstein condensate">Bose–Einstein condensate</a></li>
+<li><a href="/wiki/Fermionic_condensate" title="Fermionic condensate">Fermionic condensate</a></li>
+<li><a href="/wiki/Degenerate_matter" title="Degenerate matter">Degenerate matter</a></li>
+<li><a href="/wiki/Quantum_Hall_effect" title="Quantum Hall effect">Quantum Hall</a></li>
+<li><a href="/wiki/Rydberg_matter" title="Rydberg matter">Rydberg matter</a></li>
+<li><a href="/wiki/Strange_matter" title="Strange matter">Strange matter</a></li>
+<li><a href="/wiki/Superfluidity" title="Superfluidity">Superfluid</a></li>
+<li><a href="/wiki/Supersolid" title="Supersolid">Supersolid</a></li>
+<li><a class="mw-redirect" href="/wiki/Photonic_matter" title="Photonic matter">Photonic matter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">High energy</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/QCD_matter" title="QCD matter">QCD matter</a></li>
+<li><a href="/wiki/Lattice_QCD" title="Lattice QCD">Lattice QCD</a></li>
+<li><a href="/wiki/Quark%E2%80%93gluon_plasma" title="Quark–gluon plasma">Quark–gluon plasma</a></li>
+<li><a href="/wiki/Supercritical_fluid" title="Supercritical fluid">Supercritical fluid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other states</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Glass" title="Glass">Glass</a></li>
+<li><a href="/wiki/Liquid_crystal" title="Liquid crystal">Liquid crystal</a></li>
+<li><a href="/wiki/Quantum_spin_liquid" title="Quantum spin liquid">Quantum spin liquid</a></li>
+<li>Magnetically ordered
+<ul>
+<li><a href="/wiki/Antiferromagnetism" title="Antiferromagnetism">Antiferromagnet</a></li>
+<li><a href="/wiki/Ferrimagnetism" title="Ferrimagnetism">Ferrimagnet</a></li>
+<li><a href="/wiki/Ferromagnetism" title="Ferromagnetism">Ferromagnet</a></li>
+</ul>
+</li>
+<li><a href="/wiki/String-net_liquid" title="String-net liquid">String-net liquid</a></li>
+<li><a href="/wiki/Superglass" title="Superglass">Superglass</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Phase_transition" title="Phase transition">Transitions</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boiling" title="Boiling">Boiling</a></li>
+<li><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a></li>
+<li><a href="/wiki/Condensation" title="Condensation">Condensation</a></li>
+<li><a href="/wiki/Critical_line_(thermodynamics)" title="Critical line (thermodynamics)">Critical line</a></li>
+<li><a href="/wiki/Critical_point_(thermodynamics)" title="Critical point (thermodynamics)">Critical point</a></li>
+<li><a href="/wiki/Crystallization" title="Crystallization">Crystallization</a></li>
+<li><a href="/wiki/Deposition_(phase_transition)" title="Deposition (phase transition)">Deposition</a></li>
+<li><a href="/wiki/Evaporation" title="Evaporation">Evaporation</a></li>
+<li><a href="/wiki/Flash_evaporation" title="Flash evaporation">Flash evaporation</a></li>
+<li><a href="/wiki/Freezing" title="Freezing">Freezing</a></li>
+<li><a href="/wiki/Chemical_ionization" title="Chemical ionization">Chemical ionization</a></li>
+<li><a href="/wiki/Ionization" title="Ionization">Ionization</a></li>
+<li><a href="/wiki/Lambda_point" title="Lambda point">Lambda point</a></li>
+<li><a href="/wiki/Melting" title="Melting">Melting</a></li>
+<li><a href="/wiki/Melting_point" title="Melting point">Melting point</a></li>
+<li><a href="/wiki/Plasma_recombination" title="Plasma recombination">Recombination</a></li>
+<li><a href="/wiki/Regelation" title="Regelation">Regelation</a></li>
+<li><a class="mw-selflink selflink">Saturated fluid</a></li>
+<li><a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">Sublimation</a></li>
+<li><a href="/wiki/Supercooling" title="Supercooling">Supercooling</a></li>
+<li><a href="/wiki/Triple_point" title="Triple point">Triple point</a></li>
+<li><a href="/wiki/Vaporization" title="Vaporization">Vaporization</a></li>
+<li><a href="/wiki/Vitrification" title="Vitrification">Vitrification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Quantities</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Enthalpy of fusion</a></li>
+<li><a href="/wiki/Enthalpy_of_sublimation" title="Enthalpy of sublimation">Enthalpy of sublimation</a></li>
+<li><a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">Enthalpy of vaporization</a></li>
+<li><a href="/wiki/Latent_heat" title="Latent heat">Latent heat</a></li>
+<li><a href="/wiki/Latent_internal_energy" title="Latent internal energy">Latent internal energy</a></li>
+<li><a href="/wiki/Trouton%27s_ratio" title="Trouton's ratio">Trouton's ratio</a></li>
+<li><a href="/wiki/Volatility_(chemistry)" title="Volatility (chemistry)">Volatility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Binodal" title="Binodal">Binodal</a></li>
+<li><a href="/wiki/Compressed_fluid" title="Compressed fluid">Compressed fluid</a></li>
+<li><a href="/wiki/Cooling_curve" title="Cooling curve">Cooling curve</a></li>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Leidenfrost_effect" title="Leidenfrost effect">Leidenfrost effect</a></li>
+<li><a href="/wiki/Macroscopic_quantum_phenomena" title="Macroscopic quantum phenomena">Macroscopic quantum phenomena</a></li>
+<li><a href="/wiki/Mpemba_effect" title="Mpemba effect">Mpemba effect</a></li>
+<li><a class="mw-redirect" href="/wiki/Order_and_disorder_(physics)" title="Order and disorder (physics)">Order and disorder (physics)</a></li>
+<li><a href="/wiki/Spinodal" title="Spinodal">Spinodal</a></li>
+<li><a href="/wiki/Superconductivity" title="Superconductivity">Superconductivity</a></li>
+<li><a href="/wiki/Superheated_water" title="Superheated water">Superheated vapor</a></li>
+<li><a href="/wiki/Superheating" title="Superheating">Superheating</a></li>
+<li><a href="/wiki/Thermo-dielectric_effect" title="Thermo-dielectric effect">Thermo-dielectric effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00565701" rel="nofollow">00565701</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1216
+Cached time: 20170915124009
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.212 seconds
+Real time usage: 0.396 seconds
+Preprocessor visited node count: 1047/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29750/2097152 bytes
+Template argument size: 755/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.065/10.000 seconds
+Lua memory usage: 2.42 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  151.265      1 -total
+ 35.92%   54.341      1 Template:Reflist
+ 25.44%   38.487      3 Template:Cite_book
+ 21.45%   32.442      1 Template:Authority_control
+ 16.26%   24.592      2 Template:Main_article
+ 11.44%   17.305      2 Template:Navbox
+  8.11%   12.268      1 Template:Chemical_equilibria
+  6.49%    9.822      1 Template:States_of_matter
+  3.33%    5.032     20 Template:Math
+  1.57%    2.378     24 Template:Mvar
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:7817474-0!canonical!math=5 and timestamp 20170915124008 and revision id 797013886
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Vapor–liquid_equilibrium&amp;oldid=797013886">https://en.wikipedia.org/w/index.php?title=Vapor–liquid_equilibrium&amp;oldid=797013886</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_engineering_thermodynamics" title="Category:Chemical engineering thermodynamics">Chemical engineering thermodynamics</a></li><li><a href="/wiki/Category:Equilibrium_chemistry" title="Category:Equilibrium chemistry">Equilibrium chemistry</a></li><li><a href="/wiki/Category:Distillation" title="Category:Distillation">Distillation</a></li><li><a href="/wiki/Category:Phases_of_matter" title="Category:Phases of matter">Phases of matter</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Vapor%E2%80%93liquid+equilibrium" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Vapor%E2%80%93liquid+equilibrium" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Vapor%E2%80%93liquid_equilibrium" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Vapor%E2%80%93liquid_equilibrium" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Vapor%E2%80%93liquid_equilibrium">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Vapor%E2%80%93liquid_equilibrium" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Vapor%E2%80%93liquid_equilibrium" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;oldid=797013886" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q10273440" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Vapor%E2%80%93liquid_equilibrium&amp;id=797013886" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Vapor%E2%80%93liquid+equilibrium">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Vapor%E2%80%93liquid+equilibrium&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DVapor%25E2%2580%2593liquid%2Bequilibrium%26returnto%3DVapor%25E2%2580%2593liquid%2Bequilibrium%26oldid%3D797013886%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7%D8%B2%D9%86_%D8%B3%D8%A7%D8%A6%D9%84_%D9%88%D8%A8%D8%AE%D8%A7%D8%B1%D9%87" hreflang="ar" lang="ar" title="توازن سائل وبخاره – Arabic">العربية</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Dampf-Fl%C3%BCssigkeit-Gleichgewicht" hreflang="de" lang="de" title="Dampf-Flüssigkeit-Gleichgewicht – German">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B9%D8%A7%D8%AF%D9%84_%D9%85%D8%A7%DB%8C%D8%B9%E2%80%93%D8%A8%D8%AE%D8%A7%D8%B1" hreflang="fa" lang="fa" title="تعادل مایع–بخار – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89quilibre_liquide-gaz" hreflang="fr" lang="fr" title="Équilibre liquide-gaz – French">Français</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kesetimbangan_uap-cair" hreflang="id" lang="id" title="Kesetimbangan uap-cair – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Equilibrio_liquido-vapore" hreflang="it" lang="it" title="Equilibrio liquido-vapore – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B0%97%E6%B6%B2%E5%B9%B3%E8%A1%A1" hreflang="ja" lang="ja" title="気液平衡 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Damp-v%C3%A6ske-likevekt" hreflang="nn" lang="nn" title="Damp-væske-likevekt – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Equil%C3%ADbrio_l%C3%ADquido-vapor" hreflang="pt" lang="pt" title="Equilíbrio líquido-vapor – Portuguese">Português</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q10273440#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 August 2017, at 12:24.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Vapor%E2%80%93liquid_equilibrium&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.212","walltime":"0.396","ppvisitednodes":{"value":1047,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29750,"limit":2097152},"templateargumentsize":{"value":755,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  151.265      1 -total"," 35.92%   54.341      1 Template:Reflist"," 25.44%   38.487      3 Template:Cite_book"," 21.45%   32.442      1 Template:Authority_control"," 16.26%   24.592      2 Template:Main_article"," 11.44%   17.305      2 Template:Navbox","  8.11%   12.268      1 Template:Chemical_equilibria","  6.49%    9.822      1 Template:States_of_matter","  3.33%    5.032     20 Template:Math","  1.57%    2.378     24 Template:Mvar"]},"scribunto":{"limitreport-timeusage":{"value":"0.065","limit":"10.000"},"limitreport-memusage":{"value":2535231,"limit":52428800}},"cachereport":{"origin":"mw1216","timestamp":"20170915124009","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1261"});});</script>
+</body>
+</html>

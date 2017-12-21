@@ -1,0 +1,386 @@
+https://en.wikipedia.org/wiki/Exploded_view
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Exploded-view drawing - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Exploded-view_drawing","wgTitle":"Exploded-view drawing","wgCurRevisionId":797013774,"wgRevisionId":797013774,"wgArticleId":2795027,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Technical drawing","Methods of representation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Exploded-view_drawing","wgRelevantArticleId":2795027,"wgRequestId":"WdO0SApAME8AAJQGawEAAABK","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Exploded_view","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Exploded-view_drawing","wgWikibaseItemId":"Q138583","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Axonometric_projection.svg/1200px-Axonometric_projection.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Exploded-view_drawing" rel="alternate"/>
+<link href="/w/index.php?title=Exploded-view_drawing&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Exploded-view_drawing&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Exploded-view_drawing" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Exploded-view_drawing rootpage-Exploded-view_drawing vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Exploded-view drawing</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Exploded_view&amp;redirect=no" title="Exploded view">Exploded view</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the studio album by Polvo, see <a href="/wiki/Exploded_Drawing" title="Exploded Drawing">Exploded Drawing</a>.</div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Graphical_projection" title="Graphical projection">Graphical projection</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:Axonometric_projection.svg"><img alt="Axonometric projection.svg" data-file-height="397" data-file-width="467" height="128" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Axonometric_projection.svg/150px-Axonometric_projection.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/48/Axonometric_projection.svg/225px-Axonometric_projection.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/48/Axonometric_projection.svg/300px-Axonometric_projection.svg.png 2x" width="150"/></a></td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left"><a href="/wiki/Planar_projection" title="Planar projection">Planar</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul>
+<li><a href="/wiki/Parallel_projection" title="Parallel projection">Parallel projection</a>
+<ul>
+<li><a href="/wiki/Orthographic_projection" title="Orthographic projection">Orthographic projection</a>
+<ul>
+<li><a href="/wiki/Multiview_projection" title="Multiview projection">Multiview projection</a></li>
+<li><a href="/wiki/Axonometric_projection" title="Axonometric projection">Axonometric projection</a>
+<ul>
+<li><a href="/wiki/Isometric_projection" title="Isometric projection">Isometric projection</a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li><a href="/wiki/Oblique_projection" title="Oblique projection">Oblique projection</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Perspective_(graphical)" title="Perspective (graphical)">Perspective projection</a>
+<ul>
+<li><a href="/wiki/Curvilinear_perspective" title="Curvilinear perspective">Curvilinear perspective</a></li>
+<li><a href="/wiki/Reverse_perspective" title="Reverse perspective">Reverse perspective</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Views</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul>
+<li><a href="/wiki/2.5D" title="2.5D">2.5D</a></li>
+<li><a href="/wiki/Bird%27s-eye_view" title="Bird's-eye view">Bird's-eye view</a></li>
+<li><a href="/wiki/Cross_section_(geometry)" title="Cross section (geometry)">Cross section</a></li>
+<li><a href="/wiki/Cutaway_drawing" title="Cutaway drawing">Cutaway drawing</a></li>
+<li><a class="mw-redirect" href="/wiki/Exploded_view_drawing" title="Exploded view drawing">Exploded view drawing</a></li>
+<li><a href="/wiki/Fisheye_lens" title="Fisheye lens">Fisheye lens</a></li>
+<li><a href="/wiki/Panorama" title="Panorama">Panorama</a></li>
+<li><a href="/wiki/Worm%27s-eye_view" title="Worm's-eye view">Worm's-eye view</a></li>
+<li><a href="/wiki/Zoom_lens" title="Zoom lens">Zoom lens</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left">Topics</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;text-align: left">
+<ul>
+<li><a href="/wiki/3D_projection" title="3D projection">3D projection</a></li>
+<li><a href="/wiki/Anamorphosis" title="Anamorphosis">Anamorphosis</a></li>
+<li><a href="/wiki/Axonometry" title="Axonometry">Axonometry</a></li>
+<li><a href="/wiki/Computer_graphics" title="Computer graphics">Computer graphics</a></li>
+<li><a href="/wiki/Computer-aided_design" title="Computer-aided design">Computer-aided design</a></li>
+<li><a href="/wiki/Descriptive_geometry" title="Descriptive geometry">Descriptive geometry</a></li>
+<li><a href="/wiki/Engineering_drawing" title="Engineering drawing">Engineering drawing</a></li>
+<li><a href="/wiki/Map_projection" title="Map projection">Map projection</a></li>
+<li><a href="/wiki/Picture_plane" title="Picture plane">Picture plane</a></li>
+<li><a class="mw-redirect" href="/wiki/Plans_(drawings)" title="Plans (drawings)">Plans (drawings)</a></li>
+<li><a href="/wiki/Projection_(linear_algebra)" title="Projection (linear algebra)">Projection (linear algebra)</a></li>
+<li><a href="/wiki/Projection_plane" title="Projection plane">Projection plane</a></li>
+<li><a href="/wiki/Projective_geometry" title="Projective geometry">Projective geometry</a></li>
+<li><a href="/wiki/Stereoscopy" title="Stereoscopy">Stereoscopy</a></li>
+<li><a href="/wiki/Technical_drawing" title="Technical drawing">Technical drawing</a></li>
+<li><a href="/wiki/Vanishing_point" title="Vanishing point">Vanishing point</a></li>
+<li><a href="/wiki/Video_game_graphics" title="Video game graphics">Video game graphics</a></li>
+<li><a href="/wiki/Viewing_frustum" title="Viewing frustum">Viewing frustum</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Views" title="Template:Views"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Views" title="Template talk:Views"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Views&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>An <b>exploded view drawing</b> is a <a href="/wiki/Diagram" title="Diagram">diagram</a>, <a class="mw-redirect" href="/wiki/Picture" title="Picture">picture</a>, schematic or <a href="/wiki/Technical_drawing" title="Technical drawing">technical drawing</a> of an object, that shows the relationship or order of <a href="/wiki/Manufacturing" title="Manufacturing">assembly</a> of various parts.<sup class="reference" id="cite_ref-US_PTO05_1-0"><a href="#cite_note-US_PTO05-1">[1]</a></sup></p>
+<p>It shows the components of an object slightly separated by distance, or suspended in surrounding space in the case of a three-<a href="/wiki/Dimension" title="Dimension">dimensional</a> exploded diagram. An object is represented as if there had been a small controlled <a href="/wiki/Explosion" title="Explosion">explosion</a> emanating from the middle of the object, causing the object's parts to be separated an equal distance away from their original locations.</p>
+<p>The exploded view drawing is used in <a class="mw-redirect" href="/wiki/Parts_catalog" title="Parts catalog">parts catalogs</a>, assembly and maintenance manuals and other instructional material.</p>
+<p>Usually, the projection of an exploded view is normally shown from above and slightly in diagonal from the left or right side of the drawing. (See exploded view drawing of a gear pump to the right). It is slightly from above and shown from the left side of the drawing in diagonal.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#History"><span class="tocnumber">2</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exploded-view_drawing&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fully_assembled_view_and_exploded_view.jpg"><img alt="" class="thumbimage" data-file-height="312" data-file-width="369" height="186" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fully_assembled_view_and_exploded_view.jpg/220px-Fully_assembled_view_and_exploded_view.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Fully_assembled_view_and_exploded_view.jpg/330px-Fully_assembled_view_and_exploded_view.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b8/Fully_assembled_view_and_exploded_view.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Fully_assembled_view_and_exploded_view.jpg" title="Enlarge"></a></div>
+Fully assembled and exploded view in a <a href="/wiki/Patent_drawing" title="Patent drawing">patent drawing</a></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:322px;"><a class="image" href="/wiki/File:Gear_pump_exploded.png"><img alt="" class="thumbimage" data-file-height="473" data-file-width="640" height="237" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gear_pump_exploded.png/320px-Gear_pump_exploded.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Gear_pump_exploded.png/480px-Gear_pump_exploded.png 1.5x, //upload.wikimedia.org/wikipedia/commons/2/23/Gear_pump_exploded.png 2x" width="320"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Gear_pump_exploded.png" title="Enlarge"></a></div>
+Exploded view drawing of a <a href="/wiki/Gear_pump" title="Gear pump">gear pump</a></div>
+</div>
+</div>
+<p>An exploded view drawing is a type of drawing, that shows the intended assembly of mechanical or other parts. It shows all parts of the assembly and how they fit together. In mechanical systems usually the component closest to the center are assembled first, or is the main part in which the other parts get assembled. This drawing can also help to represent the disassembly of parts, where the parts on the outside normally get removed first.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Exploded diagrams are common in descriptive <a class="mw-redirect" href="/wiki/User_manual" title="User manual">manuals</a> showing parts placement, or parts contained in an assembly or sub-assembly. Usually such diagrams have the part identification number and a label indicating which part fills the particular position in the diagram. Many <a href="/wiki/Spreadsheet" title="Spreadsheet">spreadsheet</a> applications can automatically create exploded diagrams, such as <a href="/wiki/Pie_chart#Exploded_pie_chart" title="Pie chart">exploded pie charts</a>.</p>
+<p>In <a href="/wiki/Patent_drawing" title="Patent drawing">patent drawings</a> in an exploded views the separated parts should be embraced by a bracket, to show the relationship or order of assembly of various parts are permissible, see image. When an exploded view is shown in a figure that is on the same sheet as another figure, the exploded view should be placed in brackets.<sup class="reference" id="cite_ref-US_PTO05_1-1"><a href="#cite_note-US_PTO05-1">[1]</a></sup></p>
+<p>Exploded views can also be used in <a href="/wiki/Architectural_drawing" title="Architectural drawing">architectural drawing</a>, for example in the presentation of landscape design. An exploded view can create an image in which the elements are flying through the air above the <a href="/wiki/Architectural_plan" title="Architectural plan">architectural plan</a>, almost like a <a href="/wiki/Cubism" title="Cubism">cubist painting</a>. The locations can be shadowed or dotted in the siteplan of the elements.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<div style="clear:right;"></div>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exploded-view_drawing&amp;action=edit&amp;section=2" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5.jpg"><img alt="" class="thumbimage" data-file-height="246" data-file-width="390" height="139" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5.jpg/220px-%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5.jpg/330px-%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/8/82/%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:%D0%A2%D1%80%D0%B0%D0%BD%D1%81%D1%84%D0%BE%D1%80%D0%BC%D0%B0%D1%86%D0%B8%D1%8F_%D0%BF%D0%B5%D1%80%D0%B5%D0%BC%D0%B5%D0%BD%D0%BD%D0%BE%D0%B3%D0%BE_%D0%B4%D0%B2%D0%B8%D0%B6%D0%B5%D0%BD%D0%B8%D1%8F_%D0%B2_%D0%BD%D0%B5%D0%BF%D1%80%D0%B5%D1%80%D1%8B%D0%B2%D0%BD%D0%BE%D0%B5.jpg" title="Enlarge"></a></div>
+Exploded view by <a href="/wiki/Leonardo_da_Vinci" title="Leonardo da Vinci">Leonardo da Vinci</a></div>
+</div>
+</div>
+<p>Together with the <a href="/wiki/Cutaway_drawing" title="Cutaway drawing">cutaway view</a> the exploded view was among the many graphic inventions of the <a href="/wiki/Renaissance" title="Renaissance">Renaissance</a>, which were developed to clarify pictorial representation in a renewed naturalistic way. The exploded view can be traced back to the early fifteenth century notebooks of <a href="/wiki/Taccola" title="Taccola">Marino Taccola</a> (1382–1453), and were perfected by <a class="mw-redirect" href="/wiki/Francesco_di_Giorgio" title="Francesco di Giorgio">Francesco di Giorgio</a> (1439–1502) and <a href="/wiki/Leonardo_da_Vinci" title="Leonardo da Vinci">Leonardo da Vinci</a> (1452–1519).<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>One of the first clearer examples of an exploded view was created by Leonardo in his design drawing of a <a href="/wiki/Reciprocating_motion" title="Reciprocating motion">reciprocating motion</a> machine. Leonardo applied this method of presentation in several other studies, including those on human anatomy.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>The term "Exploded View Drawing" emerged in the 1940s, and is one of the first times defined in 1965 as "Three-dimensional (isometric) illustration that shows the mating relationships of parts, subassemblies, and higher assemblies. May also show the sequence of assembling or disassembling the detail parts."<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<div style="clear:right;"></div>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exploded-view_drawing&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Cross_section_(geometry)" title="Cross section (geometry)">Cross-section</a></li>
+<li><a href="/wiki/Cutaway_drawing" title="Cutaway drawing">Cutaway drawing</a></li>
+<li><a href="/wiki/Perspective_(graphical)" title="Perspective (graphical)">Perspective</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Exploded-view_drawing&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-US_PTO05-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-US_PTO05_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-US_PTO05_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="/wiki/United_States_Patent_and_Trademark_Office" title="United States Patent and Trademark Office">United States Patent and Trademark Office</a> (2005), <a class="external text" href="http://www.uspto.gov/web/offices/pac/doc/general/#drawing" rel="nofollow">General Information Concerning Patents § 1.84 Standards for drawings</a> (Revised January 2005). Accessed 13 Feb 2009.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Michael E. Brumbach, Jeffrey A. Clade (2003). <i>Industrial Maintenance</i>. p.65</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Chip Sullivan (2004) <i>Drawing the Landscape</i>. p.245.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Eugene S. Ferguson (1999). <i>Engineering and the Mind's Eye</i>. p.82.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Domenico Laurenza, Mario Taddei, Edoardo Zanon (2006). <i>Leonardo's Machines</i>. p.165</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Thomas F. Walton (1965). <i>Technical Data Requirements for Systems Engineering and Support</i>. Prentice-Hall. p.170</span></li>
+</ol>
+</div>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Exploded_views" title="commons:Category:Exploded views">Exploded views</a></b></i>.</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1269
+Cached time: 20170915125422
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.092 seconds
+Real time usage: 0.132 seconds
+Preprocessor visited node count: 350/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 11797/2097152 bytes
+Template argument size: 355/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 0/500
+Lua time usage: 0.013/10.000 seconds
+Lua memory usage: 804 KB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   86.917      1 -total
+ 40.48%   35.187      1 Template:Commons_category
+ 24.34%   21.154      1 Template:For
+ 15.76%   13.702      1 Template:Reflist
+ 13.25%   11.515      1 Template:Views
+ 10.96%    9.530      1 Template:Commons
+ 10.44%    9.075      1 Template:Sidebar_with_collapsible_lists
+  9.04%    7.857      1 Template:Sister_project
+  6.00%    5.213      1 Template:Side_box
+  2.63%    2.286      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:2795027-0!canonical and timestamp 20170915125422 and revision id 797013774
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Exploded-view_drawing&amp;oldid=797013774">https://en.wikipedia.org/w/index.php?title=Exploded-view_drawing&amp;oldid=797013774</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Technical_drawing" title="Category:Technical drawing">Technical drawing</a></li><li><a href="/wiki/Category:Methods_of_representation" title="Category:Methods of representation">Methods of representation</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Exploded-view+drawing" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Exploded-view+drawing" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Exploded-view_drawing" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Exploded-view_drawing" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Exploded-view_drawing">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Exploded-view_drawing&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Exploded-view_drawing&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Exploded-view_drawing" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Exploded-view_drawing" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Exploded-view_drawing&amp;oldid=797013774" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Exploded-view_drawing&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q138583" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Exploded-view_drawing&amp;id=797013774" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Exploded-view+drawing">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Exploded-view+drawing&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DExploded-view%2Bdrawing%26returnto%3DExploded-view%2Bdrawing%26oldid%3D797013774%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Exploded-view_drawing&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Exploded_views" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Explosionszeichnung" hreflang="de" lang="de" title="Explosionszeichnung – German">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%86%D9%82%D8%B4%D9%87_%D8%A7%D9%86%D9%81%D8%AC%D8%A7%D8%B1%DB%8C" hreflang="fa" lang="fa" title="نقشه انفجاری – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Vue_en_%C3%A9clat%C3%A9" hreflang="fr" lang="fr" title="Vue en éclaté – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Esploso" hreflang="it" lang="it" title="Esploso – Italian">Italiano</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B4%B1%E0%B4%BF%E0%B4%9A%E0%B5%8D%E0%B4%9A_%E0%B4%9A%E0%B4%BF%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B5%80%E0%B4%95%E0%B4%B0%E0%B4%A3%E0%B4%82" hreflang="ml" lang="ml" title="ചിതറിച്ച ചിത്രീകരണം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Explosietekening" hreflang="nl" lang="nl" title="Explosietekening – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Vista_explodida" hreflang="pt" lang="pt" title="Vista explodida – Portuguese">Português</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/R%C3%A4j%C3%A4ytyskuva" hreflang="fi" lang="fi" title="Räjäytyskuva – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Spr%C3%A4ngskiss" hreflang="sv" lang="sv" title="Sprängskiss – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BA%D0%BB%D0%B0%D0%B4%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BA%D1%80%D0%B5%D1%81%D0%BB%D0%B5%D0%BD%D0%B8%D0%BA" hreflang="uk" lang="uk" title="Складальний кресленик – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q138583#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 24 August 2017, at 12:23.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Exploded-view_drawing&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.092","walltime":"0.132","ppvisitednodes":{"value":350,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":11797,"limit":2097152},"templateargumentsize":{"value":355,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%   86.917      1 -total"," 40.48%   35.187      1 Template:Commons_category"," 24.34%   21.154      1 Template:For"," 15.76%   13.702      1 Template:Reflist"," 13.25%   11.515      1 Template:Views"," 10.96%    9.530      1 Template:Commons"," 10.44%    9.075      1 Template:Sidebar_with_collapsible_lists","  9.04%    7.857      1 Template:Sister_project","  6.00%    5.213      1 Template:Side_box","  2.63%    2.286      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.013","limit":"10.000"},"limitreport-memusage":{"value":822955,"limit":52428800}},"cachereport":{"origin":"mw1269","timestamp":"20170915125422","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":67,"wgHostname":"mw1244"});});</script>
+</body>
+</html>

@@ -1,0 +1,823 @@
+https://en.wikipedia.org/wiki/Sea_level
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Sea level - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sea_level","wgTitle":"Sea level","wgCurRevisionId":803188960,"wgRevisionId":803188960,"wgArticleId":62529,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Use dmy dates from September 2017","Articles needing additional references from August 2015","All articles needing additional references","Sea level","Geodesy","Physical oceanography","Oceanographical terminology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sea_level","wgRelevantArticleId":62529,"wgRequestId":"WdLLXQpAIDIAAHYSfggAAAAX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q125465","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/Israel_Sea_Level_BW_1.JPG/1200px-Israel_Sea_Level_BW_1.JPG" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sea_level" rel="alternate"/>
+<link href="/w/index.php?title=Sea_level&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sea_level&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sea_level" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sea_level rootpage-Sea_level vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Sea level</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses of "Sea level", see <a class="mw-disambig" href="/wiki/Sea_level_(disambiguation)" title="Sea level (disambiguation)">Sea level (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Israel_Sea_Level_BW_1.JPG"><img alt="" class="thumbimage" data-file-height="2592" data-file-width="3872" height="201" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Israel_Sea_Level_BW_1.JPG/300px-Israel_Sea_Level_BW_1.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/61/Israel_Sea_Level_BW_1.JPG/450px-Israel_Sea_Level_BW_1.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/61/Israel_Sea_Level_BW_1.JPG/600px-Israel_Sea_Level_BW_1.JPG 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Israel_Sea_Level_BW_1.JPG" title="Enlarge"></a></div>
+This marker indicating sea level is situated between <a href="/wiki/Jerusalem" title="Jerusalem">Jerusalem</a> and the <a href="/wiki/Dead_Sea" title="Dead Sea">Dead Sea</a>.</div>
+</div>
+</div>
+<p><b>Mean sea level (MSL)</b> (often shortened to <b>sea level</b>) is <a href="/wiki/Mean" title="Mean">an average</a> level of the surface of one or more of <a href="/wiki/Sea" title="Sea">Earth's oceans</a> from which heights such as elevations may be measured. MSL is a type of <a href="/wiki/Geodetic_datum#Vertical_datum" title="Geodetic datum">vertical datum</a> – a standardised <a href="/wiki/Geodesy" title="Geodesy">geodetic</a> reference point – that is used, for example, as a <a href="/wiki/Chart_datum" title="Chart datum">chart datum</a> in <a href="/wiki/Cartography" title="Cartography">cartography</a> and <a href="/wiki/Navigation" title="Navigation">marine navigation</a>, or, in aviation, as the <a href="/wiki/Standard_sea_level" title="Standard sea level">standard sea level</a> at which <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">atmospheric pressure</a> is measured to <a href="/wiki/Calibration" title="Calibration">calibrate</a> altitude and, consequently, aircraft <a href="/wiki/Flight_level" title="Flight level">flight levels</a>. A common and relatively straightforward mean sea-level standard is the midpoint between a <a href="/wiki/Tide" title="Tide">mean low and mean high tide</a> at a particular location.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Sea levels can be affected by many factors and are known to have varied greatly over <a href="/wiki/Geologic_time_scale" title="Geologic time scale">geological time scales</a>. The careful measurement of variations in MSL can offer insights into ongoing <a href="/wiki/Climate_change" title="Climate change">climate change</a>, and <a href="/wiki/Sea_level_rise" title="Sea level rise">sea level rise</a> has been widely quoted as evidence of ongoing <a href="/wiki/Global_warming" title="Global warming">global warming</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>The term <i>above sea level</i> generally refers to <a class="mw-redirect" href="/wiki/Above_mean_sea_level" title="Above mean sea level">above mean sea level</a> (AMSL).</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Measurement"><span class="tocnumber">1</span> <span class="toctext">Measurement</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Height_above_mean_sea_level"><span class="tocnumber">1.1</span> <span class="toctext">Height above mean sea level</span></a>
+<ul>
+<li class="toclevel-3 tocsection-3"><a href="#Difficulties_in_use"><span class="tocnumber">1.1.1</span> <span class="toctext">Difficulties in use</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Dry_land"><span class="tocnumber">2</span> <span class="toctext">Dry land</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Change"><span class="tocnumber">3</span> <span class="toctext">Change</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Local_and_eustatic"><span class="tocnumber">3.1</span> <span class="toctext">Local and eustatic</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Short_term_and_periodic_changes"><span class="tocnumber">3.2</span> <span class="toctext">Short term and periodic changes</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Recent_changes"><span class="tocnumber">3.3</span> <span class="toctext">Recent changes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Aviation"><span class="tocnumber">4</span> <span class="toctext">Aviation</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Measurement">Measurement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=1" title="Edit section: Measurement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Recent_Sea_Level_Rise.png"><img alt="" class="thumbimage" data-file-height="373" data-file-width="537" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Recent_Sea_Level_Rise.png/220px-Recent_Sea_Level_Rise.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Recent_Sea_Level_Rise.png/330px-Recent_Sea_Level_Rise.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Recent_Sea_Level_Rise.png/440px-Recent_Sea_Level_Rise.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Recent_Sea_Level_Rise.png" title="Enlarge"></a></div>
+Sea level measurements from 23 long <a href="/wiki/Tide_gauge" title="Tide gauge">tide gauge</a> records in geologically stable environments show a rise of around 200 millimetres (7.9 in) during the 20th century (2 mm/year).</div>
+</div>
+</div>
+<p>Precise determination of a "mean sea level" is difficult to achieve because of the many factors that affect sea level.<sup class="reference" id="cite_ref-USNRC32_3-0"><a href="#cite_note-USNRC32-3">[3]</a></sup> Sea level varies quite a lot on several scales of time and space. This is because the sea is in constant motion, affected by the tides, wind, atmospheric pressure, local gravitational differences, temperature, <a href="/wiki/Salinity" title="Salinity">salinity</a> and so forth. The easiest way this may be calculated is by selecting a location and calculating the mean sea level at that point and use it as a <a class="mw-redirect" href="/wiki/Datum_(geodesy)" title="Datum (geodesy)">datum</a>. For example, a period of 19 years of hourly level observations may be averaged and used to determine the mean sea level at some measurement point.</p>
+<p>To an operator of a <a href="/wiki/Tide_gauge" title="Tide gauge">tide gauge</a>, MSL means the "still water level"—the level of the sea with motions such as <a href="/wiki/Wind_wave" title="Wind wave">wind waves</a> averaged out—averaged over a period of time such that changes in sea level, e.g., due to the <a href="/wiki/Tide" title="Tide">tides</a>, also get averaged out. One measures the values of MSL in respect to the land. Hence a change in MSL can result from a real change in sea level, or from a change in the height of the land on which the tide gauge operates.</p>
+<p>In the UK, the <a class="mw-redirect" href="/wiki/Ordnance_Datum" title="Ordnance Datum">Ordnance Datum</a> (the 0 metres height on UK maps) is the mean sea level measured at <a href="/wiki/Newlyn" title="Newlyn">Newlyn</a> in Cornwall between 1915 and 1921. Prior to 1921, the datum was MSL at the <a class="mw-redirect" href="/wiki/Victoria_Dock_(Liverpool)" title="Victoria Dock (Liverpool)">Victoria Dock, Liverpool</a>.</p>
+<p>In Hong Kong, "mPD" is a surveying term meaning "metres above Principal Datum" and refers to height of 1.230m below the average sea level.</p>
+<p>In France, the Marégraphe in Marseilles measures continuously the sea level since 1883 and offers the longest collapsed data about the sea level. It is used for a part of continental Europe and main part of Africa as official sea level. Elsewhere in Europe vertical elevation references (European Vertical Reference System) are made to the <a href="/wiki/Amsterdam_Ordnance_Datum" title="Amsterdam Ordnance Datum">Amsterdam Peil</a> elevation, which dates back to the 1690s.</p>
+<p>Satellite altimeters have been making precise measurements of sea level<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> since the launch of <a href="/wiki/TOPEX/Poseidon" title="TOPEX/Poseidon">TOPEX/Poseidon</a> in 1992. A joint mission of <a href="/wiki/NASA" title="NASA">NASA</a> and <a href="/wiki/CNES" title="CNES">CNES</a>, TOPEX/Poseidon was followed by <a href="/wiki/Jason-1" title="Jason-1">Jason-1</a> in 2001 and the <a href="/wiki/Ocean_Surface_Topography_Mission" title="Ocean Surface Topography Mission">Ocean Surface Topography Mission</a> on the Jason-2 satellite in 2008.</p>
+<h3><span class="mw-headline" id="Height_above_mean_sea_level"><span id="Above_mean_sea_level"></span><span id="AMSL"></span> Height above mean sea level</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=2" title="Edit section: Height above mean sea level">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Elevation" title="Elevation">Elevation</a></div>
+<p><i>Height above mean sea level</i> (<i>AMSL</i>) is the elevation (on the ground) or altitude (in the air) of an object, relative to the average sea level datum. It is also used in aviation, where some heights are recorded and reported with respect to mean sea level (MSL) (contrast with <a href="/wiki/Flight_level" title="Flight level">flight level</a>), and in the <a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">atmospheric sciences</a>, and <a class="mw-redirect" href="/wiki/Land_surveying" title="Land surveying">land surveying</a>. An alternative is to base height measurements on an <a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">ellipsoid</a> of the entire Earth, which is what systems such as <a class="mw-redirect" href="/wiki/GPS" title="GPS">GPS</a> do. In aviation, the ellipsoid known as <a href="/wiki/World_Geodetic_System" title="World Geodetic System">World Geodetic System</a> 84 is increasingly used to define heights; however, differences up to 100 metres (328 feet) exist between this ellipsoid height and mean tidal height. The alternative is to use a <a href="/wiki/Geoid" title="Geoid">geoid</a>-based vertical <a class="mw-redirect" href="/wiki/Datum_(geodesy)" title="Datum (geodesy)">datum</a> such as <a href="/wiki/North_American_Vertical_Datum_of_1988" title="North American Vertical Datum of 1988">NAVD88</a>.</p>
+<p>When referring to <a href="/wiki/Geography" title="Geography">geographic</a> features such as mountains on a <a href="/wiki/Topographic_map" title="Topographic map">topographic map</a>, variations in elevation are shown by <a href="/wiki/Contour_line" title="Contour line">contour lines</a>. The elevation of a mountain denotes the highest point or summit and is typically illustrated as a small circle on a topographic map with the AMSL height shown in metres, feet or both.</p>
+<p>In the rare case that a location is below sea level, the elevation AMSL is negative. For one such case, see <a href="/wiki/Amsterdam_Airport_Schiphol" title="Amsterdam Airport Schiphol">Amsterdam Airport Schiphol</a>.</p>
+<h4><span class="mw-headline" id="Difficulties_in_use">Difficulties in use</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=3" title="Edit section: Difficulties in use">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Geoida.svg"><img alt="" class="thumbimage" data-file-height="338" data-file-width="730" height="102" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Geoida.svg/220px-Geoida.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Geoida.svg/330px-Geoida.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Geoida.svg/440px-Geoida.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Geoida.svg" title="Enlarge"></a></div>
+<div>
+<ol>
+<li>Ocean</li>
+<li><a href="/wiki/Reference_ellipsoid" title="Reference ellipsoid">Reference ellipsoid</a></li>
+<li>Local <a class="mw-redirect" href="/wiki/Plumb-bob" title="Plumb-bob">plumb line</a></li>
+<li><a href="/wiki/Continent" title="Continent">Continent</a></li>
+<li><a href="/wiki/Geoid" title="Geoid">Geoid</a></li>
+</ol>
+</div>
+</div>
+</div>
+</div>
+<p>To extend this definition far from the sea means comparing the local height of the mean sea surface with a "level" reference surface, or geodetic datum, called the geoid. In a state of rest or absence of external forces, the mean sea level would coincide with this geoid surface, being an equipotential surface of the Earth's <a class="mw-redirect" href="/wiki/Gravitation" title="Gravitation">gravitational</a> field. In reality, due to currents, air pressure variations, temperature and salinity variations, etc., this does not occur, not even as a long-term average. The location-dependent, but persistent in time, separation between mean sea level and the geoid is referred to as (stationary) <a href="/wiki/Ocean_surface_topography" title="Ocean surface topography">ocean surface topography</a>. It varies globally in a range of ±<span class="nowrap"> </span>2<span class="nowrap"> </span>m.</p>
+<p>Historically, adjustments were made to sea-level measurements to take into account the effects of the 235 lunar month <a href="/wiki/Metonic_cycle" title="Metonic cycle">Metonic cycle</a> and the 223-month <a href="/wiki/Eclipse_cycle" title="Eclipse cycle">eclipse cycle</a> on the tides.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Dry_land">Dry land</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=4" title="Edit section: Dry land">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Sea_level&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(August 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:192px;"><a class="image" href="/wiki/File:BadwaterSL.JPG"><img alt="" class="thumbimage" data-file-height="2048" data-file-width="1536" height="253" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BadwaterSL.JPG/190px-BadwaterSL.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/69/BadwaterSL.JPG/285px-BadwaterSL.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/69/BadwaterSL.JPG/380px-BadwaterSL.JPG 2x" width="190"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:BadwaterSL.JPG" title="Enlarge"></a></div>
+Sea level sign seen on cliff (circled in red) at <a href="/wiki/Badwater_Basin" title="Badwater Basin">Badwater Basin</a>, <a href="/wiki/Death_Valley_National_Park" title="Death Valley National Park">Death Valley National Park</a></div>
+</div>
+</div>
+<p>Several terms are used to describe the changing relationships between sea level and dry land. When the term "relative" is used, it means change relative to a fixed point in the sediment pile. The term "eustatic" refers to global changes in sea level relative to a fixed point, such as the centre of the earth, for example as a result of melting ice-caps. The term "steric" refers to global changes in sea level due to <a href="/wiki/Thermal_expansion" title="Thermal expansion">thermal expansion</a> and <a href="/wiki/Salinity" title="Salinity">salinity</a> variations. The term "isostatic" refers to changes in the level of the land relative to a fixed point in the earth, possibly due to thermal buoyancy or <a href="/wiki/Tectonics" title="Tectonics">tectonic</a> effects; it implies no change in the volume of water in the oceans. The melting of <a href="/wiki/Glacier" title="Glacier">glaciers</a> at the end of <a href="/wiki/Ice_age" title="Ice age">ice ages</a> is one example of eustatic <a href="/wiki/Sea_level_rise" title="Sea level rise">sea level rise</a>. The <a href="/wiki/Subsidence" title="Subsidence">subsidence</a> of land due to the withdrawal of <a href="/wiki/Groundwater" title="Groundwater">groundwater</a> is an isostatic cause of relative sea level rise. <a class="mw-redirect" href="/wiki/Paleoclimatologist" title="Paleoclimatologist">Paleoclimatologists</a> can track sea level by examining the rocks deposited along coasts that are very tectonically stable, like the east coast of North America. Areas like volcanic islands are experiencing relative sea level rise as a result of isostatic cooling of the rock which causes the land to sink.</p>
+<p>On other planets that lack a liquid ocean, <a class="mw-redirect" href="/wiki/Planetologist" title="Planetologist">planetologists</a> can calculate a "mean altitude" by averaging the heights of all points on the surface. This altitude, sometimes referred to as a "sea level", serves equivalently as a reference for the height of planetary features.</p>
+<h2><span class="mw-headline" id="Change"><span id="Change"></span> Change</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=5" title="Edit section: Change">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a href="/wiki/Past_sea_level" title="Past sea level">Past sea level</a>, <a class="mw-redirect" href="/wiki/Current_sea-level_rise" title="Current sea-level rise">Current sea-level rise</a>, <a href="/wiki/Future_sea_level" title="Future sea level">Future sea level</a>, or <a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a>.</div>
+<h3><span class="mw-headline" id="Local_and_eustatic">Local and eustatic</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=6" title="Edit section: Local and eustatic">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Mass_balance_atmospheric_circulation.png"><img alt="" class="thumbimage" data-file-height="423" data-file-width="700" height="133" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mass_balance_atmospheric_circulation.png/220px-Mass_balance_atmospheric_circulation.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mass_balance_atmospheric_circulation.png/330px-Mass_balance_atmospheric_circulation.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Mass_balance_atmospheric_circulation.png/440px-Mass_balance_atmospheric_circulation.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mass_balance_atmospheric_circulation.png" title="Enlarge"></a></div>
+<a href="/wiki/Water_cycle" title="Water cycle">Water cycles</a> between ocean, <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">atmosphere</a> and <a href="/wiki/Glacier" title="Glacier">glaciers</a></div>
+</div>
+</div>
+<p>Local mean sea level (LMSL) is defined as the height of the sea with respect to a land benchmark, averaged over a period of time (such as a month or a year) long enough that fluctuations caused by <a class="mw-redirect" href="/wiki/Ocean_surface_wave" title="Ocean surface wave">waves</a> and <a href="/wiki/Tide" title="Tide">tides</a> are smoothed out. One must adjust perceived changes in LMSL to account for vertical movements of the land, which can be of the same order (mm/yr) as <a class="mw-redirect" href="/wiki/Sea_level_change" title="Sea level change">sea level changes</a>. Some land movements occur because of <a href="/wiki/Isostasy" title="Isostasy">isostatic</a> adjustment of the <a href="/wiki/Mantle_(geology)" title="Mantle (geology)">mantle</a> to the melting of <a href="/wiki/Ice_sheet" title="Ice sheet">ice sheets</a> at the end of the <a href="/wiki/Last_glacial_period" title="Last glacial period">last ice age</a>. The weight of the ice sheet depresses the underlying land, and when the ice melts away the <a href="/wiki/Post-glacial_rebound" title="Post-glacial rebound">land slowly rebounds</a>. Changes in ground-based ice volume also affect local and regional sea levels by the readjustment of the <a href="/wiki/Geoid" title="Geoid">geoid</a> and <a href="/wiki/True_polar_wander" title="True polar wander">true polar wander</a>. <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a>, <a href="/wiki/Ocean_current" title="Ocean current">ocean currents</a> and local ocean temperature changes can affect LMSL as well.</p>
+<p><i>Eustatic</i> change (as opposed to local change) results in an alteration to the global sea levels due to changes in either the volume of water in the world's oceans or net changes in the volume of the <a class="mw-redirect" href="/wiki/Ocean_basin" title="Ocean basin">ocean basins</a>.<sup class="reference" id="cite_ref-Oilfield_Glossary_6-0"><a href="#cite_note-Oilfield_Glossary-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Short_term_and_periodic_changes">Short term and periodic changes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=7" title="Edit section: Short term and periodic changes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Glaciers_and_Sea_Level_Rise_(8742463970).jpg"><img alt="" class="thumbimage" data-file-height="592" data-file-width="1000" height="130" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Glaciers_and_Sea_Level_Rise_%288742463970%29.jpg/220px-Glaciers_and_Sea_Level_Rise_%288742463970%29.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Glaciers_and_Sea_Level_Rise_%288742463970%29.jpg/330px-Glaciers_and_Sea_Level_Rise_%288742463970%29.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Glaciers_and_Sea_Level_Rise_%288742463970%29.jpg/440px-Glaciers_and_Sea_Level_Rise_%288742463970%29.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Glaciers_and_Sea_Level_Rise_(8742463970).jpg" title="Enlarge"></a></div>
+Melting glaciers can cause a change in sea level</div>
+</div>
+</div>
+<p>There are many factors which can produce short-term (a few minutes to 14 months) changes in sea level. Two major mechanisms are causing sea level to rise. First, shrinking land ice, such as mountain glaciers and polar ice sheets, is releasing water into the oceans. Second, as ocean temperatures rise, the warmer water expands.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<table>
+<tr>
+<th colspan="3" style="background:lightgrey;">Periodic sea level changes</th>
+</tr>
+<tr>
+<td>Diurnal and semidiurnal astronomical tides</td>
+<td>12–24 h P</td>
+<td>0.2–10+ m</td>
+</tr>
+<tr>
+<td>Long-period tides</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Rotational variations (<a href="/wiki/Chandler_wobble" title="Chandler wobble">Chandler wobble</a>)</td>
+<td>14-month P</td>
+</tr>
+<tr>
+<th colspan="3" style="background:lightgrey;">Meteorological and oceanographic fluctuations</th>
+</tr>
+<tr>
+<td>Atmospheric pressure</td>
+<td>Hours to months</td>
+<td>−0.7 to 1.3 m</td>
+</tr>
+<tr>
+<td>Winds (<a href="/wiki/Storm_surge" title="Storm surge">storm surges</a>)</td>
+<td>1–5 days</td>
+<td>Up to 5 m</td>
+</tr>
+<tr>
+<td><a href="/wiki/Evaporation" title="Evaporation">Evaporation</a> and <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> (may also follow long-term pattern)</td>
+<td>Days to weeks</td>
+<td> </td>
+</tr>
+<tr>
+<td>Ocean surface <a href="/wiki/Topography" title="Topography">topography</a> (changes in water <a href="/wiki/Density" title="Density">density</a> and currents)</td>
+<td>Days to weeks</td>
+<td>Up to 1 m</td>
+</tr>
+<tr>
+<td><a href="/wiki/El_Ni%C3%B1o" title="El Niño">El Niño</a>/<a class="mw-redirect" href="/wiki/Southern_oscillation" title="Southern oscillation">southern oscillation</a></td>
+<td>6 mo every 5–10 yr</td>
+<td>Up to 0.6 m</td>
+</tr>
+<tr>
+<th colspan="3" style="background:lightgrey;">Seasonal variations</th>
+</tr>
+<tr>
+<td>Seasonal water balance among oceans (Atlantic, Pacific, Indian)</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>Seasonal variations in slope of water surface</td>
+<td> </td>
+<td> </td>
+</tr>
+<tr>
+<td>River runoff/floods</td>
+<td>2 months</td>
+<td>1 m</td>
+</tr>
+<tr>
+<td>Seasonal water density changes (temperature and <a href="/wiki/Salinity" title="Salinity">salinity</a>)</td>
+<td>6 months</td>
+<td>0.2 m</td>
+</tr>
+<tr>
+<th colspan="3" style="background:lightgrey;">Seiches</th>
+</tr>
+<tr>
+<td><a href="/wiki/Seiche" title="Seiche">Seiches</a> (standing waves)</td>
+<td>Minutes to hours</td>
+<td>Up to 2 m</td>
+</tr>
+<tr>
+<th colspan="3" style="background:lightgrey;">Earthquakes</th>
+</tr>
+<tr>
+<td><a href="/wiki/Tsunami" title="Tsunami">Tsunamis</a> (generate catastrophic long-period waves)</td>
+<td>Hours</td>
+<td>Up to 10 m</td>
+</tr>
+<tr>
+<td>Abrupt change in land level</td>
+<td>Minutes</td>
+<td>Up to 10 m</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Recent_changes">Recent changes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=8" title="Edit section: Recent changes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Current_sea_level_rise" title="Current sea level rise">Current sea level rise</a></div>
+<div class="hatnote navigation-not-searchable" role="note">Further information: <a href="/wiki/Global_warming" title="Global warming">Global warming</a>, <a href="/wiki/Ocean_heat_content" title="Ocean heat content">Ocean heat content</a>, and <a href="/wiki/Effects_of_global_warming_on_oceans" title="Effects of global warming on oceans">Effects of global warming on oceans</a></div>
+<p>For at least the last 100 years, sea level has been rising at an average rate of about 1.8 mm (0.1 in) per year.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Most of this rise can be attributed to the increase in temperature of the sea and the resulting slight <a href="/wiki/Thermal_expansion" title="Thermal expansion">thermal expansion</a> of the upper 500 metres (1,640 feet) of sea water. Additional contributions, as much as one-quarter of the total, come from water sources on land, such as melting snow and <a href="/wiki/Glacier" title="Glacier">glaciers</a> and extraction of groundwater for irrigation and other agricultural and human needs.<sup class="reference" id="cite_ref-IPCC4_9-0"><a href="#cite_note-IPCC4-9">[9]</a></sup></p>
+<h2><span class="mw-headline" id="Aviation">Aviation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=9" title="Edit section: Aviation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Altitude#Aviation" title="Altitude">Altitude in aviation</a></div>
+<p>Pilots can estimate height above sea level with an <a href="/wiki/Altimeter" title="Altimeter">altimeter</a> set to a defined <a class="mw-redirect" href="/wiki/Barometric_pressure" title="Barometric pressure">barometric pressure</a>. Generally, the pressure used to set the altimeter is the barometric pressure that would exist at MSL in the region being flown over. This pressure is referred to as either <a href="/wiki/QNH" title="QNH">QNH</a> or "altimeter" and is transmitted to the pilot by radio from <a href="/wiki/Air_traffic_control" title="Air traffic control">air traffic control</a> (ATC) or an <a href="/wiki/Automatic_terminal_information_service" title="Automatic terminal information service">automatic terminal information service</a> (ATIS). Since the terrain elevation is also referenced to MSL, the pilot can estimate height above ground by subtracting the terrain altitude from the altimeter reading. <a class="mw-redirect" href="/wiki/Aviation_chart" title="Aviation chart">Aviation charts</a> are divided into boxes and the maximum terrain altitude from MSL in each box is clearly indicated. Once above the transition altitude, the altimeter is set to the <a class="mw-redirect" href="/wiki/International_standard_atmosphere" title="International standard atmosphere">international standard atmosphere</a> (ISA) pressure at MSL which is 1013.25 hPa or 29.92 inHg.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-width" style="-moz-column-width: 26em; -webkit-column-width: 26em; column-width: 26em;">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Above_ground_level" title="Above ground level">Above ground level</a></li>
+<li><a href="/wiki/Before_Present" title="Before Present">Before Present</a></li>
+<li><a href="/wiki/Chart_datum" title="Chart datum">Chart datum</a></li>
+<li><a href="/wiki/Extreme_points_of_Earth" title="Extreme points of Earth">Extreme points of Earth</a></li>
+<li><a href="/wiki/Geopotential_height" title="Geopotential height">Geopotential height</a></li>
+<li><a href="/wiki/Height_above_average_terrain" title="Height above average terrain">Height above average terrain</a></li>
+<li><a href="/wiki/List_of_places_on_land_with_elevations_below_sea_level" title="List of places on land with elevations below sea level">List of places on land with elevations below sea level</a></li>
+<li><a class="mw-redirect" href="/wiki/Marine_terrace" title="Marine terrace">Marine terrace</a></li>
+<li><a href="/wiki/Meltwater_pulse_1A" title="Meltwater pulse 1A">Meltwater pulse 1A</a></li>
+<li><a href="/wiki/Metres_above_the_Adriatic" title="Metres above the Adriatic">Metres above the Adriatic</a></li>
+<li><i><a class="mw-redirect" href="/wiki/Normaal_Amsterdams_Peil" title="Normaal Amsterdams Peil">Normaal Amsterdams Peil</a></i></li>
+<li><a href="/wiki/Normal_height" title="Normal height">Normal height</a></li>
+<li><i><a href="/wiki/Normalh%C3%B6hennull" title="Normalhöhennull">Normalhöhennull</a></i></li>
+<li><i><a href="/wiki/Normalnull" title="Normalnull">Normalnull</a></i></li>
+<li><a href="/wiki/North_West_Shelf_Operational_Oceanographic_System" title="North West Shelf Operational Oceanographic System">North West Shelf Operational Oceanographic System</a></li>
+<li><a href="/wiki/Ordnance_datum" title="Ordnance datum">Ordnance datum</a> (UK)</li>
+<li><a href="/wiki/Orthometric_height" title="Orthometric height">Orthometric height</a></li>
+<li><a class="mw-redirect" href="/wiki/Vertical_datum" title="Vertical datum">Vertical datum</a></li>
+<li><a href="/wiki/World_Geodetic_System" title="World Geodetic System">World Geodetic System</a></li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.straightdope.com/columns/read/148/what-is-sea-level#1" rel="nofollow"><i>What is "Mean Sea Level"?</i></a> (<a href="/wiki/Proudman_Oceanographic_Laboratory" title="Proudman Oceanographic Laboratory">Proudman Oceanographic Laboratory</a>).</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Solomon <i>et al.</i>, <a class="external text" href="http://www.ipcc.ch/publications_and_data/ar4/wg1/en/tssts-3-4.html" rel="nofollow">Technical Summary, Section 3.4 Consistency Among Observations</a> in <a href="#CITEREFIPCC_AR4_WG12007">IPCC AR4 WG1 2007</a>; Hegerl <i>et al.</i>, <a class="external text" href="http://www.ipcc.ch/publications_and_data/ar4/syr/en/mains1-3.html" rel="nofollow">Executive summary, Section 1.3: Consistency of changes in physical and biological systems with warming</a> in <a href="#CITEREFIPCC_AR4_SYR2007">IPCC AR4 SYR 2007</a>.</span></li>
+<li id="cite_note-USNRC32-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-USNRC32_3-0">^</a></b></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/National_Research_Council_(United_States)" title="National Research Council (United States)">US National Research Council</a>, <i>Bulletin of the National Research Council 1932</i> page 270</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a class="external text" href="http://onlinelibrary.wiley.com/doi/10.1029/94JC00478/full" rel="nofollow">"Evaluating models of sea state bias in satellite altimetry"</a>. <i>Journal of Geophysical Research</i>. NASA. <b>99</b> (C6): 12581. 1994. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1994JGR....9912581G" rel="nofollow">1994JGR....9912581G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F94JC00478" rel="nofollow">10.1029/94JC00478</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+level&amp;rft.atitle=Evaluating+models+of+sea+state+bias+in+satellite+altimetry&amp;rft.date=1994&amp;rft.genre=article&amp;rft.issue=C6&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.pages=12581&amp;rft.volume=99&amp;rft_id=http%3A%2F%2Fonlinelibrary.wiley.com%2Fdoi%2F10.1029%2F94JC00478%2Ffull&amp;rft_id=info%3Abibcode%2F1994JGR....9912581G&amp;rft_id=info%3Adoi%2F10.1029%2F94JC00478&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><a href="/wiki/Roman_Glazman" title="Roman Glazman">Roman Glazman</a> Greysukh, A. M., Zlotnicki, V.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.celticnz.co.nz/US15.html" rel="nofollow">"Stonehenge pt 3"</a>. <i>www.celticnz.co.nz</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2017-02-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+level&amp;rft.atitle=Stonehenge+pt+3&amp;rft.genre=unknown&amp;rft.jtitle=www.celticnz.co.nz&amp;rft_id=http%3A%2F%2Fwww.celticnz.co.nz%2FUS15.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Oilfield_Glossary-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Oilfield_Glossary_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.glossary.oilfield.slb.com/Display.cfm?Term=eustatic%20sea%20level" rel="nofollow">"Eustatic sea level"</a>. <i>Oilfield Glossary</i>. Schlumberger Limited<span class="reference-accessdate">. Retrieved <span class="nowrap">10 June</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+level&amp;rft.atitle=Eustatic+sea+level&amp;rft.genre=unknown&amp;rft.jtitle=Oilfield+Glossary&amp;rft_id=http%3A%2F%2Fwww.glossary.oilfield.slb.com%2FDisplay.cfm%3FTerm%3Deustatic%2520sea%2520level&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.climatehotmap.org/global-warming-effects/sea-level.html" rel="nofollow">"Global Warming Effects on Sea Level"</a>. <i>www.climatehotmap.org</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-12-02</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+level&amp;rft.atitle=Global+Warming+Effects+on+Sea+Level&amp;rft.genre=unknown&amp;rft.jtitle=www.climatehotmap.org&amp;rft_id=http%3A%2F%2Fwww.climatehotmap.org%2Fglobal-warming-effects%2Fsea-level.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bruce C. Douglas (1997). "Global Sea Rise: A Redetermination". <i>Surveys in Geophysics</i>. <b>18</b> (2/3): 279–292. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1997SGeo...18..279D" rel="nofollow">1997SGeo...18..279D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1023%2FA%3A1006544227856" rel="nofollow">10.1023/A:1006544227856</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+level&amp;rft.atitle=Global+Sea+Rise%3A+A+Redetermination&amp;rft.au=Bruce+C.+Douglas&amp;rft.date=1997&amp;rft.genre=article&amp;rft.issue=2%2F3&amp;rft.jtitle=Surveys+in+Geophysics&amp;rft.pages=279-292&amp;rft.volume=18&amp;rft_id=info%3Abibcode%2F1997SGeo...18..279D&amp;rft_id=info%3Adoi%2F10.1023%2FA%3A1006544227856&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-IPCC4-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-IPCC4_9-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Bindoff, N.L.; Willebrand, J.; Artale, V.; Cazenave, A.; Gregory, J.; Gulev, S.; Hanawa, K.; Le Quéré, C.; Levitus, S.; Nojiri, Y.; Shum, C.K.; Talley, L.D.; Unnikrishnan, A. (2007). <a class="external text" href="http://www.ipcc.ch/pdf/assessment-report/ar4/wg1/ar4-wg1-chapter5.pdf" rel="nofollow">"Observations: Oceanic Climate Change and Sea Level"</a> <span style="font-size:85%;">(PDF)</span>. In Solomon, S.; Qin, D.; Manning, M.; Chen, Z.; Marquis, M.; Averyt, K.B.; Tignor, M.; Miller, H.L. <i>Climate Change 2007: The Physical Science Basis. Contribution of Working Group I to the Fourth Assessment Report of the Intergovernmental Panel on Climate Change</i>. Cambridge University Press.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+level&amp;rft.atitle=Observations%3A+Oceanic+Climate+Change+and+Sea+Level&amp;rft.au=Artale%2C+V.&amp;rft.au=Cazenave%2C+A.&amp;rft.au=Gregory%2C+J.&amp;rft.au=Gulev%2C+S.&amp;rft.au=Hanawa%2C+K.&amp;rft.au=Le+Qu%C3%A9r%C3%A9%2C+C.&amp;rft.au=Levitus%2C+S.&amp;rft.au=Nojiri%2C+Y.&amp;rft.au=Shum%2C+C.K.&amp;rft.au=Talley%2C+L.D.&amp;rft.au=Unnikrishnan%2C+A.&amp;rft.au=Willebrand%2C+J.&amp;rft.aufirst=N.L.&amp;rft.aulast=Bindoff&amp;rft.btitle=Climate+Change+2007%3A+The+Physical+Science+Basis.+Contribution+of+Working+Group+I+to+the++Fourth+Assessment+Report+of+the+Intergovernmental+Panel+on+Climate+Change&amp;rft.date=2007&amp;rft.genre=bookitem&amp;rft.pub=Cambridge+University+Press&amp;rft_id=http%3A%2F%2Fwww.ipcc.ch%2Fpdf%2Fassessment-report%2Far4%2Fwg1%2Far4-wg1-chapter5.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">US <a href="/wiki/Federal_Aviation_Administration" title="Federal Aviation Administration">Federal Aviation Administration</a>, Code of Federal Regulations <a class="external text" href="http://rgl.faa.gov/Regulatory_and_Guidance_Library/rgFar.nsf/3276afbe72d00920852566c700670189/da37f1d83828491d852566cf00615210!OpenDocument" rel="nofollow">Sec. 91.121</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_level&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="400" data-file-width="400" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/40px-Wikibooks-logo-en-noslogan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/60px-Wikibooks-logo-en-noslogan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/df/Wikibooks-logo-en-noslogan.svg/80px-Wikibooks-logo-en-noslogan.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">The Wikibook <i><a class="extiw" href="https://en.wikibooks.org/wiki/Historical_Geology" title="wikibooks:Historical Geology">Historical Geology</a></i> has a page on the topic of: <i><b><a class="extiw" href="https://en.wikibooks.org/wiki/Historical_Geology/Sea_level_variations" title="wikibooks:Historical Geology/Sea level variations">Sea level variations</a></b></i></td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Sea_level" title="commons:Category:Sea level">Sea level</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.cmar.csiro.au/sealevel" rel="nofollow">Sea Level Rise:Understanding the past – Improving projections for the future</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20100310181956/http://www.pol.ac.uk/psmsl/" rel="nofollow">Permanent Service for Mean Sea Level</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20090708014832/http://www.agu.org/revgeophys/dougla01/dougla01.html" rel="nofollow">Global sea level change: Determination and interpretation</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20090710124721/http://yosemite.epa.gov/oar/globalwarming.nsf/content/ResourceCenterPublicationsSeaLevelRiseIndex.html" rel="nofollow">Environment Protection Agency Sea level rise reports</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20110721060035/http://www.homepage.montana.edu/~geol445/hyperglac/sealevel2/index.htm" rel="nofollow">Properties of isostasy and eustasy</a></li>
+<li><a class="external text" href="http://sealevel.jpl.nasa.gov/" rel="nofollow">Measuring Sea Level from Space</a></li>
+<li><a class="external text" href="http://www.scivee.tv/node/8324" rel="nofollow">Rising Tide Video: Scripps Institution of Oceanography</a></li>
+<li><a class="external text" href="http://tidesandcurrents.noaa.gov/sltrends/sltrends.shtml" rel="nofollow">Sea Levels Online: National Ocean Service (CO-OPS)</a></li>
+<li><a class="external text" href="http://www.sonel.org/" rel="nofollow">Système d'Observation du Niveau des Eaux Littorales (SONEL)</a></li>
+<li><a class="external text" href="http://ice.tsu.ru/index.php?option=com_content&amp;view=category&amp;layout=blog&amp;id=1&amp;Itemid=138" rel="nofollow">Sea level rise – How much and how fast will sea level rise over the coming centuries?</a></li>
+</ul>
+<div aria-labelledby="Physical_oceanography" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Physical_oceanography" title="Template:Physical oceanography"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Physical_oceanography" title="Template talk:Physical oceanography"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Physical_oceanography&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Physical_oceanography" style="font-size:114%;margin:0 4em"><a href="/wiki/Physical_oceanography" title="Physical oceanography">Physical oceanography</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wind_wave" title="Wind wave">Waves</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airy_wave_theory" title="Airy wave theory">Airy wave theory</a></li>
+<li><a href="/wiki/Ballantine_scale" title="Ballantine scale">Ballantine scale</a></li>
+<li><a href="/wiki/Modulational_instability" title="Modulational instability">Benjamin–Feir instability</a></li>
+<li><a href="/wiki/Boussinesq_approximation_(water_waves)" title="Boussinesq approximation (water waves)">Boussinesq approximation</a></li>
+<li><a href="/wiki/Breaking_wave" title="Breaking wave">Breaking wave</a></li>
+<li><a href="/wiki/Clapotis" title="Clapotis">Clapotis</a></li>
+<li><a href="/wiki/Cnoidal_wave" title="Cnoidal wave">Cnoidal wave</a></li>
+<li><a href="/wiki/Cross_sea" title="Cross sea">Cross sea</a></li>
+<li><a href="/wiki/Dispersion_(water_waves)" title="Dispersion (water waves)">Dispersion</a></li>
+<li><a href="/wiki/Edge_wave" title="Edge wave">Edge wave</a></li>
+<li><a href="/wiki/Equatorial_wave" title="Equatorial wave">Equatorial waves</a></li>
+<li><a href="/wiki/Fetch_(geography)" title="Fetch (geography)">Fetch</a></li>
+<li><a href="/wiki/Gravity_wave" title="Gravity wave">Gravity wave</a></li>
+<li><a href="/wiki/Green%27s_law" title="Green's law">Green's law</a></li>
+<li><a href="/wiki/Infragravity_wave" title="Infragravity wave">Infragravity wave</a></li>
+<li><a href="/wiki/Internal_wave" title="Internal wave">Internal wave</a></li>
+<li><a href="/wiki/Iribarren_number" title="Iribarren number">Iribarren number</a></li>
+<li><a href="/wiki/Kelvin_wave" title="Kelvin wave">Kelvin wave</a></li>
+<li><a href="/wiki/Kinematic_wave" title="Kinematic wave">Kinematic wave</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Luke%27s_variational_principle" title="Luke's variational principle">Luke's variational principle</a></li>
+<li><a href="/wiki/Mild-slope_equation" title="Mild-slope equation">Mild-slope equation</a></li>
+<li><a href="/wiki/Radiation_stress" title="Radiation stress">Radiation stress</a></li>
+<li><a href="/wiki/Rogue_wave" title="Rogue wave">Rogue wave</a></li>
+<li><a href="/wiki/Rossby_wave" title="Rossby wave">Rossby wave</a></li>
+<li><a href="/wiki/Rossby-gravity_waves" title="Rossby-gravity waves">Rossby-gravity waves</a></li>
+<li><a href="/wiki/Sea_state" title="Sea state">Sea state</a></li>
+<li><a href="/wiki/Seiche" title="Seiche">Seiche</a></li>
+<li><a href="/wiki/Significant_wave_height" title="Significant wave height">Significant wave height</a></li>
+<li><a href="/wiki/Soliton" title="Soliton">Soliton</a></li>
+<li><a href="/wiki/Stokes_boundary_layer" title="Stokes boundary layer">Stokes boundary layer</a></li>
+<li><a href="/wiki/Stokes_drift" title="Stokes drift">Stokes drift</a></li>
+<li><a href="/wiki/Stokes_wave" title="Stokes wave">Stokes wave</a></li>
+<li><a href="/wiki/Swell_(ocean)" title="Swell (ocean)">Swell</a></li>
+<li><a href="/wiki/Trochoidal_wave" title="Trochoidal wave">Trochoidal wave</a></li>
+<li><a href="/wiki/Tsunami" title="Tsunami">Tsunami</a>
+<ul>
+<li><a href="/wiki/Megatsunami" title="Megatsunami">megatsunami</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Undertow_(water_waves)" title="Undertow (water waves)">Undertow</a></li>
+<li><a href="/wiki/Ursell_number" title="Ursell number">Ursell number</a></li>
+<li><a href="/wiki/Wave_action_(continuum_mechanics)" title="Wave action (continuum mechanics)">Wave action</a></li>
+<li><a href="/wiki/Wave_base" title="Wave base">Wave base</a></li>
+<li><a href="/wiki/Wave_height" title="Wave height">Wave height</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave power</a></li>
+<li><a href="/wiki/Wave_radar" title="Wave radar">Wave radar</a></li>
+<li><a href="/wiki/Wave_setup" title="Wave setup">Wave setup</a></li>
+<li><a href="/wiki/Wave_shoaling" title="Wave shoaling">Wave shoaling</a></li>
+<li><a href="/wiki/Wave_turbulence" title="Wave turbulence">Wave turbulence</a></li>
+<li><a href="/wiki/Wave%E2%80%93current_interaction" title="Wave–current interaction">Wave–current interaction</a></li>
+<li><a href="/wiki/Waves_and_shallow_water" title="Waves and shallow water">Waves and shallow water</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/One-dimensional_Saint-Venant_equations" title="One-dimensional Saint-Venant equations">one-dimensional Saint-Venant equations</a></li>
+<li><a href="/wiki/Shallow_water_equations" title="Shallow water equations">shallow water equations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wind_wave" title="Wind wave">Wind wave</a>
+<ul>
+<li><a href="/wiki/Wind_wave_model" title="Wind wave model">model</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Upwelling.svg" title="Upwelling"><img alt="Upwelling" data-file-height="242" data-file-width="365" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/140px-Upwelling.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/210px-Upwelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/280px-Upwelling.svg.png 2x" width="140"/></a><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<a class="image" href="/wiki/File:Antarctic_bottom_water.svg" title="Antarctic bottom water"><img alt="Antarctic bottom water" data-file-height="470" data-file-width="745" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/140px-Antarctic_bottom_water.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/210px-Antarctic_bottom_water.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/280px-Antarctic_bottom_water.svg.png 2x" width="140"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_current" title="Ocean current">Circulation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a href="/wiki/Boundary_current" title="Boundary current">Boundary current</a></li>
+<li><a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a></li>
+<li><a href="/wiki/Coriolis%E2%80%93Stokes_force" title="Coriolis–Stokes force">Coriolis–Stokes force</a></li>
+<li><a href="/wiki/Craik%E2%80%93Leibovich_vortex_force" title="Craik–Leibovich vortex force">Craik–Leibovich vortex force</a></li>
+<li><a href="/wiki/Downwelling" title="Downwelling">Downwelling</a></li>
+<li><a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">Eddy</a></li>
+<li><a href="/wiki/Ekman_layer" title="Ekman layer">Ekman layer</a></li>
+<li><a href="/wiki/Ekman_spiral" title="Ekman spiral">Ekman spiral</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">El Niño–Southern Oscillation</a></li>
+<li><a href="/wiki/General_circulation_model" title="General circulation model">General circulation model</a></li>
+<li><a href="/wiki/Geostrophic_current" title="Geostrophic current">Geostrophic current</a></li>
+<li><a href="/wiki/Global_Ocean_Data_Analysis_Project" title="Global Ocean Data Analysis Project">Global Ocean Data Analysis Project</a></li>
+<li><a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></li>
+<li><a href="/wiki/Halothermal_circulation" title="Halothermal circulation">Halothermal circulation</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt Current</a></li>
+<li><a href="/wiki/Hydrothermal_circulation" title="Hydrothermal circulation">Hydrothermal circulation</a></li>
+<li><a href="/wiki/Langmuir_circulation" title="Langmuir circulation">Langmuir circulation</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop Current</a></li>
+<li><a href="/wiki/Modular_Ocean_Model" title="Modular Ocean Model">Modular Ocean Model</a></li>
+<li><a href="/wiki/Ocean_dynamics" title="Ocean dynamics">Ocean dynamics</a></li>
+<li><a href="/wiki/Ocean_gyre" title="Ocean gyre">Ocean gyre</a></li>
+<li><a href="/wiki/Princeton_Ocean_Model" title="Princeton Ocean Model">Princeton Ocean Model</a></li>
+<li><a href="/wiki/Rip_current" title="Rip current">Rip current</a></li>
+<li><a href="/wiki/Subsurface_currents" title="Subsurface currents">Subsurface currents</a></li>
+<li><a href="/wiki/Sverdrup_balance" title="Sverdrup balance">Sverdrup balance</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a>
+<ul>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">shutdown</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></li>
+<li><a href="/wiki/Whirlpool" title="Whirlpool">Whirlpool</a></li>
+<li><a href="/wiki/World_Ocean_Circulation_Experiment" title="World Ocean Circulation Experiment">World Ocean Circulation Experiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tide" title="Tide">Tides</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amphidromic_point" title="Amphidromic point">Amphidromic point</a></li>
+<li><a href="/wiki/Earth_tide" title="Earth tide">Earth tide</a></li>
+<li><a href="/wiki/Head_of_tide" title="Head of tide">Head of tide</a></li>
+<li><a href="/wiki/Internal_tide" title="Internal tide">Internal tide</a></li>
+<li><a href="/wiki/Lunitidal_interval" title="Lunitidal interval">Lunitidal interval</a></li>
+<li><a href="/wiki/Perigean_spring_tide" title="Perigean spring tide">Perigean spring tide</a></li>
+<li><a href="/wiki/Rip_tide" title="Rip tide">Rip tide</a></li>
+<li><a href="/wiki/Rule_of_twelfths" title="Rule of twelfths">Rule of twelfths</a></li>
+<li><a href="/wiki/Slack_water" title="Slack water">Slack water</a></li>
+<li><a href="/wiki/Tidal_bore" title="Tidal bore">Tidal bore</a></li>
+<li><a href="/wiki/Tidal_force" title="Tidal force">Tidal force</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+<li><a href="/wiki/Tidal_race" title="Tidal race">Tidal race</a></li>
+<li><a href="/wiki/Tidal_range" title="Tidal range">Tidal range</a></li>
+<li><a href="/wiki/Tidal_resonance" title="Tidal resonance">Tidal resonance</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Tideline" title="Tideline">Tideline</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Landform" title="Landform">Landforms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abyssal_fan" title="Abyssal fan">Abyssal fan</a></li>
+<li><a href="/wiki/Abyssal_plain" title="Abyssal plain">Abyssal plain</a></li>
+<li><a href="/wiki/Atoll" title="Atoll">Atoll</a></li>
+<li><a href="/wiki/Bathymetric_chart" title="Bathymetric chart">Bathymetric chart</a></li>
+<li><a href="/wiki/Coastal_geography" title="Coastal geography">Coastal geography</a></li>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seep</a></li>
+<li><a href="/wiki/Continental_margin" title="Continental margin">Continental margin</a></li>
+<li><a href="/wiki/Continental_rise" title="Continental rise">Continental rise</a></li>
+<li><a href="/wiki/Continental_shelf" title="Continental shelf">Continental shelf</a></li>
+<li><a href="/wiki/Contourite" title="Contourite">Contourite</a></li>
+<li><a href="/wiki/Guyot" title="Guyot">Guyot</a></li>
+<li><a href="/wiki/Hydrography" title="Hydrography">Hydrography</a></li>
+<li><a href="/wiki/Oceanic_basin" title="Oceanic basin">Oceanic basin</a></li>
+<li><a href="/wiki/Oceanic_plateau" title="Oceanic plateau">Oceanic plateau</a></li>
+<li><a href="/wiki/Oceanic_trench" title="Oceanic trench">Oceanic trench</a></li>
+<li><a href="/wiki/Passive_margin" title="Passive margin">Passive margin</a></li>
+<li><a href="/wiki/Seabed" title="Seabed">Seabed</a></li>
+<li><a href="/wiki/Seamount" title="Seamount">Seamount</a></li>
+<li><a href="/wiki/Submarine_canyon" title="Submarine canyon">Submarine canyon</a></li>
+<li><a href="/wiki/Submarine_volcano" title="Submarine volcano">Submarine volcano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate<br/>
+tectonics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convergent_boundary" title="Convergent boundary">Convergent boundary</a></li>
+<li><a href="/wiki/Divergent_boundary" title="Divergent boundary">Divergent boundary</a></li>
+<li><a href="/wiki/Fracture_zone" title="Fracture zone">Fracture zone</a></li>
+<li><a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">Hydrothermal vent</a></li>
+<li><a href="/wiki/Marine_geology" title="Marine geology">Marine geology</a></li>
+<li><a href="/wiki/Mid-ocean_ridge" title="Mid-ocean ridge">Mid-ocean ridge</a></li>
+<li><a href="/wiki/Mohorovi%C4%8Di%C4%87_discontinuity" title="Mohorovičić discontinuity">Mohorovičić discontinuity</a></li>
+<li><a href="/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis" title="Vine–Matthews–Morley hypothesis">Vine–Matthews–Morley hypothesis</a></li>
+<li><a href="/wiki/Oceanic_crust" title="Oceanic crust">Oceanic crust</a></li>
+<li><a href="/wiki/Outer_trench_swell" title="Outer trench swell">Outer trench swell</a></li>
+<li><a href="/wiki/Ridge_push" title="Ridge push">Ridge push</a></li>
+<li><a href="/wiki/Seafloor_spreading" title="Seafloor spreading">Seafloor spreading</a></li>
+<li><a href="/wiki/Slab_pull" title="Slab pull">Slab pull</a></li>
+<li><a href="/wiki/Slab_suction" title="Slab suction">Slab suction</a></li>
+<li><a href="/wiki/Slab_window" title="Slab window">Slab window</a></li>
+<li><a href="/wiki/Subduction" title="Subduction">Subduction</a></li>
+<li><a href="/wiki/Transform_fault" title="Transform fault">Transform fault</a></li>
+<li><a href="/wiki/Volcanic_arc" title="Volcanic arc">Volcanic arc</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ocean zones</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Benthic_zone" title="Benthic zone">Benthic</a></li>
+<li><a href="/wiki/Deep_ocean_water" title="Deep ocean water">Deep ocean water</a></li>
+<li><a href="/wiki/Deep_sea" title="Deep sea">Deep sea</a></li>
+<li><a href="/wiki/Littoral_zone" title="Littoral zone">Littoral</a></li>
+<li><a href="/wiki/Mesopelagic_zone" title="Mesopelagic zone">Mesopelagic</a></li>
+<li><a href="/wiki/Oceanic_zone" title="Oceanic zone">Oceanic</a></li>
+<li><a href="/wiki/Pelagic_zone" title="Pelagic zone">Pelagic</a></li>
+<li><a href="/wiki/Photic_zone" title="Photic zone">Photic</a></li>
+<li><a href="/wiki/Surf_zone" title="Surf zone">Surf</a></li>
+<li><a href="/wiki/Swash" title="Swash">Swash</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a class="mw-selflink selflink">Sea level</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep-ocean_Assessment_and_Reporting_of_Tsunamis" title="Deep-ocean Assessment and Reporting of Tsunamis">Deep-ocean Assessment and Reporting of Tsunamis</a></li>
+<li><a href="/wiki/Future_sea_level" title="Future sea level">Future sea level</a></li>
+<li><a href="/wiki/Global_Sea_Level_Observing_System" title="Global Sea Level Observing System">Global Sea Level Observing System</a></li>
+<li><a href="/wiki/North_West_Shelf_Operational_Oceanographic_System" title="North West Shelf Operational Oceanographic System">North West Shelf Operational Oceanographic System</a></li>
+<li><a href="/wiki/Sea-level_curve" title="Sea-level curve">Sea-level curve</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/World_Geodetic_System" title="World Geodetic System">World Geodetic System</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Acoustical_oceanography" title="Acoustical oceanography">Acoustics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep_scattering_layer" title="Deep scattering layer">Deep scattering layer</a></li>
+<li><a href="/wiki/Hydroacoustics" title="Hydroacoustics">Hydroacoustics</a></li>
+<li><a href="/wiki/Ocean_acoustic_tomography" title="Ocean acoustic tomography">Ocean acoustic tomography</a></li>
+<li><a href="/wiki/Sofar_bomb" title="Sofar bomb">Sofar bomb</a></li>
+<li><a href="/wiki/SOFAR_channel" title="SOFAR channel">SOFAR channel</a></li>
+<li><a href="/wiki/Underwater_acoustics" title="Underwater acoustics">Underwater acoustics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Satellites</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jason-1" title="Jason-1">Jason-1</a></li>
+<li><a href="/wiki/Ocean_Surface_Topography_Mission" title="Ocean Surface Topography Mission">Jason-2 (Ocean Surface Topography Mission)</a></li>
+<li><a href="/wiki/Jason-3" title="Jason-3">Jason-3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Argo_(oceanography)" title="Argo (oceanography)">Argo</a></li>
+<li><a href="/wiki/Benthic_lander" title="Benthic lander">Benthic lander</a></li>
+<li><a href="/wiki/Color_of_water" title="Color of water">Color of water</a></li>
+<li><a href="/wiki/DSV_Alvin" title="DSV Alvin">DSV <i>Alvin</i></a></li>
+<li><a class="mw-redirect" href="/wiki/Marginal_sea" title="Marginal sea">Marginal sea</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine energy</a></li>
+<li><a href="/wiki/Marine_pollution" title="Marine pollution">Marine pollution</a></li>
+<li><a href="/wiki/Mooring_(oceanography)" title="Mooring (oceanography)">Mooring</a></li>
+<li><a href="/wiki/National_Oceanographic_Data_Center" title="National Oceanographic Data Center">National Oceanographic Data Center</a></li>
+<li><a href="/wiki/Ocean" title="Ocean">Ocean</a></li>
+<li><a href="/wiki/Ocean_exploration" title="Ocean exploration">Ocean exploration</a></li>
+<li><a href="/wiki/Ocean_observations" title="Ocean observations">Ocean observations</a></li>
+<li><a href="/wiki/Ocean_reanalysis" title="Ocean reanalysis">Ocean reanalysis</a></li>
+<li><a href="/wiki/Ocean_surface_topography" title="Ocean surface topography">Ocean surface topography</a></li>
+<li><a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">Ocean thermal energy conversion</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Pelagic_sediment" title="Pelagic sediment">Pelagic sediment</a></li>
+<li><a href="/wiki/Sea_surface_microlayer" title="Sea surface microlayer">Sea surface microlayer</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature</a></li>
+<li><a href="/wiki/Seawater" title="Seawater">Seawater</a></li>
+<li><a href="/wiki/Science_On_a_Sphere" title="Science On a Sphere">Science On a Sphere</a></li>
+<li><a href="/wiki/Thermocline" title="Thermocline">Thermocline</a></li>
+<li><a href="/wiki/Underwater_glider" title="Underwater glider">Underwater glider</a></li>
+<li><a href="/wiki/Water_column" title="Water column">Water column</a></li>
+<li><a href="/wiki/World_Ocean_Atlas" title="World Ocean Atlas">World Ocean Atlas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Physical_oceanography" title="commons:Category:Physical oceanography">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1262
+Cached time: 20171002231525
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.394 seconds
+Preprocessor visited node count: 1275/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 53929/2097152 bytes
+Template argument size: 911/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.109/10.000 seconds
+Lua memory usage: 5.52 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  300.326      1 -total
+ 29.14%   87.505      1 Template:Reflist
+ 12.71%   38.169      2 Template:Cite_journal
+ 10.67%   32.033      1 Template:Unreferenced_section
+ 10.10%   30.324      4 Template:Convert
+  9.96%   29.921      1 Template:Unreferenced
+  9.74%   29.238      2 Template:Sister_project
+  9.18%   27.556      1 Template:Ambox
+  8.91%   26.748      2 Template:Side_box
+  8.59%   25.789      1 Template:Commons_category
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:62529-0!canonical and timestamp 20171002231525 and revision id 803188960
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sea_level&amp;oldid=803188960">https://en.wikipedia.org/w/index.php?title=Sea_level&amp;oldid=803188960</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Sea_level" title="Category:Sea level">Sea level</a></li><li><a href="/wiki/Category:Geodesy" title="Category:Geodesy">Geodesy</a></li><li><a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Physical oceanography</a></li><li><a href="/wiki/Category:Oceanographical_terminology" title="Category:Oceanographical terminology">Oceanographical terminology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Use_dmy_dates_from_September_2017" title="Category:Use dmy dates from September 2017">Use dmy dates from September 2017</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_August_2015" title="Category:Articles needing additional references from August 2015">Articles needing additional references from August 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sea+level" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sea+level" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Sea_level" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Sea_level" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Sea_level">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Sea_level&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Sea_level&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sea_level" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sea_level" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sea_level&amp;oldid=803188960" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sea_level&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q125465" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sea_level&amp;id=803188960" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sea+level">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sea+level&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DSea%2Blevel%26returnto%3DSea%2Blevel%26oldid%3D803188960%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sea_level&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sea_level" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Seevlak" hreflang="af" lang="af" title="Seevlak – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%B3%D8%AA%D9%88%D9%89_%D8%B3%D8%B7%D8%AD_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1" hreflang="ar" lang="ar" title="مستوى سطح البحر – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Libel_d%27a_mar" hreflang="an" lang="an" title="Libel d'a mar – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Nivel_de_la_mar" hreflang="ast" lang="ast" title="Nivel de la mar – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/D%C9%99niz_s%C9%99viyy%C9%99si" hreflang="az" lang="az" title="Dəniz səviyyəsi – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-azb"><a class="interlanguage-link-target" href="https://azb.wikipedia.org/wiki/%D8%AF%D9%86%DB%8C%D8%B2_%D8%B3%D9%88%DB%8C%D9%87%E2%80%8C%D8%B3%DB%8C" hreflang="azb" lang="azb" title="دنیز سویه‌سی – South Azerbaijani">تۆرکجه</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/H%C3%A1i-p%C3%AAng-b%C4%ABn" hreflang="zh-min-nan" lang="zh-min-nan" title="Hái-pêng-bīn – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-map-bms"><a class="interlanguage-link-target" href="https://map-bms.wikipedia.org/wiki/Nang_dhuwur_laut" hreflang="map-bms" lang="map-bms" title="Nang dhuwur laut – Basa Banyumasan">Basa Banyumasan</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A3%D0%B7%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C_%D0%BC%D0%BE%D1%80%D0%B0" hreflang="be" lang="be" title="Узровень мора – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bh"><a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%82%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%A4%E0%A4%B2" hreflang="bh" lang="bh" title="समुंद्र तल – Bhojpuri">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE_%D1%80%D0%B0%D0%B2%D0%BD%D0%B8%D1%89%D0%B5" hreflang="bg" lang="bg" title="Морско равнище – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Nivell_mitj%C3%A0_del_mar" hreflang="ca" lang="ca" title="Nivell mitjà del mar – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Hladina_mo%C5%99e" hreflang="cs" lang="cs" title="Hladina moře – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Havoverflade" hreflang="da" lang="da" title="Havoverflade – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Meeresspiegel" hreflang="de" lang="de" title="Meeresspiegel – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Meretase" hreflang="et" lang="et" title="Meretase – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A3%CF%84%CE%AC%CE%B8%CE%BC%CE%B7_%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%CE%B7%CF%82" hreflang="el" lang="el" title="Στάθμη θαλάσσης – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Nivel_del_mar" hreflang="es" lang="es" title="Nivel del mar – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Marnivelo" hreflang="eo" lang="eo" title="Marnivelo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Itsas_maila" hreflang="eu" lang="eu" title="Itsas maila – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B3%D8%B7%D8%AD_%D8%A2%D8%A8%E2%80%8C%D9%87%D8%A7%DB%8C_%D8%A2%D8%B2%D8%A7%D8%AF" hreflang="fa" lang="fa" title="سطح آب‌های آزاد – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Niveau_de_la_mer" hreflang="fr" lang="fr" title="Niveau de la mer – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Seenivo" hreflang="fy" lang="fy" title="Seenivo – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-fur"><a class="interlanguage-link-target" href="https://fur.wikipedia.org/wiki/Nivel_dal_m%C3%A2r" hreflang="fur" lang="fur" title="Nivel dal mâr – Friulian">Furlan</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Nivel_medio_do_mar" hreflang="gl" lang="gl" title="Nivel medio do mar – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%95%B4%EC%88%98%EB%A9%B4" hreflang="ko" lang="ko" title="해수면 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D4%B2%D5%A1%D6%81%D5%A1%D6%80%D5%B1%D5%A1%D5%AF_%D5%A2%D5%A1%D6%80%D5%B1%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Բացարձակ բարձրություն – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0_%E0%A4%A4%E0%A4%B2" hreflang="hi" lang="hi" title="समुद्र तल – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Morska_razina" hreflang="hr" lang="hr" title="Morska razina – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-ilo"><a class="interlanguage-link-target" href="https://ilo.wikipedia.org/wiki/Pantar_ti_baybay" hreflang="ilo" lang="ilo" title="Pantar ti baybay – Iloko">Ilokano</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Permukaan_laut" hreflang="id" lang="id" title="Permukaan laut – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-ia"><a class="interlanguage-link-target" href="https://ia.wikipedia.org/wiki/Nivello_del_mar" hreflang="ia" lang="ia" title="Nivello del mar – Interlingua">Interlingua</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Sj%C3%A1varm%C3%A1l" hreflang="is" lang="is" title="Sjávarmál – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Livello_del_mare" hreflang="it" lang="it" title="Livello del mare – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%92%D7%95%D7%91%D7%94_%D7%A4%D7%A0%D7%99_%D7%94%D7%99%D7%9D" hreflang="he" lang="he" title="גובה פני הים – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%96%E1%83%A6%E1%83%95%E1%83%98%E1%83%A1_%E1%83%93%E1%83%9D%E1%83%9C%E1%83%94" hreflang="ka" lang="ka" title="ზღვის დონე – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D0%B1%D1%81%D0%BE%D0%BB%D1%96%D0%BE%D1%82%D1%82%D1%96%D0%BA_%D0%B1%D0%B8%D1%96%D0%BA%D1%82%D1%96%D0%BA" hreflang="kk" lang="kk" title="Абсоліоттік биіктік – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Usawa_bahari_wastani" hreflang="sw" lang="sw" title="Usawa bahari wastani – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Asta_deryay%C3%AA" hreflang="ku" lang="ku" title="Asta deryayê – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Maris_aequor" hreflang="la" lang="la" title="Maris aequor – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/J%C5%ABras_l%C4%ABmenis" hreflang="lv" lang="lv" title="Jūras līmenis – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/J%C5%ABros_lygis" hreflang="lt" lang="lt" title="Jūros lygis – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-li"><a class="interlanguage-link-target" href="https://li.wikipedia.org/wiki/Zie%C3%ABniveau" hreflang="li" lang="li" title="Zieëniveau – Limburgish">Limburgs</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9C%D0%BE%D1%80%D1%81%D0%BA%D0%BE_%D0%BD%D0%B8%D0%B2%D0%BE" hreflang="mk" lang="mk" title="Морско ниво – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%AE%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%A8%E0%B4%BF%E0%B4%B0%E0%B4%AA%E0%B5%8D%E0%B4%AA%E0%B5%8D" hreflang="ml" lang="ml" title="സമുദ്രനിരപ്പ് – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%B8%E0%A4%AE%E0%A5%81%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%B8%E0%A4%AA%E0%A4%BE%E0%A4%9F%E0%A5%80" hreflang="mr" lang="mr" title="समुद्रसपाटी – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-xmf"><a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%96%E1%83%A3%E1%83%A6%E1%83%90%E1%83%A8_%E1%83%93%E1%83%9D%E1%83%9C%E1%83%94" hreflang="xmf" lang="xmf" title="ზუღაშ დონე – Mingrelian">მარგალური</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Aras_laut" hreflang="ms" lang="ms" title="Aras laut – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zeeniveau" hreflang="nl" lang="nl" title="Zeeniveau – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B5%B7%E9%9D%A2" hreflang="ja" lang="ja" title="海面 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-ce"><a class="interlanguage-link-target" href="https://ce.wikipedia.org/wiki/%D0%A5%D3%80%D0%BE%D1%80%D0%B4%D0%B0%D0%BD_%D1%82%D3%80%D0%B5%D0%B3%D3%80%D0%B0" hreflang="ce" lang="ce" title="ХӀордан тӀегӀа – Chechen">Нохчийн</a></li><li class="interlanguage-link interwiki-frr"><a class="interlanguage-link-target" href="https://frr.wikipedia.org/wiki/Siapeegel" hreflang="frr" lang="frr" title="Siapeegel – Northern Frisian">Nordfriisk</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Havniv%C3%A5" hreflang="no" lang="no" title="Havnivå – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Havniv%C3%A5" hreflang="nn" lang="nn" title="Havnivå – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Niv%C3%A8l_de_la_mar" hreflang="oc" lang="oc" title="Nivèl de la mar – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Livel_d%C3%ABl_mar" hreflang="pms" lang="pms" title="Livel dël mar – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Poziom_morza" hreflang="pl" lang="pl" title="Poziom morza – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/N%C3%ADvel_m%C3%A9dio_do_mar" hreflang="pt" lang="pt" title="Nível médio do mar – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Nivelul_m%C4%83rii" hreflang="ro" lang="ro" title="Nivelul mării – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A3%D1%80%D0%BE%D0%B2%D0%B5%D0%BD%D1%8C_%D0%BC%D0%BE%D1%80%D1%8F" hreflang="ru" lang="ru" title="Уровень моря – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Sea_level" hreflang="sco" lang="sco" title="Sea level – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Sea_level" hreflang="simple" lang="simple" title="Sea level – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Hladina_mora" hreflang="sk" lang="sk" title="Hladina mora – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-so"><a class="interlanguage-link-target" href="https://so.wikipedia.org/wiki/Jooga_bada" hreflang="so" lang="so" title="Jooga bada – Somali">Soomaaliga</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Razina_mora" hreflang="sh" lang="sh" title="Razina mora – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Merenpinnan_taso" hreflang="fi" lang="fi" title="Merenpinnan taso – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Havsyta" hreflang="sv" lang="sv" title="Havsyta – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%95%E0%AE%9F%E0%AE%B2%E0%AF%8D_%E0%AE%AE%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="கடல் மட்டம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B0%AE%E0%B1%81%E0%B0%A6%E0%B1%8D%E0%B0%B0%E0%B0%AE%E0%B0%9F%E0%B1%8D%E0%B0%9F%E0%B0%82" hreflang="te" lang="te" title="సముద్రమట్టం – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A3%E0%B8%B0%E0%B8%94%E0%B8%B1%E0%B8%9A%E0%B8%99%E0%B9%89%E0%B8%B3%E0%B8%97%E0%B8%B0%E0%B9%80%E0%B8%A5" hreflang="th" lang="th" title="ระดับน้ำทะเล – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Deniz_seviyesi" hreflang="tr" lang="tr" title="Deniz seviyesi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A0%D1%96%D0%B2%D0%B5%D0%BD%D1%8C_%D0%BC%D0%BE%D1%80%D1%8F" hreflang="uk" lang="uk" title="Рівень моря – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B3%D8%B7%D8%AD_%D8%B3%D9%85%D9%86%D8%AF%D8%B1" hreflang="ur" lang="ur" title="سطح سمندر – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/M%E1%BB%B1c_n%C6%B0%E1%BB%9Bc_bi%E1%BB%83n" hreflang="vi" lang="vi" title="Mực nước biển – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-classical"><a class="interlanguage-link-target" href="https://zh-classical.wikipedia.org/wiki/%E6%B5%B7%E5%B9%B3%E9%9D%A2" hreflang="zh-classical" lang="zh-classical" title="海平面 – Classical Chinese">文言</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Katupngan_ha_dagat" hreflang="war" lang="war" title="Katupngan ha dagat – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%B5%B7%E5%B9%B3%E9%9D%A2" hreflang="zh-yue" lang="zh-yue" title="海平面 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zea"><a class="interlanguage-link-target" href="https://zea.wikipedia.org/wiki/Ze%C3%AAniveau" hreflang="zea" lang="zea" title="Zeêniveau – Zeelandic">Zeêuws</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B5%B7%E5%B9%B3%E9%9D%A2" hreflang="zh" lang="zh" title="海平面 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q125465#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 October 2017, at 01:29.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sea_level&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.394","ppvisitednodes":{"value":1275,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":53929,"limit":2097152},"templateargumentsize":{"value":911,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  300.326      1 -total"," 29.14%   87.505      1 Template:Reflist"," 12.71%   38.169      2 Template:Cite_journal"," 10.67%   32.033      1 Template:Unreferenced_section"," 10.10%   30.324      4 Template:Convert","  9.96%   29.921      1 Template:Unreferenced","  9.74%   29.238      2 Template:Sister_project","  9.18%   27.556      1 Template:Ambox","  8.91%   26.748      2 Template:Side_box","  8.59%   25.789      1 Template:Commons_category"]},"scribunto":{"limitreport-timeusage":{"value":"0.109","limit":"10.000"},"limitreport-memusage":{"value":5788215,"limit":52428800}},"cachereport":{"origin":"mw1262","timestamp":"20171002231525","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":109,"wgHostname":"mw1180"});});</script>
+</body>
+</html>

@@ -1,0 +1,968 @@
+https://en.wikipedia.org/wiki/Supercooled_water
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Supercooling - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Supercooling","wgTitle":"Supercooling","wgCurRevisionId":800456380,"wgRevisionId":800456380,"wgArticleId":285534,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","CS1 maint: Multiple names: authors list","Thermodynamic processes","Condensed matter physics","Concepts in physics","Glass physics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Supercooling","wgRelevantArticleId":285534,"wgRequestId":"WdAT@gpAAEUAADGikn4AAACV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Supercooled_water","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Supercooling","wgWikibaseItemId":"Q213659","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Supercooling" rel="alternate"/>
+<link href="/w/index.php?title=Supercooling&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Supercooling&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Supercooling" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Supercooling rootpage-Supercooling vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Supercooling</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Supercooled_water&amp;redirect=no" title="Supercooled water">Supercooled water</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">Not to be confused with <a href="/wiki/Superfluidity" title="Superfluidity">Superfluidity</a> or <a href="/wiki/Subcooling" title="Subcooling">Subcooling</a>.</div>
+<p><b>Supercooling</b>, also known as <b>undercooling</b>,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> is the process of lowering the temperature of a <a href="/wiki/Liquid" title="Liquid">liquid</a> or a <a href="/wiki/Gas" title="Gas">gas</a> below its <a href="/wiki/Melting_point" title="Melting point">freezing point</a> without it becoming a <a href="/wiki/Solid" title="Solid">solid</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Explanation"><span class="tocnumber">1</span> <span class="toctext">Explanation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Constitutional_supercooling"><span class="tocnumber">2</span> <span class="toctext">Constitutional supercooling</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#In_animals"><span class="tocnumber">3</span> <span class="toctext">In animals</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#In_plants"><span class="tocnumber">4</span> <span class="toctext">In plants</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Applications"><span class="tocnumber">5</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Explanation">Explanation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercooling&amp;action=edit&amp;section=1" title="Edit section: Explanation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A liquid crossing its standard freezing point will <a class="mw-redirect" href="/wiki/Crystalization" title="Crystalization">crystalize</a> in the presence of a <a href="/wiki/Nucleation" title="Nucleation">seed crystal or nucleus</a> around which a <a href="/wiki/Crystal" title="Crystal">crystal</a> structure can form creating a solid. Lacking any such <a href="/wiki/Seed_crystal" title="Seed crystal">nuclei</a>, the liquid <a href="/wiki/Phase_(matter)" title="Phase (matter)">phase</a> can be maintained all the way down to the temperature at which <a href="/wiki/Nucleation#Homogeneous_nucleation" title="Nucleation">crystal homogeneous nucleation</a> occurs. Homogeneous nucleation can occur above the <a class="mw-redirect" href="/wiki/Glass_transition_temperature" title="Glass transition temperature">glass transition temperature</a>, but if homogeneous nucleation has not occurred above that temperature, an <a class="mw-redirect" href="/wiki/Amorphous" title="Amorphous">amorphous</a> (non-crystalline) solid will form.</p>
+<p><a href="/wiki/Water" title="Water">Water</a> normally freezes at 273.15 <a href="/wiki/Kelvin" title="Kelvin">K</a> (0 °C or 32 °F), but it can be "supercooled" at <a class="mw-redirect" href="/wiki/Standard_pressure" title="Standard pressure">standard pressure</a> down to its <a href="/wiki/Nucleation#Homogeneous_nucleation" title="Nucleation">crystal homogeneous nucleation</a> at almost 224.8 K (−48.3 °C/−55 °F).<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-debenedetti_42_3-0"><a href="#cite_note-debenedetti_42-3">[3]</a></sup> The process of supercooling requires that water be pure and free of <a href="/wiki/Nucleation" title="Nucleation">nucleation</a> sites, which can be achieved by processes like <a href="/wiki/Reverse_osmosis" title="Reverse osmosis">reverse osmosis</a> or <a class="new" href="/w/index.php?title=Chemical_demineralization&amp;action=edit&amp;redlink=1" title="Chemical demineralization (page does not exist)">chemical demineralization</a>, but the cooling itself does not require any specialised technique. If water is cooled at a rate on the order of 10<sup>6</sup> K/s, the crystal nucleation can be avoided and water becomes a <a href="/wiki/Glass#Physical_properties" title="Glass">glass</a> — that is, an amorphous (non-crystalline) solid. Its <a class="mw-redirect" href="/wiki/Glass_transition_temperature" title="Glass transition temperature">glass transition temperature</a> is much colder and harder to determine, but studies estimate it at about 136 K (−137 °C/−215 °F).<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> <a href="/wiki/Amorphous_ice" title="Amorphous ice">Glassy water</a> can be heated up to approximately 150 K (−123 °C/−189.4 °F) without nucleation occurring.<sup class="reference" id="cite_ref-debenedetti_42_3-1"><a href="#cite_note-debenedetti_42-3">[3]</a></sup> In the range of temperatures between 231 K (−42 °C/−43.6 °F) and 150 K (−123 °C/−189.4 °F), experiments find only crystal ice.</p>
+<p>Droplets of supercooled water often exist in <a href="/wiki/Stratus_cloud" title="Stratus cloud">stratiform</a> and <a href="/wiki/Cumulus_cloud" title="Cumulus cloud">cumulus</a> <a href="/wiki/Cloud" title="Cloud">clouds</a>. An <a href="/wiki/Aircraft" title="Aircraft">aircraft</a> flying through such a cloud sees an abrupt crystallization of these droplets, which can result in the formation of ice on the aircraft's wings or blockage of its instruments and probes, unless the aircraft is equipped with an appropriate <a class="mw-redirect" href="/wiki/De-icing" title="De-icing">de-icing</a> system. <a href="/wiki/Freezing_rain" title="Freezing rain">Freezing rain</a> is also caused by supercooled droplets.</p>
+<p>The process opposite to supercooling, the melting of a solid above the freezing point, is much more difficult, and a solid will almost always melt at the same <a href="/wiki/Temperature" title="Temperature">temperature</a> for a given <a href="/wiki/Pressure" title="Pressure">pressure</a>. For this reason, it is the melting point which is usually identified, using <a href="/wiki/Melting_point_apparatus" title="Melting point apparatus">melting point apparatus</a>; even when the subject of a paper is "freezing-point determination", the actual methodology is "the principle of observing the disappearance rather than the formation of ice".<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> It is possible, at a given pressure, to <a href="/wiki/Superheating" title="Superheating">superheat</a> a liquid above its <a href="/wiki/Boiling_point" title="Boiling point">boiling point</a> without it becoming gaseous.</p>
+<p>Supercooling is often confused with <a href="/wiki/Freezing-point_depression" title="Freezing-point depression">freezing-point depression</a>. Supercooling is the cooling of a liquid below its freezing point without it becoming solid. Freezing point depression is when a <a href="/wiki/Solution" title="Solution">solution</a> can be cooled below the freezing point of the corresponding pure liquid due to the presence of the <a href="/wiki/Solution" title="Solution">solute</a>; an example of this is the freezing point depression that occurs when <a href="/wiki/Sodium_chloride" title="Sodium chloride">sodium chloride</a> is added to pure water.</p>
+<h2><span class="mw-headline" id="Constitutional_supercooling">Constitutional supercooling</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercooling&amp;action=edit&amp;section=2" title="Edit section: Constitutional supercooling">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Constitutional_supercooling_-_phase_diagram,_concentration,_and_temperature.png"><img alt="" class="thumbimage" data-file-height="499" data-file-width="276" height="398" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Constitutional_supercooling_-_phase_diagram%2C_concentration%2C_and_temperature.png/220px-Constitutional_supercooling_-_phase_diagram%2C_concentration%2C_and_temperature.png" srcset="//upload.wikimedia.org/wikipedia/commons/6/6b/Constitutional_supercooling_-_phase_diagram%2C_concentration%2C_and_temperature.png 1.5x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Constitutional_supercooling_-_phase_diagram,_concentration,_and_temperature.png" title="Enlarge"></a></div>
+Constitutional supercooling – phase diagram, concentration, and temperature</div>
+</div>
+</div>
+<p>Constitutional supercooling, which occurs during solidification, is due to compositional solid changes, and results in cooling a liquid below the freezing point ahead of the <a class="new" href="/w/index.php?title=Solid%E2%80%93liquid_interface&amp;action=edit&amp;redlink=1" title="Solid–liquid interface (page does not exist)">solid–liquid interface</a>. When solidifying a liquid, the interface is often unstable, and the velocity of the solid–liquid interface must be small in order to avoid constitutional supercooling.</p>
+<p>Supercooled zones are observed when the <a href="/wiki/Liquidus" title="Liquidus">liquidus</a> temperature gradient at the interface is larger than the temperature gradient.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo fence="true" stretchy="true"></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>&gt;</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left.{\frac {\partial T_{L}}{\partial x}}\right|_{x=0}&gt;{\frac {\partial T}{\partial x}}}</annotation>
+</semantics>
+</math></span><img alt="\left.{\frac {\partial T_{L}}{\partial x}}\right|_{x=0}&gt;{\frac {\partial T}{\partial x}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8277bd0df47b0402680a826dc79fef8082480414" style="vertical-align: -2.505ex; width:15.764ex; height:6.009ex;"/></span></dd>
+</dl>
+<p>or</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<msub>
+<mrow>
+<mo fence="true" stretchy="true"></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>&gt;</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m\left.{\frac {\partial C_{L}}{\partial x}}\right|_{x=0}&gt;{\frac {\partial T}{\partial x}}}</annotation>
+</semantics>
+</math></span><img alt="m\left.{\frac {\partial C_{L}}{\partial x}}\right|_{x=0}&gt;{\frac {\partial T}{\partial x}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5077c0c9f0089bf65b41b20e75d06282962dfec" style="vertical-align: -2.505ex; width:18.119ex; height:6.009ex;"/></span></dd>
+</dl>
+<p>The slope of the liquidus phase boundary on the phase diagram is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<mo>=</mo>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m=\partial T_{L}/\partial C_{L}}</annotation>
+</semantics>
+</math></span><img alt="m=\partial T_{L}/\partial C_{L}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6d8514ffc4857909f3b149baf51d2db58b92d7f3" style="vertical-align: -0.838ex; width:14.748ex; height:2.843ex;"/></span></p>
+<p>The concentration gradient is related to points, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+<mi>S</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C^{LS}}</annotation>
+</semantics>
+</math></span><img alt="C^{{LS}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2ee73810edbbe325b30b358fc4a931395fe8ece3" style="vertical-align: -0.338ex; width:4.235ex; height:2.676ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+<mi>L</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C^{SL}}</annotation>
+</semantics>
+</math></span><img alt="C^{{SL}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5dfafdc74e83bdfad91a2ea73e4a7c0a900d137" style="vertical-align: -0.338ex; width:4.235ex; height:2.676ex;"/></span>, on the phase diagram:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow>
+<mo fence="true" stretchy="true"></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msup>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+<mi>S</mi>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<msup>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+<mi>L</mi>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mi>D</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>v</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left.{\frac {\partial C_{L}}{\partial x}}\right|_{x=0}=-{\frac {C^{LS}-C^{SL}}{D/v}}}</annotation>
+</semantics>
+</math></span><img alt="\left.{\frac {\partial C_{L}}{\partial x}}\right|_{x=0}=-{\frac {C^{LS}-C^{SL}}{D/v}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/44538f1056744de674e9be624964bd9f0cf1a984" style="vertical-align: -2.671ex; width:26.232ex; height:6.509ex;"/></span></dd>
+</dl>
+<p>For steady-state growth <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+<mi>L</mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C^{SL}=C_{0}}</annotation>
+</semantics>
+</math></span><img alt="C^{SL}=C_{0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/24d8ec8fd37d5cbdb5715bb825f791c89f18d0c3" style="vertical-align: -0.671ex; width:10.077ex; height:3.009ex;"/></span> and the partition function <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>k</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+<mi>L</mi>
+</mrow>
+</msup>
+<msup>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>L</mi>
+<mi>S</mi>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k={\frac {C^{SL}}{C^{LS}}}}</annotation>
+</semantics>
+</math></span><img alt="k={\frac {C^{SL}}{C^{LS}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/42ba00ad37634e807e5a2bf7511d9d035192d83c" style="vertical-align: -2.171ex; width:9.401ex; height:6.009ex;"/></span> can be assumed to be constant. Therefore, the minimum thermal gradient necessary to create a stable solid front is as expressed below.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>&lt;</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>m</mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mi>k</mi>
+<mo stretchy="false">)</mo>
+<mi>v</mi>
+</mrow>
+<mrow>
+<mi>k</mi>
+<mi>D</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\partial T}{\partial x}}&lt;{\frac {mC_{0}(1-k)v}{kD}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {\partial T}{\partial x}}&lt;{\frac {mC_{0}(1-k)v}{kD}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f60b2bb4ba466bce0c6d7c7f4b512cba985a6d21" style="vertical-align: -2.005ex; width:20.755ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>For more information, see the equation (3) of<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="In_animals">In animals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercooling&amp;action=edit&amp;section=3" title="Edit section: In animals">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The following paragraphs are about freezing-point depression. They are not about supercooling. The authors are confusing supercooling with freezing-point depression. The paragraphs above warn about this confusion.</p>
+<p>In order to survive extreme low temperatures in certain environments, some animals undergo forms of supercooling that allow them to remain unfrozen and avoid cell damage and death. There are many techniques that aid in supercooling, such as the production of <a href="/wiki/Antifreeze_protein" title="Antifreeze protein">antifreeze proteins</a>, or AFPs, which bind to ice crystals to prevent water molecules from binding and spreading the growth of ice.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> The <a href="/wiki/Winter_flounder" title="Winter flounder">winter flounder</a> is one such fish that utilizes these proteins to survive in its frigid environment. Noncolligative proteins are secreted by the liver into the bloodstream.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Other animals use colligative antifreezes, which increases the concentration of solutes in their bodily fluids, thus lowering their freezing point. Fish that rely on supercooling for survival must also live well below the water surface, because if they came into contact with ice nuclei they would freeze immediately. Animals that undergo supercooling to survive must also remove ice-nucleating agents from their bodies because they act as a starting point for freezing. Supercooling is also common in insects, reptiles, and other <a href="/wiki/Ectotherm" title="Ectotherm">ectotherms</a>, with insects being able to survive in the coldest environments out of any supercooling animals.</p>
+<p>It should be noted that supercooling is a last resort for animals. The best option is to move to a warmer environment if possible. As an animal gets farther and farther below its original freezing point the chance of spontaneous freezing increases dramatically for its internal fluids, as this is a thermodynamically unstable state. The fluids eventually reach the supercooling point, which is the temperature at which the supercooled solution freezes spontaneously due to being so far below its normal freezing point.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> Animals unintentionally undergo supercooling and are only able to decrease the odds of freezing once supercooled. Even though supercooling is essential for survival, there are many risks associated with it.</p>
+<h2><span class="mw-headline" id="In_plants">In plants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercooling&amp;action=edit&amp;section=4" title="Edit section: In plants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As demonstrated by animals, plants can also survive extreme cold conditions brought forth during the winter months. Many plant species located in northern climates can acclimate under these cold conditions by supercooling, thus these plants survive temperatures up to -40 °C. Although this supercooling phenomenon is poorly understood, it has been recognized through <a class="mw-redirect" href="/wiki/Infrared_thermography" title="Infrared thermography">infrared thermography</a>. Ice nucleation occurs in certain plant organs and tissues, debatably beginning in the <a href="/wiki/Xylem" title="Xylem">xylem</a> tissue and spreading throughout the rest of the plant.<sup class="reference" id="cite_ref-ReferenceA_10-0"><a href="#cite_note-ReferenceA-10">[10]</a></sup><sup class="reference" id="cite_ref-Pearce2001_11-0"><a href="#cite_note-Pearce2001-11">[11]</a></sup> Infrared thermography allows for droplets of water to be visualized as they crystalize in extracellular spaces.<sup class="reference" id="cite_ref-tandfonline.com_12-0"><a href="#cite_note-tandfonline.com-12">[12]</a></sup></p>
+<p>Supercooling inhibits the formation of ice within the tissue by ice nucleation and allows the cells to maintain water in a liquid state and further allows the water within the cell to stay separate from extracellular ice.<sup class="reference" id="cite_ref-tandfonline.com_12-1"><a href="#cite_note-tandfonline.com-12">[12]</a></sup> Cellular barriers such as <a href="/wiki/Lignin" title="Lignin">lignin</a>, <a href="/wiki/Suberin" title="Suberin">suberin</a> and the cuticle inhibit ice nucleators and force water into the supercooled tissue.<sup class="reference" id="cite_ref-journals.plos.org_13-0"><a href="#cite_note-journals.plos.org-13">[13]</a></sup> The xylem and primary tissue of plants are very susceptible to cold temperatures because of the large proportion of water in the cell. Many boreal hardwood species in northern climates have the ability to prevent ice spreading into the shoots allowing the plant to tolerate the cold.<sup class="reference" id="cite_ref-ncbi.nlm.nih.gov_14-0"><a href="#cite_note-ncbi.nlm.nih.gov-14">[14]</a></sup> Supercooling has been identified in the evergreen shrubs <i><a href="/wiki/Rhododendron_ferrugineum" title="Rhododendron ferrugineum">Rhododendron ferrugineum</a></i> and <i><a href="/wiki/Vaccinium_vitis-idaea" title="Vaccinium vitis-idaea">Vaccinium vitis-idaea</a></i> as well as <i><a class="mw-redirect" href="/wiki/Abies" title="Abies">Abies</a></i>, <i><a class="mw-redirect" href="/wiki/Picea" title="Picea">Picea</a></i> and <i><a class="mw-redirect" href="/wiki/Larix" title="Larix">Larix</a></i> species.<sup class="reference" id="cite_ref-ncbi.nlm.nih.gov_14-1"><a href="#cite_note-ncbi.nlm.nih.gov-14">[14]</a></sup> Freezing outside of the cell and within the cell wall does not affect the survival of the plant.<sup class="reference" id="cite_ref-Freezing_and_injury_in_plants_15-0"><a href="#cite_note-Freezing_and_injury_in_plants-15">[15]</a></sup> However, the extracellular ice may lead to plant dehydration.<sup class="reference" id="cite_ref-Pearce2001_11-1"><a href="#cite_note-Pearce2001-11">[11]</a></sup></p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercooling&amp;action=edit&amp;section=5" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>One commercial application of supercooling is in <a href="/wiki/Refrigeration" title="Refrigeration">refrigeration</a>. Freezers can cool drinks to a supercooled level<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> so that when they are opened, they form a <a href="/wiki/Slush" title="Slush">slush</a>. Another example is a product that can supercool the beverage in a conventional freezer.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> <a href="/wiki/The_Coca-Cola_Company" title="The Coca-Cola Company">The Coca-Cola Company</a> briefly marketed special <a href="/wiki/Vending_machine" title="Vending machine">vending machines</a> containing <a class="mw-redirect" href="/wiki/Sprite_(soft_drink)" title="Sprite (soft drink)">Sprite</a> in the UK, and Coke in Singapore, which stored the bottles in a supercooled state so that their content would turn to <a href="/wiki/Slush_(beverage)" title="Slush (beverage)">slush</a> upon opening.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></p>
+<p>Supercooling was successfully applied to organ preservation at Massachusetts General Hospital/<a href="/wiki/Harvard_Medical_School" title="Harvard Medical School">Harvard Medical School</a>. <a href="/wiki/Liver" title="Liver">Livers</a> that were later transplanted into recipient animals were preserved by supercooling for up to 96 hours (4 days), quadrupling the limits of what could be achieved by conventional liver preservation methods. The livers were supercooled to a temperature of –6 °C in a specialized solution that protected against freezing and injury from the cold temperature.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup></p>
+<p>Another potential application is drug delivery. In 2015 researchers demonstrated the ability to crystallize membranes at a specific time. Liquid-encapsulated drugs can potentially be delivered to the site and with a slight environmental change, the liquid rapidly changes into a crystalline form that releases the drug.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></p>
+<p>In 2016 a team at <a href="/wiki/Iowa_State_University" title="Iowa State University">Iowa State University</a> proposed a method for "soldering without heat" by using encapsulated droplets of supercooled liquid metal to repair heat sensitive electronic devices.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup><sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[22]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercooling&amp;action=edit&amp;section=6" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Amorphous_solid" title="Amorphous solid">Amorphous solid</a></li>
+<li><a href="/wiki/Pumpable_ice_technology" title="Pumpable ice technology">Pumpable ice technology</a></li>
+<li><a href="/wiki/Subcooling" title="Subcooling">Subcooling</a></li>
+<li><a href="/wiki/Ultracold_atom" title="Ultracold atom">Ultracold atom</a></li>
+<li><a href="/wiki/Viscous_liquid" title="Viscous liquid">Viscous liquid</a></li>
+<li><a href="/wiki/Freezing_rain" title="Freezing rain">Freezing rain</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercooling&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal" id="CITEREFRathz">Rathz, Tom. <a class="external text" href="http://www.webcitation.org/5mjJauR7S?url=http://science.nasa.gov/ssl/msad/dtf/under1.htm" rel="nofollow">"Undercooling"</a>. <a href="/wiki/NASA" title="NASA">NASA</a>. Archived from <a class="external text" href="https://science.nasa.gov/ssl/msad/dtf/under1.htm" rel="nofollow">the original</a> on 2010-01-12<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-01-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Undercooling&amp;rft.aufirst=Tom&amp;rft.aulast=Rathz&amp;rft.genre=article&amp;rft_id=https%3A%2F%2Fscience.nasa.gov%2Fssl%2Fmsad%2Fdtf%2Funder1.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal">Moore, Emily; Valeria Molinero (24 November 2011). "structural transformation in supercooled water controls the crystallization rate of ice". <i>Nature</i>. <b>479</b>: 506–508. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2011Natur.479..506M" rel="nofollow">2011Natur.479..506M</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/22113691" rel="nofollow">22113691</a>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a class="external text" href="//arxiv.org/abs/1107.1622" rel="nofollow">1107.1622</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature10586" rel="nofollow">10.1038/nature10586</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=structural+transformation+in+supercooled+water+controls+the+crystallization+rate+of+ice&amp;rft.au=Valeria+Molinero&amp;rft.aufirst=Emily&amp;rft.aulast=Moore&amp;rft.date=2011-11-24&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.pages=506-508&amp;rft.volume=479&amp;rft_id=info%3Aarxiv%2F1107.1622&amp;rft_id=info%3Abibcode%2F2011Natur.479..506M&amp;rft_id=info%3Adoi%2F10.1038%2Fnature10586&amp;rft_id=info%3Apmid%2F22113691&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-debenedetti_42-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-debenedetti_42_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-debenedetti_42_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFDebenedettiStanley2003">Debenedetti &amp; Stanley 2003</a>, p. 42</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Insights into Phases of Liquid Water from Study of Its Unusual Glass-Forming Properties, C. Austen Angell, Science 319, 582 (2008);<a class="external autonumber" href="http://www.sciencemag.org/content/319/5863/582.full.pdf" rel="nofollow">[1]</a> <a class="external autonumber" href="http://phys.org/news121010887.html" rel="nofollow">[2]</a>.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">"<a class="external text" href="http://jeb.biologists.org/cgi/reprint/26/1/57.pdf" rel="nofollow">A new method of freezing-point determination for small quantities</a>", J. A. Ramsay, <i><a class="mw-redirect" href="/wiki/J._Exp._Biol." title="J. Exp. Biol.">J. Exp. Biol.</a></i>.1949; 26</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="http://chem.wzu.edu.cn/UploadFile/20094315104316.pdf#page=99" rel="nofollow">page from 99~100</a> <a class="external text" href="https://web.archive.org/web/20130729120202/http://chem.wzu.edu.cn/UploadFile/20094315104316.pdf#page=99" rel="nofollow">Archived</a> July 29, 2013, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation journal">J.G. Duman (2001). "Antifreeze and ice nucleator proteins in terrestrial arthropods". <i>Annual Review of Physiology</i>. <b>63</b>: 327–357. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11181959" rel="nofollow">11181959</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1146%2Fannurev.physiol.63.1.327" rel="nofollow">10.1146/annurev.physiol.63.1.327</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Antifreeze+and+ice+nucleator+proteins+in+terrestrial+arthropods&amp;rft.au=J.G.+Duman&amp;rft.date=2001&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Physiology&amp;rft.pages=327-357&amp;rft.volume=63&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.physiol.63.1.327&amp;rft_id=info%3Apmid%2F11181959&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">Garth L Fletcher; Choy L Hew &amp; Peter L Davies (2001). "Antifreeze Proteins of Teleost Fishes". <i>Annual Review of Physiology</i>. <b>63</b>: 359–390. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11181960" rel="nofollow">11181960</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1146%2Fannurev.physiol.63.1.359" rel="nofollow">10.1146/annurev.physiol.63.1.359</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Antifreeze+Proteins+of+Teleost+Fishes&amp;rft.au=Choy+L+Hew&amp;rft.au=Garth+L+Fletcher&amp;rft.au=Peter+L+Davies&amp;rft.date=2001&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Physiology&amp;rft.pages=359-390&amp;rft.volume=63&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.physiol.63.1.359&amp;rft_id=info%3Apmid%2F11181960&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">C.H. Lowe; P.J. Lardner &amp; E.A. Halpern (1971). "Supercooling in reptiles and other vertebrates". <i>Comparative Biochemistry and Physiology</i>. <b>39A</b> (1): 125–135. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/4399229" rel="nofollow">4399229</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1016%2F0300-9629%2871%2990352-5" rel="nofollow">10.1016/0300-9629(71)90352-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Supercooling+in+reptiles+and+other+vertebrates&amp;rft.au=C.H.+Lowe&amp;rft.au=E.A.+Halpern&amp;rft.au=P.J.+Lardner&amp;rft.date=1971&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Comparative+Biochemistry+and+Physiology&amp;rft.pages=125-135&amp;rft.volume=39A&amp;rft_id=info%3Adoi%2F10.1016%2F0300-9629%2871%2990352-5&amp;rft_id=info%3Apmid%2F4399229&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ReferenceA-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-ReferenceA_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wisniewski, M (1997). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC158146" rel="nofollow">"Observations of ice nucleation and propagation in plants using infrared thermography"</a>. <i>Plant Physiology</i>. <b>113</b>: 327–334. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC158146" rel="nofollow">158146</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/12223611" rel="nofollow">12223611</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1104%2Fpp.113.2.327" rel="nofollow">10.1104/pp.113.2.327</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Observations+of+ice+nucleation+and+propagation+in+plants+using+infrared+thermography&amp;rft.aufirst=M&amp;rft.aulast=Wisniewski&amp;rft.date=1997&amp;rft.genre=article&amp;rft.jtitle=Plant+Physiology&amp;rft.pages=327-334&amp;rft.volume=113&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC158146&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC158146&amp;rft_id=info%3Adoi%2F10.1104%2Fpp.113.2.327&amp;rft_id=info%3Apmid%2F12223611&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Pearce2001-11"><span class="mw-cite-backlink">^ <a href="#cite_ref-Pearce2001_11-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Pearce2001_11-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Pearce, R (2001). <a class="external text" href="http://aob.oxfordjournals.org/content/87/4/417.full.pdf" rel="nofollow">"Plant freezing and damage"</a> <span style="font-size:85%;">(PDF)</span>. <i>Analysis of botany</i>. <b>87</b>: 417–424. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1006%2Fanbo.2000.1352" rel="nofollow">10.1006/anbo.2000.1352</a><span class="reference-accessdate">. Retrieved <span class="nowrap">11 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Plant+freezing+and+damage&amp;rft.aufirst=R&amp;rft.aulast=Pearce&amp;rft.date=2001&amp;rft.genre=article&amp;rft.jtitle=Analysis+of+botany&amp;rft.pages=417-424&amp;rft.volume=87&amp;rft_id=http%3A%2F%2Faob.oxfordjournals.org%2Fcontent%2F87%2F4%2F417.full.pdf&amp;rft_id=info%3Adoi%2F10.1006%2Fanbo.2000.1352&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-tandfonline.com-12"><span class="mw-cite-backlink">^ <a href="#cite_ref-tandfonline.com_12-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-tandfonline.com_12-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Wisniewski, M (2004). <a class="external text" href="http://www.tandfonline.com/doi/abs/10.1300/J411v10n01_02" rel="nofollow">"Ice nucleation, propagation, and deep supercooling in woody plants"</a>. <i>Journal of Crop Improvement</i>. <b>10</b>: 5–16. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1300%2Fj411v10n01_02" rel="nofollow">10.1300/j411v10n01_02</a><span class="reference-accessdate">. Retrieved <span class="nowrap">7 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Ice+nucleation%2C+propagation%2C+and+deep+supercooling+in+woody+plants&amp;rft.aufirst=M&amp;rft.aulast=Wisniewski&amp;rft.date=2004&amp;rft.genre=article&amp;rft.jtitle=Journal+of+Crop+Improvement&amp;rft.pages=5-16&amp;rft.volume=10&amp;rft_id=http%3A%2F%2Fwww.tandfonline.com%2Fdoi%2Fabs%2F10.1300%2FJ411v10n01_02&amp;rft_id=info%3Adoi%2F10.1300%2Fj411v10n01_02&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-journals.plos.org-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-journals.plos.org_13-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Kuprian, E. <a class="external text" href="http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0163160" rel="nofollow">"Persistent supercooling of reproductive shoots is enabled by structural ice barriers being active despite intact xylem connection"</a>. <i>PLOS ONE</i>. <b>11</b> (9): e0163160. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2016PLoSO..1163160K" rel="nofollow">2016PLoSO..1163160K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1371%2Fjournal.pone.0163160" rel="nofollow">10.1371/journal.pone.0163160</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Persistent+supercooling+of+reproductive+shoots+is+enabled+by+structural+ice+barriers+being+active+despite+intact+xylem+connection&amp;rft.aufirst=E&amp;rft.aulast=Kuprian&amp;rft.genre=article&amp;rft.issue=9&amp;rft.jtitle=PLOS+ONE&amp;rft.pages=e0163160&amp;rft.volume=11&amp;rft_id=http%3A%2F%2Fjournals.plos.org%2Fplosone%2Farticle%3Fid%3D10.1371%2Fjournal.pone.0163160&amp;rft_id=info%3Abibcode%2F2016PLoSO..1163160K&amp;rft_id=info%3Adoi%2F10.1371%2Fjournal.pone.0163160&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-ncbi.nlm.nih.gov-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-ncbi.nlm.nih.gov_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ncbi.nlm.nih.gov_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Neuner, Gilbert (2014). <a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4249714" rel="nofollow">"Frost resistance in alpine woody plants"</a>. <i>Front plant science</i>. <b>5</b>: 654. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC4249714" rel="nofollow">4249714</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/25520725" rel="nofollow">25520725</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.3389%2Ffpls.2014.00654" rel="nofollow">10.3389/fpls.2014.00654</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Frost+resistance+in+alpine+woody+plants&amp;rft.aufirst=Gilbert&amp;rft.aulast=Neuner&amp;rft.date=2014&amp;rft.genre=article&amp;rft.jtitle=Front+plant+science&amp;rft.pages=654&amp;rft.volume=5&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4249714&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC4249714&amp;rft_id=info%3Adoi%2F10.3389%2Ffpls.2014.00654&amp;rft_id=info%3Apmid%2F25520725&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Freezing_and_injury_in_plants-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Freezing_and_injury_in_plants_15-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Burke, M (1976). <a class="external text" href="http://www.annualreviews.org/doi/abs/10.1146/annurev.pp.27.060176.002451?journalCode=arplant.1" rel="nofollow">"Freezing and injury in plants"</a>. <i>Annual Review of Plant Physiology</i>. <b>27</b>: 507–528. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1146%2Fannurev.pp.27.060176.002451" rel="nofollow">10.1146/annurev.pp.27.060176.002451</a><span class="reference-accessdate">. Retrieved <span class="nowrap">8 December</span> 2016</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Freezing+and+injury+in+plants&amp;rft.aufirst=M&amp;rft.aulast=Burke&amp;rft.date=1976&amp;rft.genre=article&amp;rft.jtitle=Annual+Review+of+Plant+Physiology&amp;rft.pages=507-528&amp;rft.volume=27&amp;rft_id=http%3A%2F%2Fwww.annualreviews.org%2Fdoi%2Fabs%2F10.1146%2Fannurev.pp.27.060176.002451%3FjournalCode%3Darplant.1&amp;rft_id=info%3Adoi%2F10.1146%2Fannurev.pp.27.060176.002451&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.chillchamber.hussmann.com" rel="nofollow">Chill Chamber</a> <a class="external text" href="https://web.archive.org/web/20090301174525/http://www.chillchamber.hussmann.com/" rel="nofollow">Archived</a> March 1, 2009, at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.slush-it.com" rel="nofollow">Slush-It!</a> <a class="external text" href="https://web.archive.org/20100123161644/http://www.slush-it.com:80/" rel="nofollow">Archived</a> 2010-01-23 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web">Charlie Sorrel (2007-09-21). <a class="external text" href="https://www.wired.com/gadgetlab/2007/09/coca-cola-plans/" rel="nofollow">"Coca Cola Plans High Tech, Super Cool Sprite"</a>. <i><a href="/wiki/Wired_(magazine)" title="Wired (magazine)">Wired</a></i>. <a href="/wiki/Cond%C3%A9_Nast" title="Condé Nast">Condé Nast</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-12-05</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Coca+Cola+Plans+High+Tech%2C+Super+Cool+Sprite&amp;rft.au=Charlie+Sorrel&amp;rft.date=2007-09-21&amp;rft.genre=unknown&amp;rft.jtitle=Wired&amp;rft_id=https%3A%2F%2Fwww.wired.com%2Fgadgetlab%2F2007%2F09%2Fcoca-cola-plans%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation journal">Berendsen, TA; Bruinsma, BG; Puts, CF; Saeidi, N; Usta, OB; Uygun, BE; Izamis, Maria-Louisa; Toner, Mehmet; Yarmush, Martin L; Uygun, Korkut (2014). <a class="external text" href="http://www.nature.com/nm/journal/v20/n7/full/nm.3588.html" rel="nofollow">"Supercooling enables long-term transplantation survival following 4 days of liver preservation"</a>. <i>Nature Medicine</i>. <b>20</b> (7): 790–3. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnm.3588" rel="nofollow">10.1038/nm.3588</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Supercooling+enables+long-term+transplantation+survival+following+4+days+of+liver+preservation&amp;rft.au=Bruinsma%2C+BG&amp;rft.au=Izamis%2C+Maria-Louisa&amp;rft.au=Puts%2C+CF&amp;rft.au=Saeidi%2C+N&amp;rft.au=Toner%2C+Mehmet&amp;rft.au=Usta%2C+OB&amp;rft.au=Uygun%2C+BE&amp;rft.au=Uygun%2C+Korkut&amp;rft.au=Yarmush%2C+Martin+L&amp;rft.aufirst=TA&amp;rft.aulast=Berendsen&amp;rft.date=2014&amp;rft.genre=article&amp;rft.issue=7&amp;rft.jtitle=Nature+Medicine&amp;rft.pages=790-3&amp;rft.volume=20&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnm%2Fjournal%2Fv20%2Fn7%2Ffull%2Fnm.3588.html&amp;rft_id=info%3Adoi%2F10.1038%2Fnm.3588&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation news">Hunka, George (2015-05-06). <a class="external text" href="http://www.rdmag.com/news/2015/05/super-cool-way-deliver-drugs" rel="nofollow">"A "super cool" way to deliver drugs"</a>. R&amp;D.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=A+%22super+cool%22+way+to+deliver+drugs&amp;rft.aufirst=George&amp;rft.aulast=Hunka&amp;rft.date=2015-05-06&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww.rdmag.com%2Fnews%2F2015%2F05%2Fsuper-cool-way-deliver-drugs&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation web">Mitch Jacoby (2016-03-14). <a class="external text" href="http://cen.acs.org/articles/94/i11/Soldering-without-heat.html" rel="nofollow">"Soldering without heat"</a>. <i>Chemical and Engineering News</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-14</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Soldering+without+heat&amp;rft.au=Mitch+Jacoby&amp;rft.date=2016-03-14&amp;rft.genre=unknown&amp;rft.jtitle=Chemical+and+Engineering+News&amp;rft_id=http%3A%2F%2Fcen.acs.org%2Farticles%2F94%2Fi11%2FSoldering-without-heat.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web">Simge Çınar, Ian D. Tevis, Jiahao Chen &amp; Martin Thuo (2016-02-23). <a class="external text" href="http://www.nature.com/articles/srep21864" rel="nofollow">"Mechanical Fracturing of Core-Shell Undercooled Metal Particles for Heat-Free Soldering"</a>. <i>Nature</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2016-03-14</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Mechanical+Fracturing+of+Core-Shell+Undercooled+Metal+Particles+for+Heat-Free+Soldering&amp;rft.au=Simge+%C3%87%C4%B1nar%2C+Ian+D.+Tevis%2C+Jiahao+Chen+%26+Martin+Thuo&amp;rft.date=2016-02-23&amp;rft.genre=unknown&amp;rft.jtitle=Nature&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Farticles%2Fsrep21864&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercooling&amp;action=edit&amp;section=8" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation journal" id="CITEREFDebenedettiStanley2003">Debenedetti, P. G.; Stanley, H. E. (2003). <a class="external text" href="http://polymer.bu.edu/hes/articles/ds03.pdf" rel="nofollow">"Supercooled and Glassy Water"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Physics_Today" title="Physics Today">Physics Today</a></i>. <b>56</b> (6): 40–46. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2003PhT....56f..40D" rel="nofollow">2003PhT....56f..40D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1063%2F1.1595053" rel="nofollow">10.1063/1.1595053</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Supercooled+and+Glassy+Water&amp;rft.au=Stanley%2C+H.+E.&amp;rft.aufirst=P.+G.&amp;rft.aulast=Debenedetti&amp;rft.date=2003&amp;rft.genre=article&amp;rft.issue=6&amp;rft.jtitle=Physics+Today&amp;rft.pages=40-46&amp;rft.volume=56&amp;rft_id=http%3A%2F%2Fpolymer.bu.edu%2Fhes%2Farticles%2Fds03.pdf&amp;rft_id=info%3Abibcode%2F2003PhT....56f..40D&amp;rft_id=info%3Adoi%2F10.1063%2F1.1595053&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFGiovambattistaAngellSciortinoStanley2004">Giovambattista, N.; Angell, C. A.; Sciortino, F.; Stanley, H. E. (July 2004). <a class="external text" href="http://polymer.bu.edu/hes/articles/gass04.pdf" rel="nofollow">"Glass-Transition Temperature of Water: A Simulation Study"</a> <span style="font-size:85%;">(PDF)</span>. <i>Physical Review Letters</i>. <b>93</b> (4): 047801. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2004PhRvL..93d7801G" rel="nofollow">2004PhRvL..93d7801G</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15323794" rel="nofollow">15323794</a>. <a href="/wiki/ArXiv" title="ArXiv">arXiv</a>:<span class="plainlinks"><a class="external text" href="//arxiv.org/abs/cond-mat/0403133" rel="nofollow">cond-mat/0403133</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1103%2FPhysRevLett.93.047801" rel="nofollow">10.1103/PhysRevLett.93.047801</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Glass-Transition+Temperature+of+Water%3A+A+Simulation+Study&amp;rft.au=Angell%2C+C.+A.&amp;rft.au=Sciortino%2C+F.&amp;rft.au=Stanley%2C+H.+E.&amp;rft.aufirst=N.&amp;rft.aulast=Giovambattista&amp;rft.date=2004-07&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Physical+Review+Letters&amp;rft.pages=047801&amp;rft.volume=93&amp;rft_id=http%3A%2F%2Fpolymer.bu.edu%2Fhes%2Farticles%2Fgass04.pdf&amp;rft_id=info%3Aarxiv%2Fcond-mat%2F0403133&amp;rft_id=info%3Abibcode%2F2004PhRvL..93d7801G&amp;rft_id=info%3Adoi%2F10.1103%2FPhysRevLett.93.047801&amp;rft_id=info%3Apmid%2F15323794&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation journal" id="CITEREFRogersonCardoso.2C_S._S._S.2004">Rogerson, M. A.; Cardoso, S. S. S. (April 2004). <a class="external text" href="http://www3.interscience.wiley.com/cgi-bin/abstract/108065684/ABSTRACT" rel="nofollow">"Solidification in heat packs: III. Metallic trigger"</a>. <i>AIChE Journal</i>. <b>49</b> (2): 522–529. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Faic.690490222" rel="nofollow">10.1002/aic.690490222</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASupercooling&amp;rft.atitle=Solidification+in+heat+packs%3A+III.+Metallic+trigger&amp;rft.au=Cardoso%2C+S.+S.+S.&amp;rft.aufirst=M.+A.&amp;rft.aulast=Rogerson&amp;rft.date=2004-04&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=AIChE+Journal&amp;rft.pages=522-529&amp;rft.volume=49&amp;rft_id=http%3A%2F%2Fwww3.interscience.wiley.com%2Fcgi-bin%2Fabstract%2F108065684%2FABSTRACT&amp;rft_id=info%3Adoi%2F10.1002%2Faic.690490222&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Supercooling&amp;action=edit&amp;section=9" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://www.youtube.com/watch?v=8ExRopuown0" rel="nofollow"><span class="plainlinks">Supercooled water and coke</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=YuPfsAdEG2E" rel="nofollow"><span class="plainlinks">Supercooled water</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=q_gfIiVJ5Dc" rel="nofollow"><span class="plainlinks">Super Cooled Water #2</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=pTdiTe3x0Bo" rel="nofollow"><span class="plainlinks">Supercooled Water Nucleation Experiments</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a></li>
+<li><a class="external text" href="http://xstructure.inr.ac.ru/x-bin/theme3.py?level=1&amp;index1=130463" rel="nofollow">Supercooled liquids on arxiv.org</a></li>
+<li><a class="external text" href="http://www.radiolab.org/story/super-cool/" rel="nofollow">Radiolab podcast on supercooling</a></li>
+</ul>
+<div aria-labelledby="States_of_matter_.28list.29" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:States_of_matter" title="Template:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:States_of_matter" title="Template talk:States of matter"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:States_of_matter&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="States_of_matter_.28list.29" style="font-size:114%;margin:0 4em"><a href="/wiki/State_of_matter" title="State of matter">States of matter</a> (<a href="/wiki/List_of_states_of_matter" title="List of states of matter">list</a>)</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">State</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Solid" title="Solid">Solid</a></li>
+<li><a href="/wiki/Liquid" title="Liquid">Liquid</a></li>
+<li><a href="/wiki/Gas" title="Gas">Gas</a> / <a href="/wiki/Vapor" title="Vapor">Vapor</a></li>
+<li><a href="/wiki/Plasma_(physics)" title="Plasma (physics)">Plasma</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="7" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Phase_change_-_en.svg"><img alt="Phase change - en.svg" data-file-height="524" data-file-width="493" height="266" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/250px-Phase_change_-_en.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/375px-Phase_change_-_en.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0b/Phase_change_-_en.svg/500px-Phase_change_-_en.svg.png 2x" width="250"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Low energy</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bose%E2%80%93Einstein_condensate" title="Bose–Einstein condensate">Bose–Einstein condensate</a></li>
+<li><a href="/wiki/Fermionic_condensate" title="Fermionic condensate">Fermionic condensate</a></li>
+<li><a href="/wiki/Degenerate_matter" title="Degenerate matter">Degenerate matter</a></li>
+<li><a href="/wiki/Quantum_Hall_effect" title="Quantum Hall effect">Quantum Hall</a></li>
+<li><a href="/wiki/Rydberg_matter" title="Rydberg matter">Rydberg matter</a></li>
+<li><a href="/wiki/Strange_matter" title="Strange matter">Strange matter</a></li>
+<li><a href="/wiki/Superfluidity" title="Superfluidity">Superfluid</a></li>
+<li><a href="/wiki/Supersolid" title="Supersolid">Supersolid</a></li>
+<li><a class="mw-redirect" href="/wiki/Photonic_matter" title="Photonic matter">Photonic matter</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">High energy</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/QCD_matter" title="QCD matter">QCD matter</a></li>
+<li><a href="/wiki/Lattice_QCD" title="Lattice QCD">Lattice QCD</a></li>
+<li><a href="/wiki/Quark%E2%80%93gluon_plasma" title="Quark–gluon plasma">Quark–gluon plasma</a></li>
+<li><a href="/wiki/Supercritical_fluid" title="Supercritical fluid">Supercritical fluid</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other states</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Colloid" title="Colloid">Colloid</a></li>
+<li><a href="/wiki/Glass" title="Glass">Glass</a></li>
+<li><a href="/wiki/Liquid_crystal" title="Liquid crystal">Liquid crystal</a></li>
+<li><a href="/wiki/Quantum_spin_liquid" title="Quantum spin liquid">Quantum spin liquid</a></li>
+<li>Magnetically ordered
+<ul>
+<li><a href="/wiki/Antiferromagnetism" title="Antiferromagnetism">Antiferromagnet</a></li>
+<li><a href="/wiki/Ferrimagnetism" title="Ferrimagnetism">Ferrimagnet</a></li>
+<li><a href="/wiki/Ferromagnetism" title="Ferromagnetism">Ferromagnet</a></li>
+</ul>
+</li>
+<li><a href="/wiki/String-net_liquid" title="String-net liquid">String-net liquid</a></li>
+<li><a href="/wiki/Superglass" title="Superglass">Superglass</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Phase_transition" title="Phase transition">Transitions</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Boiling" title="Boiling">Boiling</a></li>
+<li><a href="/wiki/Boiling_point" title="Boiling point">Boiling point</a></li>
+<li><a href="/wiki/Condensation" title="Condensation">Condensation</a></li>
+<li><a href="/wiki/Critical_line_(thermodynamics)" title="Critical line (thermodynamics)">Critical line</a></li>
+<li><a href="/wiki/Critical_point_(thermodynamics)" title="Critical point (thermodynamics)">Critical point</a></li>
+<li><a href="/wiki/Crystallization" title="Crystallization">Crystallization</a></li>
+<li><a href="/wiki/Deposition_(phase_transition)" title="Deposition (phase transition)">Deposition</a></li>
+<li><a href="/wiki/Evaporation" title="Evaporation">Evaporation</a></li>
+<li><a href="/wiki/Flash_evaporation" title="Flash evaporation">Flash evaporation</a></li>
+<li><a href="/wiki/Freezing" title="Freezing">Freezing</a></li>
+<li><a href="/wiki/Chemical_ionization" title="Chemical ionization">Chemical ionization</a></li>
+<li><a href="/wiki/Ionization" title="Ionization">Ionization</a></li>
+<li><a href="/wiki/Lambda_point" title="Lambda point">Lambda point</a></li>
+<li><a href="/wiki/Melting" title="Melting">Melting</a></li>
+<li><a href="/wiki/Melting_point" title="Melting point">Melting point</a></li>
+<li><a href="/wiki/Plasma_recombination" title="Plasma recombination">Recombination</a></li>
+<li><a href="/wiki/Regelation" title="Regelation">Regelation</a></li>
+<li><a href="/wiki/Vapor%E2%80%93liquid_equilibrium" title="Vapor–liquid equilibrium">Saturated fluid</a></li>
+<li><a href="/wiki/Sublimation_(phase_transition)" title="Sublimation (phase transition)">Sublimation</a></li>
+<li><a class="mw-selflink selflink">Supercooling</a></li>
+<li><a href="/wiki/Triple_point" title="Triple point">Triple point</a></li>
+<li><a href="/wiki/Vaporization" title="Vaporization">Vaporization</a></li>
+<li><a href="/wiki/Vitrification" title="Vitrification">Vitrification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Quantities</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Enthalpy_of_fusion" title="Enthalpy of fusion">Enthalpy of fusion</a></li>
+<li><a href="/wiki/Enthalpy_of_sublimation" title="Enthalpy of sublimation">Enthalpy of sublimation</a></li>
+<li><a href="/wiki/Enthalpy_of_vaporization" title="Enthalpy of vaporization">Enthalpy of vaporization</a></li>
+<li><a href="/wiki/Latent_heat" title="Latent heat">Latent heat</a></li>
+<li><a href="/wiki/Latent_internal_energy" title="Latent internal energy">Latent internal energy</a></li>
+<li><a href="/wiki/Trouton%27s_ratio" title="Trouton's ratio">Trouton's ratio</a></li>
+<li><a href="/wiki/Volatility_(chemistry)" title="Volatility (chemistry)">Volatility</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Binodal" title="Binodal">Binodal</a></li>
+<li><a href="/wiki/Compressed_fluid" title="Compressed fluid">Compressed fluid</a></li>
+<li><a href="/wiki/Cooling_curve" title="Cooling curve">Cooling curve</a></li>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Leidenfrost_effect" title="Leidenfrost effect">Leidenfrost effect</a></li>
+<li><a href="/wiki/Macroscopic_quantum_phenomena" title="Macroscopic quantum phenomena">Macroscopic quantum phenomena</a></li>
+<li><a href="/wiki/Mpemba_effect" title="Mpemba effect">Mpemba effect</a></li>
+<li><a class="mw-redirect" href="/wiki/Order_and_disorder_(physics)" title="Order and disorder (physics)">Order and disorder (physics)</a></li>
+<li><a href="/wiki/Spinodal" title="Spinodal">Spinodal</a></li>
+<li><a href="/wiki/Superconductivity" title="Superconductivity">Superconductivity</a></li>
+<li><a href="/wiki/Superheated_water" title="Superheated water">Superheated vapor</a></li>
+<li><a href="/wiki/Superheating" title="Superheating">Superheating</a></li>
+<li><a href="/wiki/Thermo-dielectric_effect" title="Thermo-dielectric effect">Thermo-dielectric effect</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Glass_science_topics" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Glass_science" title="Template:Glass science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Glass_science" title="Template talk:Glass science"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Glass_science&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Glass_science_topics" style="font-size:114%;margin:0 4em"><a href="/wiki/Glass" title="Glass">Glass</a> science topics</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Basics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glass" title="Glass">Glass</a></li>
+<li><a href="/wiki/Glass_transition" title="Glass transition">Glass transition</a></li>
+<li><a class="mw-selflink selflink">Supercooling</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Formulation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AgInSbTe" title="AgInSbTe">AgInSbTe</a></li>
+<li><a href="/wiki/Bioglass" title="Bioglass">Bioglass</a></li>
+<li><a href="/wiki/Borophosphosilicate_glass" title="Borophosphosilicate glass">Borophosphosilicate glass</a></li>
+<li><a href="/wiki/Borosilicate_glass" title="Borosilicate glass">Borosilicate glass</a></li>
+<li><a href="/wiki/Ceramic_glaze" title="Ceramic glaze">Ceramic glaze</a></li>
+<li><a href="/wiki/Chalcogenide_glass" title="Chalcogenide glass">Chalcogenide glass</a></li>
+<li><a href="/wiki/Cobalt_glass" title="Cobalt glass">Cobalt glass</a></li>
+<li><a href="/wiki/Cranberry_glass" title="Cranberry glass">Cranberry glass</a></li>
+<li><a href="/wiki/Crown_glass_(optics)" title="Crown glass (optics)">Crown glass</a></li>
+<li><a href="/wiki/Flint_glass" title="Flint glass">Flint glass</a></li>
+<li><a href="/wiki/Fluorosilicate_glass" title="Fluorosilicate glass">Fluorosilicate glass</a></li>
+<li><a href="/wiki/Fused_quartz" title="Fused quartz">Fused quartz</a></li>
+<li><a href="/wiki/GeSbTe" title="GeSbTe">GeSbTe</a></li>
+<li><a href="/wiki/Cranberry_glass" title="Cranberry glass">Gold ruby glass</a></li>
+<li><a href="/wiki/Lead_glass" title="Lead glass">Lead glass</a></li>
+<li><a href="/wiki/Milk_glass" title="Milk glass">Milk glass</a></li>
+<li><a href="/wiki/Phosphosilicate_glass" title="Phosphosilicate glass">Phosphosilicate glass</a></li>
+<li><a href="/wiki/Photochromic_lens" title="Photochromic lens">Photochromic lens glass</a></li>
+<li><a href="/wiki/Glass#Silicate_glass" title="Glass">Silicate glass</a></li>
+<li><a href="/wiki/Soda-lime_glass" title="Soda-lime glass">Soda-lime glass</a></li>
+<li><a href="/wiki/Sodium_hexametaphosphate" title="Sodium hexametaphosphate">Sodium hexametaphosphate</a></li>
+<li><a href="/wiki/Sodium_silicate" title="Sodium silicate">Soluble glass</a></li>
+<li><a href="/wiki/Tellurite_glass" title="Tellurite glass">Tellurite glass</a></li>
+<li><a href="/wiki/Thoriated_glass" title="Thoriated glass">Thoriated glass</a></li>
+<li><a href="/wiki/Ultra_low_expansion_glass" title="Ultra low expansion glass">Ultra low expansion glass</a></li>
+<li><a href="/wiki/Uranium_glass" title="Uranium glass">Uranium glass</a></li>
+<li><a href="/wiki/Vitreous_enamel" title="Vitreous enamel">Vitreous enamel</a></li>
+<li><a href="/wiki/Wood%27s_glass" title="Wood's glass">Wood's glass</a></li>
+<li><a href="/wiki/ZBLAN" title="ZBLAN">ZBLAN</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Glass-ceramic" title="Glass-ceramic">Glass-ceramics</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bioactive_glass" title="Bioactive glass">Bioactive glass</a></li>
+<li><a href="/wiki/CorningWare" title="CorningWare">CorningWare</a></li>
+<li><a href="/wiki/Glass-ceramic-to-metal_seals" title="Glass-ceramic-to-metal seals">Glass-ceramic-to-metal seals</a></li>
+<li><a href="/wiki/Macor" title="Macor">Macor</a></li>
+<li><a href="/wiki/Zerodur" title="Zerodur">Zerodur</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Preparation</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Annealing_(glass)" title="Annealing (glass)">Annealing</a></li>
+<li><a href="/wiki/Chemical_vapor_deposition" title="Chemical vapor deposition">Chemical vapor deposition</a></li>
+<li><a href="/wiki/Glass_batch_calculation" title="Glass batch calculation">Glass batch calculation</a></li>
+<li><a href="/wiki/Glass_production" title="Glass production">Glass forming</a></li>
+<li><a href="/wiki/Glass_production#Hot_end" title="Glass production">Glass melting</a></li>
+<li><a href="/wiki/Calculation_of_glass_properties" title="Calculation of glass properties">Glass modeling</a></li>
+<li><a href="/wiki/Ion_implantation" title="Ion implantation">Ion implantation</a></li>
+<li><a href="/wiki/Liquidus" title="Liquidus">Liquidus temperature</a></li>
+<li><a href="/wiki/Sol-gel" title="Sol-gel">Sol-gel technique</a></li>
+<li><a href="/wiki/Viscosity#Viscosity_of_amorphous_materials" title="Viscosity">Viscosity</a></li>
+<li><a href="/wiki/Vitrification" title="Vitrification">Vitrification</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Optics" title="Optics">Optics</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Achromatic_lens" title="Achromatic lens">Achromat</a></li>
+<li><a href="/wiki/Dispersion_(optics)" title="Dispersion (optics)">Dispersion</a></li>
+<li><a href="/wiki/Gradient-index_optics" title="Gradient-index optics">Gradient-index optics</a></li>
+<li><a href="/wiki/Hydrogen_darkening" title="Hydrogen darkening">Hydrogen darkening</a></li>
+<li><a href="/wiki/Optical_amplifier" title="Optical amplifier">Optical amplifier</a></li>
+<li><a href="/wiki/Optical_fiber" title="Optical fiber">Optical fiber</a></li>
+<li><a href="/wiki/Optical_lens_design" title="Optical lens design">Optical lens design</a></li>
+<li><a href="/wiki/Photochromic_lens" title="Photochromic lens">Photochromic lens</a></li>
+<li><a href="/wiki/Photosensitive_glass" title="Photosensitive glass">Photosensitive glass</a></li>
+<li><a href="/wiki/Refraction" title="Refraction">Refraction</a></li>
+<li><a href="/wiki/Transparency_and_translucency" title="Transparency and translucency">Transparent materials</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Surface<br/>
+modification</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Anti-reflective_coating" title="Anti-reflective coating">Anti-reflective coating</a></li>
+<li><a href="/wiki/Chemically_strengthened_glass" title="Chemically strengthened glass">Chemically strengthened glass</a></li>
+<li><a href="/wiki/Corrosion#Corrosion_of_glasses" title="Corrosion">Corrosion</a></li>
+<li><a href="/wiki/Dealkalization" title="Dealkalization">Dealkalization</a></li>
+<li><a href="/wiki/DNA_microarray" title="DNA microarray">DNA microarray</a></li>
+<li><a href="/wiki/Hydrogen_darkening" title="Hydrogen darkening">Hydrogen darkening</a></li>
+<li><a href="/wiki/Insulated_glazing" title="Insulated glazing">Insulated glazing</a></li>
+<li><a href="/wiki/Porous_glass" title="Porous glass">Porous glass</a></li>
+<li><a href="/wiki/Self-cleaning_glass" title="Self-cleaning glass">Self-cleaning glass</a></li>
+<li><a href="/wiki/Sol-gel" title="Sol-gel">Sol-gel technique</a></li>
+<li><a href="/wiki/Toughened_glass" title="Toughened glass">Toughened glass</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Diverse<br/>
+topics</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Glass-coated_wire" title="Glass-coated wire">Glass-coated wire</a></li>
+<li><a href="/wiki/Safety_glass" title="Safety glass">Safety glass</a></li>
+<li><a href="/wiki/Glass_databases" title="Glass databases">Glass databases</a></li>
+<li><a href="/wiki/Glass_electrode" title="Glass electrode">Glass electrode</a></li>
+<li><a href="/wiki/Glass_fiber_reinforced_concrete" title="Glass fiber reinforced concrete">Glass fiber reinforced concrete</a></li>
+<li><a href="/wiki/Glass_ionomer_cement" title="Glass ionomer cement">Glass ionomer cement</a></li>
+<li><a href="/wiki/Glass_microsphere" title="Glass microsphere">Glass microspheres</a></li>
+<li><a href="/wiki/Fiberglass" title="Fiberglass">Glass-reinforced plastic</a></li>
+<li><a href="/wiki/Glass-to-metal_seal" title="Glass-to-metal seal">Glass-to-metal seal</a></li>
+<li><a href="/wiki/Porous_glass" title="Porous glass">Porous glass</a></li>
+<li><a href="/wiki/Prince_Rupert%27s_Drop" title="Prince Rupert's Drop">Prince Rupert's Drops</a></li>
+<li><a href="/wiki/Radioactive_waste#Vitrification" title="Radioactive waste">Radioactive waste vitrification</a></li>
+<li><a href="/wiki/Windshield" title="Windshield">Windshield</a></li>
+<li><a href="/wiki/Glass_fiber" title="Glass fiber">Glass fiber</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00565039" rel="nofollow">00565039</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1219
+Cached time: 20170925191433
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.324 seconds
+Real time usage: 0.446 seconds
+Preprocessor visited node count: 1819/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 74707/2097152 bytes
+Template argument size: 596/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 0/500
+Lua time usage: 0.145/10.000 seconds
+Lua memory usage: 3.66 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  302.984      1 -total
+ 52.03%  157.630      1 Template:Reflist
+ 33.28%  100.829     15 Template:Cite_journal
+ 13.08%   39.635      4 Template:Youtube
+  9.28%   28.112      1 Template:Authority_control
+  7.46%   22.603      1 Template:Distinguish
+  4.93%   14.933      4 Template:Namespace_detect
+  4.59%   13.905      3 Template:Cite_web
+  4.29%   13.008      2 Template:Navbox
+  4.13%   12.507      1 Template:Phase_of_matter
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:285534-0!canonical!math=5 and timestamp 20170925191432 and revision id 800456380
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Supercooling&amp;oldid=800456380">https://en.wikipedia.org/w/index.php?title=Supercooling&amp;oldid=800456380</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Thermodynamic_processes" title="Category:Thermodynamic processes">Thermodynamic processes</a></li><li><a href="/wiki/Category:Condensed_matter_physics" title="Category:Condensed matter physics">Condensed matter physics</a></li><li><a href="/wiki/Category:Concepts_in_physics" title="Category:Concepts in physics">Concepts in physics</a></li><li><a href="/wiki/Category:Glass_physics" title="Category:Glass physics">Glass physics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Supercooling" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Supercooling" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Supercooling" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Supercooling" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Supercooling">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Supercooling&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Supercooling&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Supercooling" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Supercooling" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Supercooling&amp;oldid=800456380" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Supercooling&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q213659" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Supercooling&amp;id=800456380" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Supercooling">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Supercooling&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DSupercooling%26returnto%3DSupercooling%26oldid%3D800456380%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Supercooling&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%81%D8%B1%D8%B7_%D8%A7%D9%84%D8%AA%D8%A8%D8%B1%D9%8A%D8%AF" hreflang="ar" lang="ar" title="فرط التبريد – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B0%D0%B0%D1%85%D0%B0%D0%BB%D0%BE%D0%B4%D0%B6%D0%B0%D0%BD%D0%B0%D1%8F_%D0%B2%D0%B0%D0%B4%D0%BA%D0%B0%D1%81%D1%86%D1%8C" hreflang="be" lang="be" title="Пераахалоджаная вадкасць – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Subfusi%C3%B3" hreflang="ca" lang="ca" title="Subfusió – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Podchlazen%C3%AD_(termodynamika)" hreflang="cs" lang="cs" title="Podchlazení (termodynamika) – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Underafk%C3%B8ling_(fysik)" hreflang="da" lang="da" title="Underafkøling (fysik) – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Unterk%C3%BChlung_(Thermodynamik)" hreflang="de" lang="de" title="Unterkühlung (Thermodynamik) – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Allajahtumine" hreflang="et" lang="et" title="Allajahtumine – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sobrefusi%C3%B3n" hreflang="es" lang="es" title="Sobrefusión – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%D8%B3%D8%B1%D9%85%D8%A7%DB%8C%D8%B4" hreflang="fa" lang="fa" title="فراسرمایش – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Surfusion" hreflang="fr" lang="fr" title="Surfusion – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Forfhuar%C3%BA" hreflang="ga" lang="ga" title="Forfhuarú – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B3%BC%EB%83%89%EA%B0%81" hreflang="ko" lang="ko" title="과냉각 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%85%E0%A4%A4%E0%A4%BF%E0%A4%B6%E0%A5%80%E0%A4%A4%E0%A4%A8" hreflang="hi" lang="hi" title="अतिशीतन – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Pothla%C4%91enje" hreflang="hr" lang="hr" title="Pothlađenje – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Pendinginan_super" hreflang="id" lang="id" title="Pendinginan super – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Sopraffusione" hreflang="it" lang="it" title="Sopraffusione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%99%D7%A8%D7%95%D7%A8-%D7%A2%D7%9C" hreflang="he" lang="he" title="קירור-על – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%90%D1%81%D0%B0_%D1%81%D1%83%D1%8B%D1%82%D1%83" hreflang="kk" lang="kk" title="Аса суыту – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Superfrigidatio" hreflang="la" lang="la" title="Superfrigidatio – Latin">Latina</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%85%E0%B4%A4%E0%B4%BF%E0%B4%B6%E0%B5%80%E0%B4%A4%E0%B4%B3%E0%B4%9C%E0%B4%B2%E0%B4%82" hreflang="ml" lang="ml" title="അതിശീതളജലം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Superkoeling" hreflang="nl" lang="nl" title="Superkoeling – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%81%8E%E5%86%B7%E5%8D%B4" hreflang="ja" lang="ja" title="過冷却 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Underkj%C3%B8lte_vanndr%C3%A5per" hreflang="no" lang="no" title="Underkjølte vanndråper – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Underkj%C3%B8lte_vassdropar" hreflang="nn" lang="nn" title="Underkjølte vassdropar – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Ciecz_przech%C5%82odzona" hreflang="pl" lang="pl" title="Ciecz przechłodzona – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sobrefus%C3%A3o" hreflang="pt" lang="pt" title="Sobrefusão – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BE%D1%85%D0%BB%D0%B0%D0%B6%D0%B4%D1%91%D0%BD%D0%BD%D0%B0%D1%8F_%D0%B6%D0%B8%D0%B4%D0%BA%D0%BE%D1%81%D1%82%D1%8C" hreflang="ru" lang="ru" title="Переохлаждённая жидкость – Russian">Русский</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Pothla%C4%91enje" hreflang="sh" lang="sh" title="Pothlađenje – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Alij%C3%A4%C3%A4htyminen" hreflang="fi" lang="fi" title="Alijäähtyminen – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Underkylning" hreflang="sv" lang="sv" title="Underkylning – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%80%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AF%81%E0%AE%B3%E0%AE%BF%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%81" hreflang="ta" lang="ta" title="மீக்குளிர்வு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9F%D0%B5%D1%80%D0%B5%D0%BE%D1%85%D0%BE%D0%BB%D0%BE%D0%B4%D0%B6%D0%B5%D0%BD%D0%B0_%D1%80%D1%96%D0%B4%D0%B8%D0%BD%D0%B0" hreflang="uk" lang="uk" title="Переохолоджена рідина – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Si%C3%AAu_l%E1%BA%A1nh_(nhi%E1%BB%87t_%C4%91%E1%BB%99ng_l%E1%BB%B1c_h%E1%BB%8Dc)" hreflang="vi" lang="vi" title="Siêu lạnh (nhiệt động lực học) – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BF%87%E5%86%B7" hreflang="zh" lang="zh" title="过冷 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q213659#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 13 September 2017, at 17:23.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Supercooling&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.324","walltime":"0.446","ppvisitednodes":{"value":1819,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":74707,"limit":2097152},"templateargumentsize":{"value":596,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  302.984      1 -total"," 52.03%  157.630      1 Template:Reflist"," 33.28%  100.829     15 Template:Cite_journal"," 13.08%   39.635      4 Template:Youtube","  9.28%   28.112      1 Template:Authority_control","  7.46%   22.603      1 Template:Distinguish","  4.93%   14.933      4 Template:Namespace_detect","  4.59%   13.905      3 Template:Cite_web","  4.29%   13.008      2 Template:Navbox","  4.13%   12.507      1 Template:Phase_of_matter"]},"scribunto":{"limitreport-timeusage":{"value":"0.145","limit":"10.000"},"limitreport-memusage":{"value":3836541,"limit":52428800}},"cachereport":{"origin":"mw1219","timestamp":"20170925191433","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":97,"wgHostname":"mw1274"});});</script>
+</body>
+</html>

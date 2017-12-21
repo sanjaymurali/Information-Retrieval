@@ -1,0 +1,577 @@
+https://en.wikipedia.org/wiki/Convective_Available_Potential_Energy
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Convective available potential energy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Convective_available_potential_energy","wgTitle":"Convective available potential energy","wgCurRevisionId":786647569,"wgRevisionId":786647569,"wgArticleId":1200324,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Wikipedia articles that are too technical from November 2014","All articles that are too technical","Articles needing expert attention from November 2014","All articles needing expert attention","Severe weather and convection","Atmospheric thermodynamics","Fluid dynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Convective_available_potential_energy","wgRelevantArticleId":1200324,"wgRequestId":"WdOrCgpAIC0AAKUM5FYAAACU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Convective_Available_Potential_Energy","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Convective_available_potential_energy","wgWikibaseItemId":"Q1129355","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/2/2b/Convective_instability_animation_12Z_21Z_Jan08.gif" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Convective_available_potential_energy" rel="alternate"/>
+<link href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Convective_available_potential_energy" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Convective_available_potential_energy rootpage-Convective_available_potential_energy vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Convective available potential energy</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Convective_Available_Potential_Energy&amp;redirect=no" title="Convective Available Potential Energy">Convective Available Potential Energy</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-technical" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/40px-Edit-clear.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/60px-Edit-clear.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f2/Edit-clear.svg/80px-Edit-clear.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>may be too <a class="extiw" href="https://en.wiktionary.org/wiki/technical#Adjective" title="wikt:technical">technical</a> for most readers to understand</b>. <span class="hide-when-compact">Please <a class="external text" href="//en.wikipedia.org/w/index.php?title=Convective_available_potential_energy&amp;action=edit">help improve it</a> to <a href="/wiki/Wikipedia:Make_technical_articles_understandable" title="Wikipedia:Make technical articles understandable">make it understandable to non-experts</a>, without removing the technical details. The <a href="/wiki/Talk:Convective_available_potential_energy" title="Talk:Convective available potential energy">talk page</a> may contain suggestions.</span> <small><i>(November 2014)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Convective_instability_animation_12Z_21Z_Jan08.gif"><img alt="" class="thumbimage" data-file-height="646" data-file-width="851" height="266" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Convective_instability_animation_12Z_21Z_Jan08.gif/350px-Convective_instability_animation_12Z_21Z_Jan08.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Convective_instability_animation_12Z_21Z_Jan08.gif/525px-Convective_instability_animation_12Z_21Z_Jan08.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Convective_instability_animation_12Z_21Z_Jan08.gif/700px-Convective_instability_animation_12Z_21Z_Jan08.gif 2x" width="350"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Convective_instability_animation_12Z_21Z_Jan08.gif" title="Enlarge"></a></div>
+A skew-T plot showing a morning sounding with a large hydrolapse followed by an afternoon sounding showing the cooling (red curve moving to the left) which occurred in the mid-levels resulting in an unstable atmosphere as surface parcels have now become negatively buoyant. The red line is temperature, the green line is the dew point, and the yellow line is the air parcel lifted.</div>
+</div>
+</div>
+<p>In <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, <b>convective available potential energy</b> (CAPE),<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> sometimes, simply, <b>available potential energy</b> (APE), is the amount of <a href="/wiki/Energy" title="Energy">energy</a> a <a class="mw-redirect" href="/wiki/Air_parcel" title="Air parcel">parcel</a> of air would have if lifted a certain distance vertically through the atmosphere. CAPE is effectively the positive <a href="/wiki/Buoyancy" title="Buoyancy">buoyancy</a> of an air parcel and is an indicator of <a href="/wiki/Atmospheric_instability" title="Atmospheric instability">atmospheric instability</a>, which makes it very valuable in predicting <a href="/wiki/Severe_weather" title="Severe weather">severe weather</a>. It is a form of fluid instability found in thermally stratified atmospheres in which a colder fluid overlies a warmer one. As explained below, when an air mass is unstable, the element of the air mass that is displaced upwards is accelerated by the pressure differential between the displaced air and the ambient air at the (higher) altitude to which it was displaced. This usually creates vertically developed clouds from <a href="/wiki/Atmospheric_convection" title="Atmospheric convection">convection</a>, due to the rising motion, which can eventually lead to thunderstorms. It could also be created by other phenomena, such as a cold front. Even if the air is cooler on the surface, there is still warmer air in the mid-levels, that can rise into the upper-levels. However, if there is not enough water vapor present, there is no ability for condensation, thus storms, clouds, and rain will not form.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mechanics"><span class="tocnumber">1</span> <span class="toctext">Mechanics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Significance_to_thunderstorms"><span class="tocnumber">2</span> <span class="toctext">Significance to thunderstorms</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Example_from_meteorology"><span class="tocnumber">3</span> <span class="toctext">Example from meteorology</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Further_reading"><span class="tocnumber">6</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Mechanics">Mechanics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit&amp;section=1" title="Edit section: Mechanics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:B_and_LCL-LFC.jpg"><img alt="" class="thumbimage" data-file-height="648" data-file-width="535" height="363" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/B_and_LCL-LFC.jpg/300px-B_and_LCL-LFC.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b1/B_and_LCL-LFC.jpg/450px-B_and_LCL-LFC.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/b/b1/B_and_LCL-LFC.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:B_and_LCL-LFC.jpg" title="Enlarge"></a></div>
+A Skew-T diagram with important features labeled</div>
+</div>
+</div>
+<p>CAPE exists within the <a class="new" href="/w/index.php?title=Conditional_instability&amp;action=edit&amp;redlink=1" title="Conditional instability (page does not exist)">conditionally unstable</a> layer of the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>, the <a href="/wiki/Free_convective_layer" title="Free convective layer">free convective layer</a> (FCL), where an ascending air parcel is warmer than the ambient air. CAPE is measured in <a href="/wiki/Joule" title="Joule">joules</a> per kilogram of air (J/kg). Any value greater than 0 J/kg indicates instability and an increasing possibility of thunderstorms and hail. Generic CAPE is calculated by <a href="/wiki/Integral" title="Integral">integrating</a> vertically the local buoyancy of a parcel from the <a href="/wiki/Level_of_free_convection" title="Level of free convection">level of free convection</a> (LFC) to the <a href="/wiki/Equilibrium_level" title="Equilibrium level">equilibrium level</a> (EL):</p>
+<p><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">C</mi>
+<mi mathvariant="normal">A</mi>
+<mi mathvariant="normal">P</mi>
+<mi mathvariant="normal">E</mi>
+</mrow>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+</msubsup>
+<mi>g</mi>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">v</mi>
+<mo>,</mo>
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">v</mi>
+<mo>,</mo>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">v</mi>
+</mrow>
+</mrow>
+</msub>
+</mrow>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">v</mi>
+<mo>,</mo>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">v</mi>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>z</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathrm {CAPE} =\int _{z_{\mathrm {f} }}^{z_{\mathrm {n} }}g\left({\frac {T_{\mathrm {v,parcel} }-T_{\mathrm {v,env} }}{T_{\mathrm {v,env} }}}\right)\,dz}</annotation>
+</semantics>
+</math></span><img alt="{\mathrm  {CAPE}}=\int _{{z_{{\mathrm  {f}}}}}^{{z_{{\mathrm  {n}}}}}g\left({\frac  {T_{{\mathrm  {v,parcel}}}-T_{{\mathrm  {v,env}}}}{T_{{\mathrm  {v,env}}}}}\right)\,dz" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/aa7ef6103043642ed46d06d6c9fa7ce0f8bf22b5" style="vertical-align: -2.838ex; width:39.015ex; height:6.509ex;"/></span></p>
+<p>Where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">f</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle z_{\mathrm {f} }}</annotation>
+</semantics>
+</math></span><img alt="z_{{\mathrm  {f}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/135da011c3d4f6de8a2aefbb92d9cb389be0cb45" style="vertical-align: -0.671ex; width:1.943ex; height:2.009ex;"/></span> is the height of the level of free convection and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle z_{\mathrm {n} }}</annotation>
+</semantics>
+</math></span><img alt="z_{{\mathrm  {n}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ae645b561447fdffc3207792604552a0c6cd9d75" style="vertical-align: -0.671ex; width:2.245ex; height:2.009ex;"/></span> is the height of the equilibrium level(neutral buoyancy), where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">v</mi>
+<mo>,</mo>
+<mi mathvariant="normal">p</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">r</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{\mathrm {v,parcel} }}</annotation>
+</semantics>
+</math></span><img alt="T_{{\mathrm  {v,parcel}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6b2a16328defeac78906e92459c5c7986b3776ef" style="vertical-align: -1.005ex; width:7.283ex; height:2.843ex;"/></span> is the <a href="/wiki/Virtual_temperature" title="Virtual temperature">virtual temperature</a> of the specific parcel, where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">v</mi>
+<mo>,</mo>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">v</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{\mathrm {v,env} }}</annotation>
+</semantics>
+</math></span><img alt="T_{{\mathrm  {v,env}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/41f523db2e03d9269cf58b933a8cd0257e152ab2" style="vertical-align: -1.005ex; width:5.474ex; height:2.843ex;"/></span> is the virtual temperature of the environment, and where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>g</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle g}</annotation>
+</semantics>
+</math></span><img alt="g" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3556280e66fe2c0d0140df20935a6f057381d77" style="vertical-align: -0.671ex; width:1.126ex; height:2.009ex;"/></span> is the <a href="/wiki/Standard_gravity" title="Standard gravity">acceleration due to gravity</a>. CAPE for a given region is most often calculated from a <a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">thermodynamic</a> or <a href="/wiki/Atmospheric_sounding" title="Atmospheric sounding">sounding</a> diagram (e.g., a <a href="/wiki/Skew-T_log-P_diagram" title="Skew-T log-P diagram">Skew-T log-P diagram</a>) using air <a href="/wiki/Temperature" title="Temperature">temperature</a> and <a href="/wiki/Dew_point" title="Dew point">dew point</a> data usually measured by a <a href="/wiki/Weather_balloon" title="Weather balloon">weather balloon</a>.</p>
+<p>CAPE is effectively positive buoyancy, expressed <i>B+</i> or simply <i>B</i>; the opposite of <a href="/wiki/Convective_inhibition" title="Convective inhibition">convective inhibition (CIN)</a>, which is expressed as <i>B-</i>, and can be thought of as "negative CAPE". As with CIN, CAPE is usually expressed in J/kg but may also be expressed as m<sup>2</sup>/s<sup>2</sup>, as the values are equivalent. In fact, CAPE is sometimes referred to as <i>positive buoyant energy</i> (<i>PBE</i>). This type of CAPE is the maximum energy available to an ascending parcel and to moist convection. When a layer of CIN is present, the layer must be eroded by surface heating or mechanical lifting, so that <a class="mw-redirect" href="/wiki/Convective_boundary_layer" title="Convective boundary layer">convective boundary layer</a> parcels may reach their <a href="/wiki/Level_of_free_convection" title="Level of free convection">level of free convection</a> (LFC).</p>
+<p>On a sounding diagram, CAPE is the <i>positive area</i> above the LFC, the area between the parcel's virtual temperature line and the environmental virtual temperature line where the ascending parcel is warmer than the environment. Neglecting the virtual temperature correction may result in substantial relative errors in the calculated value of CAPE for small CAPE values.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> CAPE may also exist below the LFC, but if a layer of CIN (<a href="/wiki/Subsidence" title="Subsidence">subsidence</a>) is present, it is unavailable to deep, moist convection until CIN is exhausted. When there is mechanical lift to <a class="mw-redirect" href="/wiki/Saturated_fluid" title="Saturated fluid">saturation</a>, <a href="/wiki/Cloud_base" title="Cloud base">cloud base</a> begins at the <a href="/wiki/Lifted_condensation_level" title="Lifted condensation level">lifted condensation level</a> (LCL); absent forcing, <a href="/wiki/Cloud_base" title="Cloud base">cloud base</a> begins at the <a href="/wiki/Convective_condensation_level" title="Convective condensation level">convective condensation level</a> (CCL) where heating from below causes spontaneous buoyant lifting to the point of <a href="/wiki/Condensation" title="Condensation">condensation</a> when the <a href="/wiki/Convective_temperature" title="Convective temperature">convective temperature</a> is reached. When CIN is absent or is overcome, saturated parcels at the LCL or CCL, which had been small <a href="/wiki/Cumulus_cloud" title="Cumulus cloud">cumulus clouds</a>, will rise to the LFC, and then spontaneously rise until hitting the stable layer of the equilibrium level. The result is deep, moist convection (DMC), or simply, a thunderstorm.</p>
+<p>When a parcel is unstable, it will continue to move vertically, in either direction, dependent on whether it receives upward or downward forcing, until it reaches a stable layer (though momentum, gravity, and other forcing may cause the parcel to continue). There are multiple types of CAPE, <i>downdraft CAPE</i> (<i>DCAPE</i>), estimates the potential strength of rain and evaporatively cooled <a class="mw-redirect" href="/wiki/Downdraft" title="Downdraft">downdrafts</a>. Other types of CAPE may depend on the depth being considered. Other examples are <i>surface based CAPE</i> (<i>SBCAPE</i>), <i>mixed layer</i> or <i>mean layer CAPE</i> (<i>MLCAPE</i>), <i>most unstable</i> or <i>maximum usable CAPE</i> (<i>MUCAPE</i>), and <i>normalized CAPE</i> (<i>NCAPE</i>).<sup class="reference" id="cite_ref-SPC_parameters_3-0"><a href="#cite_note-SPC_parameters-3">[3]</a></sup></p>
+<p>Fluid elements displaced upwards or downwards in such an atmosphere expand or compress <a class="mw-redirect" href="/wiki/Adiabatically" title="Adiabatically">adiabatically</a> in order to remain in pressure equilibrium with their surroundings, and in this manner become less or more dense.</p>
+<p>If the adiabatic decrease or increase in density is <i>less</i> than the decrease or increase in the density of the ambient (not moved) medium, then the displaced fluid element will be subject to downwards or upwards pressure, which will function to restore it to its original position. Hence, there will be a counteracting force to the initial displacement. Such a condition is referred to as <i>convective stability</i>.</p>
+<p>On the other hand, if adiabatic decrease or increase in density is <i>greater</i> than in the ambient fluid, the upwards or downwards displacement will be met with an additional force in the same direction exerted by the ambient fluid. In these circumstances, small deviations from the initial state will become amplified. This condition is referred to as <i><a href="/wiki/Convective_instability" title="Convective instability">convective instability</a></i>.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Convective instability is also termed <i>static instability</i>, because the instability does not depend on the existing motion of the air; this contrasts with <a class="mw-redirect" href="/wiki/Dynamic_instability_(fluid_mechanics)" title="Dynamic instability (fluid mechanics)">dynamic instability</a> where instability is dependent on the motion of air and its associated effects such as <a class="new" href="/w/index.php?title=Dynamic_lifting&amp;action=edit&amp;redlink=1" title="Dynamic lifting (page does not exist)">dynamic lifting</a>.</p>
+<h2><span class="mw-headline" id="Significance_to_thunderstorms">Significance to thunderstorms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit&amp;section=2" title="Edit section: Significance to thunderstorms">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Thunderstorm" title="Thunderstorm">Thunderstorms</a> form when <a class="mw-redirect" href="/wiki/Air_parcel" title="Air parcel">air parcels</a> are lifted vertically. Deep, moist convection requires a parcel to be lifted to the LFC where it then rises spontaneously until reaching a layer of non-positive buoyancy. The <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">atmosphere</a> is warm at the surface and lower levels of the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a> where there is <a href="/wiki/Mixed_layer" title="Mixed layer">mixing</a> (the <a href="/wiki/Planetary_boundary_layer" title="Planetary boundary layer">planetary boundary layer (PBL)</a>), but becomes substantially cooler with height. The temperature profile of the atmosphere, the change in temperature, the degree that it cools with height, is the <a href="/wiki/Lapse_rate" title="Lapse rate">lapse rate</a>. When the rising air parcel cools more slowly than the surrounding atmosphere, it remains warmer and less <a href="/wiki/Density_of_air" title="Density of air">dense</a>. The parcel continues to rise freely (<a href="/wiki/Convection" title="Convection">convectively</a>; without mechanical lift) through the atmosphere until it reaches an area of air less dense (warmer) than itself.</p>
+<p>The amount, and shape, of the positive-buoyancy area modulates the speed of <a class="mw-redirect" href="/wiki/Updraft" title="Updraft">updrafts</a>, thus extreme CAPE can result in explosive thunderstorm development; such rapid development usually occurs when CAPE stored by a <a href="/wiki/Capping_inversion" title="Capping inversion">capping inversion</a> is released when the "lid" is broken by heating or mechanical lift. The amount of CAPE also modulates how low-level <a href="/wiki/Vorticity" title="Vorticity">vorticity</a> is entrained and then stretched in the <a class="mw-redirect" href="/wiki/Updraft" title="Updraft">updraft</a>, with importance to <a href="/wiki/Tornadogenesis" title="Tornadogenesis">tornadogenesis</a>. The most important CAPE for <a href="/wiki/Tornado" title="Tornado">tornadoes</a> is within the lowest 1 to 3 km (0.6 to 1.9 mi) of the atmosphere, whilst deep layer CAPE and the width of CAPE at mid-levels is important for <a href="/wiki/Supercell" title="Supercell">supercells</a>. <a href="/wiki/Tornado_outbreak" title="Tornado outbreak">Tornado outbreaks</a> tend to occur within high CAPE environments. Large CAPE is required for the production of very large hail, owing to updraft strength, although a rotating updraft may be stronger with less CAPE. Large CAPE also promotes lightning activity.<sup class="reference" id="cite_ref-climatology_parameters_5-0"><a href="#cite_note-climatology_parameters-5">[5]</a></sup></p>
+<p>Two notable days for severe weather exhibited CAPE values over 5 kJ/kg. Two hours before the <a href="/wiki/1999_Oklahoma_tornado_outbreak" title="1999 Oklahoma tornado outbreak">1999 Oklahoma tornado outbreak</a> occurred on May 3, 1999, the CAPE value sounding at <a class="mw-redirect" href="/wiki/Oklahoma_City,_Oklahoma" title="Oklahoma City, Oklahoma">Oklahoma City</a> was at 5.89 kJ/kg. A few hours later, an <a href="/wiki/Fujita_scale" title="Fujita scale">F5</a> tornado ripped through the southern suburbs of the city. Also on May 4, 2007 CAPE values of 5.5 kJ/kg were reached and an <a class="mw-redirect" href="/wiki/Enhanced_Fujita_Scale" title="Enhanced Fujita Scale">EF5</a> <a class="mw-redirect" href="/wiki/May_2007_Tornado_Outbreak" title="May 2007 Tornado Outbreak">tornado</a> tore through <a href="/wiki/Greensburg,_Kansas" title="Greensburg, Kansas">Greensburg, Kansas</a>. On these days, it was apparent that conditions were ripe for tornadoes and CAPE wasn't a crucial factor. However, extreme CAPE, by modulating the updraft (and downdraft), can allow for exceptional events, such as the deadly F5 tornadoes that hit <a class="mw-redirect" href="/wiki/Plainfield_Tornado" title="Plainfield Tornado">Plainfield, Illinois</a> on August 28, 1990 and <a href="/wiki/Jarrell,_Texas" title="Jarrell, Texas">Jarrell, Texas</a> on May 27, 1997 on days which weren't readily apparent as conducive to large tornadoes. CAPE was estimated to exceed 8 kJ/kg in the environment of the <a class="mw-redirect" href="/wiki/Plainfield_Tornado" title="Plainfield Tornado">Plainfield storm</a> and was around 7 kJ/kg for the <a class="mw-redirect" href="/wiki/Central_Texas_tornado_outbreak" title="Central Texas tornado outbreak">Jarrell storm</a>.</p>
+<p>Severe weather and tornadoes can develop in an area of low CAPE values. The <a class="mw-redirect" href="/wiki/April_2004_Utica_tornado_outbreak" title="April 2004 Utica tornado outbreak">surprise severe weather event</a> that occurred in <a href="/wiki/Illinois" title="Illinois">Illinois</a> and <a href="/wiki/Indiana" title="Indiana">Indiana</a> on April 20, 2004 is a good example. Importantly in that case, was that although overall CAPE was weak, there was strong CAPE in the lowest levels of the troposphere which enabled an outbreak of minisupercells producing large, long-track, intense tornadoes.<sup class="reference" id="cite_ref-Utica_outbreak_6-0"><a href="#cite_note-Utica_outbreak-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Example_from_meteorology">Example from meteorology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit&amp;section=3" title="Edit section: Example from meteorology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>A good example of convective instability can be found in our own atmosphere. If dry mid-level air is drawn over very warm, moist air in the lower <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>, a <a class="new" href="/w/index.php?title=Hydrolapse&amp;action=edit&amp;redlink=1" title="Hydrolapse (page does not exist)">hydrolapse</a> (an area of rapidly decreasing dew point temperatures with height) results in the region where the moist <a href="/wiki/Boundary_layer" title="Boundary layer">boundary layer</a> and mid-level air meet. As daytime heating increases mixing within the moist boundary layer, some of the moist air will begin to interact with the dry mid-level air above it. Owing to thermodynamic processes, as the dry mid-level air is slowly saturated its temperature begins to drop, increasing the <a class="mw-redirect" href="/wiki/Adiabatic_lapse_rate" title="Adiabatic lapse rate">adiabatic lapse rate</a>. Under certain conditions, the lapse rate can increase significantly in a short amount of time, resulting in <a href="/wiki/Convection" title="Convection">convection</a>. High convective instability can lead to severe <a class="mw-redirect" href="/wiki/Thunderstorms" title="Thunderstorms">thunderstorms</a> and <a class="mw-redirect" href="/wiki/Tornadoes" title="Tornadoes">tornadoes</a> as moist air which is trapped in the boundary layer eventually becomes highly negatively buoyant relative to the adiabatic lapse rate and escapes as a rapidly rising bubble of humid air triggering the development of a <a href="/wiki/Cumulus_cloud" title="Cumulus cloud">cumulus</a> or <a class="mw-redirect" href="/wiki/Cumulonimbus" title="Cumulonimbus">cumulonimbus</a> cloud.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Atmospheric_thermodynamics" title="Atmospheric thermodynamics">Atmospheric thermodynamics</a></li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 35em; -webkit-column-width: 35em; column-width: 35em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">M. W. Moncrieff, M.J. Miller (1976). "The dynamics and simulation of tropical cumulonimbus and squall lines". <i>Q. J. R. Meteorol. Soc</i>. <b>120</b> (432): 373–94. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1976QJRMS.102..373M" rel="nofollow">1976QJRMS.102..373M</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1002%2Fqj.49710243208" rel="nofollow">10.1002/qj.49710243208</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvective+available+potential+energy&amp;rft.atitle=The+dynamics+and+simulation+of+tropical+cumulonimbus+and+squall+lines&amp;rft.au=M.+W.+Moncrieff%2C+M.J.+Miller&amp;rft.date=1976&amp;rft.genre=article&amp;rft.issue=432&amp;rft.jtitle=Q.+J.+R.+Meteorol.+Soc.&amp;rft.pages=373-94&amp;rft.volume=120&amp;rft_id=info%3Abibcode%2F1976QJRMS.102..373M&amp;rft_id=info%3Adoi%2F10.1002%2Fqj.49710243208&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation journal"><a href="/wiki/Charles_A._Doswell_III" title="Charles A. Doswell III">Charles A. Doswell III</a>, E.N. Rasmussen (December 1994). <a class="external text" href="http://ams.allenpress.com/perlserv/?request=res-loc&amp;uri=urn%3Aap%3Apdf%3Adoi%3A10.1175%2F1520-0434%281994%29009%3C0625%3ATEONTV%3E2.0.CO%3B2" rel="nofollow">"The Effect of Neglecting the Virtual Temperature Correction on CAPE Calculations"</a>. <i>Weather and Forecasting</i>. <b>9</b> (4): 625–9. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1994WtFor...9..625D" rel="nofollow">1994WtFor...9..625D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0434%281994%29009%3C0625%3ATEONTV%3E2.0.CO%3B2" rel="nofollow">10.1175/1520-0434(1994)009&lt;0625:TEONTV&gt;2.0.CO;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvective+available+potential+energy&amp;rft.atitle=The+Effect+of+Neglecting+the+Virtual+Temperature+Correction+on+CAPE+Calculations&amp;rft.au=Charles+A.+Doswell+III%2C+E.N.+Rasmussen&amp;rft.date=1994-12&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Weather+and+Forecasting&amp;rft.pages=625-9&amp;rft.volume=9&amp;rft_id=http%3A%2F%2Fams.allenpress.com%2Fperlserv%2F%3Frequest%3Dres-loc%26uri%3Durn%253Aap%253Apdf%253Adoi%253A10.1175%252F1520-0434%25281994%2529009%253C0625%253ATEONTV%253E2.0.CO%253B2&amp;rft_id=info%3Abibcode%2F1994WtFor...9..625D&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0434%281994%29009%3C0625%3ATEONTV%3E2.0.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-SPC_parameters-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-SPC_parameters_3-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Thompson, Rich (2006). <a class="external text" href="http://www.spc.noaa.gov/exper/mesoanalysis/help/begin.html" rel="nofollow">"Explanation of SPC Severe Weather Parameters"</a>. <a href="/wiki/Storm_Prediction_Center" title="Storm Prediction Center">Storm Prediction Center</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-05-30</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvective+available+potential+energy&amp;rft.aufirst=Rich&amp;rft.aulast=Thompson&amp;rft.btitle=Explanation+of+SPC+Severe+Weather+Parameters&amp;rft.date=2006&amp;rft.genre=unknown&amp;rft.pub=Storm+Prediction+Center&amp;rft_id=http%3A%2F%2Fwww.spc.noaa.gov%2Fexper%2Fmesoanalysis%2Fhelp%2Fbegin.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Shu, Frank (1992). <i>The Physics of Astrophysics, volume II: Gas dynamics</i>. University Science Books. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-935702-65-2" title="Special:BookSources/0-935702-65-2">0-935702-65-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvective+available+potential+energy&amp;rft.aufirst=Frank&amp;rft.aulast=Shu&amp;rft.btitle=The+Physics+of+Astrophysics%2C+volume+II%3A+Gas+dynamics&amp;rft.date=1992&amp;rft.genre=book&amp;rft.isbn=0-935702-65-2&amp;rft.pub=University+Science+Books&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-climatology_parameters-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-climatology_parameters_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Craven, Jeffrey P.; H.E. Brooks (December 2004). <a class="external text" href="http://www.nssl.noaa.gov/users/brooks/public_html/papers/cravenbrooksnwa.pdf" rel="nofollow">"Baseline climatology of sounding derived parameters associated with deep moist convection"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/National_Weather_Digest" title="National Weather Digest">National Weather Digest</a></i>. <a href="/wiki/National_Weather_Association" title="National Weather Association">National Weather Association</a>. <b>28</b>: 13–24.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvective+available+potential+energy&amp;rft.atitle=Baseline+climatology+of+sounding+derived+parameters+associated+with+deep+moist+convection&amp;rft.au=H.E.+Brooks&amp;rft.aufirst=Jeffrey+P.&amp;rft.aulast=Craven&amp;rft.date=2004-12&amp;rft.genre=article&amp;rft.jtitle=National+Weather+Digest&amp;rft.pages=13-24&amp;rft.volume=28&amp;rft_id=http%3A%2F%2Fwww.nssl.noaa.gov%2Fusers%2Fbrooks%2Fpublic_html%2Fpapers%2Fcravenbrooksnwa.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Utica_outbreak-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Utica_outbreak_6-0">^</a></b></span> <span class="reference-text"><cite class="citation conference"><a class="new" href="/w/index.php?title=Albert_E._Pietrycha&amp;action=edit&amp;redlink=1" title="Albert E. Pietrycha (page does not exist)">Pietrycha, Albert E.</a>; J.M. Davies; M. Ratzer; P. Merzlock (October 2004). <a class="external text" href="http://ams.confex.com/ams/11aram22sls/techprogram/paper_81569.htm" rel="nofollow">"Tornadoes in a Deceptively Small CAPE Environment: The 4/20/04 Outbreak in Illinois and Indiana"</a>. <i>Preprints of the 22nd Conference on Severe Local Storms</i>. Hyannis, Massachusetts: <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AConvective+available+potential+energy&amp;rft.atitle=Tornadoes+in+a+Deceptively+Small+CAPE+Environment%3A+The+4%2F20%2F04+Outbreak+in+Illinois+and+Indiana&amp;rft.au=J.M.+Davies&amp;rft.au=M.+Ratzer&amp;rft.au=P.+Merzlock&amp;rft.aufirst=Albert+E.&amp;rft.aulast=Pietrycha&amp;rft.btitle=Preprints+of+the+22nd+Conference+on+Severe+Local+Storms&amp;rft.date=2004-10&amp;rft.genre=conference&amp;rft.place=Hyannis%2C+Massachusetts&amp;rft.pub=American+Meteorological+Society&amp;rft_id=http%3A%2F%2Fams.confex.com%2Fams%2F11aram22sls%2Ftechprogram%2Fpaper_81569.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit&amp;section=6" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Barry, R.G. and Chorley, R.J. <i>Atmosphere, weather and climate</i> (7th ed) Routledge 1998 p. 80-81 <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-415-16020-0" title="Special:BookSources/0-415-16020-0">0-415-16020-0</a></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://earth.nullschool.net/#current/wind/surface/level/overlay=cape/winkel3" rel="nofollow">Real-time map of global CAPE</a></li>
+</ul>
+<div aria-labelledby="Meteorological_data_and_variables" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_variables" title="Template:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_variables" title="Template talk:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_variables&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Meteorological_data_and_variables" style="font-size:114%;margin:0 4em">Meteorological data and variables</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic processes</a></li>
+<li><a href="/wiki/Advection" title="Advection">Advection</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Lapse_rate" title="Lapse rate">Lapse rate</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">Surface solar radiation</a></li>
+<li><a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Surface weather analysis</a></li>
+<li><a href="/wiki/Visibility" title="Visibility">Visibility</a></li>
+<li><a href="/wiki/Vorticity" title="Vorticity">Vorticity</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Wind_shear" title="Wind shear">Wind shear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Condensation" title="Condensation">Condensation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">Cloud condensation nuclei (CCN)</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Convective_condensation_level" title="Convective condensation level">Convective condensation level (CCL)</a></li>
+<li><a href="/wiki/Lifted_condensation_level" title="Lifted condensation level">Lifted condensation level (LCL)</a></li>
+<li><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></li>
+<li><a href="/wiki/Water_vapor" title="Water vapor">Water vapor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Convection</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-selflink selflink">Convective available potential energy (CAPE)</a></li>
+<li><a href="/wiki/Convective_inhibition" title="Convective inhibition">Convective inhibition (CIN)</a></li>
+<li><a href="/wiki/Convective_instability" title="Convective instability">Convective instability</a></li>
+<li><a href="/wiki/Convective_momentum_transport" title="Convective momentum transport">Convective momentum transport</a></li>
+<li><a href="/wiki/Convective_temperature" title="Convective temperature">Convective temperature (<i>T</i><sub>c</sub>)</a></li>
+<li><a href="/wiki/Equilibrium_level" title="Equilibrium level">Equilibrium level (EL)</a></li>
+<li><a href="/wiki/Free_convective_layer" title="Free convective layer">Free convective layer (FCL)</a></li>
+<li><a class="mw-redirect" href="/wiki/Helicity_(fluid_mechanics)#Meteorology" title="Helicity (fluid mechanics)">Helicity</a></li>
+<li><a href="/wiki/K-index_(meteorology)" title="K-index (meteorology)">K Index</a></li>
+<li><a href="/wiki/Level_of_free_convection" title="Level of free convection">Level of free convection (LFC)</a></li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index (LI)</a></li>
+<li><a href="/wiki/Maximum_parcel_level" title="Maximum parcel level">Maximum parcel level (MPL)</a></li>
+<li><a href="/wiki/Bulk_Richardson_number" title="Bulk Richardson number">Bulk Richardson number (BRN)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Temperature" title="Temperature">Temperature</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dew_point" title="Dew point">Dew point (<i>T</i><sub>d</sub>)</a></li>
+<li><a href="/wiki/Dew_point_depression" title="Dew point depression">Dew point depression</a></li>
+<li><a href="/wiki/Dry-bulb_temperature" title="Dry-bulb temperature">Dry-bulb temperature</a></li>
+<li><a href="/wiki/Equivalent_temperature" title="Equivalent temperature">Equivalent temperature (<i>T</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Forest_fire_weather_index" title="Forest fire weather index">Forest fire weather index</a></li>
+<li><a href="/wiki/Haines_Index" title="Haines Index">Haines Index</a></li>
+<li><a href="/wiki/Heat_index" title="Heat index">Heat index</a></li>
+<li><a href="/wiki/Humidex" title="Humidex">Humidex</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Relative_humidity" title="Relative humidity">Relative humidity (RH)</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Potential_temperature" title="Potential temperature">Potential temperature (<i>θ</i>)</a></li>
+<li><a href="/wiki/Equivalent_potential_temperature" title="Equivalent potential temperature">Equivalent potential temperature (<i>θ</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature (SST)</a></li>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Thermodynamic temperature</a></li>
+<li><a href="/wiki/Vapor_pressure" title="Vapor pressure">Vapor pressure</a></li>
+<li><a href="/wiki/Virtual_temperature" title="Virtual temperature">Virtual temperature</a></li>
+<li><a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">Wet-bulb temperature</a></li>
+<li><a href="/wiki/Wet-bulb_potential_temperature" title="Wet-bulb potential temperature">Wet-bulb potential temperature</a></li>
+<li><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pressure" title="Pressure">Pressure</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a class="mw-redirect" href="/wiki/Barotropic" title="Barotropic">Barotropicity</a></li>
+<li><a href="/wiki/Pressure_gradient" title="Pressure gradient">Pressure gradient</a></li>
+<li><a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">Pressure-gradient force (PGF)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1255
+Cached time: 20170930022813
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.136 seconds
+Real time usage: 0.264 seconds
+Preprocessor visited node count: 787/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 31933/2097152 bytes
+Template argument size: 544/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 2/500
+Lua time usage: 0.052/10.000 seconds
+Lua memory usage: 2.87 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  140.492      1 -total
+ 46.27%   65.005      1 Template:Reflist
+ 30.61%   43.010      1 Template:Technical
+ 26.17%   36.771      3 Template:Cite_journal
+ 21.40%   30.061      1 Template:Ambox
+ 14.15%   19.877      1 Template:ISBN
+  6.15%    8.634      1 Template:Meteorological_variables
+  6.07%    8.528      1 Template:Catalog_lookup_link
+  5.13%    7.206      1 Template:Navbox
+  3.50%    4.920      1 Template:Cite_conference
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1200324-0!canonical!math=5 and timestamp 20170930022812 and revision id 786647569
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Convective_available_potential_energy&amp;oldid=786647569">https://en.wikipedia.org/w/index.php?title=Convective_available_potential_energy&amp;oldid=786647569</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Severe_weather_and_convection" title="Category:Severe weather and convection">Severe weather and convection</a></li><li><a href="/wiki/Category:Atmospheric_thermodynamics" title="Category:Atmospheric thermodynamics">Atmospheric thermodynamics</a></li><li><a href="/wiki/Category:Fluid_dynamics" title="Category:Fluid dynamics">Fluid dynamics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Wikipedia_articles_that_are_too_technical_from_November_2014" title="Category:Wikipedia articles that are too technical from November 2014">Wikipedia articles that are too technical from November 2014</a></li><li><a href="/wiki/Category:All_articles_that_are_too_technical" title="Category:All articles that are too technical">All articles that are too technical</a></li><li><a href="/wiki/Category:Articles_needing_expert_attention_from_November_2014" title="Category:Articles needing expert attention from November 2014">Articles needing expert attention from November 2014</a></li><li><a href="/wiki/Category:All_articles_needing_expert_attention" title="Category:All articles needing expert attention">All articles needing expert attention</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Convective+available+potential+energy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Convective+available+potential+energy" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Convective_available_potential_energy" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Convective_available_potential_energy" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Convective_available_potential_energy">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Convective_available_potential_energy&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Convective_available_potential_energy&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Convective_available_potential_energy" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Convective_available_potential_energy" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Convective_available_potential_energy&amp;oldid=786647569" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Convective_available_potential_energy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1129355" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Convective_available_potential_energy&amp;id=786647569" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Convective+available+potential+energy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Convective+available+potential+energy&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DConvective%2Bavailable%2Bpotential%2Benergy%26returnto%3DConvective%2Bavailable%2Bpotential%2Benergy%26oldid%3D786647569%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Convective_available_potential_energy&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Energia_potencial_de_convecci%C3%B3_disponible" hreflang="ca" lang="ca" title="Energia potencial de convecció disponible – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Convective_Available_Potential_Energy" hreflang="de" lang="de" title="Convective Available Potential Energy – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%94%CE%B5%CE%AF%CE%BA%CF%84%CE%B7%CF%82_%CE%9A%CE%AD%CE%B9%CF%80_(Cape_index)" hreflang="el" lang="el" title="Δείκτης Κέιπ (Cape index) – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89nergie_potentielle_de_convection_disponible" hreflang="fr" lang="fr" title="Énergie potentielle de convection disponible – French">Français</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Convective_available_potential_energy" hreflang="nl" lang="nl" title="Convective available potential energy – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%AF%BE%E6%B5%81%E6%9C%89%E5%8A%B9%E4%BD%8D%E7%BD%AE%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC" hreflang="ja" lang="ja" title="対流有効位置エネルギー – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Konvektiv_tilgjengelig_potensiell_energi" hreflang="no" lang="no" title="Konvektiv tilgjengelig potensiell energi – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Konvektiv_tilgjengeleg_potensiell_energi" hreflang="nn" lang="nn" title="Konvektiv tilgjengeleg potensiell energi – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Energia_potencjalna_dost%C4%99pna_konwekcyjnie" hreflang="pl" lang="pl" title="Energia potencjalna dostępna konwekcyjnie – Polish">Polski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Cape" hreflang="fi" lang="fi" title="Cape – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E5%B0%8D%E6%B5%81%E5%8F%AF%E7%94%A8%E4%BD%8D%E8%83%BD" hreflang="zh" lang="zh" title="對流可用位能 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1129355#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 20 June 2017, at 18:20.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Convective_available_potential_energy&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.136","walltime":"0.264","ppvisitednodes":{"value":787,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":31933,"limit":2097152},"templateargumentsize":{"value":544,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  140.492      1 -total"," 46.27%   65.005      1 Template:Reflist"," 30.61%   43.010      1 Template:Technical"," 26.17%   36.771      3 Template:Cite_journal"," 21.40%   30.061      1 Template:Ambox"," 14.15%   19.877      1 Template:ISBN","  6.15%    8.634      1 Template:Meteorological_variables","  6.07%    8.528      1 Template:Catalog_lookup_link","  5.13%    7.206      1 Template:Navbox","  3.50%    4.920      1 Template:Cite_conference"]},"scribunto":{"limitreport-timeusage":{"value":"0.052","limit":"10.000"},"limitreport-memusage":{"value":3010980,"limit":52428800}},"cachereport":{"origin":"mw1255","timestamp":"20170930022813","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":63,"wgHostname":"mw1324"});});</script>
+</body>
+</html>

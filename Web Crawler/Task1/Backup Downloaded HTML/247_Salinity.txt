@@ -1,0 +1,611 @@
+https://en.wikipedia.org/wiki/Salinity
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Salinity - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Salinity","wgTitle":"Salinity","wgCurRevisionId":794103637,"wgRevisionId":794103637,"wgArticleId":26985,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Articles containing video clips","Chemical oceanography","Aquatic ecology","Oceanography","Coastal geography","Water quality indicators"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Salinity","wgRelevantArticleId":26985,"wgRequestId":"WdIZlgpAMFgAAJDC8hoAAAAQ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q179615","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Water_salinity_diagram.png/1200px-Water_salinity_diagram.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Salinity" rel="alternate"/>
+<link href="/w/index.php?title=Salinity&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Salinity&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Salinity" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Salinity rootpage-Salinity vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Salinity</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:16em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of a series on</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a class="mw-redirect" href="/wiki/Water_salinity" title="Water salinity">Water salinity</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:Water_salinity_diagram.png"><img alt="Water salinity diagram.png" data-file-height="3461" data-file-width="2468" height="323" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Water_salinity_diagram.png/230px-Water_salinity_diagram.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Water_salinity_diagram.png/345px-Water_salinity_diagram.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Water_salinity_diagram.png/460px-Water_salinity_diagram.png 2x" width="230"/></a></td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#9cf">Salinity levels</th>
+</tr>
+<tr>
+<td style='padding:0 0.1em 0.4em;"background:#9cc;"'><a href="/wiki/Fresh_water" title="Fresh water">Fresh water</a> (&lt; 0.05%)<br/>
+<a href="/wiki/Brackish_water" title="Brackish water">Brackish water</a> (0.05–3%)<br/>
+<a href="/wiki/Saline_water" title="Saline water">Saline water</a> (3–5%)<br/>
+<a href="/wiki/Brine" title="Brine">Brine</a> (&gt; 5%)</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#9cf">Bodies of water</th>
+</tr>
+<tr>
+<td style='padding:0 0.1em 0.4em;"background:#9cc;"'><a href="/wiki/Seawater" title="Seawater">Seawater</a> • <a href="/wiki/Salt_lake" title="Salt lake">Salt lake</a> • <a href="/wiki/Hypersaline_lake" title="Hypersaline lake">Hypersaline lake</a> • <a href="/wiki/Salt_evaporation_pond" title="Salt evaporation pond">Salt pan</a> • <a href="/wiki/Brine_pool" title="Brine pool">Brine pool</a> • <a href="/wiki/List_of_bodies_of_water_by_salinity" title="List of bodies of water by salinity">Bodies by salinity</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Water_salinity" title="Template:Water salinity"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a class="new" href="/w/index.php?title=Template_talk:Water_salinity&amp;action=edit&amp;redlink=1" title="Template talk:Water salinity (page does not exist)"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Water_salinity&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:292px;"><a class="image" href="/wiki/File:WOA09_sea-surf_SAL_AYool.png"><img alt="" class="thumbimage" data-file-height="2183" data-file-width="3208" height="197" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/WOA09_sea-surf_SAL_AYool.png/290px-WOA09_sea-surf_SAL_AYool.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/WOA09_sea-surf_SAL_AYool.png/435px-WOA09_sea-surf_SAL_AYool.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/WOA09_sea-surf_SAL_AYool.png/580px-WOA09_sea-surf_SAL_AYool.png 2x" width="290"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:WOA09_sea-surf_SAL_AYool.png" title="Enlarge"></a></div>
+Annual mean sea surface <b>salinity</b> for the <a href="/wiki/World_Ocean" title="World Ocean">World Ocean</a>. Data from the <a href="/wiki/World_Ocean_Atlas" title="World Ocean Atlas">World Ocean Atlas</a> 2009.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:IAPSO_Standard_Seawater.jpg"><img alt="" class="thumbimage" data-file-height="2275" data-file-width="1505" height="257" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/IAPSO_Standard_Seawater.jpg/170px-IAPSO_Standard_Seawater.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/IAPSO_Standard_Seawater.jpg/255px-IAPSO_Standard_Seawater.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/IAPSO_Standard_Seawater.jpg/340px-IAPSO_Standard_Seawater.jpg 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:IAPSO_Standard_Seawater.jpg" title="Enlarge"></a></div>
+International Association for the Physical Sciences of the Oceans (IAPSO) standard seawater.</div>
+</div>
+</div>
+<p><b>Salinity</b> is the saltiness or amount of <a href="/wiki/Salt_(chemistry)" title="Salt (chemistry)">salt</a> dissolved in a body of <a href="/wiki/Water" title="Water">water</a> (see also <a href="/wiki/Soil_salinity" title="Soil salinity">soil salinity</a>). This is usually measured in <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>g</mi>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>salt</mtext>
+</mrow>
+</mrow>
+</mrow>
+<mrow>
+<mi>k</mi>
+<mi>g</mi>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>sea</mtext>
+</mrow>
+</mrow>
+<mtext> </mtext>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>water</mtext>
+</mrow>
+</mrow>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {g\ {\textrm {salt}}}{kg\ {\textrm {sea}}\ {\textrm {water}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {g\ {\textrm {salt}}}{kg\ {\textrm {sea}}\ {\textrm {water}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/36c00fd771f3820179cf8eaaf2c6658d40c25740" style="vertical-align: -2.505ex; width:13.229ex; height:6.176ex;"/></span> (note that this is technically dimensionless). Salinity is an important factor in determining many aspects of the <a href="/wiki/Chemistry" title="Chemistry">chemistry</a> of natural waters and of <a class="mw-redirect" href="/wiki/Biological" title="Biological">biological</a> processes within it, and is a <a href="/wiki/State_function" title="State function">thermodynamic state variable</a> that, along with <a href="/wiki/Temperature" title="Temperature">temperature</a> and <a href="/wiki/Pressure" title="Pressure">pressure</a>, governs physical characteristics like the <a href="/wiki/Density" title="Density">density</a> and <a href="/wiki/Heat_capacity" title="Heat capacity">heat capacity</a> of the water.</p>
+<p>A <a href="/wiki/Contour_line" title="Contour line">contour line</a> of constant salinity is called an <i>isohaline</i>, or sometimes <i>isohale</i>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definitions"><span class="tocnumber">1</span> <span class="toctext">Definitions</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Composition"><span class="tocnumber">1.1</span> <span class="toctext">Composition</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Seawater"><span class="tocnumber">1.2</span> <span class="toctext">Seawater</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Lakes_and_rivers"><span class="tocnumber">1.3</span> <span class="toctext">Lakes and rivers</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Systems_of_classification_of_water_bodies_based_upon_salinity"><span class="tocnumber">2</span> <span class="toctext">Systems of classification of water bodies based upon salinity</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Environmental_considerations"><span class="tocnumber">2.1</span> <span class="toctext">Environmental considerations</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Further_reading"><span class="tocnumber">5</span> <span class="toctext">Further reading</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definitions">Definitions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Salinity&amp;action=edit&amp;section=1" title="Edit section: Definitions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Salinity in rivers, lakes, and the ocean is conceptually simple, but technically challenging to define and measure precisely. Conceptually the salinity is the quantity of dissolved salt content of the water. Salts are compounds like <a href="/wiki/Sodium_chloride" title="Sodium chloride">sodium chloride</a>, <a href="/wiki/Magnesium_sulfate" title="Magnesium sulfate">magnesium sulfate</a>, <a href="/wiki/Potassium_nitrate" title="Potassium nitrate">potassium nitrate</a>, and <a href="/wiki/Sodium_bicarbonate" title="Sodium bicarbonate">sodium bicarbonate</a> which dissolve into ions. The concentration of dissolved chloride ions is sometimes referred to as chlorinity. Operationally, dissolved matter is defined as that which can pass through a very fine filter (historically a filter with a pore size of 0.45 μm, but nowadays usually 0.2 μm).<sup class="reference" id="cite_ref-key_2-0"><a href="#cite_note-key-2">[2]</a></sup> Salinity can be expressed in the form of a <a href="/wiki/Mass_fraction_(chemistry)" title="Mass fraction (chemistry)">mass fraction</a>, i.e. the mass of the dissolved material in a unit mass of solution.</p>
+<p>Seawater typically has a mass salinity of around 35 g/kg, although lower values are typical near coasts where rivers enter the ocean. Rivers and lakes can have a wide range of salinities, from less than 0.01 g/kg<sup class="reference" id="cite_ref-dilute_3-0"><a href="#cite_note-dilute-3">[3]</a></sup> to a few g/kg, although there are many places where higher salinities are found. The <a href="/wiki/Dead_Sea" title="Dead Sea">Dead Sea</a> has a salinity of more than 200 g/kg.<sup class="reference" id="cite_ref-anati_4-0"><a href="#cite_note-anati-4">[4]</a></sup></p>
+<p>Whatever pore size is used in the definition, the resulting salinity value of a given sample of natural water will not vary by more than a few <a class="mw-redirect" href="/wiki/Percent" title="Percent">percent</a> (%). Physical oceanographers working in the <a href="/wiki/Abyssal_zone" title="Abyssal zone">abyssal ocean</a>, however, are often concerned with precision and intercomparability of measurements by different researchers, at different times, to almost five significant digits.<sup class="reference" id="cite_ref-teos10_5-0"><a href="#cite_note-teos10-5">[5]</a></sup> A bottled seawater product known as IAPSO Standard Seawater is used by oceanographers to standardize their measurements with enough precision to meet this requirement.</p>
+<h3><span class="mw-headline" id="Composition">Composition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Salinity&amp;action=edit&amp;section=2" title="Edit section: Composition">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Measurement and definition difficulties arise because natural waters contain a complex mixture of many different elements from different sources (not all from dissolved salts) in different molecular forms. The chemical properties of some of these forms depend on temperature and pressure. Many of these forms are difficult to measure with high accuracy, and in any case complete chemical analysis is not practical when analyzing multiple samples. Different practical definitions of salinity result from different attempts to account for these problems, to different levels of precision, while still remaining reasonably easy to use.</p>
+<p>For practical reasons salinity is usually related to the sum of masses of a subset of these dissolved chemical constituents (so-called <i>solution salinity</i>), rather than to the unknown mass of salts that gave rise to this composition (an exception is when <a href="/wiki/Artificial_seawater" title="Artificial seawater">artificial seawater</a> is created). For many purposes this sum can be limited to a set of eight major ions in natural waters,<sup class="reference" id="cite_ref-wetzel_6-0"><a href="#cite_note-wetzel-6">[6]</a></sup><sup class="reference" id="cite_ref-limteos_7-0"><a href="#cite_note-limteos-7">[7]</a></sup> although for seawater at highest precision an additional seven minor ions are also included.<sup class="reference" id="cite_ref-teos10_5-1"><a href="#cite_note-teos10-5">[5]</a></sup> The major ions dominate the inorganic composition of most (but by no means all) natural waters. Exceptions include some <a href="/wiki/Cenote" title="Cenote">pit lakes</a> and waters from some <a class="mw-redirect" href="/wiki/Hydrothermal_spring" title="Hydrothermal spring">hydrothermal springs</a>.</p>
+<p>The concentrations of dissolved gases like <a href="/wiki/Oxygen" title="Oxygen">oxygen</a> and <a href="/wiki/Nitrogen" title="Nitrogen">nitrogen</a> are not usually included in descriptions of salinity.<sup class="reference" id="cite_ref-key_2-1"><a href="#cite_note-key-2">[2]</a></sup> However, <a href="/wiki/Carbon_dioxide" title="Carbon dioxide">carbon dioxide</a> gas, which when dissolved is partially converted into <a class="mw-redirect" href="/wiki/Carbonates" title="Carbonates">carbonates</a> and <a class="mw-redirect" href="/wiki/Bicarbonates" title="Bicarbonates">bicarbonates</a>, is often included. <a href="/wiki/Silicon" title="Silicon">Silicon</a> in the form of <a href="/wiki/Silicic_acid" title="Silicic acid">silicic acid</a>, which usually appears as a neutral molecule in the <a href="/wiki/PH" title="PH">pH</a> range of most natural waters, may also be included for some purposes (e.g., when salinity/density relationships are being investigated).</p>
+<h3><span class="mw-headline" id="Seawater">Seawater</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Salinity&amp;action=edit&amp;section=3" title="Edit section: Seawater">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;">
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:300px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aquarius_flat_2048x1024.ogv/854px--Aquarius_flat_2048x1024.ogv.jpg" controls="" preload="none" autoplay="" style="width:854px;height:428px" class="kskin" data-durationhint="12" data-startoffset="0" data-mwtitle="Aquarius_flat_2048x1024.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Aquarius_flat_2048x1024.ogv/Aquarius_flat_2048x1024.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="428" data-bandwidth="1005080" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Aquarius_flat_2048x1024.ogv/Aquarius_flat_2048x1024.ogv.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="640" data-bandwidth="1793144" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Aquarius_flat_2048x1024.ogv/Aquarius_flat_2048x1024.ogv.1080p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Full HD WebM (1080P)" data-shorttitle="WebM 1080P" data-transcodekey="1080p.webm" data-width="1920" data-height="960" data-bandwidth="3177656" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/d/d6/Aquarius_flat_2048x1024.ogv" type="video/ogg; codecs=&amp;quot;theora&amp;quot;" data-title="Original Ogg file, 2,048 × 1,024 (7.05 Mbps)" data-shorttitle="Ogg source" data-width="2048" data-height="1024" data-bandwidth="7049287" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Aquarius_flat_2048x1024.ogv/Aquarius_flat_2048x1024.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="288" data-height="144" data-bandwidth="130728" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Aquarius_flat_2048x1024.ogv/Aquarius_flat_2048x1024.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="214" data-bandwidth="255520" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/d/d6/Aquarius_flat_2048x1024.ogv/Aquarius_flat_2048x1024.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="320" data-bandwidth="509248" data-framerate="30"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:Aquarius flat 2048x1024.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/Aquarius_flat_2048x1024.ogv/300px--Aquarius_flat_2048x1024.ogv.jpg" style="width:300px;height:150px"/><a href="//upload.wikimedia.org/wikipedia/commons/d/d6/Aquarius_flat_2048x1024.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Aquarius_flat_2048x1024.ogv" title="Enlarge"></a></div>
+<a class="external text" href="https://www.youtube.com/watch?v=5xQP_B18vMw&amp;ab_channel=NASAGoddard" rel="nofollow"><sup>Full 3 minute NASA video Feb 27,2013</sup></a> The NASA Aquarius instrument aboard Argentina's SAC-D satellite is designed to measure global sea surface salinity. This movie shows salinity patterns as measured by Aquarius from December 2011 through December 2012. Red colors represent areas of high salinity, while blue shades represent areas of low salinity.</div>
+</div>
+</div>
+<p>The term 'salinity' is, for oceanographers, usually associated with one of a set of specific measurement techniques. As the dominant techniques evolve, so do different descriptions of salinity. The distinctions between these different descriptions are important to physical oceanographers but are obscure and confusing to nonspecialists.</p>
+<p>Salinities were largely measured using <a href="/wiki/Titration" title="Titration">titration</a>-based techniques before the 1980s. Titration with <a href="/wiki/Silver_nitrate" title="Silver nitrate">silver nitrate</a> could be used to determine the concentration of <a href="/wiki/Halide" title="Halide">halide</a> ions (mainly <a href="/wiki/Chlorine" title="Chlorine">chlorine</a> and <a href="/wiki/Bromine" title="Bromine">bromine</a>) to give a <a class="mw-redirect" href="/wiki/Chlorinity" title="Chlorinity">chlorinity</a>. The chlorinity was then multiplied by a factor to account for all other constituents. The resulting 'Knudsen salinities' are expressed in units of parts per thousand (ppt or <a href="/wiki/Per_mille" title="Per mille">‰</a>).</p>
+<p>The use of <a class="mw-redirect" href="/wiki/Electrical_conductivity" title="Electrical conductivity">electrical conductivity</a> measurements to estimate the ionic content of seawater led to the development of the scale called the <i>practical salinity scale 1978</i> (PSS-78).<sup class="reference" id="cite_ref-pss78a_8-0"><a href="#cite_note-pss78a-8">[8]</a></sup><sup class="reference" id="cite_ref-pss78b_9-0"><a href="#cite_note-pss78b-9">[9]</a></sup> Salinities measured using PSS-78 do not have units. <span id="PSU"></span>The suffix <b>psu</b> or <b>PSU</b> (denoting <i>practical salinity unit</i>) is sometimes added to PSS-78 measurement values.<sup class="reference" id="cite_ref-rant_10-0"><a href="#cite_note-rant-10">[10]</a></sup></p>
+<p>In 2010 a new standard for the properties of seawater called the <i>thermodynamic equation of seawater 2010</i> (TEOS-10) was introduced, advocating absolute salinity as a replacement for practical salinity, and <a href="/wiki/Conservative_temperature" title="Conservative temperature">conservative temperature</a> as a replacement for <a href="/wiki/Potential_temperature" title="Potential temperature">potential temperature</a>.<sup class="reference" id="cite_ref-teos10_5-2"><a href="#cite_note-teos10-5">[5]</a></sup> This standard includes a new scale called the <i>reference composition salinity scale</i>. Absolute salinities on this scale are expressed as a mass fraction, in grams per kilogram of solution. Salinities on this scale are determined by combining electrical conductivity measurements with other information that can account for regional changes in the composition of seawater. They can also be determined by making direct density measurements.</p>
+<p>A sample of seawater from most locations with a chlorinity of 19.37 ppt will have a Knudsen salinity of 35.00 ppt, a PSS-78 practical salinity of about 35.0, and a TEOS-10 absolute salinity of about 35.2 g/kg. The electrical conductivity of this water at a temperature of 15 °C is 42.9 mS/cm.<sup class="reference" id="cite_ref-teos10_5-3"><a href="#cite_note-teos10-5">[5]</a></sup><sup class="reference" id="cite_ref-culk_11-0"><a href="#cite_note-culk-11">[11]</a></sup></p>
+<h3><span class="mw-headline" id="Lakes_and_rivers">Lakes and rivers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Salinity&amp;action=edit&amp;section=4" title="Edit section: Lakes and rivers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a class="mw-redirect" href="/wiki/Limnologist" title="Limnologist">Limnologists</a> and chemists often define salinity in terms of mass of salt per unit volume, expressed in units of mg per litre or g per litre.<sup class="reference" id="cite_ref-wetzel_6-1"><a href="#cite_note-wetzel-6">[6]</a></sup> It is implied, although often not stated, that this value applies accurately only at some reference temperature. Values presented in this way are typically accurate to the order of 1%. Limnologists also use <a class="mw-redirect" href="/wiki/Electrical_conductivity" title="Electrical conductivity">electrical conductivity</a>, or "reference conductivity", as a proxy for salinity. This measurement may be corrected for temperature effects, and is usually expressed in units of μS/cm.</p>
+<p>A river or lake water with a salinity of around 70 mg/L will typically have a specific conductivity at 25 °C of between 80 and 130 μS/cm. The actual ratio depends on the ions present.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> The actual conductivity usually changes by about 2% per degree Celsius, so the measured conductivity at 5 °C might only be in the range of 50–80 μS/cm.</p>
+<p>Direct density measurements are also used to estimate salinities, particularly in highly <a class="mw-redirect" href="/wiki/Saline_lake" title="Saline lake">saline lakes</a>.<sup class="reference" id="cite_ref-anati_4-1"><a href="#cite_note-anati-4">[4]</a></sup> Sometimes density at a specific temperature is used as a proxy for salinity. At other times an empirical salinity/density relationship developed for a particular body of water is used to estimate the salinity of samples from a measured density.</p>
+<p><br/></p>
+<table style="margin-left:auto; margin-right:auto;">
+<tr>
+<th colspan="4" style="background:#B8E0F6">Water salinity</th>
+</tr>
+<tr style="background:#87CEFA">
+<th><a href="/wiki/Fresh_water" title="Fresh water">Fresh water</a></th>
+<th><a href="/wiki/Brackish_water" title="Brackish water">Brackish water</a></th>
+<th><a href="/wiki/Saline_water" title="Saline water">Saline water</a></th>
+<th><a href="/wiki/Brine" title="Brine">Brine</a></th>
+</tr>
+<tr style="background:#00BFFF">
+<th>&lt; 0.05%</th>
+<th>0.05 – 3%</th>
+<th>3 – 5%</th>
+<th>&gt; 5%</th>
+</tr>
+<tr style="background:#00BFFF">
+<th>&lt; 0.5 ‰</th>
+<th>0.5 – 30 ‰</th>
+<th>30 – 50 ‰</th>
+<th>&gt; 50 ‰</th>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Systems_of_classification_of_water_bodies_based_upon_salinity">Systems of classification of water bodies based upon salinity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Salinity&amp;action=edit&amp;section=5" title="Edit section: Systems of classification of water bodies based upon salinity">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table align="right" style="text-align:center; margin-right:auto;">
+<tr>
+<td bgcolor="lightgrey"><b>Thalassic series</b></td>
+</tr>
+<tr>
+<td bgcolor="lightgrey" width="150px">&gt;300</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">hyperhaline</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">60–80</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">metahaline</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">40</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">mixoeuhaline</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">30</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">polyhaline</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">18</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">mesohaline</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">5</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">oligohaline</td>
+</tr>
+<tr>
+<td bgcolor="lightgrey">0.5</td>
+</tr>
+</table>
+<p>Marine waters are those of the ocean, another term for which is <i>euhaline seas</i>. The salinity of euhaline seas is 30 to 35. <i>Brackish seas</i> or waters have salinity in the range of 0.5 to 29 and <i>metahaline seas</i> from 36 to 40. These waters are all regarded as <i>thalassic</i> because their salinity is derived from the ocean and defined as <i>homoiohaline</i> if salinity does not vary much over time (essentially constant). The table on the right, modified from Por (1972),<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> follows the "Venice system" (1959).<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<p>In contrast to homoiohaline environments are certain <i>poikilohaline</i> environments (which may also be <i>thalassic</i>) in which the salinity variation is biologically significant.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> <i>Poikilohaline</i> water salinities may range anywhere from 0.5 to greater than 300. The important characteristic is that these waters tend to vary in salinity over some biologically meaningful range seasonally or on some other roughly comparable time scale. Put simply, these are bodies of water with quite variable salinity.</p>
+<p>Highly saline water, from which salts crystallize (or are about to), is referred to as <a href="/wiki/Brine" title="Brine">brine</a>.</p>
+<h3><span class="mw-headline" id="Environmental_considerations">Environmental considerations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Salinity&amp;action=edit&amp;section=6" title="Edit section: Environmental considerations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Salinity is an ecological factor of considerable importance, influencing the types of organisms that live in a body of water. As well, salinity influences the kinds of <a href="/wiki/Plant" title="Plant">plants</a> that will grow either in a water body, or on land fed by a water (or by a <a href="/wiki/Groundwater" title="Groundwater">groundwater</a>).<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> A plant adapted to saline conditions is called a <a href="/wiki/Halophyte" title="Halophyte">halophyte</a>. A halophyte which is tolerant to <a href="/wiki/Residual_sodium_carbonate_index" title="Residual sodium carbonate index">residual sodium carbonate</a> salinity are called <a href="/wiki/Glasswort" title="Glasswort">glasswort</a> or <a href="/wiki/Saltwort" title="Saltwort">saltwort</a> or <a href="/wiki/Barilla" title="Barilla">barilla</a> plants. Organisms (mostly bacteria) that can live in very salty conditions are classified as <a href="/wiki/Extremophile" title="Extremophile">extremophiles</a>, or <a href="/wiki/Halophile" title="Halophile">halophiles</a> specifically. An organism that can withstand a wide range of salinities is <a href="/wiki/Euryhaline" title="Euryhaline">euryhaline</a>.</p>
+<p>Salt is expensive to remove from water, and salt content is an important factor in water use (such as <a href="/wiki/Drinking_water" title="Drinking water">potability</a>).</p>
+<p>The degree of salinity in oceans is a driver of the <a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">world's ocean circulation</a>, where density changes due to both salinity changes and temperature changes at the surface of the ocean produce changes in buoyancy, which cause the sinking and rising of water masses. <a href="/wiki/Paleosalinity" title="Paleosalinity">Changes in the salinity of the oceans</a> are thought to contribute to global changes in carbon dioxide as more saline waters are less soluble to carbon dioxide. In addition, during glacial periods, the <a href="/wiki/Hydrography" title="Hydrography">hydrography</a> is such that a possible cause of reduced circulation is the production of stratified oceans. Hence it is difficult in this case to subduct water through the thermohaline circulation.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Salinity&amp;action=edit&amp;section=7" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="div-col columns column-count column-count-3" style="-moz-column-count: 3; -webkit-column-count: 3; column-count: 3;">
+<ul>
+<li><a href="/wiki/Soil_salinity_control" title="Soil salinity control">Soil salinity control</a></li>
+<li><a href="/wiki/Desalination" title="Desalination">Desalination</a></li>
+<li><a href="/wiki/Salinometer" title="Salinometer">Salinometer</a></li>
+<li><a href="/wiki/Fresh_water" title="Fresh water">Fresh water</a></li>
+<li><a href="/wiki/Seawater" title="Seawater">Seawater</a></li>
+<li><a href="/wiki/Sodium_adsorption_ratio" title="Sodium adsorption ratio">Sodium adsorption ratio</a></li>
+<li><a href="/wiki/Soil_salinity" title="Soil salinity">Soil salinity</a></li>
+<li><a href="/wiki/Stenohaline" title="Stenohaline">Stenohaline fish</a></li>
+<li><a href="/wiki/Euryhaline" title="Euryhaline">Euryhaline fish</a></li>
+<li><a href="/wiki/Dead_Sea" title="Dead Sea">Dead Sea</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a></li>
+<li><a href="/wiki/Paleosalinity" title="Paleosalinity">Paleosalinity</a></li>
+<li><a href="/wiki/CORA_dataset" title="CORA dataset">CORA dataset</a> salinity of global oceans</li>
+</ul>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Salinity&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nodc.noaa.gov/OC5/WOA09/pr_woa09.html" rel="nofollow">World Ocean Atlas 2009</a>. nodc.noaa.gov</span></li>
+<li id="cite_note-key-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-key_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-key_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Pawlowicz, R. (2013). <a class="external text" href="http://www.nature.com/scitable/knowledge/library/key-physical-variables-in-the-ocean-temperature-102805293" rel="nofollow">"Key Physical Variables in the Ocean: Temperature, Salinity, and Density"</a>. <i>Nature Education Knowledge</i>. <b>4</b> (4): 13.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=Key+Physical+Variables+in+the+Ocean%3A+Temperature%2C+Salinity%2C+and+Density&amp;rft.aufirst=R.&amp;rft.aulast=Pawlowicz&amp;rft.date=2013&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Nature+Education+Knowledge&amp;rft.pages=13&amp;rft.volume=4&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fscitable%2Fknowledge%2Flibrary%2Fkey-physical-variables-in-the-ocean-temperature-102805293&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-dilute-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-dilute_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Eilers, J. M.; Sullivan, T. J.; Hurley, K. C. (1990). "The most dilute lake in the world?". <i>Hydrobiologica</i>. <b>199</b>: 1–6. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2FBF00007827" rel="nofollow">10.1007/BF00007827</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=The+most+dilute+lake+in+the+world%3F&amp;rft.au=Hurley%2C+K.+C.&amp;rft.au=Sullivan%2C+T.+J.&amp;rft.aufirst=J.+M.&amp;rft.aulast=Eilers&amp;rft.date=1990&amp;rft.genre=article&amp;rft.jtitle=Hydrobiologica&amp;rft.pages=1-6&amp;rft.volume=199&amp;rft_id=info%3Adoi%2F10.1007%2FBF00007827&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-anati-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-anati_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-anati_4-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Anati, D. A. (1999). "The salinity of hypersaline brines: concepts and misconceptions". <i>Int. J. Salt Lake. Res</i>. <b>8</b>: 55–70. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fbf02442137" rel="nofollow">10.1007/bf02442137</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=The+salinity+of+hypersaline+brines%3A+concepts+and+misconceptions&amp;rft.aufirst=D.+A.&amp;rft.aulast=Anati&amp;rft.date=1999&amp;rft.genre=article&amp;rft.jtitle=Int.+J.+Salt+Lake.+Res.&amp;rft.pages=55-70&amp;rft.volume=8&amp;rft_id=info%3Adoi%2F10.1007%2Fbf02442137&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-teos10-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-teos10_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-teos10_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-teos10_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-teos10_5-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">IOC, SCOR, and IAPSO (2010). <a class="external text" href="http://www.TEOS-10.org" rel="nofollow"><i>The international thermodynamic equation of seawater – 2010: Calculation and use of thermodynamic properties</i></a>. Intergovernmental Oceanographic Commission, UNESCO (English). pp. 196pp.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.au=IOC%2C+SCOR%2C+and+IAPSO&amp;rft.btitle=The+international+thermodynamic+equation+of+seawater+%E2%80%93+2010%3A+Calculation+and+use+of+thermodynamic+properties&amp;rft.date=2010&amp;rft.genre=book&amp;rft.pages=196pp.&amp;rft.pub=Intergovernmental+Oceanographic+Commission%2C+UNESCO+%28English%29&amp;rft_id=http%3A%2F%2Fwww.TEOS-10.org&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-wetzel-6"><span class="mw-cite-backlink">^ <a href="#cite_ref-wetzel_6-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-wetzel_6-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Wetzel, R. G. (2001). <i>Limnology: Lake and River Ecosystems, 3rd ed</i>. Academic Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-12-744760-5" title="Special:BookSources/978-0-12-744760-5">978-0-12-744760-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.aufirst=R.+G.&amp;rft.aulast=Wetzel&amp;rft.btitle=Limnology%3A+Lake+and+River+Ecosystems%2C+3rd+ed.&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=978-0-12-744760-5&amp;rft.pub=Academic+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-limteos-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-limteos_7-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Pawlowicz, R.; Feistel, R. (2012). "Limnological applications of the Thermodynamic Equation of Seawater 2010 (TEOS-10)". <i>Limnology and Oceanography: Methods</i>. <b>10</b> (11): 853–867. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.4319%2Flom.2012.10.853" rel="nofollow">10.4319/lom.2012.10.853</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=Limnological+applications+of+the+Thermodynamic+Equation+of+Seawater+2010+%28TEOS-10%29&amp;rft.au=Feistel%2C+R.&amp;rft.aufirst=R.&amp;rft.aulast=Pawlowicz&amp;rft.date=2012&amp;rft.genre=article&amp;rft.issue=11&amp;rft.jtitle=Limnology+and+Oceanography%3A+Methods&amp;rft.pages=853-867&amp;rft.volume=10&amp;rft_id=info%3Adoi%2F10.4319%2Flom.2012.10.853&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-pss78a-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-pss78a_8-0">^</a></b></span> <span class="reference-text">Unesco (1981). The Practical Salinity Scale 1978 and the International Equation of State of Seawater 1980. <i>Tech. Pap. Mar. Sci.</i>, 36</span></li>
+<li id="cite_note-pss78b-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-pss78b_9-0">^</a></b></span> <span class="reference-text">Unesco (1981). <a class="external text" href="http://unesdoc.unesco.org/images/0004/000479/047932eb.pdf" rel="nofollow">Background papers and supporting data on the Practical Salinity Scale 1978</a>. <i>Tech. Pap. Mar. Sci.</i>, 37</span></li>
+<li id="cite_note-rant-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-rant_10-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Millero, F. J. (1993). "What is PSU?". <i>Oceanography</i>. <b>6</b> (3): 67.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=What+is+PSU%3F&amp;rft.aufirst=F.+J.&amp;rft.aulast=Millero&amp;rft.date=1993&amp;rft.genre=article&amp;rft.issue=3&amp;rft.jtitle=Oceanography&amp;rft.pages=67&amp;rft.volume=6&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-culk-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-culk_11-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Culkin, F.; Smith, N. D. (1980). "Determination of the Concentration of Potassium Chloride Solution Having the Same Electrical Conductivity, at 15C and Infinite Frequency, as Standard Seawater of Salinity 35.0000‰ (Chlorinity 19.37394‰)". <i>IEEE J. Oceanic Eng</i>. <b>OE–5</b> (1): 22–23. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1109%2FJOE.1980.1145443" rel="nofollow">10.1109/JOE.1980.1145443</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=Determination+of+the+Concentration+of+Potassium+Chloride+Solution+Having+the+Same+Electrical+Conductivity%2C+at+15C+and+Infinite+Frequency%2C+as+Standard+Seawater+of+Salinity+35.0000%E2%80%B0+%28Chlorinity+19.37394%E2%80%B0%29&amp;rft.au=Smith%2C+N.+D.&amp;rft.aufirst=F.&amp;rft.aulast=Culkin&amp;rft.date=1980&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=IEEE+J.+Oceanic+Eng.&amp;rft.pages=22-23&amp;rft.volume=OE-5&amp;rft_id=info%3Adoi%2F10.1109%2FJOE.1980.1145443&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">van Niekerk, Harold; Silberbauer, Michael; Maluleke, Mmaphefo (2014). "Geographical differences in the relationship between total dissolved solids and electrical conductivity in South African rivers". <i>Water SA</i>. <b>40</b> (1): 133. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.4314%2Fwsa.v40i1.16" rel="nofollow">10.4314/wsa.v40i1.16</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=Geographical+differences+in+the+relationship+between+total+dissolved+solids+and+electrical+conductivity+in+South+African+rivers&amp;rft.au=Maluleke%2C+Mmaphefo&amp;rft.au=Silberbauer%2C+Michael&amp;rft.aufirst=Harold&amp;rft.aulast=van+Niekerk&amp;rft.date=2014&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Water+SA&amp;rft.pages=133&amp;rft.volume=40&amp;rft_id=info%3Adoi%2F10.4314%2Fwsa.v40i1.16&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Por, F. D. (1972). "Hydrobiological notes on the high-salinity waters of the Sinai Peninsula". <i>Marine Biology</i>. <b>14</b> (2): 111. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2FBF00373210" rel="nofollow">10.1007/BF00373210</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=Hydrobiological+notes+on+the+high-salinity+waters+of+the+Sinai+Peninsula&amp;rft.aufirst=F.+D.&amp;rft.aulast=Por&amp;rft.date=1972&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Marine+Biology&amp;rft.pages=111&amp;rft.volume=14&amp;rft_id=info%3Adoi%2F10.1007%2FBF00373210&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Venice system (1959). The final resolution of the symposium on the classification of brackish waters. <i>Archo Oceanogr. Limnol.</i>, 11 (suppl): 243–248.</span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Dahl, E. (1956). "Ecological salinity boundaries in poikilohaline waters". <i>Oikos</i>. Oikos. <b>7</b> (1): 1–21. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/3564981" rel="nofollow">3564981</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2307%2F3564981" rel="nofollow">10.2307/3564981</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=Ecological+salinity+boundaries+in+poikilohaline+waters&amp;rft.au=Dahl%2C+E.&amp;rft.date=1956&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Oikos&amp;rft.pages=1-21&amp;rft.volume=7&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F3564981&amp;rft_id=info%3Adoi%2F10.2307%2F3564981&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Kalcic, Maria, Turowski, Mark; Hall, Callie. <a class="external text" href="https://ntrs.nasa.gov/search.jsp?R=20110008620" rel="nofollow">"Stennis Space Center Salinity Drifter Project. A Collaborative Project with Hancock High School, Kiln, MS"</a>. <i>Stennis Space Center Salinity Drifter Project</i>. NTRS<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-06-16</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASalinity&amp;rft.atitle=Stennis+Space+Center+Salinity+Drifter+Project.+A+Collaborative+Project+with+Hancock+High+School%2C+Kiln%2C+MS&amp;rft.aufirst=Turowski%2C+Mark%3B+Hall%2C+Callie&amp;rft.aulast=Kalcic%2C+Maria&amp;rft.genre=unknown&amp;rft.jtitle=Stennis+Space+Center+Salinity+Drifter+Project&amp;rft_id=https%3A%2F%2Fntrs.nasa.gov%2Fsearch.jsp%3FR%3D20110008620&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Salinity&amp;action=edit&amp;section=9" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Mantyla, A.W. 1987. Standard Seawater Comparisons updated. <i>J. Phys. Ocean.</i>, 17: 543–548.</li>
+<li><a class="external text" href="http://web.mit.edu/seawater/" rel="nofollow">MIT page of seawater properties, with Matlab, EES and Excel VBA library routines</a></li>
+<li><a class="external text" href="http://www.code10.info/index.php?option=com_content&amp;view=category&amp;id=54&amp;Itemid=79" rel="nofollow">Equations and algorithms to calculate fundamental properties of sea water.</a></li>
+<li><a class="external text" href="http://salinometry.com/early-determination-of-salinity-from-ancient-concepts-to-challenger-results" rel="nofollow">History of the salinity determination</a></li>
+<li><a class="external text" href="http://www.salinometry.com/pss-78" rel="nofollow">Practical Salinity Scale 1978.</a></li>
+<li><a class="external text" href="http://salinometry.com/ctd-salinity-calculator/" rel="nofollow">Salinity calculator</a></li>
+<li><a class="external text" href="http://dx.doi.org/10.1080/15210608209379432" rel="nofollow">Lewis, E. L. 1982. The practical salinity scale of 1978 and its antecedents. Marine Geodesy. 5(4):350–357.</a></li>
+<li><a class="external text" href="http://www.eos.ubc.ca/~rich/#LIM" rel="nofollow">Equations and algorithms to calculate salinity of inland waters</a></li>
+</ul>
+<div aria-labelledby="Wastewater" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Wastewater" title="Template:Wastewater"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Wastewater" title="Template talk:Wastewater"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Wastewater&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Wastewater" style="font-size:114%;margin:0 4em"><a href="/wiki/Wastewater" title="Wastewater">Wastewater</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Sources</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acid_mine_drainage" title="Acid mine drainage">Acid mine drainage</a></li>
+<li><a href="/wiki/Ballast_water_discharge_and_the_environment" title="Ballast water discharge and the environment">Ballast water</a></li>
+<li><a href="/wiki/Bathroom" title="Bathroom">Bathroom</a></li>
+<li><a href="/wiki/Blackwater_(coal)" title="Blackwater (coal)">Blackwater (coal)</a></li>
+<li><a href="/wiki/Blackwater_(waste)" title="Blackwater (waste)">Blackwater (waste)</a></li>
+<li><a href="/wiki/Boiler_blowdown" title="Boiler blowdown">Boiler blowdown</a></li>
+<li><a href="/wiki/Brine" title="Brine">Brine</a></li>
+<li><a href="/wiki/Combined_sewer" title="Combined sewer">Combined sewer</a></li>
+<li><a href="/wiki/Cooling_tower#Wet_cooling_tower_material_balance" title="Cooling tower">Cooling tower</a></li>
+<li><a href="/wiki/Water_cooling" title="Water cooling">Cooling water</a></li>
+<li><a class="mw-redirect" href="/wiki/Fecal_sludge" title="Fecal sludge">Fecal sludge</a></li>
+<li><a href="/wiki/Greywater" title="Greywater">Greywater</a></li>
+<li><a href="/wiki/Infiltration/Inflow" title="Infiltration/Inflow">Infiltration/Inflow</a></li>
+<li><a href="/wiki/Industrial_wastewater_treatment#Sources_of_industrial_wastewater" title="Industrial wastewater treatment">Industrial effluent</a></li>
+<li><a href="/wiki/Ion_exchange#Regeneration_wastewater" title="Ion exchange">Ion exchange</a></li>
+<li><a href="/wiki/Leachate" title="Leachate">Leachate</a></li>
+<li><a class="mw-redirect" href="/wiki/Concentrated_Animal_Feeding_Operation" title="Concentrated Animal Feeding Operation">Manure</a></li>
+<li><a href="/wiki/Environmental_impact_of_paper#Water_pollution" title="Environmental impact of paper">Papermaking</a></li>
+<li><a href="/wiki/Produced_water" title="Produced water">Produced water</a></li>
+<li><a href="/wiki/Return_flow" title="Return flow">Return flow</a></li>
+<li><a href="/wiki/Reverse_osmosis#Waste_stream_considerations" title="Reverse osmosis">Reverse osmosis</a></li>
+<li><a href="/wiki/Sanitary_sewer" title="Sanitary sewer">Sanitary sewer</a></li>
+<li><a href="/wiki/Septage" title="Septage">Septage</a></li>
+<li><a href="/wiki/Sewage" title="Sewage">Sewage</a></li>
+<li><a href="/wiki/Sewage_sludge" title="Sewage sludge">Sewage sludge</a></li>
+<li><a href="/wiki/Toilet" title="Toilet">Toilet</a></li>
+<li><a href="/wiki/Urban_runoff" title="Urban runoff">Urban runoff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wastewater_quality_indicators" title="Wastewater quality indicators">Quality indicators</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Biochemical_oxygen_demand" title="Biochemical oxygen demand">Biochemical oxygen demand</a></li>
+<li><a href="/wiki/Chemical_oxygen_demand" title="Chemical oxygen demand">Chemical oxygen demand</a></li>
+<li><a href="/wiki/Coliform_index" title="Coliform index">Coliform index</a></li>
+<li><a class="mw-redirect" href="/wiki/Dissolved_oxygen" title="Dissolved oxygen">Dissolved oxygen</a></li>
+<li><a class="mw-redirect" href="/wiki/Heavy_metal_(chemistry)" title="Heavy metal (chemistry)">Heavy metals</a></li>
+<li><a href="/wiki/PH" title="PH">pH</a></li>
+<li><a class="mw-selflink selflink">Salinity</a></li>
+<li><a href="/wiki/Temperature" title="Temperature">Temperature</a></li>
+<li><a href="/wiki/Total_dissolved_solids" title="Total dissolved solids">Total dissolved solids</a></li>
+<li><a href="/wiki/Total_suspended_solids" title="Total suspended solids">Total suspended solids</a></li>
+<li><a href="/wiki/Turbidity" title="Turbidity">Turbidity</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wastewater_treatment" title="Wastewater treatment">Treatment options</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Activated_sludge" title="Activated sludge">Activated sludge</a></li>
+<li><a href="/wiki/Aerated_lagoon" title="Aerated lagoon">Aerated lagoon</a></li>
+<li><a href="/wiki/Agricultural_wastewater_treatment" title="Agricultural wastewater treatment">Agricultural wastewater treatment</a></li>
+<li><a class="mw-redirect" href="/wiki/API_oil-water_separator" title="API oil-water separator">API oil-water separator</a></li>
+<li><a class="mw-redirect" href="/wiki/Carbon_filtration" title="Carbon filtration">Carbon filtration</a></li>
+<li><a href="/wiki/Water_chlorination" title="Water chlorination">Chlorination</a></li>
+<li><a href="/wiki/Clarifier" title="Clarifier">Clarifier</a></li>
+<li><a href="/wiki/Constructed_wetland" title="Constructed wetland">Constructed wetland</a></li>
+<li><a href="/wiki/Decentralized_wastewater_system" title="Decentralized wastewater system">Decentralized wastewater system</a></li>
+<li><a href="/wiki/Extended_aeration" title="Extended aeration">Extended aeration</a></li>
+<li><a href="/wiki/Facultative_lagoon" title="Facultative lagoon">Facultative lagoon</a></li>
+<li><a href="/wiki/Fecal_sludge_management" title="Fecal sludge management">Fecal sludge management</a></li>
+<li><a href="/wiki/Filtration" title="Filtration">Filtration</a></li>
+<li><a href="/wiki/Imhoff_tank" title="Imhoff tank">Imhoff tank</a></li>
+<li><a href="/wiki/Industrial_wastewater_treatment" title="Industrial wastewater treatment">Industrial wastewater treatment</a></li>
+<li><a href="/wiki/Ion_exchange" title="Ion exchange">Ion exchange</a></li>
+<li><a href="/wiki/Membrane_bioreactor" title="Membrane bioreactor">Membrane bioreactor</a></li>
+<li><a href="/wiki/Reverse_osmosis" title="Reverse osmosis">Reverse osmosis</a></li>
+<li><a href="/wiki/Rotating_biological_contactor" title="Rotating biological contactor">Rotating biological contactor</a></li>
+<li><a href="/wiki/Secondary_treatment" title="Secondary treatment">Secondary treatment</a></li>
+<li><a href="/wiki/Sedimentation_(water_treatment)" title="Sedimentation (water treatment)">Sedimentation</a></li>
+<li><a href="/wiki/Septic_tank" title="Septic tank">Septic tank</a></li>
+<li><a href="/wiki/Settling_basin" title="Settling basin">Settling basin</a></li>
+<li><a href="/wiki/Sewage_sludge_treatment" title="Sewage sludge treatment">Sewage sludge treatment</a></li>
+<li><a href="/wiki/Sewage_treatment" title="Sewage treatment">Sewage treatment</a></li>
+<li><a href="/wiki/Stabilization_pond" title="Stabilization pond">Stabilization pond</a></li>
+<li><a href="/wiki/Trickling_filter" title="Trickling filter">Trickling filter</a></li>
+<li><a href="/wiki/Ultraviolet_germicidal_irradiation" title="Ultraviolet germicidal irradiation">Ultraviolet germicidal irradiation</a></li>
+<li><a href="/wiki/Upflow_anaerobic_sludge_blanket_digestion" title="Upflow anaerobic sludge blanket digestion">UASB</a></li>
+<li><a href="/wiki/Vermifilter" title="Vermifilter">Vermifilter</a></li>
+<li><a class="mw-redirect" href="/wiki/Wastewater_treatment_plant" title="Wastewater treatment plant">Wastewater treatment plant</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Disposal options</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Combined_sewer" title="Combined sewer">Combined sewer</a></li>
+<li><a href="/wiki/Evaporation_pond" title="Evaporation pond">Evaporation pond</a></li>
+<li><a href="/wiki/Groundwater_recharge" title="Groundwater recharge">Groundwater recharge</a></li>
+<li><a href="/wiki/Infiltration_basin" title="Infiltration basin">Infiltration basin</a></li>
+<li><a href="/wiki/Injection_well" title="Injection well">Injection well</a></li>
+<li><a href="/wiki/Irrigation" title="Irrigation">Irrigation</a></li>
+<li><a class="mw-redirect" href="/wiki/Marine_dumping" title="Marine dumping">Marine dumping</a></li>
+<li><a href="/wiki/Marine_outfall" title="Marine outfall">Marine outfall</a></li>
+<li><a href="/wiki/Reclaimed_water" title="Reclaimed water">Reclaimed water</a></li>
+<li><a href="/wiki/Sanitary_sewer" title="Sanitary sewer">Sanitary sewer</a></li>
+<li><a href="/wiki/Septic_drain_field" title="Septic drain field">Septic drain field</a></li>
+<li><a href="/wiki/Sewage_farm" title="Sewage farm">Sewage farm</a></li>
+<li><a href="/wiki/Storm_drain" title="Storm drain">Storm drain</a></li>
+<li><a href="/wiki/Surface_runoff" title="Surface runoff">Surface runoff</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1319
+Cached time: 20171002101810
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.188 seconds
+Real time usage: 0.292 seconds
+Preprocessor visited node count: 876/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38682/2097152 bytes
+Template argument size: 109/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.066/10.000 seconds
+Lua memory usage: 2.86 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  170.568      1 -total
+ 56.51%   96.381      1 Template:Reflist
+ 34.41%   58.698      9 Template:Cite_journal
+ 16.29%   27.779      1 Template:Water_salinity
+ 15.14%   25.816      1 Template:Sidebar
+ 11.33%   19.328      1 Template:Wastewater
+  9.56%   16.301      1 Template:Navbox
+  4.68%    7.985      2 Template:Cite_book
+  3.55%    6.059      1 Template:Anchor
+  3.13%    5.340      1 Template:Colbegin
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:26985-0!canonical!math=5 and timestamp 20171002101810 and revision id 794103637
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Salinity&amp;oldid=794103637">https://en.wikipedia.org/w/index.php?title=Salinity&amp;oldid=794103637</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Chemical_oceanography" title="Category:Chemical oceanography">Chemical oceanography</a></li><li><a href="/wiki/Category:Aquatic_ecology" title="Category:Aquatic ecology">Aquatic ecology</a></li><li><a href="/wiki/Category:Oceanography" title="Category:Oceanography">Oceanography</a></li><li><a href="/wiki/Category:Coastal_geography" title="Category:Coastal geography">Coastal geography</a></li><li><a href="/wiki/Category:Water_quality_indicators" title="Category:Water quality indicators">Water quality indicators</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Salinity" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Salinity" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Salinity" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Salinity" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Salinity">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Salinity&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Salinity&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Salinity" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Salinity" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Salinity&amp;oldid=794103637" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Salinity&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q179615" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Salinity&amp;id=794103637" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Salinity">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Salinity&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DSalinity%26returnto%3DSalinity%26oldid%3D794103637%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Salinity&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Salinity" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D9%84%D9%88%D8%AD%D8%A9" hreflang="ar" lang="ar" title="ملوحة – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bh"><a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%96%E0%A4%BE%E0%A4%B0%E0%A4%BE%E0%A4%AA%E0%A4%A8" hreflang="bh" lang="bh" title="खारापन – Bhojpuri">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%B5%D0%BD%D0%BE%D1%81%D1%82" hreflang="bg" lang="bg" title="Соленост – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Salinitet" hreflang="bs" lang="bs" title="Salinitet – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Salinitat" hreflang="ca" lang="ca" title="Salinitat – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Salinita" hreflang="cs" lang="cs" title="Salinita – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Salinitet" hreflang="da" lang="da" title="Salinitet – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Salinit%C3%A4t" hreflang="de" lang="de" title="Salinität – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Soolsus" hreflang="et" lang="et" title="Soolsus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Salinidad" hreflang="es" lang="es" title="Salinidad – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Saleco" hreflang="eo" lang="eo" title="Saleco – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Gazitasun" hreflang="eu" lang="eu" title="Gazitasun – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%B4%D9%88%D8%B1%DB%8C_(%D8%A2%D8%A8)" hreflang="fa" lang="fa" title="شوری (آب) – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Salinit%C3%A9" hreflang="fr" lang="fr" title="Salinité – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Salandacht" hreflang="ga" lang="ga" title="Salandacht – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Salinidade" hreflang="gl" lang="gl" title="Salinidade – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%BC%EB%B6%84" hreflang="ko" lang="ko" title="염분 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%B2%E0%A4%B5%E0%A4%A3%E0%A4%A4%E0%A4%BE" hreflang="hi" lang="hi" title="लवणता – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Salinitet" hreflang="hr" lang="hr" title="Salinitet – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Salinitas" hreflang="id" lang="id" title="Salinitas – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Salinit%C3%A0" hreflang="it" lang="it" title="Salinità – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%9C%D7%99%D7%97%D7%95%D7%AA_(%D7%A8%D7%99%D7%9B%D7%95%D7%96_%D7%9E%D7%9C%D7%97)" hreflang="he" lang="he" title="מליחות (ריכוז מלח) – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Salinitas" hreflang="la" lang="la" title="Salinitas – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/S%C4%81%C4%BCums" hreflang="lv" lang="lv" title="Sāļums – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Druskingumas" hreflang="lt" lang="lt" title="Druskingumas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B2%E0%B4%B5%E0%B4%A3%E0%B4%B8%E0%B4%BE%E0%B4%A8%E0%B5%8D%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B4%A4" hreflang="ml" lang="ml" title="ലവണസാന്ദ്രത – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%96%E0%A4%BE%E0%A4%B0%E0%A5%87_%E0%A4%AA%E0%A4%BE%E0%A4%A3%E0%A5%80" hreflang="mr" lang="mr" title="खारे पाणी – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Kemasinan" hreflang="ms" lang="ms" title="Kemasinan – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Saliniteit" hreflang="nl" lang="nl" title="Saliniteit – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%A1%A9%E5%88%86%E6%BF%83%E5%BA%A6" hreflang="ja" lang="ja" title="塩分濃度 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Salinitet" hreflang="no" lang="no" title="Salinitet – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Salinitet" hreflang="nn" lang="nn" title="Salinitet – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-om"><a class="interlanguage-link-target" href="https://om.wikipedia.org/wiki/Salinity" hreflang="om" lang="om" title="Salinity – Oromo">Oromoo</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Zasolenie" hreflang="pl" lang="pl" title="Zasolenie – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Salinidade" hreflang="pt" lang="pt" title="Salinidade – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Salinitate" hreflang="ro" lang="ro" title="Salinitate – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D1%91%D0%BD%D0%BE%D1%81%D1%82%D1%8C" hreflang="ru" lang="ru" title="Солёность – Russian">Русский</a></li><li class="interlanguage-link interwiki-sah"><a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%A2%D1%83%D1%83%D1%81%D1%82%D0%B0%D0%BD%D1%8B%D1%8B" hreflang="sah" lang="sah" title="Туустаныы – Sakha">Саха тыла</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Salinity" hreflang="sco" lang="sco" title="Salinity – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Kripshm%C3%ABria" hreflang="sq" lang="sq" title="Kripshmëria – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Salinity" hreflang="simple" lang="simple" title="Salinity – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Salinita" hreflang="sk" lang="sk" title="Salinita – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Slanost" hreflang="sl" lang="sl" title="Slanost – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/Salinitet" hreflang="sr" lang="sr" title="Salinitet – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Salinitet" hreflang="sh" lang="sh" title="Salinitet – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Salinitas" hreflang="su" lang="su" title="Salinitas – Sundanese">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Suolaisuus" hreflang="fi" lang="fi" title="Suolaisuus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Salinitet" hreflang="sv" lang="sv" title="Salinitet – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%89%E0%AE%B5%E0%AE%B0%E0%AF%8D%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AF%81%E0%AE%A4%E0%AF%8D_%E0%AE%A4%E0%AE%A9%E0%AF%8D%E0%AE%AE%E0%AF%88" hreflang="ta" lang="ta" title="உவர்ப்புத் தன்மை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Tuzluluk" hreflang="tr" lang="tr" title="Tuzluluk – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A1%D0%BE%D0%BB%D0%BE%D0%BD%D1%96%D1%81%D1%82%D1%8C" hreflang="uk" lang="uk" title="Солоність – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D9%86%D9%85%DA%A9%DB%8C%D9%86%DB%8C%D8%AA" hreflang="ur" lang="ur" title="نمکینیت – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/%C4%90%E1%BB%99_m%E1%BA%B7n" hreflang="vi" lang="vi" title="Độ mặn – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%B9%BD%E5%BA%A6" hreflang="zh" lang="zh" title="鹽度 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q179615#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 5 August 2017, at 21:13.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Salinity&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.188","walltime":"0.292","ppvisitednodes":{"value":876,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38682,"limit":2097152},"templateargumentsize":{"value":109,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  170.568      1 -total"," 56.51%   96.381      1 Template:Reflist"," 34.41%   58.698      9 Template:Cite_journal"," 16.29%   27.779      1 Template:Water_salinity"," 15.14%   25.816      1 Template:Sidebar"," 11.33%   19.328      1 Template:Wastewater","  9.56%   16.301      1 Template:Navbox","  4.68%    7.985      2 Template:Cite_book","  3.55%    6.059      1 Template:Anchor","  3.13%    5.340      1 Template:Colbegin"]},"scribunto":{"limitreport-timeusage":{"value":"0.066","limit":"10.000"},"limitreport-memusage":{"value":3003708,"limit":52428800}},"cachereport":{"origin":"mw1319","timestamp":"20171002101810","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":89,"wgHostname":"mw1253"});});</script>
+</body>
+</html>

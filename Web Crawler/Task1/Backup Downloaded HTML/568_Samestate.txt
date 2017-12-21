@@ -1,0 +1,368 @@
+https://en.wikipedia.org/wiki/Samestate
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Samestate - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Samestate","wgTitle":"Samestate","wgCurRevisionId":800063204,"wgRevisionId":800063204,"wgArticleId":35855787,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","Pages containing links to subscription-only content","Use mdy dates from May 2012","Articles with hCards","Musical groups established in 2008","Sparrow Records artists","American Christian rock groups","Musical groups from Kansas","2008 establishments in Kansas"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Samestate","wgRelevantArticleId":35855787,"wgRequestId":"WdUJDgpAAEIAAHuhjRgAAADI","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7409300","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Samestate" rel="alternate"/>
+<link href="/w/index.php?title=Samestate&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Samestate&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Samestate" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Samestate rootpage-Samestate vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Samestate</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox vcard plainlist" style="width:22em">
+<tr>
+<th colspan="2" style="text-align:center;font-size:125%;font-weight:bold;background-color: #b0c4de"><span class="fn org">Samestate</span></th>
+</tr>
+<tr>
+<th scope="row">Origin</th>
+<td><a href="/wiki/Kansas_City,_Kansas" title="Kansas City, Kansas">Kansas City, Kansas</a><sup class="reference" id="cite_ref-CROSS_1-0"><a href="#cite_note-CROSS-1">[1]</a></sup><sup class="reference" id="cite_ref-HMONE_2-0"><a href="#cite_note-HMONE-2">[2]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Genres</th>
+<td><a href="/wiki/Christian_alternative_rock" title="Christian alternative rock">Christian alternative rock</a><sup class="reference" id="cite_ref-JESUS_3-0"><a href="#cite_note-JESUS-3">[3]</a></sup><sup class="reference" id="cite_ref-NCN_4-0"><a href="#cite_note-NCN-4">[4]</a></sup></td>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Years active</span></th>
+<td>2008-2013</td>
+</tr>
+<tr>
+<th scope="row">Labels</th>
+<td><a href="/wiki/Sparrow_Records" title="Sparrow Records">Sparrow</a><sup class="reference" id="cite_ref-HMONE_2-1"><a href="#cite_note-HMONE-2">[2]</a></sup><sup class="reference" id="cite_ref-JESUS_3-1"><a href="#cite_note-JESUS-3">[3]</a></sup><sup class="reference" id="cite_ref-NCN_4-1"><a href="#cite_note-NCN-4">[4]</a></sup></td>
+</tr>
+<tr>
+<th scope="row">Website</th>
+<td><span class="url"><a class="external text" href="http://www.samestatemusic.com/" rel="nofollow">www<wbr/>.samestatemusic<wbr/>.com</a></span></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #b0c4de"></th>
+</tr>
+<tr>
+<th scope="row">Members</th>
+<td>Dalton Diehl<sup class="reference" id="cite_ref-HMONE_2-2"><a href="#cite_note-HMONE-2">[2]</a></sup><sup class="reference" id="cite_ref-JESUS_3-2"><a href="#cite_note-JESUS-3">[3]</a></sup><sup class="reference" id="cite_ref-NCN_4-2"><a href="#cite_note-NCN-4">[4]</a></sup><sup class="reference" id="cite_ref-BREATHE_5-0"><a href="#cite_note-BREATHE-5">[5]</a></sup><br/>
+Darren Harms<sup class="reference" id="cite_ref-HMONE_2-3"><a href="#cite_note-HMONE-2">[2]</a></sup><sup class="reference" id="cite_ref-JESUS_3-3"><a href="#cite_note-JESUS-3">[3]</a></sup><sup class="reference" id="cite_ref-NCN_4-3"><a href="#cite_note-NCN-4">[4]</a></sup><sup class="reference" id="cite_ref-BREATHE_5-1"><a href="#cite_note-BREATHE-5">[5]</a></sup><br/>
+Ryan Lytle<sup class="reference" id="cite_ref-HMONE_2-4"><a href="#cite_note-HMONE-2">[2]</a></sup><sup class="reference" id="cite_ref-JESUS_3-4"><a href="#cite_note-JESUS-3">[3]</a></sup><sup class="reference" id="cite_ref-NCN_4-4"><a href="#cite_note-NCN-4">[4]</a></sup><sup class="reference" id="cite_ref-BREATHE_5-2"><a href="#cite_note-BREATHE-5">[5]</a></sup></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background-color: #b0c4de"></th>
+</tr>
+<tr>
+<th scope="row"><span class="nowrap">Past members</span></th>
+<td>Blake Leoni<sup class="reference" id="cite_ref-HMONE_2-5"><a href="#cite_note-HMONE-2">[2]</a></sup><sup class="reference" id="cite_ref-JESUS_3-5"><a href="#cite_note-JESUS-3">[3]</a></sup><sup class="reference" id="cite_ref-NCN_4-5"><a href="#cite_note-NCN-4">[4]</a></sup><sup class="reference" id="cite_ref-BREATHE_5-3"><a href="#cite_note-BREATHE-5">[5]</a></sup><br/>
+Ray Wyatt<sup class="reference" id="cite_ref-HMONE_2-6"><a href="#cite_note-HMONE-2">[2]</a></sup><sup class="reference" id="cite_ref-JESUS_3-6"><a href="#cite_note-JESUS-3">[3]</a></sup><sup class="reference" id="cite_ref-NCN_4-6"><a href="#cite_note-NCN-4">[4]</a></sup><sup class="reference" id="cite_ref-BREATHE_5-4"><a href="#cite_note-BREATHE-5">[5]</a></sup></td>
+</tr>
+</table>
+<p><b>Samestate</b> was an American <a href="/wiki/Christian_alternative_rock" title="Christian alternative rock">Christian alternative rock</a> band originating from <a href="/wiki/Kansas_City,_Kansas" title="Kansas City, Kansas">Kansas City, Kansas</a>.<sup class="reference" id="cite_ref-CROSS_1-1"><a href="#cite_note-CROSS-1">[1]</a></sup><sup class="reference" id="cite_ref-HMONE_2-7"><a href="#cite_note-HMONE-2">[2]</a></sup><sup class="reference" id="cite_ref-JESUS_3-7"><a href="#cite_note-JESUS-3">[3]</a></sup><sup class="reference" id="cite_ref-NCN_4-7"><a href="#cite_note-NCN-4">[4]</a></sup><sup class="reference" id="cite_ref-BREATHE_5-5"><a href="#cite_note-BREATHE-5">[5]</a></sup> Band members included Dalton Diehl on vocals, piano and guitar, Darren Harms on guitar and Ryan Lytle on the <a href="/wiki/Bass_guitar" title="Bass guitar">bass guitar</a>.<sup class="reference" id="cite_ref-HMONE_2-8"><a href="#cite_note-HMONE-2">[2]</a></sup><sup class="reference" id="cite_ref-JESUS_3-8"><a href="#cite_note-JESUS-3">[3]</a></sup><sup class="reference" id="cite_ref-BREATHE_5-6"><a href="#cite_note-BREATHE-5">[5]</a></sup> Their first studio album, <i>The Alignment</i>, was released on February 28, 2012, by <a href="/wiki/Sparrow_Records" title="Sparrow Records">Sparrow Records</a>, produced by Pete Kipley and <a href="/wiki/Paul_Moak" title="Paul Moak">Paul Moak</a>.<sup class="reference" id="cite_ref-CREDITS_6-0"><a href="#cite_note-CREDITS-6">[6]</a></sup><sup class="reference" id="cite_ref-JESUSALIGN_7-0"><a href="#cite_note-JESUSALIGN-7">[7]</a></sup><sup class="reference" id="cite_ref-RHYTHMS_8-0"><a href="#cite_note-RHYTHMS-8">[8]</a></sup> They are best known for their first single, "Hurricane". It reached No. 4 on <a class="mw-redirect" href="/wiki/Air_1" title="Air 1">Air 1</a>'s Top Songs Chart on November 12, 2011.<sup class="reference" id="cite_ref-AIRONE_9-0"><a href="#cite_note-AIRONE-9">[9]</a></sup></p>
+<p>In March 2013 the band launched a <a href="/wiki/Kickstarter" title="Kickstarter">Kickstarter</a> campaign to raise funds for an independent EP, <i>The Boxer &amp; The Thief</i>. It was successfully funded and the EP was available in July to backers.<sup class="reference" id="cite_ref-KICKSTARTER_10-0"><a href="#cite_note-KICKSTARTER-10">[10]</a></sup></p>
+<p>On the September 18, 2013, the band announced on their Facebook page that they were parting ways.<sup class="reference" id="cite_ref-SPLIT_11-0"><a href="#cite_note-SPLIT-11">[11]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tours"><span class="tocnumber">2</span> <span class="toctext">Tours</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Discography"><span class="tocnumber">3</span> <span class="toctext">Discography</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Album"><span class="tocnumber">3.1</span> <span class="toctext">Album</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Singles"><span class="tocnumber">3.2</span> <span class="toctext">Singles</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Videos"><span class="tocnumber">3.3</span> <span class="toctext">Videos</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samestate&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Samestate was formed in 2008 in <a href="/wiki/Olathe,_Kansas" title="Olathe, Kansas">Olathe, Kansas</a>. Diehl was the impetus for the creation of the band because he was the worship leader at <a href="/wiki/MidAmerica_Nazarene_University" title="MidAmerica Nazarene University">MidAmerica Nazarene University</a> during his sophomore year, which was when he added Harms and Leoni to the band. Diehl said that he began composing songs to perform during meetings at camps and retreats and at places such as Sheridan's Frozen Custard and <a href="/wiki/Chick-fil-A" title="Chick-fil-A">Chick-fil-A</a>. This caused him to seek out and add the last two members to the band, Lytle and Wyatt, soon after they had formed the trio. The band signed with <a href="/wiki/Sparrow_Records" title="Sparrow Records">Sparrow Records</a> in 2011, who released a taster EP called <i>Samestate</i>, a precursor to 2012's <i>The Alignment</i>.<sup class="reference" id="cite_ref-CROSS_1-2"><a href="#cite_note-CROSS-1">[1]</a></sup><sup class="reference" id="cite_ref-HMONE_2-9"><a href="#cite_note-HMONE-2">[2]</a></sup><sup class="reference" id="cite_ref-NCN_4-8"><a href="#cite_note-NCN-4">[4]</a></sup><sup class="reference" id="cite_ref-BREATHE_5-7"><a href="#cite_note-BREATHE-5">[5]</a></sup> The band decided to sign with Sparrow Records instead of remaining independent, citing the talent at Sparrow could help foster their career.<sup class="reference" id="cite_ref-NCN_4-9"><a href="#cite_note-NCN-4">[4]</a></sup><sup class="reference" id="cite_ref-BREATHE_5-8"><a href="#cite_note-BREATHE-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Tours">Tours</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samestate&amp;action=edit&amp;section=2" title="Edit section: Tours">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The band's first tour began in August 2011. Called "So Long Summer", it was with a band named Caleb (composed of Caleb and Will Chapman, who are sons of <a href="/wiki/Steven_Curtis_Chapman" title="Steven Curtis Chapman">Steven Curtis Chapman</a>).<sup class="reference" id="cite_ref-HMTWO_12-0"><a href="#cite_note-HMTWO-12">[12]</a></sup><sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> Samestate's second outing was the "Rise Up" tour with <a href="/wiki/Family_Force_5" title="Family Force 5">Family Force 5</a> during March and April 2012. The "Radio Listener Appreciation" tour, with <a href="/wiki/Building_429" title="Building 429">Building 429</a> and <a href="/wiki/Andy_Cherry" title="Andy Cherry">Andy Cherry</a>, immediately followed in April and May.<sup class="reference" id="cite_ref-HMTHREE_14-0"><a href="#cite_note-HMTHREE-14">[14]</a></sup></p>
+<h2><span class="mw-headline" id="Discography">Discography</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samestate&amp;action=edit&amp;section=3" title="Edit section: Discography">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Album">Album</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samestate&amp;action=edit&amp;section=4" title="Edit section: Album">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable" style="text-align:center;">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Album</th>
+<th colspan="3">Peak chart positions</th>
+</tr>
+<tr style="font-size:smaller;">
+<th width="40"><a class="mw-redirect" href="/wiki/Top_Christian_Albums" title="Top Christian Albums">Top<br/>
+Christian</a></th>
+<th width="40"><a href="/wiki/Top_Heatseekers" title="Top Heatseekers">Top<br/>
+Heatseekers</a></th>
+</tr>
+<tr>
+<td>2012</td>
+<td align="left"><i><b><a href="/wiki/The_Alignment" title="The Alignment">The Alignment</a></b></i><sup class="reference" id="cite_ref-JFHALBUM_15-0"><a href="#cite_note-JFHALBUM-15">[15]</a></sup>
+<ul>
+<li>Released: February 28, 2012<sup class="reference" id="cite_ref-JFHALBUM_15-1"><a href="#cite_note-JFHALBUM-15">[15]</a></sup></li>
+<li>Label: <a href="/wiki/Sparrow_Records" title="Sparrow Records">Sparrow</a><sup class="reference" id="cite_ref-JFHALBUM_15-2"><a href="#cite_note-JFHALBUM-15">[15]</a></sup></li>
+<li>Format: CD, digital download<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></li>
+</ul>
+</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td>2013</td>
+<td align="left"><i><b><a class="new" href="/w/index.php?title=The_Boxer_%26_The_Thief_EP&amp;action=edit&amp;redlink=1" title="The Boxer &amp; The Thief EP (page does not exist)">The Boxer &amp; The Thief EP</a></b></i><sup class="reference" id="cite_ref-KICKSTARTER_10-1"><a href="#cite_note-KICKSTARTER-10">[10]</a></sup>
+<ul>
+<li>Released: 2013</li>
+<li>Label: <a href="/wiki/Independent_record_label" title="Independent record label">Independent</a></li>
+<li>Format: CD, digital download</li>
+</ul>
+</td>
+<td>—</td>
+<td>—</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Singles">Singles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samestate&amp;action=edit&amp;section=5" title="Edit section: Singles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th rowspan="2">Year</th>
+<th rowspan="2">Title</th>
+<th colspan="2">Chart peaks</th>
+<th rowspan="2">Album</th>
+</tr>
+<tr style="font-size:75%;line-height:1.3;vertical-align:top">
+<th style="width:3em"><a class="mw-redirect" href="/wiki/Hot_Christian_Songs" title="Hot Christian Songs">US Christian Songs</a></th>
+<th style="width:3em"><a class="mw-redirect" href="/wiki/Christian_CHR" title="Christian CHR">US Christian CHR</a></th>
+</tr>
+<tr>
+<td>2011</td>
+<td>"Hurricane"</td>
+<td style="text-align:center;">37<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup></td>
+<td style="text-align:center;">3<sup class="reference" id="cite_ref-HMTHREE_14-1"><a href="#cite_note-HMTHREE-14">[14]</a></sup></td>
+<td rowspan="2"><i><a href="/wiki/The_Alignment" title="The Alignment">The Alignment</a></i></td>
+</tr>
+<tr>
+<td>2012</td>
+<td>"Shadows"</td>
+<td style="text-align:center;">44</td>
+<td style="text-align:center;">19<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Videos">Videos</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samestate&amp;action=edit&amp;section=6" title="Edit section: Videos">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The song "Hurricane" has a music video on <a href="/wiki/YouTube" title="YouTube">YouTube</a>.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> In 2012, the band was working on its second music video with the song "Shadows".<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samestate&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 33em; -webkit-column-width: 33em; column-width: 33em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-CROSS-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-CROSS_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-CROSS_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-CROSS_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Cummings, Tony (March 7, 2012). <a class="external text" href="http://www.crossrhythms.co.uk/articles/music/Samestate_The_Kansas_City_pop_rockers_breaking_through_in_the_US/47739/p1/" rel="nofollow">"Samestate: The Kansas City pop rockers breaking through in the US"</a>. <a href="/wiki/Cross_Rhythms" title="Cross Rhythms">Cross Rhythms</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.aufirst=Tony&amp;rft.aulast=Cummings&amp;rft.btitle=Samestate%3A+The+Kansas+City+pop+rockers+breaking+through+in+the+US&amp;rft.date=2012-03-07&amp;rft.genre=unknown&amp;rft.pub=Cross+Rhythms&amp;rft_id=http%3A%2F%2Fwww.crossrhythms.co.uk%2Farticles%2Fmusic%2FSamestate_The_Kansas_City_pop_rockers_breaking_through_in_the_US%2F47739%2Fp1%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-HMONE-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-HMONE_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HMONE_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HMONE_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-HMONE_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-HMONE_2-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-HMONE_2-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-HMONE_2-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-HMONE_2-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-HMONE_2-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-HMONE_2-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Van Pelt, Doug. <a class="external text" href="http://www.hmmagazine.com/2011/10/samestate-offering-full-length-in-february/" rel="nofollow">"Samestate offering full-length in February"</a>. <i><a href="/wiki/HM_(magazine)" title="HM (magazine)">HM</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.aufirst=Doug&amp;rft.aulast=Van+Pelt&amp;rft.btitle=Samestate+offering+full-length+in+February&amp;rft.genre=unknown&amp;rft.pub=%27%27HM%27%27&amp;rft_id=http%3A%2F%2Fwww.hmmagazine.com%2F2011%2F10%2Fsamestate-offering-full-length-in-february%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-JESUS-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-JESUS_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-JESUS_3-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-JESUS_3-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-JESUS_3-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-JESUS_3-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-JESUS_3-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-JESUS_3-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-JESUS_3-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-JESUS_3-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Jesus Freak Hideout. <a class="external text" href="http://www.jesusfreakhideout.com/artists/Samestate.asp" rel="nofollow">"Samestate profile"</a>. Jesus Freak Hideout<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=Jesus+Freak+Hideout&amp;rft.btitle=Samestate+profile&amp;rft.genre=unknown&amp;rft.pub=Jesus+Freak+Hideout&amp;rft_id=http%3A%2F%2Fwww.jesusfreakhideout.com%2Fartists%2FSamestate.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-NCN-4"><span class="mw-cite-backlink">^ <a href="#cite_ref-NCN_4-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-NCN_4-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-NCN_4-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-NCN_4-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-NCN_4-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-NCN_4-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-NCN_4-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-NCN_4-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-NCN_4-8"><sup><i><b>i</b></i></sup></a> <a href="#cite_ref-NCN_4-9"><sup><i><b>j</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><i>NCN News Staff</i> (February 18, 2011). <a class="external text" href="http://www.ncnnews.com/nphweb/html/ncn/article.jsp?id=10009997" rel="nofollow">"Nazarene band signs with major Christian label"</a>. Nazarene Communications Network<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=%27%27NCN+News+Staff%27%27&amp;rft.btitle=Nazarene+band+signs+with+major+Christian+label&amp;rft.date=2011-02-18&amp;rft.genre=unknown&amp;rft.pub=Nazarene+Communications+Network&amp;rft_id=http%3A%2F%2Fwww.ncnnews.com%2Fnphweb%2Fhtml%2Fncn%2Farticle.jsp%3Fid%3D10009997&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-BREATHE-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-BREATHE_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-BREATHE_5-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-BREATHE_5-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-BREATHE_5-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-BREATHE_5-4"><sup><i><b>e</b></i></sup></a> <a href="#cite_ref-BREATHE_5-5"><sup><i><b>f</b></i></sup></a> <a href="#cite_ref-BREATHE_5-6"><sup><i><b>g</b></i></sup></a> <a href="#cite_ref-BREATHE_5-7"><sup><i><b>h</b></i></sup></a> <a href="#cite_ref-BREATHE_5-8"><sup><i><b>i</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Brooks, Jessica for (Breathecast) (August 22, 2011). <a class="external text" href="http://breathecast.christianpost.com/Christian.Music.Artist-Samestate/Interview-1280_5445.htm" rel="nofollow">"Samestate: God's Love Is Like A 'Hurricane<span style="padding-right:0.2em;">'</span>"</a>. <i><a href="/wiki/The_Christian_Post" title="The Christian Post">The Christian Post</a></i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=Brooks%2C+Jessica+for+%28Breathecast%29&amp;rft.btitle=Samestate%3A+God%27s+Love+Is+Like+A+%27Hurricane%27&amp;rft.date=2011-08-22&amp;rft.genre=unknown&amp;rft.pub=%27%27The+Christian+Post%27%27&amp;rft_id=http%3A%2F%2Fbreathecast.christianpost.com%2FChristian.Music.Artist-Samestate%2FInterview-1280_5445.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-CREDITS-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-CREDITS_6-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Samestate (February 28, 2012). <a class="external text" href="http://allmusic.com/album/the-alignment-r2378860/credits" rel="nofollow">"<i>The Alignment</i> – Samestate credits"</a>. <a class="mw-redirect" href="/wiki/Allmusic" title="Allmusic">allmusic</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=Samestate&amp;rft.btitle=The+Alignment+%E2%80%93+Samestate+credits&amp;rft.date=2012-02-28&amp;rft.genre=unknown&amp;rft.pub=allmusic&amp;rft_id=http%3A%2F%2Fallmusic.com%2Falbum%2Fthe-alignment-r2378860%2Fcredits&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-JESUSALIGN-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-JESUSALIGN_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Jesus Freak Hideout (February 28, 2012). <a class="external text" href="http://www.jesusfreakhideout.com/cdreviews/TheAlignment.asp" rel="nofollow">"<i>The Alignment</i> album"</a>. Jesus Freak Hideout<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=Jesus+Freak+Hideout&amp;rft.btitle=The+Alignment+album&amp;rft.date=2012-02-28&amp;rft.genre=unknown&amp;rft.pub=Jesus+Freak+Hideout&amp;rft_id=http%3A%2F%2Fwww.jesusfreakhideout.com%2Fcdreviews%2FTheAlignment.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-RHYTHMS-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-RHYTHMS_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Cross Rhythms (February 13, 2012). <a class="external text" href="http://www.crossrhythms.co.uk/products/Samestate/The_Alignment/121458/" rel="nofollow">"Samestate – <i>The Alignment</i>"</a>. Cross Rhythms<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=Cross+Rhythms&amp;rft.btitle=Samestate+%E2%80%93+The+Alignment&amp;rft.date=2012-02-13&amp;rft.genre=unknown&amp;rft.pub=Cross+Rhythms&amp;rft_id=http%3A%2F%2Fwww.crossrhythms.co.uk%2Fproducts%2FSamestate%2FThe_Alignment%2F121458%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-AIRONE-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-AIRONE_9-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="mw-redirect" href="/wiki/Air_1" title="Air 1">Air 1</a> (November 12, 2011). <a class="external text" href="http://www.air1.com/Music/TopSongs.aspx" rel="nofollow">"Air 1 Top Songs Chart: November 12, 2011"</a>. Air 1<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=Air+1&amp;rft.btitle=Air+1+Top+Songs+Chart%3A+November+12%2C+2011&amp;rft.date=2011-11-12&amp;rft.genre=unknown&amp;rft.pub=Air+1&amp;rft_id=http%3A%2F%2Fwww.air1.com%2FMusic%2FTopSongs.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-KICKSTARTER-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-KICKSTARTER_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-KICKSTARTER_10-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.kickstarter.com/projects/samestate/samestate-the-boxer-and-the-thief" rel="nofollow">"Kickstarter: SAMESTATE - The Boxer &amp; The Thief"</a>. March 26, 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">November 20,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.btitle=Kickstarter%3A+SAMESTATE+-+The+Boxer+%26+The+Thief&amp;rft.date=2013-03-26&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.kickstarter.com%2Fprojects%2Fsamestate%2Fsamestate-the-boxer-and-the-thief&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-SPLIT-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-SPLIT_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Samestate (September 19, 2013). <a class="external text" href="https://www.facebook.com/Samestate/posts/10151669343339220" rel="nofollow">"Samestate Facebook Page Split Announcement"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">November 16,</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=Samestate&amp;rft.btitle=Samestate+Facebook+Page+Split+Announcement&amp;rft.date=2013-09-19&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.facebook.com%2FSamestate%2Fposts%2F10151669343339220&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-HMTWO-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-HMTWO_12-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Van Pelt, Doug. <a class="external text" href="http://www.hmmagazine.com/2011/08/samestate-hits-the-road-with-caleb/" rel="nofollow">"Samestate hits the road with Caleb"</a>. <i>HM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.atitle=Samestate+hits+the+road+with+Caleb&amp;rft.aufirst=Doug&amp;rft.aulast=Van+Pelt&amp;rft.genre=unknown&amp;rft.jtitle=HM&amp;rft_id=http%3A%2F%2Fwww.hmmagazine.com%2F2011%2F08%2Fsamestate-hits-the-road-with-caleb%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web">TodaysChristianMusic (August 2, 2011). <a class="external text" href="http://www.todayschristianmusic.com/news/so-long-summer-tour-heralds-sparrow-records-newcomers-samestate/" rel="nofollow">"<span style="padding-left:0.2em;">"</span>So Long Summer" Tour Heralds Sparrow Records' Newcomers Samestate"</a>. <i><a href="/wiki/CCM_Magazine" title="CCM Magazine">CCM</a></i> magazine<span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.atitle=%22So+Long+Summer%22+Tour+Heralds+Sparrow+Records%27+Newcomers+Samestate&amp;rft.au=TodaysChristianMusic&amp;rft.date=2011-08-02&amp;rft.genre=unknown&amp;rft.jtitle=CCM+%27%27magazine%27%27&amp;rft_id=http%3A%2F%2Fwww.todayschristianmusic.com%2Fnews%2Fso-long-summer-tour-heralds-sparrow-records-newcomers-samestate%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-HMTHREE-14"><span class="mw-cite-backlink">^ <a href="#cite_ref-HMTHREE_14-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HMTHREE_14-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Van Pelt, Doug. <a class="external text" href="http://www.hmmagazine.com/2012/03/same-state-hitting-the-road-with-family-force-5/" rel="nofollow">"Same State hitting the road with Family Force 5"</a>. <i>HM</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.atitle=Same+State+hitting+the+road+with+Family+Force+5&amp;rft.aufirst=Doug&amp;rft.aulast=Van+Pelt&amp;rft.genre=unknown&amp;rft.jtitle=HM&amp;rft_id=http%3A%2F%2Fwww.hmmagazine.com%2F2012%2F03%2Fsame-state-hitting-the-road-with-family-force-5%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-JFHALBUM-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-JFHALBUM_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-JFHALBUM_15-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-JFHALBUM_15-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Gelwicks, Roger (February 28, 2012). <a class="external text" href="http://www.jesusfreakhideout.com/cdreviews/TheAlignment.asp" rel="nofollow">"Samestate, "The Alignment" Review"</a>. Jesus Freak Hideout<span class="reference-accessdate">. Retrieved <span class="nowrap">June 5,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.aufirst=Roger&amp;rft.aulast=Gelwicks&amp;rft.btitle=Samestate%2C+%22The+Alignment%22+Review&amp;rft.date=2012-02-28&amp;rft.genre=unknown&amp;rft.pub=Jesus+Freak+Hideout&amp;rft_id=http%3A%2F%2Fwww.jesusfreakhideout.com%2Fcdreviews%2FTheAlignment.asp&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation web">Amazon.com (June 6, 2012). <a class="external text" href="https://www.amazon.com/s/ref=nb_sb_ss_i_0_13?url=search-alias%3Daps&amp;field-keywords=samestate+the+alignment&amp;sprefix=samestate+the%2Caps%2C156" rel="nofollow">"Samestate The Alignment search"</a>. Amazon.com<span class="reference-accessdate">. Retrieved <span class="nowrap">June 6,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=Amazon.com&amp;rft.btitle=Samestate+The+Alignment+search&amp;rft.date=2012-06-06&amp;rft.genre=unknown&amp;rft.pub=Amazon.com&amp;rft_id=https%3A%2F%2Fwww.amazon.com%2Fs%2Fref%3Dnb_sb_ss_i_0_13%3Furl%3Dsearch-alias%253Daps%26field-keywords%3Dsamestate%2Bthe%2Balignment%26sprefix%3Dsamestate%2Bthe%252Caps%252C156&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation journal"><i>Billboard</i> (December 10, 2011). "Christian Songs[TM]". <i>Academic OneFile</i>. <b>123</b> (45): 92.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.atitle=Christian+Songs%5BTM%5D&amp;rft.au=%27%27Billboard%27%27&amp;rft.date=2011-12-10&amp;rft.genre=article&amp;rft.issue=45&amp;rft.jtitle=Academic+OneFile&amp;rft.pages=92&amp;rft.volume=123&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> The id is GALE|A274520782. <span style="font-size:0.95em; font-size: 90%; color: #555">(subscription required)</span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation web"><i>Billboard</i> (May 11, 2012). <a class="external text" href="http://www.clashentertainment.com/music/5-music/6352-05112012" rel="nofollow">"05/11/2012"</a>. Clash Entertainment<span class="reference-accessdate">. Retrieved <span class="nowrap">June 5,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=%27%27Billboard%27%27&amp;rft.btitle=05%2F11%2F2012&amp;rft.date=2012-05-11&amp;rft.genre=unknown&amp;rft.pub=Clash+Entertainment&amp;rft_id=http%3A%2F%2Fwww.clashentertainment.com%2Fmusic%2F5-music%2F6352-05112012&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation web">SAMESTATEVEVO (October 10, 2011). <a class="external text" href="https://www.youtube.com/watch?v=_viWZSdbWjk" rel="nofollow">"Samestate – Hurricane"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=SAMESTATEVEVO&amp;rft.btitle=Samestate+%E2%80%93+Hurricane&amp;rft.date=2011-10-10&amp;rft.genre=unknown&amp;rft_id=https%3A%2F%2Fwww.youtube.com%2Fwatch%3Fv%3D_viWZSdbWjk&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web">Hrabkovska, Silvia for (Breathecast) (May 15, 2012). <a class="external text" href="http://breathecast.christianpost.com/Christian.Music.News-Samestate.to.Film.a.MV.for.Shadows.Fans.Called.to.Participate/1_6271.htm" rel="nofollow">"Samestate to Film a MV for 'Shadows', Fans Called to Participate"</a>. <i>The Christian Post</i><span class="reference-accessdate">. Retrieved <span class="nowrap">May 17,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASamestate&amp;rft.au=Hrabkovska%2C+Silvia+for+%28Breathecast%29&amp;rft.btitle=Samestate+to+Film+a+MV+for+%27Shadows%27%2C+Fans+Called+to+Participate&amp;rft.date=2012-05-15&amp;rft.genre=unknown&amp;rft.pub=%27%27The+Christian+Post%27%27&amp;rft_id=http%3A%2F%2Fbreathecast.christianpost.com%2FChristian.Music.News-Samestate.to.Film.a.MV.for.Shadows.Fans.Called.to.Participate%2F1_6271.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Samestate&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www.samestatemusic.com" rel="nofollow">Official website</a></span></span></li>
+<li><a class="external text" href="http://www.newreleasetuesday.com/artistdetail.php?artist_id=3420" rel="nofollow">News Release Tuesday</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1184
+Cached time: 20171004144209
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.292 seconds
+Real time usage: 0.352 seconds
+Preprocessor visited node count: 1483/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 37948/2097152 bytes
+Template argument size: 2297/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.156/10.000 seconds
+Lua memory usage: 4.04 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  328.057      1 -total
+ 58.64%  192.382      1 Template:Reflist
+ 43.72%  143.411     19 Template:Cite_web
+ 21.16%   69.433      1 Template:Infobox_musical_artist
+ 16.69%   54.742      1 Template:Infobox
+  7.80%   25.587      1 Template:Use_mdy_dates
+  6.67%   21.887      1 Template:Official_website
+  2.95%    9.682      2 Template:Br_separated_entries
+  2.92%    9.583      1 Template:DMCA
+  2.72%    8.908      1 Template:Ns0
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:35855787-0!canonical and timestamp 20171004144208 and revision id 800063204
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Samestate&amp;oldid=800063204">https://en.wikipedia.org/w/index.php?title=Samestate&amp;oldid=800063204</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Musical_groups_established_in_2008" title="Category:Musical groups established in 2008">Musical groups established in 2008</a></li><li><a href="/wiki/Category:Sparrow_Records_artists" title="Category:Sparrow Records artists">Sparrow Records artists</a></li><li><a href="/wiki/Category:American_Christian_rock_groups" title="Category:American Christian rock groups">American Christian rock groups</a></li><li><a href="/wiki/Category:Musical_groups_from_Kansas" title="Category:Musical groups from Kansas">Musical groups from Kansas</a></li><li><a href="/wiki/Category:2008_establishments_in_Kansas" title="Category:2008 establishments in Kansas">2008 establishments in Kansas</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:Pages_containing_links_to_subscription-only_content" title="Category:Pages containing links to subscription-only content">Pages containing links to subscription-only content</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_May_2012" title="Category:Use mdy dates from May 2012">Use mdy dates from May 2012</a></li><li><a href="/wiki/Category:Articles_with_hCards" title="Category:Articles with hCards">Articles with hCards</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Samestate" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Samestate" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Samestate" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Samestate" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Samestate">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Samestate&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Samestate&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Samestate" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Samestate" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Samestate&amp;oldid=800063204" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Samestate&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7409300" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Samestate&amp;id=800063204" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Samestate">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Samestate&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DSamestate%26returnto%3DSamestate%26oldid%3D800063204%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Samestate&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+</ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-add wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7409300#sitelinks-wikipedia" title="Add interlanguage links">Add links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 September 2017, at 09:27.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Samestate&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.292","walltime":"0.352","ppvisitednodes":{"value":1483,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":37948,"limit":2097152},"templateargumentsize":{"value":2297,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  328.057      1 -total"," 58.64%  192.382      1 Template:Reflist"," 43.72%  143.411     19 Template:Cite_web"," 21.16%   69.433      1 Template:Infobox_musical_artist"," 16.69%   54.742      1 Template:Infobox","  7.80%   25.587      1 Template:Use_mdy_dates","  6.67%   21.887      1 Template:Official_website","  2.95%    9.682      2 Template:Br_separated_entries","  2.92%    9.583      1 Template:DMCA","  2.72%    8.908      1 Template:Ns0"]},"scribunto":{"limitreport-timeusage":{"value":"0.156","limit":"10.000"},"limitreport-memusage":{"value":4234365,"limit":52428800}},"cachereport":{"origin":"mw1184","timestamp":"20171004144209","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":79,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

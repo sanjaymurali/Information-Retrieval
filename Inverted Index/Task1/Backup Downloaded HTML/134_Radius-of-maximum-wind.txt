@@ -1,0 +1,266 @@
+https://en.wikipedia.org/wiki/Radius_of_maximum_wind
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Radius of maximum wind - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Radius_of_maximum_wind","wgTitle":"Radius of maximum wind","wgCurRevisionId":781623886,"wgRevisionId":781623886,"wgArticleId":10121426,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Use dmy dates from May 2013","Good articles","Tropical cyclone meteorology","Tornado","Weather hazards","Wind"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Radius_of_maximum_wind","wgRelevantArticleId":10121426,"wgRequestId":"WdVP3ApAADwAAGxq-5UAAAAB","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7281394","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hurricane_Isabel_from_ISS.jpg/1200px-Hurricane_Isabel_from_ISS.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Radius_of_maximum_wind" rel="alternate"/>
+<link href="/w/index.php?title=Radius_of_maximum_wind&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Radius_of_maximum_wind&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Radius_of_maximum_wind" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Radius_of_maximum_wind rootpage-Radius_of_maximum_wind vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Radius of maximum wind</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Hurricane_Isabel_from_ISS.jpg"><img alt="" class="thumbimage" data-file-height="2007" data-file-width="3032" height="199" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hurricane_Isabel_from_ISS.jpg/300px-Hurricane_Isabel_from_ISS.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hurricane_Isabel_from_ISS.jpg/450px-Hurricane_Isabel_from_ISS.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/04/Hurricane_Isabel_from_ISS.jpg/600px-Hurricane_Isabel_from_ISS.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Hurricane_Isabel_from_ISS.jpg" title="Enlarge"></a></div>
+The radius of maximum wind of a tropical cyclone lies just within the eyewall of an intense tropical cyclone, such as <a href="/wiki/Hurricane_Isabel" title="Hurricane Isabel">Hurricane Isabel</a> from 2003</div>
+</div>
+</div>
+<p>The <b>radius of maximum wind</b> (<b>RMW</b>) is the distance between the center of a <a href="/wiki/Cyclone" title="Cyclone">cyclone</a> and its band of strongest <a href="/wiki/Wind" title="Wind">winds</a>. It is a parameter in atmospheric dynamics and <a href="/wiki/Tropical_cyclone_forecasting" title="Tropical cyclone forecasting">tropical cyclone forecasting</a>.<sup class="reference" id="cite_ref-HSU_1-0"><a href="#cite_note-HSU-1">[1]</a></sup> The highest <a href="/wiki/Rain" title="Rain">rainfall</a> rates occur near the RMW of <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclones</a>. The extent of a cyclone's <a href="/wiki/Storm_surge" title="Storm surge">storm surge</a> and its maximum potential intensity can be determined using the RMW. As <a href="/wiki/Maximum_sustained_wind" title="Maximum sustained wind">maximum sustained winds</a> increase, the RMW decreases. Recently, RMW has been used in descriptions of <a href="/wiki/Tornado" title="Tornado">tornadoes</a>. When designing <a href="/wiki/Building" title="Building">buildings</a> to prevent against failure from atmospheric pressure change, RMW can be used in the calculations.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Determination"><span class="tocnumber">1</span> <span class="toctext">Determination</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Tornadoes"><span class="tocnumber">2</span> <span class="toctext">Tornadoes</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Tropical_cyclones"><span class="tocnumber">3</span> <span class="toctext">Tropical cyclones</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Determination">Determination</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radius_of_maximum_wind&amp;action=edit&amp;section=1" title="Edit section: Determination">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The RMW is traditionally measured by reconnaissance aircraft in the Atlantic basin.<sup class="reference" id="cite_ref-HSU_1-1"><a href="#cite_note-HSU-1">[1]</a></sup> It can also be determined on <a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">weather maps</a> as the distance between the cyclone center and the system's greatest pressure gradient.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Using <a href="/wiki/Weather_satellite" title="Weather satellite">weather satellite</a> data, the distance between the coldest cloud top temperature and the warmest temperatature within the <a href="/wiki/Eye_(cyclone)" title="Eye (cyclone)">eye</a>, in infrared satellite imagery, is one method of determining RMW. The reason why this method has merit is that the strongest winds within <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclones</a> tend to be located under the deepest <a href="/wiki/Convection" title="Convection">convection</a>, which is seen on satellite imagery as the coldest cloud tops.<sup class="reference" id="cite_ref-HSU_1-2"><a href="#cite_note-HSU-1">[1]</a></sup> Use of velocity data from Doppler <a href="/wiki/Weather_radar" title="Weather radar">weather radar</a> can also be used to determine this quantity, both for tornadoes and tropical cyclones near the coast.</p>
+<h2><span class="mw-headline" id="Tornadoes">Tornadoes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radius_of_maximum_wind&amp;action=edit&amp;section=2" title="Edit section: Tornadoes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:05june-rapiddow-wide.gif"><img alt="" class="thumbimage" data-file-height="832" data-file-width="1914" height="130" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/05june-rapiddow-wide.gif/300px-05june-rapiddow-wide.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a8/05june-rapiddow-wide.gif/450px-05june-rapiddow-wide.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a8/05june-rapiddow-wide.gif/600px-05june-rapiddow-wide.gif 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:05june-rapiddow-wide.gif" title="Enlarge"></a></div>
+Radar imagery of a tornado and associated mesocyclone in <a href="/wiki/Tornadoes_of_2009#June_5" title="Tornadoes of 2009">Wyoming on June 5, 2009</a>. Reflectivity data on the left show the calm interior of the tornado. Velocity data on the right show where the strongest winds are located.</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Tornado" title="Tornado">Tornado</a></div>
+<p>In the case of tornadoes, knowledge of the RMW is important as atmospheric pressure change (APC) within sealed buildings can cause failure of the structure. Most buildings have openings totaling one square foot per 1,000-cubic-foot (28 m<sup>3</sup>) volume to help equalize air pressure between the inside and outside of the structures. The APC is around one-half of its maximum value at the RMW, which normally ranges between 150 feet (46 m) and 500 feet (150 m) from the center (or eye) of the tornado.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The widest tornado as measured by actual radar wind measurements was the <a href="/wiki/Mulhall,_Oklahoma" title="Mulhall, Oklahoma">Mulhall</a> tornado in northern Oklahoma, part of the <a href="/wiki/1999_Oklahoma_tornado_outbreak" title="1999 Oklahoma tornado outbreak">1999 Oklahoma tornado outbreak</a>, which had a radius of maximum wind of over 800 metres (2,600 ft).<sup class="reference" id="cite_ref-Mulhall_5-0"><a href="#cite_note-Mulhall-5">[5]</a></sup></p>
+<h2><span class="mw-headline" id="Tropical_cyclones">Tropical cyclones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radius_of_maximum_wind&amp;action=edit&amp;section=3" title="Edit section: Tropical cyclones">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical cyclone</a>, <a href="/wiki/Storm_surge" title="Storm surge">Storm surge</a>, and <a class="mw-redirect" href="/wiki/Ocean_swell" title="Ocean swell">Ocean swell</a></div>
+<p>An average value for the RMW of 47 kilometres (29 mi) was calculated as the mean (or average) of all hurricanes with a lowest central <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">atmospheric pressure</a> between a pressure of 909 hectopascals (26.8 inHg) and 993 hectopascals (29.3 inHg).<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> As tropical cyclones intensify, maximum sustained winds increase as the RMW decreases.<sup class="reference" id="cite_ref-Wil_7-0"><a href="#cite_note-Wil-7">[7]</a></sup> However, values for RMW produced based on central pressure or maximum wind speed could be substantial scattering around the regression lines.<sup class="reference" id="cite_ref-Tak_8-0"><a href="#cite_note-Tak-8">[8]</a></sup> The heaviest rainfall within intense tropical cyclones has been observed in the vicinity of the RMW.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p>The radius of maximum wind helps determine the direct strikes of tropical cyclones. Tropical cyclones are considered to have made a direct strike to a landmass when a tropical cyclone passes close enough to a landmass that areas inside the radius of maximum wind are experienced on land.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> The radius of maximum wind is used within the maximum potential intensity equation. The Emanuel equation for Maximum Intensity Potential relies upon the winds near the RMW of a tropical cyclone to determine its ultimate potential.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p>The highest storm surge is normally coincident with the radius of maximum wind. Because the strongest winds within a tropical cyclone lie at the RMW, this is the region of a tropical cyclone which generates the dominant waves near the storm, and ultimately <a class="mw-redirect" href="/wiki/Ocean_swell" title="Ocean swell">ocean swell</a> away from the cyclone.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> Tropical cyclones mix the ocean water within a radius three times that of the RMW, which lowers sea surface temperatures due to <a href="/wiki/Upwelling" title="Upwelling">upwelling</a>.<sup class="reference" id="cite_ref-Wil_7-1"><a href="#cite_note-Wil-7">[7]</a></sup></p>
+<p>Much is still unknown about the radius of maximum wind in tropical cyclones, including whether or not it can be predictable.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radius_of_maximum_wind&amp;action=edit&amp;section=4" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Radius_of_outermost_closed_isobar" title="Radius of outermost closed isobar">Radius of outermost closed isobar</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Radius_of_maximum_wind&amp;action=edit&amp;section=5" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-HSU-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-HSU_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-HSU_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-HSU_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">S. A. Hsu and Adele Babin. <a class="external text" href="http://www.nwas.org/ej/hsu/hsu_babin_2005.pdf" rel="nofollow">"Estimating the Radius of Maximum Winds Via Satellite During Hurricane Lili (2002) Over the Gulf of Mexico"</a> <span style="font-size:85%;">(PDF)</span><span class="reference-accessdate">. Retrieved <span class="nowrap">2007-03-18</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.au=S.+A.+Hsu+and+Adele+Babin&amp;rft.btitle=Estimating+the+Radius+of+Maximum+Winds+Via+Satellite+During+Hurricane+Lili+%282002%29+Over+the+Gulf+of+Mexico&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nwas.org%2Fej%2Fhsu%2Fhsu_babin_2005.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Donald W. Burgess and Michael A. Magsig. <a class="external text" href="http://www.wdtb.noaa.gov/modules/sls00/M3RADAR.pdf" rel="nofollow">Understanding WSR-88D Signatures for the 3 May 1999 Oklahoma City Tornado.</a> Retrieved on 2007-03-18.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web">Brian W. Blanchard and S. A. Hsu (2006-06-08). <a class="external text" href="http://www.esl.lsu.edu/quicklinks/publications/pdfs/Blanchard.et.al.NWAEJOperationalMeteorology.2006.pdf" rel="nofollow">"On the Radial Variation of the Tangential Wind Speed Outside the Radius of Maximum Wind During Hurricane Wilma (2005)"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Louisiana_State_University" title="Louisiana State University">Louisiana State University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.au=Brian+W.+Blanchard+and+S.+A.+Hsu&amp;rft.btitle=On+the+Radial+Variation+of+the+Tangential+Wind+Speed+Outside+the+Radius+of+Maximum+Wind+During+Hurricane+Wilma+%282005%29&amp;rft.date=2006-06-08&amp;rft.genre=unknown&amp;rft.pub=Louisiana+State+University&amp;rft_id=http%3A%2F%2Fwww.esl.lsu.edu%2Fquicklinks%2Fpublications%2Fpdfs%2FBlanchard.et.al.NWAEJOperationalMeteorology.2006.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/United_States_Department_of_Energy" title="United States Department of Energy">United States Department of Energy</a>. <a class="external text" href="http://www.tpub.com/content/doe2/STD-10202002/STD-102020020175.htm" rel="nofollow">"Natural Phenomena Hazards Design and Evaluation Criteria for Department of Energy: E.2.2 Additional Adverse Effects of Tornadoes"</a>. p. E7<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.au=United+States+Department+of+Energy&amp;rft.btitle=Natural+Phenomena+Hazards+Design+and+Evaluation+Criteria+for+Department+of+Energy%3A+E.2.2+Additional+Adverse+Effects+of+Tornadoes&amp;rft.genre=unknown&amp;rft.pages=E7&amp;rft_id=http%3A%2F%2Fwww.tpub.com%2Fcontent%2Fdoe2%2FSTD-10202002%2FSTD-102020020175.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Mulhall-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-Mulhall_5-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Wurman, Joshua; C. Alexander; P. Robinson; Y. Richardson (January 2007). <a class="external text" href="http://ams.allenpress.com/perlserv/?request=get-abstract&amp;doi=10.1175%2FBAMS-88-1-31" rel="nofollow">"Low-Level Winds in Tornadoes and Potential Catastrophic Tornado Impacts in Urban Areas"</a>. <i><a href="/wiki/Bulletin_of_the_American_Meteorological_Society" title="Bulletin of the American Meteorological Society">Bulletin of the American Meteorological Society</a></i>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>. <b>88</b> (1): 31–46. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2007BAMS...88...31W" rel="nofollow">2007BAMS...88...31W</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2FBAMS-88-1-31" rel="nofollow">10.1175/BAMS-88-1-31</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.atitle=Low-Level+Winds+in+Tornadoes+and+Potential+Catastrophic+Tornado+Impacts+in+Urban+Areas&amp;rft.au=C.+Alexander&amp;rft.au=P.+Robinson&amp;rft.au=Y.+Richardson&amp;rft.aufirst=Joshua&amp;rft.aulast=Wurman&amp;rft.date=2007-01&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Bulletin+of+the+American+Meteorological+Society&amp;rft.pages=31-46&amp;rft.volume=88&amp;rft_id=http%3A%2F%2Fams.allenpress.com%2Fperlserv%2F%3Frequest%3Dget-abstract%26doi%3D10.1175%252FBAMS-88-1-31&amp;rft_id=info%3Abibcode%2F2007BAMS...88...31W&amp;rft_id=info%3Adoi%2F10.1175%2FBAMS-88-1-31&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">S. A. Hsu and Zhongde Yana (Spring 1998). "A Note on the Radius of Maximum Winds for Hurricanes". <i>Journal of Coastal Research</i>. Coastal Education &amp; Research Foundation, Inc. <b>12</b> (2): 667–668. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/4298820" rel="nofollow">4298820</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.atitle=A+Note+on+the+Radius+of+Maximum+Winds+for+Hurricanes&amp;rft.au=S.+A.+Hsu+and+Zhongde+Yana&amp;rft.date=1998&amp;rft.genre=article&amp;rft.issue=2&amp;rft.jtitle=Journal+of+Coastal+Research&amp;rft.pages=667-668&amp;rft.ssn=spring&amp;rft.volume=12&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F4298820&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Wil-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-Wil_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Wil_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">Hugh Willoughby (2006-10-06). <a class="external text" href="http://severe.worldweather.org/iwtc/document/Topic_1_Hugh_Willoughby.pdf" rel="nofollow">"Sixth International Workshop on Tropical Cyclones Topic 1 : Tropical Cyclone Structure and Structure Change"</a> <span style="font-size:85%;">(PDF)</span>. Severe Weather Information Centre<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.au=Hugh+Willoughby&amp;rft.btitle=Sixth+International+Workshop+on+Tropical+Cyclones+Topic+1+%3A+Tropical+Cyclone+Structure+and+Structure+Change&amp;rft.date=2006-10-06&amp;rft.genre=unknown&amp;rft.pub=Severe+Weather+Information+Centre&amp;rft_id=http%3A%2F%2Fsevere.worldweather.org%2Fiwtc%2Fdocument%2FTopic_1_Hugh_Willoughby.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Tak-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-Tak_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nat-hazards-earth-syst-sci.net/16/705/2016/nhess-16-705-2016.pdf" rel="nofollow">"Maximum wind radius estimated by the 50 kt radius: improvement of storm surge forecasting over the western North Pacific"</a> <span style="font-size:85%;">(PDF)</span>. 2016-03-11<span class="reference-accessdate">. Retrieved <span class="nowrap">2016-11-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.btitle=Maximum+wind+radius+estimated+by+the+50%E2%80%AFkt+radius%3A+improvement+of+storm+surge+forecasting+over+the+western+North+Pacific&amp;rft.date=2016-03-11&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.nat-hazards-earth-syst-sci.net%2F16%2F705%2F2016%2Fnhess-16-705-2016.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation journal">Teruo Muramatsu (1985). <a class="external text" href="http://www.mri-jma.go.jp/Publish/Technical/DATA/VOL_14/14_abs.pdf" rel="nofollow">"The Study on the Changes of the Three-dimensional Structure and the Movement Speed of the Typhoon through its Life Time"</a> <span style="font-size:85%;">(PDF)</span>. <i>Tech. Rep. Meteorol. Res. Inst. Number 14</i>: 3<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.atitle=The+Study+on+the+Changes+of+the+Three-dimensional+Structure+and+the+Movement+Speed+of+the+Typhoon+through+its+Life+Time&amp;rft.au=Teruo+Muramatsu&amp;rft.date=1985&amp;rft.genre=article&amp;rft.jtitle=Tech.+Rep.+Meteorol.+Res.+Inst.+Number+14&amp;rft.pages=3&amp;rft_id=http%3A%2F%2Fwww.mri-jma.go.jp%2FPublish%2FTechnical%2FDATA%2FVOL_14%2F14_abs.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web">National Weather Service (2009-06-25). <a class="external text" href="http://www.weather.gov/glossary/index.php?letter=d" rel="nofollow">"Glossary: D"</a>. <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.au=National+Weather+Service&amp;rft.btitle=Glossary%3A++D&amp;rft.date=2009-06-25&amp;rft.genre=unknown&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.weather.gov%2Fglossary%2Findex.php%3Fletter%3Dd&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Kerry A. Emanuel. <a class="external text" href="http://wind.mit.edu/~emanuel/pcmin/pclat/pclat.html" rel="nofollow">Maximum Intensity Estimation.</a> Retrieved on 2007-03-18.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Edward J. Walsh and C. Wayne Wright. <a class="external text" href="http://www.onr.navy.mil/sci_tech/32/reports/docs/05/mmwalsh5.pdf" rel="nofollow">Hurricane Wave Topography and Directional Wave Spectra in Near Real-Time.</a> <a class="external text" href="https://web.archive.org/web/20071129132811/http://www.onr.navy.mil/sci_tech/32/reports/docs/05/mmwalsh5.pdf" rel="nofollow">Archived</a> 29 November 2007 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>. Retrieved on 2007-03-18.</span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation journal">Agnieszka A. S. Mrowiec, S. T. Garner and O. Pauluis (2006-04-25). <a class="external text" href="http://ams.confex.com/ams/27Hurricanes/techprogram/paper_108632.htm" rel="nofollow">"What Sets a Hurricane's Radius of Maximum Wind?"</a>. <i>27th Conference on Hurricanes and Tropical Meteorology</i>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-11-20</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ARadius+of+maximum+wind&amp;rft.atitle=What+Sets+a+Hurricane%27s+Radius+of+Maximum+Wind%3F&amp;rft.au=Agnieszka+A.+S.+Mrowiec%2C+S.+T.+Garner+and+O.+Pauluis&amp;rft.date=2006-04-25&amp;rft.genre=article&amp;rft.jtitle=27th+Conference+on+Hurricanes+and+Tropical+Meteorology&amp;rft_id=http%3A%2F%2Fams.confex.com%2Fams%2F27Hurricanes%2Ftechprogram%2Fpaper_108632.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1326
+Cached time: 20170930000127
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.200 seconds
+Real time usage: 0.250 seconds
+Preprocessor visited node count: 763/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 21459/2097152 bytes
+Template argument size: 366/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 1/500
+Lua time usage: 0.105/10.000 seconds
+Lua memory usage: 4.73 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  229.224      1 -total
+ 50.03%  114.673      1 Template:Reflist
+ 25.43%   58.295      6 Template:Cite_web
+ 16.03%   36.741      7 Template:Convert
+ 12.30%   28.199      1 Template:Use_dmy_dates
+ 11.19%   25.644      1 Template:Good_article
+ 10.72%   24.569      1 Template:Top_icon
+ 10.49%   24.046      4 Template:Cite_journal
+  6.77%   15.529      1 Template:Category_handler
+  5.56%   12.736      2 Template:See_also
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:10121426-0!canonical and timestamp 20170930000127 and revision id 781623886
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Radius_of_maximum_wind&amp;oldid=781623886">https://en.wikipedia.org/w/index.php?title=Radius_of_maximum_wind&amp;oldid=781623886</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tropical_cyclone_meteorology" title="Category:Tropical cyclone meteorology">Tropical cyclone meteorology</a></li><li><a href="/wiki/Category:Tornado" title="Category:Tornado">Tornado</a></li><li><a href="/wiki/Category:Weather_hazards" title="Category:Weather hazards">Weather hazards</a></li><li><a href="/wiki/Category:Wind" title="Category:Wind">Wind</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2013" title="Category:Use dmy dates from May 2013">Use dmy dates from May 2013</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Radius+of+maximum+wind" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Radius+of+maximum+wind" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Radius_of_maximum_wind" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Radius_of_maximum_wind" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Radius_of_maximum_wind">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Radius_of_maximum_wind&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Radius_of_maximum_wind&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Radius_of_maximum_wind" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Radius_of_maximum_wind" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Radius_of_maximum_wind&amp;oldid=781623886" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Radius_of_maximum_wind&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7281394" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Radius_of_maximum_wind&amp;id=781623886" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Radius+of+maximum+wind">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Radius+of+maximum+wind&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DRadius%2Bof%2Bmaximum%2Bwind%26returnto%3DRadius%2Bof%2Bmaximum%2Bwind%26oldid%3D781623886%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Radius_of_maximum_wind&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Raio_de_vento_m%C3%A1ximo" hreflang="pt" lang="pt" title="Raio de vento máximo – Portuguese">Português</a></li><li class="interlanguage-link interwiki-zh badge-Q17437798 badge-goodarticle" title="good article"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%80%E5%A4%A7%E9%A3%8E%E9%80%9F%E5%8D%8A%E5%BE%84" hreflang="zh" lang="zh" title="最大风速半径 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7281394#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 May 2017, at 09:34.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Radius_of_maximum_wind&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.200","walltime":"0.250","ppvisitednodes":{"value":763,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":21459,"limit":2097152},"templateargumentsize":{"value":366,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  229.224      1 -total"," 50.03%  114.673      1 Template:Reflist"," 25.43%   58.295      6 Template:Cite_web"," 16.03%   36.741      7 Template:Convert"," 12.30%   28.199      1 Template:Use_dmy_dates"," 11.19%   25.644      1 Template:Good_article"," 10.72%   24.569      1 Template:Top_icon"," 10.49%   24.046      4 Template:Cite_journal","  6.77%   15.529      1 Template:Category_handler","  5.56%   12.736      2 Template:See_also"]},"scribunto":{"limitreport-timeusage":{"value":"0.105","limit":"10.000"},"limitreport-memusage":{"value":4958615,"limit":52428800}},"cachereport":{"origin":"mw1326","timestamp":"20170930000127","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1265"});});</script>
+</body>
+</html>

@@ -1,0 +1,112 @@
+Goal : Qualitative Analysis
+===========================
+
+A. Crawler implemented using Breadth First Traversal:
+
+Top 10 Pages by Page Rank (from "G1-top50.txt"):
+
+'International_Standard_Book_Number'    :    0.05014018519829598
+'Digital_object_identifier'             :    0.04114507555862948
+'International_Standard_Serial_Number'  :    0.03251904259778063
+'National_Diet_Library'                 :    0.022877640224011907
+'Bibcode'                               :    0.01896772421326511
+'World_War_II'                          :    0.015593764885745345
+'PubMed_Identifier'                     :    0.015464649139305248
+'Canada'                                :    0.015183891973760624
+'Japan'                                 :    0.013682341448597889
+'OCLC'                                  :    0.0136663877388238
+
+Top 10 Pages by in-link count (use "return_top10_inlink()" in "Page-Rank.py"):
+
+'International_Standard_Book_Number'              :  407
+'Tropical_cyclone'                                :  335
+'Digital_object_identifier'                       :  326
+'Wayback_Machine'                                 :  222
+'Bibcode'                                         :  222
+'Tropical_cyclone_scales'                         :  203
+'National_Oceanic_and_Atmospheric_Administration' :  195
+'Pascal_(unit)'                                   :  186
+'Extratropical_cyclone'                           :  186
+'Bar_(unit)'                                      :  181
+------------------------------------------------------------------------------------------------------------------------
+B. Crawler implemented using Depth First Traversal:
+
+Top 10 Pages by Page Rank (from "G2-top50.txt"):
+
+'United_States'                 : 0.031861647584478174
+'United_Kingdom'                : 0.018960470705511785
+'Geographic_coordinate_system'  : 0.011745791606792833
+'English_language'              : 0.01129670856615282
+'Scotland'                      : 0.010346155284600679
+'Japan'                         : 0.009596569556517184
+'New_York_City'                 : 0.00931866849946048
+'Singapore'                     : 0.009093732796821873
+'California'                    : 0.00851157265978454
+'London'                        : 0.008412050776809912
+
+Top 10 Pages by in-link count (use "return_top10_inlink()" in "Page-Rank.py"):
+
+'United_States'                 :  367
+'American_English'              :  165
+'United_Kingdom'                :  148
+'Geographic_coordinate_system'  :  148
+'California'                    :  116
+'Indo-European_languages'       :  113
+'New_York_City'                 :  99
+'English_language'              :  96
+'Texas'                         :  87
+'Japan'                         :  87
+
+------------------------------------------------------------------------------------------------------------------------
+Explanation and Speculation:
+
+Page-Rank is a measure of popularity of a page.
+
+The Page Rank of a page "D1" depends upon a number of factors such as in-links to the page and unique number of out-links
+of the page(s) which is pointing to the page D1. Though in-link count might appear as a good measure of how popular a
+page is, it isnt a concrete way to decide whether a page is popular because it is suspectible to spam in the form of
+spamdexing and track backlinks.
+
+GRAPH-1:
+For Graph-1 which implement Breadth First Traversal, if we compare the results of Top-10 pages obtained by Page-Rank
+and the in-link counts, few pages are present in both because of their high in-link count which means that the page is
+extremely important.
+Ex: Pages like 'International_Standard_Book_Number', 'Digital_object_identifier' and 'Bibcode' are present in both the
+    results, while pages like "Japan" is present in the result obtained from Page-rank calculation, its not part of the
+    result obtained by in-link count.
+
+We also see that pages like "Pascal_(unit)" or "Bar_(unit)" have high in-link counts but dont show up in the result obtained
+by Page-rank, there might be few reasons:
+
+1. It might have large number of out-links, which in-turn distributes the Page-rank to all its out going pages in the
+   long run
+2. It might have in-links from pages, which have large number of out-links, so the contribution to Page-Rank of
+   "Pascal_(unit)" or "Bar_(unit)" by its in-linking pages might be less.
+
+The Above might be the reason that some pages with high Page-Rank might not appear in top 10 in-link list and vice-versa.
+
+GRAPH-2:
+For Graph-2 which implement Depth First Traversal, if we compare the results of Top-10 pages obtained by Page-Rank
+and the in-link counts, few pages are present in both because of their high in-link count which means that the page is
+extremely important.
+Ex: Pages like 'United_States', 'United_Kingdom' and 'New_York_City' are present in both the results, while pages like
+    "Japan" is present in the result obtained from Page-rank calculation, its not part of the result obtained by
+    in-link count.
+
+We also see that pages like "American_English" or "Indo-European_languages" have high in-link counts but dont show up
+in the result obtained by Page-rank, there might be few reasons:
+
+1. It might have large number of out-links, which in-turn distributes the Page-rank to all its out going pages in the
+   long run
+2. It might have in-links from pages, which have large number of out-links, so the contribution to Page-Rank of
+   "American_English" or "Indo-European_languages" by its in-linking pages might be less.
+
+The Above might be the reason that some pages with high Page-Rank might bot appear top 10 in in-link list and vice-versa.
+
+Conclusion:
+So in both the traversal techniques, we can clearly see a pattern which is established between top 10 results of
+Page-Rank and in-link counts, which is that not all the pages in in-link count is available in Page-Rank and vice-versa.
+The pages with highest number of in-links though appear in the Page-Rank, it is not concrete that it would appear for sure
+in the Top-10 in Page-Rank just because it has high in-link count. Several Factors like "number of out-links" and
+"in-links from pages which has large number of out-links" (which have been discussed with examples above) play a role
+in determining how popular a page is in the given graph.

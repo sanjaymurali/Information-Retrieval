@@ -1,0 +1,514 @@
+https://en.wikipedia.org/wiki/Insitu_Aerosonde
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>AAI Aerosonde - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"AAI_Aerosonde","wgTitle":"AAI Aerosonde","wgCurRevisionId":789351710,"wgRevisionId":789351710,"wgArticleId":1624622,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be expanded from March 2015","All articles to be expanded","Articles with empty sections from March 2015","All articles with empty sections","Articles using small message boxes","Articles needing additional references from February 2015","All articles needing additional references","Meteorological instrumentation and equipment","Single-engined pusher aircraft","United States special-purpose aircraft 1990–1999","Unmanned aerial vehicles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"AAI_Aerosonde","wgRelevantArticleId":1624622,"wgRequestId":"WdRNpgpAIDYAAGgaWiMAAABV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Insitu_Aerosonde","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/AAI_Aerosonde","wgWikibaseItemId":"Q286127","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerosonde_Laima_bottom_view.jpg/1200px-Aerosonde_Laima_bottom_view.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/AAI_Aerosonde" rel="alternate"/>
+<link href="/w/index.php?title=AAI_Aerosonde&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=AAI_Aerosonde&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/AAI_Aerosonde" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-AAI_Aerosonde rootpage-AAI_Aerosonde vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">AAI Aerosonde</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Insitu_Aerosonde&amp;redirect=no" title="Insitu Aerosonde">Insitu Aerosonde</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the Australian manufacturer of UAVs, see <a href="/wiki/Aerosonde_Ltd" title="Aerosonde Ltd">Aerosonde Ltd</a>.</div>
+<table class="infobox" style="width:315px;border-spacing:2px;">
+<tr>
+<th colspan="2" style="text-align: center; font-size: large; padding-bottom: 0.3em;">Aerosonde</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align: center;"><a class="image" href="/wiki/File:Aerosonde_Laima_bottom_view.jpg"><img alt="Aerosonde Laima bottom view.jpg" data-file-height="1468" data-file-width="2246" height="196" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerosonde_Laima_bottom_view.jpg/300px-Aerosonde_Laima_bottom_view.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerosonde_Laima_bottom_view.jpg/450px-Aerosonde_Laima_bottom_view.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/56/Aerosonde_Laima_bottom_view.jpg/600px-Aerosonde_Laima_bottom_view.jpg 2x" width="300"/></a></td>
+</tr>
+<tr>
+<td colspan="2" style="border-bottom: 1px solid #aaa;text-align:center;">Aerosonde "Laima" in display at Museum of Flight, Seattle, WA</td>
+</tr>
+<tr>
+<th>Role</th>
+<td><a href="/wiki/Unmanned_aerial_vehicle" title="Unmanned aerial vehicle">Unmanned aerial vehicle</a></td>
+</tr>
+<tr>
+<th><span class="nowrap">National origin</span></th>
+<td>Australia</td>
+</tr>
+<tr>
+<th>Manufacturer</th>
+<td><a href="/wiki/Aerosonde_Ltd" title="Aerosonde Ltd">Aerosonde Ltd</a>, a division of <a href="/wiki/Textron" title="Textron">Textron</a></td>
+</tr>
+</table>
+<p>The <b>AAI Aerosonde</b> is a small <a href="/wiki/Unmanned_aerial_vehicle" title="Unmanned aerial vehicle">unmanned aerial vehicle</a> (UAV) designed to collect weather data, including <a href="/wiki/Temperature" title="Temperature">temperature</a>, <a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">atmospheric pressure</a>, <a href="/wiki/Humidity" title="Humidity">humidity</a>, and <a href="/wiki/Wind" title="Wind">wind</a> measurements over oceans and remote areas. The Aerosonde was developed by <a href="/wiki/Insitu" title="Insitu">Insitu</a>, and is now manufactured by <a href="/wiki/Aerosonde_Ltd" title="Aerosonde Ltd">Aerosonde Ltd</a>, which is a strategic business of <a href="/wiki/AAI_Corporation" title="AAI Corporation">AAI Corporation</a>. The Aerosonde is powered by a modified <a class="new" href="/w/index.php?title=Enya_R120&amp;action=edit&amp;redlink=1" title="Enya R120 (page does not exist)">Enya R120</a> <a href="/wiki/Model_aircraft" title="Model aircraft">model aircraft</a> engine, and carries on board a small computer, <a href="/wiki/Meteorology" title="Meteorology">meteorological instruments</a>, and a <a href="/wiki/Global_Positioning_System" title="Global Positioning System">GPS</a> receiver for navigation. It is also used by the <a href="/wiki/United_States_Armed_Forces" title="United States Armed Forces">United States Armed Forces</a> for <a class="mw-redirect" href="/wiki/Intelligence,_surveillance_and_reconnaissance" title="Intelligence, surveillance and reconnaissance">intelligence, surveillance and reconnaissance</a> (ISR).</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Design_and_development"><span class="tocnumber">1</span> <span class="toctext">Design and development</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Operational_history"><span class="tocnumber">2</span> <span class="toctext">Operational history</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Variants"><span class="tocnumber">3</span> <span class="toctext">Variants</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Specifications_.28Aerosonde.29"><span class="tocnumber">4</span> <span class="toctext">Specifications (Aerosonde)</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#General_characteristics"><span class="tocnumber">4.1</span> <span class="toctext">General characteristics</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Performance"><span class="tocnumber">4.2</span> <span class="toctext">Performance</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Design_and_development">Design and development</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AAI_Aerosonde&amp;action=edit&amp;section=1" title="Edit section: Design and development">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On August 21, 1998, a Phase 1 Aerosonde nicknamed "<a href="/wiki/Laima" title="Laima">Laima</a>", after the ancient <a href="/wiki/Latvian_mythology" title="Latvian mythology">Latvian deity</a> of good fortune, completed a 2,031 mile (3,270 km) flight across the <a href="/wiki/Atlantic_Ocean" title="Atlantic Ocean">Atlantic Ocean</a>. This was the first crossing of the Atlantic Ocean by a <a href="/wiki/Unmanned_aerial_vehicle" title="Unmanned aerial vehicle">UAV</a>; at the time, it was also the smallest aircraft ever to cross the Atlantic<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> (the smallest aircraft record was subsequently broken by the <a class="mw-redirect" href="/wiki/Spirit_of_Butts_Farm" title="Spirit of Butts Farm">Spirit of Butts Farm</a> UAV). Launched from a roof rack of a moving car due to its lack of undercarriage, <i>Laima</i> flew from <a href="/wiki/Newfoundland_and_Labrador" title="Newfoundland and Labrador">Newfoundland</a>, <a href="/wiki/Canada" title="Canada">Canada</a> to Benbecula, an island off the coast of <a href="/wiki/Scotland" title="Scotland">Scotland</a> in 26 hours 45 minutes in stormy weather, using approximately 1.5 U.S. gallons (1.25 imperial gallons or 5.7 litres) of gasoline (petrol). Other than for take-off and landing, the flight was autonomous, without external control, at an altitude of 5,500 ft (1,680 meters). Aerosondes have also been the first unmanned aircraft to penetrate tropical cyclones, with an initial mission in 2001<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> followed by eye penetrations in 2005.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Operational_history">Operational history</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AAI_Aerosonde&amp;action=edit&amp;section=2" title="Edit section: Operational history">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>On 5 March 2012, the <a class="mw-redirect" href="/wiki/U.S._Special_Operations_Command" title="U.S. Special Operations Command">U.S. Special Operations Command</a> (SOCOM) awarded AAI a contract to provide the Aerosonde-G for their Mid-Endurance UAS II program. The catapult-launched air vehicle has a takeoff weight 39 or 55 lb (18 or 25 kg) depending on engine type, with endurance of over 10 hours and an electro-optic/infrared and laser-pointer payload.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> The Aerosonde has been employed by SOCOM and U.S. <a href="/wiki/Naval_Air_Systems_Command" title="Naval Air Systems Command">Naval Air Systems Command</a> (NAVAIR) under the designation <b>MQ-19</b> under service provision contracts. A typical system comprises four air vehicles and two ground control stations that are accommodated in tents or tailored to fit in most vehicles. The system can also include remote video terminals for individual users to uplink new navigation waypoints and sensor commands to, and receive sensor imagery and video from, the vehicle from a ruggedized <a href="/wiki/Table_computer" title="Table computer">tablet</a> device. Originally, the Aerosonde suffered from engine-reliability issues, but Textron says it has rectified those issues.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>By November 2015, <a class="mw-redirect" href="/wiki/Textron_Systems" title="Textron Systems">Textron Systems</a> was performing Aerosonde operations in "eight or nine" countries for its users, including the <a class="mw-redirect" href="/wiki/U.S._Marine_Corps" title="U.S. Marine Corps">U.S. Marine Corps</a>, <a class="mw-redirect" href="/wiki/U.S._Air_Force" title="U.S. Air Force">U.S. Air Force</a>, and SOCOM, as well as for commercial users consisting of a customer in the oil and gas industry. Instead of buying hardware, customers pay for "sensor hours," and the company decides how many aircraft are produced to meet requirements. 4,000 fee-for-service hours were being performed monthly, and the Aerosonde had exceeded 110,000 flight hours in service.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="Variants">Variants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AAI_Aerosonde&amp;action=edit&amp;section=3" title="Edit section: Variants">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox mbox-small-left ambox-content" role="presentation">
+<tr>
+<td class="mbox-image"><a class="image" href="/wiki/File:Wiki_letter_w_cropped.svg"><img alt="[icon]" data-file-height="31" data-file-width="44" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/20px-Wiki_letter_w_cropped.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/30px-Wiki_letter_w_cropped.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1c/Wiki_letter_w_cropped.svg/40px-Wiki_letter_w_cropped.svg.png 2x" width="20"/></a></td>
+<td class="mbox-text"><span class="mbox-text-span"><b>This section is empty.</b> <small>You can help by <a class="external text" href="//en.wikipedia.org/w/index.php?title=AAI_Aerosonde&amp;action=edit&amp;section=">adding to it</a>.</small> <small><i>(March 2015)</i></small></span></td>
+</tr>
+</table>
+<h2><span id="Specifications_(Aerosonde)"></span><span class="mw-headline" id="Specifications_.28Aerosonde.29">Specifications (Aerosonde)</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AAI_Aerosonde&amp;action=edit&amp;section=4" title="Edit section: Specifications (Aerosonde)">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="plainlinks metadata ambox ambox-content ambox-Unreferenced" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This section <b>does not <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">cite</a> any <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">sources</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=AAI_Aerosonde&amp;action=edit">improve this section</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and <a href="/wiki/Wikipedia:Verifiability#Burden_of_evidence" title="Wikipedia:Verifiability">removed</a>.</span> <small><i>(February 2015)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="General_characteristics">General characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AAI_Aerosonde&amp;action=edit&amp;section=5" title="Edit section: General characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><b>Crew:</b> None</li>
+<li><b>Length:</b> 5 ft 8 in (1.7 m)</li>
+<li><b>Wingspan:</b> 9 ft 8 in (2.9 m)</li>
+<li><b>Height:</b> 2 ft 0 in (0.60 m)</li>
+<li><b>Wing area:</b> 6.1 ft² (0.57 m²)</li>
+<li><b>Empty:</b> 22lb (10 kg)</li>
+<li><b>Loaded:</b> 28.9 lb (13.1 kg)</li>
+<li><b>Maximum take-off:</b> 28.9 lb (13.1 kg)</li>
+<li><b>Powerplant:</b> Modified <a class="new" href="/w/index.php?title=Enya_R120&amp;action=edit&amp;redlink=1" title="Enya R120 (page does not exist)">Enya R120</a> <a href="/wiki/Model_aircraft" title="Model aircraft">model aircraft</a> engine, 1.74 hp (1280 W)</li>
+</ul>
+<p>Lycoming El-005 Multi Fuel power plant</p>
+<h3><span class="mw-headline" id="Performance">Performance</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AAI_Aerosonde&amp;action=edit&amp;section=6" title="Edit section: Performance">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><b>Maximum speed:</b> 45 mph (72 km/h)</li>
+<li><b>Range:</b> 100 miles (150 km)</li>
+<li><b>Service ceiling:</b> 15,000 ft (4,500 m)</li>
+<li><b>Rate of climb:</b> ft/min ( m/min)</li>
+<li><b>Wing loading:</b> 5 lb/ft² (23 kg/m²)</li>
+<li><b>Power/Mass:</b> 0.06 hp/lb (98 W/kg)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AAI_Aerosonde&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Tad McGeer (February 25, 1999). <a class="external text" href="https://web.archive.org/web/20081119034716/http://www.aerovelco.com/papers/LaimaStory.pdf" rel="nofollow">"Lamia: The First Atlantic Crossing by Unmanned Aircraft"</a> <span style="font-size:85%;">(PDF)</span>. Aerovel Corp. Archived from <a class="external text" href="http://www.aerovelco.com/papers/LaimaStory.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 2008-11-19.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAAI+Aerosonde&amp;rft.au=Tad+McGeer&amp;rft.btitle=Lamia%3A+The+First+Atlantic+Crossing+by+Unmanned+Aircraft&amp;rft.date=1999-02-25&amp;rft.genre=unknown&amp;rft.pub=Aerovel+Corp.&amp;rft_id=http%3A%2F%2Fwww.aerovelco.com%2Fpapers%2FLaimaStory.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation web">Po-Hsiung Lin. <a class="external text" href="http://ams.confex.com/ams/pdfpapers/52113.pdf" rel="nofollow">"Fly Into Typhoon Haiyan With UAV Aerosonde"</a> <span style="font-size:85%;">(PDF)</span>. National Taiwan University<span class="reference-accessdate">. Retrieved <span class="nowrap">January 21,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAAI+Aerosonde&amp;rft.au=Po-Hsiung+Lin&amp;rft.btitle=Fly+Into+Typhoon+Haiyan+With+UAV+Aerosonde&amp;rft.genre=unknown&amp;rft.pub=National+Taiwan+University&amp;rft_id=http%3A%2F%2Fams.confex.com%2Fams%2Fpdfpapers%2F52113.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20110707092411/http://www.aerovelco.com/videos/TyphoonLongWang.wmv" rel="nofollow">"Typhoon Long Wang"</a>. National Taiwan University. October 1, 2005. Archived from <a class="external text" href="http://www.aerovelco.com/videos/TyphoonLongWang.wmv" rel="nofollow">the original</a> on July 7, 2011.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAAI+Aerosonde&amp;rft.btitle=Typhoon+Long+Wang&amp;rft.date=2005-10-01&amp;rft.genre=unknown&amp;rft.pub=National+Taiwan+University&amp;rft_id=http%3A%2F%2Fwww.aerovelco.com%2Fvideos%2FTyphoonLongWang.wmv&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.ainonline.com/aviation-news/defense/2012-03-16/us-chooses-aerosonde-other-uavs-isr-services" rel="nofollow">U.S. Chooses Aerosonde, Other UAVs for ISR Services</a> - Ainonline.com, 16 March 2012</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.ainonline.com/aviation-news/defense/2015-06-15/textron-awaits-key-uav-decisions" rel="nofollow">Textron Awaits Key UAV Decisions</a> - Ainonline.com, 15 June 2015</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external text" href="https://www.flightglobal.com/news/articles/dubai-textron-keen-to-expand-aerosonde-operations-418899/" rel="nofollow">Textron keen to expand Aerosonde operations</a> - Flightglobal.com, 10 November 2015</span></li>
+</ol>
+</div>
+</div>
+<ul>
+<li>Display information at <a href="/wiki/Museum_of_Flight" title="Museum of Flight">Museum of Flight</a> in <a class="mw-redirect" href="/wiki/Seattle,_Washington" title="Seattle, Washington">Seattle, Washington</a>.</li>
+<li>G.J. Holland, T. McGeer and H.H. Youngren. Autonomous aerosondes for economical atmospheric soundings anywhere on the globe. Bulletin of the American Meteorological Society 73(12):1987-1999, December 1992.</li>
+<li><cite class="citation web"><a class="external text" href="http://www.designation-systems.net/usmilav/412015-L%28addendum%29.html" rel="nofollow">"DOD 4120.15-L - Addendum: MDS Designators allocated after 19 August 1998 (until September 2009)"</a>. 2009. designation-systems.net. <a class="external text" href="https://web.archive.org/web/20101229075302/http://designation-systems.net/usmilav/412015-L%28addendum%29.html" rel="nofollow">Archived</a> from the original on 29 December 2010<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAAI+Aerosonde&amp;rft.btitle=DOD+4120.15-L+-+Addendum%3A+MDS+Designators+allocated+after+19+August+1998+%28until+September+2009%29&amp;rft.date=2009&amp;rft.genre=unknown&amp;rft.pages=designation-systems.net&amp;rft_id=http%3A%2F%2Fwww.designation-systems.net%2Fusmilav%2F412015-L%2528addendum%2529.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<p><b>Cyclone reconnaissance</b></p>
+<ul>
+<li>P-H Lin &amp; C-S Lee. <a class="external text" href="http://ams.confex.com/ams/pdfpapers/52113.pdf" rel="nofollow">Fly into typhoon Haiyan with UAV Aerosonde</a>. American Meteorological Society conference paper 52113 (2002).</li>
+<li>NASA Wallops Flight Facility press release: <a class="external text" href="https://web.archive.org/web/20050318025215/http://www.wff.nasa.gov/news/story_2.php" rel="nofollow">"Aerosonde UAV Completes First Operational Flights at NASA Wallops"</a></li>
+</ul>
+<p><b><i>Laima</i> flight</b></p>
+<ul>
+<li>Tad McGeer. <a class="external text" href="https://web.archive.org/web/20081119034716/http://www.aerovelco.com/papers/LaimaStory.pdf" rel="nofollow">"Laima: The first Atlantic crossing by unmanned aircraft" (1998)</a></li>
+<li>Aerosonde Pty Ltd. press release: <a class="external text" href="https://web.archive.org/web/20020110110155/http://www.aerosonde.com/drawarticle/4" rel="nofollow">"First UAV across the Atlantic"</a></li>
+<li>University of Washington, Aeronautics and Astronautics Program, College of Engineering: (<a class="external text" href="https://web.archive.org/web/20050304141431/http://www.aa.washington.edu/research/aerosonde/laima.htm" rel="nofollow">Aerosonde project web page</a>)</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=AAI_Aerosonde&amp;action=edit&amp;section=8" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Aerosonde" title="commons:Aerosonde">Insitu Aerosonde</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.aerosonde.com/" rel="nofollow">Aerosonde Pty Ltd. web site</a></li>
+</ul>
+<div aria-labelledby="Textron" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Textron" title="Template:Textron"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Textron" title="Template talk:Textron"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Textron&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Textron" style="font-size:114%;margin:0 4em"><a href="/wiki/Textron" title="Textron">Textron</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Subsidiaries</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AAI_Corporation" title="AAI Corporation">AAI Corporation</a>
+<ul>
+<li><a href="/wiki/Aerosonde_Ltd" title="Aerosonde Ltd">Aerosonde Ltd</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Avco" title="Avco">Avco</a></li>
+<li><a href="/wiki/Bell_Helicopter" title="Bell Helicopter">Bell Helicopter</a></li>
+<li><a href="/wiki/Cushman_(company)" title="Cushman (company)">Cushman</a></li>
+<li><a href="/wiki/Greenlee" title="Greenlee">Greenlee</a></li>
+<li><a href="/wiki/Jacobsen_Manufacturing" title="Jacobsen Manufacturing">Jacobsen</a>
+<ul>
+<li><a href="/wiki/Dixie_Chopper" title="Dixie Chopper">Dixie Chopper</a></li>
+<li><a href="/wiki/Ransomes,_Sims_%26_Jefferies" title="Ransomes, Sims &amp; Jefferies">Ransomes</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Lycoming_Engines" title="Lycoming Engines">Lycoming Engines</a></li>
+<li><a href="/wiki/Textron_Aviation" title="Textron Aviation">Textron Aviation</a>
+<ul>
+<li><a href="/wiki/Beechcraft" title="Beechcraft">Beechcraft</a></li>
+<li><a href="/wiki/Cessna" title="Cessna">Cessna</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Textron_Marine_%26_Land_Systems" title="Textron Marine &amp; Land Systems">Textron Marine &amp; Land Systems</a>
+<ul>
+<li><a href="/wiki/MillenWorks" title="MillenWorks">MillenWorks</a></li>
+</ul>
+</li>
+<li><a href="/wiki/TRU_Simulation_%2B_Training" title="TRU Simulation + Training">TRU Simulation + Training</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Joint ventures</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Bell_Agusta_Aerospace_Company" title="Bell Agusta Aerospace Company">Bell Agusta Aerospace Company</a></li>
+<li><a href="/wiki/Electric_Transit,_Inc." title="Electric Transit, Inc.">Electric Transit, Inc.</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">People</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Scott_C._Donnelly" title="Scott C. Donnelly">Scott C. Donnelly</a></li>
+<li><a href="/wiki/Dick_Millman" title="Dick Millman">Dick Millman</a></li>
+<li><a href="/wiki/Jack_J._Pelton" title="Jack J. Pelton">Jack J. Pelton</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Products</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/AN/SPN-46(V)1" title="AN/SPN-46(V)1">AN/SPN-46(V)1</a></li>
+<li><a href="/wiki/M1117_Armored_Security_Vehicle" title="M1117 Armored Security Vehicle">M1117 Armored Security Vehicle</a></li>
+<li><a href="/wiki/Fleet-class_unmanned_surface_vessel" title="Fleet-class unmanned surface vessel">Fleet-class unmanned surface vessel</a></li>
+<li><a href="/wiki/Landing_Craft_Air_Cushion" title="Landing Craft Air Cushion">Landing Craft Air Cushion</a></li>
+<li><a href="/wiki/MillenWorks_Light_Utility_Vehicle" title="MillenWorks Light Utility Vehicle">MillenWorks Light Utility Vehicle</a></li>
+<li><a href="/wiki/CBU-97_Sensor_Fuzed_Weapon" title="CBU-97 Sensor Fuzed Weapon">CBU-97 Sensor Fuzed Weapon</a></li>
+<li><a href="/wiki/Ship-to-Shore_Connector" title="Ship-to-Shore Connector">Ship-to-Shore Connector</a></li>
+<li><a href="/wiki/Stingray_light_tank" title="Stingray light tank">Stingray light tank</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Beech_Factory_Airport" title="Beech Factory Airport">Beech Factory Airport</a></li>
+<li>See also: <a href="/wiki/Template:Textron_aircraft" title="Template:Textron aircraft">Textron aircraft</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="United_States_tri-service_Q-series_UAV_designations_post-1962" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:US_unmanned_aircraft" title="Template:US unmanned aircraft"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:US_unmanned_aircraft" title="Template talk:US unmanned aircraft"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:US_unmanned_aircraft&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="United_States_tri-service_Q-series_UAV_designations_post-1962" style="font-size:114%;margin:0 4em"><a href="/wiki/1962_United_States_Tri-Service_aircraft_designation_system" title="1962 United States Tri-Service aircraft designation system">United States tri-service</a> Q-series <a href="/wiki/Unmanned_aerial_vehicle" title="Unmanned aerial vehicle">UAV</a> designations post-1962</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Main series</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/General_Atomics_MQ-1_Predator" title="General Atomics MQ-1 Predator">Q-1</a>/<a href="/wiki/General_Atomics_MQ-1C_Gray_Eagle" title="General Atomics MQ-1C Gray Eagle">C</a></li>
+<li><a href="/wiki/AAI_RQ-2_Pioneer" title="AAI RQ-2 Pioneer">Q-2</a></li>
+<li><a href="/wiki/Lockheed_Martin_RQ-3_DarkStar" title="Lockheed Martin RQ-3 DarkStar">Q-3</a></li>
+<li><a href="/wiki/Northrop_Grumman_RQ-4_Global_Hawk" title="Northrop Grumman RQ-4 Global Hawk">Q-4</a>/<a href="/wiki/Northrop_Grumman_MQ-4C_Triton" title="Northrop Grumman MQ-4C Triton">C</a></li>
+<li><a href="/wiki/IAI_RQ-5_Hunter" title="IAI RQ-5 Hunter">Q-5</a></li>
+<li><a href="/wiki/Alliant_RQ-6_Outrider" title="Alliant RQ-6 Outrider">Q-6</a></li>
+<li><a href="/wiki/AAI_RQ-7_Shadow" title="AAI RQ-7 Shadow">Q-7</a></li>
+<li><a href="/wiki/Northrop_Grumman_MQ-8_Fire_Scout" title="Northrop Grumman MQ-8 Fire Scout">Q-8</a>/<a href="/wiki/Northrop_Grumman_MQ-8C_Fire_Scout" title="Northrop Grumman MQ-8C Fire Scout">C</a></li>
+<li><a href="/wiki/General_Atomics_MQ-9_Reaper" title="General Atomics MQ-9 Reaper">Q-9</a></li>
+<li><a href="/wiki/MMIST_CQ-10_Snowgoose" title="MMIST CQ-10 Snowgoose">Q-10</a></li>
+<li><a href="/wiki/AeroVironment_RQ-11_Raven" title="AeroVironment RQ-11 Raven">Q-11</a></li>
+<li><a href="/wiki/AeroVironment_Wasp_III" title="AeroVironment Wasp III">Q-12</a></li>
+<li><span style="color:grey">Q-13</span><sup><small>1</small></sup></li>
+<li><a href="/wiki/AeroVironment_RQ-14_Dragon_Eye" title="AeroVironment RQ-14 Dragon Eye">Q-14</a></li>
+<li><a href="/wiki/DRS_RQ-15_Neptune" title="DRS RQ-15 Neptune">Q-15</a></li>
+<li><a href="/wiki/Honeywell_RQ-16_T-Hawk" title="Honeywell RQ-16 T-Hawk">Q-16</a></li>
+<li><a href="/wiki/MTC_MQ-17_SpyHawk" title="MTC MQ-17 SpyHawk">Q-17</a></li>
+<li><a href="/wiki/Boeing_A160_Hummingbird" title="Boeing A160 Hummingbird">Q-18</a></li>
+<li><a class="mw-redirect" href="/wiki/AAI_Corporation_Aerosonde" title="AAI Corporation Aerosonde">Q-19</a></li>
+<li><a href="/wiki/AeroVironment_RQ-20_Puma" title="AeroVironment RQ-20 Puma">Q-20</a></li>
+<li><a href="/wiki/Boeing_Insitu_RQ-21_Blackjack" title="Boeing Insitu RQ-21 Blackjack">Q-21</a></li>
+<li><a href="/wiki/AeroVironment_Global_Observer" title="AeroVironment Global Observer">Q-22</a></li>
+<li><a class="new" href="/w/index.php?title=NAVMAR_TigerShark&amp;action=edit&amp;redlink=1" title="NAVMAR TigerShark (page does not exist)">Q-23</a></li>
+<li><a href="/wiki/Kaman_K-MAX" title="Kaman K-MAX">Q-24</a></li>
+<li><a href="/wiki/MQ-25_Stingray" title="MQ-25 Stingray">Q-25</a></li>
+<li><a class="new" href="/w/index.php?title=Aeronautics_RQ-26_Aerostar&amp;action=edit&amp;redlink=1" title="Aeronautics RQ-26 Aerostar (page does not exist)">Q-26</a></li>
+<li><a href="/wiki/Boeing_Insitu_ScanEagle" title="Boeing Insitu ScanEagle">Q-27</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Non-sequential</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Lockheed_Martin_RQ-170_Sentinel" title="Lockheed Martin RQ-170 Sentinel">Q-170</a></li>
+<li><a href="/wiki/Northrop_Grumman_RQ-180" title="Northrop Grumman RQ-180">Q-180</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow hlist" colspan="2">
+<div>
+<ul>
+<li><sup>1</sup> Not assigned</li>
+<li><a href="/wiki/Template:US_missiles" title="Template:US missiles">Drones designated in missile sequence</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1320
+Cached time: 20171001091112
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.196 seconds
+Real time usage: 0.273 seconds
+Preprocessor visited node count: 795/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38225/2097152 bytes
+Template argument size: 771/2097152 bytes
+Highest expansion depth: 9/40
+Expensive parser function count: 3/500
+Lua time usage: 0.089/10.000 seconds
+Lua memory usage: 4.14 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  234.274      1 -total
+ 27.78%   65.074      1 Template:Reflist
+ 23.52%   55.104      4 Template:Cite_web
+ 16.23%   38.034      1 Template:Infobox_aircraft_begin
+ 14.56%   34.117      2 Template:Ambox
+ 14.25%   33.385      1 Template:Empty_section
+ 11.36%   26.620      1 Template:Convert
+ 11.03%   25.839      1 Template:Wikidata_image
+  8.84%   20.721      1 Template:For
+  6.31%   14.792      2 Template:Navbox
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1624622-0!canonical and timestamp 20171001091112 and revision id 789351710
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=AAI_Aerosonde&amp;oldid=789351710">https://en.wikipedia.org/w/index.php?title=AAI_Aerosonde&amp;oldid=789351710</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Meteorological_instrumentation_and_equipment" title="Category:Meteorological instrumentation and equipment">Meteorological instrumentation and equipment</a></li><li><a href="/wiki/Category:Single-engined_pusher_aircraft" title="Category:Single-engined pusher aircraft">Single-engined pusher aircraft</a></li><li><a href="/wiki/Category:United_States_special-purpose_aircraft_1990%E2%80%931999" title="Category:United States special-purpose aircraft 1990–1999">United States special-purpose aircraft 1990–1999</a></li><li><a href="/wiki/Category:Unmanned_aerial_vehicles" title="Category:Unmanned aerial vehicles">Unmanned aerial vehicles</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_expanded_from_March_2015" title="Category:Articles to be expanded from March 2015">Articles to be expanded from March 2015</a></li><li><a href="/wiki/Category:All_articles_to_be_expanded" title="Category:All articles to be expanded">All articles to be expanded</a></li><li><a href="/wiki/Category:Articles_with_empty_sections_from_March_2015" title="Category:Articles with empty sections from March 2015">Articles with empty sections from March 2015</a></li><li><a href="/wiki/Category:All_articles_with_empty_sections" title="Category:All articles with empty sections">All articles with empty sections</a></li><li><a href="/wiki/Category:Articles_using_small_message_boxes" title="Category:Articles using small message boxes">Articles using small message boxes</a></li><li><a href="/wiki/Category:Articles_needing_additional_references_from_February_2015" title="Category:Articles needing additional references from February 2015">Articles needing additional references from February 2015</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=AAI+Aerosonde" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=AAI+Aerosonde" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/AAI_Aerosonde" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:AAI_Aerosonde" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/AAI_Aerosonde">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=AAI_Aerosonde&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=AAI_Aerosonde&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/AAI_Aerosonde" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/AAI_Aerosonde" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=AAI_Aerosonde&amp;oldid=789351710" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=AAI_Aerosonde&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q286127" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=AAI_Aerosonde&amp;id=789351710" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=AAI+Aerosonde">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=AAI+Aerosonde&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAAI%2BAerosonde%26returnto%3DAAI%2BAerosonde%26oldid%3D789351710%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=AAI_Aerosonde&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Aerosonde" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/AAI_Aerosonde" hreflang="de" lang="de" title="AAI Aerosonde – German">Deutsch</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%DB%8C%E2%80%8C%D8%A7%DB%8C%E2%80%8C%D8%A2%DB%8C_%DA%A9%D9%88%D8%B1%D9%BE%D9%88%D8%B1%DB%8C%D8%B4%D9%86_%D8%A7%DB%8C%D8%B1%D9%88%D8%B3%D9%88%D9%86%D8%AF" hreflang="fa" lang="fa" title="ای‌ای‌آی کورپوریشن ایروسوند – Persian">فارسی</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%82%A8%E3%82%A2%E3%83%AD%E3%82%BE%E3%83%B3%E3%83%87_(%E8%88%AA%E7%A9%BA%E6%A9%9F)" hreflang="ja" lang="ja" title="エアロゾンデ (航空機) – Japanese">日本語</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Aerosonda" hreflang="pt" lang="pt" title="Aerosonda – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/Aerosonde" hreflang="ru" lang="ru" title="Aerosonde – Russian">Русский</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Aerosonde" hreflang="uk" lang="uk" title="Aerosonde – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q286127#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 6 July 2017, at 21:21.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=AAI_Aerosonde&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.196","walltime":"0.273","ppvisitednodes":{"value":795,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38225,"limit":2097152},"templateargumentsize":{"value":771,"limit":2097152},"expansiondepth":{"value":9,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  234.274      1 -total"," 27.78%   65.074      1 Template:Reflist"," 23.52%   55.104      4 Template:Cite_web"," 16.23%   38.034      1 Template:Infobox_aircraft_begin"," 14.56%   34.117      2 Template:Ambox"," 14.25%   33.385      1 Template:Empty_section"," 11.36%   26.620      1 Template:Convert"," 11.03%   25.839      1 Template:Wikidata_image","  8.84%   20.721      1 Template:For","  6.31%   14.792      2 Template:Navbox"]},"scribunto":{"limitreport-timeusage":{"value":"0.089","limit":"10.000"},"limitreport-memusage":{"value":4340275,"limit":52428800}},"cachereport":{"origin":"mw1320","timestamp":"20171001091112","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":104,"wgHostname":"mw1184"});});</script>
+</body>
+</html>

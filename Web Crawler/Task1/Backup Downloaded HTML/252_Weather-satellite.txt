@@ -1,0 +1,910 @@
+https://en.wikipedia.org/wiki/Weather_satellite
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Weather satellite - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Weather_satellite","wgTitle":"Weather satellite","wgCurRevisionId":796869579,"wgRevisionId":796869579,"wgArticleId":264727,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 Chinese-language sources (zh)","Use mdy dates from January 2012","Weather satellites","American inventions","1959 introductions"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Weather_satellite","wgRelevantArticleId":264727,"wgRequestId":"WdJA1wpAMFEAAImDNWIAAADP","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q209363","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/GOES_8_Spac0255.jpg/1200px-GOES_8_Spac0255.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Weather_satellite" rel="alternate"/>
+<link href="/w/index.php?title=Weather_satellite&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Weather_satellite&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Weather_satellite" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Weather_satellite rootpage-Weather_satellite vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Weather satellite</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:GOES_8_Spac0255.jpg"><img alt="" class="thumbimage" data-file-height="1180" data-file-width="1820" height="195" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/GOES_8_Spac0255.jpg/300px-GOES_8_Spac0255.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d0/GOES_8_Spac0255.jpg/450px-GOES_8_Spac0255.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d0/GOES_8_Spac0255.jpg/600px-GOES_8_Spac0255.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:GOES_8_Spac0255.jpg" title="Enlarge"></a></div>
+<a class="mw-redirect" href="/wiki/GOES" title="GOES">GOES-8</a>, a United States weather satellite of the <a href="/wiki/Meteorological-satellite_service" title="Meteorological-satellite service">meteorological-satellite service</a></div>
+</div>
+</div>
+<p>The <b>weather satellite</b> is a type of <a href="/wiki/Satellite" title="Satellite">satellite</a> that is primarily used to monitor the <a href="/wiki/Weather" title="Weather">weather</a> and <a href="/wiki/Climate" title="Climate">climate</a> of the <a href="/wiki/Earth" title="Earth">Earth</a>. Satellites can be <a href="/wiki/Polar_orbit" title="Polar orbit">polar orbiting</a>, covering the entire Earth asynchronously, or <a class="mw-redirect" href="/wiki/Geostationary" title="Geostationary">geostationary</a>, hovering over the same spot on the <a href="/wiki/Equator" title="Equator">equator</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p>Meteorological <a href="/wiki/Satellite" title="Satellite">satellites</a> see more than clouds and <a class="new" href="/w/index.php?title=Cloud_system_(meteorological)&amp;action=edit&amp;redlink=1" title="Cloud system (meteorological) (page does not exist)">cloud systems</a>. City lights, fires, effects of pollution, <a class="mw-redirect" href="/wiki/Auroral_light" title="Auroral light">auroras</a>, sand and <a href="/wiki/Dust_storm" title="Dust storm">dust storms</a>, snow cover, ice mapping, boundaries of <a href="/wiki/Ocean_current" title="Ocean current">ocean currents</a>, energy flows, etc. Other types of environmental information are collected using weather satellites. Weather satellite images helped in monitoring the volcanic ash cloud from <a href="/wiki/Mount_St._Helens" title="Mount St. Helens">Mount St. Helens</a> and activity from other volcanoes such as <a href="/wiki/Mount_Etna" title="Mount Etna">Mount Etna</a>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> Smoke from <a class="mw-redirect" href="/wiki/Forest_fires" title="Forest fires">fires</a> in the western United States such as <a href="/wiki/Colorado" title="Colorado">Colorado</a> and <a href="/wiki/Utah" title="Utah">Utah</a> have also been monitored.</p>
+<p>Other <a class="mw-redirect" href="/wiki/Environmental_satellite" title="Environmental satellite">environmental satellites</a> can detect changes in the Earth's vegetation, <a href="/wiki/Sea_state" title="Sea state">sea state</a>, ocean color, and ice fields. For example, the 2002 <a href="/wiki/Prestige_oil_spill" title="Prestige oil spill">Prestige oil spill</a> off the northwest coast of Spain was watched carefully by the European <a class="mw-redirect" href="/wiki/ENVISAT" title="ENVISAT">ENVISAT</a>, which, though not a weather satellite, flies an instrument (ASAR) which can see changes in the sea surface.</p>
+<p><a href="/wiki/El_Ni%C3%B1o" title="El Niño">El Niño</a> and its effects on weather are monitored daily from satellite images. The Antarctic <a class="mw-redirect" href="/wiki/Ozone_hole" title="Ozone hole">ozone hole</a> is mapped from weather satellite data. Collectively, weather satellites flown by the U.S., Europe, India, China, Russia, and Japan provide nearly continuous observations for a global weather watch.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Observation"><span class="tocnumber">2</span> <span class="toctext">Observation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Visible_spectrum"><span class="tocnumber">2.1</span> <span class="toctext">Visible spectrum</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Infrared_spectrum"><span class="tocnumber">2.2</span> <span class="toctext">Infrared spectrum</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Types"><span class="tocnumber">3</span> <span class="toctext">Types</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Geostationary"><span class="tocnumber">3.1</span> <span class="toctext">Geostationary</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Polar_orbiting"><span class="tocnumber">3.2</span> <span class="toctext">Polar orbiting</span></a>
+<ul>
+<li class="toclevel-3 tocsection-8"><a href="#DMSP"><span class="tocnumber">3.2.1</span> <span class="toctext">DMSP</span></a></li>
+</ul>
+</li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#Uses"><span class="tocnumber">4</span> <span class="toctext">Uses</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:TIROS-1-Earth.png"><img alt="" class="thumbimage" data-file-height="582" data-file-width="527" height="243" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TIROS-1-Earth.png/220px-TIROS-1-Earth.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TIROS-1-Earth.png/330px-TIROS-1-Earth.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TIROS-1-Earth.png/440px-TIROS-1-Earth.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:TIROS-1-Earth.png" title="Enlarge"></a></div>
+The first television image of Earth from space from the TIROS-1 weather satellite in 1960</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:ESSA-9_satellite_photo_mosaic.PNG"><img alt="" class="thumbimage" data-file-height="738" data-file-width="632" height="257" src="//upload.wikimedia.org/wikipedia/en/thumb/1/14/ESSA-9_satellite_photo_mosaic.PNG/220px-ESSA-9_satellite_photo_mosaic.PNG" srcset="//upload.wikimedia.org/wikipedia/en/thumb/1/14/ESSA-9_satellite_photo_mosaic.PNG/330px-ESSA-9_satellite_photo_mosaic.PNG 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/1/14/ESSA-9_satellite_photo_mosaic.PNG/440px-ESSA-9_satellite_photo_mosaic.PNG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:ESSA-9_satellite_photo_mosaic.PNG" title="Enlarge"></a></div>
+A mosaic of photographs of the <a href="/wiki/United_States" title="United States">United States</a> from the <a href="/wiki/ESSA-9" title="ESSA-9">ESSA-9</a> weather satellite, taken on June 26, 1969</div>
+</div>
+</div>
+<p>As early as 1946, the idea of cameras in orbit to observe the weather was being developed. This was due to sparse data observation coverage and the expense of using cloud cameras on rockets. By 1958, the early prototypes for TIROS and Vanguard (developed by the Army Signal Corps) were created.<sup class="reference" id="cite_ref-first_3-0"><a href="#cite_note-first-3">[3]</a></sup> The first weather satellite, <a href="/wiki/Vanguard_2" title="Vanguard 2">Vanguard 2</a>, was launched on February 17, 1959.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> It was designed to measure cloud cover and resistance, but a poor axis of rotation and its elliptical orbit kept it from collecting a notable amount of useful data. The Explorer VI and VII satellites also contained weather-related experiments.<sup class="reference" id="cite_ref-first_3-1"><a href="#cite_note-first-3">[3]</a></sup></p>
+<p>The first weather satellite to be considered a success was <a href="/wiki/TIROS-1" title="TIROS-1">TIROS-1</a>, launched by NASA on April 1, 1960.<sup class="reference" id="cite_ref-apupi_5-0"><a href="#cite_note-apupi-5">[5]</a></sup> TIROS operated for 78 days and proved to be much more successful than Vanguard 2. TIROS paved the way for the <a href="/wiki/Nimbus_program" title="Nimbus program">Nimbus program</a>, whose technology and findings are the heritage of most of the Earth-observing satellites NASA and NOAA have launched since then. Beginning with the Nimbus 3 satellite in 1969, temperature information through the <a href="/wiki/Troposphere" title="Troposphere">tropospheric</a> column began to be retrieved by satellites from the eastern Atlantic and most of the Pacific Ocean, which led to significant improvements to <a href="/wiki/Weather_forecasting" title="Weather forecasting">weather forecasts</a>.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p>The ESSA and NOAA polar orbiting satellites followed suit from the late 1960s onward. Geostationary satellites followed, beginning with the ATS and SMS series in the late 1960s and early 1970s, then continuing with the GOES series from the 1970s onward. Polar orbiting satellites such as <a class="mw-redirect" href="/wiki/QuikScat" title="QuikScat">QuikScat</a> and <a href="/wiki/Tropical_Rainfall_Measuring_Mission" title="Tropical Rainfall Measuring Mission">TRMM</a> began to relay wind information near the ocean's surface starting in the late 1970s, with microwave imagery which resembled radar displays, which significantly improved the diagnoses of <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a> strength, intensification, and location during the 2000s and 2010s.</p>
+<h2><span class="mw-headline" id="Observation">Observation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=2" title="Edit section: Observation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Observation is typically made via different 'channels' of the <a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">electromagnetic spectrum</a>, in particular, the <a href="/wiki/Visible_spectrum" title="Visible spectrum">visible</a> and <a href="/wiki/Infrared" title="Infrared">infrared</a> portions.</p>
+<p>Some of these channels include:<sup class="reference" id="cite_ref-EUMETSAT_-_MSG_Spectrum_7-0"><a href="#cite_note-EUMETSAT_-_MSG_Spectrum-7">[7]</a></sup><sup class="reference" id="cite_ref-EUMETSAT_-_MFG_PL_8-0"><a href="#cite_note-EUMETSAT_-_MFG_PL-8">[8]</a></sup></p>
+<ul>
+<li><i>Visible and Near Infrared:</i> 0.6–1.6 μm – for recording cloud cover during the day</li>
+<li><i>Infrared:</i> 3.9–7.3 μm (water vapor), 8.7–13.4 μm (thermal imaging)</li>
+</ul>
+<h3><span class="mw-headline" id="Visible_spectrum">Visible spectrum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=3" title="Edit section: Visible spectrum">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Visible-light images from weather satellites during local daylight hours are easy to interpret even by the average person; clouds, cloud systems such as fronts and tropical storms, lakes, forests, mountains, snow ice, fires, and pollution such as smoke, smog, dust and haze are readily apparent. Even wind can be determined by cloud patterns, alignments and movement from successive photos.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Infrared_spectrum">Infrared spectrum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=4" title="Edit section: Infrared spectrum">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a href="/wiki/Thermography" title="Thermography">thermal</a> or infrared images recorded by sensors called scanning <a href="/wiki/Radiometer" title="Radiometer">radiometers</a> enable a trained analyst to determine cloud heights and types, to calculate land and surface water temperatures, and to locate ocean surface features. <a href="/wiki/Infrared" title="Infrared">Infrared</a> satellite imagery can be used effectively for <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclones</a> with a visible <a href="/wiki/Eye_(cyclone)" title="Eye (cyclone)">eye</a> pattern, using the <a href="/wiki/Dvorak_technique" title="Dvorak technique">Dvorak technique</a>, where the difference between the temperature of the warm eye and the surrounding cold cloud tops can be used to determine its intensity (colder cloud tops generally indicate a more intense storm).<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Infrared pictures depict ocean eddies or vortices and map currents such as the Gulf Stream which are valuable to the shipping industry. <a class="mw-redirect" href="/wiki/Fishermen" title="Fishermen">Fishermen</a> and farmers are interested in knowing land and water temperatures to protect their crops against frost or increase their catch from the sea. Even El Niño phenomena can be spotted. Using color-digitized techniques, the gray shaded <a href="/wiki/Thermographic_camera" title="Thermographic camera">thermal images</a> can be converted to color for easier identification of desired information.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=5" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Himawari-8_true-color_2015-01-25_0230Z.png"><img alt="" class="thumbimage" data-file-height="11000" data-file-width="11000" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Himawari-8_true-color_2015-01-25_0230Z.png/220px-Himawari-8_true-color_2015-01-25_0230Z.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Himawari-8_true-color_2015-01-25_0230Z.png/330px-Himawari-8_true-color_2015-01-25_0230Z.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Himawari-8_true-color_2015-01-25_0230Z.png/440px-Himawari-8_true-color_2015-01-25_0230Z.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Himawari-8_true-color_2015-01-25_0230Z.png" title="Enlarge"></a></div>
+The geostationary <a href="/wiki/Himawari_8" title="Himawari 8">Himawari 8</a> satellite’s first true-color composite PNG image</div>
+</div>
+</div>
+<p>Each meteorological satellite is designed to use one of two different classes of orbit: <a href="/wiki/Geostationary_orbit" title="Geostationary orbit">geostationary</a> and <a href="/wiki/Polar_orbit" title="Polar orbit">polar orbiting</a>.</p>
+<h3><span class="mw-headline" id="Geostationary">Geostationary</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=6" title="Edit section: Geostationary">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">"geostationary meteorological satellite" redirects here. For the Japanese satellites called "Geostationary Meteorological Satellite", see <a href="/wiki/Himawari_(satellite)" title="Himawari (satellite)">Himawari (satellite)</a>.</div>
+<p>Geostationary weather satellites orbit the Earth above the <a href="/wiki/Equator" title="Equator">equator</a> at altitudes of 35,880 km (22,300 miles). Because of this <a href="/wiki/Orbit" title="Orbit">orbit</a>, they remain stationary with respect to the rotating Earth and thus can record or transmit images of the entire hemisphere below continuously with their visible-light and infrared sensors. The news media use the geostationary photos in their daily weather presentation as single images or made into movie loops. These are also available on the city forecast pages of www.noaa.gov (example Dallas, TX).<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup></p>
+<p>Several geostationary meteorological spacecraft are in operation. The United States has three in operation; <a class="mw-redirect" href="/wiki/GOES" title="GOES">GOES</a>-12, GOES-13, and GOES-15. GOES-12, previously designated GOES-East and now used for South America, is located at 60 degrees west.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> GOES-13 took over the role of GOES-East on April 14, 2010 and is located at 75 degrees west.<sup class="reference" id="cite_ref-13"><a href="#cite_note-13">[13]</a></sup> GOES-11 was GOES-West over the eastern Pacific Ocean until it was decommissioned December 2011 and replaced by GOES-15.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> <a href="/wiki/Russia" title="Russia">Russia</a>'s new-generation weather satellite <a class="mw-redirect" href="/wiki/Elektro-L" title="Elektro-L">Elektro-L</a> <a href="/wiki/Elektro-L_No.1" title="Elektro-L No.1">No.1</a> operates at 76°E over the Indian Ocean. The Japanese have the <a class="mw-redirect" href="/wiki/MTSAT" title="MTSAT">MTSAT</a>-2 located over the mid Pacific at 145°E and the <a href="/wiki/Himawari_8" title="Himawari 8">Himawari 8</a> at 140°E. The Europeans have four in operation, <a href="/wiki/Meteosat" title="Meteosat">Meteosat</a>-8 (3.5°W) and Meteosat-9 (0°) over the Atlantic Ocean and have Meteosat-6 (63°E) and Meteosat-7 (57.5°E) over the Indian Ocean. China currently has three <a href="/wiki/Fengyun" title="Fengyun">Fengyun</a> (风云) geostationary satellites (FY-2E at 86.5°E, FY-2F at 123.5°E, and FY-2G at 105°E) operated.<sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup> <a href="/wiki/India" title="India">India</a> also operates geostationary satellites called <a class="mw-redirect" href="/wiki/INSAT" title="INSAT">INSAT</a> which carry instruments for meteorological purposes.</p>
+<h3><span class="mw-headline" id="Polar_orbiting">Polar orbiting</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=7" title="Edit section: Polar orbiting">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:152px;"><a class="image" href="/wiki/File:Parabolic-antenna-LEO.jpg"><img alt="" class="thumbimage" data-file-height="1168" data-file-width="725" height="242" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Parabolic-antenna-LEO.jpg/150px-Parabolic-antenna-LEO.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Parabolic-antenna-LEO.jpg/225px-Parabolic-antenna-LEO.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7b/Parabolic-antenna-LEO.jpg/300px-Parabolic-antenna-LEO.jpg 2x" width="150"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Parabolic-antenna-LEO.jpg" title="Enlarge"></a></div>
+Computer-controlled motorized parabolic dish antenna for tracking <a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">LEO</a> weather satellites.</div>
+</div>
+</div>
+<p>Polar orbiting weather satellites circle the Earth at a typical altitude of 850 km (530 miles) in a north to south (or vice versa) path, passing over the poles in their continuous flight. Polar orbiting weather satellites are in <a href="/wiki/Sun-synchronous_orbit" title="Sun-synchronous orbit">sun-synchronous orbits</a>, which means they are able to observe any place on Earth and will view every location twice each day with the same general lighting conditions due to the near-constant local <a href="/wiki/Solar_time" title="Solar time">solar time</a>. Polar orbiting weather satellites offer a much better resolution than their geostationary counterparts due their closeness to the Earth.</p>
+<p>The United States has the <a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a> series of polar orbiting meteorological satellites, presently NOAA 17 and NOAA 18 as primary spacecraft, NOAA 15 and NOAA 16 as secondary spacecraft, NOAA 14 in standby, and NOAA 12. Europe has the <a class="mw-redirect" href="/wiki/Metop" title="Metop">Metop</a>-A and <a class="mw-redirect" href="/wiki/Metop" title="Metop">Metop</a>-B satellites operated by <a href="/wiki/EUMETSAT" title="EUMETSAT">EUMETSAT</a>. Russia has the <a href="/wiki/Meteor_(satellite)" title="Meteor (satellite)">Meteor</a> and RESURS series of satellites. China has <a href="/wiki/Fengyun" title="Fengyun">FY</a>-3A, 3B and 3C. India has polar orbiting satellites as well.</p>
+<h4><span class="mw-headline" id="DMSP">DMSP</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=8" title="Edit section: DMSP">edit</a><span class="mw-editsection-bracket">]</span></span></h4>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:SatelliteAntenna-137MHz.jpg"><img alt="" class="thumbimage" data-file-height="1024" data-file-width="921" height="245" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SatelliteAntenna-137MHz.jpg/220px-SatelliteAntenna-137MHz.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SatelliteAntenna-137MHz.jpg/330px-SatelliteAntenna-137MHz.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/SatelliteAntenna-137MHz.jpg/440px-SatelliteAntenna-137MHz.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:SatelliteAntenna-137MHz.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Turnstile_antenna" title="Turnstile antenna">Turnstile antenna</a> for reception of 137 MHz <a class="mw-redirect" href="/wiki/Low_Earth_Orbit" title="Low Earth Orbit">LEO</a> weather satellite transmissions</div>
+</div>
+</div>
+<p>The <a href="/wiki/United_States_Department_of_Defense" title="United States Department of Defense">United States Department of Defense</a>'s Meteorological Satellite (<a href="/wiki/Defense_Meteorological_Satellite_Program" title="Defense Meteorological Satellite Program">DMSP</a>) can "see" the best of all weather vehicles with its ability to detect objects almost as 'small' as a huge <a href="/wiki/Oil_tanker" title="Oil tanker">oil tanker</a>. In addition, of all the weather satellites in orbit, only DMSP can "see" at night in the visual. Some of the most spectacular photos have been recorded by the night visual sensor; city lights, <a href="/wiki/Volcano" title="Volcano">volcanoes</a>, fires, lightning, <a class="mw-redirect" href="/wiki/Meteor" title="Meteor">meteors</a>, oil field burn-offs, as well as the <a class="mw-redirect" href="/wiki/Aurora_Borealis" title="Aurora Borealis">Aurora Borealis</a> and <a class="mw-redirect" href="/wiki/Aurora_Australis" title="Aurora Australis">Aurora Australis</a> have been captured by this 450-mile-high space vehicle's low moonlight sensor.</p>
+<p>At the same time, energy use and city growth can be monitored since both major and even minor cities, as well as highway lights, are conspicuous. This informs <a href="/wiki/Astronomer" title="Astronomer">astronomers</a> of <a href="/wiki/Light_pollution" title="Light pollution">light pollution</a>. The <a class="mw-redirect" href="/wiki/New_York_City_Blackout_of_1977" title="New York City Blackout of 1977">New York City Blackout of 1977</a> was captured by one of the night orbiter DMSP space vehicles.</p>
+<p>In addition to monitoring city lights, these photos are a life saving asset in the detection and monitoring of fires. Not only do the satellites see the fires visually day and night, but the thermal and <a href="/wiki/Infrared" title="Infrared">infrared</a> scanners on board these weather satellites detect potential fire sources below the surface of the Earth where smoldering occurs. Once the fire is detected, the same weather satellites provide vital information about wind that could fan or spread the fires. These same cloud photos from space tell the <a href="/wiki/Firefighter" title="Firefighter">firefighter</a> when it will rain.</p>
+<p>Some of the most dramatic photos showed the 600 <a href="/wiki/Kuwaiti_oil_fires" title="Kuwaiti oil fires">Kuwaiti oil fires</a> that the fleeing <a class="mw-redirect" href="/wiki/Army_of_Iraq" title="Army of Iraq">Army of Iraq</a> started on February 23, 1991. The night photos showed huge flashes, far outstripping the glow of large populated areas. The fires consumed millions of gallons of oil; the last was doused on November 6, 1991.</p>
+<h2><span class="mw-headline" id="Uses">Uses</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=9" title="Edit section: Uses">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Snowfield monitoring, especially in the <a href="/wiki/Sierra_Nevada_(U.S.)" title="Sierra Nevada (U.S.)">Sierra Nevada</a>, can be helpful to the hydrologist keeping track of available <a href="/wiki/Snowpack" title="Snowpack">snowpack</a> for runoff vital to the <a href="/wiki/Drainage_basin" title="Drainage basin">watersheds</a> of the western United States. This information is gleaned from existing satellites of all agencies of the U.S. government (in addition to local, on-the-ground measurements). Ice floes, packs and bergs can also be located and tracked from weather space craft.</p>
+<p>Even pollution whether it is nature-made or man-made can be pinpointed. The visual and infrared photos show effects of pollution from their respective areas over the entire earth. Aircraft and <a href="/wiki/Rocket" title="Rocket">rocket</a> pollution, as well as <a href="/wiki/Contrail" title="Contrail">condensation trails</a>, can also be spotted. The ocean current and low level wind information gleaned from the space photos can help predict oceanic oil spill coverage and movement. Almost every summer, sand and dust from the <a class="mw-redirect" href="/wiki/Sahara_Desert" title="Sahara Desert">Sahara Desert</a> in Africa drifts across the equatorial regions of the Atlantic Ocean. GOES-EAST photos enable meteorologists to observe, track and forecast this sand cloud. In addition to reducing visibilities and causing respiratory problems, sand clouds suppress <a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">hurricane</a> formation by modifying the <a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">solar radiation</a> balance of the tropics. Other <a href="/wiki/Dust_storm" title="Dust storm">dust storms</a> in Asia and <a href="/wiki/Mainland_China" title="Mainland China">mainland China</a> are common and easy to spot and monitor, with recent examples of dust moving across the Pacific Ocean and reaching North America.</p>
+<p>In remote areas of the world with few local observers, fires could rage out of control for days or even weeks and consume millions of acres before authorities are alerted. Weather satellites can be a tremendous asset in such situations. Nighttime photos also show the burn-off in gas and oil fields. Atmospheric temperature and moisture profiles have been taken by weather satellites since 1969.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/28px-RocketSunIcon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/42px-RocketSunIcon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/56px-RocketSunIcon.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Spaceflight" title="Portal:Spaceflight">Spaceflight portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Earth_observation_satellite" title="Earth observation satellite">Earth observation satellite</a>
+<ul>
+<li><a href="/wiki/List_of_Earth_observation_satellites" title="List of Earth observation satellites">List of Earth observation satellites</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Geostationary_orbit" title="Geostationary orbit">Geostationary orbit</a></li>
+<li><a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">Low Earth orbit</a></li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite temperature measurements</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=11" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/NESDIS" title="NESDIS">NESDIS</a>. <a class="external text" href="http://www.nesdis.noaa.gov/satellites.html" rel="nofollow">Satellites.</a> Retrieved on July 4, 2008.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/NOAA" title="NOAA">NOAA</a>. <a class="external text" href="http://www.spaceref.com/news/viewpr.html?pid=15216" rel="nofollow">NOAA Satellites, Scientists Monitor Mt. St. Helens for Possible Eruption.</a> Retrieved on July 4, 2008.</span></li>
+<li id="cite_note-first-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-first_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-first_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Janice Hill (1991). <i>Weather From Above: America's Meteorological Satellites</i>. Smithsonian Institution. pp. 4–7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87474-394-X" title="Special:BookSources/0-87474-394-X">0-87474-394-X</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.au=Janice+Hill&amp;rft.btitle=Weather+From+Above%3A+America%27s+Meteorological+Satellites&amp;rft.date=1991&amp;rft.genre=book&amp;rft.isbn=0-87474-394-X&amp;rft.pages=4-7&amp;rft.pub=Smithsonian+Institution&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20080509055523/https://history.nasa.gov/SP-4202/chap12.html" rel="nofollow">"VANGUARD - A HISTORY, CHAPTER 12, SUCCESS - AND AFTER"</a>. NASA. Archived from <a class="external text" href="https://history.nasa.gov/SP-4202/chap12.html" rel="nofollow">the original</a> on 2008-05-09.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.btitle=VANGUARD+-+A+HISTORY%2C+CHAPTER+12%2C+SUCCESS+-+AND+AFTER&amp;rft.genre=unknown&amp;rft.pub=NASA&amp;rft_id=https%3A%2F%2Fhistory.nasa.gov%2FSP-4202%2Fchap12.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-apupi-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-apupi_5-0">^</a></b></span> <span class="reference-text"><cite class="citation news">"U.S. Launches Camera Weather Satellite". <i><a href="/wiki/The_Fresno_Bee" title="The Fresno Bee">The Fresno Bee</a></i>. <a href="/wiki/Associated_Press" title="Associated Press">AP</a> and <a href="/wiki/United_Press_International" title="United Press International">UPI</a>. April 1, 1960. pp. 1a, 4a.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.atitle=U.S.+Launches+Camera+Weather+Satellite&amp;rft.date=1960-04-01&amp;rft.genre=article&amp;rft.jtitle=The+Fresno+Bee&amp;rft.pages=1a%2C+4a&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">National Environmental Satellite Center (January 1970). "SIRS and the Improved Marine Weather Forecast". <i><a href="/wiki/Mariners_Weather_Log" title="Mariners Weather Log">Mariners Weather Log</a></i>. Environmental Science Services Administration. <b>14</b> (1): 12–15.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.atitle=SIRS+and+the+Improved+Marine+Weather+Forecast&amp;rft.au=National+Environmental+Satellite+Center&amp;rft.date=1970-01&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Mariners+Weather+Log&amp;rft.pages=12-15&amp;rft.volume=14&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-EUMETSAT_-_MSG_Spectrum-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-EUMETSAT_-_MSG_Spectrum_7-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.eumetsat.int/groups/ops/documents/document/pdf_ten_052562_msg1_spctrsp.pdf" rel="nofollow">EUMETSAT – MSG Spectrum</a> (PDF)</span></li>
+<li id="cite_note-EUMETSAT_-_MFG_PL-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-EUMETSAT_-_MFG_PL_8-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.eumetsat.int/Home/Main/What_We_Do/Satellites/Meteosat_First_Generation/Space_Segment/SP_1119958330356?l=en" rel="nofollow">EUMETSAT – MFG Payload</a></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">A. F. Hasler, K. Palaniappan, C. Kambhammetu, P. Black, E. Uhlhorn, and D. Chesters. <a class="external text" href="http://ams.allenpress.com/archive/1520-0477/79/11/pdf/i1520-0477-79-11-2483.pdf" rel="nofollow">High-Resolution Wind Fields within the Inner Core and Eye of a Mature Tropical Cyclone from GOES 1-min Images.</a> Retrieved on 2008-07-04.</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="mw-redirect" href="/wiki/Chris_Landsea" title="Chris Landsea">Chris Landsea</a>. <a class="external text" href="http://www.aoml.noaa.gov/hrd/tcfaq/H1.html" rel="nofollow">Subject: H1) What is the Dvorak technique and how is it used?</a> Retrieved on January 3, 2009.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web">Service, US Department of Commerce, NOAA, National Weather. <a class="external text" href="http://forecast.weather.gov/MapClick.php?lat=32.810361684869015&amp;lon=-96.73736572265625&amp;site=fwd&amp;smap=1&amp;marine=1&amp;unit=0&amp;lg=en" rel="nofollow">"National Weather Service"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.aufirst=US+Department+of+Commerce%2C+NOAA%2C+National+Weather&amp;rft.aulast=Service&amp;rft.btitle=National+Weather+Service&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fforecast.weather.gov%2FMapClick.php%3Flat%3D32.810361684869015%26lon%3D-96.73736572265625%26site%3Dfwd%26smap%3D1%26marine%3D1%26unit%3D0%26lg%3Den&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.oso.noaa.gov/goesstatus/spacecraftStatusSummary.asp?spacecraft=12" rel="nofollow">"GOES 12 Spacecraft Status Summary"</a>. <i>NOAA Satellite and Information Service</i><span class="reference-accessdate">. Retrieved <span class="nowrap">December 13,</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.atitle=GOES+12+Spacecraft+Status+Summary&amp;rft.genre=unknown&amp;rft.jtitle=NOAA+Satellite+and+Information+Service&amp;rft_id=http%3A%2F%2Fwww.oso.noaa.gov%2Fgoesstatus%2FspacecraftStatusSummary.asp%3Fspacecraft%3D12&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-13">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.oso.noaa.gov/goesstatus/spacecraftStatusSummary.asp?spacecraft=13" rel="nofollow">"GOES 13 Spacecraft Status Summary"</a>. <i>NOAA Satellite and Information Service</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 15,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.atitle=GOES+13+Spacecraft+Status+Summary&amp;rft.genre=unknown&amp;rft.jtitle=NOAA+Satellite+and+Information+Service&amp;rft_id=http%3A%2F%2Fwww.oso.noaa.gov%2Fgoesstatus%2FspacecraftStatusSummary.asp%3Fspacecraft%3D13&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.oso.noaa.gov/goesstatus/spacecraftStatusSummary.asp?spacecraft=15" rel="nofollow">"GOES 15 Spacecraft Status Summary"</a>. <i>NOAA Satellite and Information Service</i><span class="reference-accessdate">. Retrieved <span class="nowrap">February 15,</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.atitle=GOES+15+Spacecraft+Status+Summary&amp;rft.genre=unknown&amp;rft.jtitle=NOAA+Satellite+and+Information+Service&amp;rft_id=http%3A%2F%2Fwww.oso.noaa.gov%2Fgoesstatus%2FspacecraftStatusSummary.asp%3Fspacecraft%3D15&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20150828041011/http://www.nsmc.cma.gov.cn/NSMC/Channels/100003.html" rel="nofollow">"卫星运行"</a> [Satellite Operation]. <i>National Satellite Meteorological Center of CMA</i> (in Chinese). Archived from <a class="external text" href="http://www.nsmc.cma.gov.cn/NSMC/Channels/100003.html" rel="nofollow">the original</a> on August 28, 2015.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.atitle=%E5%8D%AB%E6%98%9F%E8%BF%90%E8%A1%8C&amp;rft.genre=unknown&amp;rft.jtitle=National+Satellite+Meteorological+Center+of+CMA&amp;rft_id=http%3A%2F%2Fwww.nsmc.cma.gov.cn%2FNSMC%2FChannels%2F100003.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation journal">Ann K. Cook (July 1969). <a class="external text" href="http://docs.lib.noaa.gov/rescue/journals/essa_world/QC851U461969jul.pdf" rel="nofollow">"The Breakthrough Team"</a> <span style="font-size:85%;">(PDF)</span>. <i>ESSA World</i>. Environmental Satellite Services Administration: 28–31<span class="reference-accessdate">. Retrieved <span class="nowrap">2012-04-21</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.atitle=The+Breakthrough+Team&amp;rft.au=Ann+K.+Cook&amp;rft.date=1969-07&amp;rft.genre=article&amp;rft.jtitle=ESSA+World&amp;rft.pages=28-31&amp;rft_id=http%3A%2F%2Fdocs.lib.noaa.gov%2Frescue%2Fjournals%2Fessa_world%2FQC851U461969jul.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Weather_satellite&amp;action=edit&amp;section=12" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Meteorological_satellites" title="commons:Category:Meteorological satellites">Meteorological satellites</a></b></i>.</td>
+</tr>
+</table>
+<dl>
+<dt>Theory</dt>
+</dl>
+<ul>
+<li><cite class="citation book">Ralph E. Taggard (1994). <i>Weather satellite handbook (5th edition)</i>. Newington, CT: <a href="/wiki/American_Radio_Relay_League" title="American Radio Relay League">American Radio Relay League</a>. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-87259-448-3" title="Special:BookSources/0-87259-448-3">0-87259-448-3</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWeather+satellite&amp;rft.au=Ralph+E.+Taggard&amp;rft.btitle=Weather+satellite+handbook+%285th+edition%29&amp;rft.date=1994&amp;rft.genre=book&amp;rft.isbn=0-87259-448-3&amp;rft.place=Newington%2C+CT&amp;rft.pub=American+Radio+Relay+League&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><a class="external text" href="http://cimss.ssec.wisc.edu/" rel="nofollow">Cooperative Institute for Meteorological Satellite Studies</a></li>
+<li><a class="external text" href="http://profhorn.meteor.wisc.edu/wxwise/museum/a1main.html" rel="nofollow">Dr. Verner Suomi ("father of the geostationary satellite") biography</a>
+<ul>
+<li><a class="external text" href="http://profhorn.meteor.wisc.edu/wxwise/museum/a3/a3example1.html" rel="nofollow">Interpreting Satellite Images – Suomi Virtual Museum</a></li>
+</ul>
+</li>
+<li><a class="external text" href="http://www.stuffintheair.com/image-satellite-weather.html" rel="nofollow">Physical Characteristics of Geostationary and Polar-Orbiting weather satellites</a>
+<ul>
+<li><a class="external text" href="http://www.economics.noaa.gov/?goal=weather&amp;file=obs/satellite/poes/" rel="nofollow">NOAA Economics &amp; Social Benefits of POES</a></li>
+</ul>
+</li>
+</ul>
+<dl>
+<dt>Data</dt>
+</dl>
+<ul>
+<li><a class="external text" href="http://www.intellicast.com/IcastPage/LoadPage.aspx?loc=usa&amp;seg=LocalWeather&amp;prodgrp=SatelliteImagery&amp;product=World&amp;prodnav=none&amp;pid=none" rel="nofollow">Near realtime composite of satellite image of the Earth</a> by <i>Intellicast</i></li>
+<li><a class="external text" href="http://InternationalWeatherArchive.org/satellite.aspx" rel="nofollow">International weather satellite viewer</a> Online geostationary weather satellite viewer with 2 months of archived data.</li>
+<li><a class="external text" href="http://visibleearth.nasa.gov/view_rec.php?vev1id=5826" rel="nofollow">Earth at night</a> by NASA</li>
+<li><a class="external text" href="http://www.eumetsat.int" rel="nofollow">EUMETSAT – the European Organisation for the Exploitation of Meteorological Satellites</a></li>
+<li><a class="external text" href="http://cloudsgate2.larc.nasa.gov/index.html" rel="nofollow">NASA Langley Cloud and Radiation Research</a> Near real-time and archived satellite imagery and cloud products.</li>
+<li>ISCCP Global ISCCP B1 Browse System (GIBBS) <a class="external free" href="http://www.ncdc.noaa.gov/gibbs/" rel="nofollow">http://www.ncdc.noaa.gov/gibbs/</a></li>
+</ul>
+<dl>
+<dt>Government policy</dt>
+</dl>
+<ul>
+<li><a class="external text" href="https://purl.fdlp.gov/GPO/gpo44765" rel="nofollow">Geostationary Weather Satellites: Progress Made, but Weaknesses in Scheduling, Contingency Planning, and Communicating with Users Need To Be Addressed: Report to the Committee on Science, Space, and Technology, House of Representatives</a> <a href="/wiki/Government_Accountability_Office" title="Government Accountability Office">Government Accountability Office</a></li>
+<li><a class="external text" href="https://purl.fdlp.gov/GPO/gpo44768" rel="nofollow">Polar Weather Satellites: NOAA Identified Ways to Mitigate Data Gaps, but Contingency Plans and Schedules Require Further Attention: Report to the Committee on Science, Space, and Technology, House of Representatives</a> <a href="/wiki/Government_Accountability_Office" title="Government Accountability Office">Government Accountability Office</a></li>
+</ul>
+<div aria-labelledby="Orbital_meteorological_and_remote_sensing_systems" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Space-based_meteorological_observation" title="Template:Space-based meteorological observation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Space-based_meteorological_observation" title="Template talk:Space-based meteorological observation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Space-based_meteorological_observation&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Orbital_meteorological_and_remote_sensing_systems" style="font-size:114%;margin:0 4em">Orbital meteorological and <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a> systems</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Defense_Weather_Satellite_System" title="Defense Weather Satellite System">Defense Weather Satellite System</a></li>
+<li><a href="/wiki/Earth_observation_satellite" title="Earth observation satellite">Earth observation satellite</a></li>
+<li><a href="/wiki/Geographic_information_system" title="Geographic information system">Geographic information system (GIS)</a></li>
+<li><a class="mw-selflink selflink">Weather satellite</a></li>
+<li><a class="mw-redirect" href="/wiki/NASA-ISRO_Synthetic_Aperture_Radar_mission" title="NASA-ISRO Synthetic Aperture Radar mission">NISAR</a></li>
+<li><a href="/wiki/ICESat-2" title="ICESat-2">ICESat-2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Current<br/>
+projects</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em"><a href="/wiki/Earth_Observing_System" title="Earth Observing System">Earth Observing<br/>
+System (EOS)</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Global_Precipitation_Measurement" title="Global Precipitation Measurement">GPM</a></li>
+<li><a href="/wiki/Tropical_Rainfall_Measuring_Mission" title="Tropical Rainfall Measuring Mission">TRMM</a></li>
+<li><a href="/wiki/Landsat_7" title="Landsat 7">Landsat 7</a></li>
+<li><a href="/wiki/QuikSCAT" title="QuikSCAT">QuikSCAT</a></li>
+<li><a href="/wiki/Terra_(satellite)" title="Terra (satellite)">Terra</a></li>
+<li><a href="/wiki/ACRIMSAT" title="ACRIMSAT">ACRIMSAT</a></li>
+<li><a href="/wiki/New_Millennium_Program" title="New Millennium Program">NMP</a>/<a href="/wiki/Earth_Observing-1" title="Earth Observing-1">EO-1</a></li>
+<li><a href="/wiki/Jason-1" title="Jason-1">Jason-1</a></li>
+<li><a href="/wiki/Ocean_Surface_Topography_Mission" title="Ocean Surface Topography Mission">OSTM/Jason-2</a></li>
+<li><a href="/wiki/Jason-3" title="Jason-3">Jason-3</a></li>
+<li><a href="/wiki/Meteor_(satellite)#Meteor_3" title="Meteor (satellite)">Meteor 3M</a>-1/<a href="/wiki/Stratospheric_Aerosol_and_Gas_Experiment" title="Stratospheric Aerosol and Gas Experiment">Sage</a> III</li>
+<li><a href="/wiki/Gravity_Recovery_and_Climate_Experiment" title="Gravity Recovery and Climate Experiment">GRACE</a></li>
+<li><a href="/wiki/Aqua_(satellite)" title="Aqua (satellite)">Aqua</a></li>
+<li><a href="/wiki/Solar_Radiation_and_Climate_Experiment" title="Solar Radiation and Climate Experiment">SORCE</a></li>
+<li><a href="/wiki/Aura_(satellite)" title="Aura (satellite)">Aura</a></li>
+<li><a href="/wiki/CloudSat" title="CloudSat">CloudSat</a></li>
+<li><a href="/wiki/CALIPSO" title="CALIPSO">CALIPSO</a></li>
+<li><a href="/wiki/NPOESS" title="NPOESS">NPOESS</a></li>
+<li><a href="/wiki/Megha-Tropiques" title="Megha-Tropiques">Megha-Tropiques</a></li>
+<li><a href="/wiki/SARAL" title="SARAL">SARAL</a></li>
+<li><a href="/wiki/Indian_Remote_Sensing" title="Indian Remote Sensing">IRS</a></li>
+<li><a class="new" href="/w/index.php?title=Earth_System_Science_Pathfinder&amp;action=edit&amp;redlink=1" title="Earth System Science Pathfinder (page does not exist)">ESSP</a></li>
+<li><a href="/wiki/Aquarius_(SAC-D_instrument)" title="Aquarius (SAC-D instrument)">Aquarius</a></li>
+<li><a href="/wiki/Landsat_8" title="Landsat 8">Landsat 8</a></li>
+<li><a href="/wiki/Soil_Moisture_Active_Passive" title="Soil Moisture Active Passive">SMAP</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em"><a href="/wiki/A-train_(satellite_constellation)" title="A-train (satellite constellation)">A-train</a> satellites</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aqua_(satellite)" title="Aqua (satellite)">Aqua</a></li>
+<li><a href="/wiki/Aura_(satellite)" title="Aura (satellite)">Aura</a></li>
+<li><a href="/wiki/CALIPSO" title="CALIPSO">CALIPSO</a></li>
+<li><a href="/wiki/CloudSat" title="CloudSat">CloudSat</a></li>
+<li><a class="mw-redirect" href="/wiki/GCOM-W" title="GCOM-W">GCOM-W1 (Shizuku)</a></li>
+<li><a href="/wiki/Orbiting_Carbon_Observatory_2" title="Orbiting Carbon Observatory 2">OCO-2</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em"><a href="/wiki/Copernicus_Programme" title="Copernicus Programme">Copernicus<br/>
+programme</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sentinel-1" title="Sentinel-1">Sentinel-1</a></li>
+<li><a href="/wiki/Sentinel-2" title="Sentinel-2">Sentinel-2</a></li>
+<li><a href="/wiki/Sentinel-3" title="Sentinel-3">Sentinel-3</a></li>
+<li><a href="/wiki/Sentinel-4" title="Sentinel-4">Sentinel-4</a></li>
+<li><a href="/wiki/Sentinel-5_Precursor" title="Sentinel-5 Precursor">Sentinel-5 Precursor</a></li>
+<li><a class="new" href="/w/index.php?title=Sentinel-5&amp;action=edit&amp;redlink=1" title="Sentinel-5 (page does not exist)">Sentinel-5</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Geostationary<br/>
+meteorological<br/>
+satellites</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Elektro-L" title="Elektro-L">Elektro-L</a></li>
+<li><a href="/wiki/Fengyun" title="Fengyun">Fengyun-2</a></li>
+<li><a href="/wiki/Geostationary_Operational_Environmental_Satellite" title="Geostationary Operational Environmental Satellite">GOES</a></li>
+<li><a href="/wiki/Indian_National_Satellite_System" title="Indian National Satellite System">INSAT</a></li>
+<li><a href="/wiki/Meteosat" title="Meteosat">Meteosat</a></li>
+<li><a href="/wiki/Himawari_8" title="Himawari 8">Himawari-8</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Other satellites</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/China%E2%80%93Brazil_Earth_Resources_Satellite_program" title="China–Brazil Earth Resources Satellite program">CBERS</a></li>
+<li><a href="/wiki/COSMO-SkyMed" title="COSMO-SkyMed">COSMO-SkyMed</a></li>
+<li><a href="/wiki/Defense_Meteorological_Satellite_Program" title="Defense Meteorological Satellite Program">DMSP</a></li>
+<li><a href="/wiki/Disaster_Monitoring_Constellation" title="Disaster Monitoring Constellation">DMC</a></li>
+<li><a href="/wiki/EROS_(satellite)" title="EROS (satellite)">EROS</a></li>
+<li><a href="/wiki/Fengyun" title="Fengyun">Fengyun-3</a></li>
+<li><a href="/wiki/Greenhouse_Gases_Observing_Satellite" title="Greenhouse Gases Observing Satellite">GOSAT (Ibuki)</a></li>
+<li><a href="/wiki/Landsat_program" title="Landsat program">Landsat</a></li>
+<li><a href="/wiki/MetOp" title="MetOp">MetOp</a></li>
+<li><a href="/wiki/Meteor_(satellite)" title="Meteor (satellite)">Meteor</a></li>
+<li><a href="/wiki/Polar_Operational_Environmental_Satellites" title="Polar Operational Environmental Satellites">POES</a></li>
+<li><a class="mw-redirect" href="/wiki/RADARSAT-2" title="RADARSAT-2">RADARSAT-2</a></li>
+<li><a href="/wiki/RapidEye" title="RapidEye">RapidEye</a></li>
+<li><a href="/wiki/Resurs-P" title="Resurs-P">Resurs-P</a></li>
+<li><a href="/wiki/Soil_Moisture_and_Ocean_Salinity" title="Soil Moisture and Ocean Salinity">SMOS</a></li>
+<li><a href="/wiki/SPOT_(satellite)" title="SPOT (satellite)">SPOT</a></li>
+<li><a href="/wiki/TerraSAR-X" title="TerraSAR-X">TerraSAR-X</a></li>
+<li><a href="/wiki/THEOS_(satellite)" title="THEOS (satellite)">THEOS</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Former<br/>
+projects</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Completed</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/ADEOS_I" title="ADEOS I">ADEOS (Midori)</a></li>
+<li><a href="/wiki/ADEOS_II" title="ADEOS II">ADEOS II (Midori 2)</a></li>
+<li><a href="/wiki/Constellation_Observing_System_for_Meteorology,_Ionosphere,_and_Climate" title="Constellation Observing System for Meteorology, Ionosphere, and Climate">COSMIC (FORMOSAT-3)</a></li>
+<li><a href="/wiki/Envisat" title="Envisat">Envisat</a></li>
+<li><a href="/wiki/European_Remote-Sensing_Satellite" title="European Remote-Sensing Satellite">ERS</a></li>
+<li><a class="mw-redirect" href="/wiki/FORMOSAT-1" title="FORMOSAT-1">FORMOSAT-1</a></li>
+<li><a class="mw-redirect" href="/wiki/FORMOSAT-2" title="FORMOSAT-2">FORMOSAT-2</a></li>
+<li><a href="/wiki/Geosat" title="Geosat">Geosat</a></li>
+<li><a href="/wiki/Himawari_(satellite)" title="Himawari (satellite)">GMS (Himawari)</a></li>
+<li><a href="/wiki/ICESat" title="ICESat">ICESat</a></li>
+<li><a class="mw-redirect" href="/wiki/IKONOS" title="IKONOS">IKONOS</a></li>
+<li><a href="/wiki/JERS-1" title="JERS-1">JERS-1 (Fuyo-1)</a></li>
+<li><a href="/wiki/Nimbus_program" title="Nimbus program">Nimbus</a></li>
+<li><a href="/wiki/Parasol_(satellite)" title="Parasol (satellite)">PARASOL</a></li>
+<li><a href="/wiki/QuickBird" title="QuickBird">QuickBird</a></li>
+<li><a class="mw-redirect" href="/wiki/RADARSAT-1" title="RADARSAT-1">RADARSAT-1</a></li>
+<li><a href="/wiki/Seasat" title="Seasat">Seasat</a></li>
+<li><a href="/wiki/SeaWiFS" title="SeaWiFS">SeaWiFS</a></li>
+<li><a href="/wiki/Television_Infrared_Observation_Satellite" title="Television Infrared Observation Satellite">TIROS</a></li>
+<li><a href="/wiki/TOPEX/Poseidon" title="TOPEX/Poseidon">TOPEX/Poseidon</a></li>
+<li><a href="/wiki/Upper_Atmosphere_Research_Satellite" title="Upper Atmosphere Research Satellite">UARS</a></li>
+<li><a href="/wiki/Project_Vanguard" title="Project Vanguard">Vanguard</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Failed</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Orbiting_Carbon_Observatory" title="Orbiting Carbon Observatory">OCO</a></li>
+<li><a href="/wiki/Glory_(satellite)" title="Glory (satellite)">Glory</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:10.0em">Cancelled</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/New_Millennium_Program" title="New Millennium Program">NMP</a>/<a href="/wiki/Earth_Observing-3" title="Earth Observing-3">EO-3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Spaceflight" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col" style="text-align: center;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Spaceflight" title="Template:Spaceflight"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Spaceflight" title="Template talk:Spaceflight"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Spaceflight&amp;action=edit"><abbr style="text-align: center;;;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Spaceflight" style="font-size:114%;margin:0 4em"><a href="/wiki/Spaceflight" title="Spaceflight">Spaceflight</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Orbital_mechanics" title="Orbital mechanics">Astrodynamics</a></li>
+<li><a href="/wiki/History_of_spaceflight" title="History of spaceflight">History</a>
+<ul>
+<li><a href="/wiki/Timeline_of_spaceflight" title="Timeline of spaceflight">Timeline</a></li>
+<li><a href="/wiki/Space_Race" title="Space Race">Space Race</a></li>
+<li><a href="/wiki/Comparison_of_Asian_national_space_programs" title="Comparison of Asian national space programs">Asian Space Race</a></li>
+<li><a href="/wiki/List_of_spaceflight_records" title="List of spaceflight records">Records</a></li>
+<li><a href="/wiki/List_of_spaceflight-related_accidents_and_incidents" title="List of spaceflight-related accidents and incidents">Accidents and incidents</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Space_policy" title="Space policy">Space policy</a>
+<ul>
+<li><a href="/wiki/Chinese_space_program" title="Chinese space program">China</a></li>
+<li><a href="/wiki/Space_policy_of_the_European_Union" title="Space policy of the European Union">European Union</a></li>
+<li><a href="/wiki/Indian_Space_Research_Organisation" title="Indian Space Research Organisation">India</a></li>
+<li><a href="/wiki/JAXA" title="JAXA">Japan</a></li>
+<li><a href="/wiki/Roscosmos" title="Roscosmos">Russia</a></li>
+<li><a href="/wiki/Soviet_space_program" title="Soviet space program">Soviet Union</a></li>
+<li><a href="/wiki/Space_policy_of_the_United_States" title="Space policy of the United States">United States</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Space_law" title="Space law">Space law</a>
+<ul>
+<li><a href="/wiki/Outer_Space_Treaty" title="Outer Space Treaty">Outer Space Treaty</a></li>
+<li><a href="/wiki/Rescue_Agreement" title="Rescue Agreement">Rescue Agreement</a></li>
+<li><a href="/wiki/Space_Liability_Convention" title="Space Liability Convention">Space Liability Convention</a></li>
+<li><a href="/wiki/Registration_Convention" title="Registration Convention">Registration Convention</a></li>
+<li><a href="/wiki/Moon_Treaty" title="Moon Treaty">Moon Treaty</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Private_spaceflight" title="Private spaceflight">Private spaceflight</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="8" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:MAVENnMars.jpg"><img alt="MAVENnMars.jpg" data-file-height="2550" data-file-width="3300" height="97" src="//upload.wikimedia.org/wikipedia/en/thumb/7/7c/MAVENnMars.jpg/125px-MAVENnMars.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/7c/MAVENnMars.jpg/188px-MAVENnMars.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/7c/MAVENnMars.jpg/250px-MAVENnMars.jpg 2x" width="125"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Outline_of_space_science" title="Outline of space science">Applications</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Space_telescope" title="Space telescope">Astronomy</a></li>
+<li><a href="/wiki/Earth_observation_satellite" title="Earth observation satellite">Earth observation</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Satellite_archaeology" title="Satellite archaeology">Archaeology</a></li>
+<li><a href="/wiki/Satellite_imagery" title="Satellite imagery">Imagery and mapping</a></li>
+<li><a href="/wiki/Reconnaissance_satellite" title="Reconnaissance satellite">Reconnaissance</a></li>
+<li><a class="mw-selflink selflink">Weather and environment monitoring</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" href="/wiki/Satellite_communications" title="Satellite communications">Satellite communications</a>
+<ul>
+<li><a href="/wiki/Satellite_Internet_access" title="Satellite Internet access">Internet</a></li>
+<li><a href="/wiki/Satellite_radio" title="Satellite radio">Radio</a></li>
+<li><a href="/wiki/Satellite_phone" title="Satellite phone">Telephone</a></li>
+<li><a href="/wiki/Satellite_television" title="Satellite television">Television</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Satellite_navigation" title="Satellite navigation">Satellite navigation</a></li>
+<li><a href="/wiki/Commercial_use_of_space" title="Commercial use of space">Commercial use of space</a></li>
+<li><a href="/wiki/Space_launch_market_competition" title="Space launch market competition">Space launch market competition</a></li>
+<li><a href="/wiki/Militarisation_of_space" title="Militarisation of space">Militarisation of space</a></li>
+<li><a href="/wiki/Space_architecture" title="Space architecture">Space architecture</a></li>
+<li><a href="/wiki/Space_exploration" title="Space exploration">Space exploration</a></li>
+<li><a href="/wiki/Space_research" title="Space research">Space research</a></li>
+<li><a class="mw-redirect" href="/wiki/Space_technology" title="Space technology">Space technology</a></li>
+<li><a href="/wiki/Space_weather" title="Space weather">Space weather</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Human_spaceflight" title="Human spaceflight">Human spaceflight</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align: center;">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Astronaut" title="Astronaut">Astronaut</a></li>
+<li><a href="/wiki/Life_support_system" title="Life support system">Life support system</a>
+<ul>
+<li><a href="/wiki/Animals_in_space" title="Animals in space">Animals in space</a></li>
+<li><a href="/wiki/Bioastronautics" title="Bioastronautics">Bioastronautics</a></li>
+<li><a href="/wiki/Space_suit" title="Space suit">Space suit</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Extravehicular_activity" title="Extravehicular activity">Extravehicular activity</a></li>
+<li><a href="/wiki/Weightlessness" title="Weightlessness">Weightlessness</a></li>
+<li><a href="/wiki/Space_tourism" title="Space tourism">Space tourism</a></li>
+<li><a href="/wiki/Space_colonization" title="Space colonization">Space colonization</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align: center;">Programs</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Vostok_programme" title="Vostok programme">Vostok</a></li>
+<li><a href="/wiki/Project_Mercury" title="Project Mercury">Mercury</a></li>
+<li><a href="/wiki/Voskhod_programme" title="Voskhod programme">Voskhod</a></li>
+<li><a href="/wiki/Project_Gemini" title="Project Gemini">Gemini</a></li>
+<li><a href="/wiki/Soyuz_programme" title="Soyuz programme">Soyuz</a></li>
+<li><a href="/wiki/Apollo_program" title="Apollo program">Apollo</a>
+<ul>
+<li><a href="/wiki/Skylab" title="Skylab">Skylab</a></li>
+<li><a href="/wiki/Apollo%E2%80%93Soyuz_Test_Project" title="Apollo–Soyuz Test Project">Apollo–Soyuz</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Space_Shuttle_program" title="Space Shuttle program">Space Shuttle</a></li>
+<li><a href="/wiki/Mir" title="Mir">Mir</a>
+<ul>
+<li><a href="/wiki/Shuttle%E2%80%93Mir_Program" title="Shuttle–Mir Program">Shuttle–Mir</a></li>
+</ul>
+</li>
+<li><a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a></li>
+<li><a href="/wiki/Shenzhou_program" title="Shenzhou program">Shenzhou</a></li>
+<li><a href="/wiki/Tiangong_program" title="Tiangong program">Tiangong</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%;text-align: center;">Health issues</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Effect_of_spaceflight_on_the_human_body" title="Effect of spaceflight on the human body">Effect of spaceflight on the human body</a>
+<ul>
+<li><a href="/wiki/Space_adaptation_syndrome" title="Space adaptation syndrome">Space adaptation syndrome</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Health_threat_from_cosmic_rays" title="Health threat from cosmic rays">Health threat from cosmic rays</a></li>
+<li><a href="/wiki/Psychological_and_sociological_effects_of_spaceflight" title="Psychological and sociological effects of spaceflight">Psychological and sociological effects of spaceflight</a></li>
+<li><a href="/wiki/Space_and_survival" title="Space and survival">Space and survival</a></li>
+<li><a href="/wiki/Space_medicine" title="Space medicine">Space medicine</a></li>
+<li><a href="/wiki/Space_nursing" title="Space nursing">Space nursing</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Spacecraft" title="Spacecraft">Spacecraft</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Launch_vehicle" title="Launch vehicle">Launch vehicle</a></li>
+<li><a href="/wiki/Rocket" title="Rocket">Rocket</a></li>
+<li><a href="/wiki/Spaceplane" title="Spaceplane">Spaceplane</a></li>
+<li><a href="/wiki/Robotic_spacecraft" title="Robotic spacecraft">Robotic spacecraft</a>
+<ul>
+<li><a href="/wiki/Satellite" title="Satellite">Satellite</a></li>
+<li><a href="/wiki/Space_probe" title="Space probe">Space probe</a></li>
+<li><a href="/wiki/Lander_(spacecraft)" title="Lander (spacecraft)">Lander</a></li>
+<li><a href="/wiki/Rover_(space_exploration)" title="Rover (space exploration)">Rover</a></li>
+<li><a href="/wiki/Self-replicating_spacecraft" title="Self-replicating spacecraft">Self-replicating spacecraft</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Spacecraft_propulsion" title="Spacecraft propulsion">Spacecraft propulsion</a>
+<ul>
+<li><a href="/wiki/Rocket_engine" title="Rocket engine">Rocket engine</a></li>
+<li><a class="mw-redirect" href="/wiki/Electric_propulsion" title="Electric propulsion">Electric propulsion</a></li>
+<li><a href="/wiki/Solar_sail" title="Solar sail">Solar sail</a></li>
+<li><a href="/wiki/Gravity_assist" title="Gravity assist">Gravity assist</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%">Destinations</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sub-orbital_spaceflight" title="Sub-orbital spaceflight">Sub-orbital</a></li>
+<li><a href="/wiki/Orbital_spaceflight" title="Orbital spaceflight">Orbital</a>
+<ul>
+<li><a href="/wiki/Geocentric_orbit" title="Geocentric orbit">Geocentric</a></li>
+<li><a href="/wiki/Geosynchronous_orbit" title="Geosynchronous orbit">Geosynchronous</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Interplanetary_spaceflight" title="Interplanetary spaceflight">Interplanetary</a></li>
+<li><a href="/wiki/Interstellar_travel" title="Interstellar travel">Interstellar</a></li>
+<li><a href="/wiki/Intergalactic_travel" title="Intergalactic travel">Intergalactic</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Space_launch" title="Space launch">Space launch</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Direct_ascent" title="Direct ascent">Direct ascent</a></li>
+<li><a href="/wiki/Escape_velocity" title="Escape velocity">Escape velocity</a></li>
+<li><a href="/wiki/Expendable_launch_system" title="Expendable launch system">Expendable</a> and <a href="/wiki/Reusable_launch_system" title="Reusable launch system">reusable launch systems</a></li>
+<li><a href="/wiki/Launch_pad" title="Launch pad">Launch pad</a></li>
+<li><a href="/wiki/Non-rocket_spacelaunch" title="Non-rocket spacelaunch">Non-rocket spacelaunch</a></li>
+<li><a href="/wiki/Spaceport" title="Spaceport">Spaceport</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/Ground_segment" title="Ground segment">Ground segment</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Flight_controller" title="Flight controller">Flight controller</a></li>
+<li><a href="/wiki/Ground_station" title="Ground station">Ground station</a> (<a href="/wiki/Pass_(spaceflight)" title="Pass (spaceflight)">Pass</a>)</li>
+<li><a href="/wiki/Mission_control_center" title="Mission control center">Mission control center</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="text-align: center;;width:1%"><a href="/wiki/List_of_government_space_agencies" title="List of government space agencies">Space agencies</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="flagicon"><a href="/wiki/Argentina" title="Argentina"><img alt="Argentina" class="thumbborder" data-file-height="500" data-file-width="800" height="9" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/15px-Flag_of_Argentina.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/23px-Flag_of_Argentina.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1a/Flag_of_Argentina.svg/30px-Flag_of_Argentina.svg.png 2x" width="15"/></a></span> <a href="/wiki/Comisi%C3%B3n_Nacional_de_Actividades_Espaciales" title="Comisión Nacional de Actividades Espaciales">CoNAE</a></li>
+<li><span class="flagicon"><a href="/wiki/Brazil" title="Brazil"><img alt="Brazil" class="thumbborder" data-file-height="504" data-file-width="720" height="11" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/15px-Flag_of_Brazil.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/23px-Flag_of_Brazil.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Flag_of_Brazil.svg/30px-Flag_of_Brazil.svg.png 2x" width="15"/></a></span> <a href="/wiki/Brazilian_Space_Agency" title="Brazilian Space Agency">AEB</a></li>
+<li><span class="flagicon"><a href="/wiki/Canada" title="Canada"><img alt="Canada" class="thumbborder" data-file-height="500" data-file-width="1000" height="8" src="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/15px-Flag_of_Canada.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/23px-Flag_of_Canada.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/cf/Flag_of_Canada.svg/30px-Flag_of_Canada.svg.png 2x" width="15"/></a></span> <a href="/wiki/Canadian_Space_Agency" title="Canadian Space Agency">CSA</a></li>
+<li><span class="flagicon"><a href="/wiki/China" title="China"><img alt="China" class="thumbborder" data-file-height="600" data-file-width="900" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/15px-Flag_of_the_People%27s_Republic_of_China.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/23px-Flag_of_the_People%27s_Republic_of_China.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Flag_of_the_People%27s_Republic_of_China.svg/30px-Flag_of_the_People%27s_Republic_of_China.svg.png 2x" width="15"/></a></span> <a href="/wiki/China_National_Space_Administration" title="China National Space Administration">CNSA</a></li>
+<li><span class="flagicon"><a href="/wiki/European_Union" title="European Union"><img alt="European Union" class="thumbborder" data-file-height="540" data-file-width="810" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/15px-Flag_of_Europe.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/23px-Flag_of_Europe.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Flag_of_Europe.svg/30px-Flag_of_Europe.svg.png 2x" width="15"/></a></span> <a href="/wiki/European_Space_Agency" title="European Space Agency">ESA</a></li>
+<li><span class="flagicon"><a href="/wiki/France" title="France"><img alt="France" class="thumbborder" data-file-height="600" data-file-width="900" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/15px-Flag_of_France.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/23px-Flag_of_France.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/c3/Flag_of_France.svg/30px-Flag_of_France.svg.png 2x" width="15"/></a></span> <a href="/wiki/CNES" title="CNES">CNES</a></li>
+<li><span class="flagicon"><a href="/wiki/Germany" title="Germany"><img alt="Germany" class="thumbborder" data-file-height="600" data-file-width="1000" height="9" src="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/15px-Flag_of_Germany.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/23px-Flag_of_Germany.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/b/ba/Flag_of_Germany.svg/30px-Flag_of_Germany.svg.png 2x" width="15"/></a></span> <a href="/wiki/German_Aerospace_Center" title="German Aerospace Center">DLR</a></li>
+<li><span class="flagicon"><a href="/wiki/India" title="India"><img alt="India" class="thumbborder" data-file-height="900" data-file-width="1350" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/15px-Flag_of_India.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/23px-Flag_of_India.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/41/Flag_of_India.svg/30px-Flag_of_India.svg.png 2x" width="15"/></a></span> <a href="/wiki/Indian_Space_Research_Organisation" title="Indian Space Research Organisation">ISRO</a></li>
+<li><span class="flagicon"><a href="/wiki/Indonesia" title="Indonesia"><img alt="Indonesia" class="thumbborder" data-file-height="300" data-file-width="450" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/15px-Flag_of_Indonesia.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/23px-Flag_of_Indonesia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Flag_of_Indonesia.svg/30px-Flag_of_Indonesia.svg.png 2x" width="15"/></a></span> <a href="/wiki/National_Institute_of_Aeronautics_and_Space" title="National Institute of Aeronautics and Space">LAPAN</a></li>
+<li><span class="flagicon"><a href="/wiki/Iran" title="Iran"><img alt="Iran" class="thumbborder" data-file-height="360" data-file-width="630" height="9" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/15px-Flag_of_Iran.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/23px-Flag_of_Iran.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/30px-Flag_of_Iran.svg.png 2x" width="15"/></a></span> <a href="/wiki/Iranian_Space_Agency" title="Iranian Space Agency">ISA</a></li>
+<li><span class="flagicon"><a href="/wiki/Israel" title="Israel"><img alt="Israel" class="thumbborder" data-file-height="480" data-file-width="660" height="11" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/15px-Flag_of_Israel.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/23px-Flag_of_Israel.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Flag_of_Israel.svg/30px-Flag_of_Israel.svg.png 2x" width="15"/></a></span> <a class="mw-redirect" href="/wiki/Israeli_Space_Agency" title="Israeli Space Agency">ISA</a></li>
+<li><span class="flagicon"><a href="/wiki/Italy" title="Italy"><img alt="Italy" class="thumbborder" data-file-height="1000" data-file-width="1500" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/15px-Flag_of_Italy.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/23px-Flag_of_Italy.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/03/Flag_of_Italy.svg/30px-Flag_of_Italy.svg.png 2x" width="15"/></a></span> <a href="/wiki/Italian_Space_Agency" title="Italian Space Agency">ASI</a></li>
+<li><span class="flagicon"><a href="/wiki/Japan" title="Japan"><img alt="Japan" class="thumbborder" data-file-height="600" data-file-width="900" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/15px-Flag_of_Japan.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/23px-Flag_of_Japan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/9e/Flag_of_Japan.svg/30px-Flag_of_Japan.svg.png 2x" width="15"/></a></span> <a href="/wiki/JAXA" title="JAXA">JAXA</a></li>
+<li><span class="flagicon"><a href="/wiki/North_Korea" title="North Korea"><img alt="North Korea" class="thumbborder" data-file-height="800" data-file-width="1600" height="8" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/15px-Flag_of_North_Korea.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/23px-Flag_of_North_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Flag_of_North_Korea.svg/30px-Flag_of_North_Korea.svg.png 2x" width="15"/></a></span> <a href="/wiki/National_Aerospace_Development_Administration" title="National Aerospace Development Administration">NADA</a></li>
+<li><span class="flagicon"><a href="/wiki/South_Korea" title="South Korea"><img alt="South Korea" class="thumbborder" data-file-height="600" data-file-width="900" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/15px-Flag_of_South_Korea.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/23px-Flag_of_South_Korea.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/Flag_of_South_Korea.svg/30px-Flag_of_South_Korea.svg.png 2x" width="15"/></a></span> <a href="/wiki/Korea_Aerospace_Research_Institute" title="Korea Aerospace Research Institute">KARI</a></li>
+<li><span class="flagicon"><a href="/wiki/Pakistan" title="Pakistan"><img alt="Pakistan" class="thumbborder" data-file-height="600" data-file-width="900" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/15px-Flag_of_Pakistan.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/23px-Flag_of_Pakistan.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/32/Flag_of_Pakistan.svg/30px-Flag_of_Pakistan.svg.png 2x" width="15"/></a></span> <a href="/wiki/Space_and_Upper_Atmosphere_Research_Commission" title="Space and Upper Atmosphere Research Commission">SUPARCO</a></li>
+<li><span class="flagicon"><a href="/wiki/Russia" title="Russia"><img alt="Russia" class="thumbborder" data-file-height="600" data-file-width="900" height="10" src="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/15px-Flag_of_Russia.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/23px-Flag_of_Russia.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/f3/Flag_of_Russia.svg/30px-Flag_of_Russia.svg.png 2x" width="15"/></a></span> <a href="/wiki/Roscosmos" title="Roscosmos">Roscosmos</a></li>
+<li><span class="flagicon"><a href="/wiki/Sweden" title="Sweden"><img alt="Sweden" class="thumbborder" data-file-height="1000" data-file-width="1600" height="9" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/15px-Flag_of_Sweden.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/23px-Flag_of_Sweden.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4c/Flag_of_Sweden.svg/30px-Flag_of_Sweden.svg.png 2x" width="15"/></a></span> <a href="/wiki/Swedish_National_Space_Board" title="Swedish National Space Board">SNSB</a></li>
+<li><span class="flagicon"><a href="/wiki/Ukraine" title="Ukraine"><img alt="Ukraine" class="thumbborder" data-file-height="800" data-file-width="1200" height="10" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/15px-Flag_of_Ukraine.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/23px-Flag_of_Ukraine.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Flag_of_Ukraine.svg/30px-Flag_of_Ukraine.svg.png 2x" width="15"/></a></span> <a href="/wiki/State_Space_Agency_of_Ukraine" title="State Space Agency of Ukraine">SSAU</a></li>
+<li><span class="flagicon"><a href="/wiki/United_Kingdom" title="United Kingdom"><img alt="United Kingdom" class="thumbborder" data-file-height="600" data-file-width="1200" height="8" src="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/15px-Flag_of_the_United_Kingdom.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/23px-Flag_of_the_United_Kingdom.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/ae/Flag_of_the_United_Kingdom.svg/30px-Flag_of_the_United_Kingdom.svg.png 2x" width="15"/></a></span> <a href="/wiki/UK_Space_Agency" title="UK Space Agency">UKSA</a></li>
+<li><span class="flagicon"><a href="/wiki/United_States" title="United States"><img alt="United States" class="thumbborder" data-file-height="650" data-file-width="1235" height="8" src="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/15px-Flag_of_the_United_States.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/23px-Flag_of_the_United_States.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/a/a4/Flag_of_the_United_States.svg/30px-Flag_of_the_United_States.svg.png 2x" width="15"/></a></span> <a href="/wiki/NASA" title="NASA">NASA</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="text-align: center;">
+<div>
+<ul>
+<li> <img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <b><a href="/wiki/Category:Spaceflight" title="Category:Spaceflight">Category</a></b></li>
+<li> <img alt="Portal" data-file-height="28" data-file-width="32" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/16px-Portal-puzzle.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/24px-Portal-puzzle.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/f/fd/Portal-puzzle.svg/32px-Portal-puzzle.svg.png 2x" title="Portal" width="16"/> <b><a href="/wiki/Portal:Spaceflight" title="Portal:Spaceflight">Portal</a></b></li>
+<li> <img alt="WikiProject" data-file-height="100" data-file-width="100" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/16px-People_icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/24px-People_icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/People_icon.svg/32px-People_icon.svg.png 2x" title="WikiProject" width="16"/> <b><a href="/wiki/Wikipedia:WikiProject_Spaceflight" title="Wikipedia:WikiProject Spaceflight">WikiProject</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00566013" rel="nofollow">00566013</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1166
+Cached time: 20171002133322
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.436 seconds
+Real time usage: 0.601 seconds
+Preprocessor visited node count: 2335/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 97396/2097152 bytes
+Template argument size: 2439/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 2/500
+Lua time usage: 0.120/10.000 seconds
+Lua memory usage: 3.71 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  405.254      1 -total
+ 36.64%  148.493      5 Template:Navbox
+ 30.93%  125.355      1 Template:Spaceflight
+ 30.17%  122.282      1 Template:Reflist
+ 24.24%   98.242     21 Template:Flagicon
+ 11.17%   45.252      2 Template:Cite_book
+  8.42%   34.134      1 Template:Commons_category
+  8.20%   33.234      1 Template:Use_mdy_dates
+  7.77%   31.481      6 Template:Cite_web
+  5.31%   21.532      1 Template:Space-based_meteorological_observation
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:264727-0!canonical and timestamp 20171002133322 and revision id 796869579
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Weather_satellite&amp;oldid=796869579">https://en.wikipedia.org/w/index.php?title=Weather_satellite&amp;oldid=796869579</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Weather_satellites" title="Category:Weather satellites">Weather satellites</a></li><li><a href="/wiki/Category:American_inventions" title="Category:American inventions">American inventions</a></li><li><a href="/wiki/Category:1959_introductions" title="Category:1959 introductions">1959 introductions</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_Chinese-language_sources_(zh)" title="Category:CS1 Chinese-language sources (zh)">CS1 Chinese-language sources (zh)</a></li><li><a href="/wiki/Category:Use_mdy_dates_from_January_2012" title="Category:Use mdy dates from January 2012">Use mdy dates from January 2012</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Weather+satellite" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Weather+satellite" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Weather_satellite" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Weather_satellite" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Weather_satellite">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Weather_satellite&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Weather_satellite&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Weather_satellite" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Weather_satellite" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Weather_satellite&amp;oldid=796869579" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Weather_satellite&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q209363" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Weather_satellite&amp;id=796869579" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Weather+satellite">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Weather+satellite&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DWeather%2Bsatellite%26returnto%3DWeather%2Bsatellite%26oldid%3D796869579%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Weather_satellite&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Meteorological_satellites" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%82%D9%85%D8%B1_%D8%A7%D9%84%D8%A3%D8%B1%D8%B5%D8%A7%D8%AF_%D8%A7%D9%84%D8%AC%D9%88%D9%8A%D8%A9" hreflang="ar" lang="ar" title="قمر الأرصاد الجوية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Sat%C3%A8l%C2%B7lit_meteorol%C3%B2gic" hreflang="ca" lang="ca" title="Satèl·lit meteorològic – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Meteorologick%C3%A1_dru%C5%BEice" hreflang="cs" lang="cs" title="Meteorologická družice – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Vejrsatellit" hreflang="da" lang="da" title="Vejrsatellit – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Wettersatellit" hreflang="de" lang="de" title="Wettersatellit – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%B5%CF%84%CE%B5%CF%89%CF%81%CE%BF%CE%BB%CE%BF%CE%B3%CE%B9%CE%BA%CF%8C%CF%82_%CE%B4%CE%BF%CF%81%CF%85%CF%86%CF%8C%CF%81%CE%BF%CF%82" hreflang="el" lang="el" title="Μετεωρολογικός δορυφόρος – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Sat%C3%A9lite_meteorol%C3%B3gico" hreflang="es" lang="es" title="Satélite meteorológico – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Vetersatelito" hreflang="eo" lang="eo" title="Vetersatelito – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%A7%D9%87%D9%88%D8%A7%D8%B1%D9%87_%D9%87%D9%88%D8%A7%D8%B4%D9%86%D8%A7%D8%B3%DB%8C" hreflang="fa" lang="fa" title="ماهواره هواشناسی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Satellite_m%C3%A9t%C3%A9orologique" hreflang="fr" lang="fr" title="Satellite météorologique – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Satail%C3%ADt_aimsire" hreflang="ga" lang="ga" title="Satailít aimsire – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B8%B0%EC%83%81_%EC%9C%84%EC%84%B1" hreflang="ko" lang="ko" title="기상 위성 – Korean">한국어</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Satelit_cuaca" hreflang="id" lang="id" title="Satelit cuaca – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Satellite_meteorologico" hreflang="it" lang="it" title="Satellite meteorologico – Italian">Italiano</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Meteorolo%C4%A3iskais_pavadonis" hreflang="lv" lang="lv" title="Meteoroloģiskais pavadonis – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Meteorol%C3%B3giai_m%C5%B1hold" hreflang="hu" lang="hu" title="Meteorológiai műhold – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Satelit_cuaca" hreflang="ms" lang="ms" title="Satelit cuaca – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Weersatelliet" hreflang="nl" lang="nl" title="Weersatelliet – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B0%97%E8%B1%A1%E8%A1%9B%E6%98%9F" hreflang="ja" lang="ja" title="気象衛星 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/V%C3%A6rsatellitt" hreflang="no" lang="no" title="Værsatellitt – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Meteorologisk_satellitt" hreflang="nn" lang="nn" title="Meteorologisk satellitt – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Satelita_meteorologiczny" hreflang="pl" lang="pl" title="Satelita meteorologiczny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Sat%C3%A9lite_meteorol%C3%B3gico" hreflang="pt" lang="pt" title="Satélite meteorológico – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA" hreflang="ru" lang="ru" title="Метеорологический спутник – Russian">Русский</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Meteorologick%C3%A1_dru%C5%BEica" hreflang="sk" lang="sk" title="Meteorologická družica – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%BE%D0%BB%D0%BE%D1%88%D0%BA%D0%B8_%D1%81%D0%B0%D1%82%D0%B5%D0%BB%D0%B8%D1%82" hreflang="sr" lang="sr" title="Метеоролошки сателит – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/S%C3%A4%C3%A4satelliitti" hreflang="fi" lang="fi" title="Sääsatelliitti – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/V%C3%A4dersatellit" hreflang="sv" lang="sv" title="Vädersatellit – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Meteoroloji_uydular%C4%B1" hreflang="tr" lang="tr" title="Meteoroloji uyduları – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%82%D0%B5%D0%BE%D1%80%D0%BE%D0%BB%D0%BE%D0%B3%D1%96%D1%87%D0%BD%D0%B8%D0%B9_%D1%81%D1%83%D0%BF%D1%83%D1%82%D0%BD%D0%B8%D0%BA" hreflang="uk" lang="uk" title="Метеорологічний супутник – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/V%E1%BB%87_tinh_kh%C3%AD_t%C6%B0%E1%BB%A3ng" hreflang="vi" lang="vi" title="Vệ tinh khí tượng – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B0%A3%E8%B1%A1%E8%A1%9B%E6%98%9F" hreflang="zh" lang="zh" title="氣象衛星 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q209363#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 23 August 2017, at 15:14.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Weather_satellite&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.436","walltime":"0.601","ppvisitednodes":{"value":2335,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":97396,"limit":2097152},"templateargumentsize":{"value":2439,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  405.254      1 -total"," 36.64%  148.493      5 Template:Navbox"," 30.93%  125.355      1 Template:Spaceflight"," 30.17%  122.282      1 Template:Reflist"," 24.24%   98.242     21 Template:Flagicon"," 11.17%   45.252      2 Template:Cite_book","  8.42%   34.134      1 Template:Commons_category","  8.20%   33.234      1 Template:Use_mdy_dates","  7.77%   31.481      6 Template:Cite_web","  5.31%   21.532      1 Template:Space-based_meteorological_observation"]},"scribunto":{"limitreport-timeusage":{"value":"0.120","limit":"10.000"},"limitreport-memusage":{"value":3895297,"limit":52428800}},"cachereport":{"origin":"mw1166","timestamp":"20171002133322","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1246"});});</script>
+</body>
+</html>

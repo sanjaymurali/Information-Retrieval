@@ -1,0 +1,363 @@
+https://en.wikipedia.org/wiki/Absolute_angular_momentum
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Absolute angular momentum - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Absolute_angular_momentum","wgTitle":"Absolute angular momentum","wgCurRevisionId":646861539,"wgRevisionId":646861539,"wgArticleId":36989300,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from October 2012","All articles lacking in-text citations","Basic meteorological concepts and phenomena","Rotation"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Absolute_angular_momentum","wgRelevantArticleId":36989300,"wgRequestId":"WcpvogpAMFEAAL7u54sAAAAM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q4669805","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.30.0-wmf.19" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Absolute_angular_momentum" rel="alternate"/>
+<link href="/w/index.php?title=Absolute_angular_momentum&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Absolute_angular_momentum&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Absolute_angular_momentum" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Absolute_angular_momentum rootpage-Absolute_angular_momentum skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Absolute angular momentum</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(October 2012)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>In <a href="/wiki/Meteorology" title="Meteorology">meteorology</a>, <b>absolute angular momentum</b> refers to the <a href="/wiki/Angular_momentum" title="Angular momentum">angular momentum</a> in an 'absolute' <a href="/wiki/Coordinate_system" title="Coordinate system">coordinate system</a> (<a class="mw-redirect" href="/wiki/Absolute_time_and_space" title="Absolute time and space">absolute time and space</a>).</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Introduction"><span class="tocnumber">1</span> <span class="toctext">Introduction</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Definition"><span class="tocnumber">2</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Applications"><span class="tocnumber">3</span> <span class="toctext">Applications</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Introduction">Introduction</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absolute_angular_momentum&amp;action=edit&amp;section=1" title="Edit section: Introduction">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Angular momentum <span class="texhtml"><b>L</b></span> equates with the <a href="/wiki/Cross_product" title="Cross product">cross product</a> of the <a href="/wiki/Position_(vector)" title="Position (vector)">position (vector)</a> <span class="texhtml"><b>r</b></span> of a particle (or <a href="/wiki/Fluid_parcel" title="Fluid parcel">fluid parcel</a>) and its absolute linear <a href="/wiki/Momentum" title="Momentum">momentum</a> <span class="texhtml"><b>p</b></span>, equal to <span class="texhtml"><var>m</var><b>v</b></span>, the product of mass and velocity. Mathematically,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">L</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>×<!-- × --></mo>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">v</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {L} =\mathbf {r} \times m\mathbf {v} }</annotation>
+</semantics>
+</math></span><img alt="{\mathbf  {L}}={\mathbf  {r}}\times m{\mathbf  {v}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/599d92fa9fdc5a6e1b1401e79c198e350aea3835" style="vertical-align: -0.338ex; width:12.163ex; height:2.176ex;"/></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absolute_angular_momentum&amp;action=edit&amp;section=2" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Absolute angular momentum sums the angular momentum of a particle or fluid parcel in a relative coordinate system and the angular momentum of that relative coordinate system.</p>
+<p>Meteorologists typically express the three vector components of velocity <span class="texhtml"><b>v</b> = (<var>u</var>, <var>v</var>, <var>w</var>)</span> (eastward, northward, and upward). The magnitude of the absolute angular momentum <span class="texhtml"><b>L</b></span> per unit mass <span class="texhtml"><var>m</var></span></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>|</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">L</mi>
+</mrow>
+<mi>m</mi>
+</mfrac>
+</mrow>
+<mo>|</mo>
+</mrow>
+<mo>=</mo>
+<mi>M</mi>
+<mo>=</mo>
+<mi>u</mi>
+<mi>r</mi>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi mathvariant="normal">Ω<!-- Ω --></mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>cos</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left|{\frac {\mathbf {L} }{m}}\right|=M=ur\cos(\phi )+\Omega r^{2}\cos ^{2}(\phi )}</annotation>
+</semantics>
+</math></span><img alt="\left|{\frac  {{\mathbf  {L}}}{m}}\right|=M=ur\cos(\phi )+\Omega r^{2}\cos ^{2}(\phi )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a02cb892b6b8e2c625ee3200f383da64b5b00bee" style="vertical-align: -2.338ex; width:36.504ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><span class="texhtml"><var>M</var></span> represents absolute angular momentum per unit mass of the fluid parcel (in <span class="texhtml"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">m<sup>2</sup></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span>),</li>
+<li><span class="texhtml"><var>r</var></span> represents distance from the center of the earth to the fluid parcel (in <span class="texhtml">m</span>),</li>
+<li><span class="texhtml"><var>u</var></span> represents earth-relative eastward component of velocity of the fluid parcel (in <span class="texhtml"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">m</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span>),</li>
+<li><span class="texhtml"><var>φ</var></span> represents <a href="/wiki/Latitude" title="Latitude">latitude</a> (in <span class="texhtml">rad</span>), and</li>
+<li><span class="texhtml"><var>Ω</var></span> represents angular rate of <a href="/wiki/Earth%27s_rotation" title="Earth's rotation">Earth's rotation</a> (in <span class="texhtml"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">rad</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span> , usually <span class="texhtml"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">2 π <a href="/wiki/Radian" title="Radian">rad</a></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">1 <a class="mw-redirect" href="/wiki/Sidereal_day" title="Sidereal day">sidereal day</a></span></span> ≈ 72.921150 × 10<sup>−6</sup> <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">rad</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span> ).</li>
+</ul>
+<p>The first term represents the angular momentum of the parcel with respect to the surface of the earth, which depends strongly on weather. The second term represents the angular momentum of the earth itself at a particular latitude (essentially constant at least on non-geological timescales).</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absolute_angular_momentum&amp;action=edit&amp;section=3" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In the shallow <a href="/wiki/Troposphere" title="Troposphere">troposphere</a> of the earth, one can approximate <span class="texhtml"><var>r</var>≈<var>a</var></span>, the distance between the fluid parcel and the center of the earth approximately equal to the mean <a href="/wiki/Earth_radius" title="Earth radius">Earth radius</a>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+<mo>≈<!-- ≈ --></mo>
+<mi>u</mi>
+<mi>a</mi>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">)</mo>
+<mo>+</mo>
+<mi mathvariant="normal">Ω<!-- Ω --></mi>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mi>cos</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>⁡<!-- ⁡ --></mo>
+<mo stretchy="false">(</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M\approx ua\cos(\phi )+\Omega a^{2}\cos ^{2}(\phi )}</annotation>
+</semantics>
+</math></span><img alt="M\approx ua\cos(\phi )+\Omega a^{2}\cos ^{2}(\phi )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66c1ea93430060ef2ded1f2f773a8adebffc9066" style="vertical-align: -0.838ex; width:29.556ex; height:3.176ex;"/></span></dd>
+</dl>
+<p>where</p>
+<ul>
+<li><span class="texhtml"><var>a</var></span> represents <a href="/wiki/Earth_radius" title="Earth radius">Earth radius</a> (in <span class="texhtml">m</span>, usually <span class="texhtml">6.371009 Mm</span>)</li>
+<li><span class="texhtml"><var>M</var></span> represents absolute angular momentum per unit mass of the fluid parcel (in <span class="texhtml"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">m<sup>2</sup></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span>),</li>
+<li><span class="texhtml"><var>u</var></span> represents earth-relative eastward component of velocity of the fluid parcel (in <span class="texhtml"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">m</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span>),</li>
+<li><span class="texhtml"><var>φ</var></span> represents <a href="/wiki/Latitude" title="Latitude">latitude</a> (in <span class="texhtml">rad</span>), and</li>
+<li><span class="texhtml"><var>Ω</var></span> represents angular rate of <a href="/wiki/Earth%27s_rotation" title="Earth's rotation">Earth's rotation</a> (in <span class="texhtml"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">rad</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span> , usually <span class="texhtml"><span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">2 π <a href="/wiki/Radian" title="Radian">rad</a></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">1 <a class="mw-redirect" href="/wiki/Sidereal_day" title="Sidereal day">sidereal day</a></span></span> ≈ 72.921150 × 10<sup>−6</sup> <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">rad</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span> ).</li>
+</ul>
+<p>At the North Pole and South Pole (latitude <span class="texhtml"><var>φ</var>=±90°=<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">π</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2</span></span>rad</span>), no absolute angular momentum can exist (<span class="texhtml"><var>M</var>=0 <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">m<sup>2</sup></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span> because <span class="texhtml">cos(±90°)=0</span>). If a fluid parcel with no eastward wind speed (<span class="texhtml"><var>u<sub>0</sub></var>=0<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">m</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span></span>) originating at the equator (<span class="texhtml"><var>φ</var>=0 rad</span> so <span class="texhtml">cos(<var>φ</var>)= cos(0 rad) = 1</span>) conserves its angular momentum (<span class="texhtml"><var>M</var><sub>0</sub> =<var>M</var></span>) as it moves poleward, then its eastward wind speed increases dramatically: <span class="texhtml"><var>u<sub>0</sub></var> <var>a</var> cos(<var>φ<sub>0</sub></var>) + <var>Ω</var> <var>a</var><sup>2</sup> cos<sup>2</sup>(<var>φ<sub>0</sub></var>) = <var>u</var> <var>a</var> cos(<var>φ</var>) + <var>Ω</var> <var>a</var><sup>2</sup> cos<sup>2</sup>(<var>φ</var>)</span>. After those substitutions, <span class="texhtml"><var>Ω</var> <var>a</var><sup>2</sup> = <var>u</var> <var>a</var> cos(<var>φ</var>) + <var>Ω</var> <var>a</var><sup>2</sup> cos<sup>2</sup>(<var>φ</var>)</span>, or after further simplification, <span class="texhtml"><var>Ω</var> <var>a</var>(1-cos<sup>2</sup>(<var>φ</var>)) = <var>u</var> cos(<var>φ</var>)</span>. Solution for <span class="texhtml"><var>u</var></span> gives <span class="texhtml"><var>Ω</var> <var>a</var>(<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">cos(<var>φ</var>)</span></span> - cos(<var>φ</var>)) = <var>u</var></span>. If <span class="texhtml"><var>φ</var> = 15°</span> (<span class="texhtml">cos(<var>φ</var>)=<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1+<span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">3</span></span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2<span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">2</span></span></span></span></span>), then <span class="texhtml">72.921150 × 10<sup>−6</sup> <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">rad</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span> × 6.371009 Mm ×(<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">2<span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">2</span></span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">1+<span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">3</span></span></span></span> - <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">1+<span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">3</span></span></span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">2<span class="nowrap">√<span style="border-top:1px solid; padding:0 0.1em;">2</span></span></span></span>) ≈ 32.2<span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">m</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">s</span></span> ≈ <var>u</var></span>.</p>
+<p>The <a href="/wiki/Zonal_and_meridional" title="Zonal and meridional">zonal</a> <a href="/wiki/Pressure_gradient" title="Pressure gradient">pressure gradient</a> and <a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">eddy</a> <a href="/wiki/Stress_(mechanics)" title="Stress (mechanics)">stresses</a> cause <a href="/wiki/Torque" title="Torque">torque</a> that changes the absolute angular momentum of fluid parcels.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Absolute_angular_momentum&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><cite class="citation" id="CITEREFHoltonHakim2012">Holton, James R.; Hakim, Gregory J. (2012), <i>An introduction to dynamic meteorology</i>, 5, Waltham, Massachusetts: <a href="/wiki/Academic_Press" title="Academic Press">Academic Press</a>, pp. 342–343, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-12-384866-6" title="Special:BookSources/978-0-12-384866-6">978-0-12-384866-6</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAbsolute+angular+momentum&amp;rft.au=Hakim%2C+Gregory+J.&amp;rft.aufirst=James+R.&amp;rft.aulast=Holton&amp;rft.btitle=An+introduction+to+dynamic+meteorology&amp;rft.date=2012&amp;rft.genre=book&amp;rft.isbn=978-0-12-384866-6&amp;rft.pages=342-343&amp;rft.place=Waltham%2C+Massachusetts&amp;rft.pub=Academic+Press&amp;rft.series=5&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></p>
+<!-- 
+NewPP limit report
+Parsed by mw1246
+Cached time: 20170926151754
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.104 seconds
+Real time usage: 0.188 seconds
+Preprocessor visited node count: 1326/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30972/2097152 bytes
+Template argument size: 9363/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 1/500
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 1.95 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  106.381      1 -total
+ 42.41%   45.114      1 Template:More_footnotes
+ 29.23%   31.093      1 Template:Citation
+ 26.65%   28.351      1 Template:Ambox
+ 26.13%   27.798     46 Template:Math
+ 18.56%   19.744     19 Template:Sfrac
+  1.27%    1.349      1 Template:Main_other
+  1.09%    1.156      6 Template:Sqrt
+  0.92%    0.980     16 Template:=
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:36989300-0!canonical!math=5 and timestamp 20170926151754 and revision id 646861539
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Absolute_angular_momentum&amp;oldid=646861539">https://en.wikipedia.org/w/index.php?title=Absolute_angular_momentum&amp;oldid=646861539</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Basic_meteorological_concepts_and_phenomena" title="Category:Basic meteorological concepts and phenomena">Basic meteorological concepts and phenomena</a></li><li><a href="/wiki/Category:Rotation" title="Category:Rotation">Rotation</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_October_2012" title="Category:Articles lacking in-text citations from October 2012">Articles lacking in-text citations from October 2012</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Absolute+angular+momentum" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Absolute+angular+momentum" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Absolute_angular_momentum" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Absolute_angular_momentum" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Absolute_angular_momentum">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Absolute_angular_momentum&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Absolute_angular_momentum&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Absolute_angular_momentum" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Absolute_angular_momentum" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Absolute_angular_momentum&amp;oldid=646861539" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Absolute_angular_momentum&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4669805" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Absolute_angular_momentum&amp;id=646861539" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Absolute+angular+momentum">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Absolute+angular+momentum&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAbsolute%2Bangular%2Bmomentum%26returnto%3DAbsolute%2Bangular%2Bmomentum%26oldid%3D646861539%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Absolute_angular_momentum&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B2%D8%AE%D9%85_%D8%B2%D8%A7%D9%88%D9%8A_%D9%85%D8%B7%D9%84%D9%82" hreflang="ar" lang="ar" title="زخم زاوي مطلق – Arabic">العربية</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q4669805#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 12 February 2015, at 22:42.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Absolute_angular_momentum&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.104","walltime":"0.188","ppvisitednodes":{"value":1326,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30972,"limit":2097152},"templateargumentsize":{"value":9363,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  106.381      1 -total"," 42.41%   45.114      1 Template:More_footnotes"," 29.23%   31.093      1 Template:Citation"," 26.65%   28.351      1 Template:Ambox"," 26.13%   27.798     46 Template:Math"," 18.56%   19.744     19 Template:Sfrac","  1.27%    1.349      1 Template:Main_other","  1.09%    1.156      6 Template:Sqrt","  0.92%    0.980     16 Template:="]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":2042754,"limit":52428800}},"cachereport":{"origin":"mw1246","timestamp":"20170926151754","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":256,"wgHostname":"mw1246"});});</script>
+</body>
+</html>

@@ -1,0 +1,863 @@
+https://en.wikipedia.org/wiki/Orbital_period
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Orbital period - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orbital_period","wgTitle":"Orbital period","wgCurRevisionId":800951674,"wgRevisionId":800951674,"wgArticleId":143696,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from January 2017","All articles needing additional references","All articles with unsourced statements","Articles with unsourced statements from November 2016","Articles with unsourced statements from March 2016","Articles with unsourced statements from November 2011","Articles with unsourced statements from August 2016","Articles with unsourced statements from January 2011","Articles with unsourced statements from December 2013","Time in astronomy","Orbits"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Orbital_period","wgRelevantArticleId":143696,"wgRequestId":"WdU1XQpAICsAAH3OAIoAAAAE","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q37640","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Orbital_period" rel="alternate"/>
+<link href="/w/index.php?title=Orbital_period&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Orbital_period&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Orbital_period" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Orbital_period rootpage-Orbital_period vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Orbital period</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For the music album, see <a href="/wiki/Orbital_Period_(album)" title="Orbital Period (album)">Orbital Period (album)</a>.</div>
+<table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Orbital_period&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(January 2017)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>The <b>orbital period</b> is the time a given <a href="/wiki/Astronomical_object" title="Astronomical object">astronomical object</a> takes to complete one <a href="/wiki/Orbit" title="Orbit">orbit</a> around another object, and applies in <a href="/wiki/Astronomy" title="Astronomy">astronomy</a> usually to <a href="/wiki/Planet" title="Planet">planets</a> or <a href="/wiki/Asteroid" title="Asteroid">asteroids</a> orbiting the <a href="/wiki/Sun" title="Sun">Sun</a>, <a class="mw-redirect" href="/wiki/Moons" title="Moons">moons</a> orbiting planets, <a class="mw-redirect" href="/wiki/Exoplanets" title="Exoplanets">exoplanets</a> orbiting other <a href="/wiki/Star" title="Star">stars</a>, or <a href="/wiki/Binary_star" title="Binary star">binary stars</a>.</p>
+<p>For objects in the <a href="/wiki/Solar_System" title="Solar System">Solar System</a>, this is often referred to as the <b>sidereal period</b>, determined by a 360° revolution of one celestial body around another, e.g. the Earth orbiting the Sun. The name <i>sidereal</i> is added as it implies that the object returns to the same position relative to the <a href="/wiki/Fixed_stars" title="Fixed stars">fixed stars</a> <a href="/wiki/Celestial_sphere" title="Celestial sphere">projected in the sky</a>. When describing orbits of binary stars, the orbital period is usually referred to as just the <b>period</b>. For example, <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a> has a sidereal period of 11.86 years while the main binary star <a href="/wiki/Alpha_Centauri" title="Alpha Centauri">Alpha Centauri</a> AB has a period of about 79.91 years.</p>
+<p>Another important orbital period definition can refer to the repeated cycles for celestial bodies as observed from the Earth's surface. An example is the so-called <b>synodic period</b>, applying to the elapsed time where planets return to the same kind of phenomena or location. For example, when any planet returns between its consecutive observed <a href="/wiki/Conjunction_(astronomy)" title="Conjunction (astronomy)">conjunctions</a> with or <a class="mw-redirect" href="/wiki/Opposition_(astronomy)" title="Opposition (astronomy)">oppositions</a> to the Sun. For example, <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a> has a synodic period of 398.8 days from Earth; thus, Jupiter's opposition occurs once roughly every 13 months.</p>
+<p>Periods in astronomy are conveniently expressed in various units of time, often in hours, days, or years. They can be also defined under different specific astronomical definitions that are mostly caused by small complex eternal gravitational influences by other celestial objects. Such variations also include the true placement of the centre of gravity between two astronomical bodies (<a href="/wiki/Barycenter" title="Barycenter">barycenter</a>), <a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">perturbations</a> by other planets or bodies, <a href="/wiki/Orbital_resonance" title="Orbital resonance">orbital resonance</a>, <a href="/wiki/General_relativity" title="General relativity">general relativity</a>, etc. Most are investigated by detailed complex astronomical theories using <a href="/wiki/Celestial_mechanics" title="Celestial mechanics">celestial mechanics</a> using precise positional observations of celestial objects via <a href="/wiki/Astrometry" title="Astrometry">astrometry</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Other_periods_related_to_the_orbital_period"><span class="tocnumber">1</span> <span class="toctext">Other periods related to the orbital period</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Small_body_orbiting_a_central_body"><span class="tocnumber">2</span> <span class="toctext">Small body orbiting a central body</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Orbital_period_as_a_function_of_central_body.27s_density"><span class="tocnumber">3</span> <span class="toctext">Orbital period as a function of central body's density</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Two_bodies_orbiting_each_other"><span class="tocnumber">4</span> <span class="toctext">Two bodies orbiting each other</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Synodic_period"><span class="tocnumber">5</span> <span class="toctext">Synodic period</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Examples_of_sidereal_and_synodic_periods"><span class="tocnumber">6</span> <span class="toctext">Examples of sidereal and synodic periods</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Binary_stars"><span class="tocnumber">7</span> <span class="toctext">Binary stars</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">8</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">9</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">10</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Other_periods_related_to_the_orbital_period">Other periods related to the orbital period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=1" title="Edit section: Other periods related to the orbital period">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are many <a href="/wiki/Periodic_function" title="Periodic function">periods</a> related to the orbits of objects, each of which are often used in the various fields of <a href="/wiki/Astronomy" title="Astronomy">astronomy</a> and <a href="/wiki/Astrophysics" title="Astrophysics">astrophysics</a>. Examples of some of the common ones include :</p>
+<ul>
+<li>The <b>sidereal period</b> is the amount of time that it takes an object to make a full orbit, relative to the <a href="/wiki/Star" title="Star">stars</a>. This is the orbital period in an inertial (non-rotating) <a href="/wiki/Frame_of_reference" title="Frame of reference">frame of reference</a>.</li>
+<li>The <b>synodic period</b> is the amount of time that it takes for an object to reappear at the same point in relation to two or more other objects (e.g. the <a href="/wiki/Moon" title="Moon">Moon</a>'s phase and its position relative to the <a href="/wiki/Sun" title="Sun">Sun</a> and <a href="/wiki/Earth" title="Earth">Earth</a> repeats every 29.5 day synodic period, longer than its 27.3 day orbit around the Earth, due to the motion of the Earth about the Sun). The time between two successive <a class="mw-redirect" href="/wiki/Opposition_(astronomy)" title="Opposition (astronomy)">oppositions</a> or <a href="/wiki/Conjunction_(astronomy)" title="Conjunction (astronomy)">conjunctions</a> is also an example of the synodic period. For the planets in the solar system, the synodic period (with respect to Earth) differs from the sidereal period due to the Earth's orbiting around the Sun.</li>
+<li>The <b>draconitic period</b>, or <b>draconic period</b>, is the time that elapses between two passages of the object through its <a href="/wiki/Orbital_node" title="Orbital node">ascending node</a>, the point of its orbit where it crosses the <a href="/wiki/Ecliptic" title="Ecliptic">ecliptic</a> from the southern to the northern hemisphere. This period differs from the sidereal period because both the orbital plane of the object and the plane of the ecliptic precess with respect to the fixed stars, so their intersection, the <a class="mw-redirect" href="/wiki/Line_of_nodes" title="Line of nodes">line of nodes</a>, also precesses with respect to the fixed stars. Although the plane of the ecliptic is often held fixed at the position it occupied at a specific <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">epoch</a>, the orbital plane of the object still precesses causing the draconitic period to differ from the sidereal period.</li>
+<li>The <b>anomalistic period</b> is the time that elapses between two passages of an object at its <a class="mw-redirect" href="/wiki/Periapsis" title="Periapsis">periapsis</a> (in the case of the planets in the <a class="mw-redirect" href="/wiki/Solar_system" title="Solar system">solar system</a>, called the <a class="mw-redirect" href="/wiki/Perihelion" title="Perihelion">perihelion</a>), the point of its closest approach to the attracting body. It differs from the sidereal period because the object's <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">semi-major axis</a> typically advances slowly.</li>
+<li>Also, the Earth's <b>tropical period</b> (or simply its "year") is the time that elapses between two alignments of its axis of rotation with the Sun, also viewed as two passages of the object at <a href="/wiki/Right_ascension" title="Right ascension">right ascension</a> zero. One Earth year has a slightly shorter interval than the solar orbit (sidereal period) because the inclined axis and equatorial plane slowly <a href="/wiki/Precession" title="Precession">precess</a> (rotate with respect to the stars), realigning with the Sun before the orbit completes. The Earth's precession cycle completes in about 25,770 years.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>]</sup></li>
+</ul>
+<h2><span class="mw-headline" id="Small_body_orbiting_a_central_body">Small body orbiting a central body</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=2" title="Edit section: Small body orbiting a central body">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:262px;"><a class="image" href="/wiki/File:Ellipse_semi-major_and_minor_axes.svg"><img alt="" class="thumbimage" data-file-height="440" data-file-width="720" height="159" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ellipse_semi-major_and_minor_axes.svg/260px-Ellipse_semi-major_and_minor_axes.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ellipse_semi-major_and_minor_axes.svg/390px-Ellipse_semi-major_and_minor_axes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Ellipse_semi-major_and_minor_axes.svg/520px-Ellipse_semi-major_and_minor_axes.svg.png 2x" width="260"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Ellipse_semi-major_and_minor_axes.svg" title="Enlarge"></a></div>
+The semi-major axis (<i>a</i>) and semi-minor axis (<i>b</i>) of an ellipse</div>
+</div>
+</div>
+<p>According to <a href="/wiki/Kepler%27s_laws_of_planetary_motion" title="Kepler's laws of planetary motion">Kepler's Third Law</a>, the <b>orbital period</b> <i>T</i> (in seconds) of two bodies orbiting each other in a circular or <a href="/wiki/Elliptic_orbit" title="Elliptic orbit">elliptic orbit</a> is:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2016)">citation needed</span></a></i>]</sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mi>μ<!-- μ --></mi>
+</mfrac>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=2\pi {\sqrt {\frac {a^{3}}{\mu }}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T=2\pi {\sqrt {\frac {a^{3}}{\mu }}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/84a962a4e5da8183f6a38ef23d0a5a9452667148" style="vertical-align: -3.171ex; width:12.743ex; height:7.676ex;"/></span></dd>
+</dl>
+<p>where:</p>
+<ul>
+<li><i>a</i> is the orbit's <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">semi-major axis</a> in meters</li>
+<li><i>μ</i> = <i>GM</i> is the <a href="/wiki/Standard_gravitational_parameter" title="Standard gravitational parameter">standard gravitational parameter</a> in m<sup>3</sup>/s<sup>2</sup>
+<ul>
+<li><i>G</i> is the <a href="/wiki/Gravitational_constant" title="Gravitational constant">gravitational constant</a>,</li>
+<li><i>M</i> is the mass of the more massive body.</li>
+</ul>
+</li>
+</ul>
+<p>For all ellipses with a given semi-major axis the orbital period is the same, regardless of eccentricity.</p>
+<p>Inversely, for calculating the distance where a body has to orbit in order to pulse a given orbital period:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mroot>
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mrow>
+<mn>4</mn>
+<msup>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</mroot>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a={\sqrt[{3}]{\frac {GMT^{2}}{4\pi ^{2}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle a={\sqrt[{3}]{\frac {GMT^{2}}{4\pi ^{2}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/acc0794d19344d83b82ba93518c68a0fccd0b31b" style="vertical-align: -3.005ex; width:14.601ex; height:7.509ex;"/></span></dd>
+</dl>
+<p>where:</p>
+<ul>
+<li><i>a</i> is the orbit's semi-major axis in meters,</li>
+<li><i>G</i> is the gravitational constant,</li>
+<li><i>M</i> is the mass of the more massive body,</li>
+<li><i>T</i> is the orbital period in seconds.</li>
+</ul>
+<p>For instance, for completing an orbit every 24 <a href="/wiki/Hour" title="Hour">hours</a> around a mass of 100 <a class="mw-redirect" href="/wiki/Kg" title="Kg">kg</a>, a small body has to orbit at a distance of 1.08 <a href="/wiki/Metre" title="Metre">meters</a> from its <a href="/wiki/Center_of_mass" title="Center of mass">center of mass</a>.</p>
+<h2><span class="mw-headline" id="Orbital_period_as_a_function_of_central_body.27s_density">Orbital period as a function of central body's density</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=3" title="Edit section: Orbital period as a function of central body's density">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>When a very small body is in a circular orbit barely above the surface of a sphere of any radius and mean density <i>ρ</i> (in kg/m<sup>3</sup>), the above equation simplifies to (since <i>M</i> = <i>Vρ</i> = <span class="sfrac nowrap" style="display:inline-block; vertical-align:-0.5em; font-size:85%; text-align:center;"><span style="display:block; line-height:1em; margin:0 0.1em;">4</span><span class="visualhide">/</span><span style="display:block; line-height:1em; margin:0 0.1em; border-top:1px solid;">3</span></span><span class="texhtml">π</span><i>a</i><sup>3</sup><i>ρ</i>)<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup>&gt;:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<mrow>
+<mn>3</mn>
+<mi>π<!-- π --></mi>
+</mrow>
+<mrow>
+<mi>G</mi>
+<mi>ρ<!-- ρ --></mi>
+</mrow>
+</mfrac>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T={\sqrt {\frac {3\pi }{G\rho }}}}</annotation>
+</semantics>
+</math></span><img alt="T = \sqrt{ \frac {3\pi}{G \rho} }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a4c7405ba72eb2b78be6b40722c5698e51163423" style="vertical-align: -3.338ex; width:10.976ex; height:7.676ex;"/></span></dd>
+</dl>
+<p>So, for the Earth as the central body (or any other spherically symmetric body with the same mean density, about 5,515 kg/m<sup>3</sup>)<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> we get:</p>
+<dl>
+<dd><i>T</i> = 1.41 hours</dd>
+</dl>
+<p>and for a body made of water (<i>ρ</i> ≈ 1,000 kg/m<sup>3</sup>)<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<dl>
+<dd><i>T</i> = 3.30 hours</dd>
+</dl>
+<p>Thus, as an alternative for using a very small number like <i>G</i>, the strength of universal gravity can be described using some reference material, like water: the orbital period for an orbit just above the surface of a spherical body of water is 3 hours and 18 minutes. Conversely, this can be used as a kind of "universal" <a href="/wiki/Time_standard" title="Time standard">unit of time</a> if we have a unit of mass, a unit of length and a unit of density.</p>
+<h2><span class="mw-headline" id="Two_bodies_orbiting_each_other">Two bodies orbiting each other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=4" title="Edit section: Two bodies orbiting each other">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In <a href="/wiki/Celestial_mechanics" title="Celestial mechanics">celestial mechanics</a>, when both orbiting bodies' masses have to be taken into account, the <b>orbital period</b> <i>T</i> can be calculated as follows:<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mo>=</mo>
+<mn>2</mn>
+<mi>π<!-- π --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mfrac>
+<msup>
+<mi>a</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mrow>
+<mi>G</mi>
+<mrow>
+<mo>(</mo>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>M</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>)</mo>
+</mrow>
+</mrow>
+</mfrac>
+</msqrt>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T=2\pi {\sqrt {\frac {a^{3}}{G\left(M_{1}+M_{2}\right)}}}}</annotation>
+</semantics>
+</math></span><img alt="T= 2\pi\sqrt{\frac{a^3}{G \left(M_1 + M_2\right)}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3e3b818e77117af84080cc6130389c9908f2fde8" style="vertical-align: -3.338ex; width:23.999ex; height:7.676ex;"/></span></dd>
+</dl>
+<p>where:</p>
+<ul>
+<li><i>a</i> is the sum of the <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">semi-major axes</a> of the ellipses in which the centers of the bodies move, or equivalently, the semi-major axis of the ellipse in which one body moves, in the frame of reference with the other body at the origin (which is equal to their constant separation for circular orbits),</li>
+<li><i>M</i><sub>1</sub> + <i>M</i><sub>2</sub> is the sum of the masses of the two bodies,</li>
+<li><i>G</i> is the <a href="/wiki/Gravitational_constant" title="Gravitational constant">gravitational constant</a>.</li>
+</ul>
+<p>Note that the orbital period is independent of size: for a scale model it would be the same, when densities are the same (see also <a href="/wiki/Orbit#Scaling_in_gravity" title="Orbit">Orbit#Scaling in gravity</a>).<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2011)">citation needed</span></a></i>]</sup></p>
+<p>In a parabolic or hyperbolic trajectory, the motion is not periodic, and the duration of the full trajectory is infinite.</p>
+<h2><span class="mw-headline" id="Synodic_period">Synodic period</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=5" title="Edit section: Synodic period">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are observable characteristics of two bodies which orbit a third body in different orbits, and thus have different orbital periods. This is known as their <b>synodic period</b>; it is the time between <a href="/wiki/Conjunction_(astronomy)" title="Conjunction (astronomy)">conjunctions</a>, and since it is observable from either the first or the second body, the two synodic periods will be different, depending from which celestial body you are observing.</p>
+<p>An example of this related period description is the repeated cycles for celestial bodies as observed from the Earth's surface, the so-called <b>synodic period</b>, applying to the elapsed time where planets return to the same kind of phenomena or location. For example, when any planet returns between its consecutive observed <a href="/wiki/Conjunction_(astronomy)" title="Conjunction (astronomy)">conjunctions</a> with or <a class="mw-redirect" href="/wiki/Opposition_(astronomy)" title="Opposition (astronomy)">oppositions</a> to the Sun. For example, <a href="/wiki/Jupiter" title="Jupiter">Jupiter</a> has a synodic period of 398.8 days from Earth; thus, Jupiter's opposition occurs once roughly every 13 months.</p>
+<p>If the orbital periods of the two bodies around the third are called <i>P</i><sub>1</sub> and <i>P</i><sub>2</sub>, so that <i>P</i><sub>1</sub> &lt; <i>P</i><sub>2</sub>, their synodic period is given by:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (August 2016)">citation needed</span></a></i>]</sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">s</mi>
+<mi mathvariant="normal">y</mi>
+<mi mathvariant="normal">n</mi>
+</mrow>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {1}{P_{\mathrm {syn} }}}={\frac {1}{P_{1}}}-{\frac {1}{P_{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {1}{P_{\mathrm {syn} }}}={\frac {1}{P_{1}}}-{\frac {1}{P_{2}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7fa80c268da21d9a653892e6d135865ef7b7f6ad" style="vertical-align: -2.671ex; width:17.784ex; height:6.009ex;"/></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Examples_of_sidereal_and_synodic_periods">Examples of sidereal and synodic periods</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=6" title="Edit section: Examples of sidereal and synodic periods">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Table of synodic periods in the Solar System, relative to Earth:<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2011)">citation needed</span></a></i>]</sup></p>
+<table class="wikitable sortable">
+<tr>
+<th>Object</th>
+<th>Sidereal period (<a href="/wiki/Julian_year_(astronomy)" title="Julian year (astronomy)">yr</a>)</th>
+<th>Synodic period (<abbr title="year">yr</abbr>)</th>
+<th>Synodic period (<abbr title="day">d</abbr>)<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></th>
+</tr>
+<tr>
+<td><a href="/wiki/Mercury_(planet)" title="Mercury (planet)">Mercury</a></td>
+<td>0.240846 (87.9691 days)</td>
+<td>0.317</td>
+<td>115.88</td>
+</tr>
+<tr>
+<td><a href="/wiki/Venus" title="Venus">Venus</a></td>
+<td>0.615 (225 days)</td>
+<td>1.599</td>
+<td>583.9</td>
+</tr>
+<tr>
+<td><a href="/wiki/Earth" title="Earth">Earth</a></td>
+<td><b>1</b> (365.25636 <a class="mw-redirect" href="/wiki/Solar_day" title="Solar day">solar days</a>)</td>
+<td>—</td>
+<td>—</td>
+</tr>
+<tr>
+<td><a href="/wiki/Moon" title="Moon">Moon</a></td>
+<td>0.0748 (27.32 days)</td>
+<td>0.0809</td>
+<td>29.5306</td>
+</tr>
+<tr>
+<td><a href="/wiki/99942_Apophis" title="99942 Apophis">99942 Apophis</a> (<a class="mw-redirect" href="/wiki/Near-Earth_asteroid" title="Near-Earth asteroid">near-Earth asteroid</a>)</td>
+<td>0.886</td>
+<td>7.769</td>
+<td>2,837.6</td>
+</tr>
+<tr>
+<td><a href="/wiki/Mars" title="Mars">Mars</a></td>
+<td>1.881</td>
+<td>2.135</td>
+<td>779.9</td>
+</tr>
+<tr>
+<td><a href="/wiki/4_Vesta" title="4 Vesta">4 Vesta</a></td>
+<td>3.629</td>
+<td>1.380</td>
+<td>504.0</td>
+</tr>
+<tr>
+<td><a href="/wiki/Ceres_(dwarf_planet)" title="Ceres (dwarf planet)">1 Ceres</a></td>
+<td>4.600</td>
+<td>1.278</td>
+<td>466.7</td>
+</tr>
+<tr>
+<td><a href="/wiki/10_Hygiea" title="10 Hygiea">10 Hygiea</a></td>
+<td>5.557</td>
+<td>1.219</td>
+<td>445.4</td>
+</tr>
+<tr>
+<td><a href="/wiki/Jupiter" title="Jupiter">Jupiter</a></td>
+<td>11.86</td>
+<td>1.092</td>
+<td>398.9</td>
+</tr>
+<tr>
+<td><a href="/wiki/Saturn" title="Saturn">Saturn</a></td>
+<td>29.46</td>
+<td>1.035</td>
+<td>378.1</td>
+</tr>
+<tr>
+<td><a href="/wiki/Uranus" title="Uranus">Uranus</a></td>
+<td>84.01</td>
+<td>1.012</td>
+<td>369.7</td>
+</tr>
+<tr>
+<td><a href="/wiki/Neptune" title="Neptune">Neptune</a></td>
+<td>164.8</td>
+<td>1.006</td>
+<td>367.5</td>
+</tr>
+<tr>
+<td><a href="/wiki/Pluto" title="Pluto">134340 Pluto</a></td>
+<td>248.1</td>
+<td>1.004</td>
+<td>366.7</td>
+</tr>
+<tr>
+<td><a href="/wiki/Eris_(dwarf_planet)" title="Eris (dwarf planet)">136199 Eris</a></td>
+<td>557</td>
+<td>1.002</td>
+<td>365.9</td>
+</tr>
+<tr>
+<td><a href="/wiki/90377_Sedna" title="90377 Sedna">90377 Sedna</a></td>
+<td>12050</td>
+<td>1.00001</td>
+<td>365.1<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (December 2013)">citation needed</span></a></i>]</sup></td>
+</tr>
+</table>
+<p>In the case of a planet's <a href="/wiki/Natural_satellite" title="Natural satellite">moon</a>, the synodic period usually means the Sun-synodic period, namely, the time it takes the moon to complete its illumination phases, completing the solar phases for an astronomer on the planet's surface. The Earth's motion does not determine this value for other planets because an Earth observer is not orbited by the moons in question. For example, <a href="/wiki/Deimos_(moon)" title="Deimos (moon)">Deimos</a>'s synodic period is 1.2648 days, 0.18% longer than Deimos's sidereal period of 1.2624 d.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2011)">citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Binary_stars">Binary stars</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=7" title="Edit section: Binary stars">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="wikitable">
+<tr>
+<th><a href="/wiki/Binary_star" title="Binary star">Binary star</a></th>
+<th>Orbital period</th>
+</tr>
+<tr>
+<td><a href="/wiki/AM_Canum_Venaticorum" title="AM Canum Venaticorum">AM Canum Venaticorum</a></td>
+<td style="text-align: right">17.146 minutes</td>
+</tr>
+<tr>
+<td><a href="/wiki/Beta_Lyrae" title="Beta Lyrae">Beta Lyrae</a> AB</td>
+<td style="text-align: right">12.9075 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Alpha_Centauri" title="Alpha Centauri">Alpha Centauri</a> AB</td>
+<td style="text-align: right">79.91 years</td>
+</tr>
+<tr>
+<td><a href="/wiki/Proxima_Centauri" title="Proxima Centauri">Proxima Centauri</a> – <a href="/wiki/Alpha_Centauri" title="Alpha Centauri">Alpha Centauri</a> AB</td>
+<td style="text-align: right">500,000 years or more</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Geosynchronous_orbit_derivation" title="Geosynchronous orbit derivation">Geosynchronous orbit derivation</a></li>
+<li><a href="/wiki/Rotation_period" title="Rotation period">Rotation period</a> – time that it takes to complete one revolution around its axis of rotation</li>
+<li><a href="/wiki/Sidereal_time" title="Sidereal time">Sidereal time</a></li>
+<li><a href="/wiki/Sidereal_year" title="Sidereal year">Sidereal year</a></li>
+<li><a class="mw-redirect" href="/wiki/Opposition_(astronomy)" title="Opposition (astronomy)">Opposition (astronomy)</a></li>
+<li><a href="/wiki/List_of_periodic_comets" title="List of periodic comets">List of periodic comets</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation"><a class="external text" href="https://www.quora.com/How-do-you-calculate-the-density-of-a-sphere" rel="nofollow"><i>How do you calculate the density of a sphere?</i></a>, quora.com</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+period&amp;rft.btitle=How+do+you+calculate+the+density+of+a+sphere%3F&amp;rft.genre=book&amp;rft.pub=quora.com&amp;rft_id=https%3A%2F%2Fwww.quora.com%2FHow-do-you-calculate-the-density-of-a-sphere&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation"><a class="external text" href="http://www.wolframalpha.com/input/?i=density+of+the+earth" rel="nofollow"><i>Density of the Earth</i></a>, wolframalpha.com</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+period&amp;rft.btitle=Density+of+the+Earth&amp;rft.genre=book&amp;rft.pub=wolframalpha.com&amp;rft_id=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Ddensity%2Bof%2Bthe%2Bearth&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation"><a class="external text" href="http://www.wolframalpha.com/input/?i=density+of+water" rel="nofollow"><i>Density of water</i></a>, wolframalpha.com</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+period&amp;rft.btitle=Density+of+water&amp;rft.genre=book&amp;rft.pub=wolframalpha.com&amp;rft_id=http%3A%2F%2Fwww.wolframalpha.com%2Finput%2F%3Fi%3Ddensity%2Bof%2Bwater&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Bradley W. Carroll, Dale A. Ostlie. An introduction to modern astrophysics. 2nd edition. Pearson 2007.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.astronomycafe.net/qadir/q1166.html" rel="nofollow">"Questions and Answers - Sten's Space Blog"</a>. <i>www.astronomycafe.net</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+period&amp;rft.atitle=Questions+and+Answers+-+Sten%27s+Space+Blog&amp;rft.genre=unknown&amp;rft.jtitle=www.astronomycafe.net&amp;rft_id=http%3A%2F%2Fwww.astronomycafe.net%2Fqadir%2Fq1166.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_period&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/40px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/60px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/80px-Wiktionary-logo-en-v2.svg.png 2x" width="40"/></td>
+<td class="mbox-text plainlist">Look up <i><b><a class="extiw" href="https://en.wiktionary.org/wiki/synodic" title="wiktionary:synodic">synodic</a></b></i> in Wiktionary, the free dictionary.</td>
+</tr>
+</table>
+<div aria-labelledby="Gravitational_orbits" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Orbits" title="Template:Orbits"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Orbits" title="Template talk:Orbits"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Orbits&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Gravitational_orbits" style="font-size:114%;margin:0 4em">Gravitational <a href="/wiki/Orbit" title="Orbit">orbits</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbit" title="Orbit">Types</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Box_orbit" title="Box orbit">Box</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Capture</a></li>
+<li><a href="/wiki/Circular_orbit" title="Circular orbit">Circular</a></li>
+<li><a href="/wiki/Elliptic_orbit" title="Elliptic orbit">Elliptical</a> / <a href="/wiki/Highly_elliptical_orbit" title="Highly elliptical orbit">Highly elliptical</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Escape</a></li>
+<li><a href="/wiki/Graveyard_orbit" title="Graveyard orbit">Graveyard</a></li>
+<li><a href="/wiki/Hyperbolic_trajectory" title="Hyperbolic trajectory">Hyperbolic trajectory</a></li>
+<li><a href="/wiki/Inclined_orbit" title="Inclined orbit">Inclined</a> / <a href="/wiki/Non-inclined_orbit" title="Non-inclined orbit">Non-inclined</a></li>
+<li><a href="/wiki/Osculating_orbit" title="Osculating orbit">Osculating</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Parabolic trajectory</a></li>
+<li><a href="/wiki/Parking_orbit" title="Parking orbit">Parking</a></li>
+<li><a href="/wiki/Synchronous_orbit" title="Synchronous orbit">Synchronous</a>
+<ul>
+<li><a href="/wiki/Semi-synchronous_orbit" title="Semi-synchronous orbit">semi</a></li>
+<li><a href="/wiki/Subsynchronous_orbit" title="Subsynchronous orbit">sub</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">Transfer orbit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Geocentric_orbit" title="Geocentric orbit">Geocentric</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geosynchronous_orbit" title="Geosynchronous orbit">Geosynchronous</a></li>
+<li><a href="/wiki/Geostationary_orbit" title="Geostationary orbit">Geostationary</a></li>
+<li><a href="/wiki/Sun-synchronous_orbit" title="Sun-synchronous orbit">Sun-synchronous</a></li>
+<li><a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">Low Earth</a></li>
+<li><a href="/wiki/Medium_Earth_orbit" title="Medium Earth orbit">Medium Earth</a></li>
+<li><a href="/wiki/High_Earth_orbit" title="High Earth orbit">High Earth</a></li>
+<li><a href="/wiki/Molniya_orbit" title="Molniya orbit">Molniya</a></li>
+<li><a class="mw-redirect" href="/wiki/Near_equatorial_orbit" title="Near equatorial orbit">Near-equatorial</a></li>
+<li><a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">Orbit of the Moon</a></li>
+<li><a href="/wiki/Polar_orbit" title="Polar orbit">Polar</a></li>
+<li><a href="/wiki/Tundra_orbit" title="Tundra orbit">Tundra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">About other points</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Areosynchronous_orbit" title="Areosynchronous orbit">Areosynchronous</a></li>
+<li><a href="/wiki/Areostationary_orbit" title="Areostationary orbit">Areostationary</a></li>
+<li><a href="/wiki/Halo_orbit" title="Halo orbit">Halo</a></li>
+<li><a href="/wiki/Lissajous_orbit" title="Lissajous orbit">Lissajous</a></li>
+<li><a href="/wiki/Lunar_orbit" title="Lunar orbit">Lunar</a></li>
+<li><a href="/wiki/Heliocentric_orbit" title="Heliocentric orbit">Heliocentric</a></li>
+<li><a class="mw-redirect" href="/wiki/Heliosynchronous_orbit" title="Heliosynchronous orbit">Heliosynchronous</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_elements" title="Orbital elements">Parameters</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">
+<div class="hlist hlist-separated">
+<ul>
+<li>Shape</li>
+<li>Size</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">e</span>  <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">Eccentricity</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">a</span>  <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">Semi-major axis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">b</span>  <a class="mw-redirect" href="/wiki/Semi-minor_axis" title="Semi-minor axis">Semi-minor axis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">Q</span>, <span class="texhtml mvar" style="font-style:italic;">q</span>  <a href="/wiki/Apsis" title="Apsis">Apsides</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Orientation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">i</span>  <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">Inclination</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">Ω</span>  <a href="/wiki/Longitude_of_the_ascending_node" title="Longitude of the ascending node">Longitude of the ascending node</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ω</span>  <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">Argument of periapsis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ϖ</span>  <a href="/wiki/Longitude_of_the_periapsis" title="Longitude of the periapsis">Longitude of the periapsis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Position</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">M</span>  <a href="/wiki/Mean_anomaly" title="Mean anomaly">Mean anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ν</span>  <a href="/wiki/True_anomaly" title="True anomaly">True anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">E</span>  <a href="/wiki/Eccentric_anomaly" title="Eccentric anomaly">Eccentric anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">L</span>  <a href="/wiki/Mean_longitude" title="Mean longitude">Mean longitude</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">l</span>  <a href="/wiki/True_longitude" title="True longitude">True longitude</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Variation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">T</span>  <a class="mw-selflink selflink">Orbital period</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">n</span>  <a href="/wiki/Mean_motion" title="Mean motion">Mean motion</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">v</span>  <a href="/wiki/Orbital_speed" title="Orbital speed">Orbital speed</a></li>
+<li><span class="texhtml"><i>t</i><sub>0</sub></span>  <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">Epoch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_maneuver" title="Orbital maneuver">Maneuvers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collision_avoidance_(spacecraft)" title="Collision avoidance (spacecraft)">Collision avoidance (spacecraft)</a></li>
+<li><a href="/wiki/Delta-v" title="Delta-v">Delta-v</a></li>
+<li><a href="/wiki/Delta-v_budget" title="Delta-v budget">Delta-v budget</a></li>
+<li><a href="/wiki/Bi-elliptic_transfer" title="Bi-elliptic transfer">Bi-elliptic transfer</a></li>
+<li><a href="/wiki/Geostationary_transfer_orbit" title="Geostationary transfer orbit">Geostationary transfer</a></li>
+<li><a href="/wiki/Gravity_assist" title="Gravity assist">Gravity assist</a></li>
+<li><a href="/wiki/Gravity_turn" title="Gravity turn">Gravity turn</a></li>
+<li><a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">Hohmann transfer</a></li>
+<li><a class="mw-redirect" href="/wiki/Low_energy_transfer" title="Low energy transfer">Low energy transfer</a></li>
+<li><a href="/wiki/Oberth_effect" title="Oberth effect">Oberth effect</a></li>
+<li><a href="/wiki/Orbital_inclination_change" title="Orbital inclination change">Inclination change</a></li>
+<li><a href="/wiki/Orbit_phasing" title="Orbit phasing">Phasing</a></li>
+<li><a href="/wiki/Tsiolkovsky_rocket_equation" title="Tsiolkovsky rocket equation">Rocket equation</a></li>
+<li><a href="/wiki/Space_rendezvous" title="Space rendezvous">Rendezvous</a></li>
+<li><a href="/wiki/Transposition,_docking,_and_extraction" title="Transposition, docking, and extraction">Transposition, docking, and extraction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_mechanics" title="Orbital mechanics">Orbital mechanics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">Celestial coordinate system</a></li>
+<li><a href="/wiki/Characteristic_energy" title="Characteristic energy">Characteristic energy</a></li>
+<li><a href="/wiki/Escape_velocity" title="Escape velocity">Escape velocity</a></li>
+<li><a href="/wiki/Ephemeris" title="Ephemeris">Ephemeris</a></li>
+<li><a href="/wiki/Equatorial_coordinate_system" title="Equatorial coordinate system">Equatorial coordinate system</a></li>
+<li><a href="/wiki/Ground_track" title="Ground track">Ground track</a></li>
+<li><a href="/wiki/Hill_sphere" title="Hill sphere">Hill sphere</a></li>
+<li><a href="/wiki/Interplanetary_Transport_Network" title="Interplanetary Transport Network">Interplanetary Transport Network</a></li>
+<li><a href="/wiki/Kepler%27s_laws_of_planetary_motion" title="Kepler's laws of planetary motion">Kepler's laws of planetary motion</a></li>
+<li><a href="/wiki/Lagrangian_point" title="Lagrangian point">Lagrangian point</a></li>
+<li><a href="/wiki/N-body_problem" title="N-body problem"><i>n</i>-body problem</a></li>
+<li><a href="/wiki/Orbit_equation" title="Orbit equation">Orbit equation</a></li>
+<li><a href="/wiki/Orbital_state_vectors" title="Orbital state vectors">Orbital state vectors</a></li>
+<li><a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">Perturbation</a></li>
+<li><a class="mw-redirect" href="/wiki/Retrograde_motion" title="Retrograde motion">Retrograde motion</a></li>
+<li><a href="/wiki/Specific_orbital_energy" title="Specific orbital energy">Specific orbital energy</a></li>
+<li><a href="/wiki/Specific_relative_angular_momentum" title="Specific relative angular momentum">Specific relative angular momentum</a></li>
+<li><a href="/wiki/Two-line_element_set" title="Two-line element set">Two-line elements</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/List_of_orbits" title="List of orbits">List of orbits</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1235
+Cached time: 20170916185936
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.408 seconds
+Real time usage: 1.248 seconds
+Preprocessor visited node count: 1716/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 62760/2097152 bytes
+Template argument size: 3659/2097152 bytes
+Highest expansion depth: 11/40
+Expensive parser function count: 7/500
+Lua time usage: 0.217/10.000 seconds
+Lua memory usage: 3.16 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  899.606      1 -total
+ 51.79%  465.877      7 Template:Citation_needed
+ 47.56%  427.871      7 Template:Fix
+ 31.59%  284.209      7 Template:Delink
+ 20.11%  180.922      1 Template:Reflist
+ 15.51%  139.550      3 Template:Citation
+ 13.80%  124.141     14 Template:Category_handler
+  8.97%   80.734      3 Template:Navbox
+  6.42%   57.741      1 Template:Orbits
+  6.22%   55.977      7 Template:Fix/category
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:143696-0!canonical!math=5 and timestamp 20170916190008 and revision id 800951674
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Orbital_period&amp;oldid=800951674">https://en.wikipedia.org/w/index.php?title=Orbital_period&amp;oldid=800951674</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Time_in_astronomy" title="Category:Time in astronomy">Time in astronomy</a></li><li><a href="/wiki/Category:Orbits" title="Category:Orbits">Orbits</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_January_2017" title="Category:Articles needing additional references from January 2017">Articles needing additional references from January 2017</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">Articles with unsourced statements from November 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2016" title="Category:Articles with unsourced statements from March 2016">Articles with unsourced statements from March 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2011" title="Category:Articles with unsourced statements from November 2011">Articles with unsourced statements from November 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_August_2016" title="Category:Articles with unsourced statements from August 2016">Articles with unsourced statements from August 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2011" title="Category:Articles with unsourced statements from January 2011">Articles with unsourced statements from January 2011</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_December_2013" title="Category:Articles with unsourced statements from December 2013">Articles with unsourced statements from December 2013</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Orbital+period" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Orbital+period" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Orbital_period" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Orbital_period" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Orbital_period">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Orbital_period&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Orbital_period&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Orbital_period" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Orbital_period" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Orbital_period&amp;oldid=800951674" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Orbital_period&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q37640" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Orbital_period&amp;id=800951674" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Orbital+period">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Orbital+period&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DOrbital%2Bperiod%26returnto%3DOrbital%2Bperiod%26oldid%3D800951674%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Orbital_period&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-als"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/Umlaufzeit" hreflang="als" lang="als" title="Umlaufzeit – Alemannisch">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D9%88%D8%B1_%D9%85%D8%AF%D8%A7%D8%B1%D9%8A" hreflang="ar" lang="ar" title="دور مداري – Arabic">العربية</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Periodu_orbital" hreflang="ast" lang="ast" title="Periodu orbital – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%80%E0%A6%AF%E0%A6%BC_%E0%A6%AA%E0%A6%B0%E0%A7%8D%E0%A6%AF%E0%A6%BE%E0%A6%AF%E0%A6%BC%E0%A6%95%E0%A6%BE%E0%A6%B2" hreflang="bn" lang="bn" title="কক্ষীয় পর্যায়কাল – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A1%D1%96%D0%B4%D1%8D%D1%80%D1%8B%D1%87%D0%BD%D1%8B_%D0%BF%D0%B5%D1%80%D1%8B%D1%8F%D0%B4" hreflang="be" lang="be" title="Сідэрычны перыяд – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A1%D1%8B%D0%B4%D1%8D%D1%80%D1%8B%D1%87%D0%BD%D1%8B_%D0%BF%D1%8D%D1%80%D1%8B%D1%8F%D0%B4" hreflang="be-x-old" lang="be-x-old" title="Сыдэрычны пэрыяд – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0%D0%BB%D0%B5%D0%BD_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" hreflang="bg" lang="bg" title="Орбитален период – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Orbitalni_period" hreflang="bs" lang="bs" title="Orbitalni period – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Per%C3%ADode_orbital" hreflang="ca" lang="ca" title="Període orbital – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Doba_ob%C4%9Bhu" hreflang="cs" lang="cs" title="Doba oběhu – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Siderisk_tid" hreflang="da" lang="da" title="Siderisk tid – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Umlaufzeit" hreflang="de" lang="de" title="Umlaufzeit – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Sideeriline_periood" hreflang="et" lang="et" title="Sideeriline periood – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A0%CE%B5%CF%81%CE%AF%CE%BF%CE%B4%CE%BF%CF%82_%CF%80%CE%B5%CF%81%CE%B9%CF%86%CE%BF%CF%81%CE%AC%CF%82" hreflang="el" lang="el" title="Περίοδος περιφοράς – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Per%C3%ADodo_orbital" hreflang="es" lang="es" title="Período orbital – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Orbita_periodo" hreflang="eo" lang="eo" title="Orbita periodo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Orbita-periodo" hreflang="eu" lang="eu" title="Orbita-periodo – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D9%86%D8%A7%D9%88%D8%A8_%D9%85%D8%AF%D8%A7%D8%B1%DB%8C" hreflang="fa" lang="fa" title="تناوب مداری – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/P%C3%A9riode_de_r%C3%A9volution" hreflang="fr" lang="fr" title="Période de révolution – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Tr%C3%A9imhse_shionadach" hreflang="ga" lang="ga" title="Tréimhse shionadach – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Per%C3%ADodo_orbital" hreflang="gl" lang="gl" title="Período orbital – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EA%B3%B5%EC%A0%84_%EC%A3%BC%EA%B8%B0" hreflang="ko" lang="ko" title="공전 주기 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8D%D5%AB%D5%A4%D5%A5%D6%80%D5%AB%D5%AF_%D5%BA%D5%A1%D6%80%D5%A2%D5%A5%D6%80%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Սիդերիկ պարբերություն – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A5%80%E0%A4%AF_%E0%A4%85%E0%A4%B5%E0%A4%A7%E0%A4%BF" hreflang="hi" lang="hi" title="कक्षीय अवधि – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Ophodno_vrijeme" hreflang="hr" lang="hr" title="Ophodno vrijeme – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Periode_orbit" hreflang="id" lang="id" title="Periode orbit – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Periodo_di_rivoluzione" hreflang="it" lang="it" title="Periodo di rivoluzione – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%96%D7%9E%D7%9F_%D7%94%D7%A7%D7%A4%D7%94" hreflang="he" lang="he" title="זמן הקפה – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9D%E1%83%A0%E1%83%91%E1%83%98%E1%83%A2%E1%83%90%E1%83%9A%E1%83%A3%E1%83%A0%E1%83%98_%E1%83%9E%E1%83%94%E1%83%A0%E1%83%98%E1%83%9D%E1%83%93%E1%83%98" hreflang="ka" lang="ka" title="ორბიტალური პერიოდი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B4%D0%B5%D1%80%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D0%BA_%D0%BC%D0%B5%D0%B7%D0%B3%D0%B8%D0%BB" hreflang="ky" lang="ky" title="Сидерикалык мезгил – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Periodus_orbitalis" hreflang="la" lang="la" title="Periodus orbitalis – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Apri%C5%86%C4%B7ojuma_periods" hreflang="lv" lang="lv" title="Apriņķojuma periods – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/%C3%8Bmlafz%C3%A4it" hreflang="lb" lang="lb" title="Ëmlafzäit – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/%C5%BDvaig%C5%BEdinis_periodas" hreflang="lt" lang="lt" title="Žvaigždinis periodas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Kering%C3%A9si_id%C5%91" hreflang="hu" lang="hu" title="Keringési idő – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0%D0%BB%D0%B5%D0%BD_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" hreflang="mk" lang="mk" title="Орбитален период – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%AA%E0%A4%B0%E0%A4%BF%E0%A4%AD%E0%A5%8D%E0%A4%B0%E0%A4%AE%E0%A4%A3_%E0%A4%95%E0%A4%BE%E0%A4%B3" hreflang="mr" lang="mr" title="परिभ्रमण काळ – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Tempoh_orbit" hreflang="ms" lang="ms" title="Tempoh orbit – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Omlooptijd_(astronomie)" hreflang="nl" lang="nl" title="Omlooptijd (astronomie) – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%85%AC%E8%BB%A2%E5%91%A8%E6%9C%9F" hreflang="ja" lang="ja" title="公転周期 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Oml%C3%B8pstid" hreflang="no" lang="no" title="Omløpstid – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Baneperiode" hreflang="nn" lang="nn" title="Baneperiode – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Peri%C3%B2de_de_revolucion" hreflang="oc" lang="oc" title="Periòde de revolucion – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-nds"><a class="interlanguage-link-target" href="https://nds.wikipedia.org/wiki/%C3%9Cmlooptiet" hreflang="nds" lang="nds" title="Ümlooptiet – Low German">Plattdüütsch</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Okres_orbitalny" hreflang="pl" lang="pl" title="Okres orbitalny – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Per%C3%ADodo_orbital" hreflang="pt" lang="pt" title="Período orbital – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Perioad%C4%83_sinodic%C4%83" hreflang="ro" lang="ro" title="Perioadă sinodică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A1%D0%B8%D0%B4%D0%B5%D1%80%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" hreflang="ru" lang="ru" title="Сидерический период – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Orbital_period" hreflang="sco" lang="sco" title="Orbital period – Scots">Scots</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Periudha_orbitale" hreflang="sq" lang="sq" title="Periudha orbitale – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Piriudu_di_rivuluzzioni" hreflang="scn" lang="scn" title="Piriudu di rivuluzzioni – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%9A%E0%B6%9A%E0%B7%8A%E0%B7%82%E0%B7%93%E0%B6%BA_%E0%B6%9A%E0%B7%8F%E0%B6%BD%E0%B7%8F%E0%B7%80%E0%B6%BB%E0%B7%8A%E0%B6%AD%E0%B6%BA" hreflang="si" lang="si" title="කක්ෂීය කාලාවර්තය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Orbital_period" hreflang="simple" lang="simple" title="Orbital period – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Obe%C5%BEn%C3%A1_doba_(astron%C3%B3mia)" hreflang="sk" lang="sk" title="Obežná doba (astronómia) – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Orbitalna_perioda" hreflang="sl" lang="sl" title="Orbitalna perioda – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9E%D1%80%D0%B1%D0%B8%D1%82%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BF%D0%B5%D1%80%D0%B8%D0%BE%D0%B4" hreflang="sr" lang="sr" title="Орбитални период – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Orbitalni_period" hreflang="sh" lang="sh" title="Orbitalni period – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kiertoaika" hreflang="fi" lang="fi" title="Kiertoaika – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Siderisk_omloppstid" hreflang="sv" lang="sv" title="Siderisk omloppstid – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%9A%E0%AF%81%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%95%E0%AF%8D%E0%AE%95%E0%AE%BE%E0%AE%B2%E0%AE%AE%E0%AF%8D" hreflang="ta" lang="ta" title="சுற்றுக்காலம் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%84%E0%B8%B2%E0%B8%9A%E0%B8%94%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%84%E0%B8%95%E0%B8%B4" hreflang="th" lang="th" title="คาบดาราคติ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Y%C3%B6r%C3%BCnge_s%C3%BCresi" hreflang="tr" lang="tr" title="Yörünge süresi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9E%D1%80%D0%B1%D1%96%D1%82%D0%B0%D0%BB%D1%8C%D0%BD%D0%B8%D0%B9_%D0%BF%D0%B5%D1%80%D1%96%D0%BE%D0%B4" hreflang="uk" lang="uk" title="Орбітальний період – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Chu_k%E1%BB%B3_qu%E1%BB%B9_%C4%91%E1%BA%A1o" hreflang="vi" lang="vi" title="Chu kỳ quỹ đạo – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BD%A8%E9%81%93%E5%91%A8%E6%9C%9F" hreflang="zh" lang="zh" title="轨道周期 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q37640#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 16 September 2017, at 19:00.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Orbital_period&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.408","walltime":"1.248","ppvisitednodes":{"value":1716,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":62760,"limit":2097152},"templateargumentsize":{"value":3659,"limit":2097152},"expansiondepth":{"value":11,"limit":40},"expensivefunctioncount":{"value":7,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  899.606      1 -total"," 51.79%  465.877      7 Template:Citation_needed"," 47.56%  427.871      7 Template:Fix"," 31.59%  284.209      7 Template:Delink"," 20.11%  180.922      1 Template:Reflist"," 15.51%  139.550      3 Template:Citation"," 13.80%  124.141     14 Template:Category_handler","  8.97%   80.734      3 Template:Navbox","  6.42%   57.741      1 Template:Orbits","  6.22%   55.977      7 Template:Fix/category"]},"scribunto":{"limitreport-timeusage":{"value":"0.217","limit":"10.000"},"limitreport-memusage":{"value":3314995,"limit":52428800}},"cachereport":{"origin":"mw1235","timestamp":"20170916185936","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":86,"wgHostname":"mw1322"});});</script>
+</body>
+</html>

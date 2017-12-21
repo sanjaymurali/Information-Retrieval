@@ -1,0 +1,390 @@
+https://en.wikipedia.org/wiki/Monthly_Weather_Review
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Monthly Weather Review - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Monthly_Weather_Review","wgTitle":"Monthly Weather Review","wgCurRevisionId":757165828,"wgRevisionId":757165828,"wgArticleId":4072234,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using deprecated image syntax","Articles with outdated impact factors from 2012","All stub articles","Meteorology journals","Monthly journals","English-language journals","Delayed open access journals","Publications established in 1872","1872 establishments in the United States","American Meteorological Society academic journals","Scientific journal stubs","Atmospheric science stubs"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Monthly_Weather_Review","wgRelevantArticleId":4072234,"wgRequestId":"WdPFxQpAIDoAACyGWaIAAAAD","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1581474","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/8/8b/Monthly_Weather_Review_cover.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Monthly_Weather_Review" rel="alternate"/>
+<link href="/w/index.php?title=Monthly_Weather_Review&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Monthly_Weather_Review&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Monthly_Weather_Review" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Monthly_Weather_Review rootpage-Monthly_Weather_Review vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en"><i>Monthly Weather Review</i></h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="infobox hproduct" style="width:22em">
+<caption style="font-size:130%;"><i><span class="fn">Monthly Weather Review</span></i> <span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal&amp;rft.jtitle=Monthly+Weather+Review&amp;rft.stitle=Mon.+Weather+Rev.&amp;rft.issn=0027-0644&amp;rft_id=http%3A%2F%2Fwww2.ametsoc.org%2Fams%2Findex.cfm%2Fpublications%2Fjournals%2Fmonthly-weather-review%2F"> </span></caption>
+<tr>
+<td colspan="2" style="text-align:center"><a class="image" href="/wiki/File:Monthly_Weather_Review_cover.jpg"><img alt="Monthly Weather Review cover.jpg" data-file-height="209" data-file-width="159" height="209" src="//upload.wikimedia.org/wikipedia/en/8/8b/Monthly_Weather_Review_cover.jpg" width="159"/></a></td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/ISO_4" title="ISO 4">ISO 4 abbreviation</a></div>
+</th>
+<td class="identifier" style="text-align:left;"><i>Mon. Weather Rev.</i></td>
+</tr>
+<tr>
+<th scope="row"><a href="/wiki/Outline_of_academic_disciplines" title="Outline of academic disciplines">Discipline</a></th>
+<td class="category" style="text-align:left;"><a href="/wiki/Atmospheric_sciences" title="Atmospheric sciences">Atmospheric sciences</a>, <a href="/wiki/Meteorology" title="Meteorology">meteorology</a></td>
+</tr>
+<tr>
+<th scope="row">Language</th>
+<td style="text-align:left;">English</td>
+</tr>
+<tr>
+<th scope="row">Edited by</th>
+<td style="text-align:left;">David M. Schultz</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#dfc;">Publication details</th>
+</tr>
+<tr>
+<th scope="row">Publisher</th>
+<td style="text-align:left;">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a> <span style="font-size:90%;">(United States)</span></div>
+</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;">Publication history</div>
+</th>
+<td style="text-align:left;">1872–present</td>
+</tr>
+<tr>
+<th scope="row">Frequency</th>
+<td style="text-align:left;">Monthly</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Open_access_journal" title="Open access journal"><span class="wrap">Open access</span></a></div>
+</th>
+<td style="text-align:left;"><a href="/wiki/Delayed_open_access_journal" title="Delayed open access journal">Delayed</a>, after 2 years</td>
+</tr>
+<tr>
+<th scope="row">
+<div style="padding:0.1em 0;line-height:1.2em;"><a href="/wiki/Impact_factor" title="Impact factor"><span class="wrap">Impact factor</span></a><br/>
+<span style="font-weight:normal">(2012)</span></div>
+</th>
+<td style="text-align:left;">2.758</td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#dfc;">Indexing</th>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a></span></th>
+<td style="text-align:left;"><span class="value"><a class="external text" href="https://www.worldcat.org/issn/0027-0644" rel="nofollow">0027-0644</a></span> (print)<br/>
+<a class="external text" href="https://www.worldcat.org/issn/1520-0493" rel="nofollow">1520-0493</a> (web)<br/></td>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/Library_of_Congress_Control_Number" title="Library of Congress Control Number">LCCN</a></span></th>
+<td style="text-align:left;"><a class="external text" href="https://lccn.loc.gov/74648196" rel="nofollow">74648196</a></td>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/CODEN" title="CODEN">CODEN</a></span></th>
+<td style="text-align:left;">MWREAB</td>
+</tr>
+<tr>
+<th scope="row"><span class="type"><a href="/wiki/OCLC" title="OCLC">OCLC</a> no.</span></th>
+<td style="text-align:left;"><a class="external text" href="https://www.worldcat.org/oclc/436659104" rel="nofollow">436659104</a></td>
+</tr>
+<tr>
+<th colspan="2" style="text-align:center;background:#dfc;">Links</th>
+</tr>
+<tr>
+<td colspan="2" style="text-align:center;text-align:left;">
+<ul>
+<li><a class="external text" href="http://www2.ametsoc.org/ams/index.cfm/publications/journals/monthly-weather-review/" rel="nofollow">Journal homepage</a></li>
+<li><a class="external text" href="http://journals.ametsoc.org/toc/mwre/current" rel="nofollow">Online access</a></li>
+<li><a class="external text" href="http://ams.allenpress.com/perlserv/?request=get-archive&amp;issn=1520-0493" rel="nofollow">Online archive</a></li>
+</ul>
+</td>
+</tr>
+</table>
+<p>The <i><b>Monthly Weather Review</b></i> is a <a class="mw-redirect" href="/wiki/Peer-reviewed" title="Peer-reviewed">peer-reviewed</a> <a href="/wiki/Scientific_journal" title="Scientific journal">scientific journal</a> published by the <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>. It covers research related to analysis and prediction of observed and modeled circulations of the atmosphere, including technique development, <a href="/wiki/Data_assimilation" title="Data assimilation">data assimilation</a>, <a class="mw-redirect" href="/wiki/Model_validation" title="Model validation">model validation</a>, and relevant case studies. This includes papers on numerical techniques and data assimilation techniques that apply to the atmosphere and/or ocean environment. The <a href="/wiki/Editor-in-chief" title="Editor-in-chief">editor-in-chief</a> is David M. Schultz (<a href="/wiki/University_of_Manchester" title="University of Manchester">University of Manchester</a>).</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Abstracting_and_indexing"><span class="tocnumber">2</span> <span class="toctext">Abstracting and indexing</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#References"><span class="tocnumber">3</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#External_links"><span class="tocnumber">4</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monthly_Weather_Review&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The journal was established in July 1872 by the <a class="mw-redirect" href="/wiki/United_States_Army_Signal_Corps" title="United States Army Signal Corps">United States Army Signal Corps</a>. It was issued by the Office of the Chief Signal Officer from 1872 until 1891. In 1891, the Signal Office's <a href="/wiki/Meteorology" title="Meteorology">meteorological</a> responsibilities were transferred to the Weather Bureau under the <a href="/wiki/United_States_Department_of_Agriculture" title="United States Department of Agriculture">United States Department of Agriculture</a>. The Weather Bureau published the journal until 1970 when the Bureau became part of the newly formed <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a>, which published it until the end of 1973. Since 1974, it has been published by the <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a>.<sup class="reference" id="cite_ref-NOAA_1-0"><a href="#cite_note-NOAA-1">[1]</a></sup></p>
+<h2><span class="mw-headline" id="Abstracting_and_indexing">Abstracting and indexing</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monthly_Weather_Review&amp;action=edit&amp;section=2" title="Edit section: Abstracting and indexing">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The journal is abstracted and indexed in <a href="/wiki/Current_Contents" title="Current Contents">Current Contents</a>/Physical, Chemical &amp; Earth Sciences and the <a href="/wiki/Science_Citation_Index" title="Science Citation Index">Science Citation Index</a>.<sup class="reference" id="cite_ref-ISI_2-0"><a href="#cite_note-ISI-2">[2]</a></sup> According to the <i><a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>, the journal has a 2012 <a href="/wiki/Impact_factor" title="Impact factor">impact factor</a> of 2.758.<sup class="reference" id="cite_ref-WoS_3-0"><a href="#cite_note-WoS-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monthly_Weather_Review&amp;action=edit&amp;section=3" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-NOAA-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-NOAA_1-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://docs.lib.noaa.gov/rescue/mwr/data_rescue_monthly_weather_review.html" rel="nofollow">Monthly Weather Review</a>, <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a> Central Library.</span></li>
+<li id="cite_note-ISI-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-ISI_2-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://ip-science.thomsonreuters.com/mjl/" rel="nofollow">"Master Journal List"</a>. <i>Intellectual Property &amp; Science</i>. <a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2014-03-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonthly+Weather+Review&amp;rft.atitle=Master+Journal+List&amp;rft.genre=unknown&amp;rft.jtitle=Intellectual+Property+%26+Science&amp;rft_id=http%3A%2F%2Fip-science.thomsonreuters.com%2Fmjl%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-WoS-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-WoS_3-0">^</a></b></span> <span class="reference-text"><cite class="citation book">"Monthly Weather Review". <i>2012 <a href="/wiki/Journal_Citation_Reports" title="Journal Citation Reports">Journal Citation Reports</a></i>. <a href="/wiki/Web_of_Science" title="Web of Science">Web of Science</a> (Science ed.). <a href="/wiki/Thomson_Reuters" title="Thomson Reuters">Thomson Reuters</a>. 2013.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMonthly+Weather+Review&amp;rft.atitle=Monthly+Weather+Review&amp;rft.btitle=2012+Journal+Citation+Reports&amp;rft.date=2013&amp;rft.edition=Science&amp;rft.genre=bookitem&amp;rft.pub=Thomson+Reuters&amp;rft.series=Web+of+Science&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Monthly_Weather_Review&amp;action=edit&amp;section=4" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><span class="official-website"><span class="url"><a class="external text" href="http://www2.ametsoc.org/ams/index.cfm/publications/journals/monthly-weather-review/" rel="nofollow">Official website</a></span></span></li>
+<li><a class="external text" href="http://docs.lib.noaa.gov/rescue/mwr/data_rescue_monthly_weather_review.html" rel="nofollow">NOAA Central Library</a> - Free access to articles prior to 1974</li>
+</ul>
+<div aria-labelledby="Journals_published_by_the_American_Meteorological_Society" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Journals_published_by_the_American_Meteorological_Society" title="Template:Journals published by the American Meteorological Society"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Journals_published_by_the_American_Meteorological_Society" title="Template talk:Journals published by the American Meteorological Society"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Journals_published_by_the_American_Meteorological_Society&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Journals_published_by_the_American_Meteorological_Society" style="font-size:114%;margin:0 4em">Journals published by the <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><i><a href="/wiki/Bulletin_of_the_American_Meteorological_Society" title="Bulletin of the American Meteorological Society">Bulletin of the American Meteorological Society</a></i></li>
+<li><i><a href="/wiki/Earth_Interactions" title="Earth Interactions">Earth Interactions</a></i></li>
+<li><i><a href="/wiki/Journal_of_Applied_Meteorology_and_Climatology" title="Journal of Applied Meteorology and Climatology">Journal of Applied Meteorology and Climatology</a></i></li>
+<li><i><a href="/wiki/Journal_of_Atmospheric_and_Oceanic_Technology" title="Journal of Atmospheric and Oceanic Technology">Journal of Atmospheric and Oceanic Technology</a></i></li>
+<li><i><a href="/wiki/Journal_of_Climate" title="Journal of Climate">Journal of Climate</a></i></li>
+<li><i><a href="/wiki/Journal_of_Hydrometeorology" title="Journal of Hydrometeorology">Journal of Hydrometeorology</a></i></li>
+<li><i><a href="/wiki/Journal_of_Physical_Oceanography" title="Journal of Physical Oceanography">Journal of Physical Oceanography</a></i></li>
+<li><i><a href="/wiki/Journal_of_the_Atmospheric_Sciences" title="Journal of the Atmospheric Sciences">Journal of the Atmospheric Sciences</a></i></li>
+<li><i><a href="/wiki/Meteorological_Monographs" title="Meteorological Monographs">Meteorological Monographs</a></i></li>
+<li><i><a class="mw-selflink selflink">Monthly Weather Review</a></i></li>
+<li><i><a href="/wiki/Weather_and_Forecasting" title="Weather and Forecasting">Weather and Forecasting</a></i></li>
+<li><i><a href="/wiki/Weather,_Climate,_and_Society" title="Weather, Climate, and Society">Weather, Climate, and Society</a></i></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<p><br/></p>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Book_Hexagonal_Icon.svg"><img alt="Stub icon" data-file-height="31" data-file-width="36" height="30" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/35px-Book_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/52px-Book_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Book_Hexagonal_Icon.svg/70px-Book_Hexagonal_Icon.svg.png 2x" width="35"/></a></td>
+<td><i>This article about a <a href="/wiki/Scientific_journal" title="Scientific journal">scientific journal</a> is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Monthly_Weather_Review&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Science-journal-stub" title="Template:Science-journal-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Science-journal-stub" title="Template talk:Science-journal-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Science-journal-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<br/>
+<span style="font-style:normal;font-size:smaller"><a href="/wiki/Wikipedia:WikiProject_Academic_Journals/Writing_guide" title="Wikipedia:WikiProject Academic Journals/Writing guide">See tips for writing articles about academic journals</a>. Further suggestions might be found on the article's <a href="/wiki/Talk:Monthly_Weather_Review" title="Talk:Monthly Weather Review">talk page</a>.</span></td>
+</tr>
+</table>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG"><img alt="Stub icon" data-file-height="2004" data-file-width="3032" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/40px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/60px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/80px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 2x" width="40"/></a></td>
+<td><i>This <a href="/wiki/Climatology" title="Climatology">climatology</a>/<a href="/wiki/Meteorology" title="Meteorology">meteorology</a>–related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Monthly_Weather_Review&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Climate-stub" title="Template:Climate-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Climate-stub" title="Template talk:Climate-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Climate-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1253
+Cached time: 20170917104228
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.144 seconds
+Real time usage: 0.205 seconds
+Preprocessor visited node count: 1176/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 29056/2097152 bytes
+Template argument size: 2646/2097152 bytes
+Highest expansion depth: 13/40
+Expensive parser function count: 2/500
+Lua time usage: 0.067/10.000 seconds
+Lua memory usage: 2.63 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  178.687      1 -total
+ 51.45%   91.943      1 Template:Infobox_journal
+ 27.69%   49.484      1 Template:Infobox
+ 22.08%   39.460      1 Template:Reflist
+ 18.21%   32.541      2 Template:Namespace_detect
+ 15.88%   28.383      1 Template:Cite_web
+ 13.58%   24.270      1 Template:Official_website
+  6.30%   11.250      1 Template:Sci-journal-stub
+  5.95%   10.637      2 Template:Asbox
+  5.28%    9.437      1 Template:Infobox_journal/ISSN-eISSN
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:4072234-0!canonical and timestamp 20170917104227 and revision id 757165828
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Monthly_Weather_Review&amp;oldid=757165828">https://en.wikipedia.org/w/index.php?title=Monthly_Weather_Review&amp;oldid=757165828</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Meteorology_journals" title="Category:Meteorology journals">Meteorology journals</a></li><li><a href="/wiki/Category:Monthly_journals" title="Category:Monthly journals">Monthly journals</a></li><li><a href="/wiki/Category:English-language_journals" title="Category:English-language journals">English-language journals</a></li><li><a href="/wiki/Category:Delayed_open_access_journals" title="Category:Delayed open access journals">Delayed open access journals</a></li><li><a href="/wiki/Category:Publications_established_in_1872" title="Category:Publications established in 1872">Publications established in 1872</a></li><li><a href="/wiki/Category:1872_establishments_in_the_United_States" title="Category:1872 establishments in the United States">1872 establishments in the United States</a></li><li><a href="/wiki/Category:American_Meteorological_Society_academic_journals" title="Category:American Meteorological Society academic journals">American Meteorological Society academic journals</a></li><li><a href="/wiki/Category:Scientific_journal_stubs" title="Category:Scientific journal stubs">Scientific journal stubs</a></li><li><a href="/wiki/Category:Atmospheric_science_stubs" title="Category:Atmospheric science stubs">Atmospheric science stubs</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_deprecated_image_syntax" title="Category:Pages using deprecated image syntax">Pages using deprecated image syntax</a></li><li><a href="/wiki/Category:Articles_with_outdated_impact_factors_from_2012" title="Category:Articles with outdated impact factors from 2012">Articles with outdated impact factors from 2012</a></li><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Monthly+Weather+Review" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Monthly+Weather+Review" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Monthly_Weather_Review" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Monthly_Weather_Review" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Monthly_Weather_Review">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Monthly_Weather_Review&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Monthly_Weather_Review&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Monthly_Weather_Review" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Monthly_Weather_Review" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Monthly_Weather_Review&amp;oldid=757165828" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Monthly_Weather_Review&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1581474" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Monthly_Weather_Review&amp;id=757165828" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Monthly+Weather+Review">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Monthly+Weather+Review&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DMonthly%2BWeather%2BReview%26returnto%3DMonthly%2BWeather%2BReview%26oldid%3D757165828%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Monthly_Weather_Review&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Monthly_Weather_Review" hreflang="de" lang="de" title="Monthly Weather Review – German">Deutsch</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Monthly_Weather_Review" hreflang="fr" lang="fr" title="Monthly Weather Review – French">Français</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Monthly_Weather_Review" hreflang="pt" lang="pt" title="Monthly Weather Review – Portuguese">Português</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/Monthly_Weather_Review" hreflang="uk" lang="uk" title="Monthly Weather Review – Ukrainian">Українська</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1581474#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 29 December 2016, at 04:50.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Monthly_Weather_Review&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.144","walltime":"0.205","ppvisitednodes":{"value":1176,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":29056,"limit":2097152},"templateargumentsize":{"value":2646,"limit":2097152},"expansiondepth":{"value":13,"limit":40},"expensivefunctioncount":{"value":2,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  178.687      1 -total"," 51.45%   91.943      1 Template:Infobox_journal"," 27.69%   49.484      1 Template:Infobox"," 22.08%   39.460      1 Template:Reflist"," 18.21%   32.541      2 Template:Namespace_detect"," 15.88%   28.383      1 Template:Cite_web"," 13.58%   24.270      1 Template:Official_website","  6.30%   11.250      1 Template:Sci-journal-stub","  5.95%   10.637      2 Template:Asbox","  5.28%    9.437      1 Template:Infobox_journal/ISSN-eISSN"]},"scribunto":{"limitreport-timeusage":{"value":"0.067","limit":"10.000"},"limitreport-memusage":{"value":2754033,"limit":52428800}},"cachereport":{"origin":"mw1253","timestamp":"20170917104228","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":71,"wgHostname":"mw1188"});});</script>
+</body>
+</html>

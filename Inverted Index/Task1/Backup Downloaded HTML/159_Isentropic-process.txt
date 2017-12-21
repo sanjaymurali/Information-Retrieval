@@ -1,0 +1,3371 @@
+https://en.wikipedia.org/wiki/Isentropic
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Isentropic process - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Isentropic_process","wgTitle":"Isentropic process","wgCurRevisionId":789346457,"wgRevisionId":789346457,"wgArticleId":375900,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Thermodynamic processes","Thermodynamic entropy"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Isentropic_process","wgRelevantArticleId":375900,"wgRequestId":"WdOweApAMFsAAJD77xYAAACV","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Isentropic","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Isentropic_process","wgWikibaseItemId":"Q907271","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.math.styles":"ready","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.math.scripts","ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/1200px-Carnot_heat_engine_2.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Isentropic_process" rel="alternate"/>
+<link href="/w/index.php?title=Isentropic_process&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Isentropic_process&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Isentropic_process" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Isentropic_process rootpage-Isentropic_process vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Isentropic process</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Isentropic&amp;redirect=no" title="Isentropic">Isentropic</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em;padding-bottom:0.3em;border-bottom:1px solid #aaa;"><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em;display:block;margin:0.3em 0 0.4em;"><a href="/wiki/Carnot_heat_engine" title="Carnot heat engine"><img alt="Carnot heat engine 2.svg" data-file-height="370" data-file-width="840" height="97" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/220px-Carnot_heat_engine_2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/330px-Carnot_heat_engine_2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/22/Carnot_heat_engine_2.svg/440px-Carnot_heat_engine_2.svg.png 2x" width="220"/></a>
+<div style="padding-top:0.2em;line-height:1.2em">The classical <a href="/wiki/Carnot_heat_engine" title="Carnot heat engine">Carnot heat engine</a></div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Branches</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Classical</a></li>
+<li><a href="/wiki/Statistical_mechanics" title="Statistical mechanics">Statistical</a></li>
+<li><a href="/wiki/Chemical_thermodynamics" title="Chemical thermodynamics">Chemical</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Equilibrium_thermodynamics" title="Equilibrium thermodynamics">Equilibrium</a> / <a href="/wiki/Non-equilibrium_thermodynamics" title="Non-equilibrium thermodynamics">Non-equilibrium</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Zeroth_law_of_thermodynamics" title="Zeroth law of thermodynamics">Zeroth</a></li>
+<li><a href="/wiki/First_law_of_thermodynamics" title="First law of thermodynamics">First</a></li>
+<li><a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">Second</a></li>
+<li><a href="/wiki/Third_law_of_thermodynamics" title="Third law of thermodynamics">Third</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_system" title="Thermodynamic system">Systems</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_state" title="Thermodynamic state">State</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Equation_of_state" title="Equation of state">Equation of state</a></li>
+<li><a href="/wiki/Ideal_gas" title="Ideal gas">Ideal gas</a></li>
+<li><a href="/wiki/Real_gas" title="Real gas">Real gas</a></li>
+<li><a href="/wiki/State_of_matter" title="State of matter">State of matter</a></li>
+<li><a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">Equilibrium</a></li>
+<li><a href="/wiki/Control_volume" title="Control volume">Control volume</a></li>
+<li><a href="/wiki/Thermodynamic_instruments" title="Thermodynamic instruments">Instruments</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_process" title="Thermodynamic process">Processes</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Isobaric_process" title="Isobaric process">Isobaric</a></li>
+<li><a href="/wiki/Isochoric_process" title="Isochoric process">Isochoric</a></li>
+<li><a href="/wiki/Isothermal_process" title="Isothermal process">Isothermal</a></li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic</a></li>
+<li><a class="mw-selflink selflink">Isentropic</a></li>
+<li><a href="/wiki/Isenthalpic_process" title="Isenthalpic process">Isenthalpic</a></li>
+<li><a href="/wiki/Quasistatic_process" title="Quasistatic process">Quasistatic</a></li>
+<li><a href="/wiki/Polytropic_process" title="Polytropic process">Polytropic</a></li>
+<li><a href="/wiki/Free_expansion" title="Free expansion">Free expansion</a></li>
+<li><a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">Reversibility</a></li>
+<li><a href="/wiki/Irreversible_process" title="Irreversible process">Irreversibility</a></li>
+<li><a href="/wiki/Endoreversible_thermodynamics" title="Endoreversible thermodynamics">Endoreversibility</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Thermodynamic_cycle" title="Thermodynamic cycle">Cycles</a></th>
+</tr>
+<tr>
+<td class="hlist" style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Heat_engine" title="Heat engine">Heat engines</a></li>
+<li><a href="/wiki/Heat_pump_and_refrigeration_cycle" title="Heat pump and refrigeration cycle">Heat pumps</a></li>
+<li><a href="/wiki/Thermal_efficiency" title="Thermal efficiency">Thermal efficiency</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/List_of_thermodynamic_properties" title="List of thermodynamic properties">System properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div style="font-size:90%;padding-bottom:0.2em;border-bottom:1px solid #aaa;">Note: <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">Conjugate variables</a> in <i>italics</i></div>
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none;margin-top:0.4em;">
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_diagrams" title="Thermodynamic diagrams">Property diagrams</a></li>
+<li><a href="/wiki/Intensive_and_extensive_properties" title="Intensive and extensive properties">Intensive and extensive properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/State_function" title="State function">Functions of state</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;">
+<ul>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Temperature</a> / <i><a href="/wiki/Entropy" title="Entropy">Entropy</a></i> (<a href="/wiki/Introduction_to_entropy" title="Introduction to entropy">introduction</a>)</li>
+<li><a href="/wiki/Pressure" title="Pressure">Pressure</a> / <i><a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">Volume</a></i></li>
+<li><a href="/wiki/Chemical_potential" title="Chemical potential">Chemical potential</a> / <i><a href="/wiki/Particle_number" title="Particle number">Particle number</a></i></li>
+<li><a href="/wiki/Vapor_quality" title="Vapor quality">Vapor quality</a></li>
+<li><a href="/wiki/Reduced_properties" title="Reduced properties">Reduced properties</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Process_function" title="Process function">Process functions</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding-bottom:0.7em;;padding-bottom:0.4em;">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Work_(thermodynamics)" title="Work (thermodynamics)">Work</a></li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Material_properties_(thermodynamics)" title="Material properties (thermodynamics)">Material properties</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Thermodynamic_databases_for_pure_substances" title="Thermodynamic databases for pure substances">Property databases</a></li>
+</ul>
+<div style="font-size:90%;margin-top:0.4em;border-top:1px solid #aaa;text-align:center;">
+<table>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Heat_capacity" title="Heat capacity">Specific heat capacity</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c=}</annotation>
+</semantics>
+</math></span><img alt="c=" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/891d40a9b18752b04065caee655d008b3ec11428" style="vertical-align: -0.338ex; width:3.481ex; height:1.676ex;"/></span></td>
+<td>
+<table>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial S}</annotation>
+</semantics>
+</math></span><img alt="\partial S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c609f4d3c5692ea4495479ef47594dc67f9fa464" style="vertical-align: -0.338ex; width:2.838ex; height:2.343ex;"/></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>N</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle N}</annotation>
+</semantics>
+</math></span><img alt="N" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f5e3890c981ae85503089652feb48b191b57aae3" style="vertical-align: -0.338ex; width:2.074ex; height:2.176ex;"/></span></td>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;"/></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Compressibility" title="Compressibility">Compressibility</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>β<!-- β --></mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta =-}</annotation>
+</semantics>
+</math></span><img alt="\beta =-" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b01c042bf1456bd4d2a8caed1f4912820a7ecbb3" style="vertical-align: -0.671ex; width:6.27ex; height:2.509ex;"/></span></td>
+<td>
+<table>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;"/></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;"/></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/></span></td>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial p}</annotation>
+</semantics>
+</math></span><img alt="\partial p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ebc4a48eb2412f08b54fe438b5139c88f9cfa372" style="vertical-align: -0.671ex; width:2.508ex; height:2.676ex;"/></span></td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td style="vertical-align:middle; text-align:right"><a href="/wiki/Thermal_expansion" title="Thermal expansion">Thermal expansion</a> </td>
+<td style="vertical-align:middle; text-align:left"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =}</annotation>
+</semantics>
+</math></span><img alt="\alpha =" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a92d4583d351f08c1c70985f0c843b2fff1b01e7" style="vertical-align: -0.338ex; width:3.962ex; height:1.676ex;"/></span></td>
+<td>
+<table>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 1}</annotation>
+</semantics>
+</math></span><img alt="1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92d98b82a3778f043108d4e20960a9193df57cbf" style="vertical-align: -0.338ex; width:1.173ex; height:2.176ex;"/></span></td>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial V}</annotation>
+</semantics>
+</math></span><img alt="\partial V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cecdd9d069fa84159940068fc11a91b6b3b9ee4" style="vertical-align: -0.338ex; width:3.126ex; height:2.343ex;"/></span></td>
+</tr>
+<tr>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/></span></td>
+<td style="border-top:solid 1px black;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \partial T}</annotation>
+</semantics>
+</math></span><img alt="\partial T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/504aa558fff3d00d10b03cadb1085cb0b7bdc631" style="vertical-align: -0.338ex; width:2.975ex; height:2.343ex;"/></span></td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_equations" title="Thermodynamic equations">Equations</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Carnot%27s_theorem_(thermodynamics)" title="Carnot's theorem (thermodynamics)">Carnot's theorem</a></li>
+<li><a href="/wiki/Clausius_theorem" title="Clausius theorem">Clausius theorem</a></li>
+<li><a href="/wiki/Fundamental_thermodynamic_relation" title="Fundamental thermodynamic relation">Fundamental relation</a></li>
+<li><a href="/wiki/Ideal_gas_law" title="Ideal gas law">Ideal gas law</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Maxwell_relations" title="Maxwell relations">Maxwell relations</a></li>
+<li><a href="/wiki/Onsager_reciprocal_relations" title="Onsager reciprocal relations">Onsager reciprocal relations</a></li>
+<li><a href="/wiki/Bridgman%27s_thermodynamic_equations" title="Bridgman's thermodynamic equations">Bridgman's equations</a></li>
+<li><i><a href="/wiki/Table_of_thermodynamic_equations" title="Table of thermodynamic equations">Table of thermodynamic equations</a></i></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;"><a href="/wiki/Thermodynamic_potential" title="Thermodynamic potential">Potentials</a></div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Thermodynamic_free_energy" title="Thermodynamic free energy">Free energy</a></li>
+<li><a href="/wiki/Free_entropy" title="Free entropy">Free entropy</a></li>
+</ul>
+</div>
+<div class="plainlist">
+<ul>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Internal_energy" title="Internal energy">Internal energy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U(S,V)}</annotation>
+</semantics>
+</math></span><img alt="U(S,V)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/921f33f9c6551562ec836007b035c2de6323d2d6" style="vertical-align: -0.838ex; width:7.975ex; height:2.843ex;"/></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mo stretchy="false">(</mo>
+<mi>S</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H(S,p)=U+pV}</annotation>
+</semantics>
+</math></span><img alt="H(S,p)=U+pV" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6407d78e5f39d07f70e2414a92e08e2e068519f3" style="vertical-align: -0.838ex; width:18.369ex; height:2.843ex;"/></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Helmholtz_free_energy" title="Helmholtz free energy">Helmholtz free energy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>V</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>U</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A(T,V)=U-TS}</annotation>
+</semantics>
+</math></span><img alt="A(T,V)=U-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5e93692f031ba6484d82731c54db83a69daed3f0" style="vertical-align: -0.838ex; width:18.982ex; height:2.843ex;"/></span></li>
+<li style="font-size:110%;line-height:1.6em;padding-bottom:0.5em;"><a href="/wiki/Gibbs_free_energy" title="Gibbs free energy">Gibbs free energy</a><br/>
+<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo>,</mo>
+<mi>p</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mi>H</mi>
+<mo>−<!-- − --></mo>
+<mi>T</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G(T,p)=H-TS}</annotation>
+</semantics>
+</math></span><img alt="G(T,p)=H-TS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8dd7a8f0b8ae04963da133e3b202432e1b6caed4" style="vertical-align: -0.838ex; width:18.729ex; height:2.843ex;"/></span></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">
+<div class="hlist hlist-separated">
+<ul>
+<li>History</li>
+<li>Culture</li>
+</ul>
+</div>
+</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">History</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/History_of_thermodynamics" title="History of thermodynamics">General</a></li>
+<li><a href="/wiki/History_of_heat" title="History of heat">Heat</a></li>
+<li><a href="/wiki/History_of_entropy" title="History of entropy">Entropy</a></li>
+<li><a href="/wiki/Gas_laws" title="Gas laws">Gas laws</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/History_of_perpetual_motion_machines" title="History of perpetual motion machines">"Perpetual motion" machines</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/Philosophy_of_thermal_and_statistical_physics" title="Philosophy of thermal and statistical physics">Philosophy</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Entropy_(arrow_of_time)" title="Entropy (arrow of time)">Entropy and time</a></li>
+<li><a href="/wiki/Entropy_and_life" title="Entropy and life">Entropy and life</a></li>
+<li><a href="/wiki/Brownian_ratchet" title="Brownian ratchet">Brownian ratchet</a></li>
+<li><a href="/wiki/Maxwell%27s_demon" title="Maxwell's demon">Maxwell's demon</a></li>
+<li><a href="/wiki/Heat_death_paradox" title="Heat death paradox">Heat death paradox</a></li>
+<li><a href="/wiki/Loschmidt%27s_paradox" title="Loschmidt's paradox">Loschmidt's paradox</a></li>
+<li><a href="/wiki/Synergetics_(Haken)" title="Synergetics (Haken)">Synergetics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Theories</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Caloric_theory" title="Caloric theory">Caloric theory</a></li>
+<li><a href="/wiki/Theory_of_heat" title="Theory of heat">Theory of heat</a></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Vis_viva" title="Vis viva"><i>Vis viva</i> <span style="font-size:90%;">("living force")</span></a></li>
+<li><a href="/wiki/Mechanical_equivalent_of_heat" title="Mechanical equivalent of heat">Mechanical equivalent of heat</a></li>
+<li><a href="/wiki/Motive_power" title="Motive power">Motive power</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;"><a href="/wiki/List_of_important_publications_in_physics" title="List of important publications in physics">Key publications</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/An_Experimental_Enquiry_Concerning_the_Source_of_the_Heat_which_is_Excited_by_Friction" title="An Experimental Enquiry Concerning the Source of the Heat which is Excited by Friction">An Experimental Enquiry<br/>
+Concerning ... Heat</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/On_the_Equilibrium_of_Heterogeneous_Substances" title="On the Equilibrium of Heterogeneous Substances">On the Equilibrium of<br/>
+Heterogeneous Substances</a>"</div>
+</li>
+<li>
+<div style="padding:0.2em 0.4em; line-height:1.2em;">"<a href="/wiki/Reflections_on_the_Motive_Power_of_Fire" title="Reflections on the Motive Power of Fire">Reflections on the<br/>
+Motive Power of Fire</a>"</div>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">Timelines</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Timeline_of_thermodynamics" title="Timeline of thermodynamics">Thermodynamics</a></li>
+<li><a href="/wiki/Timeline_of_heat_engine_technology" title="Timeline of heat engine technology">Heat engines</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#eaeaff;font-style:italic;">
+<div class="hlist hlist-separated">
+<ul>
+<li>Art</li>
+<li>Education</li>
+</ul>
+</div>
+</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Maxwell%27s_thermodynamic_surface" title="Maxwell's thermodynamic surface">Maxwell's thermodynamic surface</a></li>
+<li><a href="/wiki/Entropy_(energy_dispersal)" title="Entropy (energy dispersal)">Entropy as energy dispersal</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf;text-align:center;">Scientists</div>
+<div class="NavContent" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<div class="hlist">
+<ul>
+<li><a href="/wiki/Daniel_Bernoulli" title="Daniel Bernoulli">Bernoulli</a></li>
+<li><a href="/wiki/Ludwig_Boltzmann" title="Ludwig Boltzmann">Boltzmann</a></li>
+<li><a href="/wiki/Nicolas_L%C3%A9onard_Sadi_Carnot" title="Nicolas Léonard Sadi Carnot">Carnot</a></li>
+<li><a href="/wiki/Beno%C3%AEt_Paul_%C3%89mile_Clapeyron" title="Benoît Paul Émile Clapeyron">Clapeyron</a></li>
+<li><a href="/wiki/Rudolf_Clausius" title="Rudolf Clausius">Clausius</a></li>
+<li><a href="/wiki/Constantin_Carath%C3%A9odory" title="Constantin Carathéodory">Carathéodory</a></li>
+<li><a href="/wiki/Pierre_Duhem" title="Pierre Duhem">Duhem</a></li>
+<li><a href="/wiki/Josiah_Willard_Gibbs" title="Josiah Willard Gibbs">Gibbs</a></li>
+<li><a href="/wiki/Hermann_von_Helmholtz" title="Hermann von Helmholtz">von Helmholtz</a></li>
+<li><a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">Joule</a></li>
+<li><a href="/wiki/James_Clerk_Maxwell" title="James Clerk Maxwell">Maxwell</a></li>
+<li><a href="/wiki/Julius_von_Mayer" title="Julius von Mayer">von Mayer</a></li>
+<li><a href="/wiki/Lars_Onsager" title="Lars Onsager">Onsager</a></li>
+<li><a href="/wiki/William_John_Macquorn_Rankine" title="William John Macquorn Rankine">Rankine</a></li>
+<li><a href="/wiki/John_Smeaton" title="John Smeaton">Smeaton</a></li>
+<li><a href="/wiki/Georg_Ernst_Stahl" title="Georg Ernst Stahl">Stahl</a></li>
+<li><a href="/wiki/Benjamin_Thompson" title="Benjamin Thompson">Thompson</a></li>
+<li><a href="/wiki/William_Thomson,_1st_Baron_Kelvin" title="William Thomson, 1st Baron Kelvin">Thomson</a></li>
+<li><a href="/wiki/Johannes_Diderik_van_der_Waals" title="Johannes Diderik van der Waals">van der Waals</a></li>
+<li><a href="/wiki/John_James_Waterston" title="John James Waterston">Waterston</a></li>
+</ul>
+</div>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a href="/wiki/Book:Thermodynamics" title="Book:Thermodynamics">Book:Thermodynamics</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Thermodynamics_sidebar" title="Template:Thermodynamics sidebar"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Thermodynamics_sidebar" title="Template talk:Thermodynamics sidebar"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Thermodynamics_sidebar&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p>In <a href="/wiki/Thermodynamics" title="Thermodynamics">thermodynamics</a>, an <b>isentropic process</b> is an idealized <a href="/wiki/Thermodynamic_process" title="Thermodynamic process">thermodynamic process</a> that is both <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic</a> and <a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">reversible</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup><sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup><sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> The work transfers of the system are frictionless, and there is no transfer of heat or matter. Such an idealized process is useful in engineering as a model of and basis of comparison for real processes.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<p>The word 'isentropic' is occasionally, though not customarily, interpreted in another way, reading it as if its meaning were deducible from its etymology. This is contrary to its original and customarily used definition. In this occasional reading, it means a process in which the entropy of the system remains unchanged, for example because work done on the system includes friction internal to the system, and heat is withdrawn from the system, in just the right amount to compensate for the internal friction, so as to leave the entropy unchanged.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Background"><span class="tocnumber">1</span> <span class="toctext">Background</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Isentropic_processes_in_thermodynamic_systems"><span class="tocnumber">2</span> <span class="toctext">Isentropic processes in thermodynamic systems</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Isentropic_efficiencies_of_steady-flow_devices_in_thermodynamic_systems"><span class="tocnumber">2.1</span> <span class="toctext">Isentropic efficiencies of steady-flow devices in thermodynamic systems</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Isentropic_devices_in_thermodynamic_cycles"><span class="tocnumber">2.2</span> <span class="toctext">Isentropic devices in thermodynamic cycles</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Isentropic_flow"><span class="tocnumber">3</span> <span class="toctext">Isentropic flow</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Derivation_of_the_isentropic_relations"><span class="tocnumber">3.1</span> <span class="toctext">Derivation of the isentropic relations</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Table_of_isentropic_relations_for_an_ideal_gas"><span class="tocnumber">3.2</span> <span class="toctext">Table of isentropic relations for an ideal gas</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Background">Background</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=1" title="Edit section: Background">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <a href="/wiki/Second_law_of_thermodynamics" title="Second law of thermodynamics">second law of thermodynamics</a> states that,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mi>d</mi>
+<mi>S</mi>
+<mo>≥<!-- ≥ --></mo>
+<mi>δ<!-- δ --></mi>
+<mi>Q</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle TdS\geq \delta Q}</annotation>
+</semantics>
+</math></span><img alt="TdS\geq \delta Q" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/31ad1ad35067060565db4924295e4730c374db46" style="vertical-align: -0.671ex; width:10.4ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>δ<!-- δ --></mi>
+<mi>Q</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \delta Q}</annotation>
+</semantics>
+</math></span><img alt="\delta Q" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf715eece146c816847a8c5d56eae97798453d64" style="vertical-align: -0.671ex; width:2.908ex; height:2.676ex;"/></span> is the amount of energy the system gains by heating, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/></span> is the <a href="/wiki/Temperature" title="Temperature">temperature</a> of the system, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>S</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dS}</annotation>
+</semantics>
+</math></span><img alt="dS" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/66f6ab8a2a8b85df78efbea896fcfeb3d4ea39e4" style="vertical-align: -0.338ex; width:2.736ex; height:2.176ex;"/></span> is the change in entropy. The equal sign refers to a <a href="/wiki/Reversible_process_(thermodynamics)" title="Reversible process (thermodynamics)">reversible process</a>, which is an imagined idealized theoretical limit, never actually occurring in physical reality.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> For an isentropic process, which by definition is reversible, there is no transfer of energy as heat because the process is <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatic</a>. In an irreversible process of transfer of energy as work, entropy is produced within the system; consequently, in order to maintain constant entropy within the system, energy must be removed from the system as heat during the process.</p>
+<p>For reversible processes, an isentropic transformation is carried out by thermally "insulating" the system from its surroundings. Temperature is the thermodynamic <a href="/wiki/Conjugate_variables_(thermodynamics)" title="Conjugate variables (thermodynamics)">conjugate variable</a> to entropy, thus the conjugate process would be an <a href="/wiki/Isothermal_process" title="Isothermal process">isothermal process</a> in which the system is thermally "connected" to a constant-temperature heat bath.</p>
+<h2><span class="mw-headline" id="Isentropic_processes_in_thermodynamic_systems">Isentropic processes in thermodynamic systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=2" title="Edit section: Isentropic processes in thermodynamic systems">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Isentropic.jpg"><img alt="" class="thumbimage" data-file-height="500" data-file-width="500" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Isentropic.jpg/220px-Isentropic.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Isentropic.jpg/330px-Isentropic.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4a/Isentropic.jpg/440px-Isentropic.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Isentropic.jpg" title="Enlarge"></a></div>
+T-s (Entropy vs. Temperature) diagram of an isentropic process, which is a vertical line segment.</div>
+</div>
+</div>
+<p>The entropy of a given mass does not change during a process that is internally reversible and adiabatic. A process during which the entropy remains constant is called an isentropic process, written <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Δ<!-- Δ --></mi>
+<mi>s</mi>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Delta s=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \Delta s=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/41e8be6b5d820d42e03b08677c538d8464f49328" style="vertical-align: -0.338ex; width:7.329ex; height:2.343ex;"/></span> or <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>s</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s_{1}=s_{2}}</annotation>
+</semantics>
+</math></span><img alt="s_{1}=s_{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/92206953980d130b6e9971f025de8e6293dbaf19" style="vertical-align: -0.671ex; width:7.434ex; height:2.009ex;"/></span>. <sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> Some isentropic thermodynamic devices include: <a href="/wiki/Pump" title="Pump">pumps</a>, <a class="mw-redirect" href="/wiki/Gas_compressor" title="Gas compressor">gas compressors</a>, <a href="/wiki/Turbine" title="Turbine">turbines</a>, <a href="/wiki/Nozzle" title="Nozzle">nozzles</a>, and <a href="/wiki/Diffuser_(thermodynamics)" title="Diffuser (thermodynamics)">diffusers</a>.</p>
+<h3><span class="mw-headline" id="Isentropic_efficiencies_of_steady-flow_devices_in_thermodynamic_systems">Isentropic efficiencies of steady-flow devices in thermodynamic systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=3" title="Edit section: Isentropic efficiencies of steady-flow devices in thermodynamic systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Most steady-flow devices operate under adiabatic conditions, and the ideal process for these devices is the isentropic process.The parameter that describes how efficiently a device approximates a corresponding isentropic device is called isentropic or adiabatic efficiency.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup></p>
+<p>Isentropic efficiency of Turbines:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>η<!-- η --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mtext>Actual Turbine Work</mtext>
+<mtext>Isentropic Turbine Work</mtext>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>≅<!-- ≅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>a</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>s</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta _{T}={\frac {\text{Actual Turbine Work}}{\text{Isentropic Turbine Work}}}={\frac {W_{a}}{W_{s}}}\cong {\frac {h_{1}-h_{2a}}{h_{1}-h_{2s}}}}</annotation>
+</semantics>
+</math></span><img alt="\eta _{T}={\frac {\text{Actual Turbine Work}}{\text{Isentropic Turbine Work}}}={\frac {W_{a}}{W_{s}}}\cong {\frac {h_{1}-h_{2a}}{h_{1}-h_{2s}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ccea4ccc468b3d99e8822c5b63539a5ffc1f144a" style="vertical-align: -2.338ex; width:51.51ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>Isentropic efficiency of Compressors</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>η<!-- η --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mtext>Isentropic Compressor Work</mtext>
+<mtext>Actual Compressor Work</mtext>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<msub>
+<mi>W</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>≅<!-- ≅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>s</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>a</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta _{C}={\frac {\text{Isentropic Compressor Work}}{\text{Actual Compressor Work}}}={\frac {W_{s}}{W_{a}}}\cong {\frac {h_{2s}-h_{1}}{h_{2a}-h_{1}}}}</annotation>
+</semantics>
+</math></span><img alt="\eta _{C}={\frac {\text{Isentropic Compressor Work}}{\text{Actual Compressor Work}}}={\frac {W_{s}}{W_{a}}}\cong {\frac {h_{2s}-h_{1}}{h_{2a}-h_{1}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0863d8b842edfd83353929aa6fb31f7a615ae35e" style="vertical-align: -2.505ex; width:55.406ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>Isentropic efficiency of Nozzles</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>η<!-- η --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>N</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mtext>Actual KE at Nozzle Exit</mtext>
+<mtext>Isentropic KE at Nozzle Exit</mtext>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msubsup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<msubsup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>s</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mfrac>
+</mrow>
+<mo>≅<!-- ≅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>a</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>s</mi>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \eta _{N}={\frac {\text{Actual KE at Nozzle Exit}}{\text{Isentropic KE at Nozzle Exit}}}={\frac {V_{2a}^{2}}{V_{2s}^{2}}}\cong {\frac {h_{1}-h_{2a}}{h_{1}-h_{2s}}}}</annotation>
+</semantics>
+</math></span><img alt="\eta _{N}={\frac {\text{Actual KE at Nozzle Exit}}{\text{Isentropic KE at Nozzle Exit}}}={\frac {V_{2a}^{2}}{V_{2s}^{2}}}\cong {\frac {h_{1}-h_{2a}}{h_{1}-h_{2s}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9eab8666c757cf16025748e95771d80ca6419113" style="vertical-align: -3.005ex; width:55.628ex; height:7.176ex;"/></span></dd>
+</dl>
+<p>For all the above equations:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h_{1}}</annotation>
+</semantics>
+</math></span><img alt="h_{1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14e8880a2e4243a2fe5157e574a0547ef3d5d373" style="vertical-align: -0.671ex; width:2.411ex; height:2.509ex;"/></span> is the specific <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> at the entrance state</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>a</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h_{2a}}</annotation>
+</semantics>
+</math></span><img alt="h_{2a}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/36df0352e5b3dd39f5ab19d687aa244785073264" style="vertical-align: -0.671ex; width:3.288ex; height:2.509ex;"/></span> is the specific enthalpy at the exit state for the actual process</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>h</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mi>s</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h_{2s}}</annotation>
+</semantics>
+</math></span><img alt="h_{2s}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c2cd6e753499063456fa89a51c72b64b82bcb53" style="vertical-align: -0.671ex; width:3.19ex; height:2.509ex;"/></span> is the specific enthalpy at the exit state for the isentropic process</dd>
+</dl>
+<h3><span class="mw-headline" id="Isentropic_devices_in_thermodynamic_cycles">Isentropic devices in thermodynamic cycles</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=4" title="Edit section: Isentropic devices in thermodynamic cycles">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Ideal <a class="mw-redirect" href="/wiki/Rankine_Cycle" title="Rankine Cycle">Rankine Cycle</a> 1-&gt;2 Isentropic compression in a <a href="/wiki/Pump" title="Pump">pump</a><br/>
+Ideal <a class="mw-redirect" href="/wiki/Rankine_Cycle" title="Rankine Cycle">Rankine Cycle</a> 3-&gt;4 Isentropic expansion in a <a href="/wiki/Turbine" title="Turbine">turbine</a><br/>
+Ideal <a class="mw-redirect" href="/wiki/Carnot_Cycle" title="Carnot Cycle">Carnot Cycle</a> 2-&gt;3 Isentropic expansion<br/>
+Ideal <a class="mw-redirect" href="/wiki/Carnot_Cycle" title="Carnot Cycle">Carnot Cycle</a> 4-&gt;1 Isentropic compression<br/>
+Ideal <a class="mw-redirect" href="/wiki/Otto_Cycle" title="Otto Cycle">Otto Cycle</a> 1-&gt;2 Isentropic compression<br/>
+Ideal <a class="mw-redirect" href="/wiki/Otto_Cycle" title="Otto Cycle">Otto Cycle</a> 3-&gt;4 Isentropic expansion<br/>
+Ideal <a class="mw-redirect" href="/wiki/Diesel_Cycle" title="Diesel Cycle">Diesel Cycle</a> 1-&gt;2 Isentropic compression<br/>
+Ideal <a class="mw-redirect" href="/wiki/Diesel_Cycle" title="Diesel Cycle">Diesel Cycle</a> 3-&gt;4 Isentropic expansion<br/>
+Ideal <a class="mw-redirect" href="/wiki/Brayton_Cycle" title="Brayton Cycle">Brayton Cycle</a> 1-&gt;2 Isentropic compression in a <a class="mw-redirect" href="/wiki/Gas_compressor" title="Gas compressor">compressor</a><br/>
+Ideal <a class="mw-redirect" href="/wiki/Brayton_Cycle" title="Brayton Cycle">Brayton Cycle</a> 3-&gt;4 Isentropic expansion in a <a href="/wiki/Turbine" title="Turbine">turbine</a><br/>
+Ideal <a href="/wiki/Vapor-compression_refrigeration" title="Vapor-compression refrigeration">Vapor-compression refrigeration Cycle</a> 1-&gt;2 Isentropic compression in a <a class="mw-redirect" href="/wiki/Gas_compressor" title="Gas compressor">compressor</a><br/>
+NOTE: The isentropic assumptions are only applicable with ideal cycles. Real world cycles have inherent losses due to inefficient compressors and turbines. The real world system are not truly isentropic but are rather idealized as isentropic for calculation purposes.</p>
+<h2><span class="mw-headline" id="Isentropic_flow">Isentropic flow</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=5" title="Edit section: Isentropic flow">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>In fluid dynamics, an <b>isentropic flow</b> is a <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">fluid flow</a> that is both adiabatic and reversible. That is, no heat is added to the flow, and no energy transformations occur due to <a href="/wiki/Friction" title="Friction">friction</a> or <a href="/wiki/Dissipation" title="Dissipation">dissipative effects</a>. For an isentropic flow of a perfect gas, several relations can be derived to define the pressure, density and temperature along a streamline.</p>
+<p>Note that energy <b>can</b> be exchanged with the flow in an isentropic transformation, as long as it doesn't happen as heat exchange. An example of such an exchange would be an isentropic expansion or compression that entails work done on or by the flow.</p>
+<p>For an isentropic flow, entropy density can vary between different streamlines. If the entropy density is the same everywhere, then the flow is said to be <a href="/wiki/Homentropic_flow" title="Homentropic flow">homentropic</a>.</p>
+<h3><span class="mw-headline" id="Derivation_of_the_isentropic_relations">Derivation of the isentropic relations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=6" title="Edit section: Derivation of the isentropic relations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For a closed system, the total change in energy of a system is the sum of the work done and the heat added,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>U</mi>
+<mo>=</mo>
+<mi>δ<!-- δ --></mi>
+<mi>W</mi>
+<mo>+</mo>
+<mi>δ<!-- δ --></mi>
+<mi>Q</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dU=\delta W+\delta Q\,\!}</annotation>
+</semantics>
+</math></span><img alt="dU=\delta W+\delta Q\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9a17496b59ab533be9eb340dc7fb957f877e32a7" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:15.779ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>The reversible work done on a system by changing the volume is,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>W</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>p</mi>
+<mi>d</mi>
+<mi>V</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dW=-pdV\,\!}</annotation>
+</semantics>
+</math></span><img alt="dW=-pdV\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/87a5d389e67978eec91c6222343606f6fcbedfb1" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:13.19ex; height:2.509ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p}</annotation>
+</semantics>
+</math></span><img alt="p" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/81eac1e205430d1f40810df36a0edffdc367af36" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:1.259ex; height:2.009ex;"/></span> is the <a href="/wiki/Pressure" title="Pressure">pressure</a> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V}</annotation>
+</semantics>
+</math></span><img alt="V" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/af0f6064540e84211d0ffe4dac72098adfa52845" style="vertical-align: -0.338ex; width:1.798ex; height:2.176ex;"/></span> is the <a href="/wiki/Volume_(thermodynamics)" title="Volume (thermodynamics)">volume</a>. The change in <a href="/wiki/Enthalpy" title="Enthalpy">enthalpy</a> (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>H</mi>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>V</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle H=U+pV\,\!}</annotation>
+</semantics>
+</math></span><img alt="H=U+pV\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/107d7dab5b37777860cc4ba4537b527f52080f72" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:13.192ex; height:2.509ex;"/></span>) is given by,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>H</mi>
+<mo>=</mo>
+<mi>d</mi>
+<mi>U</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>d</mi>
+<mi>V</mi>
+<mo>+</mo>
+<mi>V</mi>
+<mi>d</mi>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dH=dU+pdV+Vdp\,\!}</annotation>
+</semantics>
+</math></span><img alt="dH=dU+pdV+Vdp\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c7bf47fde622b16c716e678422fdaf1eb3cbbc03" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:23.925ex; height:2.509ex;"/></span></dd>
+</dl>
+<p>Then for a process that is both reversible and adiabatic (i.e. no heat transfer occurs), <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>δ<!-- δ --></mi>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>e</mi>
+<mi>v</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \delta Q_{rev}=0\,\!}</annotation>
+</semantics>
+</math></span><img alt="\delta Q_{rev}=0\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f1c76c7fd3338ba0df072ccc349a914be3ebe7c7" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:10.136ex; height:2.676ex;"/></span>, and so <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>S</mi>
+<mo>=</mo>
+<mi>δ<!-- δ --></mi>
+<msub>
+<mi>Q</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+<mi>e</mi>
+<mi>v</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>T</mi>
+<mo>=</mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dS=\delta Q_{rev}/T=0\,\!}</annotation>
+</semantics>
+</math></span><img alt="dS=\delta Q_{rev}/T=0\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1e796f9d4d760ea05423b15327f19d997c3cf8a3" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:18.801ex; height:2.843ex;"/></span>. All reversible adiabatic processes are isentropic. This leads to two important observations,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>U</mi>
+<mo>=</mo>
+<mi>δ<!-- δ --></mi>
+<mi>W</mi>
+<mo>+</mo>
+<mi>δ<!-- δ --></mi>
+<mi>Q</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>p</mi>
+<mi>d</mi>
+<mi>V</mi>
+<mo>+</mo>
+<mn>0</mn>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dU=\delta W+\delta Q=-pdV+0\,\!}</annotation>
+</semantics>
+</math></span><img alt="dU=\delta W+\delta Q=-pdV+0\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c249e5c96aa4216f2f15eb1a74ecd2a2322ad92e" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:28.934ex; height:2.676ex;"/></span> , and</dd>
+</dl>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>H</mi>
+<mo>=</mo>
+<mi>δ<!-- δ --></mi>
+<mi>W</mi>
+<mo>+</mo>
+<mi>δ<!-- δ --></mi>
+<mi>Q</mi>
+<mo>+</mo>
+<mi>p</mi>
+<mi>d</mi>
+<mi>V</mi>
+<mo>+</mo>
+<mi>V</mi>
+<mi>d</mi>
+<mi>p</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>p</mi>
+<mi>d</mi>
+<mi>V</mi>
+<mo>+</mo>
+<mn>0</mn>
+<mo>+</mo>
+<mi>p</mi>
+<mi>d</mi>
+<mi>V</mi>
+<mo>+</mo>
+<mi>V</mi>
+<mi>d</mi>
+<mi>p</mi>
+<mo>=</mo>
+<mi>V</mi>
+<mi>d</mi>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dH=\delta W+\delta Q+pdV+Vdp=-pdV+0+pdV+Vdp=Vdp\,\!}</annotation>
+</semantics>
+</math></span><img alt="dH=\delta W+\delta Q+pdV+Vdp=-pdV+0+pdV+Vdp=Vdp\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9cf17bfad8f438c0ca8743e654f775e6569dc25e" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:64.747ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>Next, a great deal can be computed for isentropic processes of an ideal gas. For any transformation of an ideal gas, it is always true that</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>U</mi>
+<mo>=</mo>
+<mi>n</mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mi>d</mi>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dU=nC_{v}dT\,\!}</annotation>
+</semantics>
+</math></span><img alt="dU=nC_{v}dT\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/29d3e98c817eef0addc655fc8fcf80ccc5a3ba85" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:13.503ex; height:2.509ex;"/></span>, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>H</mi>
+<mo>=</mo>
+<mi>n</mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mi>d</mi>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dH=nC_{p}dT\,\!}</annotation>
+</semantics>
+</math></span><img alt="dH=nC_{p}dT\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e888bd7256b4d21ade1eeff8785df9b587f3d871" style="vertical-align: -1.005ex; margin-right: -0.387ex; width:13.813ex; height:2.843ex;"/></span>.</dd>
+</dl>
+<p>Using the general results derived above for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>U</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dU}</annotation>
+</semantics>
+</math></span><img alt="dU" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fad9083e6f626fcc9e4217e8fd3d751e1126da9b" style="vertical-align: -0.338ex; width:3.019ex; height:2.176ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>H</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dH}</annotation>
+</semantics>
+</math></span><img alt="dH" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/77a9d93e5dc534bd9cfe39961854d369bf74f3a3" style="vertical-align: -0.338ex; width:3.3ex; height:2.176ex;"/></span>, then</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>U</mi>
+<mo>=</mo>
+<mi>n</mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mi>d</mi>
+<mi>T</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>p</mi>
+<mi>d</mi>
+<mi>V</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dU=nC_{v}dT=-pdV\,\!}</annotation>
+</semantics>
+</math></span><img alt="dU=nC_{v}dT=-pdV\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/341f545f5ec8d5748a28e6c083512e1c5d9ba713" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:22.634ex; height:2.509ex;"/></span>, and</dd>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>H</mi>
+<mo>=</mo>
+<mi>n</mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mi>d</mi>
+<mi>T</mi>
+<mo>=</mo>
+<mi>V</mi>
+<mi>d</mi>
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dH=nC_{p}dT=Vdp\,\!}</annotation>
+</semantics>
+</math></span><img alt="dH=nC_{p}dT=Vdp\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/45253560ecd3d78973c6c79ec363425574a44491" style="vertical-align: -1.005ex; margin-right: -0.387ex; width:21.126ex; height:2.843ex;"/></span>.</dd>
+</dl>
+<p>So for an ideal gas, the <a href="/wiki/Heat_capacity_ratio" title="Heat capacity ratio">heat capacity ratio</a> can be written as,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>γ<!-- γ --></mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>V</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \gamma ={\frac {C_{p}}{C_{V}}}=-{\frac {dp/p}{dV/V}}\,\!}</annotation>
+</semantics>
+</math></span><img alt="\gamma ={\frac {C_{p}}{C_{V}}}=-{\frac {dp/p}{dV/V}}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/46a80686d9d313a43c6bbfaa41b76f364b299a39" style="vertical-align: -2.671ex; margin-right: -0.387ex; width:20.539ex; height:6.509ex;"/></span></dd>
+</dl>
+<p>For an ideal gas <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>γ<!-- γ --></mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \gamma \,\!}</annotation>
+</semantics>
+</math></span><img alt="\gamma \,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f6b0952c818e8f7b4bf1f3fd3034baa6fe397910" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:1.66ex; height:2.176ex;"/></span> is constant. Hence on integrating the above equation, assuming a perfect gas, we get</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>constant</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle pV^{\gamma }={\mbox{constant}}\,}</annotation>
+</semantics>
+</math></span><img alt="pV^{\gamma }={\mbox{constant}}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/09532fc0e7ad01ee68cf8165aee87e56b378c07a" style="vertical-align: -0.671ex; margin-left: -0.079ex; width:16.566ex; height:2.676ex;"/></span> i.e.</dd>
+</dl>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {p_{2}}{p_{1}}}=\left({\frac {V_{1}}{V_{2}}}\right)^{\gamma }}</annotation>
+</semantics>
+</math></span><img alt="{\frac {p_{2}}{p_{1}}}=\left({\frac {V_{1}}{V_{2}}}\right)^{\gamma }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e629b8f663985e3b3e1ebf521620621af8133f86" style="vertical-align: -2.505ex; width:14.024ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>Using the <a href="/wiki/Equation_of_state#Classical_ideal_gas_law" title="Equation of state">equation of state</a> for an ideal gas, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle pV=nRT\,\!}</annotation>
+</semantics>
+</math></span><img alt="pV=nRT\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eeb01fbc11b96a10b11abf1c8b72cbd36d9b8c94" style="vertical-align: -0.671ex; margin-left: -0.079ex; margin-right: -0.387ex; width:11.379ex; height:2.509ex;"/></span>,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>constant</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle TV^{\gamma -1}={\mbox{constant}}\,}</annotation>
+</semantics>
+</math></span><img alt="TV^{\gamma -1}={\mbox{constant}}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/755621197db156c8724095548c3047908bcee5bc" style="vertical-align: -0.338ex; width:19.069ex; height:2.676ex;"/></span></dd>
+<dd>proof: <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mi>c</mi>
+<mi>o</mi>
+<mi>n</mi>
+<mi>s</mi>
+<mi>t</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>t</mi>
+<mo stretchy="false">⇒<!-- ⇒ --></mo>
+<mi>P</mi>
+<mi>V</mi>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mi>c</mi>
+<mi>o</mi>
+<mi>n</mi>
+<mi>s</mi>
+<mi>t</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>t</mi>
+<mo stretchy="false">⇒<!-- ⇒ --></mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mi>c</mi>
+<mi>o</mi>
+<mi>n</mi>
+<mi>s</mi>
+<mi>t</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>t</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle PV^{\gamma }=constant\Rightarrow PVV^{\gamma -1}=constant\Rightarrow nRTV^{\gamma -1}=constant}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle PV^{\gamma }=constant\Rightarrow PVV^{\gamma -1}=constant\Rightarrow nRTV^{\gamma -1}=constant}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e6a307461a90c825d7cb8b06b89c377f1b6e5834" style="vertical-align: -0.338ex; width:67.142ex; height:2.676ex;"/></span></dd>
+<dd>as nR= constant itself so we can divide both sides by "nR" and still have constant term in the R.H.S.</dd>
+<dd>Ultimate result, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<mi>c</mi>
+<mi>o</mi>
+<mi>n</mi>
+<mi>s</mi>
+<mi>t</mi>
+<mi>a</mi>
+<mi>n</mi>
+<mi>t</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle TV^{\gamma -1}=constant}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle TV^{\gamma -1}=constant}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cd2a39805a309bc90d7e1b366ec00fc007fc1501" style="vertical-align: -0.338ex; width:18.938ex; height:2.676ex;"/></span></dd>
+</dl>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>constant</mtext>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {p^{\gamma -1}}{T^{\gamma }}}={\mbox{constant}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {p^{\gamma -1}}{T^{\gamma }}}={\mbox{constant}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e2f01000100e8d7732799325d6f7e1a35ab0c7d0" style="vertical-align: -1.838ex; width:17.124ex; height:5.676ex;"/></span></dd>
+</dl>
+<p>also, for constant <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<mi>R</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{p}=C_{v}+R}</annotation>
+</semantics>
+</math></span><img alt="C_{p}=C_{v}+R" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9b77b76524abc66b06cb5f86e070e859c8e0b4d2" style="vertical-align: -1.005ex; width:13.182ex; height:2.843ex;"/></span> (per mole),</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>V</mi>
+<mi>T</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+</mrow>
+<mi>p</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {V}{T}}={\frac {nR}{p}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {V}{T}}={\frac {nR}{p}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c4874c73b486cbe1955cba79eae729944cab929f" style="vertical-align: -2.338ex; width:9.758ex; height:5.843ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>n</mi>
+<mi>R</mi>
+<mi>T</mi>
+</mrow>
+<mi>V</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p={\frac {nRT}{V}}}</annotation>
+</semantics>
+</math></span><img alt="p={\frac {nRT}{V}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ba95b750112d10ce635627e9e2f19eb92ef743aa" style="vertical-align: -2.005ex; margin-left: -0.079ex; width:10.03ex; height:5.509ex;"/></span></dd>
+</dl>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>n</mi>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−<!-- − --></mo>
+<mi>n</mi>
+<mi>R</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle S_{2}-S_{1}=nC_{p}\ln \left({\frac {T_{2}}{T_{1}}}\right)-nR\ln \left({\frac {p_{2}}{p_{1}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="S_{2}-S_{1}=nC_{p}\ln \left({\frac {T_{2}}{T_{1}}}\right)-nR\ln \left({\frac {p_{2}}{p_{1}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/320d358b2d85afb332797fc3ba855046e127860a" style="vertical-align: -2.505ex; width:39.05ex; height:6.176ex;"/></span></dd>
+</dl>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>S</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mi>n</mi>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−<!-- − --></mo>
+<mi>R</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>+</mo>
+<mi>R</mi>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {S_{2}-S_{1}}{n}}=C_{p}\ln \left({\frac {T_{2}}{T_{1}}}\right)-R\ln \left({\frac {T_{2}V_{1}}{T_{1}V_{2}}}\right)=C_{v}\ln \left({\frac {T_{2}}{T_{1}}}\right)+R\ln \left({\frac {V_{2}}{V_{1}}}\right)}</annotation>
+</semantics>
+</math></span><img alt="{\frac {S_{2}-S_{1}}{n}}=C_{p}\ln \left({\frac {T_{2}}{T_{1}}}\right)-R\ln \left({\frac {T_{2}V_{1}}{T_{1}V_{2}}}\right)=C_{v}\ln \left({\frac {T_{2}}{T_{1}}}\right)+R\ln \left({\frac {V_{2}}{V_{1}}}\right)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/efb29e9a2e9f565fd40b9b2a048ad4c9ef4a4f4a" style="vertical-align: -2.505ex; width:68.243ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>Thus for isentropic processes with an ideal gas,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{2}=T_{1}\left({\frac {V_{1}}{V_{2}}}\right)^{(R/C_{v})}}</annotation>
+</semantics>
+</math></span><img alt="T_{2}=T_{1}\left({\frac {V_{1}}{V_{2}}}\right)^{(R/C_{v})}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/311781bccd2828ca29f1bbbb8210850703f54fba" style="vertical-align: -2.505ex; width:20.284ex; height:6.843ex;"/></span> or <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>R</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V_{2}=V_{1}\left({\frac {T_{1}}{T_{2}}}\right)^{(C_{v}/R)}}</annotation>
+</semantics>
+</math></span><img alt="V_{2}=V_{1}\left({\frac {T_{1}}{T_{2}}}\right)^{(C_{v}/R)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5d1803c7f5f5c55799291b7bb845a956616845e7" style="vertical-align: -2.505ex; width:20.282ex; height:6.843ex;"/></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Table_of_isentropic_relations_for_an_ideal_gas">Table of isentropic relations for an ideal gas</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=7" title="Edit section: Table of isentropic relations for an ideal gas">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<dl>
+<dd>
+<table cellpadding="5" style="bgcolor:white">
+<tr>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {T_{2}}{T_{1}}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {T_{2}}{T_{1}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0356a89820ac97a3327a54fe068d0280dd89e876" style="vertical-align: -2.338ex; width:3.266ex; height:5.843ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+<mi>γ<!-- γ --></mi>
+</mfrac>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {p_{2}}{p_{1}}}\right)^{\frac {\gamma -1}{\gamma }}}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {p_{2}}{p_{1}}}\right)^{\frac {\gamma -1}{\gamma }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/28fb55299c8dfa6002af863a2c0b0a9eba06d991" style="vertical-align: -2.505ex; width:10.036ex; height:7.509ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {V_{1}}{V_{2}}}\right)^{(\gamma -1)}}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {V_{1}}{V_{2}}}\right)^{(\gamma -1)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4a3ec97a1cef44bc96a86ec2ba310715c5308b69" style="vertical-align: -2.505ex; width:11.247ex; height:6.843ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">(</mo>
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+<mo stretchy="false">)</mo>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\rho _{2}}{\rho _{1}}}\right)^{(\gamma -1)}}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {\rho _{2}}{\rho _{1}}}\right)^{(\gamma -1)}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/432edd25e4513771ce6a05c1c9bfdd3d428ecf4c" style="vertical-align: -2.505ex; width:11.094ex; height:6.843ex;"/></span></td>
+</tr>
+<tr>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>γ<!-- γ --></mi>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {T_{2}}{T_{1}}}\right)^{\frac {\gamma }{\gamma -1}}}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {T_{2}}{T_{1}}}\right)^{\frac {\gamma }{\gamma -1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f7ef9e6b062a9c938447b2f8e5d8c93eac55540" style="vertical-align: -2.505ex; width:10.224ex; height:7.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {p_{2}}{p_{1}}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {p_{2}}{p_{1}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ce74844f8d26ad2afb1f0dc4e34c61784b1731c2" style="vertical-align: -2.338ex; width:3.078ex; height:5.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {V_{1}}{V_{2}}}\right)^{\gamma }}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {V_{1}}{V_{2}}}\right)^{\gamma }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f8192ff581dbff15bb0c416b4632d0a309d9aa26" style="vertical-align: -2.505ex; width:7.838ex; height:6.176ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\rho _{2}}{\rho _{1}}}\right)^{\gamma }}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {\rho _{2}}{\rho _{1}}}\right)^{\gamma }" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6381739a6b439b97e18f5d8a95f14cc94700e51a" style="vertical-align: -2.505ex; width:7.684ex; height:6.176ex;"/></span></td>
+</tr>
+<tr>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {T_{1}}{T_{2}}}\right)^{\frac {1}{\gamma -1}}}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {T_{1}}{T_{2}}}\right)^{\frac {1}{\gamma -1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/32bee7a94cbb6264137e4725800790a0abcc696d" style="vertical-align: -2.505ex; width:10.224ex; height:7.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>γ<!-- γ --></mi>
+</mfrac>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {p_{1}}{p_{2}}}\right)^{\frac {1}{\gamma }}}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {p_{1}}{p_{2}}}\right)^{\frac {1}{\gamma }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bea55cc27d3cd7cdc1a01390ad12724c7820a7c3" style="vertical-align: -2.505ex; width:8.319ex; height:7.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {V_{2}}{V_{1}}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {V_{2}}{V_{1}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96a137b59cf98ebeee35beb67ff9062f58c3cf8e" style="vertical-align: -2.338ex; width:3.263ex; height:5.843ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\rho _{1}}{\rho _{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {\rho _{1}}{\rho _{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/812e6246010ae445eab9a0c19fff2809ee48a768" style="vertical-align: -2.338ex; width:3.11ex; height:5.343ex;"/></span></td>
+</tr>
+<tr>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<mi>γ<!-- γ --></mi>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {T_{2}}{T_{1}}}\right)^{\frac {1}{\gamma -1}}}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {T_{2}}{T_{1}}}\right)^{\frac {1}{\gamma -1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8d89e81754a72b8400aaad7432daaedefc251143" style="vertical-align: -2.505ex; width:10.224ex; height:7.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mi>γ<!-- γ --></mi>
+</mfrac>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {p_{2}}{p_{1}}}\right)^{\frac {1}{\gamma }}}</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {p_{2}}{p_{1}}}\right)^{\frac {1}{\gamma }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71c3dffb4e0dbec3cc6ce026b2f8309f57f4137e" style="vertical-align: -2.505ex; width:8.319ex; height:7.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {V_{1}}{V_{2}}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {V_{1}}{V_{2}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/30c96d27b177817014b870a26073be997022fb16" style="vertical-align: -2.338ex; width:3.263ex; height:5.843ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>=</mo>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle =\,\!}</annotation>
+</semantics>
+</math></span><img alt="=\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bed12d38f924391bfd5907794a6c59621766dcee" style="vertical-align: -0.171ex; margin-right: -0.387ex; width:2.206ex; height:1.343ex;"/></span></td>
+<td align="center"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\rho _{2}}{\rho _{1}}}}</annotation>
+</semantics>
+</math></span><img alt="{\frac {\rho _{2}}{\rho _{1}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1ea25f3cb54be20ef4399e54aba738c15112d502" style="vertical-align: -2.338ex; width:3.11ex; height:5.343ex;"/></span></td>
+</tr>
+</table>
+</dd>
+</dl>
+<p>Derived from:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<msup>
+<mi>V</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>constant</mtext>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle pV^{\gamma }={\text{constant}}\,\!}</annotation>
+</semantics>
+</math></span><img alt="pV^{\gamma }={\text{constant}}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e504bad597ba3e5195d24b746d44fe0c7b699fc7" style="vertical-align: -0.671ex; margin-left: -0.079ex; margin-right: -0.387ex; width:16.566ex; height:2.676ex;"/></span></dd>
+</dl>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mi>V</mi>
+<mo>=</mo>
+<mi>m</mi>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle pV=mR_{s}T\,\!}</annotation>
+</semantics>
+</math></span><img alt="pV=mR_{s}T\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/986e85ab384c3db211c2591f4ac49e0c7f1ade9e" style="vertical-align: -0.671ex; margin-left: -0.079ex; margin-right: -0.387ex; width:13.035ex; height:2.509ex;"/></span></dd>
+</dl>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mo>=</mo>
+<mi>ρ<!-- ρ --></mi>
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p=\rho R_{s}T\,\!\,\!}</annotation>
+</semantics>
+</math></span><img alt="p=\rho R_{s}T\,\!\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/492074f15e2756f06af909ced74c0bd964fbda4a" style="vertical-align: -0.838ex; margin-left: -0.079ex; margin-right: -0.387ex; width:10.399ex; height:2.676ex;"/></span></dd>
+</dl>
+<dl>
+<dd>
+<dl>
+<dd>Where:</dd>
+</dl>
+</dd>
+</dl>
+<ul>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>p</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p\,\!}</annotation>
+</semantics>
+</math></span><img alt="p\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/443d02dbd01e036928c7a0f145c9421bc4d4f00e" style="vertical-align: -0.671ex; margin-left: -0.079ex; margin-right: -0.387ex; width:1.646ex; height:2.009ex;"/></span> = Pressure</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V\,\!}</annotation>
+</semantics>
+</math></span><img alt="V\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a468e2ec5d9cd335f3679285c0151db396c41fc9" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:2.185ex; height:2.176ex;"/></span> = Volume</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>γ<!-- γ --></mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \gamma \,\!}</annotation>
+</semantics>
+</math></span><img alt="\gamma \,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f6b0952c818e8f7b4bf1f3fd3034baa6fe397910" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:1.66ex; height:2.176ex;"/></span> = Ratio of specific heats = <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{p}/C_{v}\,\!}</annotation>
+</semantics>
+</math></span><img alt="C_{p}/C_{v}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6c00a8603b695d68d78e8c136e7dc10cd2fa0a03" style="vertical-align: -1.005ex; margin-right: -0.387ex; width:7.008ex; height:3.009ex;"/></span></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T\,\!}</annotation>
+</semantics>
+</math></span><img alt="T\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8e6be5af8259cedf1aac5ae3f6a5fad65ec2ef87" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:2.034ex; height:2.176ex;"/></span> = Temperature</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m\,\!}</annotation>
+</semantics>
+</math></span><img alt="m\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/030f4b5505401a882fc1ae0ad190d41639b62eed" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:2.438ex; height:1.676ex;"/></span> = Mass</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>s</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R_{s}\,\!}</annotation>
+</semantics>
+</math></span><img alt="R_{s}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/52d18181d50636cf489c3139dd5a0aab0ad34fb3" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:3.172ex; height:2.509ex;"/></span> = Gas constant for the specific gas = <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mi>M</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R/M\,\!}</annotation>
+</semantics>
+</math></span><img alt="R/M\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f26a1550b2e1d470b08a172de316051be8587b1a" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:5.787ex; height:2.843ex;"/></span></li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>R</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R\,\!}</annotation>
+</semantics>
+</math></span><img alt="R\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/eb2e17aa72cfae5654cafa7ec1ef361da9da1bd0" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:2.162ex; height:2.176ex;"/></span> = Universal gas constant</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M\,\!}</annotation>
+</semantics>
+</math></span><img alt="M\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/38ab25f751745f662bc57392d83cd4287df34010" style="vertical-align: -0.338ex; margin-right: -0.387ex; width:2.84ex; height:2.176ex;"/></span> = Molecular weight of the specific gas</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ρ<!-- ρ --></mi>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho \,\!}</annotation>
+</semantics>
+</math></span><img alt="\rho \,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a3ca1ad13fc349edd9cd45822bd059aa9a5d03c" style="vertical-align: -0.838ex; margin-right: -0.387ex; width:1.599ex; height:2.176ex;"/></span> = Density</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>p</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{p}\,\!}</annotation>
+</semantics>
+</math></span><img alt="C_{p}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9217c1f5b75842fe6003ef06f1f9e0e62a9870bd" style="vertical-align: -1.005ex; margin-right: -0.387ex; width:3.126ex; height:2.843ex;"/></span> = Specific heat at constant pressure</li>
+<li><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>C</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>v</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle C_{v}\,\!}</annotation>
+</semantics>
+</math></span><img alt="C_{v}\,\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f586b8296db873da4cb6657a5f6311aaa634d73f" style="vertical-align: -0.671ex; margin-right: -0.387ex; width:3.096ex; height:2.509ex;"/></span> = Specific heat at constant volume</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Gas_laws" title="Gas laws">Gas laws</a></li>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic process</a></li>
+<li><a href="/wiki/Isenthalpic_process" title="Isenthalpic process">Isenthalpic process</a></li>
+<li><a href="/wiki/Isentropic_analysis" title="Isentropic analysis">Isentropic analysis</a></li>
+<li><a href="/wiki/Polytropic_process" title="Polytropic process">Polytropic process</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=9" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap mw-references-columns">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation" id="CITEREFPartington1949"><a class="mw-redirect" href="/wiki/J.R._Partington" title="J.R. Partington">Partington, J.R.</a> (1949), <i>An Advanced Treatise on Physical Chemistry.</i>, volume 1, Fundamental Principles. The Properties of Gases, London: <a href="/wiki/Longman" title="Longman">Longmans, Green and Co.</a>, p. 122</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AIsentropic+process&amp;rft.aufirst=J.R.&amp;rft.aulast=Partington&amp;rft.btitle=An+Advanced+Treatise+on+Physical+Chemistry.&amp;rft.date=1949&amp;rft.genre=book&amp;rft.pages=122&amp;rft.place=Fundamental+Principles.+The+Properties+of+Gases%2C+London&amp;rft.pub=Longmans%2C+Green+and+Co.&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span>.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Kestin, J. (1966). <i>A Course in Thermodynamics</i>, Blaisdell Publishing Company, Waltham MA, p. 196.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Münster, A. (1970). <i>Classical Thermodynamics</i>, translated by E.S. Halberstadt, Wiley–Interscience, London, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-471-62430-6" title="Special:BookSources/0-471-62430-6">0-471-62430-6</a>, p. 13.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Haase, R. (1971). Survey of Fundamental Laws, chapter 1 of <i>Thermodynamics</i>, pages 1–97 of volume 1, ed. W. Jost, of <i>Physical Chemistry. An Advanced Treatise</i>, ed. H. Eyring, D. Henderson, W. Jost, Academic Press, New York, lcn 73–117081, p. 71.</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text">Borgnakke, C., Sonntag., R.E. (2009). <i>Fundamentals of Thermodynamics</i>, seventh edition, Wiley, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-470-04192-5" title="Special:BookSources/978-0-470-04192-5">978-0-470-04192-5</a>, p. 310.</span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text">Massey, B.S. (1970), <i>Mechanics of Fluids</i>, Section 12.2 (2nd edition) Van Nostrand Reinhold Company, London. Library of Congress Catalog Card Number: 67-25005, p. 19.</span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Çengel, Y.A., Boles, M.A. (2015). <i>Thermodynamics: An Engineering Approach</i>, 8th edition, McGraw-Hill, New York, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-339817-4" title="Special:BookSources/978-0-07-339817-4">978-0-07-339817-4</a>, p. 340.</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text">Çengel, Y.A., Boles, M.A. (2015). <i>Thermodynamics: An Engineering Approach</i>, 8th edition, McGraw-Hill, New York, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-339817-4" title="Special:BookSources/978-0-07-339817-4">978-0-07-339817-4</a>, pp. 340–341.</span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><a href="/wiki/Edward_A._Guggenheim" title="Edward A. Guggenheim">Guggenheim, E.A.</a> (1985). <i>Thermodynamics. An Advanced Treatment for Chemists and Physicists</i>, seventh edition, North Holland, Amsterdam, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0444869514" title="Special:BookSources/0444869514">0444869514</a>, p. 12: "As a limiting case between natural and unnatural processes we have reversible processes, which consist of the passage in either direction through a continuous series of equilibrium states. Reversible processes do not actually occur ...."</span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text">Kestin, J. (1966). <i>A Course in Thermodynamics</i>, Blaisdell Publishing Company, Waltham MA, p. 127: "However, by a stretch of imagination, it was accepted that a process, compression or expansion, as desired, could be performed "infinitely slowly" or as is sometimes said, <i>quasistatically.</i>" P. 130: "It is clear that <i>all natural processes are irreversible</i> and that reversible processes constitute convenient idealizations only."</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text">Cengel, Yunus A., and Michaeul A. Boles. Thermodynamics: An Engineering Approach. 7th Edition ed. New York: Mcgraw-Hill, 2012. Print.</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text">Cengel, Yunus A., and Michaeul A. Boles. Thermodynamics: An Engineering Approach. 7th Edition ed. New York: Mcgraw-Hill, 2012. Print.</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Isentropic_process&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Van Wylen, G.J. and Sonntag, R.E. (1965), <i>Fundamentals of Classical Thermodynamics</i>, John Wiley &amp; Sons, Inc., New York. Library of Congress Catalog Card Number: 65-19470</li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1209
+Cached time: 20170929175215
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.300 seconds
+Real time usage: 0.500 seconds
+Preprocessor visited node count: 2286/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 52062/2097152 bytes
+Template argument size: 2606/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 0/500
+Lua time usage: 0.040/10.000 seconds
+Lua memory usage: 1.83 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  165.554      1 -total
+ 56.05%   92.790      1 Template:Reflist
+ 36.89%   61.077      1 Template:Thermodynamics
+ 24.87%   41.180      5 Template:ISBN
+ 23.27%   38.525      1 Template:Citation
+  9.87%   16.332      5 Template:Catalog_lookup_link
+  9.69%   16.049      3 Template:Sidebar
+  4.68%    7.741      5 Template:Error-small
+  3.79%    6.272     15 Template:Yesno-no
+  3.49%    5.778      1 Template:Unbulleted_list
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:375900-0!canonical!math=5 and timestamp 20170929175215 and revision id 789346457
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Isentropic_process&amp;oldid=789346457">https://en.wikipedia.org/w/index.php?title=Isentropic_process&amp;oldid=789346457</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Thermodynamic_processes" title="Category:Thermodynamic processes">Thermodynamic processes</a></li><li><a href="/wiki/Category:Thermodynamic_entropy" title="Category:Thermodynamic entropy">Thermodynamic entropy</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Isentropic+process" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Isentropic+process" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Isentropic_process" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Isentropic_process" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Isentropic_process">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Isentropic_process&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Isentropic_process&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Isentropic_process" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Isentropic_process" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Isentropic_process&amp;oldid=789346457" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Isentropic_process&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q907271" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Isentropic_process&amp;id=789346457" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Isentropic+process">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Isentropic+process&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DIsentropic%2Bprocess%26returnto%3DIsentropic%2Bprocess%26oldid%3D789346457%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Isentropic_process&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B9%D9%85%D9%84%D9%8A%D8%A9_%D9%85%D8%AA%D8%B3%D8%A7%D9%88%D9%8A%D8%A9_%D8%A7%D9%84%D8%A7%D8%B9%D8%AA%D9%84%D8%A7%D8%AC" hreflang="ar" lang="ar" title="عملية متساوية الاعتلاج – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C4%B0zoentropiya_prosesi" hreflang="az" lang="az" title="İzoentropiya prosesi – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Izentropski_proces" hreflang="bs" lang="bs" title="Izentropski proces – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Proc%C3%A9s_isentr%C3%B2pic" hreflang="ca" lang="ca" title="Procés isentròpic – Catalan">Català</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Isentropisk_proces" hreflang="da" lang="da" title="Isentropisk proces – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Isentrope_Zustands%C3%A4nderung" hreflang="de" lang="de" title="Isentrope Zustandsänderung – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Proceso_isentr%C3%B3pico" hreflang="es" lang="es" title="Proceso isentrópico – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B1%D8%A7%DB%8C%D9%86%D8%AF_%D9%87%D9%85%E2%80%8C%D8%A2%D9%86%D8%AA%D8%B1%D9%88%D9%BE%DB%8C" hreflang="fa" lang="fa" title="فرایند هم‌آنتروپی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Processus_isentropique" hreflang="fr" lang="fr" title="Processus isentropique – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Proceso_isoentr%C3%B3pico" hreflang="gl" lang="gl" title="Proceso isoentrópico – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%93%B1%EC%97%94%ED%8A%B8%EB%A1%9C%ED%94%BC_%EA%B3%BC%EC%A0%95" hreflang="ko" lang="ko" title="등엔트로피 과정 – Korean">한국어</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Trasformazione_isoentropica" hreflang="it" lang="it" title="Trasformazione isoentropica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Izentr%C3%B3pikus_%C3%A1llapotv%C3%A1ltoz%C3%A1s" hreflang="hu" lang="hu" title="Izentrópikus állapotváltozás – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Isentroop" hreflang="nl" lang="nl" title="Isentroop – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%AD%89%E3%82%A8%E3%83%B3%E3%83%88%E3%83%AD%E3%83%94%E3%83%BC%E9%81%8E%E7%A8%8B" hreflang="ja" lang="ja" title="等エントロピー過程 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Isentrop_prosess" hreflang="nn" lang="nn" title="Isentrop prosess – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Przemiana_izentropowa" hreflang="pl" lang="pl" title="Przemiana izentropowa – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Transforma%C3%A7%C3%A3o_isentr%C3%B3pica" hreflang="pt" lang="pt" title="Transformação isentrópica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D1%8D%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D0%B9%D0%BD%D1%8B%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81%D1%81" hreflang="ru" lang="ru" title="Изоэнтропийный процесс – Russian">Русский</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%98%D0%B7%D0%BE%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D0%B8%D1%98%D1%81%D0%BA%D0%B8_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81" hreflang="sr" lang="sr" title="Изоентропијски процес – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C4%B0zentropik" hreflang="tr" lang="tr" title="İzentropik – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%86%D0%B7%D0%BE%D0%B5%D0%BD%D1%82%D1%80%D0%BE%D0%BF%D1%96%D0%B9%D0%BD%D0%B8%D0%B9_%D0%BF%D1%80%D0%BE%D1%86%D0%B5%D1%81" hreflang="uk" lang="uk" title="Ізоентропійний процес – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%AD%89%E7%86%B5%E8%BF%87%E7%A8%8B" hreflang="zh" lang="zh" title="等熵过程 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q907271#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 6 July 2017, at 20:48.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Isentropic_process&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.300","walltime":"0.500","ppvisitednodes":{"value":2286,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":52062,"limit":2097152},"templateargumentsize":{"value":2606,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  165.554      1 -total"," 56.05%   92.790      1 Template:Reflist"," 36.89%   61.077      1 Template:Thermodynamics"," 24.87%   41.180      5 Template:ISBN"," 23.27%   38.525      1 Template:Citation","  9.87%   16.332      5 Template:Catalog_lookup_link","  9.69%   16.049      3 Template:Sidebar","  4.68%    7.741      5 Template:Error-small","  3.79%    6.272     15 Template:Yesno-no","  3.49%    5.778      1 Template:Unbulleted_list"]},"scribunto":{"limitreport-timeusage":{"value":"0.040","limit":"10.000"},"limitreport-memusage":{"value":1916583,"limit":52428800}},"cachereport":{"origin":"mw1209","timestamp":"20170929175215","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1256"});});</script>
+</body>
+</html>

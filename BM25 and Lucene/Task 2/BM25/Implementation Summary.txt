@@ -1,0 +1,24 @@
+The Formula for BM25 requires, frequency of a word in the document and thus an inverted list is required.
+
+I have implemented the BM25 such that it first performs creating inverted index first from the Corpus available in
+"HW3-Task2/Corpus" folder.
+
+After the inverted index is created in the run, the BM25 goes ahead calculating the score for each document and ranking
+them.
+
+When the program is run, the following happens:
+
+1. The corpus is processed to create inverted index for unigram
+2. The query is read line by line from "QueryList.txt" file, where each query is split by a new line
+3. The query is split into words and these words are matched with the terms from inverted index, to create a new reduced
+   inverted index which contains only these terms
+4. The document length of each length is calculated.
+5. The Average document length of the Corpus is calculated as soon as the inverted index is generated from the corpus
+6. The score of each document is caclulated and updated with already existing score of the document if it exists
+7. For each query, the documents are ranked in descending order of their scores and the top 100 are results are recorded
+   in files inside the folder "BM25 Scores"
+8. The files are created such that for Query 1, a file called "Q1.txt" is created with top 100 results for that query.
+   This process continues for all the queries.
+   The format is:
+   query_id	Q0	doc_id	rank BM25_score	BM25
+   Ex: 1	Q0	3_Hurricane-Isabel.txt	1	6.83333212109	BM25 , this represents BM25 score for query 1

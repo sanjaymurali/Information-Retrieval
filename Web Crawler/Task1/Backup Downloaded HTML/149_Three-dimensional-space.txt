@@ -1,0 +1,2140 @@
+https://en.wikipedia.org/wiki/Three-dimensional
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Three-dimensional space - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Three-dimensional_space","wgTitle":"Three-dimensional space","wgCurRevisionId":794012642,"wgRevisionId":794012642,"wgArticleId":3054853,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles to be merged from February 2017","All articles to be merged","Articles lacking in-text citations from April 2016","All articles lacking in-text citations","Euclidean solid geometry","Analytic geometry","Multi-dimensional geometry","3 (number)"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Three-dimensional_space","wgRelevantArticleId":3054853,"wgRequestId":"WdOjKQpAIDkAAFmvycIAAAAY","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Three-dimensional","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Three-dimensional_space","wgWikibaseItemId":"Q34929","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/83/Coord_planes_color.svg/1200px-Coord_planes_color.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Three-dimensional_space" rel="alternate"/>
+<link href="/w/index.php?title=Three-dimensional_space&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Three-dimensional_space&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Three-dimensional_space" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Three-dimensional_space rootpage-Three-dimensional_space vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Three-dimensional space</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Three-dimensional&amp;redirect=no" title="Three-dimensional">Three-dimensional</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For a broader, less mathematical treatment related to this topic, see <a href="/wiki/Space" title="Space">Space</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">"Three-dimensional" redirects here. For other uses, see <a class="mw-redirect mw-disambig" href="/wiki/3D_(disambiguation)" title="3D (disambiguation)">3D (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-move" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="20" data-file-width="50" height="20" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/50px-Merge-arrows.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/75px-Merge-arrows.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/52/Merge-arrows.svg/100px-Merge-arrows.svg.png 2x" width="50"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">It has been suggested that this article be <a href="/wiki/Wikipedia:Merging" title="Wikipedia:Merging">merged</a> with <i><a class="mw-disambig" href="/wiki/Three-dimensional_graph" title="Three-dimensional graph">Three-dimensional_graph</a></i>. (<a href="/wiki/Talk:Three-dimensional_space#Merge_Proposal" title="Talk:Three-dimensional space">Discuss</a>) <small><i>Proposed since February 2017.</i></small></div>
+</td>
+</tr>
+</table>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text">
+<div class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(April 2016)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></div>
+</td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Coord_planes_color.svg"><img alt="" class="thumbimage" data-file-height="553" data-file-width="661" height="251" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Coord_planes_color.svg/300px-Coord_planes_color.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Coord_planes_color.svg/450px-Coord_planes_color.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Coord_planes_color.svg/600px-Coord_planes_color.svg.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Coord_planes_color.svg" title="Enlarge"></a></div>
+A representation of a three-dimensional <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">Cartesian coordinate system</a> with the <i>x</i>-axis pointing towards the observer.</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks plainlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;background:white;">
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;font-size:145%;line-height:1.2em"><a href="/wiki/Geometry" title="Geometry">Geometry</a></th>
+</tr>
+<tr>
+<td style="padding:0.2em 0 0.4em"><a class="image" href="/wiki/File:Stereographic_projection_in_3D.svg"><img alt="Stereographic projection in 3D.svg" data-file-height="599" data-file-width="815" height="162" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stereographic_projection_in_3D.svg/220px-Stereographic_projection_in_3D.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stereographic_projection_in_3D.svg/330px-Stereographic_projection_in_3D.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/88/Stereographic_projection_in_3D.svg/440px-Stereographic_projection_in_3D.svg.png 2x" width="220"/></a>
+<div style="padding-top:0.2em;line-height:1.2em">Projecting a <a href="/wiki/Sphere" title="Sphere">sphere</a> to a <a href="/wiki/Plane_(geometry)" title="Plane (geometry)">plane</a>.</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;border:none; background:#ddf;padding:0 0 0.15em;text-align:center; display:block;margin:0 1px 0.4em;">
+<div class="hlist hlist-separated">
+<ul>
+<li><a href="/wiki/Outline_of_geometry" title="Outline of geometry">Outline</a></li>
+<li><a href="/wiki/History_of_geometry" title="History of geometry">History</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a class="mw-redirect" href="/wiki/Branches_of_geometry" title="Branches of geometry">Branches</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Euclidean_geometry" title="Euclidean geometry">Euclidean</a></li>
+<li><a href="/wiki/Spherical_geometry" title="Spherical geometry">Spherical</a></li>
+<li><a href="/wiki/Non-Euclidean_geometry" title="Non-Euclidean geometry">Non-Euclidean</a>
+<ul>
+<li><a href="/wiki/Elliptic_geometry" title="Elliptic geometry">Elliptic</a></li>
+<li><a href="/wiki/Hyperbolic_geometry" title="Hyperbolic geometry">Hyperbolic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Synthetic_geometry" title="Synthetic geometry">Synthetic</a></li>
+<li><a href="/wiki/Analytic_geometry" title="Analytic geometry">Analytic</a></li>
+<li><a href="/wiki/Algebraic_geometry" title="Algebraic geometry">Algebraic</a></li>
+<li><a href="/wiki/Riemannian_geometry" title="Riemannian geometry">Riemannian</a></li>
+<li><a href="/wiki/Differential_geometry" title="Differential geometry">Differential</a>
+<ul>
+<li><a href="/wiki/Symplectic_geometry" title="Symplectic geometry">Symplectic</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Finite_geometry" title="Finite geometry">Finite</a></li>
+<li><a href="/wiki/Projective_geometry" title="Projective geometry">Projective</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">
+<div class="hlist hlist-separated">
+<ul>
+<li>Concepts</li>
+<li>Features</li>
+</ul>
+</div>
+</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center"><a href="/wiki/Dimension" title="Dimension">Dimension</a>
+<ul>
+<li><a href="/wiki/Compass-and-straightedge_construction" title="Compass-and-straightedge construction">Compass-and-straightedge constructions</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Angle" title="Angle">Angle</a></li>
+<li><a href="/wiki/Curve" title="Curve">Curve</a></li>
+<li><a href="/wiki/Diagonal" title="Diagonal">Diagonal</a></li>
+<li><a class="mw-redirect" href="/wiki/Orthogonal" title="Orthogonal">Orthogonal</a> (<a href="/wiki/Perpendicular" title="Perpendicular">Perpendicular</a>)</li>
+<li><a href="/wiki/Parallel_(geometry)" title="Parallel (geometry)">Parallel</a></li>
+<li><a href="/wiki/Vertex_(geometry)" title="Vertex (geometry)">Vertex</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Congruence_(geometry)" title="Congruence (geometry)">Congruence</a></li>
+<li><a href="/wiki/Similarity_(geometry)" title="Similarity (geometry)">Similarity</a></li>
+<li><a href="/wiki/Symmetry" title="Symmetry">Symmetry</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">Zero / <a href="/wiki/One-dimensional_space" title="One-dimensional space">One-dimensional</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Point_(geometry)" title="Point (geometry)">Point</a></li>
+<li><a href="/wiki/Line_(geometry)" title="Line (geometry)">Line</a>
+<ul>
+<li><a href="/wiki/Line_segment" title="Line segment">segment</a></li>
+<li><a class="mw-redirect" href="/wiki/Ray_(geometry)" title="Ray (geometry)">ray</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Length" title="Length">Length</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a href="/wiki/Two-dimensional_space" title="Two-dimensional space">Two-dimensional</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-bottom:0;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Plane_(geometry)" title="Plane (geometry)">Plane</a></li>
+<li><a href="/wiki/Area" title="Area">Area</a></li>
+<li><a href="/wiki/Polygon" title="Polygon">Polygon</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#e6e6ff; font-weight:normal;"><a href="/wiki/Triangle" title="Triangle">Triangle</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Altitude_(triangle)" title="Altitude (triangle)">Altitude</a></li>
+<li><a href="/wiki/Hypotenuse" title="Hypotenuse">Hypotenuse</a></li>
+<li><a href="/wiki/Pythagorean_theorem" title="Pythagorean theorem">Pythagorean theorem</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#e6e6ff; font-weight:normal;"><a href="/wiki/Parallelogram" title="Parallelogram">Parallelogram</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Square" title="Square">Square</a></li>
+<li><a href="/wiki/Rectangle" title="Rectangle">Rectangle</a></li>
+<li><a href="/wiki/Rhombus" title="Rhombus">Rhombus</a></li>
+<li><a href="/wiki/Rhomboid" title="Rhomboid">Rhomboid</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#e6e6ff; font-weight:normal;"><a href="/wiki/Quadrilateral" title="Quadrilateral">Quadrilateral</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Trapezoid" title="Trapezoid">Trapezoid</a></li>
+<li><a href="/wiki/Kite_(geometry)" title="Kite (geometry)">Kite</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#e6e6ff; font-weight:normal;"><a href="/wiki/Circle" title="Circle">Circle</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Diameter" title="Diameter">Diameter</a></li>
+<li><a href="/wiki/Circumference" title="Circumference">Circumference</a></li>
+<li><a href="/wiki/Area_of_a_circle" title="Area of a circle">Area</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a class="mw-selflink selflink">Three-dimensional</a></div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Volume" title="Volume">Volume</a></li>
+</ul>
+<ul>
+<li><a href="/wiki/Cube" title="Cube">Cube</a>
+<ul>
+<li><a href="/wiki/Cuboid" title="Cuboid">cuboid</a></li>
+</ul>
+</li>
+<li><a class="mw-redirect" href="/wiki/Cylinder_(geometry)" title="Cylinder (geometry)">Cylinder</a></li>
+<li><a href="/wiki/Pyramid_(geometry)" title="Pyramid (geometry)">Pyramid</a></li>
+<li><a href="/wiki/Sphere" title="Sphere">Sphere</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;"><a href="/wiki/Four-dimensional_space" title="Four-dimensional space">Four</a>- / other-dimensional</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Tesseract" title="Tesseract">Tesseract</a></li>
+<li><a href="/wiki/Hypersphere" title="Hypersphere">Hypersphere</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;padding-bottom:0.2em;"><a href="/wiki/List_of_geometers" title="List of geometers">Geometers</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">by name</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center">
+<ul>
+<li><a href="/wiki/Yasuaki_Aida" title="Yasuaki Aida">Aida</a></li>
+<li><a href="/wiki/Aryabhata" title="Aryabhata">Aryabhata</a></li>
+<li><a href="/wiki/Ahmes" title="Ahmes">Ahmes</a></li>
+<li><a class="mw-redirect" href="/wiki/Alhazen" title="Alhazen">Alhazen</a></li>
+<li><a href="/wiki/Apollonius_of_Perga" title="Apollonius of Perga">Apollonius</a></li>
+<li><a href="/wiki/Archimedes" title="Archimedes">Archimedes</a></li>
+<li><a href="/wiki/Michael_Atiyah" title="Michael Atiyah">Atiyah</a></li>
+<li><a class="mw-redirect" href="/wiki/Baudhayana" title="Baudhayana">Baudhayana</a></li>
+<li><a href="/wiki/J%C3%A1nos_Bolyai" title="János Bolyai">Bolyai</a></li>
+<li><a href="/wiki/Brahmagupta" title="Brahmagupta">Brahmagupta</a></li>
+<li><a href="/wiki/%C3%89lie_Cartan" title="Élie Cartan">Cartan</a></li>
+<li><a href="/wiki/Harold_Scott_MacDonald_Coxeter" title="Harold Scott MacDonald Coxeter">Coxeter</a></li>
+<li><a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">Descartes</a></li>
+<li><a href="/wiki/Euclid" title="Euclid">Euclid</a></li>
+<li><a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a></li>
+<li><a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Gauss</a></li>
+<li><a href="/wiki/Mikhail_Leonidovich_Gromov" title="Mikhail Leonidovich Gromov">Gromov</a></li>
+<li><a href="/wiki/David_Hilbert" title="David Hilbert">Hilbert</a></li>
+<li><a href="/wiki/Jye%E1%B9%A3%E1%B9%ADhadeva" title="Jyeṣṭhadeva">Jyeṣṭhadeva</a></li>
+<li><a href="/wiki/K%C4%81ty%C4%81yana" title="Kātyāyana">Kātyāyana</a></li>
+<li><a class="mw-redirect" href="/wiki/Omar_Khayy%C3%A1m" title="Omar Khayyám">Khayyám</a></li>
+<li><a href="/wiki/Felix_Klein" title="Felix Klein">Klein</a></li>
+<li><a href="/wiki/Nikolai_Lobachevsky" title="Nikolai Lobachevsky">Lobachevsky</a></li>
+<li><a href="/wiki/Manava" title="Manava">Manava</a></li>
+<li><a href="/wiki/Hermann_Minkowski" title="Hermann Minkowski">Minkowski</a></li>
+<li><a href="/wiki/Minggatu" title="Minggatu">Minggatu</a></li>
+<li><a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Pascal</a></li>
+<li><a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a></li>
+<li><a href="/wiki/Parameshvara" title="Parameshvara">Parameshvara</a></li>
+<li><a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Poincaré</a></li>
+<li><a href="/wiki/Bernhard_Riemann" title="Bernhard Riemann">Riemann</a></li>
+<li><a href="/wiki/Sakabe_K%C5%8Dhan" title="Sakabe Kōhan">Sakabe</a></li>
+<li><a class="mw-redirect" href="/wiki/Sijzi" title="Sijzi">Sijzi</a></li>
+<li><a href="/wiki/Nasir_al-Din_al-Tusi" title="Nasir al-Din al-Tusi">al-Tusi</a></li>
+<li><a href="/wiki/Oswald_Veblen" title="Oswald Veblen">Veblen</a></li>
+<li><a href="/wiki/Virasena" title="Virasena">Virasena</a></li>
+<li><a href="/wiki/Yang_Hui" title="Yang Hui">Yang Hui</a></li>
+<li><a href="/wiki/Ibn_al-Yasamin" title="Ibn al-Yasamin">al-Yasamin</a></li>
+<li><a href="/wiki/Zhang_Heng" title="Zhang Heng">Zhang</a></li>
+<li><a href="/wiki/List_of_geometers" title="List of geometers">List of geometers</a></li>
+</ul>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<div class="NavFrame collapsed" style="border:none;padding:0">
+<div class="NavHead" style="font-size:105%;background:transparent;text-align:left;background:#ddf; text-align:center;">by period</div>
+<div class="NavContent hlist" style="font-size:105%;padding:0.2em 0 0.4em;text-align:center;padding-bottom:0;">
+<table class="vertical-navbox nowraplinks" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%;border-collapse:collapse; border-spacing:0px; border:none; width:100%; margin:0px; font-size:100%; clear:none; float:none">
+<tr>
+<th style="padding:0.1em;background:#e6e6ff; font-weight:normal;"><a class="mw-redirect" href="/wiki/Before_Common_Era" title="Before Common Era">BCE</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Ahmes" title="Ahmes">Ahmes</a></li>
+<li><a class="mw-redirect" href="/wiki/Baudhayana" title="Baudhayana">Baudhayana</a></li>
+<li><a href="/wiki/Manava" title="Manava">Manava</a></li>
+<li><a href="/wiki/Pythagoras" title="Pythagoras">Pythagoras</a></li>
+<li><a href="/wiki/Euclid" title="Euclid">Euclid</a></li>
+<li><a href="/wiki/Archimedes" title="Archimedes">Archimedes</a></li>
+<li><a href="/wiki/Apollonius_of_Perga" title="Apollonius of Perga">Apollonius</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">1–1400s</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Zhang_Heng" title="Zhang Heng">Zhang</a></li>
+<li><a href="/wiki/K%C4%81ty%C4%81yana" title="Kātyāyana">Kātyāyana</a></li>
+<li><a href="/wiki/Aryabhata" title="Aryabhata">Aryabhata</a></li>
+<li><a href="/wiki/Brahmagupta" title="Brahmagupta">Brahmagupta</a></li>
+<li><a href="/wiki/Virasena" title="Virasena">Virasena</a></li>
+<li><a class="mw-redirect" href="/wiki/Alhazen" title="Alhazen">Alhazen</a></li>
+<li><a class="mw-redirect" href="/wiki/Sijzi" title="Sijzi">Sijzi</a></li>
+<li><a class="mw-redirect" href="/wiki/Omar_Khayy%C3%A1m" title="Omar Khayyám">Khayyám</a></li>
+<li><a href="/wiki/Ibn_al-Yasamin" title="Ibn al-Yasamin">al-Yasamin</a></li>
+<li><a href="/wiki/Nasir_al-Din_al-Tusi" title="Nasir al-Din al-Tusi">al-Tusi</a></li>
+<li><a href="/wiki/Yang_Hui" title="Yang Hui">Yang Hui</a></li>
+<li><a href="/wiki/Parameshvara" title="Parameshvara">Parameshvara</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">1400s–1700s</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Jye%E1%B9%A3%E1%B9%ADhadeva" title="Jyeṣṭhadeva">Jyeṣṭhadeva</a></li>
+<li><a href="/wiki/Ren%C3%A9_Descartes" title="René Descartes">Descartes</a></li>
+<li><a href="/wiki/Blaise_Pascal" title="Blaise Pascal">Pascal</a></li>
+<li><a href="/wiki/Minggatu" title="Minggatu">Minggatu</a></li>
+<li><a href="/wiki/Leonhard_Euler" title="Leonhard Euler">Euler</a></li>
+<li><a href="/wiki/Sakabe_K%C5%8Dhan" title="Sakabe Kōhan">Sakabe</a></li>
+<li><a href="/wiki/Yasuaki_Aida" title="Yasuaki Aida">Aida</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">1700s–1900s</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Carl_Friedrich_Gauss" title="Carl Friedrich Gauss">Gauss</a></li>
+<li><a href="/wiki/Nikolai_Lobachevsky" title="Nikolai Lobachevsky">Lobachevsky</a></li>
+<li><a href="/wiki/J%C3%A1nos_Bolyai" title="János Bolyai">Bolyai</a></li>
+<li><a href="/wiki/Bernhard_Riemann" title="Bernhard Riemann">Riemann</a></li>
+<li><a href="/wiki/Felix_Klein" title="Felix Klein">Klein</a></li>
+<li><a href="/wiki/Henri_Poincar%C3%A9" title="Henri Poincaré">Poincaré</a></li>
+<li><a href="/wiki/David_Hilbert" title="David Hilbert">Hilbert</a></li>
+<li><a href="/wiki/Hermann_Minkowski" title="Hermann Minkowski">Minkowski</a></li>
+<li><a href="/wiki/%C3%89lie_Cartan" title="Élie Cartan">Cartan</a></li>
+<li><a href="/wiki/Oswald_Veblen" title="Oswald Veblen">Veblen</a></li>
+<li><a href="/wiki/Harold_Scott_MacDonald_Coxeter" title="Harold Scott MacDonald Coxeter">Coxeter</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;background:#e6e6ff; font-weight:normal;">Present day</th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em;padding:0.2em 0.4em 0.6em;">
+<ul>
+<li><a href="/wiki/Michael_Atiyah" title="Michael Atiyah">Atiyah</a></li>
+<li><a href="/wiki/Mikhail_Leonidovich_Gromov" title="Mikhail Leonidovich Gromov">Gromov</a></li>
+</ul>
+</td>
+</tr>
+</table>
+</div>
+</div>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top: 1px solid #aaa; border-bottom: 1px solid #aaa;"><a class="image" href="/wiki/File:Crystal_Clear_app_3d.png"><img alt="Crystal Clear app 3d.png" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crystal_Clear_app_3d.png/28px-Crystal_Clear_app_3d.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crystal_Clear_app_3d.png/42px-Crystal_Clear_app_3d.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e4/Crystal_Clear_app_3d.png/56px-Crystal_Clear_app_3d.png 2x" width="28"/></a> <a href="/wiki/Portal:Geometry" title="Portal:Geometry">Geometry portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%;padding-top: 0.6em;">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:General_geometry" title="Template:General geometry"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:General_geometry" title="Template talk:General geometry"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:General_geometry&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Three-dimensional space</b> (also: <b>3-space</b> or, rarely, <b>tri-dimensional space</b>) is a geometric setting in which three values (called <a href="/wiki/Parameter" title="Parameter">parameters</a>) are required to determine the position of an element (i.e., <a class="mw-redirect" href="/wiki/Point_(mathematics)" title="Point (mathematics)">point</a>). This is the informal meaning of the term <a href="/wiki/Dimension" title="Dimension">dimension</a>.</p>
+<p>In <a href="/wiki/Physics" title="Physics">physics</a> and <a href="/wiki/Mathematics" title="Mathematics">mathematics</a>, a <a href="/wiki/Euclidean_vector" title="Euclidean vector">sequence</a> of <span class="texhtml"><i>n</i></span> <a href="/wiki/Real_number" title="Real number">numbers</a> can be understood as a location in <span class="texhtml"><i>n</i></span>-dimensional space. When <span class="texhtml"><i>n</i> = 3</span>, the set of all such locations is called <span id="3D_EUCLIDEAN_SPACE"></span><b>three-dimensional <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a></b>. It is commonly represented by the symbol <span class="texhtml">ℝ<sup>3</sup></span>. This serves as a three-parameter model of the physical <a href="/wiki/Universe" title="Universe">universe</a> (that is, the spatial part, without considering time) in which all known <a href="/wiki/Matter" title="Matter">matter</a> exists. However, this space is only one example of a large variety of spaces in three dimensions called <a href="/wiki/3-manifold" title="3-manifold">3-manifolds</a>. In this classical example, when the three values refer to measurements in different directions (<a href="/wiki/Coordinate_system" title="Coordinate system">coordinates</a>), any three directions can be chosen, provided that <a href="/wiki/Vector_space" title="Vector space">vectors</a> in these directions do not all lie in the same <a href="/wiki/Two-dimensional_space" title="Two-dimensional space">2-space</a> (<a href="/wiki/Plane_(geometry)" title="Plane (geometry)">plane</a>). Furthermore, in this case, these three values can be labeled by any combination of three chosen from the terms <i><a class="mw-redirect" href="/wiki/Width" title="Width">width</a></i>, <i><a href="/wiki/Height" title="Height">height</a></i>, <i><a href="/wiki/Elevation" title="Elevation">depth</a></i>, and <i><a class="mw-redirect" href="/wiki/Breadth" title="Breadth">breadth</a></i>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#In_euclidean_geometry"><span class="tocnumber">1</span> <span class="toctext">In euclidean geometry</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Coordinate_systems"><span class="tocnumber">1.1</span> <span class="toctext">Coordinate systems</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Lines_and_planes"><span class="tocnumber">1.2</span> <span class="toctext">Lines and planes</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Spheres_and_balls"><span class="tocnumber">1.3</span> <span class="toctext">Spheres and balls</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Polytopes"><span class="tocnumber">1.4</span> <span class="toctext">Polytopes</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Surfaces_of_revolution"><span class="tocnumber">1.5</span> <span class="toctext">Surfaces of revolution</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Quadric_surfaces"><span class="tocnumber">1.6</span> <span class="toctext">Quadric surfaces</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-8"><a href="#In_linear_algebra"><span class="tocnumber">2</span> <span class="toctext">In linear algebra</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Dot_product.2C_angle.2C_and_length"><span class="tocnumber">2.1</span> <span class="toctext">Dot product, angle, and length</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Cross_product"><span class="tocnumber">2.2</span> <span class="toctext">Cross product</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#In_calculus"><span class="tocnumber">3</span> <span class="toctext">In calculus</span></a>
+<ul>
+<li class="toclevel-2 tocsection-12"><a href="#Gradient.2C_divergence_and_curl"><span class="tocnumber">3.1</span> <span class="toctext">Gradient, divergence and curl</span></a></li>
+<li class="toclevel-2 tocsection-13"><a href="#Line_integrals.2C_surface_integrals.2C_and_volume_integrals"><span class="tocnumber">3.2</span> <span class="toctext">Line integrals, surface integrals, and volume integrals</span></a></li>
+<li class="toclevel-2 tocsection-14"><a href="#Fundamental_theorem_of_line_integrals"><span class="tocnumber">3.3</span> <span class="toctext">Fundamental theorem of line integrals</span></a></li>
+<li class="toclevel-2 tocsection-15"><a href="#Stokes.27_theorem"><span class="tocnumber">3.4</span> <span class="toctext">Stokes' theorem</span></a></li>
+<li class="toclevel-2 tocsection-16"><a href="#Divergence_theorem"><span class="tocnumber">3.5</span> <span class="toctext">Divergence theorem</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-17"><a href="#In_topology"><span class="tocnumber">4</span> <span class="toctext">In topology</span></a></li>
+<li class="toclevel-1 tocsection-18"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-19"><a href="#Notes"><span class="tocnumber">6</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">8</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="In_euclidean_geometry">In euclidean geometry</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=1" title="Edit section: In euclidean geometry">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Coordinate_systems">Coordinate systems</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=2" title="Edit section: Coordinate systems">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Coordinate_system" title="Coordinate system">Coordinate system</a></div>
+<p>In mathematics, <a href="/wiki/Analytic_geometry" title="Analytic geometry">analytic geometry</a> (also called Cartesian geometry) describes every point in three-dimensional space by means of three coordinates. Three <a class="mw-redirect" href="/wiki/Coordinate_axis" title="Coordinate axis">coordinate axes</a> are given, each perpendicular to the other two at the <a href="/wiki/Origin_(mathematics)" title="Origin (mathematics)">origin</a>, the point at which they cross. They are usually labeled <span class="texhtml"><i>x</i>, <i>y</i></span>, and <span class="texhtml"><i>z</i></span>. Relative to these axes, the position of any point in three-dimensional space is given by an ordered triple of <a href="/wiki/Real_number" title="Real number">real numbers</a>, each number giving the distance of that point from the <a href="/wiki/Origin_(mathematics)" title="Origin (mathematics)">origin</a> measured along the given axis, which is equal to the distance of that point from the plane determined by the other two axes.<sup class="reference" id="cite_ref-Hughes_1-0"><a href="#cite_note-Hughes-1">[1]</a></sup></p>
+<p>Other popular methods of describing the location of a point in three-dimensional space include <a class="mw-redirect" href="/wiki/Cylindrical_coordinates" title="Cylindrical coordinates">cylindrical coordinates</a> and <a class="mw-redirect" href="/wiki/Spherical_coordinates" title="Spherical coordinates">spherical coordinates</a>, though there are an infinite number of possible methods. See <a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a>.</p>
+<p>Below are images of the above-mentioned systems.</p>
+<ul class="gallery mw-gallery-traditional">
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Coord_XYZ.svg"><img alt="" data-file-height="360" data-file-width="360" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Coord_XYZ.svg/120px-Coord_XYZ.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/64/Coord_XYZ.svg/180px-Coord_XYZ.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/64/Coord_XYZ.svg/240px-Coord_XYZ.svg.png 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">Cartesian coordinate system</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Cylindrical_Coordinates.svg"><img alt="" data-file-height="360" data-file-width="360" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cylindrical_Coordinates.svg/120px-Cylindrical_Coordinates.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cylindrical_Coordinates.svg/180px-Cylindrical_Coordinates.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Cylindrical_Coordinates.svg/240px-Cylindrical_Coordinates.svg.png 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Cylindrical_coordinate_system" title="Cylindrical coordinate system">Cylindrical coordinate system</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 155px">
+<div style="width: 155px">
+<div class="thumb" style="width: 150px;">
+<div style="margin:15px auto;"><a class="image" href="/wiki/File:Spherical_Coordinates_(Colatitude,_Longitude).svg"><img alt="" data-file-height="360" data-file-width="360" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Spherical_Coordinates_%28Colatitude%2C_Longitude%29.svg/120px-Spherical_Coordinates_%28Colatitude%2C_Longitude%29.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Spherical_Coordinates_%28Colatitude%2C_Longitude%29.svg/180px-Spherical_Coordinates_%28Colatitude%2C_Longitude%29.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Spherical_Coordinates_%28Colatitude%2C_Longitude%29.svg/240px-Spherical_Coordinates_%28Colatitude%2C_Longitude%29.svg.png 2x" width="120"/></a></div>
+</div>
+<div class="gallerytext">
+<p><a href="/wiki/Spherical_coordinate_system" title="Spherical coordinate system">Spherical coordinate system</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h3><span class="mw-headline" id="Lines_and_planes">Lines and planes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=3" title="Edit section: Lines and planes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Two distinct points always determine a (straight) <a href="/wiki/Line_(geometry)" title="Line (geometry)">line</a>. Three distinct points are either <a class="mw-redirect" href="/wiki/Collinear" title="Collinear">collinear</a> or determine a unique plane. Four distinct points can either be collinear, <a class="mw-redirect" href="/wiki/Coplanar" title="Coplanar">coplanar</a> or determine the entire space.</p>
+<p>Two distinct lines can either intersect, be <a class="mw-redirect" href="/wiki/Parallel_line" title="Parallel line">parallel</a> or be <a href="/wiki/Skew_lines" title="Skew lines">skew</a>. Two parallel lines, or <a class="mw-redirect" href="/wiki/Two_intersecting_lines" title="Two intersecting lines">two intersecting lines</a>, lie in a unique plane, so skew lines are lines that do not meet and do not lie in a common plane.</p>
+<p>Two distinct planes can either meet in a common line or are parallel (do not meet). Three distinct planes, no pair of which are parallel, can either meet in a common line, meet in a unique common point or have no point in common. In the last case, the three lines of intersection of each pair of planes are mutually parallel.</p>
+<p>A line can lie in a given plane, intersect that plane in a unique point or be parallel to the plane. In the last case, there will be lines in the plane that are parallel to the given line.</p>
+<p>A <a href="/wiki/Hyperplane" title="Hyperplane">hyperplane</a> is a subspace of one dimension less than the dimension of the full space. The hyperplanes of a three-dimensional space are the two-dimensional subspaces, that is, the planes. In terms of cartesian coordinates, the points of a hyperplane satisfy a single <a href="/wiki/Linear_equation" title="Linear equation">linear equation</a>, so planes in this 3-space are described by linear equations. A line can be described by a pair of independent linear equations, each representing a plane having this line as a common intersection.</p>
+<p><a href="/wiki/Varignon%27s_theorem" title="Varignon's theorem">Varignon's theorem</a> states that the midpoints of any quadrilateral in ℝ<sup>3</sup> form a <a href="/wiki/Parallelogram" title="Parallelogram">parallelogram</a>, and so, are coplanar.</p>
+<h3><span class="mw-headline" id="Spheres_and_balls">Spheres and balls</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=4" title="Edit section: Spheres and balls">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Sphere" title="Sphere">Sphere</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Sphere_wireframe_10deg_6r.svg"><img alt="" class="thumbimage" data-file-height="800" data-file-width="800" height="220" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sphere_wireframe_10deg_6r.svg/220px-Sphere_wireframe_10deg_6r.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sphere_wireframe_10deg_6r.svg/330px-Sphere_wireframe_10deg_6r.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7e/Sphere_wireframe_10deg_6r.svg/440px-Sphere_wireframe_10deg_6r.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sphere_wireframe_10deg_6r.svg" title="Enlarge"></a></div>
+A two-dimensional <a href="/wiki/3D_projection#Perspective_projection" title="3D projection">perspective projection</a> of a sphere</div>
+</div>
+</div>
+<p>A <a href="/wiki/Sphere" title="Sphere">sphere</a> in 3-space (also called a <b>2-sphere</b> because it is a 2-dimensional object) consists of the set of all points in 3-space at a fixed distance <span class="texhtml"><i>r</i></span> from a central point <span class="texhtml mvar" style="font-style:italic;">P</span>. The solid enclosed by the sphere is called a <a href="/wiki/Ball_(mathematics)" title="Ball (mathematics)"><b>ball</b></a> (or, more precisely a <b>3-ball</b>). The volume of the ball is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>V</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>4</mn>
+<mn>3</mn>
+</mfrac>
+</mrow>
+<mi>π<!-- π --></mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle V={\frac {4}{3}}\pi r^{3}}</annotation>
+</semantics>
+</math></span><img alt="V = \frac{4}{3}\pi r^{3}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/07808adf2ca4b2aeb69b6c15fb6251a3a3617c91" style="vertical-align: -2.005ex; width:10.379ex; height:5.509ex;"/></span>.</dd>
+</dl>
+<p>Another type of sphere arises from a 4-ball, whose three-dimensional surface is the <b>3-sphere</b>: points equidistant to the origin of the euclidean space <span class="texhtml">ℝ<sup>4</sup></span>. If a point has coordinates, <span class="texhtml"><i>P</i>(<i>x</i>, <i>y</i>, <i>z</i>, <i>w</i>)</span>, then <span class="texhtml"><i>x</i><sup>2</sup> + <i>y</i><sup>2</sup> + <i>z</i><sup>2</sup> + <i>w</i><sup>2</sup> = 1</span> characterizes those points on the unit 3-sphere centered at the origin.</p>
+<h3><span class="mw-headline" id="Polytopes">Polytopes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=5" title="Edit section: Polytopes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Polyhedron" title="Polyhedron">Polyhedron</a></div>
+<p>In three dimensions, there are nine regular polytopes: the five convex <a href="/wiki/Platonic_solid" title="Platonic solid">Platonic solids</a> and the four nonconvex <a class="mw-redirect" href="/wiki/Kepler-Poinsot_polyhedra" title="Kepler-Poinsot polyhedra">Kepler-Poinsot polyhedra</a>.</p>
+<table class="wikitable">
+<caption>Regular polytopes in three dimensions</caption>
+<tr align="center">
+<th>Class</th>
+<th colspan="5"><a href="/wiki/Platonic_solid" title="Platonic solid">Platonic solids</a></th>
+<th colspan="4"><a class="mw-redirect" href="/wiki/Kepler-Poinsot_polyhedra" title="Kepler-Poinsot polyhedra">Kepler-Poinsot polyhedra</a></th>
+</tr>
+<tr>
+<th><a class="mw-redirect" href="/wiki/Polyhedral_symmetry" title="Polyhedral symmetry">Symmetry</a></th>
+<th><a href="/wiki/Tetrahedral_symmetry" title="Tetrahedral symmetry">T<sub>d</sub></a></th>
+<th colspan="2"><a href="/wiki/Octahedral_symmetry" title="Octahedral symmetry">O<sub>h</sub></a></th>
+<th colspan="6"><a href="/wiki/Icosahedral_symmetry" title="Icosahedral symmetry">I<sub>h</sub></a></th>
+</tr>
+<tr>
+<th><a href="/wiki/Coxeter_group" title="Coxeter group">Coxeter group</a></th>
+<th>A<sub>3</sub>, [3,3]</th>
+<th colspan="2">B<sub>3</sub>, [4,3]</th>
+<th colspan="6">H<sub>3</sub>, [5,3]</th>
+</tr>
+<tr align="center">
+<th><a class="mw-redirect" href="/wiki/Symmetry_order" title="Symmetry order">Order</a></th>
+<td>24</td>
+<td colspan="2">48</td>
+<td colspan="6">120</td>
+</tr>
+<tr align="center">
+<th><a href="/wiki/Regular_polyhedron" title="Regular polyhedron">Regular<br/>
+polyhedron</a></th>
+<td><a class="image" href="/wiki/File:Tetrahedron.svg"><img alt="Tetrahedron.svg" data-file-height="540" data-file-width="570" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tetrahedron.svg/50px-Tetrahedron.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tetrahedron.svg/75px-Tetrahedron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Tetrahedron.svg/100px-Tetrahedron.svg.png 2x" width="50"/></a><br/>
+<a href="/wiki/Tetrahedron" title="Tetrahedron">{3,3}</a></td>
+<td><a class="image" href="/wiki/File:Hexahedron.svg"><img alt="Hexahedron.svg" data-file-height="600" data-file-width="540" height="56" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hexahedron.svg/50px-Hexahedron.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hexahedron.svg/75px-Hexahedron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Hexahedron.svg/100px-Hexahedron.svg.png 2x" width="50"/></a><br/>
+<a href="/wiki/Cube" title="Cube">{4,3}</a></td>
+<td><a class="image" href="/wiki/File:Octahedron.svg"><img alt="Octahedron.svg" data-file-height="832" data-file-width="840" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Octahedron.svg/50px-Octahedron.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/07/Octahedron.svg/75px-Octahedron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/07/Octahedron.svg/100px-Octahedron.svg.png 2x" width="50"/></a><br/>
+<a href="/wiki/Octahedron" title="Octahedron">{3,4}</a></td>
+<td><a class="image" href="/wiki/File:Dodecahedron.svg"><img alt="Dodecahedron.svg" data-file-height="300" data-file-width="300" height="50" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.svg/50px-Dodecahedron.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.svg/75px-Dodecahedron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Dodecahedron.svg/100px-Dodecahedron.svg.png 2x" width="50"/></a><br/>
+<a href="/wiki/Dodecahedron" title="Dodecahedron">{5,3}</a></td>
+<td><a class="image" href="/wiki/File:Icosahedron.svg"><img alt="Icosahedron.svg" data-file-height="370" data-file-width="385" height="48" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Icosahedron.svg/50px-Icosahedron.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Icosahedron.svg/75px-Icosahedron.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b7/Icosahedron.svg/100px-Icosahedron.svg.png 2x" width="50"/></a><br/>
+<a href="/wiki/Icosahedron" title="Icosahedron">{3,5}</a></td>
+<td><a class="image" href="/wiki/File:SmallStellatedDodecahedron.jpg"><img alt="SmallStellatedDodecahedron.jpg" data-file-height="822" data-file-width="770" height="53" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SmallStellatedDodecahedron.jpg/50px-SmallStellatedDodecahedron.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SmallStellatedDodecahedron.jpg/75px-SmallStellatedDodecahedron.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/ad/SmallStellatedDodecahedron.jpg/100px-SmallStellatedDodecahedron.jpg 2x" width="50"/></a><br/>
+<a href="/wiki/Small_stellated_dodecahedron" title="Small stellated dodecahedron">{5/2,5}</a></td>
+<td><a class="image" href="/wiki/File:GreatDodecahedron.jpg"><img alt="GreatDodecahedron.jpg" data-file-height="814" data-file-width="752" height="54" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/GreatDodecahedron.jpg/50px-GreatDodecahedron.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6b/GreatDodecahedron.jpg/75px-GreatDodecahedron.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6b/GreatDodecahedron.jpg/100px-GreatDodecahedron.jpg 2x" width="50"/></a><br/>
+<a href="/wiki/Great_dodecahedron" title="Great dodecahedron">{5,5/2}</a></td>
+<td><a class="image" href="/wiki/File:GreatStellatedDodecahedron.jpg"><img alt="GreatStellatedDodecahedron.jpg" data-file-height="794" data-file-width="853" height="47" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/GreatStellatedDodecahedron.jpg/50px-GreatStellatedDodecahedron.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/GreatStellatedDodecahedron.jpg/75px-GreatStellatedDodecahedron.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/GreatStellatedDodecahedron.jpg/100px-GreatStellatedDodecahedron.jpg 2x" width="50"/></a><br/>
+<a href="/wiki/Great_stellated_dodecahedron" title="Great stellated dodecahedron">{5/2,3}</a></td>
+<td><a class="image" href="/wiki/File:GreatIcosahedron.jpg"><img alt="GreatIcosahedron.jpg" data-file-height="848" data-file-width="831" height="51" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/GreatIcosahedron.jpg/50px-GreatIcosahedron.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/GreatIcosahedron.jpg/75px-GreatIcosahedron.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/GreatIcosahedron.jpg/100px-GreatIcosahedron.jpg 2x" width="50"/></a><br/>
+<a href="/wiki/Great_icosahedron" title="Great icosahedron">{3,5/2}</a></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Surfaces_of_revolution">Surfaces of revolution</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=6" title="Edit section: Surfaces of revolution">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Surface_of_revolution" title="Surface of revolution">Surface of revolution</a></div>
+<p>A <a href="/wiki/Surface_(topology)" title="Surface (topology)">surface</a> generated by revolving a plane <a href="/wiki/Curve" title="Curve">curve</a> about a fixed line in its plane as an axis is called a <a href="/wiki/Surface_of_revolution" title="Surface of revolution">surface of revolution</a>. The plane curve is called the <i>generatrix</i> of the surface. A section of the surface, made by intersecting the surface with a plane that is perpendicular (orthogonal) to the axis, is a circle.</p>
+<p>Simple examples occur when the generatrix is a line. If the generatrix line intersects the axis line, the surface of revolution is a right circular <a class="mw-redirect" href="/wiki/Cone_(mathematics)" title="Cone (mathematics)">cone</a> with vertex (apex) the point of intersection. However, if the generatrix and axis are parallel, the surface of revolution is a circular <a class="mw-redirect" href="/wiki/Cylinder_(geometry)" title="Cylinder (geometry)">cylinder</a>.</p>
+<h3><span class="mw-headline" id="Quadric_surfaces">Quadric surfaces</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=7" title="Edit section: Quadric surfaces">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Quadric_surface" title="Quadric surface">Quadric surface</a></div>
+<p>In analogy with the <a href="/wiki/Conic_section" title="Conic section">conic sections</a>, the set of points whose cartesian coordinates satisfy the general equation of the second degree, namely,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+<msup>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>B</mi>
+<msup>
+<mi>y</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>C</mi>
+<msup>
+<mi>z</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>F</mi>
+<mi>x</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mi>G</mi>
+<mi>y</mi>
+<mi>z</mi>
+<mo>+</mo>
+<mi>H</mi>
+<mi>x</mi>
+<mi>z</mi>
+<mo>+</mo>
+<mi>J</mi>
+<mi>x</mi>
+<mo>+</mo>
+<mi>K</mi>
+<mi>y</mi>
+<mo>+</mo>
+<mi>L</mi>
+<mi>z</mi>
+<mo>+</mo>
+<mi>M</mi>
+<mo>=</mo>
+<mn>0</mn>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle Ax^{2}+By^{2}+Cz^{2}+Fxy+Gyz+Hxz+Jx+Ky+Lz+M=0,}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle Ax^{2}+By^{2}+Cz^{2}+Fxy+Gyz+Hxz+Jx+Ky+Lz+M=0,}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e94ff5a2d23a9e2b80bcd3c7b471b57f33c0a144" style="vertical-align: -0.671ex; width:66.779ex; height:3.009ex;"/></span></dd>
+</dl>
+<p>where <span class="texhtml"><i>A</i>, <i>B</i>, <i>C</i>, <i>F</i>, <i>G</i>, <i>H</i>, <i>J</i>, <i>K</i>, <i>L</i></span> and <span class="texhtml"><i>M</i></span> are real numbers and not all of <span class="texhtml"><i>A</i>, <i>B</i>, <i>C</i>, <i>F</i>, <i>G</i></span> and <span class="texhtml"><i>H</i></span> are zero is called a <b>quadric surface</b>.<sup class="reference" id="cite_ref-Brannan_2-0"><a href="#cite_note-Brannan-2">[2]</a></sup></p>
+<p>There are six types of <a href="/wiki/Degeneracy_(mathematics)" title="Degeneracy (mathematics)">non-degenerate</a> quadric surfaces:</p>
+<ol>
+<li><a href="/wiki/Ellipsoid" title="Ellipsoid">Ellipsoid</a></li>
+<li><a class="mw-redirect" href="/wiki/Hyperboloid_of_one_sheet" title="Hyperboloid of one sheet">Hyperboloid of one sheet</a></li>
+<li><a class="mw-redirect" href="/wiki/Hyperboloid_of_two_sheets" title="Hyperboloid of two sheets">Hyperboloid of two sheets</a></li>
+<li><a class="new" href="/w/index.php?title=Elliptic_cone&amp;action=edit&amp;redlink=1" title="Elliptic cone (page does not exist)">Elliptic cone</a></li>
+<li><a class="mw-redirect" href="/wiki/Elliptic_paraboloid" title="Elliptic paraboloid">Elliptic paraboloid</a></li>
+<li><a class="mw-redirect" href="/wiki/Hyperbolic_paraboloid" title="Hyperbolic paraboloid">Hyperbolic paraboloid</a></li>
+</ol>
+<p>The degenerate quadric surfaces are the empty set, a single point, a single line, a single plane, a pair of planes or a quadratic cylinder (a surface consisting of a non-degenerate conic section in a plane <span class="texhtml">π</span> and all the lines of <span class="texhtml">ℝ<sup>3</sup></span> through that conic that are normal to <span class="texhtml">π</span>).<sup class="reference" id="cite_ref-Brannan_2-1"><a href="#cite_note-Brannan-2">[2]</a></sup> Elliptic cones are sometimes considered to be degenerate quadric surfaces as well.</p>
+<p>Both the hyperboloid of one sheet and the hyperbolic paraboloid are <a href="/wiki/Ruled_surface" title="Ruled surface">ruled surfaces</a>, meaning that they can be made up from a family of straight lines. In fact, each has two families of generating lines, the members of each family are disjoint and each member one family intersects, with just one exception, every member of the other family.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> Each family is called a <a href="/wiki/Regulus_(geometry)" title="Regulus (geometry)">regulus</a>.</p>
+<h2><span class="mw-headline" id="In_linear_algebra">In linear algebra</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=8" title="Edit section: In linear algebra">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Another way of viewing three-dimensional space is found in <a href="/wiki/Linear_algebra" title="Linear algebra">linear algebra</a>, where the idea of independence is crucial. Space has three dimensions because the length of a <a href="/wiki/Cuboid" title="Cuboid">box</a> is independent of its width or breadth. In the technical language of linear algebra, space is three-dimensional because every point in space can be described by a linear combination of three independent <a href="/wiki/Coordinate_vector" title="Coordinate vector">vectors</a>.</p>
+<h3><span id="Dot_product,_angle,_and_length"></span><span class="mw-headline" id="Dot_product.2C_angle.2C_and_length">Dot product, angle, and length</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=9" title="Edit section: Dot product, angle, and length">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Dot_product" title="Dot product">Dot product</a></div>
+<p>A vector can be pictured as an arrow. Its magnitude is its length, and its direction is the direction the arrow points. A vector in <span class="texhtml">ℝ<sup>3</sup></span> can be represented by an ordered triple of real numbers. These numbers are called the <b>components</b> of the vector.</p>
+<p>The dot product of two vectors <span class="texhtml"><b>A</b> = [<i>A</i><sub>1</sub>, <i>A</i><sub>2</sub>, <i>A</i><sub><i>3</i></sub>]</span> and <span class="texhtml"><b>B</b> = [<i>B</i><sub>1</sub>, <i>B</i><sub>2</sub>, <i>B</i><sub><i>3</i></sub>]</span> is defined as:<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<msub>
+<mi>B</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msub>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {A} \cdot \mathbf {B} =A_{1}B_{1}+A_{2}B_{2}+A_{3}B_{3}.}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {A} \cdot \mathbf {B} =A_{1}B_{1}+A_{2}B_{2}+A_{3}B_{3}.}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/e56b5b8a1ebea24d47dacc1b61265a7aa5bc7ae2" style="vertical-align: -0.671ex; width:32.053ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>The magnitude of a vector <span class="texhtml"><b>A</b></span> is denoted by <span class="texhtml">||<b>A</b>||</span>. The dot product of a vector <span class="texhtml"><b>A</b> = [<i>A</i><sub>1</sub>, <i>A</i><sub>2</sub>, <i>A</i><sub><i>3</i></sub>]</span> with itself is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>=</mo>
+<mo>∥<!-- ∥ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<msup>
+<mo>∥<!-- ∥ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>=</mo>
+<msubsup>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {A} \cdot \mathbf {A} =\|\mathbf {A} \|^{2}=A_{1}^{2}+A_{2}^{2}+A_{3}^{2},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \mathbf {A} \cdot \mathbf {A} =\|\mathbf {A} \|^{2}=A_{1}^{2}+A_{2}^{2}+A_{3}^{2},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ea37b8ff9b2754b1bd11746656d08011f5797e73" style="vertical-align: -1.005ex; width:32.209ex; height:3.343ex;"/></span></dd>
+</dl>
+<p>which gives</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo fence="false" stretchy="false">∥<!-- ∥ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>∥<!-- ∥ --></mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+</msqrt>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msqrt>
+<msubsup>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>+</mo>
+<msubsup>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</msqrt>
+</mrow>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \|\mathbf {A} \|={\sqrt {\mathbf {A} \cdot \mathbf {A} }}={\sqrt {A_{1}^{2}+A_{2}^{2}+A_{3}^{2}}},}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \|\mathbf {A} \|={\sqrt {\mathbf {A} \cdot \mathbf {A} }}={\sqrt {A_{1}^{2}+A_{2}^{2}+A_{3}^{2}}},}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1a3d872a71437708017b91d904c8802aa4bfec41" style="vertical-align: -1.838ex; width:35.428ex; height:4.843ex;"/></span></dd>
+</dl>
+<p>the formula for the <a class="mw-redirect" href="/wiki/Euclidean_length" title="Euclidean length">Euclidean length</a> of the vector.</p>
+<p>Without reference to the components of the vectors, the dot product of two non-zero Euclidean vectors <span class="texhtml"><b>A</b></span> and <span class="texhtml"><b>B</b></span> is given by<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>=</mo>
+<mo>∥<!-- ∥ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">A</mi>
+</mrow>
+<mo>∥<!-- ∥ --></mo>
+<mspace width="thinmathspace"></mspace>
+<mo>∥<!-- ∥ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">B</mi>
+</mrow>
+<mo>∥<!-- ∥ --></mo>
+<mi>cos</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<mi>θ<!-- θ --></mi>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbf {A} \cdot \mathbf {B} =\|\mathbf {A} \|\,\|\mathbf {B} \|\cos \theta ,}</annotation>
+</semantics>
+</math></span><img alt="\mathbf {A} \cdot \mathbf {B} =\|\mathbf {A} \|\,\|\mathbf {B} \|\cos \theta ," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6bb1da1f07c00da888269e2fb483494fabc2efb5" style="vertical-align: -0.838ex; width:23.435ex; height:2.843ex;"/></span></dd>
+</dl>
+<p>where <span class="texhtml"><i>θ</i></span> is the <a href="/wiki/Angle" title="Angle">angle</a> between <span class="texhtml"><b>A</b></span> and <span class="texhtml"><b>B</b></span>.</p>
+<h3><span class="mw-headline" id="Cross_product">Cross product</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=10" title="Edit section: Cross product">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Cross_product" title="Cross product">Cross product</a></div>
+<p>The <a href="/wiki/Cross_product" title="Cross product">cross product</a> or <b>vector product</b> is a <a href="/wiki/Binary_operation" title="Binary operation">binary operation</a> on two <a href="/wiki/Euclidean_vector" title="Euclidean vector">vectors</a> in three-dimensional <a href="/wiki/Euclidean_space" title="Euclidean space">space</a> and is denoted by the symbol ×. The cross product <b>a</b> × <b>b</b> of the vectors <b>a</b> and <b>b</b> is a vector that is <a href="/wiki/Perpendicular" title="Perpendicular">perpendicular</a> to both and therefore <a href="/wiki/Normal_(geometry)" title="Normal (geometry)">normal</a> to the plane containing them. It has many applications in mathematics, <a href="/wiki/Physics" title="Physics">physics</a>, and <a href="/wiki/Engineering" title="Engineering">engineering</a>.</p>
+<p>The space and product form an <a href="/wiki/Algebra_over_a_field" title="Algebra over a field">algebra over a field</a>, which is neither <a class="mw-redirect" href="/wiki/Commutative" title="Commutative">commutative</a> nor <a class="mw-redirect" href="/wiki/Associative" title="Associative">associative</a>, but is a <a href="/wiki/Lie_algebra" title="Lie algebra">Lie algebra</a> with the cross product being the Lie bracket.</p>
+<p>One can in <i>n</i> dimensions take the product of <span class="nowrap"><i>n</i> − 1</span> vectors to produce a vector perpendicular to all of them. But if the product is limited to non-trivial binary products with vector results, it exists only in three and <a href="/wiki/Seven-dimensional_cross_product" title="Seven-dimensional cross product">seven dimensions</a>.<sup class="reference" id="cite_ref-Massey2_6-0"><a href="#cite_note-Massey2-6">[6]</a></sup></p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Cross_product_vector.svg"><img alt="" class="thumbimage" data-file-height="673" data-file-width="484" height="306" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cross_product_vector.svg/220px-Cross_product_vector.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cross_product_vector.svg/330px-Cross_product_vector.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Cross_product_vector.svg/440px-Cross_product_vector.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Cross_product_vector.svg" title="Enlarge"></a></div>
+The cross-product in respect to a right-handed coordinate system</div>
+</div>
+</div>
+<h2><span class="mw-headline" id="In_calculus">In calculus</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=11" title="Edit section: In calculus">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Vector_calculus" title="Vector calculus">vector calculus</a></div>
+<h3><span id="Gradient,_divergence_and_curl"></span><span class="mw-headline" id="Gradient.2C_divergence_and_curl">Gradient, divergence and curl</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=12" title="Edit section: Gradient, divergence and curl">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In a rectangular coordinate system, the gradient is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>f</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>f</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">i</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>f</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>f</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla f={\frac {\partial f}{\partial x}}\mathbf {i} +{\frac {\partial f}{\partial y}}\mathbf {j} +{\frac {\partial f}{\partial z}}\mathbf {k} }</annotation>
+</semantics>
+</math></span><img alt="\nabla f={\frac {\partial f}{\partial x}}\mathbf {i} +{\frac {\partial f}{\partial y}}\mathbf {j} +{\frac {\partial f}{\partial z}}\mathbf {k} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4487f7230a0ac1b304bb022e6b1e211499c9f78e" style="vertical-align: -2.505ex; width:25.459ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>The divergence of a <a class="mw-redirect" href="/wiki/Continuously_differentiable" title="Continuously differentiable">continuously differentiable</a> <a href="/wiki/Vector_field" title="Vector field">vector field</a> <b>F</b> = <i>U</i> <b>i</b> + <i>V</i> <b>j</b> + <i>W</i> <b>k</b> is equal to the <a href="/wiki/Scalar_(mathematics)" title="Scalar (mathematics)">scalar</a>-valued function:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>div</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>U</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>V</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>W</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \operatorname {div} \,\mathbf {F} =\nabla \cdot \mathbf {F} ={\frac {\partial U}{\partial x}}+{\frac {\partial V}{\partial y}}+{\frac {\partial W}{\partial z}}.}</annotation>
+</semantics>
+</math></span><img alt="\operatorname {div} \,\mathbf {F} =\nabla \cdot \mathbf {F} ={\frac {\partial U}{\partial x}}+{\frac {\partial V}{\partial y}}+{\frac {\partial W}{\partial z}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6884bb441ecb9acb8346e0029cacbb239e4be6f7" style="vertical-align: -2.505ex; width:36.102ex; height:6.009ex;"/></span></dd>
+</dl>
+<p>Expanded in <a href="/wiki/Cartesian_coordinate_system" title="Cartesian coordinate system">Cartesian coordinates</a> (see <a href="/wiki/Del_in_cylindrical_and_spherical_coordinates" title="Del in cylindrical and spherical coordinates">Del in cylindrical and spherical coordinates</a> for <a href="/wiki/Spherical_coordinate_system" title="Spherical coordinate system">spherical</a> and <a href="/wiki/Cylindrical_coordinate_system" title="Cylindrical coordinate system">cylindrical</a> coordinate representations), the curl ∇ × <b>F</b> is, for <b>F</b> composed of [<i>F</i><sub>x</sub>, <i>F</i><sub>y</sub>, <i>F</i><sub>z</sub>]:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow>
+<mo>|</mo>
+<mtable columnspacing="1em" rowspacing="4pt">
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">i</mi>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+</mtr>
+<mtr>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+<mtd>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+</mtd>
+</mtr>
+<mtr>
+<mtd></mtd>
+</mtr>
+<mtr>
+<mtd>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mtd>
+<mtd>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mtd>
+</mtr>
+</mtable>
+<mo>|</mo>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\begin{vmatrix}\mathbf {i} &amp;\mathbf {j} &amp;\mathbf {k} \\\\{\frac {\partial }{\partial x}}&amp;{\frac {\partial }{\partial y}}&amp;{\frac {\partial }{\partial z}}\\\\F_{x}&amp;F_{y}&amp;F_{z}\end{vmatrix}}}</annotation>
+</semantics>
+</math></span><img alt="{\begin{vmatrix}\mathbf {i} &amp;\mathbf {j} &amp;\mathbf {k} \\\\{\frac {\partial }{\partial x}}&amp;{\frac {\partial }{\partial y}}&amp;{\frac {\partial }{\partial z}}\\\\F_{x}&amp;F_{y}&amp;F_{z}\end{vmatrix}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/038432a286905bdb670fb7bafd7eaff58aea1ec1" style="vertical-align: -8.171ex; width:14.587ex; height:17.509ex;"/></span></dd>
+</dl>
+<p>where <b>i</b>, <b>j</b>, and <b>k</b> are the <a href="/wiki/Unit_vector" title="Unit vector">unit vectors</a> for the <i>x</i>-, <i>y</i>-, and <i>z</i>-axes, respectively. This expands as follows:<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">i</mi>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>z</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">j</mi>
+</mrow>
+<mo>+</mo>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>y</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>x</mi>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">k</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left({\frac {\partial F_{z}}{\partial y}}-{\frac {\partial F_{y}}{\partial z}}\right)\mathbf {i} +\left({\frac {\partial F_{x}}{\partial z}}-{\frac {\partial F_{z}}{\partial x}}\right)\mathbf {j} +\left({\frac {\partial F_{y}}{\partial x}}-{\frac {\partial F_{x}}{\partial y}}\right)\mathbf {k} }</annotation>
+</semantics>
+</math></span><img alt="\left({\frac {\partial F_{z}}{\partial y}}-{\frac {\partial F_{y}}{\partial z}}\right)\mathbf {i} +\left({\frac {\partial F_{x}}{\partial z}}-{\frac {\partial F_{z}}{\partial x}}\right)\mathbf {j} +\left({\frac {\partial F_{y}}{\partial x}}-{\frac {\partial F_{x}}{\partial y}}\right)\mathbf {k} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/55a2425af56ca087ec06362ec03a08d103d9f26f" style="vertical-align: -2.505ex; width:57.252ex; height:6.343ex;"/></span></dd>
+</dl>
+<h3><span id="Line_integrals,_surface_integrals,_and_volume_integrals"></span><span class="mw-headline" id="Line_integrals.2C_surface_integrals.2C_and_volume_integrals">Line integrals, surface integrals, and volume integrals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=13" title="Edit section: Line integrals, surface integrals, and volume integrals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>For some <a href="/wiki/Scalar_field" title="Scalar field">scalar field</a> <i>f</i> : <i>U</i> ⊆ <b>R</b><sup><i>n</i></sup> → <b>R</b>, the line integral along a <a class="mw-redirect" href="/wiki/Piecewise_smooth" title="Piecewise smooth">piecewise smooth</a> <a href="/wiki/Curve" title="Curve">curve</a> <i>C</i> ⊂ <i>U</i> is defined as</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<munder>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</munder>
+<mi>f</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>s</mi>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo stretchy="false">|</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>t</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \int \limits _{C}f\,ds=\int _{a}^{b}f(\mathbf {r} (t))|\mathbf {r} '(t)|\,dt.}</annotation>
+</semantics>
+</math></span><img alt="\int\limits_C f\, ds = \int_a^b f(\mathbf{r}(t)) |\mathbf{r}'(t)|\, dt." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0be5379e6e88e64eaba171839d88f4446697b34c" style="vertical-align: -4.171ex; margin-left: -0.022ex; width:29.364ex; height:8.176ex;"/></span></dd>
+</dl>
+<p>where <b>r</b>: [a, b] → <i>C</i> is an arbitrary <a class="mw-redirect" href="/wiki/Bijective" title="Bijective">bijective</a> <a href="/wiki/Parametric_equation" title="Parametric equation">parametrization</a> of the curve <i>C</i> such that <b>r</b>(<i>a</i>) and <b>r</b>(<i>b</i>) give the endpoints of <i>C</i> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>a</mi>
+<mo>&lt;</mo>
+<mi>b</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle a&lt;b}</annotation>
+</semantics>
+</math></span><img alt="a&lt;b" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/91a7698e4c7401bb321f97888b872b583a9e4642" style="vertical-align: -0.338ex; width:5.357ex; height:2.176ex;"/></span>.</p>
+<p>For a <a href="/wiki/Vector_field" title="Vector field">vector field</a> <b>F</b> : <i>U</i> ⊆ <b>R</b><sup><i>n</i></sup> → <b>R</b><sup><i>n</i></sup>, the line integral along a <a class="mw-redirect" href="/wiki/Piecewise_smooth" title="Piecewise smooth">piecewise smooth</a> <a href="/wiki/Curve" title="Curve">curve</a> <i>C</i> ⊂ <i>U</i>, in the direction of <b>r</b>, is defined as</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<munder>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>C</mi>
+</mrow>
+</munder>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>=</mo>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>a</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msubsup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>t</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \int \limits _{C}\mathbf {F} (\mathbf {r} )\cdot \,d\mathbf {r} =\int _{a}^{b}\mathbf {F} (\mathbf {r} (t))\cdot \mathbf {r} '(t)\,dt.}</annotation>
+</semantics>
+</math></span><img alt="\int \limits _{C}\mathbf {F} (\mathbf {r} )\cdot \,d\mathbf {r} =\int _{a}^{b}\mathbf {F} (\mathbf {r} (t))\cdot \mathbf {r} '(t)\,dt." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3229bfe133c09a4024015237d836e94d73462201" style="vertical-align: -4.171ex; margin-left: -0.022ex; width:35.191ex; height:8.176ex;"/></span></dd>
+</dl>
+<p>where · is the <a href="/wiki/Dot_product" title="Dot product">dot product</a> and <b>r</b>: [a, b] → <i>C</i> is a <a class="mw-redirect" href="/wiki/Bijective" title="Bijective">bijective</a> <a href="/wiki/Parametric_equation" title="Parametric equation">parametrization</a> of the curve <i>C</i> such that <b>r</b>(<i>a</i>) and <b>r</b>(<i>b</i>) give the endpoints of <i>C</i>.</p>
+<p>A <a href="/wiki/Surface_integral" title="Surface integral">surface integral</a> is a generalization of <a href="/wiki/Multiple_integral" title="Multiple integral">multiple integrals</a> to integration over <a href="/wiki/Surface_(topology)" title="Surface (topology)">surfaces</a>. It can be thought of as the <a class="mw-redirect" href="/wiki/Double_integral" title="Double integral">double integral</a> analog of the <a href="/wiki/Line_integral" title="Line integral">line integral</a>. To find an explicit formula for the surface integral, we need to <a href="/wiki/Coordinate_system" title="Coordinate system">parameterize</a> the surface of interest, <i>S</i>, by considering a system of <a href="/wiki/Curvilinear_coordinates" title="Curvilinear coordinates">curvilinear coordinates</a> on <i>S</i>, like the <a href="/wiki/Geographic_coordinate_system" title="Geographic coordinate system">latitude and longitude</a> on a <a href="/wiki/Sphere" title="Sphere">sphere</a>. Let such a parameterization be <b>x</b>(<i>s</i>, <i>t</i>), where (<i>s</i>, <i>t</i>) varies in some region <i>T</i> in the <a href="/wiki/Cartesian_coordinate_system#Cartesian_coordinates_in_two_dimensions" title="Cartesian coordinate system">plane</a>. Then, the surface integral is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mo>∬<!-- ∬ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>S</mi>
+</mrow>
+</msub>
+<mi>f</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>S</mi>
+<mo>=</mo>
+<msub>
+<mo>∬<!-- ∬ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>T</mi>
+</mrow>
+</msub>
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+<mo stretchy="false">(</mo>
+<mi>s</mi>
+<mo>,</mo>
+<mi>t</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">)</mo>
+<mrow>
+<mo>∥</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>s</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">x</mi>
+</mrow>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>t</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>∥</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>s</mi>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mi>t</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \iint _{S}f\,\mathrm {d} S=\iint _{T}f(\mathbf {x} (s,t))\left\|{\partial \mathbf {x}  \over \partial s}\times {\partial \mathbf {x}  \over \partial t}\right\|\mathrm {d} s\,\mathrm {d} t}</annotation>
+</semantics>
+</math></span><img alt="
+\iint_{S} f \,\mathrm dS
+= \iint_{T} f(\mathbf{x}(s, t)) \left\|{\partial \mathbf{x} \over \partial s}\times {\partial \mathbf{x} \over \partial t}\right\| \mathrm ds\, \mathrm dt
+" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/9c6f5e7652e56d80cdbb783bacaccf3b101546b2" style="vertical-align: -2.338ex; width:43.58ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>where the expression between bars on the right-hand side is the <a href="/wiki/Magnitude_(mathematics)" title="Magnitude (mathematics)">magnitude</a> of the <a href="/wiki/Cross_product" title="Cross product">cross product</a> of the <a href="/wiki/Partial_derivative" title="Partial derivative">partial derivatives</a> of <b>x</b>(<i>s</i>, <i>t</i>), and is known as the surface <a href="/wiki/Volume_element" title="Volume element">element</a>. Given a vector field <b>v</b> on <i>S</i>, that is a function that assigns to each <b>x</b> in <i>S</i> a vector <b>v</b>(<b>x</b>), the surface integral can be defined component-wise according to the definition of the surface integral of a scalar field; the result is a vector.</p>
+<p>A <a href="/wiki/Volume_integral" title="Volume integral">volume integral</a> refers to an <a href="/wiki/Integral" title="Integral">integral</a> over a 3-<a href="/wiki/Dimension" title="Dimension">dimensional</a> domain.</p>
+<p>It can also mean a <a href="/wiki/Multiple_integral" title="Multiple integral">triple integral</a> within a region <i>D</i> in <b>R</b><sup>3</sup> of a <a href="/wiki/Function_(mathematics)" title="Function (mathematics)">function</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo>,</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mo>,</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle f(x,y,z),}</annotation>
+</semantics>
+</math></span><img alt="f(x,y,z)," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/71106bab3a7c5be0d86e38ab3bd4f91cf94e9115" style="vertical-align: -0.838ex; width:9.47ex; height:2.843ex;"/></span> and is usually written as:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<munder>
+<mo>∭<!-- ∭ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</munder>
+<mi>f</mi>
+<mo stretchy="false">(</mo>
+<mi>x</mi>
+<mo>,</mo>
+<mi>y</mi>
+<mo>,</mo>
+<mi>z</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>x</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>y</mi>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>z</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \iiint \limits _{D}f(x,y,z)\,dx\,dy\,dz.}</annotation>
+</semantics>
+</math></span><img alt="\iiint \limits _{D}f(x,y,z)\,dx\,dy\,dz." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/216fa862de767818d4e5ace2438013c7c4d00c87" style="vertical-align: -4.005ex; width:22.912ex; height:7.509ex;"/></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Fundamental_theorem_of_line_integrals">Fundamental theorem of line integrals</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=14" title="Edit section: Fundamental theorem of line integrals">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/Fundamental_theorem_of_line_integrals" title="Fundamental theorem of line integrals">Fundamental theorem of line integrals</a></div>
+<p>The <a class="mw-redirect" href="/wiki/Fundamental_theorem_of_line_integrals" title="Fundamental theorem of line integrals">fundamental theorem of line integrals</a>, says that a <a href="/wiki/Line_integral" title="Line integral">line integral</a> through a <a href="/wiki/Gradient" title="Gradient">gradient</a> field can be evaluated by evaluating the original scalar field at the endpoints of the curve.</p>
+<p>Let <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+<mo>:</mo>
+<mi>U</mi>
+<mo>⊆<!-- ⊆ --></mo>
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msup>
+<mo stretchy="false">→<!-- → --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi :U\subseteq \mathbb {R} ^{n}\to \mathbb {R} }</annotation>
+</semantics>
+</math></span><img alt="\varphi :U\subseteq \mathbb {R} ^{n}\to \mathbb {R} " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0c0175ae00cc81e62cd7992fcf2d6296851e4134" style="vertical-align: -0.838ex; width:16.608ex; height:2.843ex;"/></span>. Then</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>φ<!-- φ --></mi>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">q</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>−<!-- − --></mo>
+<mi>φ<!-- φ --></mi>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">p</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<msub>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>γ<!-- γ --></mi>
+<mo stretchy="false">[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">p</mi>
+</mrow>
+<mo>,</mo>
+<mspace width="thinmathspace"></mspace>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">q</mi>
+</mrow>
+<mo stretchy="false">]</mo>
+</mrow>
+</msub>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mi>φ<!-- φ --></mi>
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \varphi \left(\mathbf {q} \right)-\varphi \left(\mathbf {p} \right)=\int _{\gamma [\mathbf {p} ,\,\mathbf {q} ]}\nabla \varphi (\mathbf {r} )\cdot d\mathbf {r} .}</annotation>
+</semantics>
+</math></span><img alt="\varphi \left(\mathbf {q} \right)-\varphi \left(\mathbf {p} \right)=\int _{\gamma [\mathbf {p} ,\,\mathbf {q} ]}\nabla \varphi (\mathbf {r} )\cdot d\mathbf {r} ." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b27cdd0377931a70cbb0635e37781a42e7fe33f9" style="vertical-align: -2.838ex; width:34.152ex; height:6.343ex;"/></span></dd>
+</dl>
+<h3><span id="Stokes'_theorem"></span><span class="mw-headline" id="Stokes.27_theorem">Stokes' theorem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=15" title="Edit section: Stokes' theorem">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Stokes%27_theorem" title="Stokes' theorem">Stokes' theorem</a></div>
+<p><a href="/wiki/Stokes%27_theorem" title="Stokes' theorem">Stokes' theorem</a> relates the <a href="/wiki/Surface_integral" title="Surface integral">surface integral</a> of the <a href="/wiki/Curl_(mathematics)" title="Curl (mathematics)">curl</a> of a <a href="/wiki/Vector_field" title="Vector field">vector field</a> F over a surface Σ in Euclidean three-space to the <a href="/wiki/Line_integral" title="Line integral">line integral</a> of the vector field over its boundary ∂Σ:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mo>∬<!-- ∬ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+</mrow>
+</msub>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mo>×<!-- × --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">Σ<!-- Σ --></mi>
+</mrow>
+<mo>=</mo>
+<msub>
+<mo>∮</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi mathvariant="normal">Σ<!-- Σ --></mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">d</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">r</mi>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \iint _{\Sigma }\nabla \times \mathbf {F} \cdot \mathrm {d} \mathbf {\Sigma } =\oint _{\partial \Sigma }\mathbf {F} \cdot \mathrm {d} \mathbf {r} .}</annotation>
+</semantics>
+</math></span><img alt="\iint _{\Sigma }\nabla \times \mathbf {F} \cdot \mathrm {d} \mathbf {\Sigma } =\oint _{\partial \Sigma }\mathbf {F} \cdot \mathrm {d} \mathbf {r} ." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cead7e9f3385aeb8c1d696881806bcf0a152ad47" style="vertical-align: -2.338ex; width:29.387ex; height:5.843ex;"/></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Divergence_theorem">Divergence theorem</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=16" title="Edit section: Divergence theorem">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Divergence_theorem" title="Divergence theorem">Divergence theorem</a></div>
+<p>Suppose <span class="texhtml mvar" style="font-style:italic;">V</span> is a subset of <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>n</mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \mathbb {R} ^{n}}</annotation>
+</semantics>
+</math></span><img alt="\mathbb {R} ^{n}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c510b63578322050121fe966f2e5770bea43308d" style="vertical-align: -0.338ex; width:2.914ex; height:2.343ex;"/></span> (in the case of <span class="texhtml"><i>n</i> = 3, <i>V</i></span> represents a volume in 3D space) which is <a href="/wiki/Compact_space" title="Compact space">compact</a> and has a <a href="/wiki/Piecewise" title="Piecewise">piecewise</a> <a class="mw-redirect" href="/wiki/Smooth_surface" title="Smooth surface">smooth boundary</a> <span class="texhtml mvar" style="font-style:italic;">S</span> (also indicated with <span class="texhtml">∂<i>V</i> = <i>S</i> </span>). If <span class="texhtml"><b>F</b></span> is a continuously differentiable vector field defined on a neighborhood of <span class="texhtml mvar" style="font-style:italic;">V</span>, then the <a href="/wiki/Divergence_theorem" title="Divergence theorem">divergence theorem</a> says:<sup class="reference" id="cite_ref-spiegel_8-0"><a href="#cite_note-spiegel-8">[8]</a></sup></p>
+<dl>
+<dd><span class="nowrap"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mo>∭<!-- ∭ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>V</mi>
+</mrow>
+</msub>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>V</mi>
+<mo>=</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \iiint _{V}\left(\mathbf {\nabla } \cdot \mathbf {F} \right)\,dV=}</annotation>
+</semantics>
+</math></span><img alt="\iiint _{V}\left(\mathbf {\nabla } \cdot \mathbf {F} \right)\,dV=" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/fc7883c6b35e7edce9978884b0f6fb95c2c51993" style="vertical-align: -2.338ex; width:19.021ex; height:5.843ex;"/></span> <img alt="\oiint" data-file-height="354" data-file-width="204" height="44" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/25px-OiintLaTeX.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/38px-OiintLaTeX.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/OiintLaTeX.svg/50px-OiintLaTeX.svg.png 2x" width="25"/><span style="position:relative; right:8px; top:18px; margin-right:-8px;"><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<mi>S</mi>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle S}</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle S" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62e91bf22a258bad807b5a9ae8068ef38202ca30" style="vertical-align: -0.338ex; width:1.068ex; height:1.843ex;"/></span></span> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">F</mi>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="bold">n</mi>
+</mrow>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>S</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (\mathbf {F} \cdot \mathbf {n} )\,dS.}</annotation>
+</semantics>
+</math></span><img alt="(\mathbf {F} \cdot \mathbf {n} )\,dS." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a092de3b4f8ef65be65f520b5a57bf22dd8474ee" style="vertical-align: -0.838ex; width:10.489ex; height:2.843ex;"/></span></span></dd>
+</dl>
+<p>The left side is a <a href="/wiki/Volume_integral" title="Volume integral">volume integral</a> over the volume <span class="texhtml mvar" style="font-style:italic;">V</span>, the right side is the <a href="/wiki/Surface_integral" title="Surface integral">surface integral</a> over the boundary of the volume <span class="texhtml mvar" style="font-style:italic;">V</span>. The closed manifold <span class="texhtml">∂<i>V</i></span> is quite generally the boundary of <span class="texhtml mvar" style="font-style:italic;">V</span> oriented by outward-pointing <a class="mw-redirect" href="/wiki/Surface_normal" title="Surface normal">normals</a>, and <span class="texhtml"><b>n</b></span> is the outward pointing unit normal field of the boundary <span class="texhtml">∂<i>V</i></span>. (<span class="texhtml"><i>d</i><b>S</b></span> may be used as a shorthand for <span class="texhtml"><b>n</b><i>dS</i></span>.)</p>
+<h2><span class="mw-headline" id="In_topology">In topology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=17" title="Edit section: In topology">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Three-dimensional space has a number of topological properties that distinguish it from spaces of other dimension numbers. For example, at least three dimensions are required to tie a <a href="/wiki/Knot_theory" title="Knot theory">knot</a> in a piece of string.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<p>With the space <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mstyle displaystyle="false" scriptlevel="1">
+<msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="double-struck">R</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mstyle>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \scriptstyle {\mathbb {R} }^{3}}</annotation>
+</semantics>
+</math></span><img alt="\scriptstyle{\mathbb{R}}^3" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4f7c711f76bda3223b0fdf9c30c35b3c721206f0" style="vertical-align: -0.338ex; width:2.032ex; height:2.176ex;"/></span>, the topologists locally model all other <a href="/wiki/3-manifold" title="3-manifold">3-manifolds</a>.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=18" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Dimensional_analysis" title="Dimensional analysis">Dimensional analysis</a></li>
+<li><a href="/wiki/Distance_from_a_point_to_a_plane" title="Distance from a point to a plane">Distance from a point to a plane</a></li>
+<li><a href="/wiki/Skew_lines#Distance" title="Skew lines">Skew lines § Distance</a></li>
+<li><a class="mw-redirect" href="/wiki/Graph_of_a_function_of_two_variables" title="Graph of a function of two variables">Three-dimensional graph</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=19" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-Hughes-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hughes_1-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Hughes-Hallett, Deborah; McCallum, William G.; Gleason, Andrew M. (2013). <i>Calculus : Single and Multivariable</i> (6 ed.). John wiley. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0470-88861-2" title="Special:BookSources/978-0470-88861-2">978-0470-88861-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-dimensional+space&amp;rft.au=Gleason%2C+Andrew+M.&amp;rft.au=McCallum%2C+William+G.&amp;rft.aufirst=Deborah&amp;rft.aulast=Hughes-Hallett&amp;rft.btitle=Calculus+%3A+Single+and+Multivariable&amp;rft.date=2013&amp;rft.edition=6&amp;rft.genre=book&amp;rft.isbn=978-0470-88861-2&amp;rft.pub=John+wiley&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Brannan-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Brannan_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Brannan_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a href="#CITEREFBrannanEsplenGray1999">Brannan, Esplen &amp; Gray 1999</a>, pp. 34–5</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrannanEsplenGray1999">Brannan, Esplen &amp; Gray 1999</a>, pp. 41–2</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a href="#CITEREFAnton1994">Anton 1994</a>, p. 133</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a href="#CITEREFAnton1994">Anton 1994</a>, p. 131</span></li>
+<li id="cite_note-Massey2-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Massey2_6-0">^</a></b></span> <span class="reference-text"><cite class="citation journal" id="CITEREFWS_Massey1983">WS Massey (1983). "Cross products of vectors in higher dimensional Euclidean spaces". <i>The American Mathematical Monthly</i>. <b>90</b> (10): 697–701. <a href="/wiki/JSTOR" title="JSTOR">JSTOR</a> <a class="external text" href="//www.jstor.org/stable/2323537" rel="nofollow">2323537</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.2307%2F2323537" rel="nofollow">10.2307/2323537</a>. <q>If one requires only three basic properties of the cross product ... it turns out that a cross product of vectors exists only in 3-dimensional and 7-dimensional Euclidean space.</q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-dimensional+space&amp;rft.atitle=Cross+products+of+vectors+in+higher+dimensional+Euclidean+spaces&amp;rft.au=WS+Massey&amp;rft.date=1983&amp;rft.genre=article&amp;rft.issue=10&amp;rft.jtitle=The+American+Mathematical+Monthly&amp;rft.pages=697-701&amp;rft.volume=90&amp;rft_id=%2F%2Fwww.jstor.org%2Fstable%2F2323537&amp;rft_id=info%3Adoi%2F10.2307%2F2323537&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">Arfken, p. 43.</span></li>
+<li id="cite_note-spiegel-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-spiegel_8-0">^</a></b></span> <span class="reference-text"><cite class="citation book">M. R. Spiegel; S. Lipschutz; D. Spellman (2009). <i>Vector Analysis</i>. Schaum’s Outlines (2nd ed.). USA: McGraw Hill. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-161545-7" title="Special:BookSources/978-0-07-161545-7">978-0-07-161545-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-dimensional+space&amp;rft.au=D.+Spellman&amp;rft.au=M.+R.+Spiegel&amp;rft.au=S.+Lipschutz&amp;rft.btitle=Vector+Analysis&amp;rft.date=2009&amp;rft.edition=2nd&amp;rft.genre=book&amp;rft.isbn=978-0-07-161545-7&amp;rft.place=USA&amp;rft.pub=McGraw+Hill&amp;rft.series=Schaum%E2%80%99s+Outlines&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">Rolfsen, Dale (1976). <i>Knots and Links</i>. Berkeley, California: Publish or Perish. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-914098-16-0" title="Special:BookSources/0-914098-16-0">0-914098-16-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-dimensional+space&amp;rft.aufirst=Dale&amp;rft.aulast=Rolfsen&amp;rft.btitle=Knots+and+Links&amp;rft.date=1976&amp;rft.genre=book&amp;rft.isbn=0-914098-16-0&amp;rft.place=Berkeley%2C+California&amp;rft.pub=Publish+or+Perish&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=20" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation" id="CITEREFAnton1994">Anton, Howard (1994), <i>Elementary Linear Algebra</i> (7th ed.), John Wiley &amp; Sons, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-471-58742-2" title="Special:BookSources/978-0-471-58742-2">978-0-471-58742-2</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-dimensional+space&amp;rft.aufirst=Howard&amp;rft.aulast=Anton&amp;rft.btitle=Elementary+Linear+Algebra&amp;rft.date=1994&amp;rft.edition=7th&amp;rft.genre=book&amp;rft.isbn=978-0-471-58742-2&amp;rft.pub=John+Wiley+%26+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><a href="/wiki/George_B._Arfken" title="George B. Arfken">Arfken, George B.</a> and Hans J. Weber. <i>Mathematical Methods For Physicists</i>, Academic Press; 6 edition (June 21, 2005). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-12-059876-2" title="Special:BookSources/978-0-12-059876-2">978-0-12-059876-2</a>.</li>
+<li><cite class="citation" id="CITEREFBrannanEsplenGray1999">Brannan, David A.; Esplen, Matthew F.; Gray, Jeremy J. (1999), <i>Geometry</i>, Cambridge University Press, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-521-59787-6" title="Special:BookSources/978-0-521-59787-6">978-0-521-59787-6</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-dimensional+space&amp;rft.au=Esplen%2C+Matthew+F.&amp;rft.au=Gray%2C+Jeremy+J.&amp;rft.aufirst=David+A.&amp;rft.aulast=Brannan&amp;rft.btitle=Geometry&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=978-0-521-59787-6&amp;rft.pub=Cambridge+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Three-dimensional_space&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="355" data-file-width="300" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/34px-Wikiquote-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/51px-Wikiquote-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Wikiquote-logo.svg/68px-Wikiquote-logo.svg.png 2x" width="34"/></td>
+<td class="mbox-text plainlist">Wikiquote has quotations related to: <i><b><a class="extiw" href="https://en.wikiquote.org/wiki/Special:Search/Three-dimensional_space" title="q:Special:Search/Three-dimensional space">Three-dimensional space</a></b></i></td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:3D" title="commons:Category:3D">3D</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="image" href="/wiki/File:Wiktionary-logo-en-v2.svg"><img alt="" class="noviewer" data-file-height="391" data-file-width="391" height="16" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/16px-Wiktionary-logo-en-v2.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/24px-Wiktionary-logo-en-v2.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/99/Wiktionary-logo-en-v2.svg/32px-Wiktionary-logo-en-v2.svg.png 2x" width="16"/></a> The dictionary definition of <a class="extiw" href="https://en.wiktionary.org/wiki/three-dimensional" title="wiktionary:three-dimensional">three-dimensional</a> at Wiktionary</li>
+<li><span class="citation mathworld" id="Reference-Mathworld-Four-Dimensional_Geometry"><cite class="citation web"><a href="/wiki/Eric_W._Weisstein" title="Eric W. Weisstein">Weisstein, Eric W.</a> <a class="external text" href="http://mathworld.wolfram.com/Four-DimensionalGeometry.html" rel="nofollow">"Four-Dimensional Geometry"</a>. <i><a href="/wiki/MathWorld" title="MathWorld">MathWorld</a></i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThree-dimensional+space&amp;rft.atitle=Four-Dimensional+Geometry&amp;rft.au=Weisstein%2C+Eric+W.&amp;rft.genre=unknown&amp;rft.jtitle=MathWorld&amp;rft_id=http%3A%2F%2Fmathworld.wolfram.com%2FFour-DimensionalGeometry.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ul>
+<ul>
+<li><a class="external text" href="http://www.numbertheory.org/book/cha8.pdf" rel="nofollow">Elementary Linear Algebra - Chapter 8: Three-dimensional Geometry</a> Keith Matthews from <a href="/wiki/University_of_Queensland" title="University of Queensland">University of Queensland</a>, 1991</li>
+</ul>
+<div aria-labelledby="Dimension" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible uncollapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Dimension_topics" title="Template:Dimension topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Dimension_topics" title="Template talk:Dimension topics"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Dimension_topics&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Dimension" style="font-size:114%;margin:0 4em"><a href="/wiki/Dimension" title="Dimension">Dimension</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Dimensional spaces</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dimension_(vector_space)" title="Dimension (vector space)">Vector space</a></li>
+<li><a href="/wiki/Euclidean_space" title="Euclidean space">Euclidean space</a></li>
+<li><a href="/wiki/Affine_space" title="Affine space">Affine space</a></li>
+<li><a href="/wiki/Projective_space" title="Projective space">Projective space</a></li>
+<li><a href="/wiki/Free_module" title="Free module">Free module</a></li>
+<li><a href="/wiki/Manifold" title="Manifold">Manifold</a></li>
+<li><a href="/wiki/Dimension_of_an_algebraic_variety" title="Dimension of an algebraic variety">Algebraic variety</a></li>
+<li><a href="/wiki/Spacetime" title="Spacetime">Spacetime</a></li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="4" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Tesseract.gif" title="Animated tesseract"><img alt="Animated tesseract" data-file-height="256" data-file-width="256" height="75" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tesseract.gif/75px-Tesseract.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tesseract.gif/113px-Tesseract.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/55/Tesseract.gif/150px-Tesseract.gif 2x" width="75"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Other dimensions</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Krull_dimension" title="Krull dimension">Krull</a></li>
+<li><a href="/wiki/Lebesgue_covering_dimension" title="Lebesgue covering dimension">Lebesgue covering</a></li>
+<li><a href="/wiki/Inductive_dimension" title="Inductive dimension">Inductive</a></li>
+<li><a href="/wiki/Hausdorff_dimension" title="Hausdorff dimension">Hausdorff</a></li>
+<li><a class="mw-redirect" href="/wiki/Minkowski_dimension" title="Minkowski dimension">Minkowski</a></li>
+<li><a href="/wiki/Fractal_dimension" title="Fractal dimension">Fractal</a></li>
+<li><a href="/wiki/Degrees_of_freedom" title="Degrees of freedom">Degrees of freedom</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Polytope" title="Polytope">Polytopes</a> and <a href="/wiki/Shape" title="Shape">shapes</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Hyperplane" title="Hyperplane">Hyperplane</a></li>
+<li><a href="/wiki/Hypersurface" title="Hypersurface">Hypersurface</a></li>
+<li><a href="/wiki/Hypercube" title="Hypercube">Hypercube</a></li>
+<li><a href="/wiki/Hypersphere" title="Hypersphere">Hypersphere</a></li>
+<li><a href="/wiki/Hyperrectangle" title="Hyperrectangle">Hyperrectangle</a></li>
+<li><a href="/wiki/Demihypercube" title="Demihypercube">Demihypercube</a></li>
+<li><a href="/wiki/Cross-polytope" title="Cross-polytope">Cross-polytope</a></li>
+<li><a href="/wiki/Simplex" title="Simplex">Simplex</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Dimensions by number</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Zero-dimensional_space" title="Zero-dimensional space">Zero</a></li>
+<li><a href="/wiki/One-dimensional_space" title="One-dimensional space">One</a></li>
+<li><a href="/wiki/Two-dimensional_space" title="Two-dimensional space">Two</a></li>
+<li><a class="mw-selflink selflink">Three</a></li>
+<li><a href="/wiki/Four-dimensional_space" title="Four-dimensional space">Four</a></li>
+<li><a href="/wiki/Five-dimensional_space" title="Five-dimensional space">Five</a></li>
+<li><a href="/wiki/Six-dimensional_space" title="Six-dimensional space">Six</a> (<a href="/wiki/Six_degrees_of_freedom" title="Six degrees of freedom">degrees of freedom</a>)</li>
+<li><a href="/wiki/Seven-dimensional_space" title="Seven-dimensional space">Seven</a></li>
+<li><a href="/wiki/Eight-dimensional_space" title="Eight-dimensional space">Eight</a></li>
+<li><a href="/wiki/Nine-dimensional_space" title="Nine-dimensional space">Nine</a></li>
+<li><a href="/wiki/Dimension" title="Dimension"><i>n</i>-dimensions</a></li>
+<li><a href="/wiki/Negative-dimensional_space" title="Negative-dimensional space">Negative dimensions</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3">
+<div><b><a href="/wiki/Category:Dimension" title="Category:Dimension">Category</a></b></div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1325
+Cached time: 20171003004653
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.376 seconds
+Real time usage: 0.709 seconds
+Preprocessor visited node count: 2484/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 80998/2097152 bytes
+Template argument size: 2173/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 3/500
+Lua time usage: 0.118/10.000 seconds
+Lua memory usage: 3.98 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  373.996      1 -total
+ 19.10%   71.427      1 Template:Reflist
+ 14.57%   54.488      1 Template:Merge
+ 12.26%   45.866      1 Template:General_geometry
+ 11.70%   43.768      3 Template:Cite_book
+ 11.29%   42.207      1 Template:Sidebar_with_collapsible_lists
+  9.63%   36.019      1 Template:Mbox
+  7.98%   29.846      1 Template:For
+  5.91%   22.097      1 Template:Commons_category
+  5.69%   21.274      1 Template:Isbn
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:3054853-0!canonical!math=5 and timestamp 20171003004652 and revision id 794012642
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Three-dimensional_space&amp;oldid=794012642">https://en.wikipedia.org/w/index.php?title=Three-dimensional_space&amp;oldid=794012642</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Euclidean_solid_geometry" title="Category:Euclidean solid geometry">Euclidean solid geometry</a></li><li><a href="/wiki/Category:Analytic_geometry" title="Category:Analytic geometry">Analytic geometry</a></li><li><a href="/wiki/Category:Multi-dimensional_geometry" title="Category:Multi-dimensional geometry">Multi-dimensional geometry</a></li><li><a href="/wiki/Category:3_(number)" title="Category:3 (number)">3 (number)</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_to_be_merged_from_February_2017" title="Category:Articles to be merged from February 2017">Articles to be merged from February 2017</a></li><li><a href="/wiki/Category:All_articles_to_be_merged" title="Category:All articles to be merged">All articles to be merged</a></li><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_April_2016" title="Category:Articles lacking in-text citations from April 2016">Articles lacking in-text citations from April 2016</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Three-dimensional+space" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Three-dimensional+space" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Three-dimensional_space" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Three-dimensional_space" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Three-dimensional_space">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Three-dimensional_space&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Three-dimensional_space&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Three-dimensional_space" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Three-dimensional_space" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Three-dimensional_space&amp;oldid=794012642" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Three-dimensional_space&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q34929" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Three-dimensional_space&amp;id=794012642" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Three-dimensional+space">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Three-dimensional+space&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DThree-dimensional%2Bspace%26returnto%3DThree-dimensional%2Bspace%26oldid%3D794012642%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Three-dimensional_space&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:3D" hreflang="en">Wikimedia Commons</a></li><li class="wb-otherproject-link wb-otherproject-wikiquote"><a href="https://en.wikiquote.org/wiki/Three-dimensional_space" hreflang="en">Wikiquote</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Driedimensioneel" hreflang="af" lang="af" title="Driedimensioneel – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-als"><a class="interlanguage-link-target" href="https://als.wikipedia.org/wiki/3D" hreflang="als" lang="als" title="3D – Alemannisch">Alemannisch</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%81%D8%B6%D8%A7%D8%A1_%D8%AB%D9%84%D8%A7%D8%AB%D9%8A_%D8%A7%D9%84%D8%A3%D8%A8%D8%B9%D8%A7%D8%AF" hreflang="ar" lang="ar" title="فضاء ثلاثي الأبعاد – Arabic">العربية</a></li><li class="interlanguage-link interwiki-as"><a class="interlanguage-link-target" href="https://as.wikipedia.org/wiki/%E0%A6%A4%E0%A7%8D%E0%A7%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A7%B0%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A7%B0" hreflang="as" lang="as" title="ত্ৰিমাত্ৰিক ক্ষেত্ৰ – Assamese">অসমীয়া</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/%C3%9C%C3%A7%C3%B6l%C3%A7%C3%BCl%C3%BC_f%C9%99za" hreflang="az" lang="az" title="Üçölçülü fəza – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%AE%E0%A6%BE%E0%A6%A4%E0%A7%8D%E0%A6%B0%E0%A6%BF%E0%A6%95_%E0%A6%95%E0%A7%8D%E0%A6%B7%E0%A7%87%E0%A6%A4%E0%A7%8D%E0%A6%B0" hreflang="bn" lang="bn" title="ত্রিমাত্রিক ক্ষেত্র – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/Sam-chh%C3%B9-go%C3%A2n" hreflang="zh-min-nan" lang="zh-min-nan" title="Sam-chhù-goân – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-bh"><a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%A4%E0%A5%80%E0%A4%A8-%E0%A4%86%E0%A4%AF%E0%A4%BE%E0%A4%AE%E0%A5%80_%E0%A4%B8%E0%A5%8D%E0%A4%AA%E0%A5%87%E0%A4%B8_(%E0%A4%97%E0%A4%A3%E0%A4%BF%E0%A4%A4)" hreflang="bh" lang="bh" title="तीन-आयामी स्पेस (गणित) – Bhojpuri">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%B8%D0%B7%D0%BC%D0%B5%D1%80%D0%BD%D0%BE_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" hreflang="bg" lang="bg" title="Триизмерно пространство – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Espai_tridimensional" hreflang="ca" lang="ca" title="Espai tridimensional – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/3D" hreflang="cs" lang="cs" title="3D – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/3D" hreflang="de" lang="de" title="3D – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Kolmem%C3%B5%C3%B5tmeline_eukleidiline_ruum" hreflang="et" lang="et" title="Kolmemõõtmeline eukleidiline ruum – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%A4%CF%81%CE%B9%CF%83%CE%B4%CE%B9%CE%AC%CF%83%CF%84%CE%B1%CF%84%CE%BF%CF%82_%CF%87%CF%8E%CF%81%CE%BF%CF%82" hreflang="el" lang="el" title="Τρισδιάστατος χώρος – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Tridimensional" hreflang="es" lang="es" title="Tridimensional – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Tri-dimensia_spaco" hreflang="eo" lang="eo" title="Tri-dimensia spaco – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Hiru_dimentsioko" hreflang="eu" lang="eu" title="Hiru dimentsioko – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%81%D8%B6%D8%A7%DB%8C_%D8%B3%D9%87%E2%80%8C%D8%A8%D8%B9%D8%AF%DB%8C" hreflang="fa" lang="fa" title="فضای سه‌بعدی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Trois_dimensions" hreflang="fr" lang="fr" title="Trois dimensions – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Espazo_tridimensional" hreflang="gl" lang="gl" title="Espazo tridimensional – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/3%EC%B0%A8%EC%9B%90" hreflang="ko" lang="ko" title="3차원 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%B5%E0%A4%BF%E0%A4%AE_%E0%A4%B8%E0%A4%AE%E0%A4%B7%E0%A5%8D%E0%A4%9F%E0%A4%BF" hreflang="hi" lang="hi" title="त्रिविम समष्टि – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/3_dimensi" hreflang="id" lang="id" title="3 dimensi – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%9Er%C3%ADv%C3%ADtt_form" hreflang="is" lang="is" title="Þrívítt form – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Tridimensionalit%C3%A0" hreflang="it" lang="it" title="Tridimensionalità – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A8%D7%97%D7%91_%D7%AA%D7%9C%D7%AA-%D7%9E%D7%9E%D7%93%D7%99" hreflang="he" lang="he" title="מרחב תלת-ממדי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%A1%E1%83%90%E1%83%9B%E1%83%92%E1%83%90%E1%83%9C%E1%83%96%E1%83%9D%E1%83%9B%E1%83%98%E1%83%9A%E1%83%94%E1%83%91%E1%83%98%E1%83%90%E1%83%9C%E1%83%98_%E1%83%92%E1%83%A0%E1%83%90%E1%83%A4%E1%83%98%E1%83%99%E1%83%90" hreflang="ka" lang="ka" title="სამგანზომილებიანი გრაფიკა – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-ltg"><a class="interlanguage-link-target" href="https://ltg.wikipedia.org/wiki/Trejmiereigs" hreflang="ltg" lang="ltg" title="Trejmiereigs – Latgalian">Latgaļu</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Tr%C4%ABsdimensiju_telpa" hreflang="lv" lang="lv" title="Trīsdimensiju telpa – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%A4%E0%B5%8D%E0%B4%B0%E0%B4%BF%E0%B4%AE%E0%B4%BE%E0%B4%A8%E0%B4%82" hreflang="ml" lang="ml" title="ത്രിമാനം – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Tiga_dimensi" hreflang="ms" lang="ms" title="Tiga dimensi – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Driedimensionaal" hreflang="nl" lang="nl" title="Driedimensionaal – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/3%E6%AC%A1%E5%85%83" hreflang="ja" lang="ja" title="3次元 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Tredimensjonal" hreflang="no" lang="no" title="Tredimensjonal – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/Tres_dimensions" hreflang="oc" lang="oc" title="Tres dimensions – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%A4%E0%A8%BF%E0%A9%B0%E0%A8%A8-%E0%A8%AA%E0%A8%B8%E0%A8%BE%E0%A8%B0%E0%A9%80_%E0%A8%96%E0%A8%BC%E0%A8%B2%E0%A8%BE%E0%A8%85" hreflang="pa" lang="pa" title="ਤਿੰਨ-ਪਸਾਰੀ ਖ਼ਲਾਅ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Przestrze%C5%84_tr%C3%B3jwymiarowa" hreflang="pl" lang="pl" title="Przestrzeń trójwymiarowa – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Espa%C3%A7o_tridimensional" hreflang="pt" lang="pt" title="Espaço tridimensional – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/3D" hreflang="ro" lang="ro" title="3D – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D1%80%D1%91%D1%85%D0%BC%D0%B5%D1%80%D0%BD%D0%BE%D0%B5_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D1%80%D0%B0%D0%BD%D1%81%D1%82%D0%B2%D0%BE" hreflang="ru" lang="ru" title="Трёхмерное пространство – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Three-dimensional_space" hreflang="sco" lang="sco" title="Three-dimensional space – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/3D" hreflang="simple" lang="simple" title="3D – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Trojrozmern%C3%BD_priestor" hreflang="sk" lang="sk" title="Trojrozmerný priestor – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Trirazse%C5%BEni_prostor" hreflang="sl" lang="sl" title="Trirazsežni prostor – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D1%80%D0%BE%D0%B4%D0%B8%D0%BC%D0%B5%D0%BD%D0%B7%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D0%BD%D0%B8_%D0%BF%D1%80%D0%BE%D1%81%D1%82%D0%BE%D1%80" hreflang="sr" lang="sr" title="Тродимензионални простор – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Trodimenzionalni_prostor" hreflang="sh" lang="sh" title="Trodimenzionalni prostor – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Kolmiulotteisuus" hreflang="fi" lang="fi" title="Kolmiulotteisuus – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/3D" hreflang="sv" lang="sv" title="3D – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%81%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%B0%E0%AE%BF%E0%AE%AE%E0%AE%BE%E0%AE%A3_%E0%AE%B5%E0%AF%86%E0%AE%B3%E0%AE%BF" hreflang="ta" lang="ta" title="முப்பரிமாண வெளி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9B%E0%B8%A3%E0%B8%B4%E0%B8%A0%E0%B8%B9%E0%B8%A1%E0%B8%B4%E0%B8%AA%E0%B8%B2%E0%B8%A1%E0%B8%A1%E0%B8%B4%E0%B8%95%E0%B8%B4" hreflang="th" lang="th" title="ปริภูมิสามมิติ – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/%C3%9C%C3%A7_boyutlu_uzay" hreflang="tr" lang="tr" title="Üç boyutlu uzay – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D1%80%D0%B8%D0%B2%D0%B8%D0%BC%D1%96%D1%80%D0%BD%D0%B8%D0%B9_%D0%BE%D0%BF%D0%B8%D1%81_%D0%BE%D0%B1%27%D1%94%D0%BA%D1%82%D0%B0" hreflang="uk" lang="uk" title="Тривимірний опис об'єкта – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vec"><a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/3D" hreflang="vec" lang="vec" title="3D – Venetian">Vèneto</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Kh%C3%B4ng_gian_ba_chi%E1%BB%81u" hreflang="vi" lang="vi" title="Không gian ba chiều – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E4%B8%89%E7%B6%AD" hreflang="zh-yue" lang="zh-yue" title="三維 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E4%B8%89%E7%B6%AD%E7%A9%BA%E9%96%93" hreflang="zh" lang="zh" title="三維空間 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q34929#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 5 August 2017, at 08:05.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Three-dimensional_space&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.376","walltime":"0.709","ppvisitednodes":{"value":2484,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":80998,"limit":2097152},"templateargumentsize":{"value":2173,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  373.996      1 -total"," 19.10%   71.427      1 Template:Reflist"," 14.57%   54.488      1 Template:Merge"," 12.26%   45.866      1 Template:General_geometry"," 11.70%   43.768      3 Template:Cite_book"," 11.29%   42.207      1 Template:Sidebar_with_collapsible_lists","  9.63%   36.019      1 Template:Mbox","  7.98%   29.846      1 Template:For","  5.91%   22.097      1 Template:Commons_category","  5.69%   21.274      1 Template:Isbn"]},"scribunto":{"limitreport-timeusage":{"value":"0.118","limit":"10.000"},"limitreport-memusage":{"value":4173096,"limit":52428800}},"cachereport":{"origin":"mw1325","timestamp":"20171003004653","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1187"});});</script>
+</body>
+</html>

@@ -1,0 +1,1673 @@
+https://en.wikipedia.org/wiki/Accumulated_cyclone_energy
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Accumulated cyclone energy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Accumulated_cyclone_energy","wgTitle":"Accumulated cyclone energy","wgCurRevisionId":803737208,"wgRevisionId":803737208,"wgArticleId":1201310,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from September 2017","Commons category with local link different than on Wikidata","Tropical cyclone meteorology"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Accumulated_cyclone_energy","wgRelevantArticleId":1201310,"wgRequestId":"WdSmRQpAIDUAAFJB2GAAAAAJ","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q339687","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","jquery.tablesorter","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Accumulated_cyclone_energy" rel="alternate"/>
+<link href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Accumulated_cyclone_energy" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Accumulated_cyclone_energy rootpage-Accumulated_cyclone_energy vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Accumulated cyclone energy</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p><b>Accumulated cyclone energy</b> (<b>ACE</b>) is a measure used by the <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a> (NOAA) to express the activity of individual <a class="mw-redirect" href="/wiki/Tropical_cyclones" title="Tropical cyclones">tropical cyclones</a> and entire tropical cyclone seasons, particularly the North <a class="mw-redirect" href="/wiki/Atlantic" title="Atlantic">Atlantic</a> <a href="/wiki/Atlantic_hurricane_season" title="Atlantic hurricane season">hurricane season</a>. It uses an approximation of the wind energy used by a tropical system over its lifetime and is calculated every six hours. The ACE of a season is the sum of the ACEs for each storm and takes into account the number, strength, and duration of all the <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical storms</a> in the season. The highest ACE calculated for a single storm is 82, for <a href="/wiki/Hurricane_Ioke" title="Hurricane Ioke">Hurricane/Typhoon Ioke</a> in 2006.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Calculation"><span class="tocnumber">1</span> <span class="toctext">Calculation</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Competing_measurement_metrics"><span class="tocnumber">2</span> <span class="toctext">Competing measurement metrics</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Atlantic_basin_ACE"><span class="tocnumber">3</span> <span class="toctext">Atlantic basin ACE</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Categories"><span class="tocnumber">3.1</span> <span class="toctext">Categories</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Individual_storms"><span class="tocnumber">3.2</span> <span class="toctext">Individual storms</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Atlantic_hurricane_seasons.2C_1950.E2.80.932017"><span class="tocnumber">3.3</span> <span class="toctext">Atlantic hurricane seasons, 1950–2017</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#East_Pacific_ACE"><span class="tocnumber">4</span> <span class="toctext">East Pacific ACE</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Calculation">Calculation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=1" title="Edit section: Calculation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The ACE of a season is calculated by summing the squares of the estimated maximum sustained velocity of every active tropical storm (wind speed 35 knots [65 km/h] or higher), at six-hour intervals. Since the calculation is sensitive to the starting point of the six-hour intervals, the convention is to use 00:00, 06:00, 12:00, and 18:00 <a href="/wiki/Coordinated_Universal_Time" title="Coordinated Universal Time">UTC</a>. If any storms of a season happen to cross years, the storm's ACE counts for the previous year.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> The numbers are usually divided by 10,000 to make them more manageable. One unit of ACE equals <span class="nowrap">10<sup>4</sup> <a href="/wiki/Knot_(unit)" title="Knot (unit)">kn</a><sup>2</sup>,</span> and for use as an index the unit is assumed. Thus:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>ACE</mtext>
+</mrow>
+<mo>=</mo>
+<msup>
+<mn>10</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>4</mn>
+</mrow>
+</msup>
+<mo>∑<!-- ∑ --></mo>
+<msubsup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo form="prefix" movablelimits="true">max</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\text{ACE}}=10^{-4}\sum v_{\max }^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\text{ACE}}=10^{{-4}}\sum v_{\max }^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ea1e9ac3d034e4e6d102ebcc5fe328051b810409" style="vertical-align: -1.338ex; width:21.429ex; height:3.843ex;"/></span></dd>
+</dl>
+<p>where <i>v</i><sub>max</sub> is estimated sustained wind speed in <a href="/wiki/Knot_(unit)" title="Knot (unit)">knots</a>.</p>
+<p><a href="/wiki/Kinetic_energy" title="Kinetic energy">Kinetic energy</a> is proportional to the square of velocity, and by adding together the energy per some interval of time, the accumulated energy is found. As the duration of a storm increases, more values are summed and the ACE also increases such that longer-duration storms may accumulate a larger ACE than more-powerful storms of lesser duration. Although ACE is a value proportional to the energy of the system, it is not a direct calculation of energy (the mass of the moved air and therefore the size of the storm would show up in a real energy calculation).</p>
+<p>A related quantity is hurricane destruction potential (HDP), which is ACE but only calculated for the time where the system is a hurricane.<sup class="reference" id="cite_ref-BellEtAl2000_3-0"><a href="#cite_note-BellEtAl2000-3">[3]</a></sup></p>
+<h2><span class="mw-headline" id="Competing_measurement_metrics">Competing measurement metrics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=2" title="Edit section: Competing measurement metrics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>ACE focuses upon the most intense winds concentrated in a storm's center. Whereas, the actual destructive power of a storm depends upon the total area impacted with damaging winds, waves, and storm surge. The metric Integrated Kinetic Energy (IKE), developed in 2007, more accurately reflects the destructive potential. It examines the kinetic energy that forces a storm surge and creates high waves as well as the horizontal wind loads over the full storm. This metric yields a time specific value for a storm and doesn't account for the destruction caused by a storm over its entire life. Therefore, in 2013 the researchers at the University of Florida created a metric called Track Integrated Kinetic Energy (TIKE). TIKE expands the concept by accumulating IKE over the lifespan of an individual tropical cyclone and a total value for all named tropical cyclones in the season. <sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<h2><span class="mw-headline" id="Atlantic_basin_ACE">Atlantic basin ACE</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=3" title="Edit section: Atlantic basin ACE">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="float:right;padding-top:1em">
+<div class="chart" style="margin-top:1em;max-width:500px;">
+<div style="position:relative;min-height:350px;min-width:500px;max-width:500px;">
+<div style="float:right;position:relative;min-height:270px;min-width:400px;max-width:400px;border-left:1px black solid;border-bottom:1px black solid;">
+<div style="position:absolute;left:0.5px;top:80px;height:189px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1950: 211"></div>
+<div style="position:absolute;left:5.5px;top:147px;height:122px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1951: 137"></div>
+<div style="position:absolute;left:10.5px;top:192px;height:77px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1952: 87"></div>
+<div style="position:absolute;left:15.5px;top:176px;height:93px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1953: 104"></div>
+<div style="position:absolute;left:20.5px;top:168px;height:101px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1954: 113"></div>
+<div style="position:absolute;left:25.5px;top:91px;height:178px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1955: 199"></div>
+<div style="position:absolute;left:30.5px;top:221px;height:48px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1956: 54"></div>
+<div style="position:absolute;left:35.5px;top:194px;height:75px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1957: 84"></div>
+<div style="position:absolute;left:40.5px;top:161px;height:108px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1958: 121"></div>
+<div style="position:absolute;left:45.5px;top:201px;height:68px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1959: 77"></div>
+<div style="position:absolute;left:50.5px;top:191px;height:78px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1960: 88"></div>
+<div style="position:absolute;left:55.5px;top:85px;height:184px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1961: 205"></div>
+<div style="position:absolute;left:60.5px;top:238px;height:31px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1962: 36"></div>
+<div style="position:absolute;left:65.5px;top:164px;height:105px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1963: 118"></div>
+<div style="position:absolute;left:70.5px;top:117px;height:152px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1964: 170"></div>
+<div style="position:absolute;left:75.5px;top:194px;height:75px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1965: 84"></div>
+<div style="position:absolute;left:80.5px;top:139px;height:130px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1966: 145"></div>
+<div style="position:absolute;left:85.5px;top:160px;height:109px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1967: 122"></div>
+<div style="position:absolute;left:90.5px;top:238px;height:31px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1968: 35"></div>
+<div style="position:absolute;left:95.5px;top:128px;height:141px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1969: 158"></div>
+<div style="position:absolute;left:100.5px;top:239px;height:30px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1970: 34"></div>
+<div style="position:absolute;left:105.5px;top:183px;height:86px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1971: 97"></div>
+<div style="position:absolute;left:110.5px;top:245px;height:24px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1972: 28"></div>
+<div style="position:absolute;left:115.5px;top:231px;height:38px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1973: 43"></div>
+<div style="position:absolute;left:120.5px;top:215px;height:54px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1974: 61"></div>
+<div style="position:absolute;left:125.5px;top:204px;height:65px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1975: 73"></div>
+<div style="position:absolute;left:130.5px;top:197px;height:72px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1976: 81"></div>
+<div style="position:absolute;left:135.5px;top:247px;height:22px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1977: 25"></div>
+<div style="position:absolute;left:140.5px;top:214px;height:55px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1978: 62"></div>
+<div style="position:absolute;left:145.5px;top:188px;height:81px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1979: 91"></div>
+<div style="position:absolute;left:150.5px;top:138px;height:131px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1980: 147"></div>
+<div style="position:absolute;left:155.5px;top:186px;height:83px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1981: 93"></div>
+<div style="position:absolute;left:160.5px;top:244px;height:25px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1982: 29"></div>
+<div style="position:absolute;left:165.5px;top:255px;height:14px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1983: 17"></div>
+<div style="position:absolute;left:170.5px;top:206px;height:63px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1984: 71"></div>
+<div style="position:absolute;left:175.5px;top:191px;height:78px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1985: 88"></div>
+<div style="position:absolute;left:180.5px;top:238px;height:31px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1986: 36"></div>
+<div style="position:absolute;left:185.5px;top:239px;height:30px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1987: 34"></div>
+<div style="position:absolute;left:190.5px;top:177px;height:92px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1988: 103"></div>
+<div style="position:absolute;left:195.5px;top:148px;height:121px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1989: 135"></div>
+<div style="position:absolute;left:200.5px;top:188px;height:81px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1990: 91"></div>
+<div style="position:absolute;left:205.5px;top:239px;height:30px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1991: 34"></div>
+<div style="position:absolute;left:210.5px;top:202px;height:67px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1992: 75"></div>
+<div style="position:absolute;left:215.5px;top:235px;height:34px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1993: 39"></div>
+<div style="position:absolute;left:220.5px;top:241px;height:28px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1994: 32"></div>
+<div style="position:absolute;left:225.5px;top:65px;height:204px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1995: 228"></div>
+<div style="position:absolute;left:230.5px;top:121px;height:148px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1996: 166"></div>
+<div style="position:absolute;left:235.5px;top:234px;height:35px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1997: 40"></div>
+<div style="position:absolute;left:240.5px;top:106px;height:163px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1998: 182"></div>
+<div style="position:absolute;left:245.5px;top:111px;height:158px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1999: 177"></div>
+<div style="position:absolute;left:250.5px;top:166px;height:103px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2000: 116"></div>
+<div style="position:absolute;left:255.5px;top:175px;height:94px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2001: 106"></div>
+<div style="position:absolute;left:260.5px;top:210px;height:59px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2002: 67"></div>
+<div style="position:absolute;left:265.5px;top:112px;height:157px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2003: 175"></div>
+<div style="position:absolute;left:270.5px;top:67px;height:202px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2004: 225"></div>
+<div style="position:absolute;left:275.5px;top:45px;height:224px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2005: 250"></div>
+<div style="position:absolute;left:280.5px;top:199px;height:70px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2006: 79"></div>
+<div style="position:absolute;left:285.5px;top:205px;height:64px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2007: 72"></div>
+<div style="position:absolute;left:290.5px;top:140px;height:129px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2008: 144"></div>
+<div style="position:absolute;left:295.5px;top:222px;height:47px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2009: 53"></div>
+<div style="position:absolute;left:300.5px;top:121px;height:148px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2010: 165"></div>
+<div style="position:absolute;left:305.5px;top:157px;height:112px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2011: 126"></div>
+<div style="position:absolute;left:310.5px;top:150px;height:119px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2012: 133"></div>
+<div style="position:absolute;left:315.5px;top:238px;height:31px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2013: 36"></div>
+<div style="position:absolute;left:320.5px;top:210px;height:59px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2014: 67"></div>
+<div style="position:absolute;left:325.5px;top:213px;height:56px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2015: 63"></div>
+<div style="position:absolute;left:330.5px;top:143px;height:126px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2016: 141"></div>
+<div style="position:absolute;left:335.5px;top:88px;height:181px;min-width:2px;max-width:2px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2017: 202"></div>
+</div>
+<div style="position:absolute;height:270px;min-width:100px;max-width:100px;">
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:215px;padding:0 2px">50</div>
+<div style="position:absolute;height=1px;min-width:5px;top:225px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:170px;padding:0 2px">100</div>
+<div style="position:absolute;height=1px;min-width:5px;top:180px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:125px;padding:0 2px">150</div>
+<div style="position:absolute;height=1px;min-width:5px;top:135px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:80px;padding:0 2px">200</div>
+<div style="position:absolute;height=1px;min-width:5px;top:90px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:35px;padding:0 2px">250</div>
+<div style="position:absolute;height=1px;min-width:5px;top:45px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:-10px;padding:0 2px">300</div>
+<div style="position:absolute;height=1px;min-width:5px;top:0px;left:96px;border:1px solid black;"></div>
+</div>
+<div style="position:absolute;top:270px;left:100px;width:400px;">
+<div style="position:absolute;left:5px;top:10px;min-width:-5px;max-width:-5px;text-align:center;vertical-align:top;">1950</div>
+<div style="position:absolute;left:2.5px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:55px;top:10px;min-width:-5px;max-width:-5px;text-align:center;vertical-align:top;">1960</div>
+<div style="position:absolute;left:52.5px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:105px;top:10px;min-width:-5px;max-width:-5px;text-align:center;vertical-align:top;">1970</div>
+<div style="position:absolute;left:102.5px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:155px;top:10px;min-width:-5px;max-width:-5px;text-align:center;vertical-align:top;">1980</div>
+<div style="position:absolute;left:152.5px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:205px;top:10px;min-width:-5px;max-width:-5px;text-align:center;vertical-align:top;">1990</div>
+<div style="position:absolute;left:202.5px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:255px;top:10px;min-width:-5px;max-width:-5px;text-align:center;vertical-align:top;">2000</div>
+<div style="position:absolute;left:252.5px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:305px;top:10px;min-width:-5px;max-width:-5px;text-align:center;vertical-align:top;">2010</div>
+<div style="position:absolute;left:302.5px;height:10px;width:1px;border-left:1px solid black;"></div>
+</div>
+</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Categories">Categories</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=4" title="Edit section: Categories">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Atlantic_ace_timeseries_1850-2014.jpg"><img alt="" class="thumbimage" data-file-height="603" data-file-width="850" height="156" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Atlantic_ace_timeseries_1850-2014.jpg/220px-Atlantic_ace_timeseries_1850-2014.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Atlantic_ace_timeseries_1850-2014.jpg/330px-Atlantic_ace_timeseries_1850-2014.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Atlantic_ace_timeseries_1850-2014.jpg/440px-Atlantic_ace_timeseries_1850-2014.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Atlantic_ace_timeseries_1850-2014.jpg" title="Enlarge"></a></div>
+Atlantic basin cyclone intensity by Accumulated cyclone energy, timeseries 1850-2014</div>
+</div>
+</div>
+<p>A season's ACE is used by NOAA and others to categorize the hurricane season into 3 groups by its activity.<sup class="reference" id="cite_ref-background_5-0"><a href="#cite_note-background-5">[5]</a></sup> Measured over the period 1951–2000 for the Atlantic basin, the <a href="/wiki/Median" title="Median">median</a> annual index was 87.5 and the <a href="/wiki/Arithmetic_mean" title="Arithmetic mean">mean</a> annual index was 93.2. The NOAA categorization system divides seasons into:</p>
+<ul>
+<li><i>Above-normal season</i>: An ACE value above 111 (120% of the 1981–2010 median), provided at least two of the following three parameters are also exceeded: number of tropical storms: 12, hurricanes: 6, and major hurricanes: 2.</li>
+<li><i>Near-normal season</i>: neither above-normal nor below normal</li>
+<li><i>Below-normal season</i>: An ACE value below 66 (71.4% of the 1981–2010 median), or none of the following three parameters are exceeded: number of tropical storms: 9, hurricanes: 4, and major hurricanes: 1.</li>
+</ul>
+<p>According to the NOAA categorization system for the Atlantic, the most recent above-normal season is the <a href="/wiki/2017_Atlantic_hurricane_season" title="2017 Atlantic hurricane season">2017 season</a>, the most recent near-normal season is the <a href="/wiki/2014_Atlantic_hurricane_season" title="2014 Atlantic hurricane season">2014 season</a>, and the most recent below normal season is the <a href="/wiki/2015_Atlantic_hurricane_season" title="2015 Atlantic hurricane season">2015 season</a>.</p>
+<p>The term <i>hyperactive</i> is used by Goldenberg <i>et al.</i> (2001)<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> based on a different weighting algorithm<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> (reference link is broken/need new citatation), which places more weight on major hurricanes, but typically equating to an ACE of about 153 (175% of the 1951–2000 median).</p>
+<h3><span class="mw-headline" id="Individual_storms">Individual storms</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=5" title="Edit section: Individual storms">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The highest ever ACE estimated for a single storm in the Atlantic is 73.6, for the <a href="/wiki/1899_San_Ciriaco_hurricane" title="1899 San Ciriaco hurricane">San Ciriaco hurricane</a> in <a href="/wiki/1899_Atlantic_hurricane_season" title="1899 Atlantic hurricane season">1899</a>. This single storm had an ACE higher than many whole Atlantic storm seasons. Other Atlantic storms with high ACEs include <a href="/wiki/Hurricane_Ivan" title="Hurricane Ivan">Hurricane Ivan</a> in <a href="/wiki/2004_Atlantic_hurricane_season" title="2004 Atlantic hurricane season">2004</a>, with an ACE of 70.4, <a href="/wiki/Hurricane_Irma" title="Hurricane Irma">Hurricane Irma</a> in <a href="/wiki/2017_Atlantic_hurricane_season" title="2017 Atlantic hurricane season">2017</a> with an ACE of 66.6, the <a href="/wiki/1893_Atlantic_hurricane_season#Hurricane_Nine" title="1893 Atlantic hurricane season">Great Charleston Hurricane of 1893</a>, with an ACE of 63.5, <a href="/wiki/Hurricane_Isabel" title="Hurricane Isabel">Hurricane Isabel</a> in <a href="/wiki/2003_Atlantic_hurricane_season" title="2003 Atlantic hurricane season">2003</a>, with an ACE of 63.3, and the <a href="/wiki/1932_Cuba_hurricane" title="1932 Cuba hurricane">1932 Cuba hurricane</a>, with an ACE of 59.8.<sup class="reference" id="cite_ref-HURDAT_8-0"><a href="#cite_note-HURDAT-8">[8]</a></sup></p>
+<p>The highest ACE of a tropical storm was <a href="/wiki/Tropical_Storm_Alice_(1953)" title="Tropical Storm Alice (1953)">Tropical Storm Alice</a> of <a href="/wiki/1953_Atlantic_hurricane_season" title="1953 Atlantic hurricane season">1953</a>, which attained an ACE of 9.6. The highest ACE of a Category 1 hurricane was <a class="mw-redirect" href="/wiki/Hurricane_Nadine_(2012)" title="Hurricane Nadine (2012)">Hurricane Nadine</a> of <a href="/wiki/2012_Atlantic_hurricane_season" title="2012 Atlantic hurricane season">2012</a>, which attained an ACE of 26.3. The lowest ACE of a tropical storm was <a href="/wiki/2000_Atlantic_hurricane_season#Tropical_Storm_Chris" title="2000 Atlantic hurricane season">Tropical Storm Chris</a> of <a href="/wiki/2000_Atlantic_hurricane_season" title="2000 Atlantic hurricane season">2000</a>, which was a tropical storm for only six hours and had an ACE of 0.1. The lowest ACE of any hurricane was the <a href="/wiki/1959_Escuminac_disaster" title="1959 Escuminac disaster">Escuminac hurricane</a> of <a href="/wiki/1959_Atlantic_hurricane_season" title="1959 Atlantic hurricane season">1959</a>, which was only active for one day and had an ACE of just 1.2. The lowest ACE of a major hurricane (Category 3 or higher), was <a href="/wiki/1960_Atlantic_hurricane_season" title="1960 Atlantic hurricane season">1960</a>'s <a href="/wiki/Hurricane_Ethel_(1960)" title="Hurricane Ethel (1960)">Hurricane Ethel</a> and <a href="/wiki/1969_Atlantic_hurricane_season" title="1969 Atlantic hurricane season">1969</a>'s <a class="mw-redirect" href="/wiki/Hurricane_Gerda_(1969)" title="Hurricane Gerda (1969)">Hurricane Gerda</a>, each with an ACE of 5.3.<sup class="reference" id="cite_ref-Individual_ACE_9-0"><a href="#cite_note-Individual_ACE-9">[9]</a></sup> <span class="citation-needed-content" style="padding-left:0.1em; padding-right:0.1em; color:#595959; border:1px solid #DDD;">The only years since <a href="/wiki/1950_Atlantic_hurricane_season" title="1950 Atlantic hurricane season">1950</a> to feature two storms with an ACE index of over 40 points have been <a href="/wiki/1966_Atlantic_hurricane_season" title="1966 Atlantic hurricane season">1966</a>, <a href="/wiki/2003_Atlantic_hurricane_season" title="2003 Atlantic hurricane season">2003</a>, and <a href="/wiki/2004_Atlantic_hurricane_season" title="2004 Atlantic hurricane season">2004</a>, and the only year to feature three storms is <a href="/wiki/2017_Atlantic_hurricane_season" title="2017 Atlantic hurricane season">2017</a>.</span><sup class="noprint Inline-Template Template-Fact" style="margin-left:0.1em; white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2017)">citation needed</span></a></i>]</sup></p>
+<p>The following table shows those storms in the Atlantic basin from 1950–2017 that have attained over 40 points of ACE.<sup class="reference" id="cite_ref-Individual_ACE_9-1"><a href="#cite_note-Individual_ACE-9">[9]</a></sup></p>
+<table class="wikitable sortable">
+<tr>
+<th>Storm</th>
+<th>Year</th>
+<th>Category</th>
+<th>ACE</th>
+<th>Duration</th>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Ivan" title="Hurricane Ivan">Hurricane Ivan</a></td>
+<td>2004</td>
+<td>5</td>
+<td>70.4</td>
+<td>23 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Irma" title="Hurricane Irma">Hurricane Irma</a></td>
+<td>2017</td>
+<td>5</td>
+<td>66.6</td>
+<td>13 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Isabel" title="Hurricane Isabel">Hurricane Isabel</a></td>
+<td>2003</td>
+<td>5</td>
+<td>63.3</td>
+<td>14 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Donna" title="Hurricane Donna">Hurricane Donna</a></td>
+<td>1960</td>
+<td>4</td>
+<td>57.6</td>
+<td>16 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Carrie" title="Hurricane Carrie">Hurricane Carrie</a></td>
+<td>1957</td>
+<td>4</td>
+<td>55.8</td>
+<td>21 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Inez" title="Hurricane Inez">Hurricane Inez</a></td>
+<td>1966</td>
+<td>4</td>
+<td>54.6</td>
+<td>21 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Luis" title="Hurricane Luis">Hurricane Luis</a></td>
+<td>1995</td>
+<td>4</td>
+<td>53.5</td>
+<td>16 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Allen" title="Hurricane Allen">Hurricane Allen</a></td>
+<td>1980</td>
+<td>5</td>
+<td>52.3</td>
+<td>12 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Esther" title="Hurricane Esther">Hurricane Esther</a></td>
+<td>1961</td>
+<td>4</td>
+<td>52.2</td>
+<td>18 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Matthew" title="Hurricane Matthew">Hurricane Matthew</a></td>
+<td>2016</td>
+<td>5</td>
+<td>50.9</td>
+<td>12 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Flora" title="Hurricane Flora">Hurricane Flora</a></td>
+<td>1963</td>
+<td>4</td>
+<td>49.4</td>
+<td>16 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Edouard_(1996)" title="Hurricane Edouard (1996)">Hurricane Edouard</a></td>
+<td>1996</td>
+<td>4</td>
+<td>49.3</td>
+<td>14 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Beulah" title="Hurricane Beulah">Hurricane Beulah</a></td>
+<td>1967</td>
+<td>5</td>
+<td>47.9</td>
+<td>17 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Dog_(1950)" title="Hurricane Dog (1950)">Hurricane Dog</a></td>
+<td>1950</td>
+<td>4</td>
+<td>47.5</td>
+<td>13 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Betsy" title="Hurricane Betsy">Hurricane Betsy</a></td>
+<td>1965</td>
+<td>4</td>
+<td>47.0</td>
+<td>18 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Frances" title="Hurricane Frances">Hurricane Frances</a></td>
+<td>2004</td>
+<td>4</td>
+<td>45.9</td>
+<td>15 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Faith" title="Hurricane Faith">Hurricane Faith</a></td>
+<td>1966</td>
+<td>3</td>
+<td>45.4</td>
+<td>17 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Maria" title="Hurricane Maria">Hurricane Maria</a></td>
+<td>2017</td>
+<td>5</td>
+<td>44.6</td>
+<td>14 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Ginger" title="Hurricane Ginger">Hurricane Ginger</a></td>
+<td>1971</td>
+<td>2</td>
+<td>44.2</td>
+<td>28 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_David" title="Hurricane David">Hurricane David</a></td>
+<td>1979</td>
+<td>5</td>
+<td>44.0</td>
+<td>12 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Fabian" title="Hurricane Fabian">Hurricane Fabian</a></td>
+<td>2003</td>
+<td>4</td>
+<td>43.2</td>
+<td>14 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Hugo" title="Hurricane Hugo">Hurricane Hugo</a></td>
+<td>1989</td>
+<td>5</td>
+<td>42.7</td>
+<td>12 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Gert_(1999)" title="Hurricane Gert (1999)">Hurricane Gert</a></td>
+<td>1999</td>
+<td>4</td>
+<td>42.3</td>
+<td>12 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Jose_(2017)" title="Hurricane Jose (2017)">Hurricane Jose</a></td>
+<td>2017</td>
+<td>4</td>
+<td>42.2</td>
+<td>17 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Igor" title="Hurricane Igor">Hurricane Igor</a></td>
+<td>2010</td>
+<td>4</td>
+<td>41.9</td>
+<td>14 days</td>
+</tr>
+<tr>
+<td><a href="/wiki/Hurricane_Hazel" title="Hurricane Hazel">Hurricane Hazel</a></td>
+<td>1954</td>
+<td>4</td>
+<td>41.3</td>
+<td>11 days</td>
+</tr>
+</table>
+<h3><span id="Atlantic_hurricane_seasons,_1950–2017"></span><span class="mw-headline" id="Atlantic_hurricane_seasons.2C_1950.E2.80.932017">Atlantic hurricane seasons, 1950–2017</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=6" title="Edit section: Atlantic hurricane seasons, 1950–2017">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>ACE data for the Atlantic hurricane season is less reliable prior to the modern satellite era, but NOAA has analyzed the best available information dating back to 1851. The <a href="/wiki/1933_Atlantic_hurricane_season" title="1933 Atlantic hurricane season">1933 Atlantic hurricane season</a> is considered the highest ACE on record with a total of 259<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup>. For the current season or the season that just ended, the ACE is preliminary based on National Hurricane Center bulletins, which may later be revised.</p>
+<table border="1" class="wikitable sortable">
+<tr>
+<th>Season</th>
+<th>ACE</th>
+<th><a href="/wiki/Tropical_cyclone#tropical_storm" title="Tropical cyclone">TS</a></th>
+<th><a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">HU</a></th>
+<th><a href="/wiki/Tropical_cyclone_scales#Atlantic_and_East_Pacific" title="Tropical cyclone scales">MH</a></th>
+<th>Classification</th>
+</tr>
+<tr>
+<td><a href="/wiki/2005_Atlantic_hurricane_season" title="2005 Atlantic hurricane season">2005 Atlantic hurricane season</a></td>
+<td><b>250</b></td>
+<td><b>28</b></td>
+<td><b>15</b></td>
+<td><b>7</b></td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/1995_Atlantic_hurricane_season" title="1995 Atlantic hurricane season">1995 Atlantic hurricane season</a></td>
+<td>228</td>
+<td>19</td>
+<td>11</td>
+<td>5</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/2004_Atlantic_hurricane_season" title="2004 Atlantic hurricane season">2004 Atlantic hurricane season</a></td>
+<td>225</td>
+<td>15</td>
+<td>9</td>
+<td>6</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/1950_Atlantic_hurricane_season" title="1950 Atlantic hurricane season">1950 Atlantic hurricane season</a></td>
+<td>211</td>
+<td>16</td>
+<td>11</td>
+<td>6</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/1961_Atlantic_hurricane_season" title="1961 Atlantic hurricane season">1961 Atlantic hurricane season</a></td>
+<td>205</td>
+<td>11</td>
+<td>8</td>
+<td><b>7</b></td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/2017_Atlantic_hurricane_season" title="2017 Atlantic hurricane season">2017 Atlantic hurricane season</a></td>
+<td>202</td>
+<td>13</td>
+<td>8</td>
+<td>5</td>
+<td><i>Current season</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/1955_Atlantic_hurricane_season" title="1955 Atlantic hurricane season">1955 Atlantic hurricane season</a></td>
+<td>199</td>
+<td>12</td>
+<td>9</td>
+<td>6</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/1998_Atlantic_hurricane_season" title="1998 Atlantic hurricane season">1998 Atlantic hurricane season</a></td>
+<td>182</td>
+<td>14</td>
+<td>10</td>
+<td>3</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/1999_Atlantic_hurricane_season" title="1999 Atlantic hurricane season">1999 Atlantic hurricane season</a></td>
+<td>177</td>
+<td>12</td>
+<td>8</td>
+<td>5</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/2003_Atlantic_hurricane_season" title="2003 Atlantic hurricane season">2003 Atlantic hurricane season</a></td>
+<td>175</td>
+<td>16</td>
+<td>7</td>
+<td>3</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/1964_Atlantic_hurricane_season" title="1964 Atlantic hurricane season">1964 Atlantic hurricane season</a></td>
+<td>170</td>
+<td>12</td>
+<td>6</td>
+<td>6</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1996_Atlantic_hurricane_season" title="1996 Atlantic hurricane season">1996 Atlantic hurricane season</a></td>
+<td>166</td>
+<td>13</td>
+<td>9</td>
+<td>6</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/2010_Atlantic_hurricane_season" title="2010 Atlantic hurricane season">2010 Atlantic hurricane season</a></td>
+<td>165</td>
+<td>19</td>
+<td>12</td>
+<td>5</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/1969_Atlantic_hurricane_season" title="1969 Atlantic hurricane season">1969 Atlantic hurricane season</a></td>
+<td>158</td>
+<td>18</td>
+<td>12</td>
+<td>5</td>
+<td>Above normal (<i>hyperactive</i>)</td>
+</tr>
+<tr>
+<td><a href="/wiki/1980_Atlantic_hurricane_season" title="1980 Atlantic hurricane season">1980 Atlantic hurricane season</a></td>
+<td>147</td>
+<td>11</td>
+<td>9</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1966_Atlantic_hurricane_season" title="1966 Atlantic hurricane season">1966 Atlantic hurricane season</a></td>
+<td>145</td>
+<td>11</td>
+<td>7</td>
+<td>3</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2008_Atlantic_hurricane_season" title="2008 Atlantic hurricane season">2008 Atlantic hurricane season</a></td>
+<td>144</td>
+<td>16</td>
+<td>8</td>
+<td>5</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2016_Atlantic_hurricane_season" title="2016 Atlantic hurricane season">2016 Atlantic hurricane season</a></td>
+<td>141</td>
+<td>15</td>
+<td>7</td>
+<td>4</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1951_Atlantic_hurricane_season" title="1951 Atlantic hurricane season">1951 Atlantic hurricane season</a></td>
+<td>137</td>
+<td>10</td>
+<td>8</td>
+<td>5</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1989_Atlantic_hurricane_season" title="1989 Atlantic hurricane season">1989 Atlantic hurricane season</a></td>
+<td>135</td>
+<td>11</td>
+<td>7</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2012_Atlantic_hurricane_season" title="2012 Atlantic hurricane season">2012 Atlantic hurricane season</a></td>
+<td>133</td>
+<td>19</td>
+<td>10</td>
+<td>2</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2011_Atlantic_hurricane_season" title="2011 Atlantic hurricane season">2011 Atlantic hurricane season</a></td>
+<td>126</td>
+<td>19</td>
+<td>7</td>
+<td>4</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1967_Atlantic_hurricane_season" title="1967 Atlantic hurricane season">1967 Atlantic hurricane season</a></td>
+<td>122</td>
+<td>8</td>
+<td>6</td>
+<td>1</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1958_Atlantic_hurricane_season" title="1958 Atlantic hurricane season">1958 Atlantic hurricane season</a></td>
+<td>121</td>
+<td>10</td>
+<td>7</td>
+<td>5</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1963_Atlantic_hurricane_season" title="1963 Atlantic hurricane season">1963 Atlantic hurricane season</a></td>
+<td>118</td>
+<td>9</td>
+<td>7</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2000_Atlantic_hurricane_season" title="2000 Atlantic hurricane season">2000 Atlantic hurricane season</a></td>
+<td>116</td>
+<td>15</td>
+<td>8</td>
+<td>3</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1954_Atlantic_hurricane_season" title="1954 Atlantic hurricane season">1954 Atlantic hurricane season</a></td>
+<td>113</td>
+<td>11</td>
+<td>8</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2001_Atlantic_hurricane_season" title="2001 Atlantic hurricane season">2001 Atlantic hurricane season</a></td>
+<td>106</td>
+<td>15</td>
+<td>9</td>
+<td>4</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1953_Atlantic_hurricane_season" title="1953 Atlantic hurricane season">1953 Atlantic hurricane season</a></td>
+<td>104</td>
+<td>14</td>
+<td>6</td>
+<td>4</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1988_Atlantic_hurricane_season" title="1988 Atlantic hurricane season">1988 Atlantic hurricane season</a></td>
+<td>103</td>
+<td>12</td>
+<td>5</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1971_Atlantic_hurricane_season" title="1971 Atlantic hurricane season">1971 Atlantic hurricane season</a></td>
+<td>97</td>
+<td>13</td>
+<td>6</td>
+<td>1</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1981_Atlantic_hurricane_season" title="1981 Atlantic hurricane season">1981 Atlantic hurricane season</a></td>
+<td>93</td>
+<td>12</td>
+<td>7</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1979_Atlantic_hurricane_season" title="1979 Atlantic hurricane season">1979 Atlantic hurricane season</a></td>
+<td>91</td>
+<td>9</td>
+<td>5</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1990_Atlantic_hurricane_season" title="1990 Atlantic hurricane season">1990 Atlantic hurricane season</a></td>
+<td>91</td>
+<td>14</td>
+<td>8</td>
+<td>1</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1960_Atlantic_hurricane_season" title="1960 Atlantic hurricane season">1960 Atlantic hurricane season</a></td>
+<td>88</td>
+<td>7</td>
+<td>4</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1985_Atlantic_hurricane_season" title="1985 Atlantic hurricane season">1985 Atlantic hurricane season</a></td>
+<td>88</td>
+<td>11</td>
+<td>7</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1952_Atlantic_hurricane_season" title="1952 Atlantic hurricane season">1952 Atlantic hurricane season</a></td>
+<td>87</td>
+<td>7</td>
+<td>6</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1965_Atlantic_hurricane_season" title="1965 Atlantic hurricane season">1965 Atlantic hurricane season</a></td>
+<td>84</td>
+<td>6</td>
+<td>4</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1957_Atlantic_hurricane_season" title="1957 Atlantic hurricane season">1957 Atlantic hurricane season</a></td>
+<td>84</td>
+<td>8</td>
+<td>3</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1976_Atlantic_hurricane_season" title="1976 Atlantic hurricane season">1976 Atlantic hurricane season</a></td>
+<td>81</td>
+<td>10</td>
+<td>6</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2006_Atlantic_hurricane_season" title="2006 Atlantic hurricane season">2006 Atlantic hurricane season</a></td>
+<td>79</td>
+<td>10</td>
+<td>5</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1959_Atlantic_hurricane_season" title="1959 Atlantic hurricane season">1959 Atlantic hurricane season</a></td>
+<td>77</td>
+<td>11</td>
+<td>7</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1992_Atlantic_hurricane_season" title="1992 Atlantic hurricane season">1992 Atlantic hurricane season</a></td>
+<td>75</td>
+<td>7</td>
+<td>4</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1975_Atlantic_hurricane_season" title="1975 Atlantic hurricane season">1975 Atlantic hurricane season</a></td>
+<td>73</td>
+<td>9</td>
+<td>6</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2007_Atlantic_hurricane_season" title="2007 Atlantic hurricane season">2007 Atlantic hurricane season</a></td>
+<td>72</td>
+<td>15</td>
+<td>6</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1984_Atlantic_hurricane_season" title="1984 Atlantic hurricane season">1984 Atlantic hurricane season</a></td>
+<td>71</td>
+<td>12</td>
+<td>5</td>
+<td>1</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2002_Atlantic_hurricane_season" title="2002 Atlantic hurricane season">2002 Atlantic hurricane season</a></td>
+<td>67</td>
+<td>12</td>
+<td>4</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2014_Atlantic_hurricane_season" title="2014 Atlantic hurricane season">2014 Atlantic hurricane season</a></td>
+<td>67</td>
+<td>8</td>
+<td>6</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2015_Atlantic_hurricane_season" title="2015 Atlantic hurricane season">2015 Atlantic hurricane season</a></td>
+<td>63</td>
+<td>11</td>
+<td>4</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1978_Atlantic_hurricane_season" title="1978 Atlantic hurricane season">1978 Atlantic hurricane season</a></td>
+<td>62</td>
+<td>12</td>
+<td>5</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1974_Atlantic_hurricane_season" title="1974 Atlantic hurricane season">1974 Atlantic hurricane season</a></td>
+<td>61</td>
+<td>11</td>
+<td>4</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1956_Atlantic_hurricane_season" title="1956 Atlantic hurricane season">1956 Atlantic hurricane season</a></td>
+<td>54</td>
+<td>8</td>
+<td>4</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2009_Atlantic_hurricane_season" title="2009 Atlantic hurricane season">2009 Atlantic hurricane season</a></td>
+<td>53</td>
+<td>9</td>
+<td>3</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1973_Atlantic_hurricane_season" title="1973 Atlantic hurricane season">1973 Atlantic hurricane season</a></td>
+<td>43</td>
+<td>8</td>
+<td>4</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1997_Atlantic_hurricane_season" title="1997 Atlantic hurricane season">1997 Atlantic hurricane season</a></td>
+<td>40</td>
+<td>7</td>
+<td>3</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1993_Atlantic_hurricane_season" title="1993 Atlantic hurricane season">1993 Atlantic hurricane season</a></td>
+<td>39</td>
+<td>8</td>
+<td>4</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1962_Atlantic_hurricane_season" title="1962 Atlantic hurricane season">1962 Atlantic hurricane season</a></td>
+<td>36</td>
+<td>5</td>
+<td>3</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2013_Atlantic_hurricane_season" title="2013 Atlantic hurricane season">2013 Atlantic hurricane season</a></td>
+<td>36</td>
+<td>14</td>
+<td>2</td>
+<td>0</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1986_Atlantic_hurricane_season" title="1986 Atlantic hurricane season">1986 Atlantic hurricane season</a></td>
+<td>36</td>
+<td>6</td>
+<td>4</td>
+<td>0</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1968_Atlantic_hurricane_season" title="1968 Atlantic hurricane season">1968 Atlantic hurricane season</a></td>
+<td>35</td>
+<td>8</td>
+<td>4</td>
+<td>0</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1970_Atlantic_hurricane_season" title="1970 Atlantic hurricane season">1970 Atlantic hurricane season</a></td>
+<td>34</td>
+<td>10</td>
+<td>5</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1987_Atlantic_hurricane_season" title="1987 Atlantic hurricane season">1987 Atlantic hurricane season</a></td>
+<td>34</td>
+<td>7</td>
+<td>3</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1991_Atlantic_hurricane_season" title="1991 Atlantic hurricane season">1991 Atlantic hurricane season</a></td>
+<td>34</td>
+<td>8</td>
+<td>4</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1994_Atlantic_hurricane_season" title="1994 Atlantic hurricane season">1994 Atlantic hurricane season</a></td>
+<td>32</td>
+<td>7</td>
+<td>3</td>
+<td>0</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1982_Atlantic_hurricane_season" title="1982 Atlantic hurricane season">1982 Atlantic hurricane season</a></td>
+<td>29</td>
+<td>6</td>
+<td>2</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1972_Atlantic_hurricane_season" title="1972 Atlantic hurricane season">1972 Atlantic hurricane season</a></td>
+<td>28</td>
+<td>7</td>
+<td>3</td>
+<td>0</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1977_Atlantic_hurricane_season" title="1977 Atlantic hurricane season">1977 Atlantic hurricane season</a></td>
+<td>25</td>
+<td>6</td>
+<td>5</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1983_Atlantic_hurricane_season" title="1983 Atlantic hurricane season">1983 Atlantic hurricane season</a></td>
+<td>17</td>
+<td>4</td>
+<td>3</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="East_Pacific_ACE">East Pacific ACE</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=7" title="Edit section: East Pacific ACE">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div style="float:right;padding-top:1em">
+<div class="chart" style="margin-top:1em;max-width:500px;">
+<div style="position:relative;min-height:350px;min-width:500px;max-width:500px;">
+<div style="float:right;position:relative;min-height:270px;min-width:400px;max-width:400px;border-left:1px black solid;border-bottom:1px black solid;">
+<div style="position:absolute;left:1px;top:145px;height:124px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1971: 139"></div>
+<div style="position:absolute;left:9px;top:148px;height:121px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1972: 136"></div>
+<div style="position:absolute;left:17px;top:167px;height:102px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1973: 114"></div>
+<div style="position:absolute;left:25px;top:189px;height:80px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1974: 90"></div>
+<div style="position:absolute;left:33px;top:169px;height:100px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1975: 112"></div>
+<div style="position:absolute;left:41px;top:161px;height:108px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1976: 121"></div>
+<div style="position:absolute;left:49px;top:250px;height:19px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1977: 22"></div>
+<div style="position:absolute;left:57px;top:84px;height:185px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1978: 207"></div>
+<div style="position:absolute;left:65px;top:219px;height:50px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1979: 57"></div>
+<div style="position:absolute;left:73px;top:201px;height:68px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1980: 77"></div>
+<div style="position:absolute;left:81px;top:205px;height:64px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1981: 72"></div>
+<div style="position:absolute;left:89px;top:125px;height:144px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1982: 161"></div>
+<div style="position:absolute;left:97px;top:85px;height:184px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1983: 206"></div>
+<div style="position:absolute;left:105px;top:96px;height:173px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1984: 193"></div>
+<div style="position:absolute;left:113px;top:97px;height:172px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1985: 192"></div>
+<div style="position:absolute;left:121px;top:174px;height:95px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1986: 107"></div>
+<div style="position:absolute;left:129px;top:151px;height:118px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1987: 132"></div>
+<div style="position:absolute;left:137px;top:156px;height:113px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1988: 127"></div>
+<div style="position:absolute;left:145px;top:171px;height:98px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1989: 110"></div>
+<div style="position:absolute;left:153px;top:49px;height:220px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1990: 245"></div>
+<div style="position:absolute;left:161px;top:110px;height:159px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1991: 178"></div>
+<div style="position:absolute;left:169px;top:4px;height:265px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1992: 295"></div>
+<div style="position:absolute;left:177px;top:89px;height:180px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1993: 201"></div>
+<div style="position:absolute;left:185px;top:103px;height:166px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1994: 185"></div>
+<div style="position:absolute;left:193px;top:180px;height:89px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1995: 100"></div>
+<div style="position:absolute;left:201px;top:222px;height:47px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1996: 53"></div>
+<div style="position:absolute;left:209px;top:120px;height:149px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1997: 167"></div>
+<div style="position:absolute;left:217px;top:149px;height:120px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1998: 134"></div>
+<div style="position:absolute;left:225px;top:189px;height:80px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="1999: 90"></div>
+<div style="position:absolute;left:233px;top:184px;height:85px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2000: 95"></div>
+<div style="position:absolute;left:241px;top:189px;height:80px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2001: 90"></div>
+<div style="position:absolute;left:249px;top:158px;height:111px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2002: 124"></div>
+<div style="position:absolute;left:257px;top:220px;height:49px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2003: 56"></div>
+<div style="position:absolute;left:265px;top:206px;height:63px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2004: 71"></div>
+<div style="position:absolute;left:273px;top:184px;height:85px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2005: 96"></div>
+<div style="position:absolute;left:281px;top:130px;height:139px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2006: 155"></div>
+<div style="position:absolute;left:289px;top:223px;height:46px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2007: 52"></div>
+<div style="position:absolute;left:297px;top:195px;height:74px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2008: 83"></div>
+<div style="position:absolute;left:305px;top:157px;height:112px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2009: 125"></div>
+<div style="position:absolute;left:313px;top:226px;height:43px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2010: 49"></div>
+<div style="position:absolute;left:321px;top:164px;height:105px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2011: 118"></div>
+<div style="position:absolute;left:329px;top:182px;height:87px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2012: 98"></div>
+<div style="position:absolute;left:337px;top:202px;height:67px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2013: 76"></div>
+<div style="position:absolute;left:345px;top:92px;height:177px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2014: 198"></div>
+<div style="position:absolute;left:353px;top:13px;height:256px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2015: 286"></div>
+<div style="position:absolute;left:361px;top:105px;height:164px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2016: 183"></div>
+<div style="position:absolute;left:369px;top:183px;height:86px;min-width:4px;max-width:4px;background-color:blue;-webkit-print-color-adjust:exact;border:1px solid blue;border-bottom:none;overflow:hidden;" title="2017: 97"></div>
+</div>
+<div style="position:absolute;height:270px;min-width:100px;max-width:100px;">
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:215px;padding:0 2px">50</div>
+<div style="position:absolute;height=1px;min-width:5px;top:225px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:170px;padding:0 2px">100</div>
+<div style="position:absolute;height=1px;min-width:5px;top:180px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:125px;padding:0 2px">150</div>
+<div style="position:absolute;height=1px;min-width:5px;top:135px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:80px;padding:0 2px">200</div>
+<div style="position:absolute;height=1px;min-width:5px;top:90px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:35px;padding:0 2px">250</div>
+<div style="position:absolute;height=1px;min-width:5px;top:45px;left:96px;border:1px solid black;"></div>
+<div style="position:absolute;height=20px;text-align:right;vertical-align:middle;width:90px;top:-10px;padding:0 2px">300</div>
+<div style="position:absolute;height=1px;min-width:5px;top:0px;left:96px;border:1px solid black;"></div>
+</div>
+<div style="position:absolute;top:270px;left:100px;width:400px;">
+<div style="position:absolute;left:5px;top:10px;min-width:-2px;max-width:-2px;text-align:center;vertical-align:top;">1971</div>
+<div style="position:absolute;left:4px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:77px;top:10px;min-width:-2px;max-width:-2px;text-align:center;vertical-align:top;">1980</div>
+<div style="position:absolute;left:76px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:157px;top:10px;min-width:-2px;max-width:-2px;text-align:center;vertical-align:top;">1990</div>
+<div style="position:absolute;left:156px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:237px;top:10px;min-width:-2px;max-width:-2px;text-align:center;vertical-align:top;">2000</div>
+<div style="position:absolute;left:236px;height:10px;width:1px;border-left:1px solid black;"></div>
+<div style="position:absolute;left:317px;top:10px;min-width:-2px;max-width:-2px;text-align:center;vertical-align:top;">2010</div>
+<div style="position:absolute;left:316px;height:10px;width:1px;border-left:1px solid black;"></div>
+</div>
+</div>
+</div>
+</div>
+<p>Accumulated Cyclone Energy is also used in the eastern and central Pacific Ocean. Data on ACE is considered reliable starting with the <a href="/wiki/1971_Pacific_hurricane_season" title="1971 Pacific hurricane season">1971 season</a>. The season with the highest ACE since 1971 is the <a href="/wiki/1992_Pacific_hurricane_season" title="1992 Pacific hurricane season">1992 season</a>. The <a href="/wiki/1977_Pacific_hurricane_season" title="1977 Pacific hurricane season">1977 season</a> has the lowest ACE. The most recent above-normal season is the <a href="/wiki/2016_Pacific_hurricane_season" title="2016 Pacific hurricane season">2016 season</a>, the most recent near-normal season is the <a href="/wiki/2012_Pacific_hurricane_season" title="2012 Pacific hurricane season">2012 season</a>, and the most recent below normal season is the <a href="/wiki/2013_Pacific_hurricane_season" title="2013 Pacific hurricane season">2013 season</a>.<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> The 35 year median 1971–2005 is 115 x 10<sup>4</sup> kn<sup>2</sup> (100 in the EPAC zone east of 140°W, 13 in the CPAC zone); the mean is 130 (112 + 18).</p>
+<p>The (unofficial) categorization of seasons for this table is based <i><a href="/wiki/Mutatis_mutandis" title="Mutatis mutandis">mutatis mutandis</a></i> on that used in the Atlantic basin:</p>
+<ul>
+<li><i>Above-normal season</i>: An ACE value above 135 (117% of the median), provided at least two of the following three parameters exceed the long-term average: number of tropical storms (16), hurricanes (9), and major hurricanes (4).</li>
+<li><i>Near-normal season</i>: neither above-normal nor below normal</li>
+<li><i>Below-normal season</i>: An ACE value below 86 (75% of the median)</li>
+</ul>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:254px;max-width:254px">
+<div class="tsingle" style="margin:1px;width:252px;max-width:252px">
+<div class="thumbimage"><a class="image" href="/wiki/File:PDO.svg"><img alt="" data-file-height="650" data-file-width="1000" height="163" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/PDO.svg/250px-PDO.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/09/PDO.svg/375px-PDO.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/09/PDO.svg/500px-PDO.svg.png 2x" width="250"/></a></div>
+<div class="thumbcaption" style="clear:left">Observed monthly values for the <a class="mw-redirect" href="/wiki/Pacific_Decadal_Oscillation" title="Pacific Decadal Oscillation">PDO</a> index, 1900–<i>present</i>.</div>
+</div>
+<div class="tsingle" style="margin:1px;width:252px;max-width:252px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Hist_east_pac_ace_trend_1981-2015.gif"><img alt="" data-file-height="969" data-file-width="1290" height="188" src="//upload.wikimedia.org/wikipedia/en/thumb/c/ca/Hist_east_pac_ace_trend_1981-2015.gif/250px-Hist_east_pac_ace_trend_1981-2015.gif" srcset="//upload.wikimedia.org/wikipedia/en/thumb/c/ca/Hist_east_pac_ace_trend_1981-2015.gif/375px-Hist_east_pac_ace_trend_1981-2015.gif 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/c/ca/Hist_east_pac_ace_trend_1981-2015.gif/500px-Hist_east_pac_ace_trend_1981-2015.gif 2x" width="250"/></a></div>
+<div class="thumbcaption" style="clear:left">Historical East Pacific Seasonal Activity, 1981–2015.</div>
+</div>
+</div>
+</div>
+<table border="1" class="wikitable sortable">
+<tr>
+<th>Season</th>
+<th>ACE</th>
+<th>TS</th>
+<th>HU</th>
+<th>MH</th>
+<th>Classification</th>
+</tr>
+<tr>
+<td><a href="/wiki/1992_Pacific_hurricane_season" title="1992 Pacific hurricane season">1992 Pacific hurricane season</a></td>
+<td><b>295</b></td>
+<td><b>27</b></td>
+<td><b>16</b></td>
+<td>10</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2015_Pacific_hurricane_season" title="2015 Pacific hurricane season">2015 Pacific hurricane season</a></td>
+<td>286</td>
+<td>26</td>
+<td><b>16</b></td>
+<td><b>11</b></td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1990_Pacific_hurricane_season" title="1990 Pacific hurricane season">1990 Pacific hurricane season</a></td>
+<td>245</td>
+<td>21</td>
+<td><b>16</b></td>
+<td>6</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1978_Pacific_hurricane_season" title="1978 Pacific hurricane season">1978 Pacific hurricane season</a></td>
+<td>207</td>
+<td>19</td>
+<td>14</td>
+<td>7</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1983_Pacific_hurricane_season" title="1983 Pacific hurricane season">1983 Pacific hurricane season</a></td>
+<td>206</td>
+<td>21</td>
+<td>12</td>
+<td>8</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1993_Pacific_hurricane_season" title="1993 Pacific hurricane season">1993 Pacific hurricane season</a></td>
+<td>201</td>
+<td>15</td>
+<td>11</td>
+<td>9</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2014_Pacific_hurricane_season" title="2014 Pacific hurricane season">2014 Pacific hurricane season</a></td>
+<td>198</td>
+<td>22</td>
+<td><b>16</b></td>
+<td>9</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1984_Pacific_hurricane_season" title="1984 Pacific hurricane season">1984 Pacific hurricane season</a></td>
+<td>193</td>
+<td>21</td>
+<td>13</td>
+<td>7</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1985_Pacific_hurricane_season" title="1985 Pacific hurricane season">1985 Pacific hurricane season</a></td>
+<td>192</td>
+<td>24</td>
+<td>13</td>
+<td>8</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1994_Pacific_hurricane_season" title="1994 Pacific hurricane season">1994 Pacific hurricane season</a></td>
+<td>185</td>
+<td>20</td>
+<td>10</td>
+<td>5</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2016_Pacific_hurricane_season" title="2016 Pacific hurricane season">2016 Pacific hurricane season</a></td>
+<td>183</td>
+<td>22</td>
+<td>13</td>
+<td>6</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1991_Pacific_hurricane_season" title="1991 Pacific hurricane season">1991 Pacific hurricane season</a></td>
+<td>178</td>
+<td>14</td>
+<td>10</td>
+<td>5</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1997_Pacific_hurricane_season" title="1997 Pacific hurricane season">1997 Pacific hurricane season</a></td>
+<td>167</td>
+<td>19</td>
+<td>9</td>
+<td>7</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1982_Pacific_hurricane_season" title="1982 Pacific hurricane season">1982 Pacific hurricane season</a></td>
+<td>161</td>
+<td>23</td>
+<td>12</td>
+<td>5</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2006_Pacific_hurricane_season" title="2006 Pacific hurricane season">2006 Pacific hurricane season</a></td>
+<td>155</td>
+<td>19</td>
+<td>11</td>
+<td>6</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1971_Pacific_hurricane_season" title="1971 Pacific hurricane season">1971 Pacific hurricane season</a></td>
+<td>139</td>
+<td>18</td>
+<td>12</td>
+<td>6</td>
+<td>Above normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1972_Pacific_hurricane_season" title="1972 Pacific hurricane season">1972 Pacific hurricane season</a></td>
+<td>136</td>
+<td>14</td>
+<td>8</td>
+<td>4</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1998_Pacific_hurricane_season" title="1998 Pacific hurricane season">1998 Pacific hurricane season</a></td>
+<td>134</td>
+<td>13</td>
+<td>9</td>
+<td>6</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1987_Pacific_hurricane_season" title="1987 Pacific hurricane season">1987 Pacific hurricane season</a></td>
+<td>132</td>
+<td>20</td>
+<td>10</td>
+<td>4</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1988_Pacific_hurricane_season" title="1988 Pacific hurricane season">1988 Pacific hurricane season</a></td>
+<td>127</td>
+<td>15</td>
+<td>7</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2009_Pacific_hurricane_season" title="2009 Pacific hurricane season">2009 Pacific hurricane season</a></td>
+<td>125</td>
+<td>20</td>
+<td>8</td>
+<td>5</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2002_Pacific_hurricane_season" title="2002 Pacific hurricane season">2002 Pacific hurricane season</a></td>
+<td>124</td>
+<td>15</td>
+<td>8</td>
+<td>6</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1976_Pacific_hurricane_season" title="1976 Pacific hurricane season">1976 Pacific hurricane season</a></td>
+<td>121</td>
+<td>15</td>
+<td>9</td>
+<td>5</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2011_Pacific_hurricane_season" title="2011 Pacific hurricane season">2011 Pacific hurricane season</a></td>
+<td>118</td>
+<td>11</td>
+<td>10</td>
+<td>6</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1973_Pacific_hurricane_season" title="1973 Pacific hurricane season">1973 Pacific hurricane season</a></td>
+<td>114</td>
+<td>12</td>
+<td>7</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1975_Pacific_hurricane_season" title="1975 Pacific hurricane season">1975 Pacific hurricane season</a></td>
+<td>112</td>
+<td>17</td>
+<td>9</td>
+<td>4</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1989_Pacific_hurricane_season" title="1989 Pacific hurricane season">1989 Pacific hurricane season</a></td>
+<td>110</td>
+<td>17</td>
+<td>9</td>
+<td>4</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1986_Pacific_hurricane_season" title="1986 Pacific hurricane season">1986 Pacific hurricane season</a></td>
+<td>107</td>
+<td>17</td>
+<td>9</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1995_Pacific_hurricane_season" title="1995 Pacific hurricane season">1995 Pacific hurricane season</a></td>
+<td>100</td>
+<td>10</td>
+<td>7</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2012_Pacific_hurricane_season" title="2012 Pacific hurricane season">2012 Pacific hurricane season</a></td>
+<td>98</td>
+<td>17</td>
+<td>10</td>
+<td>5</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2017_Pacific_hurricane_season" title="2017 Pacific hurricane season">2017 Pacific hurricane season</a></td>
+<td>97</td>
+<td>17</td>
+<td>9</td>
+<td>4</td>
+<td><i>Current season</i></td>
+</tr>
+<tr>
+<td><a href="/wiki/2005_Pacific_hurricane_season" title="2005 Pacific hurricane season">2005 Pacific hurricane season</a></td>
+<td>96</td>
+<td>15</td>
+<td>7</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2000_Pacific_hurricane_season" title="2000 Pacific hurricane season">2000 Pacific hurricane season</a></td>
+<td>95</td>
+<td>19</td>
+<td>6</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1974_Pacific_hurricane_season" title="1974 Pacific hurricane season">1974 Pacific hurricane season</a></td>
+<td>90</td>
+<td>18</td>
+<td>11</td>
+<td>3</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2001_Pacific_hurricane_season" title="2001 Pacific hurricane season">2001 Pacific hurricane season</a></td>
+<td>90</td>
+<td>15</td>
+<td>8</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1999_Pacific_hurricane_season" title="1999 Pacific hurricane season">1999 Pacific hurricane season</a></td>
+<td>90</td>
+<td>9</td>
+<td>6</td>
+<td>2</td>
+<td>Near normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2008_Pacific_hurricane_season" title="2008 Pacific hurricane season">2008 Pacific hurricane season</a></td>
+<td>83</td>
+<td>17</td>
+<td>7</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1980_Pacific_hurricane_season" title="1980 Pacific hurricane season">1980 Pacific hurricane season</a></td>
+<td>77</td>
+<td>14</td>
+<td>7</td>
+<td>3</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2013_Pacific_hurricane_season" title="2013 Pacific hurricane season">2013 Pacific hurricane season</a></td>
+<td>76</td>
+<td>20</td>
+<td>9</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1981_Pacific_hurricane_season" title="1981 Pacific hurricane season">1981 Pacific hurricane season</a></td>
+<td>72</td>
+<td>15</td>
+<td>8</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2004_Pacific_hurricane_season" title="2004 Pacific hurricane season">2004 Pacific hurricane season</a></td>
+<td>71</td>
+<td>12</td>
+<td>6</td>
+<td>3</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1979_Pacific_hurricane_season" title="1979 Pacific hurricane season">1979 Pacific hurricane season</a></td>
+<td>57</td>
+<td>10</td>
+<td>6</td>
+<td>4</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2003_Pacific_hurricane_season" title="2003 Pacific hurricane season">2003 Pacific hurricane season</a></td>
+<td>56</td>
+<td>16</td>
+<td>7</td>
+<td>0</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1996_Pacific_hurricane_season" title="1996 Pacific hurricane season">1996 Pacific hurricane season</a></td>
+<td>53</td>
+<td>9</td>
+<td>5</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2007_Pacific_hurricane_season" title="2007 Pacific hurricane season">2007 Pacific hurricane season</a></td>
+<td>52</td>
+<td>11</td>
+<td>4</td>
+<td>1</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/2010_Pacific_hurricane_season" title="2010 Pacific hurricane season">2010 Pacific hurricane season</a></td>
+<td>49</td>
+<td>8</td>
+<td>3</td>
+<td>2</td>
+<td>Below normal</td>
+</tr>
+<tr>
+<td><a href="/wiki/1977_Pacific_hurricane_season" title="1977 Pacific hurricane season">1977 Pacific hurricane season</a></td>
+<td>22</td>
+<td>8</td>
+<td>4</td>
+<td>0</td>
+<td>Below normal</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=8" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2004" data-file-width="3032" height="21" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/32px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/48px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/89/Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG/64px-Cyclone_Catarina_from_the_ISS_on_March_26_2004.JPG 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Tropical_cyclones" title="Portal:Tropical cyclones">Tropical cyclones portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a class="mw-redirect" href="/wiki/List_of_Atlantic_hurricane_seasons" title="List of Atlantic hurricane seasons">List of Atlantic hurricane seasons</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_Pacific_hurricane_seasons" title="List of Pacific hurricane seasons">List of Pacific hurricane seasons</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=9" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation web">Mark Saunders; Adam Lea (2007). <a class="external text" href="https://web.archive.org/web/20071129132910/http://tsr.mssl.ucl.ac.uk/docs/TSRNWP2006Verification.pdf" rel="nofollow">"Summary of 2006 NW Pacific Typhoon Season and Verification of Authors’ Seasonal Forecasts"</a> <span style="font-size:85%;">(PDF)</span>. Tropical Storm Risk. Archived from <a class="external text" href="http://tsr.mssl.ucl.ac.uk/docs/TSRNWP2006Verification.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 2007-11-29<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-09-01</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccumulated+cyclone+energy&amp;rft.au=Adam+Lea&amp;rft.au=Mark+Saunders&amp;rft.btitle=Summary+of+2006+NW+Pacific+Typhoon+Season+and+Verification+of+Authors%E2%80%99+Seasonal+Forecasts&amp;rft.date=2007&amp;rft.genre=unknown&amp;rft.pub=Tropical+Storm+Risk&amp;rft_id=http%3A%2F%2Ftsr.mssl.ucl.ac.uk%2Fdocs%2FTSRNWP2006Verification.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.nhc.noaa.gov/archive/2005/dis/al302005.discus.030.shtml?" rel="nofollow">Last advisory for T.S. Zeta 2005</a></span></li>
+<li id="cite_note-BellEtAl2000-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-BellEtAl2000_3-0">^</a></b></span> <span class="reference-text"><cite class="citation journal">Bell GD, Halpert MS, Schnell RC, et al. (2000). <a class="external text" href="http://journals.ametsoc.org/doi/pdf/10.1175/1520-0477%282000%29081%3C1328%3ACAF%3E2.3.CO%3B2" rel="nofollow">"Climate Assessment for 1999"</a> <span style="font-size:85%;">(PDF)</span>. <i>Bulletin of the American Meteorological Society</i>. <b>81</b> (6): 1328. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2000BAMS...81.1328B" rel="nofollow">2000BAMS...81.1328B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0477%282000%29081%3C1328%3ACAF%3E2.3.CO%3B2" rel="nofollow">10.1175/1520-0477(2000)081&lt;1328:CAF&gt;2.3.CO;2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccumulated+cyclone+energy&amp;rft.atitle=Climate+Assessment+for+1999&amp;rft.au=Halpert%2C+MS&amp;rft.au=Schnell%2C+RC&amp;rft.aufirst=GD&amp;rft.aulast=Bell&amp;rft.date=2000&amp;rft.genre=article&amp;rft.issue=6&amp;rft.jtitle=Bulletin+of+the+American+Meteorological+Society&amp;rft.pages=1328&amp;rft.volume=81&amp;rft_id=http%3A%2F%2Fjournals.ametsoc.org%2Fdoi%2Fpdf%2F10.1175%2F1520-0477%25282000%2529081%253C1328%253ACAF%253E2.3.CO%253B2&amp;rft_id=info%3Abibcode%2F2000BAMS...81.1328B&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0477%282000%29081%3C1328%3ACAF%3E2.3.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.researchgate.net/publication/258698790_The_Track_Integrated_Kinetic_Energy_of_Atlantic_Tropical_Cyclones" rel="nofollow">Track Integrated Kinetic Energy by Mark D. Powell, in Monthly Weather Review, December 2013</a></span></li>
+<li id="cite_note-background-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-background_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Climate Prediction Center (May 22, 2014). <a class="external text" href="http://www.cpc.ncep.noaa.gov/products/outlooks/background_information.shtml" rel="nofollow">"Background information: the North Atlantic Hurricane Season"</a>. United States National Oceanic and Atmospheric Administration<span class="reference-accessdate">. Retrieved <span class="nowrap">June 5,</span> 2014</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccumulated+cyclone+energy&amp;rft.au=Climate+Prediction+Center&amp;rft.btitle=Background+information%3A+the+North+Atlantic+Hurricane+Season&amp;rft.date=2014-05-22&amp;rft.genre=unknown&amp;rft.pub=United+States+National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.cpc.ncep.noaa.gov%2Fproducts%2Foutlooks%2Fbackground_information.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation journal">Goldberg SB, Landsea CW, Mestas-Nuñez AM, Gray WM (July 2001). <a class="external text" href="http://www.aoml.noaa.gov/hrd/Goldenberg/science01.pdf" rel="nofollow">"The Recent Increase in Atlantic Hurricane Activity: Causes and Implications"</a> <span style="font-size:85%;">(PDF)</span>. <i>Science</i>. <b>293</b> (5529): 474–9. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001Sci...293..474G" rel="nofollow">2001Sci...293..474G</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/11463911" rel="nofollow">11463911</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.1060040" rel="nofollow">10.1126/science.1060040</a>. <q><a class="external text" href="http://www.aoml.noaa.gov/hrd/Goldenberg/science-supp01.pdf" rel="nofollow">Supplementary material</a></q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccumulated+cyclone+energy&amp;rft.atitle=The+Recent+Increase+in+Atlantic+Hurricane+Activity%3A+Causes+and+Implications&amp;rft.au=Gray%2C+WM&amp;rft.au=Landsea%2C+CW&amp;rft.au=Mestas-Nu%C3%B1ez%2C+AM&amp;rft.aufirst=SB&amp;rft.aulast=Goldberg&amp;rft.date=2001-07&amp;rft.genre=article&amp;rft.issue=5529&amp;rft.jtitle=Science&amp;rft.pages=474-9&amp;rft.volume=293&amp;rft_id=http%3A%2F%2Fwww.aoml.noaa.gov%2Fhrd%2FGoldenberg%2Fscience01.pdf&amp;rft_id=info%3Abibcode%2F2001Sci...293..474G&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.1060040&amp;rft_id=info%3Apmid%2F11463911&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><a class="external text" href="http://tropical.atmos.colostate.edu/forecasts/2000/nov2000/index.html" rel="nofollow">Summary of 2000 Atlantic tropical cyclone activity and verification of authors’ seasonal activity prediction.</a></span></li>
+<li id="cite_note-HURDAT-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-HURDAT_8-0">^</a></b></span> <span class="reference-text"><cite class="citation web">National Hurricane Center; Hurricane Research Division (April 11, 2017). <a class="external text" href="http://www.nhc.noaa.gov/data/hurdat/hurdat2-1851-2016-041117.txt" rel="nofollow">"Atlantic hurricane best track (HURDAT version 2)"</a>. United States National Oceanic and Atmospheric Administration<span class="reference-accessdate">. Retrieved <span class="nowrap">October 4,</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccumulated+cyclone+energy&amp;rft.au=Hurricane+Research+Division&amp;rft.au=National+Hurricane+Center&amp;rft.btitle=Atlantic+hurricane+best+track+%28HURDAT+version+2%29&amp;rft.date=2017-04-11&amp;rft.genre=unknown&amp;rft.pub=United+States+National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.nhc.noaa.gov%2Fdata%2Fhurdat%2Fhurdat2-1851-2016-041117.txt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Individual_ACE-9"><span class="mw-cite-backlink">^ <a href="#cite_ref-Individual_ACE_9-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Individual_ACE_9-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://policlimate.com/tropical/atlantic_storms_ace_maxw.dat" rel="nofollow">"Atlantic hurricanes by ACE - 1950-2012"</a>. <i>Policlimate</i><span class="reference-accessdate">. Retrieved <span class="nowrap">7 August</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccumulated+cyclone+energy&amp;rft.atitle=Atlantic+hurricanes+by+ACE+-+1950-2012&amp;rft.genre=unknown&amp;rft.jtitle=Policlimate&amp;rft_id=http%3A%2F%2Fpoliclimate.com%2Ftropical%2Fatlantic_storms_ace_maxw.dat&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.aoml.noaa.gov/hrd/hurdat/comparison_table_apr12.html" rel="nofollow">"Original vs. Revised HUDRAT"</a>. <i>NOAA</i><span class="reference-accessdate">. Retrieved <span class="nowrap">28 September</span> 2017</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AAccumulated+cyclone+energy&amp;rft.atitle=Original+vs.+Revised+HUDRAT&amp;rft.genre=unknown&amp;rft.jtitle=NOAA&amp;rft_id=http%3A%2F%2Fwww.aoml.noaa.gov%2Fhrd%2Fhurdat%2Fcomparison_table_apr12.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.ncdc.noaa.gov/img/climate/research/2005/ann/ace-epac-nov30.png" rel="nofollow">East North Pacific ACE (through 30 Nov. 2005)</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit&amp;section=10" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Accumulated_cyclone_energy" title="commons:Category:Accumulated cyclone energy">Accumulated cyclone energy</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="https://web.archive.org/web/20060422015904/http://www.aoml.noaa.gov/hrd/tcfaq/E11.html" rel="nofollow">NOAA ACE by year from 1851</a></li>
+<li><a class="external text" href="http://www.ncdc.noaa.gov/oa/climate/research/2004/ann/atlantic-2004-ace.html" rel="nofollow">National Climatic Data Center — Atlantic Basin 2004 Accumulated Cyclone Energy (ACE) Index</a></li>
+<li><a class="external text" href="http://www.ncdc.noaa.gov/oa/climate/research/2005/2005-atlantic-trop-cyclones.html" rel="nofollow">National Climatic Data Center — Atlantic Basin 2005 Accumulated Cyclone Energy (ACE) Index</a></li>
+<li><a class="external text" href="http://tsr.mssl.ucl.ac.uk/docs/TSRNWP2004Verification.pdf" rel="nofollow">2004 Pacific NW Typhoon Season ACE</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20071122010555/http://www.atmos.albany.edu/student/carl/index.html" rel="nofollow">Global Tropical Cyclone Best Track Database</a></li>
+<li><a class="external text" href="http://acd.ucar.edu/~drews/hurricane/" rel="nofollow">Hurricane Metrics</a></li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1314
+Cached time: 20171004091013
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.276 seconds
+Real time usage: 0.364 seconds
+Preprocessor visited node count: 1373/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 57225/2097152 bytes
+Template argument size: 1901/2097152 bytes
+Highest expansion depth: 15/40
+Expensive parser function count: 1/500
+Lua time usage: 0.118/10.000 seconds
+Lua memory usage: 4.72 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  260.600      1 -total
+ 30.18%   78.658      1 Template:Reflist
+ 19.23%   50.107      5 Template:Cite_web
+ 18.52%   48.256      1 Template:Convert
+ 16.60%   43.270      1 Template:Cn_span
+ 14.34%   37.371      1 Template:Fix-span
+ 11.69%   30.463      2 Template:Category_handler
+  9.86%   25.705      1 Template:Commons_category
+  4.01%   10.444      2 Template:Cite_journal
+  3.80%    9.904      2 Template:Date
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:1201310-0!canonical!math=5 and timestamp 20171004091013 and revision id 803737208
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Accumulated_cyclone_energy&amp;oldid=803737208">https://en.wikipedia.org/w/index.php?title=Accumulated_cyclone_energy&amp;oldid=803737208</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Tropical_cyclone_meteorology" title="Category:Tropical cyclone meteorology">Tropical cyclone meteorology</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2017" title="Category:Articles with unsourced statements from September 2017">Articles with unsourced statements from September 2017</a></li><li><a href="/wiki/Category:Commons_category_with_local_link_different_than_on_Wikidata" title="Category:Commons category with local link different than on Wikidata">Commons category with local link different than on Wikidata</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Accumulated+cyclone+energy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Accumulated+cyclone+energy" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Accumulated_cyclone_energy" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Accumulated_cyclone_energy" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Accumulated_cyclone_energy">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Accumulated_cyclone_energy" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Accumulated_cyclone_energy" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;oldid=803737208" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Accumulated_cyclone_energy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q339687" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Accumulated_cyclone_energy&amp;id=803737208" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Accumulated+cyclone+energy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Accumulated+cyclone+energy&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DAccumulated%2Bcyclone%2Benergy%26returnto%3DAccumulated%2Bcyclone%2Benergy%26oldid%3D803737208%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Accumulated_cyclone_energy&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Accumulated_Cyclone_Energy" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Energia_cicl%C3%B2nica_acumulada" hreflang="ca" lang="ca" title="Energia ciclònica acumulada – Catalan">Català</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Accumulated_Cyclone_Energy" hreflang="de" lang="de" title="Accumulated Cyclone Energy – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Energ%C3%ADa_Cicl%C3%B3nica_Acumulada" hreflang="es" lang="es" title="Energía Ciclónica Acumulada – Spanish">Español</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89nergie_cumulative_des_cyclones_tropicaux" hreflang="fr" lang="fr" title="Énergie cumulative des cyclones tropicaux – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%ED%8F%AD%ED%92%8D%EB%88%84%EC%A0%81%EC%97%90%EB%84%88%EC%A7%80" hreflang="ko" lang="ko" title="폭풍누적에너지 – Korean">한국어</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Accumulated_cyclone_energy" hreflang="nl" lang="nl" title="Accumulated cyclone energy – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Energia_cicl%C3%B4nica_acumulada" hreflang="pt" lang="pt" title="Energia ciclônica acumulada – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Accumulated_Cyclone_Energy" hreflang="simple" lang="simple" title="Accumulated Cyclone Energy – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B8%AA%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B9%83%E0%B8%99%E0%B8%9E%E0%B8%B2%E0%B8%A2%E0%B8%B8%E0%B8%AB%E0%B8%A1%E0%B8%B8%E0%B8%99" hreflang="th" lang="th" title="การสะสมพลังงานในพายุหมุน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B0%94%E6%97%8B%E8%83%BD%E9%87%8F%E6%8C%87%E6%95%B0" hreflang="zh" lang="zh" title="气旋能量指数 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q339687#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 October 2017, at 09:10.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Accumulated_cyclone_energy&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.364","ppvisitednodes":{"value":1373,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":57225,"limit":2097152},"templateargumentsize":{"value":1901,"limit":2097152},"expansiondepth":{"value":15,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  260.600      1 -total"," 30.18%   78.658      1 Template:Reflist"," 19.23%   50.107      5 Template:Cite_web"," 18.52%   48.256      1 Template:Convert"," 16.60%   43.270      1 Template:Cn_span"," 14.34%   37.371      1 Template:Fix-span"," 11.69%   30.463      2 Template:Category_handler","  9.86%   25.705      1 Template:Commons_category","  4.01%   10.444      2 Template:Cite_journal","  3.80%    9.904      2 Template:Date"]},"scribunto":{"limitreport-timeusage":{"value":"0.118","limit":"10.000"},"limitreport-memusage":{"value":4946773,"limit":52428800}},"cachereport":{"origin":"mw1314","timestamp":"20171004091013","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1183"});});</script>
+</body>
+</html>

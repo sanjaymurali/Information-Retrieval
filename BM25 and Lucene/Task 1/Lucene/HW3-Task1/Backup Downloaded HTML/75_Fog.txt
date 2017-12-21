@@ -1,0 +1,1026 @@
+https://en.wikipedia.org/wiki/Fog
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Fog - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Fog","wgTitle":"Fog","wgCurRevisionId":803536475,"wgRevisionId":803536475,"wgArticleId":58991,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Multiple names: authors list","Webarchive template wayback links","Wikipedia indefinitely move-protected pages","Use dmy dates from May 2012","Articles needing more detailed references","All articles with unsourced statements","Articles with unsourced statements from November 2016","Articles with unsourced statements from September 2014","Articles with unsourced statements from February 2010","Wikipedia articles with GND identifiers","Weather hazards to aircraft","Snow or ice weather phenomena","Fog","Psychrometrics","Road hazards"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Fog","wgRelevantArticleId":58991,"wgRequestId":"WdL@LgpAAD0AACMjYpgAAAAM","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":["sysop"],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q37477","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","mediawiki.page.gallery.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mediawiki.page.gallery","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.page.gallery.styles%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm/1200px--Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Fog" rel="alternate"/>
+<link href="/w/index.php?title=Fog&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Fog&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Fog" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Fog rootpage-Fog vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Fog</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">For other uses, see <a class="mw-disambig" href="/wiki/Fog_(disambiguation)" title="Fog (disambiguation)">Fog (disambiguation)</a> and <a class="mw-disambig" href="/wiki/Foggy_(disambiguation)" title="Foggy (disambiguation)">Foggy (disambiguation)</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:High_Desert_Fog.jpg"><img alt="" class="thumbimage" data-file-height="1112" data-file-width="2816" height="118" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/High_Desert_Fog.jpg/300px-High_Desert_Fog.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/85/High_Desert_Fog.jpg/450px-High_Desert_Fog.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/85/High_Desert_Fog.jpg/600px-High_Desert_Fog.jpg 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:High_Desert_Fog.jpg" title="Enlarge"></a></div>
+Fog, in the form of a cloud, descends upon a <a href="/wiki/High_Desert_(California)" title="High Desert (California)">High Desert</a> community in the western US, while leaving the mountain exposed.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;">
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:300px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm/854px--Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="25.685" data-startoffset="0" data-mwtitle="Fog_disappears_over_Koblenz_(in_Germany)_in_September_2016_(time_laps).webm" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="1025480" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="720" data-bandwidth="2071408" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm.1080p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Full HD WebM (1080P)" data-shorttitle="WebM 1080P" data-transcodekey="1080p.webm" data-width="1920" data-height="1080" data-bandwidth="4172520" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Original WebM file, 1,920 × 1,080 (9.63 Mbps)" data-shorttitle="WebM source" data-width="1920" data-height="1080" data-bandwidth="9625612" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="131152" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="254288" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="506096" data-framerate="25"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:Fog disappears over Koblenz (in Germany) in September 2016 (time laps).webm" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm/300px--Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm.jpg" style="width:300px;height:169px"/><a href="//upload.wikimedia.org/wikipedia/commons/8/80/Fog_disappears_over_Koblenz_%28in_Germany%29_in_September_2016_%28time_laps%29.webm" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Fog_disappears_over_Koblenz_(in_Germany)_in_September_2016_(time_laps).webm" title="Enlarge"></a></div>
+Heavy fog over <a href="/wiki/Koblenz" title="Koblenz">Koblenz</a> dissipates into a beautiful sky near the <a class="mw-redirect" href="/wiki/Moselle_(river)" title="Moselle (river)">Moselle</a> river.</div>
+</div>
+</div>
+<table class="vertical-navbox nowraplinks hlist" style="float:right;clear:right;width:22.0em;margin:0 0 1.0em 1.0em;background:#f9f9f9;border:1px solid #aaa;padding:0.2em;border-spacing:0.4em 0;text-align:center;line-height:1.4em;font-size:88%">
+<tr>
+<td style="padding-top:0.4em;line-height:1.2em">Part of the <a href="/wiki/Nature" title="Nature">nature</a> series</td>
+</tr>
+<tr>
+<th style="padding:0.2em 0.4em 0.2em;padding-top:0;font-size:145%;line-height:1.2em"><a href="/wiki/Weather" title="Weather">Weather</a></th>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Season" title="Season">Calendar seasons</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Winter" title="Winter">Winter</a></li>
+<li><a href="/wiki/Spring_(season)" title="Spring (season)">Spring</a></li>
+<li><a href="/wiki/Summer" title="Summer">Summer</a></li>
+<li><a href="/wiki/Autumn" title="Autumn">Autumn</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Tropics" title="Tropics">Tropical seasons</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Dry_season" title="Dry season">Dry season</a></li>
+<li><a href="/wiki/Wet_season" title="Wet season">Wet season</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Storm" title="Storm">Storms</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cumulonimbus_cloud" title="Cumulonimbus cloud">Cumulonimbus cloud</a></li>
+<li><a href="/wiki/Arcus_cloud" title="Arcus cloud">Arcus cloud</a></li>
+<li><a href="/wiki/Downburst" title="Downburst">Downburst</a></li>
+<li><a href="/wiki/Microburst" title="Microburst">Microburst</a></li>
+<li><a href="/wiki/Heat_burst" title="Heat burst">Heat burst</a></li>
+<li><a href="/wiki/Dust_storm" title="Dust storm">Dust storm</a></li>
+<li><a href="/wiki/Simoom" title="Simoom">Simoom</a></li>
+<li><a href="/wiki/Haboob" title="Haboob">Haboob</a></li>
+<li><a href="/wiki/Monsoon" title="Monsoon">Monsoon</a></li>
+<li><a href="/wiki/Gale" title="Gale">Gale</a></li>
+<li><a href="/wiki/Sirocco" title="Sirocco">Sirocco</a></li>
+<li><a href="/wiki/Firestorm" title="Firestorm">Firestorm</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a href="/wiki/Supercell" title="Supercell">Supercell</a></li>
+<li><a href="/wiki/Thunderstorm" title="Thunderstorm">Thunderstorm</a></li>
+<li><a class="mw-redirect" href="/wiki/Severe_thunderstorm" title="Severe thunderstorm">Severe thunderstorm</a></li>
+<li><a href="/wiki/Thundersnow" title="Thundersnow">Thundersnow</a></li>
+<li><a href="/wiki/Storm_surge" title="Storm surge">Storm surge</a></li>
+<li><a href="/wiki/Tornado" title="Tornado">Tornado</a></li>
+<li><a href="/wiki/Cyclone" title="Cyclone">Cyclone</a></li>
+<li><a href="/wiki/Mesocyclone" title="Mesocyclone">Mesocyclone</a></li>
+<li><a href="/wiki/Anticyclone" title="Anticyclone">Anticyclone</a></li>
+<li><a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical cyclone (Hurricane)</a></li>
+<li><a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">Extratropical cyclone</a></li>
+<li><a href="/wiki/European_windstorm" title="European windstorm">European windstorm</a></li>
+<li><a class="mw-redirect" href="/wiki/Atlantic_Hurricane" title="Atlantic Hurricane">Atlantic Hurricane</a></li>
+<li><a href="/wiki/Typhoon" title="Typhoon">Typhoon</a></li>
+<li><a href="/wiki/Derecho" title="Derecho">Derecho</a></li>
+<li><a href="/wiki/Landspout" title="Landspout">Landspout</a></li>
+<li><a href="/wiki/Dust_devil" title="Dust devil">Dust devil</a></li>
+<li><a href="/wiki/Fire_whirl" title="Fire whirl">Fire whirl</a></li>
+<li><a href="/wiki/Waterspout" title="Waterspout">Waterspout</a></li>
+<li><a href="/wiki/Winter_storm" title="Winter storm">Winter storm</a>
+<ul>
+<li><a href="/wiki/Ice_storm" title="Ice storm">Ice storm</a></li>
+<li><a href="/wiki/Blizzard" title="Blizzard">Blizzard</a></li>
+<li><a href="/wiki/Ground_blizzard" title="Ground blizzard">Ground blizzard</a></li>
+<li><a href="/wiki/Snowsquall" title="Snowsquall">Snowsquall</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Drizzle" title="Drizzle">Drizzle</a> (<a href="/wiki/Freezing_drizzle" title="Freezing drizzle">Freezing drizzle</a>)</li>
+<li><a href="/wiki/Graupel" title="Graupel">Graupel</a></li>
+<li><a href="/wiki/Hail" title="Hail">Hail</a></li>
+<li><a href="/wiki/Ice_pellets" title="Ice pellets">Ice pellets</a> (<a href="/wiki/Diamond_dust" title="Diamond dust">Diamond dust</a>)</li>
+<li><a href="/wiki/Rain" title="Rain">Rain</a> (<a href="/wiki/Freezing_rain" title="Freezing rain">Freezing rain</a>)</li>
+<li><a href="/wiki/Cloudburst" title="Cloudburst">Cloudburst</a></li>
+<li><a href="/wiki/Snow" title="Snow">Snow</a>
+<ul>
+<li><a href="/wiki/Rain_and_snow_mixed" title="Rain and snow mixed">Rain and snow mixed</a></li>
+<li><a href="/wiki/Snow_grains" title="Snow grains">Snow grains</a></li>
+<li><a href="/wiki/Snow_roller" title="Snow roller">Snow roller</a></li>
+<li><a href="/wiki/Slush" title="Slush">Slush</a></li>
+</ul>
+</li>
+</ul>
+</td>
+</tr>
+<tr>
+<th style="padding:0.1em;border-top:#ccc 1px solid;"><a href="/wiki/Index_of_meteorology_articles" title="Index of meteorology articles">Topics</a></th>
+</tr>
+<tr>
+<td style="padding:0 0.1em 0.4em">
+<ul>
+<li><a href="/wiki/Atmospheric_river" title="Atmospheric river">Atmospheric river</a></li>
+<li><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Atmospheric convection</a></li>
+<li><a href="/wiki/Air_pollution" title="Air pollution">Air pollution</a></li>
+<li><a href="/wiki/Climate" title="Climate">Climate</a></li>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a class="mw-selflink selflink">Fog</a></li>
+<li><a href="/wiki/Cold_wave" title="Cold wave">Cold wave</a></li>
+<li><a href="/wiki/Heat_wave" title="Heat wave">Heat wave</a></li>
+<li><a href="/wiki/Jet_stream" title="Jet stream">Jet stream</a></li>
+<li><a href="/wiki/Meteorology" title="Meteorology">Meteorology</a></li>
+<li><a href="/wiki/Severe_weather" title="Severe weather">Severe weather</a></li>
+<li><a href="/wiki/Weather_forecasting" title="Weather forecasting">Weather forecasting</a></li>
+</ul>
+</td>
+</tr>
+<tr>
+<td style="padding:0.3em 0.4em 0.3em;font-weight:bold;border-top:#ccc 1px solid; border-bottom:#ccc 1px solid;"><a class="image" href="/wiki/File:Cumulus_clouds_in_fair_weather.jpeg"><img alt="Cumulus clouds in fair weather.jpeg" class="noviewer" data-file-height="600" data-file-width="800" height="12" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/16px-Cumulus_clouds_in_fair_weather.jpeg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/24px-Cumulus_clouds_in_fair_weather.jpeg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Cumulus_clouds_in_fair_weather.jpeg/32px-Cumulus_clouds_in_fair_weather.jpeg 2x" width="16"/></a> <a href="/wiki/Portal:Weather" title="Portal:Weather">Weather portal</a></td>
+</tr>
+<tr>
+<td style="text-align:right;font-size:115%">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Weather" title="Template:Weather"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Weather" title="Template talk:Weather"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Weather&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<p><b>Fog</b> consists of visible cloud <a href="/wiki/Water" title="Water">water</a> droplets or ice crystals suspended in the air at or near the <a href="/wiki/Earth" title="Earth">Earth</a>'s surface.<sup class="reference" id="cite_ref-DefinitionFog_1-0"><a href="#cite_note-DefinitionFog-1">[1]</a></sup> Fog can be considered a type of low-lying <a href="/wiki/Cloud" title="Cloud">cloud</a> and is heavily influenced by nearby bodies of water, <a href="/wiki/Topography" title="Topography">topography</a>, and wind conditions. In turn, fog has affected many human activities, such as shipping, travel, and warfare.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Definition"><span class="tocnumber">1</span> <span class="toctext">Definition</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Formation"><span class="tocnumber">2</span> <span class="toctext">Formation</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Types"><span class="tocnumber">3</span> <span class="toctext">Types</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Freezing_conditions"><span class="tocnumber">4</span> <span class="toctext">Freezing conditions</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#Topographical_influences"><span class="tocnumber">5</span> <span class="toctext">Topographical influences</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Sea_and_coastal_fog"><span class="tocnumber">6</span> <span class="toctext">Sea and coastal fog</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Visibility_effects"><span class="tocnumber">7</span> <span class="toctext">Visibility effects</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Shadows"><span class="tocnumber">8</span> <span class="toctext">Shadows</span></a></li>
+<li class="toclevel-1 tocsection-9"><a href="#Sound_propagation_and_acoustic_effects"><span class="tocnumber">9</span> <span class="toctext">Sound propagation and acoustic effects</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#Record_extremes"><span class="tocnumber">10</span> <span class="toctext">Record extremes</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#As_a_water_source"><span class="tocnumber">11</span> <span class="toctext">As a water source</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#Artificial_fog"><span class="tocnumber">12</span> <span class="toctext">Artificial fog</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#Historical_references"><span class="tocnumber">13</span> <span class="toctext">Historical references</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Gallery"><span class="tocnumber">14</span> <span class="toctext">Gallery</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#See_also"><span class="tocnumber">15</span> <span class="toctext">See also</span></a>
+<ul>
+<li class="toclevel-2 tocsection-16"><a href="#Technology"><span class="tocnumber">15.1</span> <span class="toctext">Technology</span></a></li>
+<li class="toclevel-2 tocsection-17"><a href="#Weather"><span class="tocnumber">15.2</span> <span class="toctext">Weather</span></a></li>
+<li class="toclevel-2 tocsection-18"><a href="#Other"><span class="tocnumber">15.3</span> <span class="toctext">Other</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-19"><a href="#References"><span class="tocnumber">16</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-20"><a href="#Further_reading"><span class="tocnumber">17</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-21"><a href="#External_links"><span class="tocnumber">18</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Definition">Definition</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=1" title="Edit section: Definition">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The term "fog" is typically distinguished from the more generic term "cloud" in that fog is low-lying, and the moisture in the fog is often generated locally (such as from a nearby body of water, like a lake or the ocean, or from nearby moist ground or <a class="mw-redirect" href="/wiki/Marshes" title="Marshes">marshes</a>).<sup class="reference" id="cite_ref-DistinguishCloud_2-0"><a href="#cite_note-DistinguishCloud-2">[2]</a></sup></p>
+<p>By definition, fog reduces <a href="/wiki/Visibility" title="Visibility">visibility</a> to less than 1 kilometre (0.62 mi), whereas <a href="/wiki/Mist" title="Mist">mist</a> causes lesser impairment of visibility.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<p>For aviation purposes in the UK, a visibility of less than 5 kilometres (3.1 mi) but greater than 999 metres (3,278 ft) is considered to be mist if the <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> is 70% or greater; below 70%, <a href="/wiki/Haze" title="Haze">haze</a> is reported.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup><sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citing_sources#What_information_to_include" title="Wikipedia:Citing sources"><span title="A more detailed citation is required. (February 2010)">full citation needed</span></a></i>]</sup></p>
+<h2><span class="mw-headline" id="Formation">Formation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=2" title="Edit section: Formation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Cloud_physics" title="Cloud physics">Cloud physics</a></div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:FogParticles.jpg"><img alt="" class="thumbimage" data-file-height="1024" data-file-width="1280" height="176" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/FogParticles.jpg/220px-FogParticles.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/87/FogParticles.jpg/330px-FogParticles.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/87/FogParticles.jpg/440px-FogParticles.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:FogParticles.jpg" title="Enlarge"></a></div>
+Minute droplets of water constitute this after-dark radiation fog, with the ambient temperature −2 <a href="/wiki/Celsius" title="Celsius">°C</a> (28 <a href="/wiki/Fahrenheit" title="Fahrenheit">°F</a>)</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:FogParticlesHighSpeed.jpg"><img alt="" class="thumbimage" data-file-height="960" data-file-width="1280" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/FogParticlesHighSpeed.jpg/220px-FogParticlesHighSpeed.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c5/FogParticlesHighSpeed.jpg/330px-FogParticlesHighSpeed.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c5/FogParticlesHighSpeed.jpg/440px-FogParticlesHighSpeed.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:FogParticlesHighSpeed.jpg" title="Enlarge"></a></div>
+Up-close view of water particles forming fog</div>
+</div>
+</div>
+<p>Fog forms when the difference between air temperature and <a href="/wiki/Dew_point" title="Dew point">dew point</a> is less than 2.5 <a class="mw-redirect" href="/wiki/%C2%B0C" title="°C">°C</a> or 4 <a class="mw-redirect" href="/wiki/%C2%B0F" title="°F">°F</a>.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>Fog begins to form when <a href="/wiki/Water_vapor" title="Water vapor">water vapor</a> <a href="/wiki/Condensation" title="Condensation">condenses</a> into tiny liquid water droplets suspended in the air. Six examples of ways that water vapor is added to the air are by wind convergence into areas of upward motion;<sup class="reference" id="cite_ref-convection_6-0"><a href="#cite_note-convection-6">[6]</a></sup> precipitation or <a href="/wiki/Virga" title="Virga">virga</a> falling from above;<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> daytime heating evaporating water from the surface of oceans, water bodies, or wet land;<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> <a href="/wiki/Transpiration" title="Transpiration">transpiration</a> from plants;<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> cool or dry air moving over warmer water;<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> and lifting air over mountains.<sup class="reference" id="cite_ref-MT_11-0"><a href="#cite_note-MT-11">[11]</a></sup> Water vapor normally begins to condense on <a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">condensation nuclei</a> such as dust, ice, and salt in order to form clouds.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup><sup class="reference" id="cite_ref-DR_13-0"><a href="#cite_note-DR-13">[13]</a></sup> Fog, like its elevated cousin <a href="/wiki/Stratus_cloud" title="Stratus cloud">stratus</a>, is a stable cloud deck which tends to form when a cool, stable air mass is trapped underneath a warm air mass.<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup></p>
+<p>Fog normally occurs at a <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a> near 100%.<sup class="reference" id="cite_ref-gliess_15-0"><a href="#cite_note-gliess-15">[15]</a></sup> This occurs from either added moisture in the air, or falling ambient air temperature.<sup class="reference" id="cite_ref-gliess_15-1"><a href="#cite_note-gliess-15">[15]</a></sup> However, fog can form at lower humidities, and can sometimes fail to form with relative humidity at 100%. At 100% relative humidity, the air cannot hold additional moisture, thus, the air will become <a href="/wiki/Supersaturation" title="Supersaturation">supersaturated</a> if additional moisture is added.</p>
+<p>Fog can form suddenly and can dissipate just as rapidly. The sudden formation of fog is known as "flash fog".<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup></p>
+<p>Fog commonly produces <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> in the form of <a href="/wiki/Drizzle" title="Drizzle">drizzle</a> or very light snow. Drizzle occurs when the humidity of fog attains 100% and the minute cloud droplets begin to coalesce into larger droplets.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> This can occur when the fog layer is lifted and cooled sufficiently, or when it is forcibly compressed from above by descending air. Drizzle becomes freezing drizzle when the temperature at the surface drops below the freezing point.</p>
+<p>The thickness of a fog layer is largely determined by the altitude of the inversion boundary, which in coastal or oceanic locales is also the top of the <a href="/wiki/Marine_layer" title="Marine layer">marine layer</a>, above which the air mass is warmer and drier. The inversion boundary varies its altitude primarily in response to the weight of the air above it, which is measured in terms of atmospheric pressure. The marine layer, and any fogbank it may contain, will be "squashed" when the pressure is high, and conversely, may expand upwards when the pressure above it is lowering.</p>
+<h2><span class="mw-headline" id="Types">Types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=3" title="Edit section: Types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Fog can form in a number of ways, depending on how the cooling that caused the <a href="/wiki/Water_vapor#Condensation" title="Water vapor">condensation</a> occurred.</p>
+<p><b>Radiation fog</b> is formed by the cooling of land after sunset by <a class="new" href="/w/index.php?title=Infrared_thermal_radiation&amp;action=edit&amp;redlink=1" title="Infrared thermal radiation (page does not exist)">infrared thermal radiation</a> in calm conditions with a clear sky. The cooling ground then cools adjacent air <a class="new" href="/w/index.php?title=By_conduction&amp;action=edit&amp;redlink=1" title="By conduction (page does not exist)">by conduction</a>, causing the air temperature to fall below the dew point, forming fog. In perfect calm, the fog layer can be less than a meter thick, but <a href="/wiki/Turbulence" title="Turbulence">turbulence</a> can promote a thicker layer. Radiation fogs occur at night, and usually doesn't last long after sunrise, but it can persist all day in the winter months especially in areas bounded by high ground. Radiation fog is most common in autumn and early winter. Examples of this phenomenon include the <a href="/wiki/Tule_fog" title="Tule fog">Tule fog</a>.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup></p>
+<p><b>Ground fog</b> is fog that obscures less than 60% of the sky and does not extend to the base of any overhead clouds.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> However, the term is usually a synonym for radiation fog which is very shallow; in some cases the depth of the fog is on the order of tens of centimeters over certain kinds of terrain with the absence of wind.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:San_francisco_in_fog_with_rays.jpg"><img alt="" class="thumbimage" data-file-height="3222" data-file-width="3000" height="183" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/San_francisco_in_fog_with_rays.jpg/170px-San_francisco_in_fog_with_rays.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/3f/San_francisco_in_fog_with_rays.jpg/255px-San_francisco_in_fog_with_rays.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/3f/San_francisco_in_fog_with_rays.jpg/340px-San_francisco_in_fog_with_rays.jpg 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:San_francisco_in_fog_with_rays.jpg" title="Enlarge"></a></div>
+<a href="/wiki/San_Francisco_fog" title="San Francisco fog">Advection fog layer in San Francisco</a> with the <a href="/wiki/Golden_Gate_Bridge" title="Golden Gate Bridge">Golden Gate Bridge</a> and skyline in the background</div>
+</div>
+</div>
+<p><b>Advection fog</b> occurs when moist air passes over a cool surface by <a href="/wiki/Advection" title="Advection">advection</a> (wind) and is cooled.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> It is common as a <a href="/wiki/Warm_front" title="Warm front">warm front</a> passes over an area with significant snow-pack. It is most common at sea when moist air encounters cooler waters, including areas of cold water <a href="/wiki/Upwelling" title="Upwelling">upwelling</a>, such as along the California coast (<i>see</i> <a href="/wiki/San_Francisco_fog" title="San Francisco fog">San Francisco fog</a>). A strong enough temperature difference over water or bare ground can also cause advection fog.</p>
+<p>Although strong winds often mix the air and can disperse, fragment, or prevent many kinds of fog, markedly warmer and humid air blowing over a snowpack can continue to generate advection fog at elevated velocities up to 50 mph/80 km/h or more -- this fog will be in a turbulent, rapidly moving, and comparatively shallow layer, observed as inches/a few cm in depth over flat farm fields, flat urban terrain and the like, and/or form more complex forms where the terrain is different such as rotating areas in the lee of hills or large buildings and so on.</p>
+<p>The advection of fog along the California coastline is propelled onto land by one of several processes. A cold front can push the marine layer coast-ward, an occurrence most typical in the spring or late fall. During the summer months, a low pressure trough produced by intense heating inland creates a strong pressure gradient, drawing in the dense marine layer. Also during the summer, strong high pressure aloft over the desert southwest, usually in connection with the summer <a href="/wiki/Monsoon" title="Monsoon">monsoon</a>, produces a south to southeasterly flow which can drive the offshore marine layer up the coastline; a phenomenon known as a "southerly surge", typically following a coastal heat spell. However, if the monsoonal flow is sufficiently turbulent, it might instead break up the marine layer and any fog it may contain. Moderate turbulence will typically transform a fog bank, lifting it and breaking it up into shallow convective clouds called <a class="mw-redirect" href="/wiki/Stratocumulus" title="Stratocumulus">stratocumulus</a>.</p>
+<p><b>Evaporation fog</b> or <b>steam fog</b> forms over bodies of water overlain by much colder air; this situation can also lead to <a class="mw-redirect" href="/wiki/Steam_devils" title="Steam devils">steam devils</a> forming. Lake effect fog is of this type, sometimes in combination with other causes like radiation fog. It tends to differ from most advective fog formed over land in that it is, like <a href="/wiki/Lake-effect_snow" title="Lake-effect snow">lake-effect snow</a>, a convective phenomenon, resulting in fog which can be quite a bit denser, deeper, and looks fluffy from above. Most other fog is stratiform; steam devils, which look like their <a href="/wiki/Dust_devil" title="Dust devil">dust counterparts</a>, are often seen in this situation.</p>
+<p><b>Frontal fog</b> forms near a front when raindrops, falling from relatively warm air above a frontal surface, evaporate into cooler air close to the Earth's surface and cause it to become saturated.</p>
+<p><b>Ice fog</b> forming in very low temperatures can be the result of other mechanisms mentioned here, as well as the exhalation of moist warm air by herds of animals. It can be associated with the <a href="/wiki/Diamond_dust" title="Diamond dust">diamond dust</a> form of precipitation, in which very small crystals of ice form and slowly fall. This often occurs during blue sky conditions which can cause many types of halos and other results of refraction of sunlight by the airborne crystals.</p>
+<p><b>Freezing fog</b>, which deposits <a href="/wiki/Hard_rime" title="Hard rime">rime</a>, is composed of droplets of <a class="mw-redirect" href="/wiki/Supercooled_water" title="Supercooled water">supercooled water</a> which freezes to surfaces on contact.</p>
+<p><b>Precipitation fog</b> (or <b>frontal fog</b>) forms as <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a> falls into drier air below the cloud, the liquid droplets <a class="mw-redirect" href="/wiki/Evaporate" title="Evaporate">evaporate</a> into water vapor. The water vapor cools and at the dewpoint it condenses and fog forms.</p>
+<p><b>Hail fog</b> sometimes occurs in the vicinity of significant <a href="/wiki/Hail" title="Hail">hail</a> accumulations due to decreased temperature and increased moisture leading to saturation in a very shallow layer near the surface. It most often occurs when there is a warm, humid layer atop the hail and when wind is light. This ground fog tends to be localized but can be extremely dense and abrupt. It may form shortly after the hail falls; when the hail has had time to cool the air and as it <a href="/wiki/Phase_transition" title="Phase transition">absorbs heat</a> when <a href="/wiki/Melting" title="Melting">melting</a> and <a href="/wiki/Evaporation" title="Evaporation">evaporating</a>.<sup class="reference" id="cite_ref-Marshall_21-0"><a href="#cite_note-Marshall-21">[21]</a></sup></p>
+<p><b>Upslope fog</b> forms when moist air is going up the slope of a mountain or hill which condenses into fog on account of <a class="mw-redirect" href="/wiki/Adiabatic_cooling" title="Adiabatic cooling">adiabatic cooling</a>, and to a lesser extent the drop in pressure with altitude.</p>
+<h2><span class="mw-headline" id="Freezing_conditions">Freezing conditions</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=4" title="Edit section: Freezing conditions">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b><span id="Freezing_fog">Freezing fog</span></b> occurs when liquid fog droplets freeze to surfaces, forming white <a href="/wiki/Soft_rime" title="Soft rime">soft</a> or <a href="/wiki/Hard_rime" title="Hard rime">hard rime</a>.<sup class="reference" id="cite_ref-bbcw_22-0"><a href="#cite_note-bbcw-22">[22]</a></sup> This is very common on mountain tops which are exposed to low clouds. It is equivalent to <a href="/wiki/Freezing_rain" title="Freezing rain">freezing rain</a>, and essentially the same as the ice that forms inside a freezer which is not of the "frostless" or "frost-free" type. The term "freezing fog" may also refer to fog where water vapor is super-cooled, filling the air with small ice crystals similar to very light snow. It seems to make the fog "tangible", as if one could "grab a handful".</p>
+<p>In the western United States, freezing fog may be referred to as <b>pogonip</b>.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup><sup class="reference" id="cite_ref-merriam-webster_24-0"><a href="#cite_note-merriam-webster-24">[24]</a></sup> It occurs commonly during cold winter spells, usually in deep mountain valleys. The word pogonip is derived from the <a href="/wiki/Shoshone" title="Shoshone">Shoshone</a> word <i>paγi̵nappi̵h</i>, which means "cloud".<sup class="reference" id="cite_ref-merriam-webster_24-1"><a href="#cite_note-merriam-webster-24">[24]</a></sup><sup class="reference" id="cite_ref-dictionary.com_25-0"><a href="#cite_note-dictionary.com-25">[25]</a></sup> In <i><a class="mw-redirect" href="/wiki/The_Old_Farmer%27s_Almanac" title="The Old Farmer's Almanac">The Old Farmer's Almanac</a>,</i> in the calendar for December, the phrase "Beware the Pogonip" regularly appears. In his anthology <i>Smoke Bellew</i>, <a href="/wiki/Jack_London" title="Jack London">Jack London</a> described a pogonip which surrounded the main characters, killing one of them.</p>
+<p>The phenomenon is also extremely common in the inland areas of the Pacific Northwest, with temperatures in the 10 to 30 °F (−12 to −1 °C) range. The Columbia Plateau experiences this phenomenon most years due to temperature inversions, sometimes lasting for as long as three weeks. The fog typically begins forming around the area of the Columbia River and expands, sometimes covering the land to distances as far away as <a class="mw-redirect" href="/wiki/LaPine,_Oregon" title="LaPine, Oregon">LaPine, Oregon</a>, almost 150 miles (240 km) due south of the river and into south central Washington.</p>
+<p><b>Frozen fog</b> (also known as <a href="/wiki/Ice_fog" title="Ice fog">ice fog</a>) is any kind of fog where the droplets have <a href="/wiki/Freezing" title="Freezing">frozen</a> into extremely tiny <a href="/wiki/Crystal" title="Crystal">crystals</a> of <a href="/wiki/Ice" title="Ice">ice</a> in midair. Generally this requires temperatures at or below −35 °C (−31 °F), making it common only in and near the <a href="/wiki/Arctic" title="Arctic">Arctic</a> and <a href="/wiki/Antarctic" title="Antarctic">Antarctic</a> regions.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup> It is most often seen in urban areas where it is created by the freezing of water vapor present in automobile exhaust and combustion products from heating and power generation. Urban ice fog can become extremely dense and will persist day and night until the temperature rises. Extremely small amounts of ice fog falling from the sky form a type of precipitation called <a href="/wiki/Diamond_dust" title="Diamond dust">ice crystals</a>, often reported in <a href="/wiki/Barrow,_Alaska" title="Barrow, Alaska">Barrow</a>, Alaska. Ice fog often leads to the visual phenomenon of <a href="/wiki/Light_pillar" title="Light pillar">light pillars</a>.</p>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+<div class="thumb" style="width: 160px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Morning_Freezing_Fog_in_Elko,_Nevada.JPG"><img alt="" data-file-height="2736" data-file-width="3648" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Morning_Freezing_Fog_in_Elko%2C_Nevada.JPG/240px-Morning_Freezing_Fog_in_Elko%2C_Nevada.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/3/37/Morning_Freezing_Fog_in_Elko%2C_Nevada.JPG/360px-Morning_Freezing_Fog_in_Elko%2C_Nevada.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/3/37/Morning_Freezing_Fog_in_Elko%2C_Nevada.JPG/480px-Morning_Freezing_Fog_in_Elko%2C_Nevada.JPG 2x" width="160"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Morning freezing fog in <a href="/wiki/Elko,_Nevada" title="Elko, Nevada">Elko, Nevada</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 189.33333333333px">
+<div style="width: 189.33333333333px">
+<div class="thumb" style="width: 187.33333333333px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:PostcardVirginiaCityNVPogonipCirca1907.jpg"><img alt="" data-file-height="517" data-file-width="805" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/PostcardVirginiaCityNVPogonipCirca1907.jpg/281px-PostcardVirginiaCityNVPogonipCirca1907.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/29/PostcardVirginiaCityNVPogonipCirca1907.jpg/421px-PostcardVirginiaCityNVPogonipCirca1907.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/29/PostcardVirginiaCityNVPogonipCirca1907.jpg/561px-PostcardVirginiaCityNVPogonipCirca1907.jpg 2x" width="188"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Pogonip fog in <a href="/wiki/Virginia_City,_Nevada" title="Virginia City, Nevada">Virginia City, Nevada</a>, from an early 20th-century postcard</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 161.33333333333px">
+<div style="width: 161.33333333333px">
+<div class="thumb" style="width: 159.33333333333px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Tree_in_field_during_extreme_cold_with_frozen_fog.png"><img alt="" data-file-height="2898" data-file-width="3852" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tree_in_field_during_extreme_cold_with_frozen_fog.png/239px-Tree_in_field_during_extreme_cold_with_frozen_fog.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tree_in_field_during_extreme_cold_with_frozen_fog.png/359px-Tree_in_field_during_extreme_cold_with_frozen_fog.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/be/Tree_in_field_during_extreme_cold_with_frozen_fog.png/479px-Tree_in_field_during_extreme_cold_with_frozen_fog.png 2x" width="160"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Tree in field during extreme cold with frozen fog</p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Topographical_influences">Topographical influences</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=5" title="Edit section: Topographical influences">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:428px;max-width:428px">
+<div class="tsingle" style="float:left;margin:1px;width:212px;max-width:212px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Nascer_do_sol_em_meio_%C3%A0_neblina,_na_Pedra_do_Sino.jpg"><img alt="" data-file-height="2881" data-file-width="4321" height="140" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nascer_do_sol_em_meio_%C3%A0_neblina%2C_na_Pedra_do_Sino.jpg/210px-Nascer_do_sol_em_meio_%C3%A0_neblina%2C_na_Pedra_do_Sino.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nascer_do_sol_em_meio_%C3%A0_neblina%2C_na_Pedra_do_Sino.jpg/315px-Nascer_do_sol_em_meio_%C3%A0_neblina%2C_na_Pedra_do_Sino.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/54/Nascer_do_sol_em_meio_%C3%A0_neblina%2C_na_Pedra_do_Sino.jpg/420px-Nascer_do_sol_em_meio_%C3%A0_neblina%2C_na_Pedra_do_Sino.jpg 2x" width="210"/></a></div>
+</div>
+<div class="tsingle" style="float:left;margin:1px;width:212px;max-width:212px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Nascer_do_Sol_no_Dedo_de_Deus.jpg"><img alt="" data-file-height="2376" data-file-width="3550" height="141" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Nascer_do_Sol_no_Dedo_de_Deus.jpg/210px-Nascer_do_Sol_no_Dedo_de_Deus.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/98/Nascer_do_Sol_no_Dedo_de_Deus.jpg/315px-Nascer_do_Sol_no_Dedo_de_Deus.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/9/98/Nascer_do_Sol_no_Dedo_de_Deus.jpg/420px-Nascer_do_Sol_no_Dedo_de_Deus.jpg 2x" width="210"/></a></div>
+</div>
+<div style="clear:left"></div>
+<div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">Fog over the <i>Pedra do Sino</i> (Bell Rock; left) and <i>Dedo de Deus</i> (God's Finger; right) peaks in the <a href="/wiki/Serra_dos_%C3%93rg%C3%A3os_National_Park" title="Serra dos Órgãos National Park">Serra dos Órgãos National Park</a>, <a href="/wiki/Rio_de_Janeiro_(state)" title="Rio de Janeiro (state)">Rio de Janeiro state</a>, <a href="/wiki/Brazil" title="Brazil">Brazil</a></div>
+</div>
+</div>
+<p><b>Up-slope fog</b> or <b>hill fog</b> forms when winds blow air up a <a href="/wiki/Slope" title="Slope">slope</a> (called <a href="/wiki/Orographic_lift" title="Orographic lift">orographic lift</a>), <a href="/wiki/Adiabatic_process" title="Adiabatic process">adiabatically cooling</a> it as it rises, and causing the moisture in it to condense. This often causes freezing fog on mountaintops, where the <a class="mw-redirect" href="/wiki/Cloud_ceiling" title="Cloud ceiling">cloud ceiling</a> would not otherwise be low enough.</p>
+<p><b>Valley fog</b> forms in mountain <a href="/wiki/Valley" title="Valley">valleys</a>, often during winter. It is essentially a radiation fog confined by local <a href="/wiki/Topography" title="Topography">topography</a>, and can last for several days in calm conditions. In California's <a href="/wiki/Central_Valley_(California)" title="Central Valley (California)">Central Valley</a>, valley fog is often referred to as <a href="/wiki/Tule_fog" title="Tule fog">Tule fog</a>.</p>
+<h2><span class="mw-headline" id="Sea_and_coastal_fog">Sea and coastal fog</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=6" title="Edit section: Sea and coastal fog">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Sea fog (also known as <i><a href="/wiki/Haar_(fog)" title="Haar (fog)">haar</a></i> or <i>fret</i>) is heavily influenced by the presence of <a href="/wiki/Sea_spray" title="Sea spray">sea spray</a> and microscopic airborne <a href="/wiki/Salt" title="Salt">salt</a> crystals. Clouds of all types require minute <a href="/wiki/Hygroscopy" title="Hygroscopy">hygroscopic</a> particles upon which water vapor can condense. Over the ocean surface, the most common particles are salt from salt <a href="/wiki/Spray_(liquid_drop)" title="Spray (liquid drop)">spray</a> produced by breaking waves. Except in areas of storminess, the most common areas of breaking waves are located near coastlines, hence the greatest densities of airborne salt particles are there.</p>
+<p>Condensation on salt particles has been observed to occur at humidities as low as 70%, thus fog can occur even in relatively dry air in suitable locations such as the California coast. Typically, such lower humidity fog is preceded by a transparent mistiness along the coastline as condensation competes with evaporation, a phenomenon that is typically noticeable by beachgoers in the afternoon. Another recently discovered source of condensation nuclei for coastal fog is <a href="/wiki/Kelp" title="Kelp">kelp</a> seaweed. Researchers have found that under stress (intense sunlight, strong evaporation, etc.), kelp releases particles of <a href="/wiki/Iodine" title="Iodine">iodine</a> which in turn become nuclei for condensation of water vapor, causing fog that diffuses direct sunlight.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup></p>
+<p><b><a href="/wiki/Sea_smoke" title="Sea smoke">Sea smoke</a></b>, also called <b><a href="/wiki/Steam" title="Steam">steam</a> fog</b> or <b>evaporation fog</b>, is the most localized form and is created by cold air passing over warmer water or moist land.<sup class="reference" id="cite_ref-bbcw_22-1"><a href="#cite_note-bbcw-22">[22]</a></sup> It often causes freezing fog, or sometimes <a class="mw-redirect" href="/wiki/Hoar_frost" title="Hoar frost">hoar frost</a>.</p>
+<p><b>Arctic sea smoke</b> is similar to <a href="/wiki/Sea_smoke" title="Sea smoke">sea smoke</a>, but occurs when the air is very cold. Instead of condensing into water droplets, columns of freezing, rising, and condensing water vapor is formed. The water vapor produces the <i>sea smoke fog</i>, and is usually misty and smoke-like.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></p>
+<p><b><a href="/wiki/Gar%C3%BAa" title="Garúa">Garúa</a> fog</b> near the coast of <a href="/wiki/Chile" title="Chile">Chile</a> and <a href="/wiki/Peru" title="Peru">Peru</a>,<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> occurs when typical fog produced by the sea travels inland, but suddenly meets an area of hot air. This causes the water particles of fog to shrink by evaporation, producing a "transparent mist". Garua fog is nearly invisible, yet it still forces drivers to use <a class="mw-redirect" href="/wiki/Windshield_wipers" title="Windshield wipers">windshield wipers</a> because of deposition of liquid water on hard surfaces.</p>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 399.33333333333px">
+<div style="width: 399.33333333333px">
+<div class="thumb" style="width: 397.33333333333px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Seattle_Columbia_Pano2.jpg"><img alt="" data-file-height="1805" data-file-width="5972" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Seattle_Columbia_Pano2.jpg/596px-Seattle_Columbia_Pano2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Seattle_Columbia_Pano2.jpg/894px-Seattle_Columbia_Pano2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Seattle_Columbia_Pano2.jpg/1192px-Seattle_Columbia_Pano2.jpg 2x" width="398"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Fog rolls into <a href="/wiki/Seattle" title="Seattle">Seattle</a> from the sea</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+<div class="thumb" style="width: 160px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Sea_fog_encroaching_on_Brighton_pier.jpg"><img alt="" data-file-height="2448" data-file-width="3264" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sea_fog_encroaching_on_Brighton_pier.jpg/240px-Sea_fog_encroaching_on_Brighton_pier.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sea_fog_encroaching_on_Brighton_pier.jpg/360px-Sea_fog_encroaching_on_Brighton_pier.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Sea_fog_encroaching_on_Brighton_pier.jpg/480px-Sea_fog_encroaching_on_Brighton_pier.jpg 2x" width="160"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Sea fog or "fret" encroaching on <a class="mw-redirect" href="/wiki/Brighton_Pier" title="Brighton Pier">Brighton Pier</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 172px">
+<div style="width: 172px">
+<div class="thumb" style="width: 170px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:MS_Europa_vor_der_Insel_Jan_Mayen_im_Nebel_-_2011.png"><img alt="" data-file-height="1109" data-file-width="1567" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MS_Europa_vor_der_Insel_Jan_Mayen_im_Nebel_-_2011.png/255px-MS_Europa_vor_der_Insel_Jan_Mayen_im_Nebel_-_2011.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MS_Europa_vor_der_Insel_Jan_Mayen_im_Nebel_-_2011.png/382px-MS_Europa_vor_der_Insel_Jan_Mayen_im_Nebel_-_2011.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/6a/MS_Europa_vor_der_Insel_Jan_Mayen_im_Nebel_-_2011.png/509px-MS_Europa_vor_der_Insel_Jan_Mayen_im_Nebel_-_2011.png 2x" width="170"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Sea fog in the <a href="/wiki/Arctic_Ocean" title="Arctic Ocean">Arctic Ocean</a> near the island of <a href="/wiki/Jan_Mayen" title="Jan Mayen">Jan Mayen</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="Visibility_effects">Visibility effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=7" title="Edit section: Visibility effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Fog_near_Baden,_Austria.JPG"><img alt="" class="thumbimage" data-file-height="1021" data-file-width="1528" height="147" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fog_near_Baden%2C_Austria.JPG/220px-Fog_near_Baden%2C_Austria.JPG" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fog_near_Baden%2C_Austria.JPG/330px-Fog_near_Baden%2C_Austria.JPG 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/Fog_near_Baden%2C_Austria.JPG/440px-Fog_near_Baden%2C_Austria.JPG 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Fog_near_Baden,_Austria.JPG" title="Enlarge"></a></div>
+Heavy fog on a road near <a class="mw-redirect" href="/wiki/Baden,_Austria" title="Baden, Austria">Baden, Austria</a></div>
+</div>
+</div>
+<div class="thumb tleft">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:20080313_Foggy_Street.jpg"><img alt="" class="thumbimage" data-file-height="1920" data-file-width="2560" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/20080313_Foggy_Street.jpg/220px-20080313_Foggy_Street.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/50/20080313_Foggy_Street.jpg/330px-20080313_Foggy_Street.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/50/20080313_Foggy_Street.jpg/440px-20080313_Foggy_Street.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:20080313_Foggy_Street.jpg" title="Enlarge"></a></div>
+Light fog reduces visibility on a suburban street, rendering the cyclist very hazy at about 200 m (220 yd). The limit of visibility is about 400 m (440 yd), which is before the end of the street.</div>
+</div>
+</div>
+<p>Depending on the concentration of the droplets, visibility in fog can range from the appearance of haze, to almost zero visibility. Many lives are lost each year worldwide from accidents involving fog conditions on the highways, including <a href="/wiki/Multiple-vehicle_collision" title="Multiple-vehicle collision">multiple-vehicle collisions</a>.</p>
+<p>The aviation travel industry is affected by the severity of fog conditions. Even though modern <a href="/wiki/Autoland" title="Autoland">auto-landing</a> computers can put an aircraft down without the aid of a pilot, personnel manning an airport <a class="mw-redirect" href="/wiki/Control_tower" title="Control tower">control tower</a> must be able to see if aircraft are sitting on the runway awaiting takeoff. Safe operations are difficult in thick fog, and civilian airports may forbid takeoffs and landings until conditions improve.</p>
+<p>A solution for landing returning military aircraft developed in World War II was called <a href="/wiki/Fog_Investigation_and_Dispersal_Operation" title="Fog Investigation and Dispersal Operation">Fog Investigation and Dispersal Operation</a> (FIDO). It involved burning enormous amounts of fuel alongside runways to evaporate fog, allowing returning fighter and bomber pilots sufficient visual cues to safely land their aircraft. The high energy demands of this method discourage its use for routine operations.</p>
+<h2><span class="mw-headline" id="Shadows">Shadows</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=8" title="Edit section: Shadows">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Fog_shadow_tv_tower.jpg"><img alt="" class="thumbimage" data-file-height="1000" data-file-width="779" height="218" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fog_shadow_tv_tower.jpg/170px-Fog_shadow_tv_tower.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fog_shadow_tv_tower.jpg/255px-Fog_shadow_tv_tower.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e3/Fog_shadow_tv_tower.jpg/340px-Fog_shadow_tv_tower.jpg 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Fog_shadow_tv_tower.jpg" title="Enlarge"></a></div>
+<a href="/wiki/Sutro_Tower" title="Sutro Tower">Sutro Tower</a> casts a 3-dimensional fog shadow</div>
+</div>
+</div>
+<p>Shadows are cast through fog in three dimensions. The fog is dense enough to be illuminated by light that passes through gaps in a structure or tree, but thin enough to let a large quantity of that light pass through to illuminate points further on. As a result, object shadows appear as "beams" oriented in a direction parallel to the light source. These voluminous shadows are created the same way as <a href="/wiki/Crepuscular_rays" title="Crepuscular rays">crepuscular rays</a>, which are the shadows of clouds. In fog, it is solid objects that cast shadows.</p>
+<h2><span class="mw-headline" id="Sound_propagation_and_acoustic_effects">Sound propagation and acoustic effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=9" title="Edit section: Sound propagation and acoustic effects">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Acoustic_location" title="Acoustic location">Acoustic location</a>, <a href="/wiki/Acoustic_shadow" title="Acoustic shadow">Acoustic shadow</a>, and <a href="/wiki/Foghorn" title="Foghorn">Foghorn</a></div>
+<p>Sound typically travels fastest and farthest through solids, then liquids, then gases such as the atmosphere. Sound is affected during fog conditions due to the small distances between water droplets, and air temperature differences.</p>
+<p><b>Molecular effect:</b> Though fog is essentially liquid water, the many droplets are separated by small air gaps. High-pitched sounds have a high frequency, which in turn means they have a short wavelength. To transmit a high frequency wave, air must move back and forth very quickly. Short-wavelength high-pitched sound waves are reflected and refracted by many separated water droplets, partially cancelling and dissipating their energy (a process called "<a class="mw-redirect" href="/wiki/Damping" title="Damping">damping</a>"). In contrast, low pitched notes, with a low frequency and a long wavelength, move the air less rapidly and less often, and lose less energy to interactions with small water droplets. Low-pitched notes are less affected by fog and travel further, which is why <a href="/wiki/Foghorn" title="Foghorn">foghorns</a> use a low-pitched tone.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></p>
+<p><b>Temperature effect:</b> A fog can be caused by a <a class="mw-redirect" href="/wiki/Temperature_inversion" title="Temperature inversion">temperature inversion</a> where cold air is pooled at the surface which helped to create the fog, while warmer air sits above it. The inverted boundary between cold air and warm air reflects sound waves back toward the ground, allowing sound that would normally radiate out escaping into the upper atmosphere to instead bounce back and travel near the surface. A temperature inversion increases the distance that lower frequency sounds can travel, by reflecting the sound between the ground and the inversion layer.<sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[31]</a></sup></p>
+<h2><span class="mw-headline" id="Record_extremes">Record extremes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=10" title="Edit section: Record extremes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The foggiest place in the world<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (November 2016)">citation needed</span></a></i>]</sup> is <a href="/wiki/Hamilton,_New_Zealand" title="Hamilton, New Zealand">Hamilton, New Zealand</a>, followed closely by the <a class="mw-redirect" href="/wiki/Grand_Banks" title="Grand Banks">Grand Banks</a> off the coast of <a class="mw-redirect" href="/wiki/Newfoundland" title="Newfoundland">Newfoundland</a> (the meeting place of the cold <a href="/wiki/Labrador_Current" title="Labrador Current">Labrador Current</a> from the north and the much warmer <a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a> from the south). Some of the foggiest land areas in the world include <a href="/wiki/Argentia" title="Argentia">Argentia</a> (Newfoundland) and <a href="/wiki/Point_Reyes" title="Point Reyes">Point Reyes</a> (California), each with over 200 foggy days per year.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (September 2014)">citation needed</span></a></i>]</sup> Even in generally warmer southern Europe, thick fog and localized fog are often found in lowlands and valleys, such as the lower part of the <a href="/wiki/Po_Valley" title="Po Valley">Po Valley</a> and the <a href="/wiki/Arno" title="Arno">Arno</a> and <a href="/wiki/Tiber" title="Tiber">Tiber</a> valleys in Italy; <a href="/wiki/Ebro" title="Ebro">Ebro</a> Valley in northeastern Spain; as well as on the <a class="mw-redirect" href="/wiki/Swiss_plateau" title="Swiss plateau">Swiss plateau</a>, especially in the <a href="/wiki/Seeland_(Switzerland)" title="Seeland (Switzerland)">Seeland</a> area, in late autumn and winter.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (February 2010)">citation needed</span></a></i>]</sup> Other notably foggy areas include coastal <a href="/wiki/Chile" title="Chile">Chile</a> (in the south); coastal <a href="/wiki/Namibia" title="Namibia">Namibia</a>; <a href="/wiki/Nord,_Greenland" title="Nord, Greenland">Nord, Greenland</a>; and the <a href="/wiki/Severnaya_Zemlya" title="Severnaya Zemlya">Severnaya Zemlya</a> islands.</p>
+<h2><span class="mw-headline" id="As_a_water_source">As a water source</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=11" title="Edit section: As a water source">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><a href="/wiki/Sequoia_sempervirens" title="Sequoia sempervirens">Redwood</a> forests in California receive approximately 30–40% of their moisture from coastal fog by way of <a href="/wiki/Fog_drip" title="Fog drip">fog drip</a>. Change in climate patterns could result in relative drought in these areas.<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> Some animals, including insects, depend on wet fog as a principal source of water, particularly in otherwise desert climes, as along many African coastal areas. Some coastal communities use <a class="mw-redirect" href="/wiki/Fog_net" title="Fog net">fog nets</a> to extract moisture from the atmosphere where groundwater pumping and rainwater collection are insufficient.</p>
+<h2><span class="mw-headline" id="Artificial_fog">Artificial fog</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=12" title="Edit section: Artificial fog">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Artificial fog</b> is man-made fog that is usually created by vaporizing a water- and <a class="mw-redirect" href="/wiki/Glycol" title="Glycol">glycol</a>-based or <a class="mw-redirect" href="/wiki/Glycerine" title="Glycerine">glycerine</a>-based fluid. The fluid is injected into a heated metal block, and evaporates quickly. The resulting pressure forces the vapor out of a vent. Upon coming into contact with cool outside air, the vapor condenses in microscopic droplets and appears as fog.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> Such <a href="/wiki/Fog_machine" title="Fog machine">fog machines</a> are primarily used for <a href="/wiki/Theatrical_smoke_and_fog" title="Theatrical smoke and fog">entertainment applications</a>.</p>
+<h2><span class="mw-headline" id="Historical_references">Historical references</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=13" title="Edit section: Historical references">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Pea_soup_fog" title="Pea soup fog">Pea soup fog</a>, <a href="/wiki/Fog_of_war" title="Fog of war">Fog of war</a>, and <a href="/wiki/Theatrical_smoke_and_fog" title="Theatrical smoke and fog">Theatrical smoke and fog</a></div>
+<p>The presence of fog has often played a key role in historical events, such as strategic battles. One example is the <a href="/wiki/Battle_of_Long_Island" title="Battle of Long Island">Battle of Long Island</a> (August 27, 1776), when American general <a href="/wiki/George_Washington" title="George Washington">George Washington</a> and his command were able to evade imminent capture by the British Army, using fog to conceal their escape. Another example is <a class="mw-redirect" href="/wiki/D-Day" title="D-Day">D-Day</a> (June 6, 1944) during <a href="/wiki/World_War_II" title="World War II">World War II</a>, when the Allies landed on the beaches of <a class="mw-redirect" href="/wiki/Normandy,_France" title="Normandy, France">Normandy, France</a> during fog conditions. Both positive and negative results were reported from both sides during that battle, due to impaired visibility.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup></p>
+<p><br/></p>
+<h2><span class="mw-headline" id="Gallery">Gallery</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=14" title="Edit section: Gallery">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul class="gallery mw-gallery-packed">
+<li class="gallerybox" style="width: 166.66666666667px">
+<div style="width: 166.66666666667px">
+<div class="thumb" style="width: 164.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Udusse_mattuv_harilik_vaher,_punaste_s%C3%BCgislehtedega._L%C3%A4%C3%A4nemaa.jpg"><img alt="" data-file-height="3456" data-file-width="4736" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Udusse_mattuv_harilik_vaher%2C_punaste_s%C3%BCgislehtedega._L%C3%A4%C3%A4nemaa.jpg/247px-Udusse_mattuv_harilik_vaher%2C_punaste_s%C3%BCgislehtedega._L%C3%A4%C3%A4nemaa.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Udusse_mattuv_harilik_vaher%2C_punaste_s%C3%BCgislehtedega._L%C3%A4%C3%A4nemaa.jpg/370px-Udusse_mattuv_harilik_vaher%2C_punaste_s%C3%BCgislehtedega._L%C3%A4%C3%A4nemaa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Udusse_mattuv_harilik_vaher%2C_punaste_s%C3%BCgislehtedega._L%C3%A4%C3%A4nemaa.jpg/494px-Udusse_mattuv_harilik_vaher%2C_punaste_s%C3%BCgislehtedega._L%C3%A4%C3%A4nemaa.jpg 2x" width="165"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Maple tree with red leaves in the morning mist, in western <a href="/wiki/Estonia" title="Estonia">Estonia</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 358.66666666667px">
+<div style="width: 358.66666666667px">
+<div class="thumb" style="width: 356.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Sunset_Panorama_at_La_Silla.jpg"><img alt="" data-file-height="431" data-file-width="1280" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sunset_Panorama_at_La_Silla.jpg/535px-Sunset_Panorama_at_La_Silla.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sunset_Panorama_at_La_Silla.jpg/802px-Sunset_Panorama_at_La_Silla.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e0/Sunset_Panorama_at_La_Silla.jpg/1070px-Sunset_Panorama_at_La_Silla.jpg 2x" width="357"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Fog hovering over the valleys surrounding <a href="/wiki/La_Silla_Observatory" title="La Silla Observatory">La Silla Observatory</a>.<sup class="reference" id="cite_ref-35"><a href="#cite_note-35">[35]</a></sup></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 182px">
+<div style="width: 182px">
+<div class="thumb" style="width: 180px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Amazing_Fog_in_Melborne.jpg"><img alt="" data-file-height="3456" data-file-width="5184" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amazing_Fog_in_Melborne.jpg/270px-Amazing_Fog_in_Melborne.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amazing_Fog_in_Melborne.jpg/405px-Amazing_Fog_in_Melborne.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/05/Amazing_Fog_in_Melborne.jpg/540px-Amazing_Fog_in_Melborne.jpg 2x" width="180"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Fog surrounding skyscrapers in the <a class="mw-redirect" href="/wiki/Melbourne_city_centre" title="Melbourne city centre">Melbourne city centre</a></p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 202.66666666667px">
+<div style="width: 202.66666666667px">
+<div class="thumb" style="width: 200.66666666667px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Westminster_fog_-_London_-_UK.jpg"><img alt="" data-file-height="1952" data-file-width="3264" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Westminster_fog_-_London_-_UK.jpg/301px-Westminster_fog_-_London_-_UK.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Westminster_fog_-_London_-_UK.jpg/452px-Westminster_fog_-_London_-_UK.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Westminster_fog_-_London_-_UK.jpg/602px-Westminster_fog_-_London_-_UK.jpg 2x" width="201"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Fog in <a href="/wiki/London" title="London">London</a> with the <a href="/wiki/Palace_of_Westminster" title="Palace of Westminster">Palace of Westminster</a> in the background</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 141.33333333333px">
+<div style="width: 141.33333333333px">
+<div class="thumb" style="width: 139.33333333333px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Dense_fog_over_Indian_Subcontinent.jpg"><img alt="" data-file-height="7361" data-file-width="8541" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dense_fog_over_Indian_Subcontinent.jpg/209px-Dense_fog_over_Indian_Subcontinent.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dense_fog_over_Indian_Subcontinent.jpg/313px-Dense_fog_over_Indian_Subcontinent.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7c/Dense_fog_over_Indian_Subcontinent.jpg/418px-Dense_fog_over_Indian_Subcontinent.jpg 2x" width="140"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Dense fog over Indian subcontinent, captured by NASA's <a href="/wiki/Aqua_(satellite)" title="Aqua (satellite)">Aqua</a> satellite in December 2012</p>
+</div>
+</div>
+</li>
+<li class="gallerybox" style="width: 162px">
+<div style="width: 162px">
+<div class="thumb" style="width: 160px;">
+<div style="margin:0px auto;"><a class="image" href="/wiki/File:Fog_over_mountain.jpg"><img alt="" data-file-height="2448" data-file-width="3264" height="120" src="//upload.wikimedia.org/wikipedia/en/thumb/7/76/Fog_over_mountain.jpg/240px-Fog_over_mountain.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/7/76/Fog_over_mountain.jpg/360px-Fog_over_mountain.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/7/76/Fog_over_mountain.jpg/480px-Fog_over_mountain.jpg 2x" width="160"/></a></div>
+</div>
+<div class="gallerytext">
+<p>Fog partially obscuring a mountain in <a href="/wiki/Tirupati" title="Tirupati">Tirupati</a> in summer season in <a href="/wiki/India" title="India">India</a></p>
+</div>
+</div>
+</li>
+</ul>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=15" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Technology">Technology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=16" title="Edit section: Technology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Anti-fog" title="Anti-fog">Anti-fog</a></li>
+<li><a href="/wiki/Automotive_lighting" title="Automotive lighting">Automotive lighting</a></li>
+<li><a href="/wiki/Decontamination_foam" title="Decontamination foam">Decontamination foam</a></li>
+<li><a class="mw-redirect" href="/wiki/Fog_Investigation_and_Dispersal_Operation_(FIDO)" title="Fog Investigation and Dispersal Operation (FIDO)">Fog Investigation and Dispersal Operation (FIDO)</a></li>
+<li><a href="/wiki/Foghorn" title="Foghorn">Foghorn</a></li>
+<li><a href="/wiki/Fog_machine" title="Fog machine">Fog machine</a></li>
+<li><a href="/wiki/Fogging_(photography)" title="Fogging (photography)">Fogging (photography)</a></li>
+<li><a class="mw-redirect" href="/wiki/Fog_lamp" title="Fog lamp">Fog lamp</a></li>
+<li><a href="/wiki/Head-up_display" title="Head-up display">Head-up display</a></li>
+<li><a href="/wiki/Runway_visual_range" title="Runway visual range">Runway visual range</a></li>
+<li><a href="/wiki/Transmissometer" title="Transmissometer">Transmissometer</a></li>
+</ul>
+<h3><span class="mw-headline" id="Weather">Weather</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=17" title="Edit section: Weather">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Fog_season" title="Fog season">Fog season</a></li>
+<li><a href="/wiki/Haboob" title="Haboob">Haboob</a> (sandstorm)</li>
+<li><a href="/wiki/Mist" title="Mist">Mist</a></li>
+<li><a href="/wiki/San_Francisco_fog" title="San Francisco fog">San Francisco fog</a></li>
+<li><a href="/wiki/Smog" title="Smog">Smog</a></li>
+<li><a href="/wiki/Whiteout_(weather)" title="Whiteout (weather)">Whiteout (weather)</a></li>
+</ul>
+<h3><span class="mw-headline" id="Other">Other</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=18" title="Edit section: Other">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a class="mw-redirect" href="/wiki/Multi-vehicle_collision" title="Multi-vehicle collision">Multi-vehicle collision</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=19" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-DefinitionFog-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-DefinitionFog_1-0">^</a></b></span> <span class="reference-text">"The international definition of fog consists of a suspended collection of water droplets or ice crystal near the Earth's surface ..." Fog and Boundary Layer Clouds: Fog Visibility and Forecasting. Gultepe, Ismail, ed. Reprint from <i>Pure and Applied Geophysics</i> Vol 164 (2007) No. 6-7. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-7643-8418-0" title="Special:BookSources/978-3-7643-8418-0">978-3-7643-8418-0</a>. p. 1126; see <a class="external text" href="https://books.google.com/books?id=QwzHZ-wV-BAC&amp;pg=PA1126" rel="nofollow">Google Books</a> Accessed 2010-08-01.</span></li>
+<li id="cite_note-DistinguishCloud-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-DistinguishCloud_2-0">^</a></b></span> <span class="reference-text">Use of the term "fog" to mean any cloud that is at or near the Earth's surface can result in ambiguity as when, for example, a <a href="/wiki/Stratocumulus_cloud" title="Stratocumulus cloud">stratocumulus cloud</a> covers a mountaintop. An observer on the mountain may say that he or she is in a fog, however, to outside observers a cloud is covering the mountain. "Standard practice for the design and operation of supercooled fog dispersal projects" Thomas, P. (2005) p. 3. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-7844-0795-9" title="Special:BookSources/0-7844-0795-9">0-7844-0795-9</a> See <a class="external text" href="https://books.google.com/books?id=AIvBjD_HXpEC&amp;pg=PR2" rel="nofollow">Google Books.</a> Accessed 2010-08-01. Further distinguishing the terms, fog rarely results in rain, while clouds are the common source of rain.</span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20110521015053/http://www.ofcm.gov/fmh-1/pdf/H-CH8.pdf" rel="nofollow">"Federal Meteorological Handbook Number 1: Chapter 8 – Present Weather"</a> <span style="font-size:85%;">(PDF)</span>. Office of the Federal Coordinator for Meteorology. 1 September 2005. pp. 8–1, 8–2. Archived from <a class="external text" href="http://www.ofcm.gov/fmh-1/pdf/H-CH8.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 21 May 2011<span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.btitle=Federal+Meteorological+Handbook+Number+1%3A+Chapter+8+%E2%80%93+Present+Weather&amp;rft.date=2005-09-01&amp;rft.genre=unknown&amp;rft.pages=8-1%2C+8-2&amp;rft.pub=Office+of+the+Federal+Coordinator+for+Meteorology&amp;rft_id=http%3A%2F%2Fwww.ofcm.gov%2Ffmh-1%2Fpdf%2FH-CH8.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">annex 3 Seventeenth Edition July 2010</span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://glossary.ametsoc.org/wiki/Fog" rel="nofollow">"Fog – AMS Glossary"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">16 March</span> 2013</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.btitle=Fog+%E2%80%93+AMS+Glossary&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fglossary.ametsoc.org%2Fwiki%2FFog&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-convection-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-convection_6-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Robert Penrose Pearce (2002). <a class="external text" href="https://books.google.com/?id=QECy_UBdyrcC&amp;pg=PA66" rel="nofollow"><i>Meteorology at the Millennium</i></a>. Academic Press. p. 66. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-12-548035-2" title="Special:BookSources/978-0-12-548035-2">978-0-12-548035-2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=Robert+Penrose+Pearce&amp;rft.btitle=Meteorology+at+the+Millennium&amp;rft.date=2002&amp;rft.genre=book&amp;rft.isbn=978-0-12-548035-2&amp;rft.pages=66&amp;rft.pub=Academic+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DQECy_UBdyrcC%26pg%3DPA66&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> Office, Spokane, Washington (2009). <a class="external text" href="http://www.wrh.noaa.gov/otx/outreach/ttalk/virga.php" rel="nofollow">"Virga and Dry Thunderstorms"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=National+Weather+Service+Office%2C+Spokane%2C+Washington&amp;rft.btitle=Virga+and+Dry+Thunderstorms&amp;rft.date=2009&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.wrh.noaa.gov%2Fotx%2Foutreach%2Fttalk%2Fvirga.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Bart van den Hurk; Eleanor Blyth (2008). <a class="external text" href="https://web.archive.org/web/20090225074154/http://www.knmi.nl/~hurkvd/Loco_workshop/Workshop_report.pdf" rel="nofollow">"Global maps of Local Land-Atmosphere coupling"</a> <span style="font-size:85%;">(PDF)</span>. KNMI. Archived from <a class="external text" href="http://www.knmi.nl/~hurkvd/Loco_workshop/Workshop_report.pdf" rel="nofollow">the original</a> <span style="font-size:85%;">(PDF)</span> on 25 February 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=Bart+van+den+Hurk&amp;rft.au=Eleanor+Blyth&amp;rft.btitle=Global+maps+of+Local+Land-Atmosphere+coupling&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft.pub=KNMI&amp;rft_id=http%3A%2F%2Fwww.knmi.nl%2F~hurkvd%2FLoco_workshop%2FWorkshop_report.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web">Krishna Ramanujan; Brad Bohlander (2002). <a class="external text" href="https://web.archive.org/web/20080603022239/http://www.gsfc.nasa.gov/topstory/20020926landcover.html" rel="nofollow">"Landcover changes may rival greenhouse gases as cause of climate change"</a>. <a class="mw-redirect" href="/wiki/National_Aeronautics_and_Space_Administration" title="National Aeronautics and Space Administration">National Aeronautics and Space Administration</a> <a href="/wiki/Goddard_Space_Flight_Center" title="Goddard Space Flight Center">Goddard Space Flight Center</a>. Archived from <a class="external text" href="http://www.gsfc.nasa.gov/topstory/20020926landcover.html" rel="nofollow">the original</a> on 3 June 2008<span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=Brad+Bohlander&amp;rft.au=Krishna+Ramanujan&amp;rft.btitle=Landcover+changes+may+rival+greenhouse+gases+as+cause+of+climate+change&amp;rft.date=2002&amp;rft.genre=unknown&amp;rft.pub=National+Aeronautics+and+Space+Administration+Goddard+Space+Flight+Center&amp;rft_id=http%3A%2F%2Fwww.gsfc.nasa.gov%2Ftopstory%2F20020926landcover.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a> JetStream (2008). <a class="external text" href="http://www.srh.weather.gov/srh/jetstream/synoptic/airmass.htm" rel="nofollow">"Air Masses"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2 January</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=National+Weather+Service+JetStream&amp;rft.btitle=Air+Masses&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.srh.weather.gov%2Fsrh%2Fjetstream%2Fsynoptic%2Fairmass.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-MT-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-MT_11-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Michael Pidwirny (2008). <a class="external text" href="http://www.physicalgeography.net/fundamentals/8e.html" rel="nofollow">"CHAPTER 8: Introduction to the Hydrosphere (e). Cloud Formation Processes"</a>. Physical Geography<span class="reference-accessdate">. Retrieved <span class="nowrap">1 January</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=Michael+Pidwirny&amp;rft.btitle=CHAPTER+8%3A+Introduction+to+the+Hydrosphere+%28e%29.+Cloud+Formation+Processes&amp;rft.date=2008&amp;rft.genre=unknown&amp;rft.pub=Physical+Geography&amp;rft_id=http%3A%2F%2Fwww.physicalgeography.net%2Ffundamentals%2F8e.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web">Glossary of Meteorology (June 2000). <a class="external text" href="http://amsglossary.allenpress.com/glossary/search?id=front1" rel="nofollow">"Front"</a>. <a href="/wiki/American_Meteorological_Society" title="American Meteorological Society">American Meteorological Society</a><span class="reference-accessdate">. Retrieved <span class="nowrap">29 January</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=Glossary+of+Meteorology&amp;rft.btitle=Front&amp;rft.date=2000-06&amp;rft.genre=unknown&amp;rft.pub=American+Meteorological+Society&amp;rft_id=http%3A%2F%2Famsglossary.allenpress.com%2Fglossary%2Fsearch%3Fid%3Dfront1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-DR-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-DR_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Roth, David M. (14 December 2006). <a class="external text" href="http://www.wpc.ncep.noaa.gov/sfc/UASfcManualVersion1.pdf" rel="nofollow">"Unified Surface Analysis Manual"</a> <span style="font-size:85%;">(PDF)</span>. <a class="mw-redirect" href="/wiki/Hydrometeorological_Prediction_Center" title="Hydrometeorological Prediction Center">Hydrometeorological Prediction Center</a><span class="reference-accessdate">. Retrieved <span class="nowrap">9 October</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=Roth%2C+David+M.&amp;rft.btitle=Unified+Surface+Analysis+Manual&amp;rft.date=2006-12-14&amp;rft.genre=unknown&amp;rft.pub=Hydrometeorological+Prediction+Center&amp;rft_id=http%3A%2F%2Fwww.wpc.ncep.noaa.gov%2Fsfc%2FUASfcManualVersion1.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation web">FMI (2007). <a class="external text" href="http://www.zamg.ac.at/docu/Manual/SatManu/main.htm?/docu/Manual/SatManu/CMs/FgStr/backgr.htm" rel="nofollow">"Fog And Stratus – Meteorological Physical Background"</a>. Zentralanstalt für Meteorologie und Geodynamik<span class="reference-accessdate">. Retrieved <span class="nowrap">7 February</span> 2009</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=FMI&amp;rft.btitle=Fog+And+Stratus+%E2%80%93+Meteorological+Physical+Background&amp;rft.date=2007&amp;rft.genre=unknown&amp;rft.pub=Zentralanstalt+f%C3%BCr+Meteorologie+und+Geodynamik&amp;rft_id=http%3A%2F%2Fwww.zamg.ac.at%2Fdocu%2FManual%2FSatManu%2Fmain.htm%3F%2Fdocu%2FManual%2FSatManu%2FCMs%2FFgStr%2Fbackgr.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-gliess-15"><span class="mw-cite-backlink">^ <a href="#cite_ref-gliess_15-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-gliess_15-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">Gleissman, Stephe (2007). <i>Agroecology: the ecology of sustainable food systems.</i> <a href="/wiki/CRC_Press" title="CRC Press">CRC Press</a>. p. 73. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0849328454" title="Special:BookSources/0849328454">0849328454</a>.</span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text">Miles, Kathy (October 2007). <a class="external text" href="http://starryskies.com/articles/2007/10/fog.html" rel="nofollow">Just About Everything You Wanted to Know about Fog</a>. Starryskies.com.</span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text">Allred, Lance (2009). <i>Enchanted Rock: A Natural and Human History.</i> <a href="/wiki/University_of_Texas_Press" title="University of Texas Press">University of Texas Press</a>. p. 99. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0292719639" title="Special:BookSources/0292719639">0292719639</a>.</span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text">Cox, Robert E. <a class="external text" href="http://www.nwas.org/ej/pdf/2007-FTT1.pdf" rel="nofollow">Applying Fog Forecasting Techniques using AWIPS and the Internet</a> <a class="external text" href="https://web.archive.org/web/20071029004355/http://www.nwas.org/ej/pdf/2007-FTT1.pdf" rel="nofollow">Archived</a> 29 October 2007 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.. <a href="/wiki/National_Weather_Service" title="National Weather Service">National Weather Service</a>, 2007. nwas.org</span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><a class="external text" href="http://education.arm.gov/outreach/publications/08augnewsltr.pdf" rel="nofollow">Climate education update: News and information about climate change for teachers and students</a>. Atmospheric Radiation Measurement. Climate Research Facility. <a class="mw-redirect" href="/wiki/U.S._Department_of_Energy" title="U.S. Department of Energy">U.S. Department of Energy</a>. education.arm.gov</span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text">Frost, H. (2004). <i>Fog.</i> Capstone Press. p. 22. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7368-2093-6" title="Special:BookSources/978-0-7368-2093-6">978-0-7368-2093-6</a>.</span></li>
+<li id="cite_note-Marshall-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-Marshall_21-0">^</a></b></span> <span class="reference-text">Marshall, T., Hoadley, D. (1995). <i>Storm Talk</i>. Tim Marshall.</span></li>
+<li id="cite_note-bbcw-22"><span class="mw-cite-backlink">^ <a href="#cite_ref-bbcw_22-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-bbcw_22-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><a class="external text" href="http://www.bbc.co.uk/weather/features/understanding/fog.shtml" rel="nofollow">Understanding Weather – Fog</a>. <a href="/wiki/BBC_Weather" title="BBC Weather">BBC Weather</a>. bbc.co.uk</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://dare.wisc.edu/?q=node/133" rel="nofollow">"Pogonip"</a>. <i>dare.wisc.edu</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.atitle=Pogonip&amp;rft.genre=unknown&amp;rft.jtitle=dare.wisc.edu&amp;rft_id=http%3A%2F%2Fdare.wisc.edu%2F%3Fq%3Dnode%2F133&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-merriam-webster-24"><span class="mw-cite-backlink">^ <a href="#cite_ref-merriam-webster_24-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-merriam-webster_24-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.merriam-webster.com/dictionary/pogonip" rel="nofollow">"Pogonip – Definition from the Merriam-Webster Online Dictionary"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-02-14</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.btitle=Pogonip+%E2%80%93+Definition+from+the+Merriam-Webster+Online+Dictionary&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.merriam-webster.com%2Fdictionary%2Fpogonip&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-dictionary.com-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-dictionary.com_25-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://dictionary.reference.com/browse/pogonip?s=t" rel="nofollow">"Pogonip - Definition from the Dictionary.com"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2013-01-02</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.btitle=Pogonip+-+Definition+from+the+Dictionary.com&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fdictionary.reference.com%2Fbrowse%2Fpogonip%3Fs%3Dt&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text">Haby, Jeff. <a class="external text" href="http://www.theweatherprediction.com/habyhints/359/" rel="nofollow">What is the difference between ice fog and freezing fog?</a> theweatherprediction.com</span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.eurekalert.org/pub_releases/2008-05/uom-ssc050608.php" rel="nofollow">Stressed seaweed contributes to cloudy coastal skies, study suggests</a>, eurekalert.org</span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.encyclopedia.com/topic/Arctic_sea_smoke.aspx" rel="nofollow">"Arctic Sea Smoke"</a>. <i>encyclopedia.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.atitle=Arctic+Sea+Smoke&amp;rft.genre=unknown&amp;rft.jtitle=encyclopedia.com&amp;rft_id=http%3A%2F%2Fwww.encyclopedia.com%2Ftopic%2FArctic_sea_smoke.aspx&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text">Cowling, R. M., Richardson, D. M., Pierce, S. M. (2004). <i>Vegetation of Southern Africa</i>. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. p. 192. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0521548012" title="Special:BookSources/0521548012">0521548012</a>.</span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.thenakedscientists.com/HTML/questions/question/2327/" rel="nofollow">"Does fog have a dampening effect on sounds?"</a>. <i>thenakedscientists.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.atitle=Does+fog+have+a+dampening+effect+on+sounds%3F&amp;rft.genre=unknown&amp;rft.jtitle=thenakedscientists.com&amp;rft_id=http%3A%2F%2Fwww.thenakedscientists.com%2FHTML%2Fquestions%2Fquestion%2F2327%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.katu.com/blogs/weather/34619514.html" rel="nofollow">"How fog can play tricks on your ears?"</a>. <i>katu.com</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.atitle=How+fog+can+play+tricks+on+your+ears%3F&amp;rft.genre=unknown&amp;rft.jtitle=katu.com&amp;rft_id=http%3A%2F%2Fwww.katu.com%2Fblogs%2Fweather%2F34619514.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation web">Joyce, Christopher (February 23, 2010). <a class="external text" href="http://www.npr.org/templates/story/story.php?storyId=123771983&amp;ft=1&amp;f=1001" rel="nofollow">"Fog Fluctuations Could Threaten Giant Redwoods"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.au=Joyce%2C+Christopher&amp;rft.btitle=Fog+Fluctuations+Could+Threaten+Giant+Redwoods&amp;rft.date=2010-02-23&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.npr.org%2Ftemplates%2Fstory%2Fstory.php%3FstoryId%3D123771983%26ft%3D1%26f%3D1001&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text">Karukstis, K. K., Van Hecke, G. R. (2003). <i>Chemistry connections: the basis of everyday phonemena.</i> Academic Press. p. 23. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0124001513" title="Special:BookSources/0124001513">0124001513</a>.</span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.researchgate.net/publication/258290988_Characterizing_fog_and_the_physical_mechanisms_leading_to_its_formation_during_precipitation_in_a_coastal_area_of_the_northeastern_United_States_%28Ph.D._dissertation%29" rel="nofollow">"Characterizing fog and the physical mechanisms leading to its formation during precipitation in a coastal area of the northeastern United States"</a><span class="reference-accessdate">. Retrieved <span class="nowrap">31 January</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.btitle=Characterizing+fog+and+the+physical+mechanisms+leading+to+its+formation+during+precipitation+in+a+coastal+area+of+the+northeastern+United+States&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.researchgate.net%2Fpublication%2F258290988_Characterizing_fog_and_the_physical_mechanisms_leading_to_its_formation_during_precipitation_in_a_coastal_area_of_the_northeastern_United_States_%2528Ph.D._dissertation%2529&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-35">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.eso.org/public/images/potw1544a/" rel="nofollow">"Sunset Panorama at La Silla"</a>. <i>eso.org</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AFog&amp;rft.atitle=Sunset+Panorama+at+La+Silla&amp;rft.genre=unknown&amp;rft.jtitle=eso.org&amp;rft_id=http%3A%2F%2Fwww.eso.org%2Fpublic%2Fimages%2Fpotw1544a%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<p>Under "[ ^ "Federal Meteorological Handbook Number 1: Chapter 8 – Present Weather" (PDF). Office of the Federal Coordinator for Meteorology. 1 September 2005. pp. 8–1, 8–2. Retrieved 9 October 2010. ] " ….</p>
+<p>Actually use the following link- <a class="external free" href="http://www.ofcm.gov/publications/fmh/FMH1/FMH1.pdf" rel="nofollow">http://www.ofcm.gov/publications/fmh/FMH1/FMH1.pdf</a> and proceed to Chapter 8, etc.</p>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=20" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li>Ahrens, C. (1991). <i>Meteorology today: an introduction to weather, climate, and the environment.</i> West Pub. Co. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-314-80905-6" title="Special:BookSources/978-0-314-80905-6">978-0-314-80905-6</a>.</li>
+<li>Corton, Christine L. <i>London Fog: The Biography</i> (2015)</li>
+<li>Filonczuk, Maria K., Cayan, Daniel R., Riddle, Laurence G. (1995). <i>Variability of marine fog along the California coast.</i> SIO-Reference, No 95-2, Climate Research Division, Scripps Institution of Oceanography, <a href="/wiki/University_of_California,_San_Diego" title="University of California, San Diego">University of California, San Diego</a>.</li>
+<li>Lu C., Liu Y., Niu S., Zhao L., Yu H., Cheng M. (2013). <a class="external text" href="http://www.cmsjournal.net/qxxb_en/ch/reader/view_abstract.aspx?flag=1&amp;file_no=20140214&amp;journal_id=qxxb_en" rel="nofollow"><span style="color:blue;">Examination of microphysical relationships and corresponding microphysical processes in warm fogs</span></a>, Acta Meteor. Sinica, 27(6), 832–848.</li>
+<li>Lu C., Niu S., Tang L., Lü J., Zhao L., Zhu B. (2010). <a class="external text" href="http://www.sciencedirect.com/science/article/pii/S0169809510000566" rel="nofollow"><span style="color:blue;">Chemical composition of fog water in Nanjing area of China and its related fog microphysics</span></a>, Atmos. Res., 97(1–2), 47–69.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Fog&amp;action=edit&amp;section=21" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Fog" title="commons:Fog">Fog</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="http://www.ncdc.noaa.gov/oa/esb/?goal=weather&amp;file=events/fog/" rel="nofollow">Social &amp; Economic Costs of Fog</a> from "NOAA Socioeconomics" website initiative</li>
+<li><a class="external text" href="http://www.weather.gov/wwamap/wwatxtget.php?cwa=usa&amp;wwa=dense%20fog%20advisory" rel="nofollow">United States' current dense fog advisories</a> from <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">NOAA</a></li>
+<li><a class="external text" href="http://www.wrh.noaa.gov/satellite/" rel="nofollow">Current Western US fog satellite pictures from NOAA</a></li>
+</ul>
+<div aria-labelledby="Meteorological_data_and_variables" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_variables" title="Template:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_variables" title="Template talk:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_variables&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Meteorological_data_and_variables" style="font-size:114%;margin:0 4em">Meteorological data and variables</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic processes</a></li>
+<li><a href="/wiki/Advection" title="Advection">Advection</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Lapse_rate" title="Lapse rate">Lapse rate</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">Surface solar radiation</a></li>
+<li><a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Surface weather analysis</a></li>
+<li><a href="/wiki/Visibility" title="Visibility">Visibility</a></li>
+<li><a href="/wiki/Vorticity" title="Vorticity">Vorticity</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Wind_shear" title="Wind shear">Wind shear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Condensation" title="Condensation">Condensation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">Cloud condensation nuclei (CCN)</a></li>
+<li><a class="mw-selflink selflink">Fog</a></li>
+<li><a href="/wiki/Convective_condensation_level" title="Convective condensation level">Convective condensation level (CCL)</a></li>
+<li><a href="/wiki/Lifted_condensation_level" title="Lifted condensation level">Lifted condensation level (LCL)</a></li>
+<li><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></li>
+<li><a href="/wiki/Water_vapor" title="Water vapor">Water vapor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Convection</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">Convective available potential energy (CAPE)</a></li>
+<li><a href="/wiki/Convective_inhibition" title="Convective inhibition">Convective inhibition (CIN)</a></li>
+<li><a href="/wiki/Convective_instability" title="Convective instability">Convective instability</a></li>
+<li><a href="/wiki/Convective_momentum_transport" title="Convective momentum transport">Convective momentum transport</a></li>
+<li><a href="/wiki/Convective_temperature" title="Convective temperature">Convective temperature (<i>T</i><sub>c</sub>)</a></li>
+<li><a href="/wiki/Equilibrium_level" title="Equilibrium level">Equilibrium level (EL)</a></li>
+<li><a href="/wiki/Free_convective_layer" title="Free convective layer">Free convective layer (FCL)</a></li>
+<li><a class="mw-redirect" href="/wiki/Helicity_(fluid_mechanics)#Meteorology" title="Helicity (fluid mechanics)">Helicity</a></li>
+<li><a href="/wiki/K-index_(meteorology)" title="K-index (meteorology)">K Index</a></li>
+<li><a href="/wiki/Level_of_free_convection" title="Level of free convection">Level of free convection (LFC)</a></li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index (LI)</a></li>
+<li><a href="/wiki/Maximum_parcel_level" title="Maximum parcel level">Maximum parcel level (MPL)</a></li>
+<li><a href="/wiki/Bulk_Richardson_number" title="Bulk Richardson number">Bulk Richardson number (BRN)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Temperature" title="Temperature">Temperature</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dew_point" title="Dew point">Dew point (<i>T</i><sub>d</sub>)</a></li>
+<li><a href="/wiki/Dew_point_depression" title="Dew point depression">Dew point depression</a></li>
+<li><a href="/wiki/Dry-bulb_temperature" title="Dry-bulb temperature">Dry-bulb temperature</a></li>
+<li><a href="/wiki/Equivalent_temperature" title="Equivalent temperature">Equivalent temperature (<i>T</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Forest_fire_weather_index" title="Forest fire weather index">Forest fire weather index</a></li>
+<li><a href="/wiki/Haines_Index" title="Haines Index">Haines Index</a></li>
+<li><a href="/wiki/Heat_index" title="Heat index">Heat index</a></li>
+<li><a href="/wiki/Humidex" title="Humidex">Humidex</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Relative_humidity" title="Relative humidity">Relative humidity (RH)</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Potential_temperature" title="Potential temperature">Potential temperature (<i>θ</i>)</a></li>
+<li><a href="/wiki/Equivalent_potential_temperature" title="Equivalent potential temperature">Equivalent potential temperature (<i>θ</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature (SST)</a></li>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Thermodynamic temperature</a></li>
+<li><a href="/wiki/Vapor_pressure" title="Vapor pressure">Vapor pressure</a></li>
+<li><a href="/wiki/Virtual_temperature" title="Virtual temperature">Virtual temperature</a></li>
+<li><a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">Wet-bulb temperature</a></li>
+<li><a href="/wiki/Wet-bulb_potential_temperature" title="Wet-bulb potential temperature">Wet-bulb potential temperature</a></li>
+<li><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pressure" title="Pressure">Pressure</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a class="mw-redirect" href="/wiki/Barotropic" title="Barotropic">Barotropicity</a></li>
+<li><a href="/wiki/Pressure_gradient" title="Pressure gradient">Pressure gradient</a></li>
+<li><a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">Pressure-gradient force (PGF)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Cloud_genera_and_selected_species.2C_supplementary_features.2C_and_other_airborne_hydrometeors_-_WMO_Latin_terminology_except_where_indicated" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Cloud_types" title="Template:Cloud types"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Cloud_types" title="Template talk:Cloud types"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Cloud_types&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Cloud_genera_and_selected_species.2C_supplementary_features.2C_and_other_airborne_hydrometeors_-_WMO_Latin_terminology_except_where_indicated" style="font-size:114%;margin:0 4em"><a href="/wiki/Cloud" title="Cloud">Cloud</a> <a href="/wiki/List_of_cloud_types" title="List of cloud types">genera</a> and selected species, supplementary features, and other airborne hydrometeors - WMO Latin terminology except where indicated</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Extreme-level</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">Polar mesospheric cirriform type</span></dt>
+<dd><a href="/wiki/Noctilucent_cloud" title="Noctilucent cloud">Noctilucent</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Very high-level</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">Polar stratospheric cirriform type</span></dt>
+<dd><a href="/wiki/Polar_stratospheric_cloud" title="Polar stratospheric cloud">Nacreous</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">High-level</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">Tropospheric cirriform, stratiform, and stratocumuliform genera</span></dt>
+<dd><a href="/wiki/Cirrus_cloud" title="Cirrus cloud">Cirrus (Ci)</a></dd>
+<dd><a href="/wiki/Cirrostratus_cloud" title="Cirrostratus cloud">Cirrostratus (Cs)</a></dd>
+<dd><a href="/wiki/Cirrocumulus_cloud" title="Cirrocumulus cloud">Cirrocumulus (Cc)</a></dd>
+</dl>
+<dl>
+<dt><span style="font-weight:normal;">General type (non-WMO terminology)</span></dt>
+<dd>Aviaticus cloud (<a href="/wiki/Contrail" title="Contrail">Contrail</a>)</dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Medium-level</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">Tropospheric stratiform and stratocumuliform genera</span></dt>
+<dd><a href="/wiki/Altostratus_cloud" title="Altostratus cloud">Altostratus (As)</a></dd>
+<dd><a href="/wiki/Altocumulus_cloud" title="Altocumulus cloud">Altocumulus (Ac)</a></dd>
+<dt><span style="font-weight:normal;">Stratocumuliform species</span></dt>
+<dd><a href="/wiki/Altocumulus_castellanus_cloud" title="Altocumulus castellanus cloud">Altocumulus castellanus (Ac cas)</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Low-level</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">Tropospheric stratiform, stratocumuliform and cumuliform genera</span></dt>
+<dd><a href="/wiki/Stratus_cloud" title="Stratus cloud">Stratus (St)</a></dd>
+<dd><a href="/wiki/Stratocumulus_cloud" title="Stratocumulus cloud">Stratocumulus (Sc)</a></dd>
+<dd><a href="/wiki/Cumulus_cloud" title="Cumulus cloud">Cumulus (Cu)</a></dd>
+<dt><span style="font-weight:normal;">Stratiform and cumuliform species</span></dt>
+<dd><a href="/wiki/Fractus_cloud" title="Fractus cloud">Fractus</a></dd>
+<dd><a href="/wiki/Cumulus_humilis_cloud" title="Cumulus humilis cloud">Cumulus humilis (Cu hum)</a></dd>
+<dt><span style="font-weight:normal;">Stratocumulus variants (non-WMO terminology)</span></dt>
+<dd><a href="/wiki/Actinoform_cloud" title="Actinoform cloud">Actinoform cloud</a></dd>
+<dd><a href="/wiki/Asperitas_(cloud)" title="Asperitas (cloud)">Asperitas</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Moderate vertical</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">Tropospheric stratiform and cumuliform genera</span></dt>
+<dd><a href="/wiki/Nimbostratus_cloud" title="Nimbostratus cloud">Nimbostratus (Ns)</a></dd>
+<dd><a href="/wiki/Cumulus_cloud" title="Cumulus cloud">Cumulus (Cu)</a></dd>
+<dt><span style="font-weight:normal;">Cumuliform species</span></dt>
+<dd><a href="/wiki/Cumulus_mediocris_cloud" title="Cumulus mediocris cloud">Cumulus mediocris (Cu med)</a></dd>
+<dt><span style="font-weight:normal;">Cumuliform supplementary features</span></dt>
+<dd>Cumulus <a href="/wiki/Pileus_(meteorology)" title="Pileus (meteorology)">Pileus</a></dd>
+<dd>Cumulus <a href="/wiki/Arcus_cloud" title="Arcus cloud">Volutus</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Towering vertical</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">Tropospheric cumulonimbiform genus</span></dt>
+<dd><a href="/wiki/Cumulonimbus_cloud" title="Cumulonimbus cloud">Cumulonimbus (Cb)</a></dd>
+<dt><span style="font-weight:normal;">Cumuliform species</span></dt>
+<dd><a href="/wiki/Cumulus_congestus_cloud" title="Cumulus congestus cloud">Cumulus congestus</a> (<a href="/wiki/International_Civil_Aviation_Organization" title="International Civil Aviation Organization">ICAO</a> term Towering cumulus [Tcu])</dd>
+<dt><span style="font-weight:normal;">Cumuliform and cumulonimbiform supplementary features</span></dt>
+<dd><a href="/wiki/Mammatus_cloud" title="Mammatus cloud">mamma</a></dd>
+<dd>Tuba (<a href="/wiki/Funnel_cloud" title="Funnel cloud">Funnel cloud</a>)</dd>
+<dd><a href="/wiki/Pileus_(meteorology)" title="Pileus (meteorology)">Pileus</a></dd>
+<dd><a href="/wiki/Arcus_cloud" title="Arcus cloud">Arcus (Shelf)</a></dd>
+<dt><span style="font-weight:normal;">Cumuliform and cumulonimbiform variants (non-WMO terminology)</span></dt>
+<dd><a href="/wiki/Wall_cloud" title="Wall cloud">Wall cloud</a></dd>
+<dd>Cumulonimbuus <a href="/wiki/Overshooting_top" title="Overshooting top">Overshooting top</a></dd>
+<dd><a href="/wiki/Hot_tower" title="Hot tower">Hot tower</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Surface based</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">General type</span></dt>
+<dd><a class="mw-selflink selflink">Fog</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Non-height specific</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">General types</span></dt>
+<dd><a href="/wiki/Accessory_cloud" title="Accessory cloud">Accessory cloud</a></dd>
+<dd><a class="mw-redirect" href="/wiki/Kelvin%E2%80%93Helmholtz_cloud" title="Kelvin–Helmholtz cloud">Kelvin–Helmholtz cloud</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Special</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<dl>
+<dt><span style="font-weight:normal;">Special modifiers</span></dt>
+<dd><a href="/wiki/Flammagenitus_(cloud)" title="Flammagenitus (cloud)">Flammagenitus (cloud)</a></dd>
+<dd><a class="mw-redirect" href="/wiki/Homogenitus_(cloud)" title="Homogenitus (cloud)">Homogenitus (cloud)</a></dd>
+</dl>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4041483-8" rel="nofollow">4041483-8</a></span></span></li>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00565938" rel="nofollow">00565938</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1197
+Cached time: 20171003030104
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.764 seconds
+Real time usage: 0.968 seconds
+Preprocessor visited node count: 4132/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 95784/2097152 bytes
+Template argument size: 6428/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.330/10.000 seconds
+Lua memory usage: 8.18 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  796.312      1 -total
+ 37.41%  297.940      1 Template:Reflist
+ 17.11%  136.218     19 Template:Cite_web
+ 13.35%  106.339      4 Template:Fix
+ 10.36%   82.535      8 Template:ISBN
+  7.66%   61.011      4 Template:Delink
+  7.28%   57.950      9 Template:Convert
+  6.24%   49.724      1 Template:Full_citation_needed
+  6.23%   49.649      1 Template:Authority_control
+  4.98%   39.618      2 Template:Citation_needed
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:58991-0!canonical and timestamp 20171003030105 and revision id 803536475
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Fog&amp;oldid=803536475">https://en.wikipedia.org/w/index.php?title=Fog&amp;oldid=803536475</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Weather_hazards_to_aircraft" title="Category:Weather hazards to aircraft">Weather hazards to aircraft</a></li><li><a href="/wiki/Category:Snow_or_ice_weather_phenomena" title="Category:Snow or ice weather phenomena">Snow or ice weather phenomena</a></li><li><a href="/wiki/Category:Fog" title="Category:Fog">Fog</a></li><li><a href="/wiki/Category:Psychrometrics" title="Category:Psychrometrics">Psychrometrics</a></li><li><a href="/wiki/Category:Road_hazards" title="Category:Road hazards">Road hazards</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_indefinitely_move-protected_pages" title="Category:Wikipedia indefinitely move-protected pages">Wikipedia indefinitely move-protected pages</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_May_2012" title="Category:Use dmy dates from May 2012">Use dmy dates from May 2012</a></li><li><a href="/wiki/Category:Articles_needing_more_detailed_references" title="Category:Articles needing more detailed references">Articles needing more detailed references</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_November_2016" title="Category:Articles with unsourced statements from November 2016">Articles with unsourced statements from November 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_September_2014" title="Category:Articles with unsourced statements from September 2014">Articles with unsourced statements from September 2014</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_February_2010" title="Category:Articles with unsourced statements from February 2010">Articles with unsourced statements from February 2010</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Fog" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Fog" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Fog" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Fog" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Fog">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Fog&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Fog&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Fog" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Fog" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Fog&amp;oldid=803536475" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Fog&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q37477" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Fog&amp;id=803536475" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Fog">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Fog&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DFog%26returnto%3DFog%26oldid%3D803536475%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Fog&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Fog" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B6%D8%A8%D8%A7%D8%A8" hreflang="ar" lang="ar" title="ضباب – Arabic">العربية</a></li><li class="interlanguage-link interwiki-an"><a class="interlanguage-link-target" href="https://an.wikipedia.org/wiki/Boira_baixa" hreflang="an" lang="an" title="Boira baixa – Aragonese">Aragonés</a></li><li class="interlanguage-link interwiki-roa-rup"><a class="interlanguage-link-target" href="https://roa-rup.wikipedia.org/wiki/Negur%C3%A2" hreflang="roa-rup" lang="roa-rup" title="Negurâ – Aromanian">Armãneashti</a></li><li class="interlanguage-link interwiki-ast"><a class="interlanguage-link-target" href="https://ast.wikipedia.org/wiki/Borrina" hreflang="ast" lang="ast" title="Borrina – Asturian">Asturianu</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Duman" hreflang="az" lang="az" title="Duman – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-bn"><a class="interlanguage-link-target" href="https://bn.wikipedia.org/wiki/%E0%A6%95%E0%A7%81%E0%A6%AF%E0%A6%BC%E0%A6%BE%E0%A6%B6%E0%A6%BE" hreflang="bn" lang="bn" title="কুয়াশা – Bangla">বাংলা</a></li><li class="interlanguage-link interwiki-bjn"><a class="interlanguage-link-target" href="https://bjn.wikipedia.org/wiki/Saun" hreflang="bjn" lang="bjn" title="Saun – Banjar">Bahasa Banjar</a></li><li class="interlanguage-link interwiki-zh-min-nan"><a class="interlanguage-link-target" href="https://zh-min-nan.wikipedia.org/wiki/B%C3%B4ng" hreflang="zh-min-nan" lang="zh-min-nan" title="Bông – Chinese (Min Nan)">Bân-lâm-gú</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD" hreflang="be" lang="be" title="Туман – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD" hreflang="be-x-old" lang="be-x-old" title="Туман – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bh"><a class="interlanguage-link-target" href="https://bh.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B9%E0%A4%B0%E0%A4%BE" hreflang="bh" lang="bh" title="कोहरा – Bhojpuri">भोजपुरी</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D1%8A%D0%B3%D0%BB%D0%B0" hreflang="bg" lang="bg" title="Мъгла – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Magla" hreflang="bs" lang="bs" title="Magla – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Boira" hreflang="ca" lang="ca" title="Boira – Catalan">Català</a></li><li class="interlanguage-link interwiki-cv"><a class="interlanguage-link-target" href="https://cv.wikipedia.org/wiki/%D0%A2%C4%95%D1%82%D1%80%D0%B5" hreflang="cv" lang="cv" title="Тĕтре – Chuvash">Чӑвашла</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mlha" hreflang="cs" lang="cs" title="Mlha – Czech">Čeština</a></li><li class="interlanguage-link interwiki-sn"><a class="interlanguage-link-target" href="https://sn.wikipedia.org/wiki/Bvungapfunga" hreflang="sn" lang="sn" title="Bvungapfunga – Shona">ChiShona</a></li><li class="interlanguage-link interwiki-cy"><a class="interlanguage-link-target" href="https://cy.wikipedia.org/wiki/Niwl" hreflang="cy" lang="cy" title="Niwl – Welsh">Cymraeg</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/T%C3%A5ge" hreflang="da" lang="da" title="Tåge – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de badge-Q17437798 badge-goodarticle" title="good article"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Nebel" hreflang="de" lang="de" title="Nebel – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Udu" hreflang="et" lang="et" title="Udu – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9F%CE%BC%CE%AF%CF%87%CE%BB%CE%B7" hreflang="el" lang="el" title="Ομίχλη – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-eml"><a class="interlanguage-link-target" href="https://eml.wikipedia.org/wiki/Fum%C3%A0na" hreflang="eml" lang="eml" title="Fumàna – Emiliano-Romagnolo">Emiliàn e rumagnòl</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Niebla" hreflang="es" lang="es" title="Niebla – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Nebulo" hreflang="eo" lang="eo" title="Nebulo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Laino" hreflang="eu" lang="eu" title="Laino – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D9%87_(%D8%A7%D8%A8%D8%B1)" hreflang="fa" lang="fa" title="مه (ابر) – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Brouillard" hreflang="fr" lang="fr" title="Brouillard – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Mist" hreflang="fy" lang="fy" title="Mist – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-fur"><a class="interlanguage-link-target" href="https://fur.wikipedia.org/wiki/Fumate" hreflang="fur" lang="fur" title="Fumate – Friulian">Furlan</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Ceo" hreflang="ga" lang="ga" title="Ceo – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gv"><a class="interlanguage-link-target" href="https://gv.wikipedia.org/wiki/Kay" hreflang="gv" lang="gv" title="Kay – Manx">Gaelg</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/N%C3%A9boa" hreflang="gl" lang="gl" title="Néboa – Galician">Galego</a></li><li class="interlanguage-link interwiki-gu"><a class="interlanguage-link-target" href="https://gu.wikipedia.org/wiki/%E0%AA%A7%E0%AB%81%E0%AA%AE%E0%AB%8D%E0%AA%AE%E0%AA%B8" hreflang="gu" lang="gu" title="ધુમ્મસ – Gujarati">ગુજરાતી</a></li><li class="interlanguage-link interwiki-hak"><a class="interlanguage-link-target" href="https://hak.wikipedia.org/wiki/%E9%9B%BA" hreflang="hak" lang="hak" title="雺 – Hakka Chinese">客家語/Hak-kâ-ngî</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%95%88%EA%B0%9C" hreflang="ko" lang="ko" title="안개 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%A1%D5%BC%D5%A1%D5%AD%D5%B8%D6%82%D5%B2" hreflang="hy" lang="hy" title="Մառախուղ – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%95%E0%A5%8B%E0%A4%B9%E0%A4%B0%E0%A4%BE" hreflang="hi" lang="hi" title="कोहरा – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Magla" hreflang="hr" lang="hr" title="Magla – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Kabut" hreflang="id" lang="id" title="Kabut – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/%C3%9Eoka" hreflang="is" lang="is" title="Þoka – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Nebbia" hreflang="it" lang="it" title="Nebbia – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A2%D7%A8%D7%A4%D7%9C" hreflang="he" lang="he" title="ערפל – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-jv"><a class="interlanguage-link-target" href="https://jv.wikipedia.org/wiki/Pedhut" hreflang="jv" lang="jv" title="Pedhut – Javanese">Basa Jawa</a></li><li class="interlanguage-link interwiki-kn"><a class="interlanguage-link-target" href="https://kn.wikipedia.org/wiki/%E0%B2%AE%E0%B2%82%E0%B2%9C%E0%B3%81" hreflang="kn" lang="kn" title="ಮಂಜು – Kannada">ಕನ್ನಡ</a></li><li class="interlanguage-link interwiki-ka"><a class="interlanguage-link-target" href="https://ka.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%A1%E1%83%9A%E1%83%98" hreflang="ka" lang="ka" title="ნისლი – Georgian">ქართული</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%A2%D2%B1%D0%BC%D0%B0%D0%BD" hreflang="kk" lang="kk" title="Тұман – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/Bouya" hreflang="ht" lang="ht" title="Bouya – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-ky"><a class="interlanguage-link-target" href="https://ky.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD" hreflang="ky" lang="ky" title="Туман – Kyrgyz">Кыргызча</a></li><li class="interlanguage-link interwiki-la"><a class="interlanguage-link-target" href="https://la.wikipedia.org/wiki/Nebula_(meteorologia)" hreflang="la" lang="la" title="Nebula (meteorologia) – Latin">Latina</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Migla" hreflang="lv" lang="lv" title="Migla – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/R%C5%ABkas" hreflang="lt" lang="lt" title="Rūkas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-lmo"><a class="interlanguage-link-target" href="https://lmo.wikipedia.org/wiki/Scighera" hreflang="lmo" lang="lmo" title="Scighera – Lombard">Lumbaart</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/K%C3%B6d" hreflang="hu" lang="hu" title="Köd – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BB%D0%B0" hreflang="mk" lang="mk" title="Магла – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-xmf"><a class="interlanguage-link-target" href="https://xmf.wikipedia.org/wiki/%E1%83%9C%E1%83%98%E1%83%A0%E1%83%A1%E1%83%98" hreflang="xmf" lang="xmf" title="ნირსი – Mingrelian">მარგალური</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Kabut" hreflang="ms" lang="ms" title="Kabut – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-mn"><a class="interlanguage-link-target" href="https://mn.wikipedia.org/wiki/%D0%9C%D0%B0%D0%BD%D0%B0%D0%BD" hreflang="mn" lang="mn" title="Манан – Mongolian">Монгол</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Mist" hreflang="nl" lang="nl" title="Mist – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-nds-nl"><a class="interlanguage-link-target" href="https://nds-nl.wikipedia.org/wiki/Dook" hreflang="nds-NL" lang="nds-NL" title="Dook – Low Saxon">Nedersaksies</a></li><li class="interlanguage-link interwiki-ne"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%95%E0%A5%81%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A5%8B" hreflang="ne" lang="ne" title="कुहिरो – Nepali">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9C%A7" hreflang="ja" lang="ja" title="霧 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-nap"><a class="interlanguage-link-target" href="https://nap.wikipedia.org/wiki/N%C3%A9gghia" hreflang="nap" lang="nap" title="Négghia – Neapolitan">Napulitano</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/T%C3%A5ke" hreflang="no" lang="no" title="Tåke – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/T%C3%A5ke" hreflang="nn" lang="nn" title="Tåke – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-oc"><a class="interlanguage-link-target" href="https://oc.wikipedia.org/wiki/N%C3%A8bla" hreflang="oc" lang="oc" title="Nèbla – Occitan">Occitan</a></li><li class="interlanguage-link interwiki-or"><a class="interlanguage-link-target" href="https://or.wikipedia.org/wiki/%E0%AC%95%E0%AD%81%E0%AC%B9%E0%AD%81%E0%AC%A1%E0%AC%BC%E0%AC%BF" hreflang="or" lang="or" title="କୁହୁଡ଼ି – Odia">ଓଡ଼ିଆ</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Tuman_(tabiiy_hodisa)" hreflang="uz" lang="uz" title="Tuman (tabiiy hodisa) – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pa"><a class="interlanguage-link-target" href="https://pa.wikipedia.org/wiki/%E0%A8%95%E0%A9%8B%E0%A8%B9%E0%A8%B0%E0%A8%BE" hreflang="pa" lang="pa" title="ਕੋਹਰਾ – Punjabi">ਪੰਜਾਬੀ</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Mg%C5%82a" hreflang="pl" lang="pl" title="Mgła – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Nevoeiro" hreflang="pt" lang="pt" title="Nevoeiro – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Cea%C8%9B%C4%83" hreflang="ro" lang="ro" title="Ceață – Romanian">Română</a></li><li class="interlanguage-link interwiki-qu"><a class="interlanguage-link-target" href="https://qu.wikipedia.org/wiki/Pacha_phuyu" hreflang="qu" lang="qu" title="Pacha phuyu – Quechua">Runa Simi</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD" hreflang="ru" lang="ru" title="Туман – Russian">Русский</a></li><li class="interlanguage-link interwiki-sah"><a class="interlanguage-link-target" href="https://sah.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD" hreflang="sah" lang="sah" title="Туман – Sakha">Саха тыла</a></li><li class="interlanguage-link interwiki-sq"><a class="interlanguage-link-target" href="https://sq.wikipedia.org/wiki/Mjegulla" hreflang="sq" lang="sq" title="Mjegulla – Albanian">Shqip</a></li><li class="interlanguage-link interwiki-scn"><a class="interlanguage-link-target" href="https://scn.wikipedia.org/wiki/Negghia" hreflang="scn" lang="scn" title="Negghia – Sicilian">Sicilianu</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Fog" hreflang="simple" lang="simple" title="Fog – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Hmla" hreflang="sk" lang="sk" title="Hmla – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Megla" hreflang="sl" lang="sl" title="Megla – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-ckb"><a class="interlanguage-link-target" href="https://ckb.wikipedia.org/wiki/%D9%85%DA%98" hreflang="ckb" lang="ckb" title="مژ – Central Kurdish">کوردی</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B3%D0%BB%D0%B0" hreflang="sr" lang="sr" title="Магла – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Magla" hreflang="sh" lang="sh" title="Magla – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Pepedut" hreflang="su" lang="su" title="Pepedut – Sundanese">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Sumu" hreflang="fi" lang="fi" title="Sumu – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Dimma" hreflang="sv" lang="sv" title="Dimma – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-tl"><a class="interlanguage-link-target" href="https://tl.wikipedia.org/wiki/Ulop" hreflang="tl" lang="tl" title="Ulop – Tagalog">Tagalog</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AE%E0%AF%82%E0%AE%9F%E0%AF%81%E0%AE%AA%E0%AE%A9%E0%AE%BF" hreflang="ta" lang="ta" title="மூடுபனி – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tt"><a class="interlanguage-link-target" href="https://tt.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BC%D0%B0%D0%BD" hreflang="tt" lang="tt" title="Томан – Tatar">Татарча/tatarça</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AB%E0%B8%A1%E0%B8%AD%E0%B8%81" hreflang="th" lang="th" title="หมอก – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Sis" hreflang="tr" lang="tr" title="Sis – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D1%83%D0%BC%D0%B0%D0%BD" hreflang="uk" lang="uk" title="Туман – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vec"><a class="interlanguage-link-target" href="https://vec.wikipedia.org/wiki/Nebia" hreflang="vec" lang="vec" title="Nebia – Venetian">Vèneto</a></li><li class="interlanguage-link interwiki-vep"><a class="interlanguage-link-target" href="https://vep.wikipedia.org/wiki/Sumeg" hreflang="vep" lang="vep" title="Sumeg – Veps">Vepsän kel’</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/S%C6%B0%C6%A1ng_m%C3%B9" hreflang="vi" lang="vi" title="Sương mù – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-wa"><a class="interlanguage-link-target" href="https://wa.wikipedia.org/wiki/Brouheur" hreflang="wa" lang="wa" title="Brouheur – Walloon">Walon</a></li><li class="interlanguage-link interwiki-war"><a class="interlanguage-link-target" href="https://war.wikipedia.org/wiki/Yamog" hreflang="war" lang="war" title="Yamog – Waray">Winaray</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E9%9C%A7" hreflang="zh-yue" lang="zh-yue" title="霧 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-bat-smg"><a class="interlanguage-link-target" href="https://bat-smg.wikipedia.org/wiki/R%C5%ABks" hreflang="bat-smg" lang="bat-smg" title="Rūks – Samogitian">Žemaitėška</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E9%9C%A7" hreflang="zh" lang="zh" title="霧 – Chinese">中文</a></li><li class="interlanguage-link interwiki-dty"><a class="interlanguage-link-target" href="https://dty.wikipedia.org/wiki/%E0%A4%95%E0%A5%81%E0%A4%B9%E0%A4%BF%E0%A4%B0%E0%A5%8B" hreflang="dty" lang="dty" title="कुहिरो – Doteli">डोटेली</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q37477#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 3 October 2017, at 03:01.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Fog&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.764","walltime":"0.968","ppvisitednodes":{"value":4132,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":95784,"limit":2097152},"templateargumentsize":{"value":6428,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  796.312      1 -total"," 37.41%  297.940      1 Template:Reflist"," 17.11%  136.218     19 Template:Cite_web"," 13.35%  106.339      4 Template:Fix"," 10.36%   82.535      8 Template:ISBN","  7.66%   61.011      4 Template:Delink","  7.28%   57.950      9 Template:Convert","  6.24%   49.724      1 Template:Full_citation_needed","  6.23%   49.649      1 Template:Authority_control","  4.98%   39.618      2 Template:Citation_needed"]},"scribunto":{"limitreport-timeusage":{"value":"0.330","limit":"10.000"},"limitreport-memusage":{"value":8573583,"limit":52428800}},"cachereport":{"origin":"mw1197","timestamp":"20171003030104","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":82,"wgHostname":"mw1266"});});</script>
+</body>
+</html>

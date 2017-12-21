@@ -1,0 +1,966 @@
+https://en.wikipedia.org/wiki/Mechanical_energy
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Mechanical energy - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Mechanical_energy","wgTitle":"Mechanical energy","wgCurRevisionId":803730405,"wgRevisionId":803730405,"wgArticleId":859234,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Pages using citations with accessdate and no URL","CS1 maint: Uses editors parameter","Articles containing video clips","Energy (physics)","Mechanics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Mechanical_energy","wgRelevantArticleId":859234,"wgRequestId":"WdSUhgpAIDoAACzECvUAAAAR","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q184550","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/4/4e/Orbital_motion.gif" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Mechanical_energy" rel="alternate"/>
+<link href="/w/index.php?title=Mechanical_energy&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Mechanical_energy&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Mechanical_energy" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Mechanical_energy rootpage-Mechanical_energy vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Mechanical energy</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Orbital_motion.gif"><img alt="" class="thumbimage" data-file-height="300" data-file-width="300" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4e/Orbital_motion.gif/250px-Orbital_motion.gif" srcset="//upload.wikimedia.org/wikipedia/commons/4/4e/Orbital_motion.gif 1.5x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Orbital_motion.gif" title="Enlarge"></a></div>
+An example of a mechanical system: A satellite is orbiting the Earth influenced only by the conservative gravitational force; its mechanical energy is therefore conserved. The satellite is accelerated towards the Earth with an acceleration perpendicular to the velocity. This acceleration is represented by a green acceleration vector and the velocity is represented by a red velocity vector. Though the velocity is constantly changed with the direction of the vector because of the acceleration vector, the speed of the satellite is not since the magnitude of the velocity vector remains unchanged.</div>
+</div>
+</div>
+<p>In the <a href="/wiki/Outline_of_physical_science" title="Outline of physical science">physical sciences</a>, <b>mechanical energy</b> is the sum of <a href="/wiki/Potential_energy" title="Potential energy">potential energy</a> and <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a>. It is the <a href="/wiki/Energy" title="Energy">energy</a> associated with the motion and position of an object. The principle of conservation of mechanical energy states that in an isolated system that is only subject to <a href="/wiki/Conservative_force" title="Conservative force">conservative forces</a> the mechanical energy is constant. If an object is moved in the opposite direction of a conservative net force, the potential energy will increase and if the <a href="/wiki/Speed" title="Speed">speed</a> (not the <a href="/wiki/Velocity" title="Velocity">velocity</a>) of the object is changed, the kinetic energy of the object is changed as well. In all real systems, however, <a class="mw-redirect" href="/wiki/Nonconservative_force" title="Nonconservative force">nonconservative forces</a>, like <a class="mw-redirect" href="/wiki/Frictional_force" title="Frictional force">frictional forces</a>, will be present, but often they are of negligible values and the mechanical energy's being constant can therefore be a useful approximation. In <a href="/wiki/Elastic_collision" title="Elastic collision">elastic collisions</a>, the mechanical energy is conserved but in <a href="/wiki/Inelastic_collision" title="Inelastic collision">inelastic collisions</a>, some mechanical energy is converted into heat. The equivalence between lost mechanical energy (<a href="/wiki/Dissipation" title="Dissipation">dissipation</a>) and an increase in <a href="/wiki/Temperature" title="Temperature">temperature</a> was discovered by <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a>.</p>
+<p>Many devices are used to convert mechanical energy to or from other forms of energy, e.g. an <a href="/wiki/Electric_motor" title="Electric motor">electric motor</a> converts <a href="/wiki/Electrical_energy" title="Electrical energy">electrical energy</a> to mechanical energy, an <a href="/wiki/Electric_generator" title="Electric generator">electric generator</a> converts mechanical energy into <a href="/wiki/Electrical_energy" title="Electrical energy">electrical energy</a> and a <a href="/wiki/Steam_engine" title="Steam engine">steam engine</a> converts <a href="/wiki/Heat" title="Heat">heat</a> energy to mechanical energy.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#General"><span class="tocnumber">1</span> <span class="toctext">General</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Conservation_of_mechanical_energy"><span class="tocnumber">2</span> <span class="toctext">Conservation of mechanical energy</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Swinging_pendulum"><span class="tocnumber">2.1</span> <span class="toctext">Swinging pendulum</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Irreversibilities"><span class="tocnumber">2.2</span> <span class="toctext">Irreversibilities</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Satellite"><span class="tocnumber">2.3</span> <span class="toctext">Satellite</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Conversion"><span class="tocnumber">3</span> <span class="toctext">Conversion</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Distinction_from_other_types"><span class="tocnumber">4</span> <span class="toctext">Distinction from other types</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="General">General</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanical_energy&amp;action=edit&amp;section=1" title="Edit section: General">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Energy is a <a href="/wiki/Scalar_(physics)" title="Scalar (physics)">scalar</a> quantity and the mechanical energy of a system is the sum of the potential energy which is measured by the position of the parts of the system. The kinetic energy which is also called the energy of motion:<sup class="reference" id="cite_ref-Access_CL_1-0"><a href="#cite_note-Access_CL-1">[1]</a></sup><sup class="reference" id="cite_ref-Britannica_mechE_2-0"><a href="#cite_note-Britannica_mechE-2">[2]</a></sup></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>K</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {mechanical} }=U+K\,}</annotation>
+</semantics>
+</math></span><img alt="E_{{\mathrm  {mechanical}}}=U+K\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f54e4dc488ab49b4aa21031bf4ce1293a5d8b77e" style="vertical-align: -0.671ex; width:20.194ex; height:2.509ex;"/></span></dd>
+</dl>
+<p>The potential energy, <i>U</i>, depends on the position of an object subjected to a <a href="/wiki/Conservative_force" title="Conservative force">conservative force</a>. It is defined as the object's ability to do <a href="/wiki/Work_(physics)" title="Work (physics)">work</a> and is increased as the object is moved in the opposite direction of the direction of the force.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[nb 1]</a></sup><sup class="reference" id="cite_ref-Access_CL_1-1"><a href="#cite_note-Access_CL-1">[1]</a></sup> If <i>F</i> represents the conservative force and <i>x</i> the position, the potential energy of the force between the two positions <i>x<sub>1</sub></i> and <i>x<sub>2</sub></i> is defined as the negative integral of <i>F</i> from <i>x<sub>1</sub></i> to <i>x<sub>2</sub></i>:<sup class="reference" id="cite_ref-tamuk_5-0"><a href="#cite_note-tamuk-5">[4]</a></sup></p>
+<dl>
+<dd>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<munderover>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<msub>
+<mi>x</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</munderover>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>F</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>d</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>x</mi>
+<mo stretchy="false">→<!-- → --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U=-\int \limits _{x_{1}}^{x_{2}}{\vec {F}}\cdot d{\vec {x}}}</annotation>
+</semantics>
+</math></span><img alt="U=-\int \limits _{{x_{1}}}^{{x_{2}}}{\vec  {F}}\cdot d{\vec  {x}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b372de0f6eeadef69c0aaaf18ab7855f84c0ac79" style="vertical-align: -4.171ex; width:16.107ex; height:9.176ex;"/></span></dd>
+</dl>
+</dd>
+</dl>
+<p>The kinetic energy, <i>K</i>, depends on the speed of an object and is the ability of a moving object to do work on other objects when it collides with them.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[nb 2]</a></sup><sup class="reference" id="cite_ref-Brodie101_10-0"><a href="#cite_note-Brodie101-10">[8]</a></sup> It is defined as one half the product of the object's mass with the square of its speed, and the total kinetic energy of a system of objects is the sum of the kinetic energies of the respective objects:<sup class="reference" id="cite_ref-Access_CL_1-2"><a href="#cite_note-Access_CL-1">[1]</a></sup><sup class="reference" id="cite_ref-Jain9_11-0"><a href="#cite_note-Jain9-11">[9]</a></sup></p>
+<dl>
+<dd>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>K</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mi>m</mi>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K={1 \over 2}mv^{2}}</annotation>
+</semantics>
+</math></span><img alt="K={1 \over 2}mv^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2e27f1a7d18e7ae6f7e5bcf590931b4f2a2a9497" style="vertical-align: -1.838ex; width:11.445ex; height:5.176ex;"/></span></dd>
+</dl>
+</dd>
+</dl>
+<p>The principle of conservation of mechanical energy states that if a body or system is subjected only to <a href="/wiki/Conservative_force" title="Conservative force">conservative forces</a>, the mechanical energy of that body or system remains constant.<sup class="reference" id="cite_ref-Jain12_12-0"><a href="#cite_note-Jain12-12">[10]</a></sup> The difference between a conservative and a <a class="mw-redirect" href="/wiki/Non-Conservative_Force" title="Non-Conservative Force">non-conservative force</a> is that when a conservative force moves an object from one point to another, the work done by the conservative force is independent of the path. On the contrary, when a non-conservative force acts upon an object, the work done by the non-conservative force is dependent of the path.<sup class="reference" id="cite_ref-MIT_Physics_13-0"><a href="#cite_note-MIT_Physics-13">[11]</a></sup><sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[12]</a></sup></p>
+<h2><span class="mw-headline" id="Conservation_of_mechanical_energy">Conservation of mechanical energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanical_energy&amp;action=edit&amp;section=2" title="Edit section: Conservation of mechanical energy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;">
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:200px;" videopayload='&lt;div class="mediaContainer" style="width:320px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Physicsworks.ogv/320px--Physicsworks.ogv.jpg" controls="" preload="none" autoplay="" style="width:320px;height:240px" class="kskin" data-durationhint="203.33333333333" data-startoffset="0" data-mwtitle="Physicsworks.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/c/c4/Physicsworks.ogv" type="video/ogg; codecs=&amp;quot;theora, vorbis&amp;quot;" data-title="Original Ogg file, 320 × 240 (260 kbps)" data-shorttitle="Ogg source" data-width="320" data-height="240" data-bandwidth="260004" data-framerate="15"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Physicsworks.ogv/Physicsworks.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="320" data-height="240" data-bandwidth="320120" data-framerate="15"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/c/c4/Physicsworks.ogv/Physicsworks.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="214" data-height="160" data-bandwidth="183056" data-framerate="15"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:Physicsworks.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c4/Physicsworks.ogv/200px--Physicsworks.ogv.jpg" style="width:200px;height:150px"/><a href="//upload.wikimedia.org/wikipedia/commons/c/c4/Physicsworks.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Physicsworks.ogv" title="Enlarge"></a></div>
+MIT professor <a href="/wiki/Walter_Lewin" title="Walter Lewin">Walter Lewin</a> demonstrating conservation of mechanical energy</div>
+</div>
+</div>
+<p>According to the principle of conservation of mechanical energy, the mechanical energy of an <a href="/wiki/Isolated_system" title="Isolated system">isolated system</a> remains constant in time, as long as the system is free of <a href="/wiki/Friction" title="Friction">friction</a> and other non-conservative forces. In any real situation, frictional forces and other non-conservative forces are present, but in many cases their effects on the system are so small that the principle of conservation of mechanical energy can be used as a fair <a href="/wiki/Approximation" title="Approximation">approximation</a>. Though energy cannot be created or destroyed in an isolated system, it can be <a class="mw-redirect" href="/wiki/Energy_conversion" title="Energy conversion">converted</a> to another form of energy.<sup class="reference" id="cite_ref-Access_CL_1-3"><a href="#cite_note-Access_CL-1">[1]</a></sup><sup class="reference" id="cite_ref-Access_CoE_15-0"><a href="#cite_note-Access_CoE-15">[13]</a></sup></p>
+<h3><span class="mw-headline" id="Swinging_pendulum">Swinging pendulum</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanical_energy&amp;action=edit&amp;section=3" title="Edit section: Swinging pendulum">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Pendulum_animation.gif"><img alt="" class="thumbimage" data-file-height="231" data-file-width="257" height="180" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/21/Pendulum_animation.gif/200px-Pendulum_animation.gif" srcset="//upload.wikimedia.org/wikipedia/commons/2/21/Pendulum_animation.gif 1.5x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Pendulum_animation.gif" title="Enlarge"></a></div>
+A swinging pendulum with the velocity vector (green) and acceleration vector (blue). The magnitude of the velocity vector, the speed, of the pendulum is greatest in the vertical position and the pendulum is farthest from Earth in its extreme positions.</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Pendulum" title="Pendulum">Pendulum</a></div>
+<p>Thus, in a <a href="/wiki/Mechanical_system" title="Mechanical system">mechanical system</a> like a swinging <a href="/wiki/Pendulum" title="Pendulum">pendulum</a> subjected to the conservative <a class="mw-redirect" href="/wiki/Gravitational_force" title="Gravitational force">gravitational force</a> where frictional forces like air drag and friction at the pivot are negligible, energy passes back and forth between kinetic and potential energy but never leaves the system. The pendulum reaches greatest kinetic energy and least potential energy when in the vertical position, because it will have the greatest speed and be nearest the Earth at this point. On the other hand, it will have its least kinetic energy and greatest potential energy at the extreme positions of its swing, because it has zero speed and is farthest from Earth at these points. However, when taking the frictional forces into account, the system loses mechanical energy with each swing because of the work done by the pendulum to oppose these non-conservative forces.<sup class="reference" id="cite_ref-Britannica_mechE_2-1"><a href="#cite_note-Britannica_mechE-2">[2]</a></sup></p>
+<h3><span class="mw-headline" id="Irreversibilities">Irreversibilities</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanical_energy&amp;action=edit&amp;section=4" title="Edit section: Irreversibilities">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Irreversible_process" title="Irreversible process">Irreversible process</a></div>
+<p>That the loss of mechanical energy in a system always resulted in an increase of the system's temperature has been known for a long time, but it was the amateur physicist <a href="/wiki/James_Prescott_Joule" title="James Prescott Joule">James Prescott Joule</a> who first experimentally demonstrated how a certain amount of work done against friction resulted in a definite quantity of <a href="/wiki/Heat" title="Heat">heat</a> which should be conceived as the random motions of the particles that comprise matter.<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[14]</a></sup> This equivalence between mechanical energy and heat is especially important when considering colliding objects. In an <a href="/wiki/Elastic_collision" title="Elastic collision">elastic collision</a>, mechanical energy is conserved – the sum of the mechanical energies of the colliding objects is the same before and after the collision. After an <a href="/wiki/Inelastic_collision" title="Inelastic collision">inelastic collision</a>, however, the mechanical energy of the system will have changed. Usually, the mechanical energy before the collision is greater than the mechanical energy after the collision. In inelastic collisions, some of the mechanical energy of the colliding objects is transformed into kinetic energy of the constituent particles. This increase in kinetic energy of the constituent particles is perceived as an increase in temperature. The collision can be described by saying some of the mechanical energy of the colliding objects has been converted into an equal amount of heat. Thus, the total energy of the system remains unchanged though the mechanical energy of the system has reduced.<sup class="reference" id="cite_ref-Access_CL_1-4"><a href="#cite_note-Access_CL-1">[1]</a></sup><sup class="reference" id="cite_ref-Access_Cp_17-0"><a href="#cite_note-Access_Cp-17">[15]</a></sup></p>
+<h3><span class="mw-headline" id="Satellite">Satellite</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanical_energy&amp;action=edit&amp;section=5" title="Edit section: Satellite">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Vis-viva_equation" title="Vis-viva equation">Vis-viva equation</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:R_%3D_geo_Re_2012-10-08_1809.png"><img alt="" class="thumbimage" data-file-height="521" data-file-width="747" height="153" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/R_%3D_geo_Re_2012-10-08_1809.png/220px-R_%3D_geo_Re_2012-10-08_1809.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/cc/R_%3D_geo_Re_2012-10-08_1809.png/330px-R_%3D_geo_Re_2012-10-08_1809.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/cc/R_%3D_geo_Re_2012-10-08_1809.png/440px-R_%3D_geo_Re_2012-10-08_1809.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:R_%3D_geo_Re_2012-10-08_1809.png" title="Enlarge"></a></div>
+plot of kinetic energy <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>K</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K}</annotation>
+</semantics>
+</math></span><img alt="K" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b76fce82a62ed5461908f0dc8f037de4e3686b0" style="vertical-align: -0.338ex; width:2.076ex; height:2.176ex;"/></span>, gravitational potential energy, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U}</annotation>
+</semantics>
+</math></span><img alt="U" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/458a728f53b9a0274f059cd695e067c430956025" style="vertical-align: -0.338ex; width:1.793ex; height:2.176ex;"/></span> and mechanical energy <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {mechanical} }}</annotation>
+</semantics>
+</math></span><img alt="E_{{\mathrm  {mechanical}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f413a6b7eecb4ce0fbc841b162f2f76170b52193" style="vertical-align: -0.671ex; width:9.977ex; height:2.509ex;"/></span>versus distance away from centre of earth, r at R= Re, R= 2*Re, R=3*Re and lastly R = geostationary radius</div>
+</div>
+</div>
+<p>A satellite of mass <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>m</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m}</annotation>
+</semantics>
+</math></span><img alt="m" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0a07d98bb302f3856cbabc47b2b9016692e3f7bc" style="vertical-align: -0.338ex; width:2.051ex; height:1.676ex;"/></span> at a distance <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+</semantics>
+</math></span><img alt=" r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" style="vertical-align: -0.338ex; width:1.059ex; height:1.676ex;"/></span> from the centre of Earth possesses both kinetic energy, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>K</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle K}</annotation>
+</semantics>
+</math></span><img alt="K" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2b76fce82a62ed5461908f0dc8f037de4e3686b0" style="vertical-align: -0.338ex; width:2.076ex; height:2.176ex;"/></span>, (by virtue of its motion) and gravitational potential energy, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>U</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle U}</annotation>
+</semantics>
+</math></span><img alt="U" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/458a728f53b9a0274f059cd695e067c430956025" style="vertical-align: -0.338ex; width:1.793ex; height:2.176ex;"/></span>, (by virtue of its position within the Earth’s gravitational field; Earth's mass is <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M}</annotation>
+</semantics>
+</math></span><img alt="M" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f82cade9898ced02fdd08712e5f0c0151758a0dd" style="vertical-align: -0.338ex; width:2.453ex; height:2.176ex;"/></span>). Hence, mechanical energy <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {mechanical} }}</annotation>
+</semantics>
+</math></span><img alt="E_{{\mathrm  {mechanical}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f413a6b7eecb4ce0fbc841b162f2f76170b52193" style="vertical-align: -0.671ex; width:9.977ex; height:2.509ex;"/></span> of a satellite is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>U</mi>
+<mo>+</mo>
+<mi>K</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {mechanical} }=U+K}</annotation>
+</semantics>
+</math></span><img alt="E_{{\mathrm  {mechanical}}}=U+K" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d3e74db5bb15f41bb876987981a7d801ef6de3d6" style="vertical-align: -0.671ex; width:19.807ex; height:2.509ex;"/></span></dd>
+</dl>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>M</mi>
+<mi>m</mi>
+</mrow>
+<mi>r</mi>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+<mi>m</mi>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {mechanical} }=-G{\frac {Mm}{r}}\ +{\frac {1}{2}}\ mv^{2}}</annotation>
+</semantics>
+</math></span><img alt="E_{{\mathrm  {mechanical}}}=-G{\frac  {Mm}{r}}\ +{\frac  {1}{2}}\ mv^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c7b6e089ac41072358b2ddd7db1ab143c269deb0" style="vertical-align: -1.838ex; width:32.353ex; height:5.343ex;"/></span></dd>
+</dl>
+<p>If the satellite is in circular orbit, the energy conservation equation can be further simplified into</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi mathvariant="normal">m</mi>
+<mi mathvariant="normal">e</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">h</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">n</mi>
+<mi mathvariant="normal">i</mi>
+<mi mathvariant="normal">c</mi>
+<mi mathvariant="normal">a</mi>
+<mi mathvariant="normal">l</mi>
+</mrow>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>M</mi>
+<mi>m</mi>
+</mrow>
+<mrow>
+<mn>2</mn>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{\mathrm {mechanical} }=-G{\frac {Mm}{2r}}\ }</annotation>
+</semantics>
+</math></span><img alt="E_{{\mathrm  {mechanical}}}=-G{\frac  {Mm}{2r}}\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/865f2eb61ea4eb7b8f1ebd7aa04449537ea5622c" style="vertical-align: -1.838ex; width:22.662ex; height:5.343ex;"/></span></dd>
+</dl>
+<p>since in circular motion, Newton's 2nd Law of motion can be taken to be</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>G</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>M</mi>
+<mi>m</mi>
+</mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>m</mi>
+<msup>
+<mi>v</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+<mi>r</mi>
+</mfrac>
+</mrow>
+<mtext> </mtext>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle G{\frac {Mm}{r^{2}}}\ ={\frac {mv^{2}}{r}}\ }</annotation>
+</semantics>
+</math></span><img alt="G{\frac  {Mm}{r^{2}}}\ ={\frac  {mv^{2}}{r}}\ " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/16757c243e581840e496e95d54f6ca490b1abf2d" style="vertical-align: -2.171ex; width:16.534ex; height:6.009ex;"/></span></dd>
+</dl>
+<h2><span class="mw-headline" id="Conversion">Conversion</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanical_energy&amp;action=edit&amp;section=6" title="Edit section: Conversion">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Today, many technological devices convert mechanical energy into other forms of energy or vice versa. These devices can be placed in these categories:</p>
+<ul>
+<li>An <a href="/wiki/Electric_motor" title="Electric motor">electric motor</a> converts <a href="/wiki/Electrical_energy" title="Electrical energy">electrical energy</a> into mechanical energy.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[16]</a></sup><sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[17]</a></sup><sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[18]</a></sup></li>
+<li>A <a href="/wiki/Electric_generator" title="Electric generator">generator</a> converts mechanical energy into electrical energy.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[19]</a></sup></li>
+<li>A <a class="mw-redirect" href="/wiki/Hydroelectric_powerplant" title="Hydroelectric powerplant">hydroelectric powerplant</a> converts the mechanical energy of water in a storage dam into electrical energy.<sup class="reference" id="cite_ref-22"><a href="#cite_note-22">[20]</a></sup></li>
+<li>An <a href="/wiki/Internal_combustion_engine" title="Internal combustion engine">internal combustion engine</a> is a <a href="/wiki/Heat_engine" title="Heat engine">heat engine</a> that obtains mechanical energy from <a href="/wiki/Chemical_energy" title="Chemical energy">chemical energy</a> by burning <a href="/wiki/Fuel" title="Fuel">fuel</a>. From this mechanical energy, the internal combustion engine often generates electricity.<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[21]</a></sup></li>
+<li>A <a href="/wiki/Steam_engine" title="Steam engine">steam engine</a> converts the <a href="/wiki/Heat" title="Heat">heat energy</a> of steam into mechanical energy.<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[22]</a></sup></li>
+<li>A <a href="/wiki/Turbine" title="Turbine">turbine</a> converts the kinetic energy of a stream of gas or liquid into mechanical energy.<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[23]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="Distinction_from_other_types">Distinction from other types</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanical_energy&amp;action=edit&amp;section=7" title="Edit section: Distinction from other types">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The classification of energy into different types often follows the boundaries of the fields of study in the natural sciences.</p>
+<ul>
+<li><a href="/wiki/Chemical_energy" title="Chemical energy">Chemical energy</a> is the kind of <a href="/wiki/Potential_energy" title="Potential energy">potential energy</a> "stored" in <a class="mw-redirect" href="/wiki/Chemical_bonds" title="Chemical bonds">chemical bonds</a> and is studied in <a href="/wiki/Chemistry" title="Chemistry">chemistry</a>.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[24]</a></sup></li>
+<li><a class="mw-redirect" href="/wiki/Nuclear_potential_energy" title="Nuclear potential energy">Nuclear energy</a> is energy stored in interactions between the particles in the <a href="/wiki/Atomic_nucleus" title="Atomic nucleus">atomic nucleus</a> and is studied in <a href="/wiki/Nuclear_physics" title="Nuclear physics">nuclear physics</a>.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[25]</a></sup></li>
+<li><a class="mw-redirect" href="/wiki/Electromagnetic_energy" title="Electromagnetic energy">Electromagnetic energy</a> is in the form of electric charges, magnetic fields, and <a class="mw-redirect" href="/wiki/Photons" title="Photons">photons</a>. It is studied in <a href="/wiki/Electromagnetism" title="Electromagnetism">electromagnetism</a>.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[26]</a></sup><sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[27]</a></sup></li>
+<li>Various forms of energy in <a href="/wiki/Quantum_mechanics" title="Quantum mechanics">quantum mechanics</a>; e.g., the <a href="/wiki/Energy_level" title="Energy level">energy levels</a> of <a href="/wiki/Electron" title="Electron">electrons</a> in an atom.<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[28]</a></sup><sup class="reference" id="cite_ref-31"><a href="#cite_note-31">[29]</a></sup></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Mechanical_energy&amp;action=edit&amp;section=8" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p><b>Notes</b></p>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">It is important to note that when measuring mechanical energy, an object is considered as a whole, as it is stated by <a href="/wiki/Isaac_Newton" title="Isaac Newton">Isaac Newton</a> in his <i><a class="mw-redirect" href="/wiki/Principia_Mathematica_Philosophiae_Naturalis" title="Principia Mathematica Philosophiae Naturalis">Principia</a></i>: "The motion of a whole is the same as the sum of the motions of the parts; that is, the change in position of its parts from their places, and thus the place of a whole is the same as the sum of the places of the parts and therefore is internal and in the whole body."<sup class="reference" id="cite_ref-Newton409_3-0"><a href="#cite_note-Newton409-3">[3]</a></sup></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">In physics, <a href="/wiki/Speed" title="Speed">speed</a> is a scalar quantity and <a href="/wiki/Velocity" title="Velocity">velocity</a> is a <a href="/wiki/Euclidean_vector" title="Euclidean vector">vector</a>. In other words, velocity is speed with a direction and can therefore change without changing the speed of the object since speed is the numerical magnitude of a velocity.<sup class="reference" id="cite_ref-Brodie129-131_6-0"><a href="#cite_note-Brodie129-131-6">[5]</a></sup><sup class="reference" id="cite_ref-AccessSp_7-0"><a href="#cite_note-AccessSp-7">[6]</a></sup><sup class="reference" id="cite_ref-AccessVe_8-0"><a href="#cite_note-AccessVe-8">[7]</a></sup></span></li>
+</ol>
+</div>
+</div>
+<p><b>Citations</b></p>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-Access_CL-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-Access_CL_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Access_CL_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-Access_CL_1-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-Access_CL_1-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-Access_CL_1-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia">Wilczek, Frank (2008). <a class="external text" href="http://www.accessscience.com/abstract.aspx?id=757423&amp;referURL=http%3a%2f%2fwww.accessscience.com%2fcontent.aspx%3fsearchStr%3dConservation%2blaws%2b%28physics%29%26id%3d757423" rel="nofollow">"Conservation laws (physics)"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Conservation+laws+%28physics%29&amp;rft.aufirst=Frank&amp;rft.aulast=Wilczek&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Fwww.accessscience.com%2Fabstract.aspx%3Fid%3D757423%26referURL%3Dhttp%253a%252f%252fwww.accessscience.com%252fcontent.aspx%253fsearchStr%253dConservation%252blaws%252b%2528physics%2529%2526id%253d757423&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Britannica_mechE-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-Britannica_mechE_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-Britannica_mechE_2-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation encyclopaedia">"mechanical energy". <i><a href="/wiki/Encyclop%C3%A6dia_Britannica" title="Encyclopædia Britannica">The New Encyclopædia Britannica: Micropædia: Ready Reference</a></i>. <b>7</b> (15th ed.). 2003.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=mechanical+energy&amp;rft.btitle=The+New+Encyclop%C3%A6dia+Britannica%3A+Microp%C3%A6dia%3A+Ready+Reference&amp;rft.date=2003&amp;rft.edition=15th&amp;rft.genre=bookitem&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span></span></li>
+<li id="cite_note-Newton409-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Newton409_3-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFNewton1999">Newton 1999</a>, p. 409</span></li>
+<li id="cite_note-tamuk-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-tamuk_5-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://physics.tamuk.edu/~suson/html/2325/PotentialEnergy.html" rel="nofollow">"Potential Energy"</a>. Texas A&amp;M University–Kingsville<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Potential+Energy&amp;rft.genre=unknown&amp;rft.pub=Texas+A%26M+University%E2%80%93Kingsville&amp;rft_id=http%3A%2F%2Fphysics.tamuk.edu%2F~suson%2Fhtml%2F2325%2FPotentialEnergy.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Brodie129-131-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brodie129-131_6-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrodie1998">Brodie 1998</a>, pp. 129–131</span></li>
+<li id="cite_note-AccessSp-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-AccessSp_7-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Rusk, Rogers D. (2008). <a class="external text" href="http://accessscience.com/abstract.aspx?id=643200&amp;referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fsearchStr%3dspeed%26id%3d643200" rel="nofollow">"Speed"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Speed&amp;rft.aufirst=Rogers+D.&amp;rft.aulast=Rusk&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Faccessscience.com%2Fabstract.aspx%3Fid%3D643200%26referURL%3Dhttp%253a%252f%252faccessscience.com%252fcontent.aspx%253fsearchStr%253dspeed%2526id%253d643200&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-AccessVe-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-AccessVe_8-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Rusk, Rogers D. (2008). <a class="external text" href="http://accessscience.com/abstract.aspx?id=729500&amp;referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fsearchStr%3dvelocity%26id%3d729500" rel="nofollow">"Velocity"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Velocity&amp;rft.aufirst=Rogers+D.&amp;rft.aulast=Rusk&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Faccessscience.com%2Fabstract.aspx%3Fid%3D729500%26referURL%3Dhttp%253a%252f%252faccessscience.com%252fcontent.aspx%253fsearchStr%253dvelocity%2526id%253d729500&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Brodie101-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-Brodie101_10-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFBrodie1998">Brodie 1998</a>, p. 101</span></li>
+<li id="cite_note-Jain9-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jain9_11-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJain2009">Jain 2009</a>, p. 9</span></li>
+<li id="cite_note-Jain12-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-Jain12_12-0">^</a></b></span> <span class="reference-text"><a href="#CITEREFJain2009">Jain 2009</a>, p. 12</span></li>
+<li id="cite_note-MIT_Physics-13"><span class="mw-cite-backlink"><b><a href="#cite_ref-MIT_Physics_13-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Department of Physics. <a class="external text" href="http://web.mit.edu/8.02t/www/materials/modules/ReviewD.pdf" rel="nofollow">"Review D: Potential Energy and the Conservation of Mechanical Energy"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Massachusetts_Institute_of_Technology" title="Massachusetts Institute of Technology">Massachusetts Institute of Technology</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.au=Department+of+Physics&amp;rft.btitle=Review+D%3A+Potential+Energy+and+the+Conservation+of+Mechanical+Energy&amp;rft.genre=unknown&amp;rft.pub=Massachusetts+Institute+of+Technology&amp;rft_id=http%3A%2F%2Fweb.mit.edu%2F8.02t%2Fwww%2Fmaterials%2Fmodules%2FReviewD.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text">Resnick, Robert and Halliday, David (1966), <i>Physics</i>, Section 8-3 (Vol I and II, Combined edition), Wiley International Edition, Library of Congress Catalog Card No. 66-11527</span></li>
+<li id="cite_note-Access_CoE-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-Access_CoE_15-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">E. Roller, Duane; Leo Nedelsky (2008). <a class="external text" href="http://www.accessscience.com/abstract.aspx?id=157600&amp;referURL=http%3a%2f%2fwww.accessscience.com%2fcontent.aspx%3fsearchStr%3dconservation%2bof%2benergy%26id%3d157600" rel="nofollow">"Conservation of energy"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Conservation+of+energy&amp;rft.au=Leo+Nedelsky&amp;rft.aufirst=Duane&amp;rft.aulast=E.+Roller&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Fwww.accessscience.com%2Fabstract.aspx%3Fid%3D157600%26referURL%3Dhttp%253a%252f%252fwww.accessscience.com%252fcontent.aspx%253fsearchStr%253dconservation%252bof%252benergy%2526id%253d157600&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">"James Prescott Joule". <i>Scientists: Their Lives and Works</i>. Gale. 2006.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=James+Prescott+Joule&amp;rft.btitle=Scientists%3A+Their+Lives+and+Works&amp;rft.date=2006&amp;rft.genre=bookitem&amp;rft.pub=Gale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> as cited on <cite class="citation web"><a class="external text" href="http://www.gale.cengage.com/InContext/resources.htm" rel="nofollow">"Student Resources in Context"</a>. Gale<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Student+Resources+in+Context&amp;rft.genre=unknown&amp;rft.pub=Gale&amp;rft_id=http%3A%2F%2Fwww.gale.cengage.com%2FInContext%2Fresources.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Access_Cp-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-Access_Cp_17-0">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Schmidt, Paul W. (2008). <a class="external text" href="http://accessscience.com/abstract.aspx?id=149000&amp;referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fsearchStr%3dCollision%2b%28physics%29%26id%3d149000" rel="nofollow">"Collision (physics)"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-03</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Collision+%28physics%29&amp;rft.aufirst=Paul+W.&amp;rft.aulast=Schmidt&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Faccessscience.com%2Fabstract.aspx%3Fid%3D149000%26referURL%3Dhttp%253a%252f%252faccessscience.com%252fcontent.aspx%253fsearchStr%253dCollision%252b%2528physics%2529%2526id%253d149000&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Kopicki, Ronald J. (2003). "Electrification, Household". In Kutler, Stanley I. <i>Dictionary of American History</i>. <b>3</b> (3rd ed.). New York: Charles Scribner's Sons. pp. 179–183.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Electrification%2C+Household&amp;rft.aufirst=Ronald+J.&amp;rft.aulast=Kopicki&amp;rft.btitle=Dictionary+of+American+History&amp;rft.date=2003&amp;rft.edition=3rd&amp;rft.genre=bookitem&amp;rft.pages=179-183&amp;rft.place=New+York&amp;rft.pub=Charles+Scribner%27s+Sons&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> as cited on <cite class="citation web"><a class="external text" href="http://www.gale.cengage.com/InContext/resources.htm" rel="nofollow">"Student Resources in Context"</a>. Gale<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Student+Resources+in+Context&amp;rft.genre=unknown&amp;rft.pub=Gale&amp;rft_id=http%3A%2F%2Fwww.gale.cengage.com%2FInContext%2Fresources.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Lerner, K. Lee; Lerner, Brenda Wilmoth, eds. (2008). "Electric motor". <i>The Gale Encyclopedia of Science</i> (4th ed.). Detroit: Gale.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Electric+motor&amp;rft.btitle=The+Gale+Encyclopedia+of+Science&amp;rft.date=2008&amp;rft.edition=4th&amp;rft.genre=bookitem&amp;rft.place=Detroit&amp;rft.pub=Gale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> as cited on <cite class="citation web"><a class="external text" href="http://www.gale.cengage.com/InContext/resources.htm" rel="nofollow">"Student Resources in Context"</a>. Gale<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Student+Resources+in+Context&amp;rft.genre=unknown&amp;rft.pub=Gale&amp;rft_id=http%3A%2F%2Fwww.gale.cengage.com%2FInContext%2Fresources.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">"Electric motor". <i>U*X*L Encyclopedia of Science</i>. U*X*L. 2007.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Electric+motor&amp;rft.btitle=U%2AX%2AL+Encyclopedia+of+Science&amp;rft.date=2007&amp;rft.genre=bookitem&amp;rft.pub=U%2AX%2AL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> as cited on <cite class="citation web"><a class="external text" href="http://www.gale.cengage.com/InContext/resources.htm" rel="nofollow">"Student Resources in Context"</a>. Gale<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-09-07</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Student+Resources+in+Context&amp;rft.genre=unknown&amp;rft.pub=Gale&amp;rft_id=http%3A%2F%2Fwww.gale.cengage.com%2FInContext%2Fresources.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">"Generator". <i>U*X*L Encyclopedia of Science</i>. U*X*L. 2007-07-16.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Generator&amp;rft.btitle=U%2AX%2AL+Encyclopedia+of+Science&amp;rft.date=2007-07-16&amp;rft.genre=bookitem&amp;rft.pub=U%2AX%2AL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> as cited on <cite class="citation web"><a class="external text" href="http://www.gale.cengage.com/InContext/resources.htm" rel="nofollow">"Student Resources in Context"</a>. Gale<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Student+Resources+in+Context&amp;rft.genre=unknown&amp;rft.pub=Gale&amp;rft_id=http%3A%2F%2Fwww.gale.cengage.com%2FInContext%2Fresources.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-22">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.waterencyclopedia.com/Ge-Hy/Hydroelectric-Power.html" rel="nofollow">"Hydroelectric Power"</a>. Water Encyclopedia.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Hydroelectric+Power&amp;rft.genre=unknown&amp;rft.pub=Water+Encyclopedia&amp;rft_id=http%3A%2F%2Fwww.waterencyclopedia.com%2FGe-Hy%2FHydroelectric-Power.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> Retrieved 2013-08-23</span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Lerner, K. Lee; Lerner, Brenda Wilmoth, eds. (2008). "Internal combustion engine". <i>The Gale Encyclopedia of Science</i> (4th ed.). Detroit: Gale.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Internal+combustion+engine&amp;rft.btitle=The+Gale+Encyclopedia+of+Science&amp;rft.date=2008&amp;rft.edition=4th&amp;rft.genre=bookitem&amp;rft.place=Detroit&amp;rft.pub=Gale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> as cited on <cite class="citation web"><a class="external text" href="http://www.gale.cengage.com/InContext/resources.htm" rel="nofollow">"Student Resources in Context"</a>. Gale<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Student+Resources+in+Context&amp;rft.genre=unknown&amp;rft.pub=Gale&amp;rft_id=http%3A%2F%2Fwww.gale.cengage.com%2FInContext%2Fresources.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">"Steam engine". <i>U*X*L Encyclopedia of Science</i>. U*X*L. 2007-07-16.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Steam+engine&amp;rft.btitle=U%2AX%2AL+Encyclopedia+of+Science&amp;rft.date=2007-07-16&amp;rft.genre=bookitem&amp;rft.pub=U%2AX%2AL&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> as cited on <cite class="citation web"><a class="external text" href="http://www.gale.cengage.com/InContext/resources.htm" rel="nofollow">"Student Resources in Context"</a>. Gale<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Student+Resources+in+Context&amp;rft.genre=unknown&amp;rft.pub=Gale&amp;rft_id=http%3A%2F%2Fwww.gale.cengage.com%2FInContext%2Fresources.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Lerner, K. Lee; Lerner, Brenda Wilmoth, eds. (2008). "Turbine". <i>The Gale Encyclopedia of Science</i> (4th ed.). Detroit: Gale.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Turbine&amp;rft.btitle=The+Gale+Encyclopedia+of+Science&amp;rft.date=2008&amp;rft.edition=4th&amp;rft.genre=bookitem&amp;rft.place=Detroit&amp;rft.pub=Gale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span> <span class="error citation-comment" style="display:none;font-size:100%"><code style="color:inherit; border:inherit; padding:inherit;">|access-date=</code> requires <code style="color:inherit; border:inherit; padding:inherit;">|url=</code> (<a href="/wiki/Help:CS1_errors#accessdate_missing_url" title="Help:CS1 errors">help</a>)</span> as cited on <cite class="citation web"><a class="external text" href="http://www.gale.cengage.com/InContext/resources.htm" rel="nofollow">"Student Resources in Context"</a>. Gale<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.btitle=Student+Resources+in+Context&amp;rft.genre=unknown&amp;rft.pub=Gale&amp;rft_id=http%3A%2F%2Fwww.gale.cengage.com%2FInContext%2Fresources.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Atkins, Peter W. (2008). <a class="external text" href="http://accessscience.com/abstract.aspx?id=127100&amp;referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fsearchStr%3dchemical%2benergy%26id%3d127100" rel="nofollow">"Chemical energy"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Chemical+energy&amp;rft.aufirst=Peter+W.&amp;rft.aulast=Atkins&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Faccessscience.com%2Fabstract.aspx%3Fid%3D127100%26referURL%3Dhttp%253a%252f%252faccessscience.com%252fcontent.aspx%253fsearchStr%253dchemical%252benergy%2526id%253d127100&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Duckworth, Henry E.; Wilkinson, D. H. (2008). <a class="external text" href="http://accessscience.com/abstract.aspx?id=457950&amp;referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fsearchStr%3dnuclear%2benergy%26id%3d457950" rel="nofollow">"Nuclear binding energy"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Nuclear+binding+energy&amp;rft.au=Wilkinson%2C+D.+H.&amp;rft.aufirst=Henry+E.&amp;rft.aulast=Duckworth&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Faccessscience.com%2Fabstract.aspx%3Fid%3D457950%26referURL%3Dhttp%253a%252f%252faccessscience.com%252fcontent.aspx%253fsearchStr%253dnuclear%252benergy%2526id%253d457950&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Hartwig, William H. (2008). <a class="external text" href="http://accessscience.com/abstract.aspx?id=218350&amp;referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fsearchStr%3dElectrical%2benergy%2bmeasurement%26id%3d218350" rel="nofollow">"Electrical energy measurement"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Electrical+energy+measurement&amp;rft.aufirst=William+H.&amp;rft.aulast=Hartwig&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Faccessscience.com%2Fabstract.aspx%3Fid%3D218350%26referURL%3Dhttp%253a%252f%252faccessscience.com%252fcontent.aspx%253fsearchStr%253dElectrical%252benergy%252bmeasurement%2526id%253d218350&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Smythe, William R. (2008). <a class="external text" href="http://accessscience.com/abstract.aspx?id=222700&amp;referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fsearchStr%3dElectromagnetic%2bradiation%26id%3d222700" rel="nofollow">"Electromagnetic radiation"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Electromagnetic+radiation&amp;rft.aufirst=William+R.&amp;rft.aulast=Smythe&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Faccessscience.com%2Fabstract.aspx%3Fid%3D222700%26referURL%3Dhttp%253a%252f%252faccessscience.com%252fcontent.aspx%253fsearchStr%253dElectromagnetic%252bradiation%2526id%253d222700&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">Gerjuoy, Edward (2008). <a class="external text" href="http://accessscience.com/abstract.aspx?id=562900&amp;referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fsearchStr%3dQuantum%2bmechanics%26id%3d562900" rel="nofollow">"Quantum mechanics"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Quantum+mechanics&amp;rft.aufirst=Edward&amp;rft.aulast=Gerjuoy&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Faccessscience.com%2Fabstract.aspx%3Fid%3D562900%26referURL%3Dhttp%253a%252f%252faccessscience.com%252fcontent.aspx%253fsearchStr%253dQuantum%252bmechanics%2526id%253d562900&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-31">^</a></b></span> <span class="reference-text"><cite class="citation encyclopaedia">March-Russell, John (2008). <a class="external text" href="http://accessscience.com/abstract.aspx?id=232800&amp;referURL=http%3a%2f%2faccessscience.com%2fcontent.aspx%3fsearchStr%3dEnergy%2blevel%2b%28quantum%2bmechanics%29%26id%3d232800" rel="nofollow">"Energy level (quantum mechanics)"</a>. <i>AccessScience</i>. McGraw-Hill Companies<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-10-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.atitle=Energy+level+%28quantum+mechanics%29&amp;rft.aufirst=John&amp;rft.aulast=March-Russell&amp;rft.btitle=AccessScience&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.pub=McGraw-Hill+Companies&amp;rft_id=http%3A%2F%2Faccessscience.com%2Fabstract.aspx%3Fid%3D232800%26referURL%3Dhttp%253a%252f%252faccessscience.com%252fcontent.aspx%253fsearchStr%253dEnergy%252blevel%252b%2528quantum%252bmechanics%2529%2526id%253d232800&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<p><b>Bibliography</b></p>
+<ul>
+<li><cite class="citation book" id="CITEREFBrodieBrownHeslopIreson1998">Brodie, David; Brown, Wendy; Heslop, Nigel; Ireson, Gren; Williams, Peter (1998). Terry Parkin, eds. <i>Physics</i>. Addison Wesley Longman Limited. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-582-28736-5" title="Special:BookSources/978-0-582-28736-5">978-0-582-28736-5</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.au=Brown%2C+Wendy&amp;rft.au=Heslop%2C+Nigel&amp;rft.au=Ireson%2C+Gren&amp;rft.au=Williams%2C+Peter&amp;rft.aufirst=David&amp;rft.aulast=Brodie&amp;rft.btitle=Physics&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=978-0-582-28736-5&amp;rft.pub=Addison+Wesley+Longman+Limited&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></li>
+<li><cite class="citation book" id="CITEREFJain2009">Jain, Mahesh C. (2009). <a class="external text" href="https://books.google.com/books?id=DqZlU3RJTywC" rel="nofollow"><i>Textbook of Engineering Physics, Part I</i></a>. New Delhi: PHI Learning Pvt. Ltd. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-81-203-3862-3" title="Special:BookSources/978-81-203-3862-3">978-81-203-3862-3</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-08-25</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.aufirst=Mahesh+C.&amp;rft.aulast=Jain&amp;rft.btitle=Textbook+of+Engineering+Physics%2C+Part+I&amp;rft.date=2009&amp;rft.genre=book&amp;rft.isbn=978-81-203-3862-3&amp;rft.place=New+Delhi&amp;rft.pub=PHI+Learning+Pvt.+Ltd.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DDqZlU3RJTywC&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><cite class="citation book" id="CITEREFNewton1999"><a href="/wiki/Isaac_Newton" title="Isaac Newton">Newton, Isaac</a> (1999). I. Bernard Cohen, Anne Miller Whitman, eds. <i>The Principia: mathematical principles of natural philosophy</i>. United States of America: University of California Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-520-08816-0" title="Special:BookSources/978-0-520-08816-0">978-0-520-08816-0</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AMechanical+energy&amp;rft.aufirst=Isaac&amp;rft.aulast=Newton&amp;rft.btitle=The+Principia%3A+mathematical+principles+of+natural+philosophy&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=978-0-520-08816-0&amp;rft.place=United+States+of+America&amp;rft.pub=University+of+California+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses editors parameter (<a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">link</a>)</span></li>
+</ul>
+<div aria-labelledby="Energy" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Footer_energy" title="Template:Footer energy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Footer_energy" title="Template talk:Footer energy"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Footer_energy&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Energy" style="font-size:114%;margin:0 4em"><a href="/wiki/Energy" title="Energy">Energy</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Fundamental concepts</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energetics" title="Energetics">Energetics</a></li>
+<li><a href="/wiki/Energy" title="Energy">Energy</a>
+<ul>
+<li><a href="/wiki/Units_of_energy" title="Units of energy">Units</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Energy_system" title="Energy system">Energy system</a></li>
+<li><a href="/wiki/Energy_transformation" title="Energy transformation">Energy transformation</a></li>
+<li><a href="/wiki/Mass" title="Mass">Mass</a>
+<ul>
+<li><a href="/wiki/Mass%E2%80%93energy_equivalence" title="Mass–energy equivalence">Mass–energy equivalence</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Power_(physics)" title="Power (physics)">Power</a></li>
+<li><a href="/wiki/Thermodynamics" title="Thermodynamics">Thermodynamics</a>
+<ul>
+<li><a href="/wiki/Laws_of_thermodynamics" title="Laws of thermodynamics">Laws of thermodynamics</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Exergy" title="Exergy">Exergy</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Forms_of_energy" title="Forms of energy">Forms</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Kinetic_energy" title="Kinetic energy">Kinetic</a></li>
+<li><a href="/wiki/Potential_energy" title="Potential energy">Potential</a></li>
+<li><a class="mw-selflink selflink">Mechanical</a></li>
+<li><a class="mw-redirect" href="/wiki/Electric_energy" title="Electric energy">Electric</a></li>
+<li><a href="/wiki/Magnetic_energy" title="Magnetic energy">Magnetic</a></li>
+<li><a href="/wiki/Gravitational_energy" title="Gravitational energy">Gravitational</a></li>
+<li><a href="/wiki/Chemical_energy" title="Chemical energy">Chemical</a></li>
+<li><a href="/wiki/Ionization_energy" title="Ionization energy">Ionization</a></li>
+<li><a href="/wiki/Nuclear_binding_energy" title="Nuclear binding energy">Nuclear</a></li>
+<li><a class="mw-redirect" href="/wiki/Chromodynamic_energy" title="Chromodynamic energy">Chromodynamic</a></li>
+<li><a href="/wiki/Elastic_energy" title="Elastic energy">Elastic</a></li>
+<li><a href="/wiki/Mechanical_wave" title="Mechanical wave">Mechanical wave</a></li>
+<li><a class="mw-redirect" href="/wiki/Sound_wave" title="Sound wave">Sound wave</a></li>
+<li><a href="/wiki/Radiant_energy" title="Radiant energy">Radiant</a></li>
+<li><a class="mw-redirect" href="/wiki/Rest_energy" title="Rest energy">Rest</a></li>
+<li><a href="/wiki/Thermal_energy" title="Thermal energy">Thermal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Energy_carrier" title="Energy carrier">Energy carriers</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Enthalpy" title="Enthalpy">Enthalpy</a></li>
+<li><a href="/wiki/Fuel" title="Fuel">Fuel</a>
+<ul>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">fossil fuel</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Heat" title="Heat">Heat</a></li>
+<li><a href="/wiki/Work_(physics)" title="Work (physics)">Work</a></li>
+<li><a href="/wiki/Electricity" title="Electricity">Electricity</a></li>
+<li><a href="/wiki/Battery_(electricity)" title="Battery (electricity)">Battery</a></li>
+<li><a href="/wiki/Capacitor" title="Capacitor">Capacitor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Primary_energy" title="Primary energy">Primary energy</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Fossil_fuel" title="Fossil fuel">Fossil fuel</a>
+<ul>
+<li><a href="/wiki/Coal" title="Coal">Coal</a></li>
+<li><a href="/wiki/Petroleum" title="Petroleum">Petroleum</a></li>
+<li><a href="/wiki/Natural_gas" title="Natural gas">Natural gas</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Gravitational_energy" title="Gravitational energy">Gravitational energy</a></li>
+<li><a href="/wiki/Nuclear_fuel" title="Nuclear fuel">Nuclear fuel</a>
+<ul>
+<li><a href="/wiki/Natural_uranium" title="Natural uranium">Natural uranium</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Radiant_energy" title="Radiant energy">Radiant energy</a></li>
+<li><a href="/wiki/Solar_energy" title="Solar energy">Solar</a></li>
+<li><a class="mw-redirect" href="/wiki/Wind_energy" title="Wind energy">Wind</a></li>
+<li><a href="/wiki/Bioenergy" title="Bioenergy">Bioenergy</a></li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine energy</a></li>
+<li><a href="/wiki/Geothermal_energy" title="Geothermal energy">Geothermal</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Energy_system" title="Energy system">Energy system</a><br/>
+components</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_engineering" title="Energy engineering">Energy engineering</a></li>
+<li><a href="/wiki/Oil_refinery" title="Oil refinery">Oil refinery</a></li>
+<li><a class="mw-redirect" href="/wiki/Fossil-fuel_power_station" title="Fossil-fuel power station">Fossil-fuel power station</a>
+<ul>
+<li><a href="/wiki/Cogeneration" title="Cogeneration">Cogeneration</a></li>
+<li><a href="/wiki/Integrated_gasification_combined_cycle" title="Integrated gasification combined cycle">Integrated gasification combined cycle</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Nuclear_power" title="Nuclear power">Nuclear power</a>
+<ul>
+<li><a href="/wiki/Nuclear_power_plant" title="Nuclear power plant">Nuclear power plant</a></li>
+<li><a href="/wiki/Radioisotope_thermoelectric_generator" title="Radioisotope thermoelectric generator">Radioisotope thermoelectric generator</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_power" title="Solar power">Solar power</a>
+<ul>
+<li><a href="/wiki/Photovoltaic_system" title="Photovoltaic system">Photovoltaic system</a></li>
+<li><a href="/wiki/Concentrated_solar_power" title="Concentrated solar power">Concentrated solar power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Solar_thermal_energy" title="Solar thermal energy">Solar thermal energy</a>
+<ul>
+<li><a href="/wiki/Solar_power_tower" title="Solar power tower">Solar power tower</a></li>
+<li><a href="/wiki/Solar_furnace" title="Solar furnace">Solar furnace</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wind_power" title="Wind power">Wind power</a>
+<ul>
+<li><a href="/wiki/Wind_farm" title="Wind farm">Wind farm</a></li>
+<li><a href="/wiki/High-altitude_wind_power" title="High-altitude wind power">High-altitude wind power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hydropower" title="Hydropower">Hydropower</a>
+<ul>
+<li><a href="/wiki/Hydroelectricity" title="Hydroelectricity">Hydroelectricity</a></li>
+<li><a href="/wiki/Wave_farm" title="Wave farm">Wave farm</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Biomass" title="Biomass">Biomass</a></li>
+<li><a href="/wiki/Geothermal_power" title="Geothermal power">Geothermal power</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Use and<br/>
+<a href="/wiki/Energy_supply" title="Energy supply">supply</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Energy_consumption" title="Energy consumption">Energy consumption</a>
+<ul>
+<li><a href="/wiki/World_energy_consumption" title="World energy consumption">World energy consumption</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Energy_security" title="Energy security">Energy security</a></li>
+<li><a href="/wiki/Energy_conservation" title="Energy conservation">Energy conservation</a></li>
+<li><a href="/wiki/Efficient_energy_use" title="Efficient energy use">Efficient energy use</a>
+<ul>
+<li><a href="/wiki/Energy_efficiency_in_transport" title="Energy efficiency in transport">Transport</a></li>
+<li><a href="/wiki/Energy_efficiency_in_agriculture" title="Energy efficiency in agriculture">Agriculture</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Renewable_energy" title="Renewable energy">Renewable energy</a></li>
+<li><a href="/wiki/Sustainable_energy" title="Sustainable energy">Sustainable energy</a></li>
+<li><a href="/wiki/Energy_policy" title="Energy policy">Energy policy</a>
+<ul>
+<li><a href="/wiki/Energy_development" title="Energy development">Energy development</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Worldwide_energy_supply" title="Worldwide energy supply">Worldwide energy supply</a></li>
+<li><a href="/wiki/Energy_in_South_America" title="Energy in South America">South America</a></li>
+<li><a href="/wiki/Energy_in_the_United_States" title="Energy in the United States">USA</a></li>
+<li><a href="/wiki/Energy_in_Mexico" title="Energy in Mexico">Mexico</a></li>
+<li><a class="mw-redirect" href="/wiki/Energy_in_Canada" title="Energy in Canada">Canada</a></li>
+<li><a href="/wiki/Energy_in_Europe" title="Energy in Europe">Europe</a></li>
+<li><a href="/wiki/Energy_in_Asia" title="Energy in Asia">Asia</a></li>
+<li><a href="/wiki/Energy_in_Africa" title="Energy in Africa">Africa</a></li>
+<li><a href="/wiki/Energy_in_Australia" title="Energy in Australia">Australia</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Misc.</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Jevons%27s_paradox" title="Jevons's paradox">Jevons's paradox</a></li>
+<li><a href="/wiki/Carbon_footprint" title="Carbon footprint">Carbon footprint</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1189
+Cached time: 20171004075350
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.312 seconds
+Real time usage: 0.978 seconds
+Preprocessor visited node count: 1620/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 73627/2097152 bytes
+Template argument size: 202/2097152 bytes
+Highest expansion depth: 7/40
+Expensive parser function count: 0/500
+Lua time usage: 0.142/10.000 seconds
+Lua memory usage: 3.31 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  749.558      1 -total
+ 48.59%  364.219      3 Template:Main
+ 26.08%  195.488      2 Template:Reflist
+ 22.13%  165.897      1 Template:Footer_energy
+ 21.88%  163.997      1 Template:Navbox
+ 13.37%  100.198     20 Template:Cite_encyclopedia
+  4.89%   36.690     11 Template:Cite_web
+  1.67%   12.519      3 Template:Cite_book
+  1.43%   10.755      5 Template:Harvnb
+  0.36%    2.693      2 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:859234-0!canonical!math=5 and timestamp 20171004075350 and revision id 803730405
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Mechanical_energy&amp;oldid=803730405">https://en.wikipedia.org/w/index.php?title=Mechanical_energy&amp;oldid=803730405</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Energy_(physics)" title="Category:Energy (physics)">Energy (physics)</a></li><li><a href="/wiki/Category:Mechanics" title="Category:Mechanics">Mechanics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Pages_using_citations_with_accessdate_and_no_URL" title="Category:Pages using citations with accessdate and no URL">Pages using citations with accessdate and no URL</a></li><li><a href="/wiki/Category:CS1_maint:_Uses_editors_parameter" title="Category:CS1 maint: Uses editors parameter">CS1 maint: Uses editors parameter</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Mechanical+energy" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Mechanical+energy" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Mechanical_energy" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Mechanical_energy" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Mechanical_energy">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Mechanical_energy&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Mechanical_energy&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Mechanical_energy" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Mechanical_energy" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Mechanical_energy&amp;oldid=803730405" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Mechanical_energy&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q184550" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Mechanical_energy&amp;id=803730405" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Mechanical+energy">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Mechanical+energy&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DMechanical%2Benergy%26returnto%3DMechanical%2Benergy%26oldid%3D803730405%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Mechanical_energy&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B7%D8%A7%D9%82%D8%A9_%D9%85%D9%8A%D9%83%D8%A7%D9%86%D9%8A%D9%83%D9%8A%D8%A9" hreflang="ar" lang="ar" title="طاقة ميكانيكية – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D1%96%D1%87%D0%BD%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D1%96%D1%8F" hreflang="be" lang="be" title="Механічная энергія – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%BD%D0%B0_%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F" hreflang="bg" lang="bg" title="Механична енергия – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Mehani%C4%8Dka_energija" hreflang="bs" lang="bs" title="Mehanička energija – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Energia_mec%C3%A0nica" hreflang="ca" lang="ca" title="Energia mecànica – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Mechanick%C3%A1_energie" hreflang="cs" lang="cs" title="Mechanická energie – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Mekanisk_energi" hreflang="da" lang="da" title="Mekanisk energi – Danish">Dansk</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Mehaaniline_energia" hreflang="et" lang="et" title="Mehaaniline energia – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9C%CE%B7%CF%87%CE%B1%CE%BD%CE%B9%CE%BA%CE%AE_%CE%B5%CE%BD%CE%AD%CF%81%CE%B3%CE%B5%CE%B9%CE%B1" hreflang="el" lang="el" title="Μηχανική ενέργεια – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Energ%C3%ADa_mec%C3%A1nica" hreflang="es" lang="es" title="Energía mecánica – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Energia_mekaniko" hreflang="eu" lang="eu" title="Energia mekaniko – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%A7%D9%86%D8%B1%DA%98%DB%8C_%D9%85%DA%A9%D8%A7%D9%86%DB%8C%DA%A9%DB%8C" hreflang="fa" lang="fa" title="انرژی مکانیکی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89nergie_m%C3%A9canique" hreflang="fr" lang="fr" title="Énergie mécanique – French">Français</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Enerx%C3%ADa_mec%C3%A1nica" hreflang="gl" lang="gl" title="Enerxía mecánica – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%AD%ED%95%99%EC%A0%81_%EC%97%90%EB%84%88%EC%A7%80" hreflang="ko" lang="ko" title="역학적 에너지 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%84%D5%A5%D5%AD%D5%A1%D5%B6%D5%AB%D5%AF%D5%A1%D5%AF%D5%A1%D5%B6_%D5%A7%D5%B6%D5%A5%D6%80%D5%A3%D5%AB%D5%A1" hreflang="hy" lang="hy" title="Մեխանիկական էներգիա – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%82%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95_%E0%A4%8A%E0%A4%B0%E0%A5%8D%E0%A4%9C%E0%A4%BE" hreflang="hi" lang="hi" title="यांत्रिक ऊर्जा – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Mehani%C4%8Dka_energija" hreflang="hr" lang="hr" title="Mehanička energija – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Energi_mekanis" hreflang="id" lang="id" title="Energi mekanis – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Energia_meccanica" hreflang="it" lang="it" title="Energia meccanica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%90%D7%A0%D7%A8%D7%92%D7%99%D7%94_%D7%9E%D7%9B%D7%A0%D7%99%D7%AA" hreflang="he" lang="he" title="אנרגיה מכנית – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D0%BA%D0%B0%D0%BB%D1%8B%D2%9B_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F" hreflang="kk" lang="kk" title="Механикалық энергия – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Makanika" hreflang="sw" lang="sw" title="Makanika – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-ht"><a class="interlanguage-link-target" href="https://ht.wikipedia.org/wiki/En%C3%A8ji_mekanik" hreflang="ht" lang="ht" title="Enèji mekanik – Haitian Creole">Kreyòl ayisyen</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Meh%C4%81nisk%C4%81_ener%C4%A3ija" hreflang="lv" lang="lv" title="Mehāniskā enerģija – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Mechanin%C4%97_energija" hreflang="lt" lang="lt" title="Mechaninė energija – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Mechanische_energie" hreflang="nl" lang="nl" title="Mechanische energie – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ne"><a class="interlanguage-link-target" href="https://ne.wikipedia.org/wiki/%E0%A4%AF%E0%A4%BE%E0%A4%A8%E0%A5%8D%E0%A4%A4%E0%A5%8D%E0%A4%B0%E0%A4%BF%E0%A4%95_%E0%A4%B6%E0%A4%95%E0%A5%8D%E0%A4%A4%E0%A4%BF" hreflang="ne" lang="ne" title="यान्त्रिक शक्ति – Nepali">नेपाली</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E5%8A%9B%E5%AD%A6%E7%9A%84%E3%82%A8%E3%83%8D%E3%83%AB%E3%82%AE%E3%83%BC" hreflang="ja" lang="ja" title="力学的エネルギー – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Mekanisk_energi" hreflang="no" lang="no" title="Mekanisk energi – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Mekanisk_energi" hreflang="nn" lang="nn" title="Mekanisk energi – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Energia_mechaniczna" hreflang="pl" lang="pl" title="Energia mechaniczna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Energia_mec%C3%A2nica" hreflang="pt" lang="pt" title="Energia mecânica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Energie_mecanic%C4%83" hreflang="ro" lang="ro" title="Energie mecanică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B0%D1%8F_%D1%8D%D0%BD%D0%B5%D1%80%D0%B3%D0%B8%D1%8F" hreflang="ru" lang="ru" title="Механическая энергия – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Mechanical_energy" hreflang="sco" lang="sco" title="Mechanical energy – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Mechanical_energy" hreflang="simple" lang="simple" title="Mechanical energy – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Mechanick%C3%A1_energia" hreflang="sk" lang="sk" title="Mechanická energia – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Mehanska_energija" hreflang="sl" lang="sl" title="Mehanska energija – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Mekaaninen_energia" hreflang="fi" lang="fi" title="Mekaaninen energia – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Mekanisk_energi" hreflang="sv" lang="sv" title="Mekanisk energi – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%AF%E0%B0%BE%E0%B0%82%E0%B0%A4%E0%B1%8D%E0%B0%B0%E0%B0%BF%E0%B0%95_%E0%B0%B6%E0%B0%95%E0%B1%8D%E0%B0%A4%E0%B0%BF" hreflang="te" lang="te" title="యాంత్రిక శక్తి – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%9E%E0%B8%A5%E0%B8%B1%E0%B8%87%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%81%E0%B8%A5" hreflang="th" lang="th" title="พลังงานกล – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Mekanik_enerji" hreflang="tr" lang="tr" title="Mekanik enerji – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9C%D0%B5%D1%85%D0%B0%D0%BD%D1%96%D1%87%D0%BD%D0%B0_%D0%B5%D0%BD%D0%B5%D1%80%D0%B3%D1%96%D1%8F" hreflang="uk" lang="uk" title="Механічна енергія – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/C%C6%A1_n%C4%83ng" hreflang="vi" lang="vi" title="Cơ năng – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E6%A9%9F%E6%A2%B0%E8%83%BD" hreflang="zh-yue" lang="zh-yue" title="機械能 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%9C%BA%E6%A2%B0%E8%83%BD" hreflang="zh" lang="zh" title="机械能 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q184550#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 4 October 2017, at 07:53.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Mechanical_energy&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.312","walltime":"0.978","ppvisitednodes":{"value":1620,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":73627,"limit":2097152},"templateargumentsize":{"value":202,"limit":2097152},"expansiondepth":{"value":7,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  749.558      1 -total"," 48.59%  364.219      3 Template:Main"," 26.08%  195.488      2 Template:Reflist"," 22.13%  165.897      1 Template:Footer_energy"," 21.88%  163.997      1 Template:Navbox"," 13.37%  100.198     20 Template:Cite_encyclopedia","  4.89%   36.690     11 Template:Cite_web","  1.67%   12.519      3 Template:Cite_book","  1.43%   10.755      5 Template:Harvnb","  0.36%    2.693      2 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.142","limit":"10.000"},"limitreport-memusage":{"value":3467463,"limit":52428800}},"cachereport":{"origin":"mw1189","timestamp":"20171004075350","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":78,"wgHostname":"mw1188"});});</script>
+</body>
+</html>

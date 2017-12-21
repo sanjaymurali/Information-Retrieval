@@ -1,0 +1,590 @@
+https://en.wikipedia.org/wiki/Low_Earth_orbit
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Low Earth orbit - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Low_Earth_orbit","wgTitle":"Low Earth orbit","wgCurRevisionId":799958203,"wgRevisionId":799958203,"wgArticleId":47568,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Webarchive template wayback links","Wikipedia articles incorporating text from NASA","Articles containing video clips","Earth orbits"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Low_Earth_orbit","wgRelevantArticleId":47568,"wgRequestId":"WdAx1QpAMFQAAFbxTRgAAABH","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q663611","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Comparison_satellite_navigation_orbits.svg/1200px-Comparison_satellite_navigation_orbits.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Low_Earth_orbit" rel="alternate"/>
+<link href="/w/index.php?title=Low_Earth_orbit&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Low_Earth_orbit&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Low_Earth_orbit" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Low_Earth_orbit rootpage-Low_Earth_orbit vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Low Earth orbit</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:252px;"><a class="image" href="/wiki/File:Comparison_satellite_navigation_orbits.svg"><img alt="" class="thumbimage" data-file-height="512" data-file-width="512" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Comparison_satellite_navigation_orbits.svg/250px-Comparison_satellite_navigation_orbits.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Comparison_satellite_navigation_orbits.svg/375px-Comparison_satellite_navigation_orbits.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b4/Comparison_satellite_navigation_orbits.svg/500px-Comparison_satellite_navigation_orbits.svg.png 2x" width="250"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Comparison_satellite_navigation_orbits.svg" title="Enlarge"></a></div>
+Comparison of <a class="mw-redirect" href="/wiki/Geostationary_Earth_Orbit" title="Geostationary Earth Orbit">geostationary</a>, <b><a class="mw-redirect" href="/wiki/GPS" title="GPS">GPS</a></b>, <b><a href="/wiki/GLONASS" title="GLONASS">GLONASS</a></b>, <b><a href="/wiki/Galileo_(satellite_navigation)" title="Galileo (satellite navigation)">Galileo</a></b>, <b><a class="mw-redirect" href="/wiki/Compass_navigation_system" title="Compass navigation system">Compass (MEO)</a></b>, <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a>, <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">Hubble Space Telescope</a> and <a class="mw-redirect" href="/wiki/Iridium_constellation" title="Iridium constellation">Iridium constellation</a> orbits, with the <a href="/wiki/Van_Allen_radiation_belt" title="Van Allen radiation belt">Van Allen radiation belts</a> and the <a href="/wiki/Earth" title="Earth">Earth</a> to scale.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[a]</a></sup> The <a href="/wiki/Moon" title="Moon">Moon</a>'s orbit is around 9 times larger than geostationary orbit.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[b]</a></sup> (In <a class="external text" href="http://upload.wikimedia.org/wikipedia/commons/b/b4/Comparison_satellite_navigation_orbits.svg">the SVG file,</a> hover over an orbit or its label to highlight it; click to load its article.)</div>
+</div>
+</div>
+<p>A <b>low Earth orbit</b> (<b>LEO</b>) is an <a href="/wiki/Orbit" title="Orbit">orbit</a> around <a href="/wiki/Earth" title="Earth">Earth</a> with an altitude of 2,000 kilometers (1,200 mi) or less, and an <a href="/wiki/Orbital_period" title="Orbital period">orbital period</a> of between about 84 and 127 minutes. Objects below approximately 160 kilometers (99 mi) will experience very rapid <a href="/wiki/Orbital_decay" title="Orbital decay">orbital decay</a> and altitude loss due to atmospheric drag.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[1]</a></sup><sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[2]</a></sup></p>
+<p>With the exception of the <a href="/wiki/List_of_Apollo_astronauts#Apollo_astronauts_who_flew_to_the_Moon_without_landing" title="List of Apollo astronauts">24 astronauts</a> who flew lunar flights in the <a href="/wiki/Apollo_program" title="Apollo program">Apollo program</a> during the four-year period spanning 1968 through 1972, all <a href="/wiki/Human_spaceflight" title="Human spaceflight">human spaceflights</a> have taken place in LEO or below. The <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a> conducts operations in LEO. The altitude record for a human spaceflight in LEO was <a href="/wiki/Gemini_11" title="Gemini 11">Gemini 11</a> with an <a href="/wiki/Apsis" title="Apsis">apogee</a> of 1,374.1 kilometers (853.8 mi). All crewed <a href="/wiki/Space_station" title="Space station">space stations</a> to date, as well as the majority of <a href="/wiki/Satellite" title="Satellite">satellites</a>, have been in LEO.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Orbital_characteristics"><span class="tocnumber">1</span> <span class="toctext">Orbital characteristics</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Use_of_LEO"><span class="tocnumber">2</span> <span class="toctext">Use of LEO</span></a>
+<ul>
+<li class="toclevel-2 tocsection-3"><a href="#Examples"><span class="tocnumber">2.1</span> <span class="toctext">Examples</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Space_debris"><span class="tocnumber">3</span> <span class="toctext">Space debris</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">4</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#Notes"><span class="tocnumber">5</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Orbital_characteristics">Orbital characteristics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low_Earth_orbit&amp;action=edit&amp;section=1" title="Edit section: Orbital characteristics">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Objects in LEO encounter atmospheric drag from <a class="mw-redirect" href="/wiki/Gases" title="Gases">gases</a> in the <a href="/wiki/Thermosphere" title="Thermosphere">thermosphere</a> (approximately 80–500 km up) or <a href="/wiki/Exosphere" title="Exosphere">exosphere</a> (approximately 500 km and up), depending on orbit height. Due to atmospheric drag, satellites do not usually orbit below 300 km. Objects in LEO, orbit Earth between the denser part of the atmosphere and below the inner <a href="/wiki/Van_Allen_radiation_belt" title="Van Allen radiation belt">Van Allen radiation belt</a>.</p>
+<p><a href="/wiki/Gravity_Field_and_Steady-State_Ocean_Circulation_Explorer" title="Gravity Field and Steady-State Ocean Circulation Explorer">GOCE</a> orbited at about 255 km and had an aerodynamic shape and ion thrusters to reduce and compensate for atmospheric drag.</p>
+<p>The mean orbital velocity needed to maintain a stable low Earth orbit is about 7.8 km/s, but reduces with increased orbital altitude. Calculated for circular orbit of 200 km it is 7.79 km/s and for 1500 km it is 7.12 km/s.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[3]</a></sup> The <a href="/wiki/Delta-v" title="Delta-v">delta-v</a> needed to achieve low Earth orbit starts around 9.4 km/s. <a class="mw-redirect" href="/wiki/Atmospheric_drag" title="Atmospheric drag">Atmospheric</a> and <a href="/wiki/Gravity_drag" title="Gravity drag">gravity drag</a> associated with launch typically adds 1.3–1.8 km/s to the launch vehicle <a href="/wiki/Delta-v" title="Delta-v">delta-v</a> required to reach normal LEO orbital velocity of around 7.8 km/s (28,080 km/h).<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[4]</a></sup></p>
+<div class="center">
+<div class="floatnone"><a class="image" href="/wiki/File:Orbitalaltitudes.jpg"><img alt="Orbitalaltitudes.jpg" data-file-height="1656" data-file-width="4500" height="258" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Orbitalaltitudes.jpg/700px-Orbitalaltitudes.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/82/Orbitalaltitudes.jpg/1050px-Orbitalaltitudes.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/82/Orbitalaltitudes.jpg/1400px-Orbitalaltitudes.jpg 2x" width="700"/></a></div>
+</div>
+<p>Equatorial low Earth orbits (ELEO) are a subset of LEO. These orbits, with low inclination to the Equator, allow rapid revisit times and have the lowest <a href="/wiki/Delta-v" title="Delta-v">delta-v</a> requirement (i.e., fuel spend) of any orbit. Orbits with a high inclination angle to the equator are usually called <a href="/wiki/Polar_orbit" title="Polar orbit">polar orbits</a>.</p>
+<p>Higher orbits include <a href="/wiki/Medium_Earth_orbit" title="Medium Earth orbit">medium Earth orbit</a> (MEO), sometimes called intermediate circular orbit (ICO), and further above, <a href="/wiki/Geostationary_orbit" title="Geostationary orbit">geostationary orbit</a> (GEO). Orbits higher than low orbit can lead to early failure of electronic components due to intense <a href="/wiki/Radiation" title="Radiation">radiation</a> and charge accumulation.</p>
+<h2><span class="mw-headline" id="Use_of_LEO">Use of LEO</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low_Earth_orbit&amp;action=edit&amp;section=2" title="Edit section: Use of LEO">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;">
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:220px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sunrise_To_Sunset_Aboard_The_ISS.ogv/854px--Sunrise_To_Sunset_Aboard_The_ISS.ogv.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="76" data-startoffset="0" data-mwtitle="Sunrise_To_Sunset_Aboard_The_ISS.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/Sunrise_To_Sunset_Aboard_The_ISS.ogv/Sunrise_To_Sunset_Aboard_The_ISS.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="1006688" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/Sunrise_To_Sunset_Aboard_The_ISS.ogv/Sunrise_To_Sunset_Aboard_The_ISS.ogv.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="720" data-bandwidth="2077064" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/4/4c/Sunrise_To_Sunset_Aboard_The_ISS.ogv" type="video/ogg; codecs=&amp;quot;theora&amp;quot;" data-title="Original Ogg file, 1,280 × 720 (6.41 Mbps)" data-shorttitle="Ogg source" data-width="1280" data-height="720" data-bandwidth="6410353" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/Sunrise_To_Sunset_Aboard_The_ISS.ogv/Sunrise_To_Sunset_Aboard_The_ISS.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="128168" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/Sunrise_To_Sunset_Aboard_The_ISS.ogv/Sunrise_To_Sunset_Aboard_The_ISS.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="251352" data-framerate="25"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/4c/Sunrise_To_Sunset_Aboard_The_ISS.ogv/Sunrise_To_Sunset_Aboard_The_ISS.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="504888" data-framerate="25"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:Sunrise To Sunset Aboard The ISS.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Sunrise_To_Sunset_Aboard_The_ISS.ogv/220px--Sunrise_To_Sunset_Aboard_The_ISS.ogv.jpg" style="width:220px;height:124px"/><a href="//upload.wikimedia.org/wikipedia/commons/4/4c/Sunrise_To_Sunset_Aboard_The_ISS.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Sunrise_To_Sunset_Aboard_The_ISS.ogv" title="Enlarge"></a></div>
+Roughly half an orbit of the <a href="/wiki/International_Space_Station" title="International Space Station">ISS</a>.</div>
+</div>
+</div>
+<p>Although the Earth's pull due to <a href="/wiki/Gravity" title="Gravity">gravity</a> in LEO is not much less than on the surface of the Earth, people and objects in orbit experience <a href="/wiki/Weightlessness" title="Weightlessness">weightlessness</a> because they are in free fall.</p>
+<p>A low Earth orbit is simplest and cheapest for satellite placement. It provides high bandwidth and low communication time lag (<a href="/wiki/Latency_(engineering)" title="Latency (engineering)">latency</a>), but satellites in LEO will not be visible from any given point on the Earth at all times.<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[5]</a></sup></p>
+<h3><span class="mw-headline" id="Examples">Examples</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low_Earth_orbit&amp;action=edit&amp;section=3" title="Edit section: Examples">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<ul>
+<li><a href="/wiki/Earth_observation_satellite" title="Earth observation satellite">Earth observation satellites</a> and <a class="mw-redirect" href="/wiki/Spy_satellite" title="Spy satellite">spy satellites</a> use LEO as they are able to see the surface of the Earth more clearly as they are not so far away. They are also able to traverse the surface of the Earth. A majority of artificial <a href="/wiki/Satellite" title="Satellite">satellites</a> are placed in LEO,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[6]</a></sup> making one complete revolution around the <a href="/wiki/Earth" title="Earth">Earth</a> in about 90 minutes.</li>
+<li>The <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a> is in a LEO about 400 km (250 mi) above Earth's surface.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[7]</a></sup> and needs reboosting a few times a year due to orbital decay.</li>
+<li>Since it requires less energy to place a satellite into a LEO and the LEO satellite needs less powerful amplifiers for successful transmission, LEO is used for many communication applications. Because these LEO orbits are not geostationary, a network (or "<a href="/wiki/Satellite_constellation" title="Satellite constellation">constellation</a>") of satellites is required to provide continuous coverage. (Many <a class="mw-redirect" href="/wiki/Communication_satellite" title="Communication satellite">communication satellites</a> require <a href="/wiki/Geostationary_orbit" title="Geostationary orbit">geostationary orbits</a>, and move at the same angular velocity as the Earth. Some communications satellites including the <a href="/wiki/Iridium_Communications" title="Iridium Communications">Iridium phone system</a> use LEO.)</li>
+<li>Lower orbits also aid <a href="/wiki/Remote_sensing" title="Remote sensing">remote sensing</a> satellites because of the added detail that can be gained. Remote sensing satellites can also take advantage of <a href="/wiki/Sun-synchronous_orbit" title="Sun-synchronous orbit">sun-synchronous LEO orbits</a> at an altitude of about 800 km (500 mi) and near polar inclination. <a href="/wiki/Envisat" title="Envisat">Envisat</a> is one example of an Earth observation satellite that makes use of this particular type of LEO.</li>
+<li><a href="/wiki/Gravity_Field_and_Steady-State_Ocean_Circulation_Explorer" title="Gravity Field and Steady-State Ocean Circulation Explorer">GOCE</a> orbited at about 255 km (158 mi) to measure Earth's gravity field.</li>
+<li>The <a href="/wiki/Hubble_Space_Telescope" title="Hubble Space Telescope">Hubble Space Telescope</a> orbits at about 540 km (340 mi) above Earth.</li>
+</ul>
+<h2><span class="mw-headline" id="Space_debris">Space debris</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low_Earth_orbit&amp;action=edit&amp;section=4" title="Edit section: Space debris">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The LEO environment is becoming congested with <a href="/wiki/Space_debris" title="Space debris">space debris</a> due to the frequency of object launches. This has caused growing concern in recent years, since collisions at orbital velocities can easily be dangerous, and even deadly. Collisions can produce even more space debris in the process, creating a <a href="/wiki/Domino_effect" title="Domino effect">domino effect</a>, something known as <a class="mw-redirect" href="/wiki/Kessler_Syndrome" title="Kessler Syndrome">Kessler Syndrome</a>. The <a href="/wiki/Joint_Space_Operations_Center" title="Joint Space Operations Center">Joint Space Operations Center</a>, part of <a href="/wiki/United_States_Strategic_Command" title="United States Strategic Command">United States Strategic Command</a> (formerly the United States Space Command), currently tracks more than 8,500 objects larger than 10 cm in LEO.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[8]</a></sup> However, a limited <a href="/wiki/Arecibo_Observatory" title="Arecibo Observatory">Arecibo Observatory</a> study suggested there could be approximately one million objects larger than 2 millimeters,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[9]</a></sup> which are too small to be visible from Earth-based observatories.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[10]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low_Earth_orbit&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div aria-label="Portals" class="noprint portal plainlist tright" role="navigation" style="margin:0.5em 0 0.5em 1em;border:solid #aaa 1px">
+<ul style="display:table;box-sizing:border-box;padding:0.1em;max-width:175px;background:#f9f9f9;font-size:85%;line-height:110%;font-style:italic;font-weight:bold">
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="128" data-file-width="128" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/28px-RocketSunIcon.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/42px-RocketSunIcon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d6/RocketSunIcon.svg/56px-RocketSunIcon.svg.png 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Spaceflight" title="Portal:Spaceflight">Spaceflight portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="3864" data-file-width="3864" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/28px-Crab_Nebula.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/42px-Crab_Nebula.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Crab_Nebula.jpg/56px-Crab_Nebula.jpg 2x" width="28"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Astronomy" title="Portal:Astronomy">Astronomy portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="5600" data-file-width="4500" height="28" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/22px-Solar_system.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/34px-Solar_system.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/83/Solar_system.jpg/45px-Solar_system.jpg 2x" width="22"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Solar_System" title="Portal:Solar System">Solar System portal</a></span></li>
+<li style="display:table-row"><span style="display:table-cell;padding:0.2em;vertical-align:middle;text-align:center"><img alt="" class="noviewer" data-file-height="2400" data-file-width="3000" height="26" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/32px-Earth-moon.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/48px-Earth-moon.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Earth-moon.jpg/64px-Earth-moon.jpg 2x" width="32"/></span><span style="display:table-cell;padding:0.2em 0.2em 0.2em 0.3em;vertical-align:middle"><a href="/wiki/Portal:Space" title="Portal:Space">Space portal</a></span></li>
+</ul>
+</div>
+<ul>
+<li><a href="/wiki/Van_Allen_radiation_belt" title="Van Allen radiation belt">Van Allen radiation belt</a></li>
+<li><a href="/wiki/List_of_orbits" title="List of orbits">List of orbits</a></li>
+<li><a href="/wiki/Medium_Earth_orbit" title="Medium Earth orbit">Medium Earth orbit</a> (MEO)</li>
+<li><a href="/wiki/High_Earth_orbit" title="High Earth orbit">High Earth orbit</a> (HEO)</li>
+<li><a href="/wiki/Highly_elliptical_orbit" title="Highly elliptical orbit">Highly elliptical orbit</a> (HEO)</li>
+<li><a class="mw-redirect" href="/wiki/Geostationary" title="Geostationary">Geostationary</a> orbit (GEO)</li>
+<li><a href="/wiki/Specific_orbital_energy#Examples" title="Specific orbital energy">Specific orbital energy examples</a></li>
+<li><a class="mw-redirect" href="/wiki/Suborbital_spaceflight" title="Suborbital spaceflight">Suborbital spaceflight</a></li>
+<li><a class="mw-redirect" href="/wiki/Heavy_lift_launch_vehicle" title="Heavy lift launch vehicle">Heavy lift launch vehicle</a></li>
+<li><a href="/wiki/Medium-lift_launch_vehicle" title="Medium-lift launch vehicle">Medium-lift launch vehicle</a></li>
+<li><a href="/wiki/Comparison_of_orbital_launch_systems" title="Comparison of orbital launch systems">Comparison of orbital launch systems</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low_Earth_orbit&amp;action=edit&amp;section=6" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: lower-alpha;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">Orbital periods and speeds are calculated using the relations 4π²<i>R</i>³ = <i>T</i>²<i>GM</i> and <i>V</i>²<i>R</i> = <i>GM</i>, where <i>R</i> = radius of orbit in metres, <i>T</i> = orbital period in seconds, <i>V</i> = orbital speed in m/s, <i>G</i> = gravitational constant ≈ 6.673<span style="margin:0 .15em 0 .25em">×</span>10<sup>−<span style="white-space:nowrap">11</span></sup> Nm²/kg², <i>M</i> = mass of Earth ≈ 5.98<span style="margin:0 .15em 0 .25em">×</span>10<sup><span style="white-space:nowrap">24</span></sup> kg.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">Approximately 8.6 times (in radius and length) when the moon is nearest (363 104 km ÷ 42 164 km) to 9.6 times when the moon is farthest (405 696 km ÷ 42 164 km).</span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Low_Earth_orbit&amp;action=edit&amp;section=7" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.iadc-online.org/Documents/IADC-2002-01,%20IADC%20Space%20Debris%20Guidelines,%20Revision%201.pdf" rel="nofollow">"IADC Space Debris Mitigation Guidelines"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Inter-Agency_Space_Debris_Coordination_Committee" title="Inter-Agency Space Debris Coordination Committee">Inter-Agency Space Debris Coordination Committee</a>. 15 October 2002.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow+Earth+orbit&amp;rft.btitle=IADC+Space+Debris+Mitigation+Guidelines&amp;rft.date=2002-10-15&amp;rft.genre=unknown&amp;rft.pub=Inter-Agency+Space+Debris+Coordination+Committee&amp;rft_id=http%3A%2F%2Fwww.iadc-online.org%2FDocuments%2FIADC-2002-01%2C%2520IADC%2520Space%2520Debris%2520Guidelines%2C%2520Revision%25201.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.orbitaldebris.jsc.nasa.gov/library/NSS1740_14/nss1740_14-1995.pdf" rel="nofollow">"NASA Safety Standard 1740.14, Guidelines and Assessment Procedures for Limiting Orbital Debris"</a> <span style="font-size:85%;">(PDF)</span>. Office of Safety and Mission Assurance. 1 August 1995.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow+Earth+orbit&amp;rft.btitle=NASA+Safety+Standard+1740.14%2C+Guidelines+and+Assessment+Procedures+for+Limiting+Orbital+Debris&amp;rft.date=1995-08-01&amp;rft.genre=unknown&amp;rft.pub=Office+of+Safety+and+Mission+Assurance&amp;rft_id=http%3A%2F%2Fwww.orbitaldebris.jsc.nasa.gov%2Flibrary%2FNSS1740_14%2Fnss1740_14-1995.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.spaceacademy.net.au/watch/track/leopars.htm" rel="nofollow">"LEO parameters"</a>. <i>www.spaceacademy.net.au</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-06-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow+Earth+orbit&amp;rft.atitle=LEO+parameters&amp;rft.genre=unknown&amp;rft.jtitle=www.spaceacademy.net.au&amp;rft_id=http%3A%2F%2Fwww.spaceacademy.net.au%2Fwatch%2Ftrack%2Fleopars.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Swinerd, Graham (2008). <i>How Spacecraft Fly</i>. Praxis Publishing. pp. 103–104. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0387765727" title="Special:BookSources/0387765727">0387765727</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow+Earth+orbit&amp;rft.aufirst=Graham&amp;rft.aulast=Swinerd&amp;rft.btitle=How+Spacecraft+Fly&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=0387765727&amp;rft.pages=103-104&amp;rft.pub=Praxis+Publishing&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.harriscaprock.com/blog/high-throughput-satellite-communications-systems-meo-vs-leo-vs-geo/" rel="nofollow">"High Throughput Satellite Communications Systems: MEO vs. LEO vs. GEO | The Link"</a>. <i>www.harriscaprock.com</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow+Earth+orbit&amp;rft.atitle=High+Throughput+Satellite+Communications+Systems%3A+MEO+vs.+LEO+vs.+GEO+%7C+The+Link&amp;rft.genre=unknown&amp;rft.jtitle=www.harriscaprock.com&amp;rft_id=http%3A%2F%2Fwww.harriscaprock.com%2Fblog%2Fhigh-throughput-satellite-communications-systems-meo-vs-leo-vs-geo%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web">Holli, Riebeek, (2009-09-04). <a class="external text" href="http://earthobservatory.nasa.gov/Features/OrbitsCatalog/" rel="nofollow">"NASA Earth Observatory :"</a>. <i>earthobservatory.nasa.gov</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2015-11-28</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow+Earth+orbit&amp;rft.atitle=NASA+Earth+Observatory+%3A&amp;rft.aufirst=Riebeek%2C&amp;rft.aulast=Holli&amp;rft.date=2009-09-04&amp;rft.genre=unknown&amp;rft.jtitle=earthobservatory.nasa.gov&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FFeatures%2FOrbitsCatalog%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.nasa.gov/mission_pages/station/expeditions/expedition26/iss_altitude.html" rel="nofollow">"Higher Altitude Improves Station's Fuel Economy"</a>. NASA<span class="reference-accessdate">. Retrieved <span class="nowrap">2013-02-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ALow+Earth+orbit&amp;rft.btitle=Higher+Altitude+Improves+Station%27s+Fuel+Economy&amp;rft.genre=unknown&amp;rft.pub=NASA&amp;rft_id=http%3A%2F%2Fwww.nasa.gov%2Fmission_pages%2Fstation%2Fexpeditions%2Fexpedition26%2Fiss_altitude.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.vandenberg.af.mil/library/factsheets/factsheet.asp?id=12579" rel="nofollow">Fact Sheet: Joint Space Operations Center</a> <a class="external text" href="https://web.archive.org/web/20100203082814/http://www.vandenberg.af.mil/library/factsheets/factsheet.asp?id=12579" rel="nofollow">Archived</a> 2010-02-03 at the <a href="/wiki/Wayback_Machine" title="Wayback Machine">Wayback Machine</a>.</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.astronomycafe.net/qadir/q1697.html" rel="nofollow">archive of astronomy: space junk</a></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://eugen.leitl.org/tt/msg04534.html" rel="nofollow">ISS laser broom, project Orion</a></span></li>
+</ol>
+</div>
+<p><img alt="" data-file-height="196" data-file-width="196" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" width="12"/> This article incorporates <a class="external text" href="http://www.jsc.nasa.gov/policies.html#Guidelines" rel="nofollow">public domain material</a> from websites or documents of the <a href="/wiki/NASA" title="NASA">National Aeronautics and Space Administration</a>.</p>
+<div aria-labelledby="Gravitational_orbits" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Orbits" title="Template:Orbits"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Orbits" title="Template talk:Orbits"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Orbits&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Gravitational_orbits" style="font-size:114%;margin:0 4em">Gravitational <a href="/wiki/Orbit" title="Orbit">orbits</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbit" title="Orbit">Types</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Box_orbit" title="Box orbit">Box</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Capture</a></li>
+<li><a href="/wiki/Circular_orbit" title="Circular orbit">Circular</a></li>
+<li><a href="/wiki/Elliptic_orbit" title="Elliptic orbit">Elliptical</a> / <a href="/wiki/Highly_elliptical_orbit" title="Highly elliptical orbit">Highly elliptical</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Escape</a></li>
+<li><a href="/wiki/Graveyard_orbit" title="Graveyard orbit">Graveyard</a></li>
+<li><a href="/wiki/Hyperbolic_trajectory" title="Hyperbolic trajectory">Hyperbolic trajectory</a></li>
+<li><a href="/wiki/Inclined_orbit" title="Inclined orbit">Inclined</a> / <a href="/wiki/Non-inclined_orbit" title="Non-inclined orbit">Non-inclined</a></li>
+<li><a href="/wiki/Osculating_orbit" title="Osculating orbit">Osculating</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Parabolic trajectory</a></li>
+<li><a href="/wiki/Parking_orbit" title="Parking orbit">Parking</a></li>
+<li><a href="/wiki/Synchronous_orbit" title="Synchronous orbit">Synchronous</a>
+<ul>
+<li><a href="/wiki/Semi-synchronous_orbit" title="Semi-synchronous orbit">semi</a></li>
+<li><a href="/wiki/Subsynchronous_orbit" title="Subsynchronous orbit">sub</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">Transfer orbit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Geocentric_orbit" title="Geocentric orbit">Geocentric</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geosynchronous_orbit" title="Geosynchronous orbit">Geosynchronous</a></li>
+<li><a href="/wiki/Geostationary_orbit" title="Geostationary orbit">Geostationary</a></li>
+<li><a href="/wiki/Sun-synchronous_orbit" title="Sun-synchronous orbit">Sun-synchronous</a></li>
+<li><a class="mw-selflink selflink">Low Earth</a></li>
+<li><a href="/wiki/Medium_Earth_orbit" title="Medium Earth orbit">Medium Earth</a></li>
+<li><a href="/wiki/High_Earth_orbit" title="High Earth orbit">High Earth</a></li>
+<li><a href="/wiki/Molniya_orbit" title="Molniya orbit">Molniya</a></li>
+<li><a class="mw-redirect" href="/wiki/Near_equatorial_orbit" title="Near equatorial orbit">Near-equatorial</a></li>
+<li><a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">Orbit of the Moon</a></li>
+<li><a href="/wiki/Polar_orbit" title="Polar orbit">Polar</a></li>
+<li><a href="/wiki/Tundra_orbit" title="Tundra orbit">Tundra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">About other points</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Areosynchronous_orbit" title="Areosynchronous orbit">Areosynchronous</a></li>
+<li><a href="/wiki/Areostationary_orbit" title="Areostationary orbit">Areostationary</a></li>
+<li><a href="/wiki/Halo_orbit" title="Halo orbit">Halo</a></li>
+<li><a href="/wiki/Lissajous_orbit" title="Lissajous orbit">Lissajous</a></li>
+<li><a href="/wiki/Lunar_orbit" title="Lunar orbit">Lunar</a></li>
+<li><a href="/wiki/Heliocentric_orbit" title="Heliocentric orbit">Heliocentric</a></li>
+<li><a class="mw-redirect" href="/wiki/Heliosynchronous_orbit" title="Heliosynchronous orbit">Heliosynchronous</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_elements" title="Orbital elements">Parameters</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">
+<div class="hlist hlist-separated">
+<ul>
+<li>Shape</li>
+<li>Size</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">e</span>  <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">Eccentricity</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">a</span>  <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">Semi-major axis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">b</span>  <a class="mw-redirect" href="/wiki/Semi-minor_axis" title="Semi-minor axis">Semi-minor axis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">Q</span>, <span class="texhtml mvar" style="font-style:italic;">q</span>  <a href="/wiki/Apsis" title="Apsis">Apsides</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Orientation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">i</span>  <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">Inclination</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">Ω</span>  <a href="/wiki/Longitude_of_the_ascending_node" title="Longitude of the ascending node">Longitude of the ascending node</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ω</span>  <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">Argument of periapsis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ϖ</span>  <a href="/wiki/Longitude_of_the_periapsis" title="Longitude of the periapsis">Longitude of the periapsis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Position</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">M</span>  <a href="/wiki/Mean_anomaly" title="Mean anomaly">Mean anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ν</span>  <a href="/wiki/True_anomaly" title="True anomaly">True anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">E</span>  <a href="/wiki/Eccentric_anomaly" title="Eccentric anomaly">Eccentric anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">L</span>  <a href="/wiki/Mean_longitude" title="Mean longitude">Mean longitude</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">l</span>  <a href="/wiki/True_longitude" title="True longitude">True longitude</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Variation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">T</span>  <a href="/wiki/Orbital_period" title="Orbital period">Orbital period</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">n</span>  <a href="/wiki/Mean_motion" title="Mean motion">Mean motion</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">v</span>  <a href="/wiki/Orbital_speed" title="Orbital speed">Orbital speed</a></li>
+<li><span class="texhtml"><i>t</i><sub>0</sub></span>  <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">Epoch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_maneuver" title="Orbital maneuver">Maneuvers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collision_avoidance_(spacecraft)" title="Collision avoidance (spacecraft)">Collision avoidance (spacecraft)</a></li>
+<li><a href="/wiki/Delta-v" title="Delta-v">Delta-v</a></li>
+<li><a href="/wiki/Delta-v_budget" title="Delta-v budget">Delta-v budget</a></li>
+<li><a href="/wiki/Bi-elliptic_transfer" title="Bi-elliptic transfer">Bi-elliptic transfer</a></li>
+<li><a href="/wiki/Geostationary_transfer_orbit" title="Geostationary transfer orbit">Geostationary transfer</a></li>
+<li><a href="/wiki/Gravity_assist" title="Gravity assist">Gravity assist</a></li>
+<li><a href="/wiki/Gravity_turn" title="Gravity turn">Gravity turn</a></li>
+<li><a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">Hohmann transfer</a></li>
+<li><a class="mw-redirect" href="/wiki/Low_energy_transfer" title="Low energy transfer">Low energy transfer</a></li>
+<li><a href="/wiki/Oberth_effect" title="Oberth effect">Oberth effect</a></li>
+<li><a href="/wiki/Orbital_inclination_change" title="Orbital inclination change">Inclination change</a></li>
+<li><a href="/wiki/Orbit_phasing" title="Orbit phasing">Phasing</a></li>
+<li><a href="/wiki/Tsiolkovsky_rocket_equation" title="Tsiolkovsky rocket equation">Rocket equation</a></li>
+<li><a href="/wiki/Space_rendezvous" title="Space rendezvous">Rendezvous</a></li>
+<li><a href="/wiki/Transposition,_docking,_and_extraction" title="Transposition, docking, and extraction">Transposition, docking, and extraction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_mechanics" title="Orbital mechanics">Orbital mechanics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">Celestial coordinate system</a></li>
+<li><a href="/wiki/Characteristic_energy" title="Characteristic energy">Characteristic energy</a></li>
+<li><a href="/wiki/Escape_velocity" title="Escape velocity">Escape velocity</a></li>
+<li><a href="/wiki/Ephemeris" title="Ephemeris">Ephemeris</a></li>
+<li><a href="/wiki/Equatorial_coordinate_system" title="Equatorial coordinate system">Equatorial coordinate system</a></li>
+<li><a href="/wiki/Ground_track" title="Ground track">Ground track</a></li>
+<li><a href="/wiki/Hill_sphere" title="Hill sphere">Hill sphere</a></li>
+<li><a href="/wiki/Interplanetary_Transport_Network" title="Interplanetary Transport Network">Interplanetary Transport Network</a></li>
+<li><a href="/wiki/Kepler%27s_laws_of_planetary_motion" title="Kepler's laws of planetary motion">Kepler's laws of planetary motion</a></li>
+<li><a href="/wiki/Lagrangian_point" title="Lagrangian point">Lagrangian point</a></li>
+<li><a href="/wiki/N-body_problem" title="N-body problem"><i>n</i>-body problem</a></li>
+<li><a href="/wiki/Orbit_equation" title="Orbit equation">Orbit equation</a></li>
+<li><a href="/wiki/Orbital_state_vectors" title="Orbital state vectors">Orbital state vectors</a></li>
+<li><a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">Perturbation</a></li>
+<li><a class="mw-redirect" href="/wiki/Retrograde_motion" title="Retrograde motion">Retrograde motion</a></li>
+<li><a href="/wiki/Specific_orbital_energy" title="Specific orbital energy">Specific orbital energy</a></li>
+<li><a href="/wiki/Specific_relative_angular_momentum" title="Specific relative angular momentum">Specific relative angular momentum</a></li>
+<li><a href="/wiki/Two-line_element_set" title="Two-line element set">Two-line elements</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/List_of_orbits" title="List of orbits">List of orbits</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="People_currently_in_low_Earth_orbit" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:People_currently_in_space" title="Template:People currently in space"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:People_currently_in_space" title="Template talk:People currently in space"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:People_currently_in_space&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="People_currently_in_low_Earth_orbit" style="font-size:114%;margin:0 4em">People currently in <a class="mw-selflink selflink">low Earth orbit</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a> (<a href="/wiki/Expedition_53" title="Expedition 53">Expedition 53</a>)</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Soyuz_MS-05" title="Soyuz MS-05">Soyuz MS-05</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Sergey_Ryazansky" title="Sergey Ryazansky">Sergey Ryazansky</a></li>
+<li><a href="/wiki/Paolo_Nespoli" title="Paolo Nespoli">Paolo Nespoli</a></li>
+<li><a href="/wiki/Randolph_Bresnik" title="Randolph Bresnik">Randolph Bresnik</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Soyuz_MS-06" title="Soyuz MS-06">Soyuz MS-06</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alexander_Misurkin" title="Alexander Misurkin">Alexander Misurkin</a></li>
+<li><a href="/wiki/Mark_T._Vande_Hei" title="Mark T. Vande Hei">Mark T. Vande Hei</a></li>
+<li><a href="/wiki/Joseph_M._Acaba" title="Joseph M. Acaba">Joseph M. Acaba</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><a href="/wiki/List_of_International_Space_Station_expeditions" title="List of International Space Station expeditions">ISS expeditions</a></li>
+<li><a href="/wiki/List_of_spaceflights_to_the_International_Space_Station" title="List of spaceflights to the International Space Station">Spaceflights to the ISS</a>
+<ul>
+<li><a href="/wiki/List_of_human_spaceflights_to_the_International_Space_Station" title="List of human spaceflights to the International Space Station">manned</a></li>
+<li><a class="mw-redirect" href="/wiki/List_of_unmanned_spaceflights_to_the_International_Space_Station" title="List of unmanned spaceflights to the International Space Station">unmanned</a></li>
+</ul>
+</li>
+<li><a href="/wiki/List_of_International_Space_Station_spacewalks" title="List of International Space Station spacewalks">ISS spacewalks</a></li>
+<li><a href="/wiki/List_of_International_Space_Station_visitors" title="List of International Space Station visitors">ISS visitors</a></li>
+<li><a href="/wiki/ISS_year_long_mission" title="ISS year long mission">ISS year long mission</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1181
+Cached time: 20170930221545
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.280 seconds
+Real time usage: 0.345 seconds
+Preprocessor visited node count: 1155/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 63691/2097152 bytes
+Template argument size: 582/2097152 bytes
+Highest expansion depth: 14/40
+Expensive parser function count: 0/500
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 5.08 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  259.730      1 -total
+ 50.29%  130.623      2 Template:Reflist
+ 21.82%   56.681      6 Template:Cite_web
+ 21.34%   55.421      5 Template:Navbox
+ 21.26%   55.225      8 Template:Convert
+ 12.31%   31.964      1 Template:Orbits
+ 11.66%   30.295      2 Template:E
+  9.16%   23.799      2 Template:Val/delimitnum
+  5.44%   14.132      1 Template:Portal
+  3.10%    8.055      1 Template:Cite_book
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:47568-0!canonical and timestamp 20170930221544 and revision id 799958203
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Low_Earth_orbit&amp;oldid=799958203">https://en.wikipedia.org/w/index.php?title=Low_Earth_orbit&amp;oldid=799958203</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Earth_orbits" title="Category:Earth orbits">Earth orbits</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Webarchive_template_wayback_links" title="Category:Webarchive template wayback links">Webarchive template wayback links</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_NASA" title="Category:Wikipedia articles incorporating text from NASA">Wikipedia articles incorporating text from NASA</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Low+Earth+orbit" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Low+Earth+orbit" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Low_Earth_orbit" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Low_Earth_orbit" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Low_Earth_orbit">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Low_Earth_orbit&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Low_Earth_orbit&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Low_Earth_orbit" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Low_Earth_orbit" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Low_Earth_orbit&amp;oldid=799958203" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Low_Earth_orbit&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q663611" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Low_Earth_orbit&amp;id=799958203" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Low+Earth+orbit">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Low+Earth+orbit&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DLow%2BEarth%2Borbit%26returnto%3DLow%2BEarth%2Borbit%26oldid%3D799958203%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Low_Earth_orbit&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D9%85%D8%AF%D8%A7%D8%B1_%D8%A3%D8%B1%D8%B6%D9%8A_%D9%85%D9%86%D8%AE%D9%81%D8%B6" hreflang="ar" lang="ar" title="مدار أرضي منخفض – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%9D%D0%B8%D1%81%D0%BA%D0%B0_%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" hreflang="bg" lang="bg" title="Ниска околоземна орбита – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/%C3%92rbita_terrestre_baixa" hreflang="ca" lang="ca" title="Òrbita terrestre baixa – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/N%C3%ADzk%C3%A1_ob%C4%9B%C5%BEn%C3%A1_dr%C3%A1ha_Zem%C4%9B" hreflang="cs" lang="cs" title="Nízká oběžná dráha Země – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Lavt_jordkredsl%C3%B8b" hreflang="da" lang="da" title="Lavt jordkredsløb – Danish">Dansk</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Maa-l%C3%A4hedane_orbiit" hreflang="et" lang="et" title="Maa-lähedane orbiit – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/%C3%93rbita_baja_terrestre" hreflang="es" lang="es" title="Órbita baja terrestre – Spanish">Español</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D8%AF%D8%A7%D8%B1_%D9%86%D8%B2%D8%AF%DB%8C%DA%A9_%D8%B2%D9%85%DB%8C%D9%86" hreflang="fa" lang="fa" title="مدار نزدیک زمین – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Orbite_terrestre_basse" hreflang="fr" lang="fr" title="Orbite terrestre basse – French">Français</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Fithis_%C3%ADseal_dhomhanda" hreflang="ga" lang="ga" title="Fithis íseal dhomhanda – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/%C3%93rbita_baixa_terrestre" hreflang="gl" lang="gl" title="Órbita baixa terrestre – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A7%80%EA%B5%AC_%EC%A0%80%EA%B6%A4%EB%8F%84" hreflang="ko" lang="ko" title="지구 저궤도 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A8%E0%A4%BF%E0%A4%9A%E0%A4%B2%E0%A5%80_%E0%A4%AA%E0%A5%83%E0%A4%A5%E0%A5%8D%E0%A4%B5%E0%A5%80_%E0%A4%95%E0%A4%95%E0%A5%8D%E0%A4%B7%E0%A4%BE" hreflang="hi" lang="hi" title="निचली पृथ्वी कक्षा – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Orbit_bumi_rendah" hreflang="id" lang="id" title="Orbit bumi rendah – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Orbita_terrestre_bassa" hreflang="it" lang="it" title="Orbita terrestre bassa – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%9E%D7%A1%D7%9C%D7%95%D7%9C_%D7%9C%D7%95%D7%95%D7%99%D7%99%D7%A0%D7%99_%D7%A0%D7%9E%D7%95%D7%9A" hreflang="he" lang="he" title="מסלול לווייני נמוך – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-lv"><a class="interlanguage-link-target" href="https://lv.wikipedia.org/wiki/Zem%C4%81_Zemes_orb%C4%ABta" hreflang="lv" lang="lv" title="Zemā Zemes orbīta – Latvian">Latviešu</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Alacsony_F%C3%B6ld_k%C3%B6r%C3%BCli_p%C3%A1lya" hreflang="hu" lang="hu" title="Alacsony Föld körüli pálya – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Orbit_rendah_Bumi" hreflang="ms" lang="ms" title="Orbit rendah Bumi – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E4%BD%8E%E8%BB%8C%E9%81%93" hreflang="ja" lang="ja" title="低軌道 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Lav_jordbane" hreflang="no" lang="no" title="Lav jordbane – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/L%C3%A5g_jordbane" hreflang="nn" lang="nn" title="Låg jordbane – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-ps"><a class="interlanguage-link-target" href="https://ps.wikipedia.org/wiki/%D9%BC%DB%8C%D9%BC_%DA%81%D9%85%DA%A9%D9%86%DB%8C_%DA%86%D9%88%D8%B1%D9%84%DB%90%DA%81" hreflang="ps" lang="ps" title="ټیټ ځمکنی چورلېځ – Pashto">پښتو</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Niska_orbita_oko%C5%82oziemska" hreflang="pl" lang="pl" title="Niska orbita okołoziemska – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/%C3%93rbita_terrestre_baixa" hreflang="pt" lang="pt" title="Órbita terrestre baixa – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Orbita_joas%C4%83_a_P%C4%83m%C3%A2ntului" hreflang="ro" lang="ro" title="Orbita joasă a Pământului – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B7%D0%BA%D0%B0%D1%8F_%D0%BE%D0%BA%D0%BE%D0%BB%D0%BE%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0%D1%8F_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" hreflang="ru" lang="ru" title="Низкая околоземная орбита – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Law_Yird_orbit" hreflang="sco" lang="sco" title="Law Yird orbit – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Low_Earth_orbit" hreflang="simple" lang="simple" title="Low Earth orbit – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/N%C3%ADzka_obe%C5%BEn%C3%A1_dr%C3%A1ha_Zeme" hreflang="sk" lang="sk" title="Nízka obežná dráha Zeme – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Nizkozemeljska_orbita" hreflang="sl" lang="sl" title="Nizkozemeljska orbita – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%9D%D0%B8%D1%81%D0%BA%D0%B0_%D0%97%D0%B5%D0%BC%D1%99%D0%B8%D0%BD%D0%B0_%D0%BE%D1%80%D0%B1%D0%B8%D1%82%D0%B0" hreflang="sr" lang="sr" title="Ниска Земљина орбита – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Niska_Zemljina_orbita" hreflang="sh" lang="sh" title="Niska Zemljina orbita – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-su"><a class="interlanguage-link-target" href="https://su.wikipedia.org/wiki/Orbit_Bumi_Handap" hreflang="su" lang="su" title="Orbit Bumi Handap – Sundanese">Basa Sunda</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Matala_Maan_kiertorata" hreflang="fi" lang="fi" title="Matala Maan kiertorata – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/L%C3%A5g_omloppsbana" hreflang="sv" lang="sv" title="Låg omloppsbana – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%82%E0%AE%AE%E0%AE%BF%E0%AE%AF%E0%AE%BF%E0%AE%A9%E0%AF%8D_%E0%AE%A4%E0%AE%BE%E0%AE%B4%E0%AF%8D_%E0%AE%B5%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%BE%E0%AE%A4%E0%AF%88" hreflang="ta" lang="ta" title="பூமியின் தாழ் வட்டப்பாதை – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%AD%E0%B1%82_%E0%B0%A8%E0%B0%BF%E0%B0%AE%E0%B1%8D%E0%B0%A8_%E0%B0%95%E0%B0%95%E0%B1%8D%E0%B0%B7%E0%B1%8D%E0%B0%AF" hreflang="te" lang="te" title="భూ నిమ్న కక్ష్య – Telugu">తెలుగు</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%A7%E0%B8%87%E0%B9%82%E0%B8%84%E0%B8%88%E0%B8%A3%E0%B8%95%E0%B9%88%E0%B8%B3%E0%B8%82%E0%B8%AD%E0%B8%87%E0%B9%82%E0%B8%A5%E0%B8%81" hreflang="th" lang="th" title="วงโคจรต่ำของโลก – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tg"><a class="interlanguage-link-target" href="https://tg.wikipedia.org/wiki/%D0%9C%D0%B0%D0%B4%D0%BE%D1%80%D0%B8_%D0%9D%D0%B0%D0%B7%D0%B4%D0%B8%D0%BA%D0%B8_%D0%97%D0%B0%D0%BC%D0%B8%D0%BD" hreflang="tg" lang="tg" title="Мадори Наздики Замин – Tajik">Тоҷикӣ</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Al%C3%A7ak_D%C3%BCnya_y%C3%B6r%C3%BCngesi" hreflang="tr" lang="tr" title="Alçak Dünya yörüngesi – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%9D%D0%B8%D0%B7%D1%8C%D0%BA%D0%B0_%D0%BD%D0%B0%D0%B2%D0%BA%D0%BE%D0%BB%D0%BE%D0%B7%D0%B5%D0%BC%D0%BD%D0%B0_%D0%BE%D1%80%D0%B1%D1%96%D1%82%D0%B0" hreflang="uk" lang="uk" title="Низька навколоземна орбіта – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-ur"><a class="interlanguage-link-target" href="https://ur.wikipedia.org/wiki/%D8%B2%DB%8C%D8%B1%DB%8C%DA%BA_%D8%B2%D9%85%DB%8C%D9%86%DB%8C_%D9%85%D8%AF%D8%A7%D8%B1" hreflang="ur" lang="ur" title="زیریں زمینی مدار – Urdu">اردو</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Qu%E1%BB%B9_%C4%91%E1%BA%A1o_Tr%C3%A1i_%C4%90%E1%BA%A5t_t%E1%BA%A7m_th%E1%BA%A5p" hreflang="vi" lang="vi" title="Quỹ đạo Trái Đất tầm thấp – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%BF%91%E5%9C%B0%E8%BD%A8%E9%81%93" hreflang="zh" lang="zh" title="近地轨道 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q663611#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 10 September 2017, at 20:49.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Low_Earth_orbit&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.280","walltime":"0.345","ppvisitednodes":{"value":1155,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":63691,"limit":2097152},"templateargumentsize":{"value":582,"limit":2097152},"expansiondepth":{"value":14,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  259.730      1 -total"," 50.29%  130.623      2 Template:Reflist"," 21.82%   56.681      6 Template:Cite_web"," 21.34%   55.421      5 Template:Navbox"," 21.26%   55.225      8 Template:Convert"," 12.31%   31.964      1 Template:Orbits"," 11.66%   30.295      2 Template:E","  9.16%   23.799      2 Template:Val/delimitnum","  5.44%   14.132      1 Template:Portal","  3.10%    8.055      1 Template:Cite_book"]},"scribunto":{"limitreport-timeusage":{"value":"0.116","limit":"10.000"},"limitreport-memusage":{"value":5331251,"limit":52428800}},"cachereport":{"origin":"mw1181","timestamp":"20170930221545","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":64,"wgHostname":"mw1249"});});</script>
+</body>
+</html>

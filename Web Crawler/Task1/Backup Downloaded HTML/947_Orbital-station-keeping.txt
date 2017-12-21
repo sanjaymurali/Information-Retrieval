@@ -1,0 +1,490 @@
+https://en.wikipedia.org/wiki/Orbital_station-keeping
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Orbital station-keeping - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Orbital_station-keeping","wgTitle":"Orbital station-keeping","wgCurRevisionId":801824816,"wgRevisionId":801824816,"wgArticleId":979306,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All articles with unsourced statements","Articles with unsourced statements from June 2009","All articles with vague or ambiguous time","Vague or ambiguous time from January 2016","Articles with unsourced statements from January 2016","Satellites","Astrodynamics","Earth orbits"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Orbital_station-keeping","wgRelevantArticleId":979306,"wgRequestId":"WcSrngpAAEIAADdGBSYAAAAF","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7100095","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["preloadtitle","undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"loading","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.options@0bhc5ha",function($,jQuery,require,module){mw.user.options.set([]);});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.30.0-wmf.19" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Orbital_station-keeping" rel="alternate"/>
+<link href="/w/index.php?title=Orbital_station-keeping&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Orbital_station-keeping&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Orbital_station-keeping" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Orbital_station-keeping rootpage-Orbital_station-keeping skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Orbital station-keeping</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a class="mw-redirect" href="/wiki/Astrodynamics" title="Astrodynamics">astrodynamics</a>, the <a href="/wiki/Orbital_maneuver" title="Orbital maneuver">orbital maneuvers</a> made by <a href="/wiki/Spacecraft_propulsion" title="Spacecraft propulsion">thruster burns</a> that are needed to keep a spacecraft in a particular assigned <a href="/wiki/Orbit" title="Orbit">orbit</a> are called <b>orbital station-keeping</b>.</p>
+<p>For many Earth satellites the effects of the <a class="mw-redirect" href="/wiki/Orbital_perturbation_analysis_(spacecraft)" title="Orbital perturbation analysis (spacecraft)">non-Keplerian</a> forces, i.e. the deviations of the gravitational force of the Earth from that of a <a href="/wiki/Shell_theorem" title="Shell theorem">homogeneous sphere</a>, gravitational forces from Sun/Moon, <a class="mw-redirect" href="/wiki/Solar_radiation_pressure" title="Solar radiation pressure">solar radiation pressure</a> and <a href="/wiki/Drag_(physics)" title="Drag (physics)">air-drag</a>, must be counteracted.</p>
+<p>The deviation of Earth's gravity field from that of a <a href="/wiki/Shell_theorem" title="Shell theorem">homogeneous sphere</a> and gravitational forces from Sun/Moon will in general perturb the orbital plane. For a <a href="/wiki/Sun-synchronous_orbit" title="Sun-synchronous orbit">sun-synchronous orbit</a> the precession of the orbital plane caused by the oblateness of the Earth is a desirable feature that is part of the mission design but the inclination change caused by the gravitational forces of Sun/Moon is undesirable. For <a href="/wiki/Geostationary_orbit" title="Geostationary orbit">geostationary spacecraft</a> the inclination change caused by the gravitational forces of Sun/Moon must be counteracted by a rather large expense of fuel, as the inclination should be kept sufficiently small for the spacecraft to be tracked by a non-steerable antenna.</p>
+<p>For spacecraft in low orbits the effects of <a href="/wiki/Drag_(physics)" title="Drag (physics)">atmospheric drag</a> must often be compensated for. For some missions this is needed simply to avoid re-entry; for other missions, typically missions for which the orbit should be accurately synchronized with Earth rotation, this is necessary to avoid the orbital period shortening.</p>
+<p>Solar radiation pressure will in general perturb the eccentricity (i.e. the eccentricity vector), see <a class="mw-redirect" href="/wiki/Orbital_perturbation_analysis_(spacecraft)" title="Orbital perturbation analysis (spacecraft)">Orbital perturbation analysis (spacecraft)</a>. For some missions this must be actively counter-acted with manoeuvres. For <a href="/wiki/Geostationary_orbit" title="Geostationary orbit">geostationary spacecraft</a> the eccentricity must be kept sufficiently small for a spacecraft to be tracked with a non-steerable antenna. Also for <a href="/wiki/Earth_observation_satellite" title="Earth observation satellite">Earth observation spacecraft</a> for which a very repetitive orbit with a fixed <a href="/wiki/Ground_track" title="Ground track">ground track</a> is desirable, the eccentricity vector should be kept as fixed as possible. A large part of this compensation can be done by using a <a href="/wiki/Frozen_orbit" title="Frozen orbit">frozen orbit</a> design, but for the fine control manoeuvres with thrusters are needed.</p>
+<p>For spacecraft in a <a href="/wiki/Halo_orbit" title="Halo orbit">halo orbit</a> around a <a href="/wiki/Lagrangian_point" title="Lagrangian point">Lagrangian point</a> stationkeeping is even more fundamental as such an orbit is unstable; without an active control with thruster burns the smallest deviation in position/velocity would result in the spacecraft leaving the orbit completely.<sup class="reference" id="cite_ref-esa20090614_1-0"><a href="#cite_note-esa20090614-1">[1]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Station-keeping_in_low_Earth_orbit"><span class="tocnumber">1</span> <span class="toctext">Station-keeping in low Earth orbit</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Station-keeping_for_Earth_observation_spacecraft"><span class="tocnumber">2</span> <span class="toctext">Station-keeping for Earth observation spacecraft</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#Station-keeping_in_geostationary_orbit"><span class="tocnumber">3</span> <span class="toctext">Station-keeping in geostationary orbit</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#Station-keeping_at_libration_points"><span class="tocnumber">4</span> <span class="toctext">Station-keeping at libration points</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-6"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Station-keeping_in_low_Earth_orbit">Station-keeping in low Earth orbit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_station-keeping&amp;action=edit&amp;section=1" title="Edit section: Station-keeping in low Earth orbit">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For a spacecraft in a very low orbit the <a href="/wiki/Drag_(physics)" title="Drag (physics)">atmospheric drag</a> is sufficiently strong to cause a re-entry before the intended end of mission if orbit raising manoeuvres are not executed from time to time.</p>
+<p>An example of this is the <a href="/wiki/International_Space_Station" title="International Space Station">International Space Station</a> (ISS), which has an operational altitude above Earth's surface of between 330 and 410 km. Due to <a class="mw-redirect" href="/wiki/Atmospheric_drag" title="Atmospheric drag">atmospheric drag</a> the space station is constantly losing orbital energy. In order to compensate for this loss, which would eventually lead to a re-entry of the station, it has from time to time been re-boosted to a higher orbit. The chosen orbital altitude is a trade-off between the average thrust needed to counter-act the air drag and the <a href="/wiki/Delta-v" title="Delta-v">delta-v</a> needed to send payloads and people to the station. The upper limitation of orbit altitude is due to the constraints imposed by the <a class="mw-redirect" href="/wiki/Soyuz_spacecraft" title="Soyuz spacecraft">Soyuz spacecraft</a>. On 25 April 2008, the <a href="/wiki/Automated_Transfer_Vehicle" title="Automated Transfer Vehicle">Automated Transfer Vehicle</a> "<a href="/wiki/Jules_Verne_ATV" title="Jules Verne ATV">Jules Verne</a>" raised the orbit of the ISS for the first time, thereby proving its ability to replace (and outperform) the Soyuz at this task.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (June 2009)">citation needed</span></a></i>]</sup></p>
+<p><a class="mw-redirect" href="/wiki/GOCE" title="GOCE">GOCE</a> which orbited at 255 km (later reduced to 235 km) used <a href="/wiki/Ion_thruster" title="Ion thruster">ion thrusters</a> to provide up to 20 mN of thrust to compensate for the drag on its frontal area of about 1 m<sup>2</sup>.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Station-keeping_for_Earth_observation_spacecraft">Station-keeping for Earth observation spacecraft</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_station-keeping&amp;action=edit&amp;section=2" title="Edit section: Station-keeping for Earth observation spacecraft">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>For <a href="/wiki/Earth_observation_satellite" title="Earth observation satellite">Earth observation spacecraft</a> typically operated in an altitude above the Earth surface of about 700 – 800 km the air-drag is very faint and a re-entry due to air-drag is not a concern. But if the orbital period should be synchronous with the Earth's rotation to maintain a fixed <a href="/wiki/Ground_track" title="Ground track">ground track</a>, the faint air-drag at this high altitude must also be counter-acted by orbit raising manoeuvres in the form of thruster burns tangential to the orbit. These manoeuvres will be very small, typically in the order of a few mm/s of <a href="/wiki/Delta-v" title="Delta-v">delta-v</a>. If a <a href="/wiki/Frozen_orbit" title="Frozen orbit">frozen orbit</a> design is used these very small orbit raising manoeuvres are sufficient to also control the eccentricity vector.</p>
+<p>To maintain a fixed ground track it is also necessary to make out-of-plane manoeuvres to compensate for the inclination change caused by Sun/Moon gravitation. These are executed as thruster burns orthogonal to the orbital plane. For Sun-synchronous spacecraft having a constant geometry relative to the Sun, the inclination change due to the solar gravitation is particularly large; a delta-v in the order of 1–2 m/s per year can be needed to keep the inclination constant.</p>
+<h2><span class="mw-headline" id="Station-keeping_in_geostationary_orbit">Station-keeping in geostationary orbit</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_station-keeping&amp;action=edit&amp;section=3" title="Edit section: Station-keeping in geostationary orbit">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:352px;"><a class="image" href="/wiki/File:Orbital_Planes.svg"><img alt="" class="thumbimage" data-file-height="700" data-file-width="1250" height="196" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Orbital_Planes.svg/350px-Orbital_Planes.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/23/Orbital_Planes.svg/525px-Orbital_Planes.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/23/Orbital_Planes.svg/700px-Orbital_Planes.svg.png 2x" width="350"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Orbital_Planes.svg" title="Enlarge"></a></div>
+Inclined orbital planes</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">For more details on this topic, see <a href="/wiki/Geostationary_orbit#Orbital_stability" title="Geostationary orbit">Geostationary_orbit § Orbital_stability</a>.</div>
+<p>For geostationary spacecraft, thruster burns orthogonal to the orbital plane must be executed to compensate for the effect of the lunar/solar gravitation that perturbs the orbit pole with typically 0.85 degrees per year.<sup class="reference" id="cite_ref-Anderson2015_3-0"><a href="#cite_note-Anderson2015-3">[3]</a></sup> The delta-v needed to compensate for this perturbation keeping the inclination to the equatorial plane amounts to in the order 45 m/s per year. This part of the GEO station-keeping is called North-South control.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>The East-West control is the control of the orbital period and the eccentricity vector performed by making thruster burns tangential to the orbit. These burns are then designed to keep the orbital period perfectly synchronous with the Earth rotation and to keep the eccentricity sufficiently small. Perturbation of the orbital period results from the imperfect rotational symmetry of the Earth relative the North/South axis, sometimes called the ellipticity of the Earth equator. The eccentricity (i.e. the eccentricity vector) is perturbed by the <a class="mw-redirect" href="/wiki/Solar_radiation_pressure" title="Solar radiation pressure">solar radiation pressure</a>. The fuel needed for this East-West control is much less than what is needed for the North-South control, (about 2 m/s per year, depending on the desired longitude). (See <a href="/wiki/Geostationary_orbit#Orbital_stability" title="Geostationary orbit">Geostationary orbit#Orbital stability</a>)</p>
+<p>To extend the life-time of ageing geostationary spacecraft with little fuel left one sometimes discontinues the North-South control only continuing with the East-West control. As seen from an observer on the rotating Earth the spacecraft will then move North-South with a period of 24 hours. When this North-South movement gets too large a steerable antenna is needed to track the spacecraft. An example of this<sup class="noprint Inline-Template" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Manual_of_Style/Dates_and_numbers#Chronological_items" title="Wikipedia:Manual of Style/Dates and numbers"><span title="The time period mentioned near this tag is ambiguous. (January 2016)">when?</span></a></i>]</sup> is <a href="/wiki/Artemis_(satellite)" title="Artemis (satellite)">Artemis</a>.<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2016)">citation needed</span></a></i>]</sup></p>
+<p>To save weight, it is crucial for GEO satellites to have the most fuel-efficient <a href="/wiki/Spacecraft_propulsion" title="Spacecraft propulsion">propulsion</a> system. Some modern satellites are therefore employing a high <a href="/wiki/Specific_impulse" title="Specific impulse">specific impulse</a> system like <a class="mw-redirect" href="/wiki/Plasma_thruster" title="Plasma thruster">plasma</a> or <a href="/wiki/Ion_thruster" title="Ion thruster">ion thrusters</a>.</p>
+<h2><span class="mw-headline" id="Station-keeping_at_libration_points">Station-keeping at libration points</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_station-keeping&amp;action=edit&amp;section=4" title="Edit section: Station-keeping at libration points">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Orbits of spacecraft are also possible around <a href="/wiki/Lagrangian_point" title="Lagrangian point">Lagrangian points</a>—also referred to as <a class="mw-redirect" href="/wiki/Libration_point" title="Libration point">libration points</a>—<a href="/wiki/Gravity_well" title="Gravity well">gravity wells</a> that exist at five points in relation to two larger solar system bodies. For example, there are five of these points in the Sun-Earth system, five in the Earth-Moon system, and so on. Small spacecraft may orbit around these gravity wells with a minimum of propellant required for station-keeping purposes. Two orbits that have been used for such purposes include <a href="/wiki/Halo_orbit" title="Halo orbit">halo</a> and <a href="/wiki/Lissajous_orbit" title="Lissajous orbit">Lissajous</a> orbits.<sup class="reference" id="cite_ref-nasa20110101_5-0"><a href="#cite_note-nasa20110101-5">[5]</a></sup></p>
+<p>Orbits around libration points are dynamically unstable, meaning small departures from equilibrium grow exponentially over time.<sup class="reference" id="cite_ref-esa20090614_1-1"><a href="#cite_note-esa20090614-1">[1]</a></sup> As a result, spacecraft in libration point orbits must use <a href="/wiki/Reaction_control_system" title="Reaction control system">propulsion systems</a> to perform orbital station-keeping.</p>
+<p>One important libration point is Earth-Sun <a href="/wiki/Lagrangian_point#L1" title="Lagrangian point">L<sub>1</sub></a>, and three <a href="/wiki/Heliophysics" title="Heliophysics">heliophysics</a> missions have been orbiting L1 since approximately 2000. Station-keeping propellant use can be quite low, facilitating missions that can potentially last decades should other spacecraft systems remain operational. The three spacecraft—<a href="/wiki/Advanced_Composition_Explorer" title="Advanced Composition Explorer">Advanced Composition Explorer</a> (ACE), <a class="mw-redirect" href="/wiki/Solar_Heliospheric_Observatory" title="Solar Heliospheric Observatory">Solar Heliospheric Observatory</a> (SOHO), and the <a href="/wiki/WIND_(spacecraft)" title="WIND (spacecraft)">Global Geoscience WIND</a> satellite—each have annual <a class="mw-redirect" href="/wiki/Delta_V" title="Delta V">station-keeping propellant requirements</a> of approximately 1 m/s or less.<sup class="reference" id="cite_ref-nasa20110101_5-1"><a href="#cite_note-nasa20110101-5">[5]</a></sup> Earth-Sun <a href="/wiki/Lagrangian_point#L2" title="Lagrangian point">L<sub>2</sub></a>—approximately 1.5 million kilometers from Earth in the anti-sun direction—is another important Lagrangian point, and the <a class="mw-redirect" href="/wiki/ESA" title="ESA">ESA</a> <a href="/wiki/Herschel_Space_Observatory" title="Herschel Space Observatory">Herschel</a> <a class="mw-redirect" href="/wiki/Space_observatory" title="Space observatory">space observatory</a> operated there in a Lissajous orbit during 2009–2013, at which time it ran out of coolant for the <a href="/wiki/Space_telescope" title="Space telescope">space telescope</a>. Small station-keeping orbital maneuvers were executed approximately monthly to maintain the spacecraft in the station-keeping orbit.<sup class="reference" id="cite_ref-esa20090614_1-2"><a href="#cite_note-esa20090614-1">[1]</a></sup></p>
+<p>The <a href="/wiki/James_Webb_Space_Telescope" title="James Webb Space Telescope">James Webb Space Telescope</a> needs to use propellant to maintain its halo orbit around the Earth-Sun L2, which provides an upper limit to its designed lifetime: it is being designed to carry enough for ten years.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_station-keeping&amp;action=edit&amp;section=5" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Orbital_maneuver" title="Orbital maneuver">Orbital maneuvre</a></li>
+<li><a href="/wiki/Delta-v_budget" title="Delta-v budget">Delta-v budget</a></li>
+<li><a href="/wiki/Orbital_perturbation_analysis" title="Orbital perturbation analysis">Orbital perturbation analysis</a></li>
+<li><a href="/wiki/Teleoperator_Retrieval_System" title="Teleoperator Retrieval System">Teleoperator Retrieval System</a> (robotic device for attaching to another spacecraft and boosting or changing its orbit)</li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_station-keeping&amp;action=edit&amp;section=6" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-esa20090614-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-esa20090614_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-esa20090614_1-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-esa20090614_1-2"><sup><i><b>c</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://sci.esa.int/science-e/www/object/index.cfm?fobjectid=34699" rel="nofollow">"ESA Science &amp; Technology: Orbit/Navigation"</a>. European Space Agency. 14 June 2009<span class="reference-accessdate">. Retrieved <span class="nowrap">14 February</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+station-keeping&amp;rft.btitle=ESA+Science+%26+Technology%3A+Orbit%2FNavigation&amp;rft.date=2009-06-14&amp;rft.genre=unknown&amp;rft.pub=European+Space+Agency&amp;rft_id=http%3A%2F%2Fsci.esa.int%2Fscience-e%2Fwww%2Fobject%2Findex.cfm%3Ffobjectid%3D34699&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.esa.int/Our_Activities/Observing_the_Earth/The_Living_Planet_Programme/Earth_Explorers/GOCE/Satellite" rel="nofollow">GOCE satellite</a></span></li>
+<li id="cite_note-Anderson2015-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-Anderson2015_3-0">^</a></b></span> <span class="reference-text"><a class="external text" href="http://hanspeterschaub.info/Papers/Anderson2015c.pdf" rel="nofollow">OPERATIONAL CONSIDERATIONS OF GEO DEBRIS SYNCHRONIZATION DYNAMICS. Anderson</a></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text">Soop, E. M. (1994). Handbook of Geostationary Orbits. Springer. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7923-3054-7" title="Special:BookSources/978-0-7923-3054-7">978-0-7923-3054-7</a>.</span></li>
+<li id="cite_note-nasa20110101-5"><span class="mw-cite-backlink">^ <a href="#cite_ref-nasa20110101_5-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-nasa20110101_5-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation journal">Roberts, Craig E. (1 January 2011). <a class="external text" href="http://hdl.handle.net/2060/20110008638" rel="nofollow">"Long Term Missions at the Sun-Earth Libration Point L1: ACE, SOHO, and WIND"</a> <span style="font-size:85%;">(pdf)</span>. <i>NASA Technical Reports</i>. NASA. 20110008638<span class="reference-accessdate">. Retrieved <span class="nowrap">14 February</span> 2015</span>. <q><i>Three heliophysics missions – the Advanced Composition Explorer (ACE), Solar Heliospheric Observatory (SOHO), and the Global Geoscience WIND – have been orbiting the Sun-Earth interior libration point L1 continuously since 1997, 1996, and 2004 ... the typical interval between burns for this trio is about three months, and the typical delta-V is much smaller than 0.5 m/sec. Typical annual stationkeeping costs have been around 1.0 m/sec for ACE and WIND, and much less than that for SOHO. All three spacecraft have ample fuel remaining; barring contingencies all three could, in principle, be maintained at L1 for decades to come.</i></q></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AOrbital+station-keeping&amp;rft.atitle=Long+Term+Missions+at+the+Sun-Earth+Libration+Point+L1%3A+ACE%2C+SOHO%2C+and+WIND&amp;rft.aufirst=Craig+E.&amp;rft.aulast=Roberts&amp;rft.date=2011-01-01&amp;rft.genre=article&amp;rft.jtitle=NASA+Technical+Reports&amp;rft_id=http%3A%2F%2Fhdl.handle.net%2F2060%2F20110008638&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><a class="external autonumber" href="http://jwst.nasa.gov/faq.html#howlong" rel="nofollow">[1]</a></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Orbital_station-keeping&amp;action=edit&amp;section=7" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.daviddarling.info/encyclopedia/S/station-keeping.html" rel="nofollow">Station-keeping</a> at the Encyclopedia of Astrobiology, Astronomy, and Spaceflight</li>
+<li><a class="external text" href="http://www.daviddarling.info/encyclopedia/X/XIPS.html" rel="nofollow">XIPS</a> Xenon Ion Propulsion Systems</li>
+<li><a class="external autonumber" href="http://www.esa.int/esaCP/SEMPEISZEFF_index_0.html" rel="nofollow">[2]</a> Jules Verne boosts ISS orbit (report from the European Space Agency)</li>
+</ul>
+<div aria-labelledby="Gravitational_orbits" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Orbits" title="Template:Orbits"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Orbits" title="Template talk:Orbits"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Orbits&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Gravitational_orbits" style="font-size:114%;margin:0 4em">Gravitational <a href="/wiki/Orbit" title="Orbit">orbits</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbit" title="Orbit">Types</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">General</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Box_orbit" title="Box orbit">Box</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Capture</a></li>
+<li><a href="/wiki/Circular_orbit" title="Circular orbit">Circular</a></li>
+<li><a href="/wiki/Elliptic_orbit" title="Elliptic orbit">Elliptical</a> / <a href="/wiki/Highly_elliptical_orbit" title="Highly elliptical orbit">Highly elliptical</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Escape</a></li>
+<li><a href="/wiki/Graveyard_orbit" title="Graveyard orbit">Graveyard</a></li>
+<li><a href="/wiki/Hyperbolic_trajectory" title="Hyperbolic trajectory">Hyperbolic trajectory</a></li>
+<li><a href="/wiki/Inclined_orbit" title="Inclined orbit">Inclined</a> / <a href="/wiki/Non-inclined_orbit" title="Non-inclined orbit">Non-inclined</a></li>
+<li><a href="/wiki/Osculating_orbit" title="Osculating orbit">Osculating</a></li>
+<li><a href="/wiki/Parabolic_trajectory" title="Parabolic trajectory">Parabolic trajectory</a></li>
+<li><a href="/wiki/Parking_orbit" title="Parking orbit">Parking</a></li>
+<li><a href="/wiki/Synchronous_orbit" title="Synchronous orbit">Synchronous</a>
+<ul>
+<li><a href="/wiki/Semi-synchronous_orbit" title="Semi-synchronous orbit">semi</a></li>
+<li><a href="/wiki/Subsynchronous_orbit" title="Subsynchronous orbit">sub</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">Transfer orbit</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em"><a href="/wiki/Geocentric_orbit" title="Geocentric orbit">Geocentric</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Geosynchronous_orbit" title="Geosynchronous orbit">Geosynchronous</a></li>
+<li><a href="/wiki/Geostationary_orbit" title="Geostationary orbit">Geostationary</a></li>
+<li><a href="/wiki/Sun-synchronous_orbit" title="Sun-synchronous orbit">Sun-synchronous</a></li>
+<li><a href="/wiki/Low_Earth_orbit" title="Low Earth orbit">Low Earth</a></li>
+<li><a href="/wiki/Medium_Earth_orbit" title="Medium Earth orbit">Medium Earth</a></li>
+<li><a href="/wiki/High_Earth_orbit" title="High Earth orbit">High Earth</a></li>
+<li><a href="/wiki/Molniya_orbit" title="Molniya orbit">Molniya</a></li>
+<li><a class="mw-redirect" href="/wiki/Near_equatorial_orbit" title="Near equatorial orbit">Near-equatorial</a></li>
+<li><a href="/wiki/Orbit_of_the_Moon" title="Orbit of the Moon">Orbit of the Moon</a></li>
+<li><a href="/wiki/Polar_orbit" title="Polar orbit">Polar</a></li>
+<li><a href="/wiki/Tundra_orbit" title="Tundra orbit">Tundra</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">About other points</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Areosynchronous_orbit" title="Areosynchronous orbit">Areosynchronous</a></li>
+<li><a href="/wiki/Areostationary_orbit" title="Areostationary orbit">Areostationary</a></li>
+<li><a href="/wiki/Halo_orbit" title="Halo orbit">Halo</a></li>
+<li><a href="/wiki/Lissajous_orbit" title="Lissajous orbit">Lissajous</a></li>
+<li><a href="/wiki/Lunar_orbit" title="Lunar orbit">Lunar</a></li>
+<li><a href="/wiki/Heliocentric_orbit" title="Heliocentric orbit">Heliocentric</a></li>
+<li><a class="mw-redirect" href="/wiki/Heliosynchronous_orbit" title="Heliosynchronous orbit">Heliosynchronous</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_elements" title="Orbital elements">Parameters</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">
+<div class="hlist hlist-separated">
+<ul>
+<li>Shape</li>
+<li>Size</li>
+</ul>
+</div>
+</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">e</span>  <a href="/wiki/Orbital_eccentricity" title="Orbital eccentricity">Eccentricity</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">a</span>  <a class="mw-redirect" href="/wiki/Semi-major_axis" title="Semi-major axis">Semi-major axis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">b</span>  <a class="mw-redirect" href="/wiki/Semi-minor_axis" title="Semi-minor axis">Semi-minor axis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">Q</span>, <span class="texhtml mvar" style="font-style:italic;">q</span>  <a href="/wiki/Apsis" title="Apsis">Apsides</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Orientation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">i</span>  <a class="mw-redirect" href="/wiki/Inclination" title="Inclination">Inclination</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">Ω</span>  <a href="/wiki/Longitude_of_the_ascending_node" title="Longitude of the ascending node">Longitude of the ascending node</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ω</span>  <a href="/wiki/Argument_of_periapsis" title="Argument of periapsis">Argument of periapsis</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ϖ</span>  <a href="/wiki/Longitude_of_the_periapsis" title="Longitude of the periapsis">Longitude of the periapsis</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Position</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">M</span>  <a href="/wiki/Mean_anomaly" title="Mean anomaly">Mean anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">ν</span>  <a href="/wiki/True_anomaly" title="True anomaly">True anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">E</span>  <a href="/wiki/Eccentric_anomaly" title="Eccentric anomaly">Eccentric anomaly</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">L</span>  <a href="/wiki/Mean_longitude" title="Mean longitude">Mean longitude</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">l</span>  <a href="/wiki/True_longitude" title="True longitude">True longitude</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:9em">Variation</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="texhtml mvar" style="font-style:italic;">T</span>  <a href="/wiki/Orbital_period" title="Orbital period">Orbital period</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">n</span>  <a href="/wiki/Mean_motion" title="Mean motion">Mean motion</a></li>
+<li><span class="texhtml mvar" style="font-style:italic;">v</span>  <a href="/wiki/Orbital_speed" title="Orbital speed">Orbital speed</a></li>
+<li><span class="texhtml"><i>t</i><sub>0</sub></span>  <a href="/wiki/Epoch_(astronomy)" title="Epoch (astronomy)">Epoch</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_maneuver" title="Orbital maneuver">Maneuvers</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Collision_avoidance_(spacecraft)" title="Collision avoidance (spacecraft)">Collision avoidance (spacecraft)</a></li>
+<li><a href="/wiki/Delta-v" title="Delta-v">Delta-v</a></li>
+<li><a href="/wiki/Delta-v_budget" title="Delta-v budget">Delta-v budget</a></li>
+<li><a href="/wiki/Bi-elliptic_transfer" title="Bi-elliptic transfer">Bi-elliptic transfer</a></li>
+<li><a href="/wiki/Geostationary_transfer_orbit" title="Geostationary transfer orbit">Geostationary transfer</a></li>
+<li><a href="/wiki/Gravity_assist" title="Gravity assist">Gravity assist</a></li>
+<li><a href="/wiki/Gravity_turn" title="Gravity turn">Gravity turn</a></li>
+<li><a href="/wiki/Hohmann_transfer_orbit" title="Hohmann transfer orbit">Hohmann transfer</a></li>
+<li><a class="mw-redirect" href="/wiki/Low_energy_transfer" title="Low energy transfer">Low energy transfer</a></li>
+<li><a href="/wiki/Oberth_effect" title="Oberth effect">Oberth effect</a></li>
+<li><a href="/wiki/Orbital_inclination_change" title="Orbital inclination change">Inclination change</a></li>
+<li><a href="/wiki/Orbit_phasing" title="Orbit phasing">Phasing</a></li>
+<li><a href="/wiki/Tsiolkovsky_rocket_equation" title="Tsiolkovsky rocket equation">Rocket equation</a></li>
+<li><a href="/wiki/Space_rendezvous" title="Space rendezvous">Rendezvous</a></li>
+<li><a href="/wiki/Transposition,_docking,_and_extraction" title="Transposition, docking, and extraction">Transposition, docking, and extraction</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Orbital_mechanics" title="Orbital mechanics">Orbital mechanics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Celestial_coordinate_system" title="Celestial coordinate system">Celestial coordinate system</a></li>
+<li><a href="/wiki/Characteristic_energy" title="Characteristic energy">Characteristic energy</a></li>
+<li><a href="/wiki/Escape_velocity" title="Escape velocity">Escape velocity</a></li>
+<li><a href="/wiki/Ephemeris" title="Ephemeris">Ephemeris</a></li>
+<li><a href="/wiki/Equatorial_coordinate_system" title="Equatorial coordinate system">Equatorial coordinate system</a></li>
+<li><a href="/wiki/Ground_track" title="Ground track">Ground track</a></li>
+<li><a href="/wiki/Hill_sphere" title="Hill sphere">Hill sphere</a></li>
+<li><a href="/wiki/Interplanetary_Transport_Network" title="Interplanetary Transport Network">Interplanetary Transport Network</a></li>
+<li><a href="/wiki/Kepler%27s_laws_of_planetary_motion" title="Kepler's laws of planetary motion">Kepler's laws of planetary motion</a></li>
+<li><a href="/wiki/Lagrangian_point" title="Lagrangian point">Lagrangian point</a></li>
+<li><a href="/wiki/N-body_problem" title="N-body problem"><i>n</i>-body problem</a></li>
+<li><a href="/wiki/Orbit_equation" title="Orbit equation">Orbit equation</a></li>
+<li><a href="/wiki/Orbital_state_vectors" title="Orbital state vectors">Orbital state vectors</a></li>
+<li><a href="/wiki/Perturbation_(astronomy)" title="Perturbation (astronomy)">Perturbation</a></li>
+<li><a class="mw-redirect" href="/wiki/Retrograde_motion" title="Retrograde motion">Retrograde motion</a></li>
+<li><a href="/wiki/Specific_orbital_energy" title="Specific orbital energy">Specific orbital energy</a></li>
+<li><a href="/wiki/Specific_relative_angular_momentum" title="Specific relative angular momentum">Specific relative angular momentum</a></li>
+<li><a href="/wiki/Two-line_element_set" title="Two-line element set">Two-line elements</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<ul>
+<li><b><a href="/wiki/List_of_orbits" title="List of orbits">List of orbits</a></b></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1190
+Cached time: 20170922024600
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.172 seconds
+Real time usage: 0.249 seconds
+Preprocessor visited node count: 1187/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 48400/2097152 bytes
+Template argument size: 1983/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 3/500
+Lua time usage: 0.071/10.000 seconds
+Lua memory usage: 2.54 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  202.535      1 -total
+ 38.86%   78.709      1 Template:Reflist
+ 31.63%   64.064      2 Template:Citation_needed
+ 29.94%   60.637      3 Template:Fix
+ 16.45%   33.324      3 Template:Navbox
+ 15.32%   31.023      1 Template:Cite_web
+ 15.17%   30.724      6 Template:Category_handler
+ 13.18%   26.691      1 Template:ISBN
+ 13.17%   26.666      3 Template:Delink
+ 11.97%   24.253      1 Template:Orbits
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:979306-0!canonical and timestamp 20170922024604 and revision id 801824816
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Orbital_station-keeping&amp;oldid=801824816">https://en.wikipedia.org/w/index.php?title=Orbital_station-keeping&amp;oldid=801824816</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Satellites" title="Category:Satellites">Satellites</a></li><li><a href="/wiki/Category:Astrodynamics" title="Category:Astrodynamics">Astrodynamics</a></li><li><a href="/wiki/Category:Earth_orbits" title="Category:Earth orbits">Earth orbits</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_June_2009" title="Category:Articles with unsourced statements from June 2009">Articles with unsourced statements from June 2009</a></li><li><a href="/wiki/Category:All_articles_with_vague_or_ambiguous_time" title="Category:All articles with vague or ambiguous time">All articles with vague or ambiguous time</a></li><li><a href="/wiki/Category:Vague_or_ambiguous_time_from_January_2016" title="Category:Vague or ambiguous time from January 2016">Vague or ambiguous time from January 2016</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2016" title="Category:Articles with unsourced statements from January 2016">Articles with unsourced statements from January 2016</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Orbital+station-keeping" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Orbital+station-keeping" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Orbital_station-keeping" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Orbital_station-keeping" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="selected" id="ca-view"><span><a href="/wiki/Orbital_station-keeping">Read</a></span></li>
+<li id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Orbital_station-keeping&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Orbital_station-keeping&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Orbital_station-keeping" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Orbital_station-keeping" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Orbital_station-keeping&amp;oldid=801824816" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Orbital_station-keeping&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7100095" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Orbital_station-keeping&amp;id=801824816" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Orbital+station-keeping">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Orbital+station-keeping&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DOrbital%2Bstation-keeping%26returnto%3DOrbital%2Bstation-keeping%26oldid%3D801824816%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Orbital_station-keeping&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A7%D9%84%D9%85%D8%AD%D8%A7%D9%81%D8%B8%D8%A9_%D8%B9%D9%84%D9%89_%D9%85%D8%AF%D8%A7%D8%B1" hreflang="ar" lang="ar" title="المحافظة على مدار – Arabic">العربية</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Orbital_station-keeping" hreflang="id" lang="id" title="Orbital station-keeping – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-te"><a class="interlanguage-link-target" href="https://te.wikipedia.org/wiki/%E0%B0%B8%E0%B1%8D%E0%B0%9F%E0%B1%87%E0%B0%B7%E0%B0%A8%E0%B1%8D_%E0%B0%95%E0%B1%80%E0%B0%AA%E0%B0%BF%E0%B0%82%E0%B0%97%E0%B1%8D" hreflang="te" lang="te" title="స్టేషన్ కీపింగ్ – Telugu">తెలుగు</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7100095#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 22 September 2017, at 02:46.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Orbital_station-keeping&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.172","walltime":"0.249","ppvisitednodes":{"value":1187,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":48400,"limit":2097152},"templateargumentsize":{"value":1983,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":3,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  202.535      1 -total"," 38.86%   78.709      1 Template:Reflist"," 31.63%   64.064      2 Template:Citation_needed"," 29.94%   60.637      3 Template:Fix"," 16.45%   33.324      3 Template:Navbox"," 15.32%   31.023      1 Template:Cite_web"," 15.17%   30.724      6 Template:Category_handler"," 13.18%   26.691      1 Template:ISBN"," 13.17%   26.666      3 Template:Delink"," 11.97%   24.253      1 Template:Orbits"]},"scribunto":{"limitreport-timeusage":{"value":"0.071","limit":"10.000"},"limitreport-memusage":{"value":2658868,"limit":52428800}},"cachereport":{"origin":"mw1190","timestamp":"20170922024600","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":60,"wgHostname":"mw1271"});});</script>
+</body>
+</html>

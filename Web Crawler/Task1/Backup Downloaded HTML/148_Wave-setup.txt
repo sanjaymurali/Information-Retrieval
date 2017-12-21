@@ -1,0 +1,557 @@
+https://en.wikipedia.org/wiki/Wave_setup
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Wave setup - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Wave_setup","wgTitle":"Wave setup","wgCurRevisionId":720901921,"wgRevisionId":720901921,"wgArticleId":33555016,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["All stub articles","Fluid dynamics stubs","Physical oceanography","Water waves"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Wave_setup","wgRelevantArticleId":33555016,"wgRequestId":"WdU2kwpAMFAAAKWZRRUAAABU","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q7975330","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Wave_setup" rel="alternate"/>
+<link href="/w/index.php?title=Wave_setup&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Wave_setup&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Wave_setup" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Wave_setup rootpage-Wave_setup vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Wave setup</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><p>In <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">fluid dynamics</a>, <b>wave setup</b> is the increase in <a href="/wiki/Arithmetic_mean" title="Arithmetic mean">mean</a> water level due to the presence of breaking <a href="/wiki/Wind_wave" title="Wind wave">waves</a>. Similarly, <b>wave setdown</b> is a wave-induced decrease of the mean water level before the waves break (during the shoaling process). For short, the whole phenomenon is often denoted as wave setup, including both increase and decrease of mean elevation. This setup is primarily present in and near the coastal <a href="/wiki/Surf_zone" title="Surf zone">surf zone</a>. Besides a spatial variation in the (mean) wave setup, also a variation in time may be present – known as <a class="new" href="/w/index.php?title=Surf_beat&amp;action=edit&amp;redlink=1" title="Surf beat (page does not exist)">surf beat</a> – causing <a href="/wiki/Infragravity_wave" title="Infragravity wave">infragravity wave</a> <a href="/wiki/Radiation" title="Radiation">radiation</a>.</p>
+<p>Wave setup can be mathematically modeled by considering the variation in <a href="/wiki/Radiation_stress" title="Radiation stress">radiation stress</a> (<a href="#CITEREFLonguet-HigginsStewart1962">Longuet-Higgins &amp; Stewart 1962</a>). Radiation stress is the <a href="/wiki/Tensor" title="Tensor">tensor</a> of excess horizontal-<a href="/wiki/Momentum" title="Momentum">momentum</a> <a href="/wiki/Flux" title="Flux">fluxes</a> due to the presence of the waves.</p>
+<h2><span class="mw-headline" id="In_and_near_the_coastal_surf_zone">In and near the coastal surf zone</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wave_setup&amp;action=edit&amp;section=1" title="Edit section: In and near the coastal surf zone">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>As a progressive wave approaches shore and the water depth decreases, the wave height increases due to <a href="/wiki/Wave_shoaling" title="Wave shoaling">wave shoaling</a>. As a result, there is additional wave-induced flux of horizontal momentum. The horizontal momentum equations of the mean flow requires this additional wave-induced flux to be balanced: this causes a decrease in the mean water level before the waves break, called a "setdown".</p>
+<p>After the waves <a href="/wiki/Breaking_wave" title="Breaking wave">break</a>, the wave energy flux is no longer constant, but decreasing due to energy dissipation. The radiation stress therefore decreases after the break point, causing a free surface level increase to balance: wave setup. Both of the above descriptions are specifically for beaches with mild bed slope.</p>
+<p>Wave setup is particularly of concern during storm events, when the effects of big waves generated by wind from the storm are able to increase the mean sea level (by wave setup), enhancing the risks of damage to coastal infrastructure.</p>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Wave_setup&amp;action=edit&amp;section=2" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation" id="CITEREFLonguet-HigginsStewart1962"><a href="/wiki/Michael_S._Longuet-Higgins" title="Michael S. Longuet-Higgins">Longuet-Higgins, M. S.</a>; Stewart, R. W. (1962), "Radiation stress and mass transport in gravity waves, with application to 'surf beats<span style="padding-right:0.2em;">'</span>", <i>Journal of Fluid Mechanics</i>, <b>13</b> (4): 481–504, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1962JFM....13..481L" rel="nofollow">1962JFM....13..481L</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1017%2FS0022112062000877" rel="nofollow">10.1017/S0022112062000877</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWave+setup&amp;rft.atitle=Radiation+stress+and+mass+transport+in+gravity+waves%2C+with+application+to+%27surf+beats%27&amp;rft.au=Stewart%2C+R.+W.&amp;rft.aufirst=M.+S.&amp;rft.aulast=Longuet-Higgins&amp;rft.date=1962&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Journal+of+Fluid+Mechanics&amp;rft.pages=481-504&amp;rft.volume=13&amp;rft_id=info%3Abibcode%2F1962JFM....13..481L&amp;rft_id=info%3Adoi%2F10.1017%2FS0022112062000877&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFBowenInmanSimmons1968">Bowen, A. J.; Inman, D. L.; Simmons, V. P. (1968), "Wave 'Set-Down' and Set-Up", <i>Journal of Geophysical Research</i>, <b>73</b> (8): 2569–2577, <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1968JGR....73.2569B" rel="nofollow">1968JGR....73.2569B</a>, <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2FJB073i008p02569" rel="nofollow">10.1029/JB073i008p02569</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWave+setup&amp;rft.atitle=Wave+%27Set-Down%27+and+Set-Up&amp;rft.au=Inman%2C+D.+L.&amp;rft.au=Simmons%2C+V.+P.&amp;rft.aufirst=A.+J.&amp;rft.aulast=Bowen&amp;rft.date=1968&amp;rft.genre=article&amp;rft.issue=8&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.pages=2569-2577&amp;rft.volume=73&amp;rft_id=info%3Abibcode%2F1968JGR....73.2569B&amp;rft_id=info%3Adoi%2F10.1029%2FJB073i008p02569&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+<li><cite class="citation" id="CITEREFDeanWalton2009">Dean, Robert G.; Walton, Todd L. (2009), "Wave setup", in Kim, Young C., <i>Handbook of coastal and ocean engineering</i>, World Scientific, pp. 1–23, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-981-281-929-1" title="Special:BookSources/978-981-281-929-1">978-981-281-929-1</a></cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AWave+setup&amp;rft.atitle=Wave+setup&amp;rft.au=Walton%2C+Todd+L.&amp;rft.aufirst=Robert+G.&amp;rft.aulast=Dean&amp;rft.btitle=Handbook+of+coastal+and+ocean+engineering&amp;rft.date=2009&amp;rft.genre=bookitem&amp;rft.isbn=978-981-281-929-1&amp;rft.pages=1-23&amp;rft.pub=World+Scientific&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<div aria-labelledby="Physical_oceanography" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Physical_oceanography" title="Template:Physical oceanography"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Physical_oceanography" title="Template talk:Physical oceanography"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Physical_oceanography&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Physical_oceanography" style="font-size:114%;margin:0 4em"><a href="/wiki/Physical_oceanography" title="Physical oceanography">Physical oceanography</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wind_wave" title="Wind wave">Waves</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airy_wave_theory" title="Airy wave theory">Airy wave theory</a></li>
+<li><a href="/wiki/Ballantine_scale" title="Ballantine scale">Ballantine scale</a></li>
+<li><a href="/wiki/Modulational_instability" title="Modulational instability">Benjamin–Feir instability</a></li>
+<li><a href="/wiki/Boussinesq_approximation_(water_waves)" title="Boussinesq approximation (water waves)">Boussinesq approximation</a></li>
+<li><a href="/wiki/Breaking_wave" title="Breaking wave">Breaking wave</a></li>
+<li><a href="/wiki/Clapotis" title="Clapotis">Clapotis</a></li>
+<li><a href="/wiki/Cnoidal_wave" title="Cnoidal wave">Cnoidal wave</a></li>
+<li><a href="/wiki/Cross_sea" title="Cross sea">Cross sea</a></li>
+<li><a href="/wiki/Dispersion_(water_waves)" title="Dispersion (water waves)">Dispersion</a></li>
+<li><a href="/wiki/Edge_wave" title="Edge wave">Edge wave</a></li>
+<li><a href="/wiki/Equatorial_wave" title="Equatorial wave">Equatorial waves</a></li>
+<li><a href="/wiki/Fetch_(geography)" title="Fetch (geography)">Fetch</a></li>
+<li><a href="/wiki/Gravity_wave" title="Gravity wave">Gravity wave</a></li>
+<li><a href="/wiki/Green%27s_law" title="Green's law">Green's law</a></li>
+<li><a href="/wiki/Infragravity_wave" title="Infragravity wave">Infragravity wave</a></li>
+<li><a href="/wiki/Internal_wave" title="Internal wave">Internal wave</a></li>
+<li><a href="/wiki/Iribarren_number" title="Iribarren number">Iribarren number</a></li>
+<li><a href="/wiki/Kelvin_wave" title="Kelvin wave">Kelvin wave</a></li>
+<li><a href="/wiki/Kinematic_wave" title="Kinematic wave">Kinematic wave</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Luke%27s_variational_principle" title="Luke's variational principle">Luke's variational principle</a></li>
+<li><a href="/wiki/Mild-slope_equation" title="Mild-slope equation">Mild-slope equation</a></li>
+<li><a href="/wiki/Radiation_stress" title="Radiation stress">Radiation stress</a></li>
+<li><a href="/wiki/Rogue_wave" title="Rogue wave">Rogue wave</a></li>
+<li><a href="/wiki/Rossby_wave" title="Rossby wave">Rossby wave</a></li>
+<li><a href="/wiki/Rossby-gravity_waves" title="Rossby-gravity waves">Rossby-gravity waves</a></li>
+<li><a href="/wiki/Sea_state" title="Sea state">Sea state</a></li>
+<li><a href="/wiki/Seiche" title="Seiche">Seiche</a></li>
+<li><a href="/wiki/Significant_wave_height" title="Significant wave height">Significant wave height</a></li>
+<li><a href="/wiki/Soliton" title="Soliton">Soliton</a></li>
+<li><a href="/wiki/Stokes_boundary_layer" title="Stokes boundary layer">Stokes boundary layer</a></li>
+<li><a href="/wiki/Stokes_drift" title="Stokes drift">Stokes drift</a></li>
+<li><a href="/wiki/Stokes_wave" title="Stokes wave">Stokes wave</a></li>
+<li><a href="/wiki/Swell_(ocean)" title="Swell (ocean)">Swell</a></li>
+<li><a href="/wiki/Trochoidal_wave" title="Trochoidal wave">Trochoidal wave</a></li>
+<li><a href="/wiki/Tsunami" title="Tsunami">Tsunami</a>
+<ul>
+<li><a href="/wiki/Megatsunami" title="Megatsunami">megatsunami</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Undertow_(water_waves)" title="Undertow (water waves)">Undertow</a></li>
+<li><a href="/wiki/Ursell_number" title="Ursell number">Ursell number</a></li>
+<li><a href="/wiki/Wave_action_(continuum_mechanics)" title="Wave action (continuum mechanics)">Wave action</a></li>
+<li><a href="/wiki/Wave_base" title="Wave base">Wave base</a></li>
+<li><a href="/wiki/Wave_height" title="Wave height">Wave height</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave power</a></li>
+<li><a href="/wiki/Wave_radar" title="Wave radar">Wave radar</a></li>
+<li><a class="mw-selflink selflink">Wave setup</a></li>
+<li><a href="/wiki/Wave_shoaling" title="Wave shoaling">Wave shoaling</a></li>
+<li><a href="/wiki/Wave_turbulence" title="Wave turbulence">Wave turbulence</a></li>
+<li><a href="/wiki/Wave%E2%80%93current_interaction" title="Wave–current interaction">Wave–current interaction</a></li>
+<li><a href="/wiki/Waves_and_shallow_water" title="Waves and shallow water">Waves and shallow water</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/One-dimensional_Saint-Venant_equations" title="One-dimensional Saint-Venant equations">one-dimensional Saint-Venant equations</a></li>
+<li><a href="/wiki/Shallow_water_equations" title="Shallow water equations">shallow water equations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wind_wave" title="Wind wave">Wind wave</a>
+<ul>
+<li><a href="/wiki/Wind_wave_model" title="Wind wave model">model</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Upwelling.svg" title="Upwelling"><img alt="Upwelling" data-file-height="242" data-file-width="365" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/140px-Upwelling.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/210px-Upwelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/280px-Upwelling.svg.png 2x" width="140"/></a><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<a class="image" href="/wiki/File:Antarctic_bottom_water.svg" title="Antarctic bottom water"><img alt="Antarctic bottom water" data-file-height="470" data-file-width="745" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/140px-Antarctic_bottom_water.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/210px-Antarctic_bottom_water.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/280px-Antarctic_bottom_water.svg.png 2x" width="140"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_current" title="Ocean current">Circulation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a href="/wiki/Boundary_current" title="Boundary current">Boundary current</a></li>
+<li><a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a></li>
+<li><a href="/wiki/Coriolis%E2%80%93Stokes_force" title="Coriolis–Stokes force">Coriolis–Stokes force</a></li>
+<li><a href="/wiki/Craik%E2%80%93Leibovich_vortex_force" title="Craik–Leibovich vortex force">Craik–Leibovich vortex force</a></li>
+<li><a href="/wiki/Downwelling" title="Downwelling">Downwelling</a></li>
+<li><a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">Eddy</a></li>
+<li><a href="/wiki/Ekman_layer" title="Ekman layer">Ekman layer</a></li>
+<li><a href="/wiki/Ekman_spiral" title="Ekman spiral">Ekman spiral</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">El Niño–Southern Oscillation</a></li>
+<li><a href="/wiki/General_circulation_model" title="General circulation model">General circulation model</a></li>
+<li><a href="/wiki/Geostrophic_current" title="Geostrophic current">Geostrophic current</a></li>
+<li><a href="/wiki/Global_Ocean_Data_Analysis_Project" title="Global Ocean Data Analysis Project">Global Ocean Data Analysis Project</a></li>
+<li><a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></li>
+<li><a href="/wiki/Halothermal_circulation" title="Halothermal circulation">Halothermal circulation</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt Current</a></li>
+<li><a href="/wiki/Hydrothermal_circulation" title="Hydrothermal circulation">Hydrothermal circulation</a></li>
+<li><a href="/wiki/Langmuir_circulation" title="Langmuir circulation">Langmuir circulation</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop Current</a></li>
+<li><a href="/wiki/Modular_Ocean_Model" title="Modular Ocean Model">Modular Ocean Model</a></li>
+<li><a href="/wiki/Ocean_dynamics" title="Ocean dynamics">Ocean dynamics</a></li>
+<li><a href="/wiki/Ocean_gyre" title="Ocean gyre">Ocean gyre</a></li>
+<li><a href="/wiki/Princeton_Ocean_Model" title="Princeton Ocean Model">Princeton Ocean Model</a></li>
+<li><a href="/wiki/Rip_current" title="Rip current">Rip current</a></li>
+<li><a href="/wiki/Subsurface_currents" title="Subsurface currents">Subsurface currents</a></li>
+<li><a href="/wiki/Sverdrup_balance" title="Sverdrup balance">Sverdrup balance</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a>
+<ul>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">shutdown</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></li>
+<li><a href="/wiki/Whirlpool" title="Whirlpool">Whirlpool</a></li>
+<li><a href="/wiki/World_Ocean_Circulation_Experiment" title="World Ocean Circulation Experiment">World Ocean Circulation Experiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tide" title="Tide">Tides</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amphidromic_point" title="Amphidromic point">Amphidromic point</a></li>
+<li><a href="/wiki/Earth_tide" title="Earth tide">Earth tide</a></li>
+<li><a href="/wiki/Head_of_tide" title="Head of tide">Head of tide</a></li>
+<li><a href="/wiki/Internal_tide" title="Internal tide">Internal tide</a></li>
+<li><a href="/wiki/Lunitidal_interval" title="Lunitidal interval">Lunitidal interval</a></li>
+<li><a href="/wiki/Perigean_spring_tide" title="Perigean spring tide">Perigean spring tide</a></li>
+<li><a href="/wiki/Rip_tide" title="Rip tide">Rip tide</a></li>
+<li><a href="/wiki/Rule_of_twelfths" title="Rule of twelfths">Rule of twelfths</a></li>
+<li><a href="/wiki/Slack_water" title="Slack water">Slack water</a></li>
+<li><a href="/wiki/Tidal_bore" title="Tidal bore">Tidal bore</a></li>
+<li><a href="/wiki/Tidal_force" title="Tidal force">Tidal force</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+<li><a href="/wiki/Tidal_race" title="Tidal race">Tidal race</a></li>
+<li><a href="/wiki/Tidal_range" title="Tidal range">Tidal range</a></li>
+<li><a href="/wiki/Tidal_resonance" title="Tidal resonance">Tidal resonance</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Tideline" title="Tideline">Tideline</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Landform" title="Landform">Landforms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abyssal_fan" title="Abyssal fan">Abyssal fan</a></li>
+<li><a href="/wiki/Abyssal_plain" title="Abyssal plain">Abyssal plain</a></li>
+<li><a href="/wiki/Atoll" title="Atoll">Atoll</a></li>
+<li><a href="/wiki/Bathymetric_chart" title="Bathymetric chart">Bathymetric chart</a></li>
+<li><a href="/wiki/Coastal_geography" title="Coastal geography">Coastal geography</a></li>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seep</a></li>
+<li><a href="/wiki/Continental_margin" title="Continental margin">Continental margin</a></li>
+<li><a href="/wiki/Continental_rise" title="Continental rise">Continental rise</a></li>
+<li><a href="/wiki/Continental_shelf" title="Continental shelf">Continental shelf</a></li>
+<li><a href="/wiki/Contourite" title="Contourite">Contourite</a></li>
+<li><a href="/wiki/Guyot" title="Guyot">Guyot</a></li>
+<li><a href="/wiki/Hydrography" title="Hydrography">Hydrography</a></li>
+<li><a href="/wiki/Oceanic_basin" title="Oceanic basin">Oceanic basin</a></li>
+<li><a href="/wiki/Oceanic_plateau" title="Oceanic plateau">Oceanic plateau</a></li>
+<li><a href="/wiki/Oceanic_trench" title="Oceanic trench">Oceanic trench</a></li>
+<li><a href="/wiki/Passive_margin" title="Passive margin">Passive margin</a></li>
+<li><a href="/wiki/Seabed" title="Seabed">Seabed</a></li>
+<li><a href="/wiki/Seamount" title="Seamount">Seamount</a></li>
+<li><a href="/wiki/Submarine_canyon" title="Submarine canyon">Submarine canyon</a></li>
+<li><a href="/wiki/Submarine_volcano" title="Submarine volcano">Submarine volcano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate<br/>
+tectonics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convergent_boundary" title="Convergent boundary">Convergent boundary</a></li>
+<li><a href="/wiki/Divergent_boundary" title="Divergent boundary">Divergent boundary</a></li>
+<li><a href="/wiki/Fracture_zone" title="Fracture zone">Fracture zone</a></li>
+<li><a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">Hydrothermal vent</a></li>
+<li><a href="/wiki/Marine_geology" title="Marine geology">Marine geology</a></li>
+<li><a href="/wiki/Mid-ocean_ridge" title="Mid-ocean ridge">Mid-ocean ridge</a></li>
+<li><a href="/wiki/Mohorovi%C4%8Di%C4%87_discontinuity" title="Mohorovičić discontinuity">Mohorovičić discontinuity</a></li>
+<li><a href="/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis" title="Vine–Matthews–Morley hypothesis">Vine–Matthews–Morley hypothesis</a></li>
+<li><a href="/wiki/Oceanic_crust" title="Oceanic crust">Oceanic crust</a></li>
+<li><a href="/wiki/Outer_trench_swell" title="Outer trench swell">Outer trench swell</a></li>
+<li><a href="/wiki/Ridge_push" title="Ridge push">Ridge push</a></li>
+<li><a href="/wiki/Seafloor_spreading" title="Seafloor spreading">Seafloor spreading</a></li>
+<li><a href="/wiki/Slab_pull" title="Slab pull">Slab pull</a></li>
+<li><a href="/wiki/Slab_suction" title="Slab suction">Slab suction</a></li>
+<li><a href="/wiki/Slab_window" title="Slab window">Slab window</a></li>
+<li><a href="/wiki/Subduction" title="Subduction">Subduction</a></li>
+<li><a href="/wiki/Transform_fault" title="Transform fault">Transform fault</a></li>
+<li><a href="/wiki/Volcanic_arc" title="Volcanic arc">Volcanic arc</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ocean zones</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Benthic_zone" title="Benthic zone">Benthic</a></li>
+<li><a href="/wiki/Deep_ocean_water" title="Deep ocean water">Deep ocean water</a></li>
+<li><a href="/wiki/Deep_sea" title="Deep sea">Deep sea</a></li>
+<li><a href="/wiki/Littoral_zone" title="Littoral zone">Littoral</a></li>
+<li><a href="/wiki/Mesopelagic_zone" title="Mesopelagic zone">Mesopelagic</a></li>
+<li><a href="/wiki/Oceanic_zone" title="Oceanic zone">Oceanic</a></li>
+<li><a href="/wiki/Pelagic_zone" title="Pelagic zone">Pelagic</a></li>
+<li><a href="/wiki/Photic_zone" title="Photic zone">Photic</a></li>
+<li><a href="/wiki/Surf_zone" title="Surf zone">Surf</a></li>
+<li><a href="/wiki/Swash" title="Swash">Swash</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sea_level" title="Sea level">Sea level</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep-ocean_Assessment_and_Reporting_of_Tsunamis" title="Deep-ocean Assessment and Reporting of Tsunamis">Deep-ocean Assessment and Reporting of Tsunamis</a></li>
+<li><a href="/wiki/Future_sea_level" title="Future sea level">Future sea level</a></li>
+<li><a href="/wiki/Global_Sea_Level_Observing_System" title="Global Sea Level Observing System">Global Sea Level Observing System</a></li>
+<li><a href="/wiki/North_West_Shelf_Operational_Oceanographic_System" title="North West Shelf Operational Oceanographic System">North West Shelf Operational Oceanographic System</a></li>
+<li><a href="/wiki/Sea-level_curve" title="Sea-level curve">Sea-level curve</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/World_Geodetic_System" title="World Geodetic System">World Geodetic System</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Acoustical_oceanography" title="Acoustical oceanography">Acoustics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep_scattering_layer" title="Deep scattering layer">Deep scattering layer</a></li>
+<li><a href="/wiki/Hydroacoustics" title="Hydroacoustics">Hydroacoustics</a></li>
+<li><a href="/wiki/Ocean_acoustic_tomography" title="Ocean acoustic tomography">Ocean acoustic tomography</a></li>
+<li><a href="/wiki/Sofar_bomb" title="Sofar bomb">Sofar bomb</a></li>
+<li><a href="/wiki/SOFAR_channel" title="SOFAR channel">SOFAR channel</a></li>
+<li><a href="/wiki/Underwater_acoustics" title="Underwater acoustics">Underwater acoustics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Satellites</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jason-1" title="Jason-1">Jason-1</a></li>
+<li><a href="/wiki/Ocean_Surface_Topography_Mission" title="Ocean Surface Topography Mission">Jason-2 (Ocean Surface Topography Mission)</a></li>
+<li><a href="/wiki/Jason-3" title="Jason-3">Jason-3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Argo_(oceanography)" title="Argo (oceanography)">Argo</a></li>
+<li><a href="/wiki/Benthic_lander" title="Benthic lander">Benthic lander</a></li>
+<li><a href="/wiki/Color_of_water" title="Color of water">Color of water</a></li>
+<li><a href="/wiki/DSV_Alvin" title="DSV Alvin">DSV <i>Alvin</i></a></li>
+<li><a class="mw-redirect" href="/wiki/Marginal_sea" title="Marginal sea">Marginal sea</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine energy</a></li>
+<li><a href="/wiki/Marine_pollution" title="Marine pollution">Marine pollution</a></li>
+<li><a href="/wiki/Mooring_(oceanography)" title="Mooring (oceanography)">Mooring</a></li>
+<li><a href="/wiki/National_Oceanographic_Data_Center" title="National Oceanographic Data Center">National Oceanographic Data Center</a></li>
+<li><a href="/wiki/Ocean" title="Ocean">Ocean</a></li>
+<li><a href="/wiki/Ocean_exploration" title="Ocean exploration">Ocean exploration</a></li>
+<li><a href="/wiki/Ocean_observations" title="Ocean observations">Ocean observations</a></li>
+<li><a href="/wiki/Ocean_reanalysis" title="Ocean reanalysis">Ocean reanalysis</a></li>
+<li><a href="/wiki/Ocean_surface_topography" title="Ocean surface topography">Ocean surface topography</a></li>
+<li><a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">Ocean thermal energy conversion</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Pelagic_sediment" title="Pelagic sediment">Pelagic sediment</a></li>
+<li><a href="/wiki/Sea_surface_microlayer" title="Sea surface microlayer">Sea surface microlayer</a></li>
+<li><a href="/wiki/Sea_surface_temperature" title="Sea surface temperature">Sea surface temperature</a></li>
+<li><a href="/wiki/Seawater" title="Seawater">Seawater</a></li>
+<li><a href="/wiki/Science_On_a_Sphere" title="Science On a Sphere">Science On a Sphere</a></li>
+<li><a href="/wiki/Thermocline" title="Thermocline">Thermocline</a></li>
+<li><a href="/wiki/Underwater_glider" title="Underwater glider">Underwater glider</a></li>
+<li><a href="/wiki/Water_column" title="Water column">Water column</a></li>
+<li><a href="/wiki/World_Ocean_Atlas" title="World Ocean Atlas">World Ocean Atlas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Physical_oceanography" title="commons:Category:Physical oceanography">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<table class="metadata plainlinks stub" role="presentation" style="background:transparent">
+<tr>
+<td><a class="image" href="/wiki/File:Streamlines_relative_to_airfoil.png"><img alt="Stub icon" data-file-height="467" data-file-width="467" height="45" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Streamlines_relative_to_airfoil.png/45px-Streamlines_relative_to_airfoil.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Streamlines_relative_to_airfoil.png/68px-Streamlines_relative_to_airfoil.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Streamlines_relative_to_airfoil.png/90px-Streamlines_relative_to_airfoil.png 2x" width="45"/></a></td>
+<td><i>This <a href="/wiki/Fluid_dynamics" title="Fluid dynamics">fluid dynamics</a>–related article is a <a href="/wiki/Wikipedia:Stub" title="Wikipedia:Stub">stub</a>. You can help Wikipedia by <a class="external text" href="//en.wikipedia.org/w/index.php?title=Wave_setup&amp;action=edit">expanding it</a>.</i>
+<div class="plainlinks hlist navbar mini" style="position: absolute; right: 15px; display: none;">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Fluiddynamics-stub" title="Template:Fluiddynamics-stub"><abbr title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Fluiddynamics-stub" title="Template talk:Fluiddynamics-stub"><abbr title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Fluiddynamics-stub&amp;action=edit"><abbr title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+<!-- 
+NewPP limit report
+Parsed by mw1272
+Cached time: 20170930185141
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.100 seconds
+Real time usage: 0.135 seconds
+Preprocessor visited node count: 315/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 38369/2097152 bytes
+Template argument size: 0/2097152 bytes
+Highest expansion depth: 5/40
+Expensive parser function count: 0/500
+Lua time usage: 0.039/10.000 seconds
+Lua memory usage: 2.67 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%   84.825      1 -total
+ 47.10%   39.952      3 Template:Citation
+ 23.27%   19.737      1 Template:Physical_oceanography
+ 20.46%   17.359      1 Template:Navbox
+ 17.20%   14.588      1 Template:Harv
+ 11.91%   10.101      1 Template:Fluiddynamics-stub
+ 10.74%    9.109      1 Template:Asbox
+  7.56%    6.412      2 Template:Icon
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:33555016-0!canonical and timestamp 20170930185141 and revision id 720901921
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Wave_setup&amp;oldid=720901921">https://en.wikipedia.org/w/index.php?title=Wave_setup&amp;oldid=720901921</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fluid_dynamics_stubs" title="Category:Fluid dynamics stubs">Fluid dynamics stubs</a></li><li><a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Physical oceanography</a></li><li><a href="/wiki/Category:Water_waves" title="Category:Water waves">Water waves</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:All_stub_articles" title="Category:All stub articles">All stub articles</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Wave+setup" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Wave+setup" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Wave_setup" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Wave_setup" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Wave_setup">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Wave_setup&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Wave_setup&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Wave_setup" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Wave_setup" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Wave_setup&amp;oldid=720901921" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Wave_setup&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7975330" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Wave_setup&amp;id=720901921" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Wave+setup">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Wave+setup&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DWave%2Bsetup%26returnto%3DWave%2Bsetup%26oldid%3D720901921%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Wave_setup&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AE%DB%8C%D8%B2%D8%A2%D8%A8_%D9%85%D9%88%D8%AC" hreflang="fa" lang="fa" title="خیزآب موج – Persian">فارسی</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q7975330#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 18 May 2016, at 17:05.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Wave_setup&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.100","walltime":"0.135","ppvisitednodes":{"value":315,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":38369,"limit":2097152},"templateargumentsize":{"value":0,"limit":2097152},"expansiondepth":{"value":5,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%   84.825      1 -total"," 47.10%   39.952      3 Template:Citation"," 23.27%   19.737      1 Template:Physical_oceanography"," 20.46%   17.359      1 Template:Navbox"," 17.20%   14.588      1 Template:Harv"," 11.91%   10.101      1 Template:Fluiddynamics-stub"," 10.74%    9.109      1 Template:Asbox","  7.56%    6.412      2 Template:Icon"]},"scribunto":{"limitreport-timeusage":{"value":"0.039","limit":"10.000"},"limitreport-memusage":{"value":2800284,"limit":52428800}},"cachereport":{"origin":"mw1272","timestamp":"20170930185141","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":70,"wgHostname":"mw1245"});});</script>
+</body>
+</html>

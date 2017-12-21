@@ -1,0 +1,2181 @@
+https://en.wikipedia.org/wiki/Hydrostatic_balance
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Hydrostatic equilibrium - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Hydrostatic_equilibrium","wgTitle":"Hydrostatic equilibrium","wgCurRevisionId":792518569,"wgRevisionId":792518569,"wgArticleId":51776,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles needing additional references from May 2010","All articles needing additional references","Fluid mechanics","Astrophysics","Hydrostatics","Definition of planet"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Hydrostatic_equilibrium","wgRelevantArticleId":51776,"wgRequestId":"WdRNlwpAMFsAAE9nuh0AAABA","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgRedirectedFrom":"Hydrostatic_balance","wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgInternalRedirectTargetUrl":"/wiki/Hydrostatic_equilibrium","wgWikibaseItemId":"Q208641","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["mediawiki.action.view.redirect","ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Hydrostatic_equilibrium" rel="alternate"/>
+<link href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Hydrostatic_equilibrium" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Hydrostatic_equilibrium rootpage-Hydrostatic_equilibrium vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Hydrostatic equilibrium</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"><span class="mw-redirectedfrom">  (Redirected from <a class="mw-redirect" href="/w/index.php?title=Hydrostatic_balance&amp;redirect=no" title="Hydrostatic balance">Hydrostatic balance</a>)</span></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><table class="plainlinks metadata ambox ambox-content ambox-Refimprove" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><a class="image" href="/wiki/File:Question_book-new.svg"><img alt="" data-file-height="399" data-file-width="512" height="39" src="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/50px-Question_book-new.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/75px-Question_book-new.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/99/Question_book-new.svg/100px-Question_book-new.svg.png 2x" width="50"/></a></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article <b>needs additional citations for <a href="/wiki/Wikipedia:Verifiability" title="Wikipedia:Verifiability">verification</a></b>. <span class="hide-when-compact">Please help <a class="external text" href="//en.wikipedia.org/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit">improve this article</a> by <a href="/wiki/Help:Introduction_to_referencing_with_Wiki_Markup/1" title="Help:Introduction to referencing with Wiki Markup/1">adding citations to reliable sources</a>. Unsourced material may be challenged and removed.</span> <small><i>(May 2010)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<p>In <a href="/wiki/Fluid_mechanics" title="Fluid mechanics">fluid mechanics</a>, a <a href="/wiki/Fluid" title="Fluid">fluid</a> is said to be in <b>hydrostatic equilibrium</b> or <b>hydrostatic balance</b> when it is at rest, or when the flow velocity at each point is constant over time. This occurs when external forces such as <a href="/wiki/Gravity" title="Gravity">gravity</a> are balanced by a <a class="mw-redirect" href="/wiki/Pressure_gradient_force" title="Pressure gradient force">pressure gradient force</a>.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> For instance, the pressure-gradient force prevents gravity from collapsing <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Earth's atmosphere</a> into a thin, dense shell, whereas gravity prevents the pressure gradient force from diffusing the atmosphere into space.</p>
+<p>Hydrostatic equilibrium is the current distinguishing criterion between <a href="/wiki/Dwarf_planet" title="Dwarf planet">dwarf planets</a> and <a href="/wiki/Small_Solar_System_body" title="Small Solar System body">small Solar System bodies</a>, and has other roles in <a href="/wiki/Astrophysics" title="Astrophysics">astrophysics</a> and <a href="/wiki/Planetary_geology" title="Planetary geology">planetary geology</a>. This qualification typically means that the object is symmetrically rounded into a <a href="/wiki/Spheroid" title="Spheroid">spheroid</a> or <a href="/wiki/Ellipsoid" title="Ellipsoid">ellipsoid</a> shape, where any irregular surface features are due to a relatively thin solid <a href="/wiki/Crust_(geology)" title="Crust (geology)">crust</a>. There are <a href="/wiki/List_of_gravitationally_rounded_objects_of_the_Solar_System" title="List of gravitationally rounded objects of the Solar System">31 observationally confirmed such objects</a> (apart from the Sun), sometimes called <i><a class="mw-redirect" href="/wiki/Planemo" title="Planemo">planemos</a>,</i><sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup> in the <a href="/wiki/Solar_System" title="Solar System">Solar System</a>, seven more<sup class="reference" id="cite_ref-brown_3-0"><a href="#cite_note-brown-3">[3]</a></sup> that are virtually certain, and <a href="/wiki/List_of_possible_dwarf_planets" title="List of possible dwarf planets">a hundred or so more</a> that are likely.<sup class="reference" id="cite_ref-brown_3-1"><a href="#cite_note-brown-3">[3]</a></sup></p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Mathematical_consideration"><span class="tocnumber">1</span> <span class="toctext">Mathematical consideration</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Derivation_from_force_summation"><span class="tocnumber">1.1</span> <span class="toctext">Derivation from force summation</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Derivation_from_Navier.E2.80.93Stokes_equations"><span class="tocnumber">1.2</span> <span class="toctext">Derivation from Navier–Stokes equations</span></a></li>
+<li class="toclevel-2 tocsection-4"><a href="#Derivation_from_general_relativity"><span class="tocnumber">1.3</span> <span class="toctext">Derivation from general relativity</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-5"><a href="#Applications"><span class="tocnumber">2</span> <span class="toctext">Applications</span></a>
+<ul>
+<li class="toclevel-2 tocsection-6"><a href="#Fluids"><span class="tocnumber">2.1</span> <span class="toctext">Fluids</span></a></li>
+<li class="toclevel-2 tocsection-7"><a href="#Astrophysics"><span class="tocnumber">2.2</span> <span class="toctext">Astrophysics</span></a></li>
+<li class="toclevel-2 tocsection-8"><a href="#Planetary_geology"><span class="tocnumber">2.3</span> <span class="toctext">Planetary geology</span></a></li>
+<li class="toclevel-2 tocsection-9"><a href="#Atmospherics"><span class="tocnumber">2.4</span> <span class="toctext">Atmospherics</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-10"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#Notes"><span class="tocnumber">4</span> <span class="toctext">Notes</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#References"><span class="tocnumber">5</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#External_links"><span class="tocnumber">6</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Mathematical_consideration">Mathematical consideration</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=1" title="Edit section: Mathematical consideration">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Hydrostatic_equilibrium.svg"><img alt="" class="thumbimage" data-file-height="272" data-file-width="458" height="131" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hydrostatic_equilibrium.svg/220px-Hydrostatic_equilibrium.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hydrostatic_equilibrium.svg/330px-Hydrostatic_equilibrium.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/68/Hydrostatic_equilibrium.svg/440px-Hydrostatic_equilibrium.svg.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Hydrostatic_equilibrium.svg" title="Enlarge"></a></div>
+If the highlighted volume of fluid is not moving, the forces on it upwards must equal the forces downwards.</div>
+</div>
+</div>
+<h3><span class="mw-headline" id="Derivation_from_force_summation">Derivation from force summation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=2" title="Edit section: Derivation from force summation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p><a href="/wiki/Newton%27s_laws_of_motion" title="Newton's laws of motion">Newton's laws of motion</a> state that a volume of a fluid that is not in motion or that is in a state of constant velocity must have zero net force on it. This means the sum of the forces in a given direction must be opposed by an equal sum of forces in the opposite direction. This force balance is called a hydrostatic equilibrium.</p>
+<p>The fluid can be split into a large number of <a href="/wiki/Cuboid" title="Cuboid">cuboid</a> volume elements; by considering a single element, the action of the fluid can be derived.</p>
+<p>There are 3 forces: the force downwards onto the top of the cuboid from the pressure, P, of the fluid above it is, from the definition of <a href="/wiki/Pressure" title="Pressure">pressure</a>,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mi>o</mi>
+<mi>p</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mi>o</mi>
+<mi>p</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F_{top}=-P_{top}\cdot A.}</annotation>
+</semantics>
+</math></span><img alt="F_{{top}}=-P_{{top}}\cdot A." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ac2ca0a88dec5f713acfdb53d8e80aba8263e0d5" style="vertical-align: -1.005ex; width:16.98ex; height:3.009ex;"/></span></dd>
+</dl>
+<p>Similarly, the force on the volume element from the pressure of the fluid below pushing upwards is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+<mi>o</mi>
+<mi>t</mi>
+<mi>t</mi>
+<mi>o</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+<mi>o</mi>
+<mi>t</mi>
+<mi>t</mi>
+<mi>o</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F_{bottom}=P_{bottom}\cdot A.}</annotation>
+</semantics>
+</math></span><img alt="F_{{bottom}}=P_{{bottom}}\cdot A." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4183cafd7292599cc28fc90f1d08baf50b3225b9" style="vertical-align: -0.671ex; width:20.631ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>Finally, the <a href="/wiki/Weight" title="Weight">weight</a> of the volume element causes a force downwards. If the <a href="/wiki/Density" title="Density">density</a> is ρ, the volume is V and g the <a href="/wiki/Standard_gravity" title="Standard gravity">standard gravity</a>, then:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+<mi>e</mi>
+<mi>i</mi>
+<mi>g</mi>
+<mi>h</mi>
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>g</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>V</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F_{weight}=-\rho \cdot g\cdot V.}</annotation>
+</semantics>
+</math></span><img alt="F_{{weight}}=-\rho \cdot g\cdot V." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06f86735be5666f3f10f6b8b9b84cd053ad28862" style="vertical-align: -1.005ex; width:19.722ex; height:2.843ex;"/></span></dd>
+</dl>
+<p>The volume of this cuboid is equal to the area of the top or bottom, times the height — the formula for finding the volume of a cube.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+<mi>e</mi>
+<mi>i</mi>
+<mi>g</mi>
+<mi>h</mi>
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>g</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F_{weight}=-\rho \cdot g\cdot A\cdot h}</annotation>
+</semantics>
+</math></span><img alt="F_{{weight}}=-\rho \cdot g\cdot A\cdot h" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f2ada558762b6caaec0dc74db737da5815497c2d" style="vertical-align: -1.005ex; width:22.06ex; height:3.009ex;"/></span></dd>
+</dl>
+<p>By balancing these forces, the total force on the fluid is</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo>∑<!-- ∑ --></mo>
+<mi>F</mi>
+<mo>=</mo>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+<mi>o</mi>
+<mi>t</mi>
+<mi>t</mi>
+<mi>o</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mi>o</mi>
+<mi>p</mi>
+</mrow>
+</msub>
+<mo>+</mo>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>w</mi>
+<mi>e</mi>
+<mi>i</mi>
+<mi>g</mi>
+<mi>h</mi>
+<mi>t</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+<mi>o</mi>
+<mi>t</mi>
+<mi>t</mi>
+<mi>o</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mi>o</mi>
+<mi>p</mi>
+</mrow>
+</msub>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>g</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>h</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sum F=F_{bottom}+F_{top}+F_{weight}=P_{bottom}\cdot A-P_{top}\cdot A-\rho \cdot g\cdot A\cdot h.}</annotation>
+</semantics>
+</math></span><img alt="\sum F=F_{{bottom}}+F_{{top}}+F_{{weight}}=P_{{bottom}}\cdot A-P_{{top}}\cdot A-\rho \cdot g\cdot A\cdot h." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/51533d4b1cb9818c7b6ac4b459b2da2c798998a6" style="vertical-align: -1.338ex; width:69.174ex; height:3.843ex;"/></span></dd>
+</dl>
+<p>This sum equals zero if the fluid's velocity is constant. Dividing by A,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mn>0</mn>
+<mo>=</mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+<mi>o</mi>
+<mi>t</mi>
+<mi>t</mi>
+<mi>o</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mi>o</mi>
+<mi>p</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>g</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>h</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle 0=P_{bottom}-P_{top}-\rho \cdot g\cdot h.}</annotation>
+</semantics>
+</math></span><img alt="0=P_{{bottom}}-P_{{top}}-\rho \cdot g\cdot h." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5be46cbd85b099e7a53355aff00014fc6026df34" style="vertical-align: -1.005ex; width:28.393ex; height:2.843ex;"/></span></dd>
+</dl>
+<p>Or,</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+<mi>o</mi>
+<mi>p</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>P</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+<mi>o</mi>
+<mi>t</mi>
+<mi>t</mi>
+<mi>o</mi>
+<mi>m</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>g</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>h</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P_{top}-P_{bottom}=-\rho \cdot g\cdot h.}</annotation>
+</semantics>
+</math></span><img alt="P_{{top}}-P_{{bottom}}=-\rho \cdot g\cdot h." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/17bf065d09c4b2de0455c32e4cc5e2878ce3ff66" style="vertical-align: -1.005ex; width:26.188ex; height:2.843ex;"/></span></dd>
+</dl>
+<p>P<sub>top</sub> − P<sub>bottom</sub> is a change in pressure, and h is the height of the volume element—a change in the distance above the ground. By saying these changes are <a href="/wiki/Infinitesimal" title="Infinitesimal">infinitesimally</a> small, the equation can be written in <a href="/wiki/Differential_equation" title="Differential equation">differential</a> form.</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>P</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>g</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>d</mi>
+<mi>h</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dP=-\rho \cdot g\cdot dh.}</annotation>
+</semantics>
+</math></span><img alt="dP=-\rho \cdot g\cdot dh." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b52f1bad6c9d5ed13c6a03da3dbe1b26de770f64" style="vertical-align: -0.838ex; width:16.861ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>Density changes with pressure, and gravity changes with height, so the equation would be:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>P</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<mi>P</mi>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>g</mi>
+<mo stretchy="false">(</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>d</mi>
+<mi>h</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dP=-\rho (P)\cdot g(h)\cdot dh.}</annotation>
+</semantics>
+</math></span><img alt="dP=-\rho (P)\cdot g(h)\cdot dh." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c9cea161c824053e0763d0e863c84cfa6331d7ac" style="vertical-align: -0.838ex; width:23.626ex; height:2.843ex;"/></span></dd>
+</dl>
+<h3><span class="mw-headline" id="Derivation_from_Navier.E2.80.93Stokes_equations">Derivation from Navier–Stokes equations</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=3" title="Edit section: Derivation from Navier–Stokes equations">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Note finally that this last equation can be derived by solving the three-dimensional <a href="/wiki/Navier%E2%80%93Stokes_equations" title="Navier–Stokes equations">Navier–Stokes equations</a> for the equilibrium situation where</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>u</mi>
+<mo>=</mo>
+<mi>v</mi>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>x</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>y</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>0.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle u=v={\frac {\partial p}{\partial x}}={\frac {\partial p}{\partial y}}=0.}</annotation>
+</semantics>
+</math></span><img alt="u=v={\frac  {\partial p}{\partial x}}={\frac  {\partial p}{\partial y}}=0." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/75e65d57dc9504fffecd77589a42fd135eb4323f" style="vertical-align: -2.505ex; width:23.593ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>Then the only non-trivial equation is the <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>z</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle z}</annotation>
+</semantics>
+</math></span><img alt="z" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf368e72c009decd9b6686ee84a375632e11de98" style="vertical-align: -0.338ex; width:1.099ex; height:1.676ex;"/></span>-equation, which now reads</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>p</mi>
+</mrow>
+<mrow>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mi>z</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>+</mo>
+<mi>ρ<!-- ρ --></mi>
+<mi>g</mi>
+<mo>=</mo>
+<mn>0.</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\partial p}{\partial z}}+\rho g=0.}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {\partial p}{\partial z}}+\rho g=0." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3f465bd1f77666088c7ab4dd5e51dc46a31afeea" style="vertical-align: -2.005ex; width:13.473ex; height:5.676ex;"/></span></dd>
+</dl>
+<p>Thus, hydrostatic balance can be regarded as a particularly simple equilibrium solution of the Navier–Stokes equations.</p>
+<h3><span class="mw-headline" id="Derivation_from_general_relativity">Derivation from general relativity</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=4" title="Edit section: Derivation from general relativity">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>By plugging the energy momentum tensor for a <a href="/wiki/Perfect_fluid" title="Perfect fluid">perfect fluid</a></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mo stretchy="false">(</mo>
+<mi>ρ<!-- ρ --></mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>2</mn>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>P</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msup>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+<mo>+</mo>
+<mi>P</mi>
+<msup>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T^{\mu \nu }=(\rho c^{-2}+P)u^{\mu }u^{\nu }+Pg^{\mu \nu }}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle T^{\mu \nu }=(\rho c^{-2}+P)u^{\mu }u^{\nu }+Pg^{\mu \nu }}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/3ea7b944be3a366dc405523cb7501625aae6e130" style="vertical-align: -0.838ex; width:30.83ex; height:3.176ex;"/></span></dd>
+</dl>
+<p>into the <a href="/wiki/Einstein_field_equations" title="Einstein field equations">Einstein field equations</a></p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>R</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>8</mn>
+<mi>π<!-- π --></mi>
+<mi>G</mi>
+</mrow>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mn>2</mn>
+</mfrac>
+</mrow>
+<msub>
+<mi>g</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msub>
+<mi>T</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle R_{\mu \nu }={\frac {8\pi G}{c^{4}}}(T_{\mu \nu }-{\frac {1}{2}}g_{\mu \nu }T)}</annotation>
+</semantics>
+</math></span><img alt="R_{{\mu \nu }}={\frac  {8\pi G}{c^{4}}}(T_{{\mu \nu }}-{\frac  {1}{2}}g_{{\mu \nu }}T)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4004e821687a2fd41e9ec55333959606ebfbd0f4" style="vertical-align: -2.171ex; width:27.225ex; height:5.676ex;"/></span></dd>
+</dl>
+<p>and using the conservation condition</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi mathvariant="normal">∇<!-- ∇ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+</mrow>
+</msub>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>μ<!-- μ --></mi>
+<mi>ν<!-- ν --></mi>
+</mrow>
+</msup>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nabla _{\mu }T^{\mu \nu }=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \nabla _{\mu }T^{\mu \nu }=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/01afa06414fb678e23cd24edf9a75f7a5cf20b60" style="vertical-align: -1.005ex; width:11.299ex; height:3.009ex;"/></span></dd>
+</dl>
+<p>one can derive the <a href="/wiki/Tolman%E2%80%93Oppenheimer%E2%80%93Volkoff_equation" title="Tolman–Oppenheimer–Volkoff equation">Tolman–Oppenheimer–Volkoff equation</a> for the structure of a static, spherically symmetric relativistic star in isotropic coordinates:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>r</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {dP}{dr}}=-{\frac {GM(r)\rho (r)}{r^{2}}}\left(1+{\frac {P(r)}{\rho (r)c^{2}}}\right)\left(1+{\frac {4\pi r^{3}P(r)}{M(r)c^{2}}}\right)\left(1-{\frac {2GM(r)}{rc^{2}}}\right)^{-1}}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {dP}{dr}}=-{\frac  {GM(r)\rho (r)}{r^{2}}}\left(1+{\frac  {P(r)}{\rho (r)c^{2}}}\right)\left(1+{\frac  {4\pi r^{3}P(r)}{M(r)c^{2}}}\right)\left(1-{\frac  {2GM(r)}{rc^{2}}}\right)^{{-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/96195da08d051260c578498b2ce64a9b723e6b31" style="vertical-align: -3.171ex; width:73.352ex; height:7.509ex;"/></span></dd>
+</dl>
+<p>In practice, <i>Ρ</i> and <i>ρ</i> are related by an equation of state of the form <i>f</i>(<i>Ρ</i>,<i>ρ</i>)=0, with <i>f</i> specific to makeup of the star. <i>M</i>(<i>r</i>) is a foliation of spheres weighted by the mass density <i>ρ</i>(<i>r</i>), with the largest sphere having radius <i>r</i>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msubsup>
+<mi>d</mi>
+<msup>
+<mi>r</mi>
+<mo>′</mo>
+</msup>
+<msup>
+<mi>r</mi>
+<mrow>
+<mo class="MJX-variant">′</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</mrow>
+</msup>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<msup>
+<mi>r</mi>
+<mo>′</mo>
+</msup>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle M(r)=4\pi \int _{0}^{r}dr'r'^{2}\rho (r').}</annotation>
+</semantics>
+</math></span><img alt="M(r)=4\pi \int _{0}^{r}dr'r'^{2}\rho (r')." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/88dbea8e1d339af60e570823a2ff36585b0b1af9" style="vertical-align: -2.338ex; width:26.205ex; height:5.843ex;"/></span></dd>
+</dl>
+<p>Per standard procedure in taking the nonrelativistic limit, we let <i>c</i>→∞, so that the factor</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+<mi>P</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<msup>
+<mrow>
+<mo>(</mo>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>G</mi>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mi>r</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mrow>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</msup>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>1</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \left(1+{\frac {P(r)}{\rho (r)c^{2}}}\right)\left(1+{\frac {4\pi r^{3}P(r)}{M(r)c^{2}}}\right)\left(1-{\frac {2GM(r)}{rc^{2}}}\right)^{-1}\rightarrow 1}</annotation>
+</semantics>
+</math></span><img alt="\left(1+{\frac  {P(r)}{\rho (r)c^{2}}}\right)\left(1+{\frac  {4\pi r^{3}P(r)}{M(r)c^{2}}}\right)\left(1-{\frac  {2GM(r)}{rc^{2}}}\right)^{{-1}}\rightarrow 1" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/06ad74946ee17525e5c1bd7b53644511e261e8d2" style="vertical-align: -3.171ex; width:56.899ex; height:7.509ex;"/></span></dd>
+</dl>
+<p>Therefore, in the nonrelativistic limit the Tolman–Oppenheimer–Volkoff equation reduces to Newton's hydrostatic equilibrium:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>d</mi>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi>d</mi>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>G</mi>
+<mi>M</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>g</mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mo stretchy="false">⟶<!-- ⟶ --></mo>
+<mi>d</mi>
+<mi>P</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<mo stretchy="false">(</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>g</mi>
+<mo stretchy="false">(</mo>
+<mi>h</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>h</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {dP}{dr}}=-{\frac {GM(r)\rho (r)}{r^{2}}}=-g(r)\,\rho (r)\longrightarrow dP=-\rho (h)\,g(h)\,dh}</annotation>
+</semantics>
+</math></span><img alt="\frac{dP}{dr}=-\frac{GM(r)\rho(r)}{r^2}=-g(r)\,\rho(r)\longrightarrow dP = - \rho(h)\,g(h)\, dh" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/29e2f2e8a5ed15c6ba002652cafd1ec8eedbe93f" style="vertical-align: -2.171ex; width:59.359ex; height:6.009ex;"/></span></dd>
+</dl>
+<p>(we have made the trivial notation change <i>h</i>=<i>r</i> and have used <i>f</i>(<i>Ρ</i>,<i>ρ</i>)=0 to express <i>ρ</i> in terms of <i>P</i>).<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> A similar equation can be computed for rotating, axially symmetric stars, which in its gauge independent form reads:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>P</mi>
+</mrow>
+<mrow>
+<mi>P</mi>
+<mo>+</mo>
+<mi>ρ<!-- ρ --></mi>
+</mrow>
+</mfrac>
+</mrow>
+<mo>−<!-- − --></mo>
+<msub>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mi>ln</mi>
+<mo>⁡<!-- ⁡ --></mo>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msup>
+<mo>+</mo>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+<msup>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ϕ<!-- ϕ --></mi>
+</mrow>
+</msup>
+<msub>
+<mi mathvariant="normal">∂<!-- ∂ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>i</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>ϕ<!-- ϕ --></mi>
+</mrow>
+</msub>
+<msub>
+<mi>u</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>t</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>=</mo>
+<mn>0</mn>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {\partial _{i}P}{P+\rho }}-\partial _{i}\ln u^{t}+u_{t}u^{\phi }\partial _{i}{\frac {u_{\phi }}{u_{t}}}=0}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle {\frac {\partial _{i}P}{P+\rho }}-\partial _{i}\ln u^{t}+u_{t}u^{\phi }\partial _{i}{\frac {u_{\phi }}{u_{t}}}=0}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/83eaf4cda07af6b6fc229606e111b5779db008f4" style="vertical-align: -2.505ex; width:33.779ex; height:6.009ex;"/></span></dd>
+</dl>
+<p>Unlike the TOV equilibrium equation, these are two equations (for instance, if as usual when treating stars, one chooses spherical coordinates as basis coordinates <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mo stretchy="false">(</mo>
+<mi>t</mi>
+<mo>,</mo>
+<mi>r</mi>
+<mo>,</mo>
+<mi>θ<!-- θ --></mi>
+<mo>,</mo>
+<mi>ϕ<!-- ϕ --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle (t,r,\theta ,\phi )}</annotation>
+</semantics>
+</math></span><img alt="(t,r,\theta,\phi)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/caa61ce2c0a7b5e0dd50e2627d92d4af74500d11" style="vertical-align: -0.838ex; width:9.369ex; height:2.843ex;"/></span>, the index <i>i</i> runs for the coordinates <i>r</i> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta }</annotation>
+</semantics>
+</math></span><img alt="\theta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af" style="vertical-align: -0.338ex; width:1.101ex; height:2.176ex;"/></span>).</p>
+<h2><span class="mw-headline" id="Applications">Applications</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=5" title="Edit section: Applications">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<h3><span class="mw-headline" id="Fluids">Fluids</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=6" title="Edit section: Fluids">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The hydrostatic equilibrium pertains to <a href="/wiki/Hydrostatics" title="Hydrostatics">hydrostatics</a> and the <a class="new" href="/w/index.php?title=Principles_of_equilibrium&amp;action=edit&amp;redlink=1" title="Principles of equilibrium (page does not exist)">principles of equilibrium</a> of <a href="/wiki/Fluid" title="Fluid">fluids</a>. A hydrostatic balance is a particular balance for weighing substances in water. Hydrostatic balance allows the <a href="/wiki/Discovery_(observation)" title="Discovery (observation)">discovery</a> of their <a href="/wiki/Specific_gravity" title="Specific gravity">specific gravities</a>.</p>
+<h3><span class="mw-headline" id="Astrophysics">Astrophysics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=7" title="Edit section: Astrophysics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In any given layer of a <a href="/wiki/Star" title="Star">star</a>, there is a hydrostatic equilibrium between the outward thermal pressure from below and the weight of the material above pressing inward. The <a class="mw-redirect" href="/wiki/Isotropic" title="Isotropic">isotropic</a> gravitational field compresses the star into the most compact shape possible. A rotating star in hydrostatic equilibrium is an <a class="mw-redirect" href="/wiki/Oblate_spheroid" title="Oblate spheroid">oblate spheroid</a> up to a certain (critical) angular velocity. An extreme example of this phenomenon is the star <a href="/wiki/Vega" title="Vega">Vega</a>, which has a rotation period of 12.5 hours. Consequently, Vega is about 20% larger at the equator than at the poles. A star with an angular velocity above the critical angular velocity becomes a Jacobi (<a href="/wiki/Ellipsoid" title="Ellipsoid">scalene</a>) ellipsoid, and at still faster rotation it is no longer ellipsoidal but <a class="extiw" href="https://en.wiktionary.org/wiki/pyriform" title="wikt:pyriform">piriform</a> or <a class="mw-redirect" href="/wiki/Oviform" title="Oviform">oviform</a>, with yet other shapes beyond that, though shapes beyond scalene are not stable.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<p>If the star has a massive nearby companion object then <a href="/wiki/Tidal_force" title="Tidal force">tidal forces</a> come into play as well, distorting the star into a scalene shape when rotation alone would make it a spheroid. An example of this is <a href="/wiki/Beta_Lyrae" title="Beta Lyrae">Beta Lyrae</a>.</p>
+<p>Hydrostatic equilibrium is also important for the <a href="/wiki/Intracluster_medium" title="Intracluster medium">intracluster medium</a>, where it restricts the amount of fluid that can be present in the core of a <a class="mw-redirect" href="/wiki/Cluster_of_galaxies" title="Cluster of galaxies">cluster of galaxies</a>.</p>
+<p>We can also use the principle of hydrostatic equilibrium to estimate the <a href="/wiki/Velocity_dispersion" title="Velocity dispersion">velocity dispersion</a> of <a href="/wiki/Dark_matter" title="Dark matter">dark matter</a> in clusters of galaxies. Only <a href="/wiki/Baryon" title="Baryon">baryonic</a> matter (or, rather, the collisions thereof) emits <a href="/wiki/X-ray" title="X-ray">X-ray</a> radiation. The absolute X-ray <a href="/wiki/Luminosity" title="Luminosity">luminosity</a> per unit volume takes the form <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mi class="MJX-tex-caligraphic" mathvariant="script">L</mi>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>X</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi mathvariant="normal">Λ<!-- Λ --></mi>
+<mo stretchy="false">(</mo>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">)</mo>
+<msubsup>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\mathcal {L}}_{X}=\Lambda (T_{B})\rho _{B}^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\mathcal  {L}}_{X}=\Lambda (T_{B})\rho _{B}^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/05650ddafb720b2a298e28efc0ce4ba6b1ca1af0" style="vertical-align: -1.005ex; width:15.371ex; height:3.176ex;"/></span> where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T_{B}}</annotation>
+</semantics>
+</math></span><img alt="T_{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b558df0361c34c9e93a63042e0d01b44e0295cc0" style="vertical-align: -0.671ex; width:2.855ex; height:2.509ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho _{B}}</annotation>
+</semantics>
+</math></span><img alt="\rho _{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ce816419453103ea90bde5abe99fc0f6702e7b7d" style="vertical-align: -0.838ex; width:2.699ex; height:2.176ex;"/></span> are the temperature and density of the baryonic matter, and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi mathvariant="normal">Λ<!-- Λ --></mi>
+<mo stretchy="false">(</mo>
+<mi>T</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \Lambda (T)}</annotation>
+</semantics>
+</math></span><img alt="\Lambda (T)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6c8277cfb00e300ea185f4e9241db1c5dacfd913" style="vertical-align: -0.838ex; width:5.1ex; height:2.843ex;"/></span> is some function of temperature and fundamental constants. The baryonic density satisfies the above equation <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>d</mi>
+<mi>P</mi>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>ρ<!-- ρ --></mi>
+<mi>g</mi>
+<mi>d</mi>
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle dP=-\rho gdr}</annotation>
+</semantics>
+</math></span><img alt="dP=-\rho gdr" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14922b7979949a564824b56b5f424dccbd9acfac" style="vertical-align: -0.838ex; width:12.534ex; height:2.676ex;"/></span>:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo>+</mo>
+<mi>d</mi>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mi>d</mi>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mi>G</mi>
+</mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msubsup>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>r</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p_{B}(r+dr)-p_{B}(r)=-dr{\frac {\rho _{B}(r)G}{r^{2}}}\int _{0}^{r}4\pi r^{2}\,\rho _{M}(r)\,dr.}</annotation>
+</semantics>
+</math></span><img alt="p_{B}(r+dr)-p_{B}(r)=-dr{\frac  {\rho _{B}(r)G}{r^{2}}}\int _{0}^{r}4\pi r^{2}\,\rho _{M}(r)\,dr." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7966dac506ff120df97b95e70888d10abc361e93" style="vertical-align: -2.338ex; margin-left: -0.079ex; width:53.305ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>The integral is a measure of the total mass of the cluster, with <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+</semantics>
+</math></span><img alt="r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" style="vertical-align: -0.338ex; width:1.059ex; height:1.676ex;"/></span> being the proper distance to the center of the cluster. Using the <a href="/wiki/Ideal_gas_law" title="Ideal gas law">ideal gas law</a><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>p</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>k</mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle p_{B}=kT_{B}\rho _{B}/m_{B}}</annotation>
+</semantics>
+</math></span><img alt="p_{B}=kT_{B}\rho _{B}/m_{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7215c261b6db120c3b193beff4e7b1b2e204e2e2" style="vertical-align: -0.838ex; margin-left: -0.079ex; width:17.342ex; height:2.843ex;"/></span> (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>k</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k}</annotation>
+</semantics>
+</math></span><img alt="k" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3c9a2c7b599b37105512c5d570edc034056dd40" style="vertical-align: -0.338ex; width:1.222ex; height:2.176ex;"/></span> is <a class="mw-redirect" href="/wiki/Boltzmann%27s_constant" title="Boltzmann's constant">Boltzmann's constant</a> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle m_{B}}</annotation>
+</semantics>
+</math></span><img alt="m_{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4d51a90fa9b077c0ac7ca77b8d68f09ea9efbf5c" style="vertical-align: -0.671ex; width:3.538ex; height:2.009ex;"/></span> is a characteristic mass of the baryonic gas particles) and rearranging, we arrive at</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>k</mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mi>G</mi>
+</mrow>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<msubsup>
+<mo>∫<!-- ∫ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>0</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>r</mi>
+</mrow>
+</msubsup>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mspace width="thinmathspace"></mspace>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mspace width="thinmathspace"></mspace>
+<mi>d</mi>
+<mi>r</mi>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {d}{dr}}\left({\frac {kT_{B}(r)\rho _{B}(r)}{m_{B}}}\right)=-{\frac {\rho _{B}(r)G}{r^{2}}}\int _{0}^{r}4\pi r^{2}\,\rho _{M}(r)\,dr.}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {d}{dr}}\left({\frac  {kT_{B}(r)\rho _{B}(r)}{m_{B}}}\right)=-{\frac  {\rho _{B}(r)G}{r^{2}}}\int _{0}^{r}4\pi r^{2}\,\rho _{M}(r)\,dr." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1f2b22e4e3ee0aa15d673bf0367c631181b68485" style="vertical-align: -2.505ex; width:52.182ex; height:6.343ex;"/></span></dd>
+</dl>
+<p>Multiplying by <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r^{2}/\rho _{B}(r)}</annotation>
+</semantics>
+</math></span><img alt="r^{2}/\rho _{B}(r)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/58e87cc9f3651052e1628fb1a0de40de64db1223" style="vertical-align: -0.838ex; width:8.882ex; height:3.176ex;"/></span> and differentiating with respect to <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>r</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle r}</annotation>
+</semantics>
+</math></span><img alt="r" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0d1ecb613aa2984f0576f70f86650b7c2a132538" style="vertical-align: -0.338ex; width:1.059ex; height:1.676ex;"/></span> yields</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>k</mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<mi>G</mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {d}{dr}}\left[{\frac {r^{2}}{\rho _{B}(r)}}{\frac {d}{dr}}\left({\frac {kT_{B}(r)\rho _{B}(r)}{m_{B}}}\right)\right]=-4\pi Gr^{2}\rho _{M}(r).}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {d}{dr}}\left[{\frac  {r^{2}}{\rho _{B}(r)}}{\frac  {d}{dr}}\left({\frac  {kT_{B}(r)\rho _{B}(r)}{m_{B}}}\right)\right]=-4\pi Gr^{2}\rho _{M}(r)." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bb18b16a72341df5cf514387c45f2020a3475f6c" style="vertical-align: -2.671ex; width:50.877ex; height:6.509ex;"/></span></dd>
+</dl>
+<p>If we make the assumption that cold dark matter particles have an isotropic velocity distribution, then the same derivation applies to these particles, and their density <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho _{D}=\rho _{M}-\rho _{B}}</annotation>
+</semantics>
+</math></span><img alt="\rho _{D}=\rho _{M}-\rho _{B}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/62acc32db8f7f5249f78e289bfb53e0ad3674e96" style="vertical-align: -0.838ex; width:14.651ex; height:2.176ex;"/></span> satisfies the non-linear differential equation</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>[</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<mrow>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+</mfrac>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>d</mi>
+<mrow>
+<mi>d</mi>
+<mi>r</mi>
+</mrow>
+</mfrac>
+</mrow>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>k</mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+</mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mo>]</mo>
+</mrow>
+<mo>=</mo>
+<mo>−<!-- − --></mo>
+<mn>4</mn>
+<mi>π<!-- π --></mi>
+<mi>G</mi>
+<msup>
+<mi>r</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mi>r</mi>
+<mo stretchy="false">)</mo>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\frac {d}{dr}}\left[{\frac {r^{2}}{\rho _{D}(r)}}{\frac {d}{dr}}\left({\frac {kT_{D}(r)\rho _{D}(r)}{m_{D}}}\right)\right]=-4\pi Gr^{2}\rho _{M}(r).}</annotation>
+</semantics>
+</math></span><img alt="{\frac  {d}{dr}}\left[{\frac  {r^{2}}{\rho _{D}(r)}}{\frac  {d}{dr}}\left({\frac  {kT_{D}(r)\rho _{D}(r)}{m_{D}}}\right)\right]=-4\pi Gr^{2}\rho _{M}(r)." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/375aab8a11017ac7d335276c458997009441899f" style="vertical-align: -2.671ex; width:51.217ex; height:6.509ex;"/></span></dd>
+</dl>
+<p>With perfect X-ray and distance data, we could calculate the baryon density at each point in the cluster and thus the dark matter density. We could then calculate the velocity dispersion <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma _{D}^{2}}</annotation>
+</semantics>
+</math></span><img alt="\sigma _{D}^{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/325db53490164d621ced6d429837704fb97926db" style="vertical-align: -1.005ex; width:2.938ex; height:3.176ex;"/></span> of the dark matter, which is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msubsup>
+<mi>σ<!-- σ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msubsup>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mi>k</mi>
+<msub>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</msub>
+</mrow>
+<msub>
+<mi>m</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>D</mi>
+</mrow>
+</msub>
+</mfrac>
+</mrow>
+<mo>.</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma _{D}^{2}={\frac {kT_{D}}{m_{D}}}.}</annotation>
+</semantics>
+</math></span><img alt="\sigma _{D}^{2}={\frac  {kT_{D}}{m_{D}}}." aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/235f5c17f9fc21c8740737794fb37ae603cd15c5" style="vertical-align: -2.171ex; width:11.73ex; height:5.676ex;"/></span></dd>
+</dl>
+<p>The central density ratio <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho _{B}(0)/\rho _{M}(0)}</annotation>
+</semantics>
+</math></span><img alt="\rho _{B}(0)/\rho _{M}(0)" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8bdfdb38b54f2a100d2b7d66b662827cafd326f5" style="vertical-align: -0.838ex; width:13.057ex; height:2.843ex;"/></span> is dependent on the <a href="/wiki/Redshift" title="Redshift">redshift</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>z</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle z}</annotation>
+</semantics>
+</math></span><img alt="z" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/bf368e72c009decd9b6686ee84a375632e11de98" style="vertical-align: -0.338ex; width:1.099ex; height:1.676ex;"/></span> of the cluster and is given by</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>ρ<!-- ρ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>M</mi>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<mn>0</mn>
+<mo stretchy="false">)</mo>
+<mo>∝<!-- ∝ --></mo>
+<mo stretchy="false">(</mo>
+<mn>1</mn>
+<mo>+</mo>
+<mi>z</mi>
+<msup>
+<mo stretchy="false">)</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+<msup>
+<mrow>
+<mo>(</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>θ<!-- θ --></mi>
+<mi>s</mi>
+</mfrac>
+</mrow>
+<mo>)</mo>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho _{B}(0)/\rho _{M}(0)\propto (1+z)^{2}\left({\frac {\theta }{s}}\right)^{3/2}}</annotation>
+</semantics>
+</math></span><img alt="\rho _{B}(0)/\rho _{M}(0)\propto (1+z)^{2}\left({\frac  {\theta }{s}}\right)^{{3/2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a0d98079630274840fd6fdd3d051eea0f8e63129" style="vertical-align: -2.505ex; width:32.28ex; height:6.843ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>θ<!-- θ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \theta }</annotation>
+</semantics>
+</math></span><img alt="\theta " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6e5ab2664b422d53eb0c7df3b87e1360d75ad9af" style="vertical-align: -0.338ex; width:1.101ex; height:2.176ex;"/></span> is the angular width of the cluster and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>s</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle s}</annotation>
+</semantics>
+</math></span><img alt="s" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/01d131dfd7673938b947072a13a9744fe997e632" style="vertical-align: -0.338ex; width:1.101ex; height:1.676ex;"/></span> the proper distance to the cluster. Values for the ratio range from .11 to .14 for various surveys.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<h3><span class="mw-headline" id="Planetary_geology">Planetary geology</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=8" title="Edit section: Planetary geology">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The concept of hydrostatic equilibrium has also become important in determining whether an astronomical object is a <a href="/wiki/Planet" title="Planet">planet</a>, <a href="/wiki/Dwarf_planet" title="Dwarf planet">dwarf planet</a>, or <a href="/wiki/Small_Solar_System_body" title="Small Solar System body">small Solar System body</a>. According to the <a href="/wiki/Definition_of_planet" title="Definition of planet">definition of planet</a> adopted by the <a href="/wiki/International_Astronomical_Union" title="International Astronomical Union">International Astronomical Union</a> in 2006, one defining characteristic of planets and dwarf planets is that they are objects that have sufficient gravity to overcome their own rigidity and assume hydrostatic equilibrium. Such a body will normally have the differentiated interior and geology of a world (a <a class="mw-redirect" href="/wiki/Planemo" title="Planemo">planemo</a>), though near-hydrostatic bodies such as the proto-planet <a href="/wiki/4_Vesta" title="4 Vesta">4 Vesta</a> may also be differentiated. Sometimes the equilibrium shape is an <a class="mw-redirect" href="/wiki/Oblate_spheroid" title="Oblate spheroid">oblate spheroid</a>, as is the case with Earth. However, in the cases of moons in synchronous orbit, nearly unidirectional tidal forces create a <a class="mw-redirect" href="/wiki/Scalene_ellipsoid" title="Scalene ellipsoid">scalene ellipsoid</a>. Also, the dwarf planet <a href="/wiki/Haumea" title="Haumea">Haumea</a> is scalene due to its rapid rotation.</p>
+<p>It had been thought that icy objects with a diameter larger than roughly 400 km are usually in hydrostatic equilibrium, whereas those smaller than that are not. Icy objects need less mass for hydrostatic equilibrium than rocky objects. The smallest object that is known to have an equilibrium shape is the icy moon <a href="/wiki/Mimas_(moon)" title="Mimas (moon)">Mimas</a> at 397 km, whereas the largest object known to have an obviously non-equilibrium shape is the rocky asteroid <a href="/wiki/2_Pallas" title="2 Pallas">Pallas</a> at 532 km (582 × 556 × 500 ± 18 km). However, Mimas is not actually in hydrostatic equilibrium for its current rotation. The smallest body confirmed to be in hydrostatic equilibrium is the icy moon <a href="/wiki/Rhea_(moon)" title="Rhea (moon)">Rhea</a>, at 1,528 km, whereas the largest body known to not be in hydrostatic equilibrium is the icy moon <a href="/wiki/Iapetus_(moon)" title="Iapetus (moon)">Iapetus</a>, at 1,470 km.</p>
+<p>Because the <a href="/wiki/Terrestrial_planet" title="Terrestrial planet">terrestrial planets</a> and dwarf planets (and likewise the larger <a href="/wiki/Natural_satellite" title="Natural satellite">satellites</a>, like the <a href="/wiki/Moon" title="Moon">Moon</a> and <a href="/wiki/Io_(moon)" title="Io (moon)">Io</a>) have irregular surfaces, this definition evidently has some flexibility, but a specific means of quantifying an object's shape by this standard has not yet been announced. Local irregularities may be consistent with global equilibrium. For example, the massive base of the tallest mountain on Earth, <a href="/wiki/Mauna_Kea" title="Mauna Kea">Mauna Kea</a>, has deformed and depressed the level of the surrounding crust, so that the overall distribution of mass approaches equilibrium. The amount of leeway afforded the definition could affect the classification of the asteroid <a href="/wiki/4_Vesta" title="4 Vesta">Vesta</a>, which may have solidified while in hydrostatic equilibrium but was subsequently significantly deformed by large impacts (now 572.6 × 557.2 × 446.4 km).<sup class="reference" id="cite_ref-Hubble_7-0"><a href="#cite_note-Hubble-7">[7]</a></sup></p>
+<h3><span class="mw-headline" id="Atmospherics">Atmospherics</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=9" title="Edit section: Atmospherics">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>In the atmosphere, the pressure of the air decreases with increasing altitude. This pressure difference causes an upward force called the <a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">pressure-gradient force</a>. The force of gravity balances this out, keeping the atmosphere bound to Earth and maintaining pressure differences with altitude.</p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=10" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="mw-redirect" href="/wiki/List_of_Solar_System_objects_in_hydrostatic_equilibrium" title="List of Solar System objects in hydrostatic equilibrium">List of Solar System objects in hydrostatic equilibrium</a></li>
+<li><a href="/wiki/Statics" title="Statics">Statics</a></li>
+<li><a href="/wiki/Two-balloon_experiment" title="Two-balloon experiment">Two-balloon experiment</a></li>
+</ul>
+<h2><span class="mw-headline" id="Notes">Notes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=11" title="Edit section: Notes">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist" style="list-style-type: decimal;">
+<div class="mw-references-wrap">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">White (2008). p 63, 66.</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><a href="/wiki/Alan_Stern" title="Alan Stern">Alan Stern</a> considers these all to be "planets", but that conception was rejected by the <a href="/wiki/International_Astronomical_Union" title="International Astronomical Union">International Astronomical Union</a>.</span></li>
+<li id="cite_note-brown-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-brown_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-brown_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20111018154917/http://www.gps.caltech.edu/~mbrown/dps.html" rel="nofollow">"Astronomer Mike Brown"</a>. Gps.caltech.edu. 2013-11-01. Archived from <a class="external text" href="http://www.gps.caltech.edu/~mbrown/dps.html" rel="nofollow">the original</a> on 2011-10-18<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-15</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrostatic+equilibrium&amp;rft.btitle=Astronomer+Mike+Brown&amp;rft.date=2013-11-01&amp;rft.genre=unknown&amp;rft.pub=Gps.caltech.edu&amp;rft_id=http%3A%2F%2Fwww.gps.caltech.edu%2F~mbrown%2Fdps.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">Zee, A. (2013). <i>Einstein gravity in a nutshell</i>. Princeton: Princeton University Press. pp. 451–454. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780691145587" title="Special:BookSources/9780691145587">9780691145587</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrostatic+equilibrium&amp;rft.aufirst=A.&amp;rft.aulast=Zee&amp;rft.btitle=Einstein+gravity+in+a+nutshell&amp;rft.date=2013&amp;rft.genre=book&amp;rft.isbn=9780691145587&amp;rft.pages=451-454&amp;rft.place=Princeton&amp;rft.pub=Princeton+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.josleys.com/show_gallery.php?galid=313" rel="nofollow">"Gallery : The shape of Planet Earth"</a>. Josleys.com<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-06-15</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrostatic+equilibrium&amp;rft.btitle=Gallery+%3A+The+shape+of+Planet+Earth&amp;rft.genre=unknown&amp;rft.pub=Josleys.com&amp;rft_id=http%3A%2F%2Fwww.josleys.com%2Fshow_gallery.php%3Fgalid%3D313&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Weinberg, Steven (2008). <i>Cosmology</i>. New York: Oxford University Press. pp. 70–71. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-852682-7" title="Special:BookSources/978-0-19-852682-7">978-0-19-852682-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrostatic+equilibrium&amp;rft.aufirst=Steven&amp;rft.aulast=Weinberg&amp;rft.btitle=Cosmology&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0-19-852682-7&amp;rft.pages=70-71&amp;rft.place=New+York&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-Hubble-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-Hubble_7-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Savage, Don; Jones, Tammy; Villard, Ray (1995-04-19). <a class="external text" href="http://hubblesite.org/newscenter/archive/releases/1995/20/image/c" rel="nofollow">"Asteroid or Mini-Planet? Hubble Maps the Ancient Surface of Vesta (Key Stages in the Evolution of the Asteroid Vesta)"</a>. Hubble Site News Release STScI-1995-20<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-10-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrostatic+equilibrium&amp;rft.au=Jones%2C+Tammy&amp;rft.au=Savage%2C+Don&amp;rft.au=Villard%2C+Ray&amp;rft.btitle=Asteroid+or+Mini-Planet%3F+Hubble+Maps+the+Ancient+Surface+of+Vesta+%28Key+Stages+in+the+Evolution+of+the+Asteroid+Vesta%29&amp;rft.date=1995-04-19&amp;rft.genre=unknown&amp;rft.pub=Hubble+Site+News+Release+STScI-1995-20&amp;rft_id=http%3A%2F%2Fhubblesite.org%2Fnewscenter%2Farchive%2Freleases%2F1995%2F20%2Fimage%2Fc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+</div>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=12" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">White, Frank M. (2008). "Pressure Distribution in a Fluid". <i>Fluid Mechanics</i>. New York: McGraw-Hill. pp. 63–107. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-07-128645-9" title="Special:BookSources/978-0-07-128645-9">978-0-07-128645-9</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AHydrostatic+equilibrium&amp;rft.atitle=Pressure+Distribution+in+a+Fluid&amp;rft.aufirst=Frank+M.&amp;rft.aulast=White&amp;rft.btitle=Fluid+Mechanics&amp;rft.date=2008&amp;rft.genre=bookitem&amp;rft.isbn=978-0-07-128645-9&amp;rft.pages=63-107&amp;rft.place=New+York&amp;rft.pub=McGraw-Hill&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit&amp;section=13" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.astronomynotes.com/starsun/s7.htm" rel="nofollow">Strobel, Nick. (May, 2001). Nick Strobel's Astronomy Notes.</a></li>
+<li><a class="external text" href="https://www.youtube.com/watch?v=lkg1p173TAc" rel="nofollow"><span class="plainlinks">Demonstration</span></a> on <a href="/wiki/YouTube" title="YouTube">YouTube</a> by Prof. Richard Pogge, The Ohio State University, Department of Astronomy</li>
+</ul>
+<!-- 
+NewPP limit report
+Parsed by mw1242
+Cached time: 20170912180518
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.152 seconds
+Real time usage: 0.315 seconds
+Preprocessor visited node count: 870/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 13645/2097152 bytes
+Template argument size: 179/2097152 bytes
+Highest expansion depth: 10/40
+Expensive parser function count: 1/500
+Lua time usage: 0.048/10.000 seconds
+Lua memory usage: 2.88 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  123.994      1 -total
+ 46.50%   57.652      1 Template:Reflist
+ 33.15%   41.108      1 Template:Refimprove
+ 29.11%   36.091      3 Template:Cite_web
+ 21.89%   27.148      1 Template:Ambox
+ 10.08%   12.496      3 Template:Cite_book
+  9.37%   11.613      1 Template:Youtube
+  3.55%    4.401      1 Template:Namespace_detect
+  1.70%    2.102      1 Template:Dp
+  1.08%    1.334      1 Template:Main_other
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:51776-0!canonical!math=5 and timestamp 20170912180518 and revision id 792518569
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Hydrostatic_equilibrium&amp;oldid=792518569">https://en.wikipedia.org/w/index.php?title=Hydrostatic_equilibrium&amp;oldid=792518569</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Fluid_mechanics" title="Category:Fluid mechanics">Fluid mechanics</a></li><li><a href="/wiki/Category:Astrophysics" title="Category:Astrophysics">Astrophysics</a></li><li><a href="/wiki/Category:Hydrostatics" title="Category:Hydrostatics">Hydrostatics</a></li><li><a href="/wiki/Category:Definition_of_planet" title="Category:Definition of planet">Definition of planet</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_needing_additional_references_from_May_2010" title="Category:Articles needing additional references from May 2010">Articles needing additional references from May 2010</a></li><li><a href="/wiki/Category:All_articles_needing_additional_references" title="Category:All articles needing additional references">All articles needing additional references</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Hydrostatic+equilibrium" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Hydrostatic+equilibrium" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Hydrostatic_equilibrium" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Hydrostatic_equilibrium" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Hydrostatic_equilibrium">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Hydrostatic_equilibrium" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Hydrostatic_equilibrium" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;oldid=792518569" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Hydrostatic_equilibrium&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q208641" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Hydrostatic_equilibrium&amp;id=792518569" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Hydrostatic+equilibrium">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Hydrostatic+equilibrium&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DHydrostatic%2Bequilibrium%26returnto%3DHydrostatic%2Bequilibrium%26oldid%3D792518569%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Hydrostatic_equilibrium&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Hidrostatiese_ewewig" hreflang="af" lang="af" title="Hidrostatiese ewewig – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AA%D9%88%D8%A7%D8%B2%D9%86_%D9%87%D9%8A%D8%AF%D8%B1%D9%88%D8%B3%D8%AA%D8%A7%D8%AA%D9%8A%D9%83%D9%8A" hreflang="ar" lang="ar" title="توازن هيدروستاتيكي – Arabic">العربية</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A5%D0%B8%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%BD%D0%BE_%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D0%B5" hreflang="bg" lang="bg" title="Хидростатично равновесие – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Hidrostati%C4%8Dka_ravnote%C5%BEa" hreflang="bs" lang="bs" title="Hidrostatička ravnoteža – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Equilibri_hidrost%C3%A0tic" hreflang="ca" lang="ca" title="Equilibri hidrostàtic – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Hydrostatick%C3%A1_rovnov%C3%A1ha" hreflang="cs" lang="cs" title="Hydrostatická rovnováha – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Hydrostatisk_ligev%C3%A6gt" hreflang="da" lang="da" title="Hydrostatisk ligevægt – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Hydrostatisches_Gleichgewicht" hreflang="de" lang="de" title="Hydrostatisches Gleichgewicht – German">Deutsch</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Equilibrio_hidrost%C3%A1tico" hreflang="es" lang="es" title="Equilibrio hidrostático – Spanish">Español</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Oreka_hidrostatiko" hreflang="eu" lang="eu" title="Oreka hidrostatiko – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%B9%D8%A7%D8%AF%D9%84_%D9%87%DB%8C%D8%AF%D8%B1%D9%88%D8%A7%D8%B3%D8%AA%D8%A7%D8%AA%DB%8C%DA%A9%DB%8C" hreflang="fa" lang="fa" title="تعادل هیدرواستاتیکی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89quilibre_hydrostatique" hreflang="fr" lang="fr" title="Équilibre hydrostatique – French">Français</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%A0%95%EC%97%AD%ED%95%99%EC%A0%81_%ED%8F%89%ED%98%95" hreflang="ko" lang="ko" title="정역학적 평형 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%80%D5%AB%D5%A4%D6%80%D5%B8%D5%BD%D5%BF%D5%A1%D5%BF%D5%AB%D5%AF_%D5%B0%D5%A1%D5%BE%D5%A1%D5%BD%D5%A1%D6%80%D5%A1%D5%AF%D5%B7%D5%BC%D5%B8%D6%82%D5%A9%D5%B5%D5%B8%D6%82%D5%B6" hreflang="hy" lang="hy" title="Հիդրոստատիկ հավասարակշռություն – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%A6%E0%A5%8D%E0%A4%B0%E0%A4%B5%E0%A4%B8%E0%A5%8D%E0%A4%A5%E0%A5%88%E0%A4%A4%E0%A4%BF%E0%A4%95_%E0%A4%B8%E0%A4%82%E0%A4%A4%E0%A5%81%E0%A4%B2%E0%A4%A8" hreflang="hi" lang="hi" title="द्रवस्थैतिक संतुलन – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Equilibrio_idrostatico" hreflang="it" lang="it" title="Equilibrio idrostatico – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A9%D7%99%D7%95%D7%95%D7%99_%D7%9E%D7%A9%D7%A7%D7%9C_%D7%94%D7%99%D7%93%D7%A8%D7%95%D7%A1%D7%98%D7%98%D7%99" hreflang="he" lang="he" title="שיווי משקל הידרוסטטי – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Hydrostatisch_evenwicht" hreflang="nl" lang="nl" title="Hydrostatisch evenwicht – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E9%9D%99%E6%B0%B4%E5%9C%A7%E5%B9%B3%E8%A1%A1" hreflang="ja" lang="ja" title="静水圧平衡 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Hydrostatisk_likevekt" hreflang="no" lang="no" title="Hydrostatisk likevekt – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Hydrostatisk_likevekt" hreflang="nn" lang="nn" title="Hydrostatisk likevekt – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/R%C3%B3wnowaga_hydrostatyczna" hreflang="pl" lang="pl" title="Równowaga hydrostatyczna – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Equil%C3%ADbrio_hidrost%C3%A1tico" hreflang="pt" lang="pt" title="Equilíbrio hidrostático – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Echilibru_hidrostatic" hreflang="ro" lang="ro" title="Echilibru hidrostatic – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%93%D0%B8%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%BE%D0%B5_%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D0%B2%D0%B5%D1%81%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Гидростатическое равновесие – Russian">Русский</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Hydrostatic_equilibrium" hreflang="simple" lang="simple" title="Hydrostatic equilibrium – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Hydrostatick%C3%A1_rovnov%C3%A1ha" hreflang="sk" lang="sk" title="Hydrostatická rovnováha – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Hidrostati%C4%8Dno_ravnovesje" hreflang="sl" lang="sl" title="Hidrostatično ravnovesje – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A5%D0%B8%D0%B4%D1%80%D0%BE%D1%81%D1%82%D0%B0%D1%82%D0%B8%D1%87%D0%BA%D0%B0_%D1%80%D0%B0%D0%B2%D0%BD%D0%BE%D1%82%D0%B5%D0%B6%D0%B0" hreflang="sr" lang="sr" title="Хидростатичка равнотежа – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Hidrostati%C4%8Dka_ravnote%C5%BEa" hreflang="sh" lang="sh" title="Hidrostatička ravnoteža – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Hydrostatisk_j%C3%A4mvikt" hreflang="sv" lang="sv" title="Hydrostatisk jämvikt – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%AA%E0%B8%A0%E0%B8%B2%E0%B8%A7%E0%B8%B0%E0%B8%AA%E0%B8%A1%E0%B8%94%E0%B8%B8%E0%B8%A5%E0%B8%AD%E0%B8%B8%E0%B8%97%E0%B8%81%E0%B8%AA%E0%B8%96%E0%B8%B4%E0%B8%95" hreflang="th" lang="th" title="สภาวะสมดุลอุทกสถิต – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Hidrostatik_denge" hreflang="tr" lang="tr" title="Hidrostatik denge – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/C%C3%A2n_b%E1%BA%B1ng_th%E1%BB%A7y_t%C4%A9nh" hreflang="vi" lang="vi" title="Cân bằng thủy tĩnh – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B5%81%E9%AB%94%E9%9D%9C%E5%8A%9B%E5%B9%B3%E8%A1%A1" hreflang="zh" lang="zh" title="流體靜力平衡 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q208641#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 27 July 2017, at 00:44.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Hydrostatic_equilibrium&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.152","walltime":"0.315","ppvisitednodes":{"value":870,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":13645,"limit":2097152},"templateargumentsize":{"value":179,"limit":2097152},"expansiondepth":{"value":10,"limit":40},"expensivefunctioncount":{"value":1,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  123.994      1 -total"," 46.50%   57.652      1 Template:Reflist"," 33.15%   41.108      1 Template:Refimprove"," 29.11%   36.091      3 Template:Cite_web"," 21.89%   27.148      1 Template:Ambox"," 10.08%   12.496      3 Template:Cite_book","  9.37%   11.613      1 Template:Youtube","  3.55%    4.401      1 Template:Namespace_detect","  1.70%    2.102      1 Template:Dp","  1.08%    1.334      1 Template:Main_other"]},"scribunto":{"limitreport-timeusage":{"value":"0.048","limit":"10.000"},"limitreport-memusage":{"value":3015607,"limit":52428800}},"cachereport":{"origin":"mw1242","timestamp":"20170912180518","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":88,"wgHostname":"mw1256"});});</script>
+</body>
+</html>

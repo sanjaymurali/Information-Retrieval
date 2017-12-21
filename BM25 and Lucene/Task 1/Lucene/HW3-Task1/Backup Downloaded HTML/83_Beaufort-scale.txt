@@ -1,0 +1,699 @@
+https://en.wikipedia.org/wiki/Beaufort_scale
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Beaufort scale - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Beaufort_scale","wgTitle":"Beaufort scale","wgCurRevisionId":803311431,"wgRevisionId":803311431,"wgArticleId":155110,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 German-language sources (de)","Use British English from July 2012","Use dmy dates from July 2011","All articles with unsourced statements","Articles with unsourced statements from January 2008","Wikipedia articles with GND identifiers","Hazard scales","Wind","Marine meteorology and sailing","Scales"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Beaufort_scale","wgRelevantArticleId":155110,"wgRequestId":"WdT4nwpAIDcAAG8xJzoAAAEW","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q170464","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/b/b5/Beaufort_scale_12_notext.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Beaufort_scale" rel="alternate"/>
+<link href="/w/index.php?title=Beaufort_scale&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Beaufort_scale&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Beaufort_scale" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Beaufort_scale rootpage-Beaufort_scale vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Beaufort scale</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">"Violent storm" redirects here. For the videogame, see <a href="/wiki/Violent_Storm" title="Violent Storm">Violent Storm</a>.</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Beaufort_scale_12_notext.jpg"><img alt="" class="thumbimage" data-file-height="282" data-file-width="399" height="212" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Beaufort_scale_12_notext.jpg/300px-Beaufort_scale_12_notext.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/b/b5/Beaufort_scale_12_notext.jpg 1.5x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Beaufort_scale_12_notext.jpg" title="Enlarge"></a></div>
+Force 12 at sea</div>
+</div>
+</div>
+<p>The <b>Beaufort scale</b> <span class="nowrap"><span class="IPA nopopups noexcerpt"><a href="/wiki/Help:IPA/English" title="Help:IPA/English">/<span style="border-bottom:1px dotted"><span title="/ˈ/: primary stress follows">ˈ</span><span title="'b' in 'buy'">b</span><span title="/oʊ/: 'o' in 'code'">oʊ</span><span title="'f' in 'find'">f</span><span title="/ər/: 'er' in 'letter'">ər</span><span title="'t' in 'tie'">t</span></span>/</a></span></span> is an <a class="mw-redirect" href="/wiki/Empirical" title="Empirical">empirical</a> measure that relates <a href="/wiki/Wind_speed" title="Wind speed">wind speed</a> to observed conditions at sea or on land. Its full name is the <b>Beaufort wind force scale</b>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#History"><span class="tocnumber">1</span> <span class="toctext">History</span></a></li>
+<li class="toclevel-1 tocsection-2"><a href="#Modern_scale"><span class="tocnumber">2</span> <span class="toctext">Modern scale</span></a></li>
+<li class="toclevel-1 tocsection-3"><a href="#See_also"><span class="tocnumber">3</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-4"><a href="#References"><span class="tocnumber">4</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-5"><a href="#External_links"><span class="tocnumber">5</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="History">History</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beaufort_scale&amp;action=edit&amp;section=1" title="Edit section: History">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The scale was devised in 1805 by Irish-born <a href="/wiki/Francis_Beaufort" title="Francis Beaufort">Francis Beaufort</a> (later <a href="/wiki/Rear_admiral_(Royal_Navy)" title="Rear admiral (Royal Navy)">Rear Admiral</a> Sir Francis Beaufort), a <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a> officer, while serving on <a href="/wiki/HMS_Woolwich" title="HMS Woolwich">HMS <i>Woolwich</i></a>. The scale that carries Beaufort's name had a long and complex evolution from the previous work of others (including <a href="/wiki/Daniel_Defoe" title="Daniel Defoe">Daniel Defoe</a> the century before) to when Beaufort was Hydrographer of the Navy in the 1830s when it was adopted officially and first used during the voyage of <a href="/wiki/HMS_Beagle" title="HMS Beagle">HMS <i>Beagle</i></a> under Captain <a href="/wiki/Robert_FitzRoy" title="Robert FitzRoy">Robert FitzRoy</a>, later to set up the first <a class="mw-redirect" href="/wiki/Meteorological_Office" title="Meteorological Office">Meteorological Office</a> (Met Office) in Britain giving regular weather forecasts.<sup class="reference" id="cite_ref-met_office_1-0"><a href="#cite_note-met_office-1">[1]</a></sup> In the early 19th century, naval officers made regular weather observations, but there was no standard scale and so they could be very subjective – one man's "stiff breeze" might be another's "soft breeze". Beaufort succeeded in standardising the scale.</p>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:FrancisBeaufort.jpg"><img alt="" class="thumbimage" data-file-height="1280" data-file-width="1018" height="277" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/FrancisBeaufort.jpg/220px-FrancisBeaufort.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/06/FrancisBeaufort.jpg/330px-FrancisBeaufort.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/06/FrancisBeaufort.jpg/440px-FrancisBeaufort.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:FrancisBeaufort.jpg" title="Enlarge"></a></div>
+Sir Francis Beaufort</div>
+</div>
+</div>
+<p>The initial scale of thirteen classes (zero to twelve) did not reference <a href="/wiki/Wind_speed" title="Wind speed">wind speed</a> numbers but related qualitative wind conditions to effects on the sails of a <a href="/wiki/Frigate" title="Frigate">frigate</a>, then the main ship of the <a href="/wiki/Royal_Navy" title="Royal Navy">Royal Navy</a>, from "just sufficient to give steerage" to "that which no canvas sails could withstand".<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>The scale was made a standard for ship's log entries on Royal Navy vessels in the late 1830s and was adapted to non-naval use from the 1850s, with scale numbers corresponding to cup <a href="/wiki/Anemometer" title="Anemometer">anemometer</a> rotations. In 1916, to accommodate the growth of steam power, the descriptions were changed to how the sea, not the sails, behaved and extended to land observations. Rotations to scale numbers were standardized only in 1923. <a href="/wiki/George_Simpson_(meteorologist)" title="George Simpson (meteorologist)">George Simpson</a>, <a class="mw-redirect" href="/wiki/Commander_of_the_Order_of_the_British_Empire" title="Commander of the Order of the British Empire">C.B.E.</a> (later Sir George Simpson), director of the <a class="mw-redirect" href="/wiki/UK" title="UK">UK</a> <a class="mw-redirect" href="/wiki/Meteorological_Office" title="Meteorological Office">Meteorological Office</a>, was responsible for this and for the addition of the land-based descriptors.<sup class="reference" id="cite_ref-met_office_1-1"><a href="#cite_note-met_office-1">[1]</a></sup> The measure was slightly altered some decades later to improve its utility for <a class="mw-redirect" href="/wiki/Meteorologist" title="Meteorologist">meteorologists</a>. Today, many countries have abandoned the scale and use the <a href="/wiki/Metric_system" title="Metric system">metric system</a> based units, m/s or km/h, instead,<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (January 2008)">citation needed</span></a></i>]</sup> but the <a href="/wiki/Severe_weather" title="Severe weather">severe weather</a> warnings given to the public are still approximately the same as when using the Beaufort scale.</p>
+<p>The Beaufort scale was extended in 1946, when forces 13 to 17 were added.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup> However, forces 13 to 17 were intended to apply only to special cases, such as <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclones</a>. Nowadays, the extended scale is only used in Taiwan and mainland China, which are often affected by <a href="/wiki/Typhoon" title="Typhoon">typhoons</a>. Internationally, WMO Manual on Marine Meteorological Services (2012 edition) defined the Beaufort Scale only up to force 12 and there was no recommendation on the use of the extended scale.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Wind speed on the 1946 Beaufort scale is based on the <a href="/wiki/Empirical_relationship" title="Empirical relationship">empirical relationship</a>:<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></p>
+<dl>
+<dd><i>v</i> = 0.836 <i>B</i><sup>3/2</sup> <a class="mw-redirect" href="/wiki/Metres_per_second" title="Metres per second">m/s</a></dd>
+</dl>
+<p>Where <i>v</i> is the equivalent wind speed at 10 metres above the sea surface and <i>B</i> is Beaufort scale number. For example, <i>B</i> = 9.5 is related to 24.5 m/s which is equal to the lower limit of "10 Beaufort". Using this formula the highest winds in hurricanes would be 23 in the scale.</p>
+<p>Today, hurricane-force winds are sometimes described as Beaufort scale 12 through 16, very roughly related to the respective category speeds of the <a class="mw-redirect" href="/wiki/Saffir%E2%80%93Simpson_hurricane_scale" title="Saffir–Simpson hurricane scale">Saffir–Simpson hurricane scale</a>, by which actual <a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">hurricanes</a> are measured, where Category 1 is equivalent to Beaufort 12. However, the extended Beaufort numbers above 13 do not match the Saffir–Simpson scale. Category 1 <a href="/wiki/Tornado" title="Tornado">tornadoes</a> on the <a href="/wiki/Fujita_scale" title="Fujita scale">Fujita</a> and <a href="/wiki/TORRO_scale" title="TORRO scale">TORRO</a> scales also begin roughly at the end of level 12 of the Beaufort scale, but are independent scales – although the TORRO scale wind values are based on the 3/2 power law relating wind velocity to Beaufort force.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup></p>
+<p><a href="/wiki/Wave_height" title="Wave height">Wave heights</a> in the scale are for conditions in the open ocean, not along the shore.</p>
+<h2><span class="mw-headline" id="Modern_scale">Modern scale</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beaufort_scale&amp;action=edit&amp;section=2" title="Edit section: Modern scale">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table border="1" class="wikitable">
+<tr>
+<th>Beaufort number</th>
+<th>Description</th>
+<th>Wind speed</th>
+<th>Wave height</th>
+<th width="130">Sea conditions</th>
+<th width="120">Land conditions</th>
+<th>Sea state photo</th>
+<th>Associated warning flag</th>
+</tr>
+<tr>
+<th id="Beaufort_Number_0" rowspan="4" style="background-color: #FFFFFF; font-size: large;">0</th>
+<td rowspan="4">Calm</td>
+<td>&lt; 1 km/h</td>
+<td rowspan="2">0 <a href="/wiki/Metre" title="Metre">m</a></td>
+<td rowspan="4">Sea like a mirror</td>
+<td rowspan="4">Smoke rises vertically.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_0.jpg"><img alt="Beaufort scale 0.jpg" data-file-height="371" data-file-width="400" height="111" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beaufort_scale_0.jpg/120px-Beaufort_scale_0.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beaufort_scale_0.jpg/180px-Beaufort_scale_0.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Beaufort_scale_0.jpg/240px-Beaufort_scale_0.jpg 2x" width="120"/></a></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>&lt; 1 mph</td>
+</tr>
+<tr>
+<td>&lt; 1 <a href="/wiki/Knot_(unit)" title="Knot (unit)">knot</a></td>
+<td rowspan="2">0 <a class="mw-redirect" href="/wiki/Foot_(length)" title="Foot (length)">ft</a></td>
+</tr>
+<tr>
+<td>&lt; 0.3 <a href="/wiki/Metre_per_second" title="Metre per second">m/s</a></td>
+</tr>
+<tr>
+<th id="Beaufort_Number_1" rowspan="4" style="background-color: #CCFFFF; font-size: large;">1</th>
+<td rowspan="4">Light air</td>
+<td>1–5 km/h</td>
+<td rowspan="2">0–0.2 m</td>
+<td rowspan="4">Ripples with appearance of scales are formed, without foam crests</td>
+<td rowspan="4">Direction shown by smoke drift but not by wind vanes.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_1.jpg"><img alt="Beaufort scale 1.jpg" data-file-height="397" data-file-width="400" height="119" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Beaufort_scale_1.jpg/120px-Beaufort_scale_1.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/18/Beaufort_scale_1.jpg/180px-Beaufort_scale_1.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/18/Beaufort_scale_1.jpg/240px-Beaufort_scale_1.jpg 2x" width="120"/></a></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>1–3 mph</td>
+</tr>
+<tr>
+<td>1–3 knots</td>
+<td rowspan="2">0–1 ft</td>
+</tr>
+<tr>
+<td>0.3–1.5 m/s</td>
+</tr>
+<tr>
+<th id="Beaufort_Number_2" rowspan="4" style="background-color: #99FFCC; font-size: large;">2</th>
+<td rowspan="4">Light breeze</td>
+<td>6–11 km/h</td>
+<td rowspan="2">0.2–0.5 m</td>
+<td rowspan="4">Small wavelets still short but more pronounced; crests have a glassy appearance but do not break</td>
+<td rowspan="4">Wind felt on face; leaves rustle; wind vane moved by wind. <a href="/wiki/Weather_vane" title="Weather vane">Wind vanes</a> begin to move.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_2.jpg"><img alt="Beaufort scale 2.jpg" data-file-height="397" data-file-width="400" height="119" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Beaufort_scale_2.jpg/120px-Beaufort_scale_2.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Beaufort_scale_2.jpg/180px-Beaufort_scale_2.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d1/Beaufort_scale_2.jpg/240px-Beaufort_scale_2.jpg 2x" width="120"/></a></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>4–7 mph</td>
+</tr>
+<tr>
+<td>4–6 knots</td>
+<td rowspan="2">1–2 ft</td>
+</tr>
+<tr>
+<td>1.6–3.3 m/s</td>
+</tr>
+<tr>
+<th id="Beaufort_Number_3" rowspan="4" style="background-color: #99FF99; font-size: large;">3</th>
+<td rowspan="4">Gentle breeze</td>
+<td>12–19 km/h</td>
+<td rowspan="2">0.5–1 m</td>
+<td rowspan="4">Large wavelets; crests begin to break; foam of glassy appearance; perhaps scattered <a class="mw-redirect" href="/wiki/Oceanic_whitecaps" title="Oceanic whitecaps">white horses</a></td>
+<td rowspan="4">Leaves and small twigs in constant motion; light flags extended.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_3.jpg"><img alt="Beaufort scale 3.jpg" data-file-height="397" data-file-width="400" height="119" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Beaufort_scale_3.jpg/120px-Beaufort_scale_3.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/51/Beaufort_scale_3.jpg/180px-Beaufort_scale_3.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/51/Beaufort_scale_3.jpg/240px-Beaufort_scale_3.jpg 2x" width="120"/></a></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>8–12 mph</td>
+</tr>
+<tr>
+<td>7–10 knots</td>
+<td rowspan="2">2–3.5 ft</td>
+</tr>
+<tr>
+<td>3.4–5.5 m/s</td>
+</tr>
+<tr>
+<th id="Beaufort_Number_4" rowspan="4" style="background-color: #99FF66; font-size: large;">4</th>
+<td rowspan="4">Moderate breeze</td>
+<td>20–28 km/h</td>
+<td rowspan="2">1–2 m</td>
+<td rowspan="4">Small waves becoming longer; fairly frequent white horses</td>
+<td rowspan="4">Raises dust and loose paper; small branches moved.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_4.jpg"><img alt="Beaufort scale 4.jpg" data-file-height="386" data-file-width="400" height="116" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Beaufort_scale_4.jpg/120px-Beaufort_scale_4.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Beaufort_scale_4.jpg/180px-Beaufort_scale_4.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/0f/Beaufort_scale_4.jpg/240px-Beaufort_scale_4.jpg 2x" width="120"/></a></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>13–18 mph</td>
+</tr>
+<tr>
+<td>11–16 knots</td>
+<td rowspan="2">3.5–6 ft</td>
+</tr>
+<tr>
+<td>5.5–7.9 m/s</td>
+</tr>
+<tr>
+<th id="Beaufort_Number_5" rowspan="4" style="background-color: #99FF00; font-size: large;">5</th>
+<td rowspan="4">Fresh breeze</td>
+<td>29–38 km/h</td>
+<td rowspan="2">2–3 m</td>
+<td rowspan="4">Moderate waves taking a more pronounced long form; many white horses are formed; chance of some spray</td>
+<td rowspan="4">Small trees in leaf begin to sway; crested wavelets form on inland waters.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_5.jpg"><img alt="Beaufort scale 5.jpg" data-file-height="386" data-file-width="400" height="116" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Beaufort_scale_5.jpg/120px-Beaufort_scale_5.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Beaufort_scale_5.jpg/180px-Beaufort_scale_5.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/2b/Beaufort_scale_5.jpg/240px-Beaufort_scale_5.jpg 2x" width="120"/></a></td>
+<td rowspan="4"></td>
+</tr>
+<tr>
+<td>19–24 mph</td>
+</tr>
+<tr>
+<td>17–21 knots</td>
+<td rowspan="2">6–9 ft</td>
+</tr>
+<tr>
+<td>8–10.7 m/s</td>
+</tr>
+<tr>
+<th id="Beaufort_Number_6" rowspan="4" style="background-color: #CCFF00; font-size: large;">6</th>
+<td rowspan="4">Strong breeze</td>
+<td>39–49 km/h</td>
+<td rowspan="2">3–4 m</td>
+<td rowspan="4">Large waves begin to form; the white foam crests are more extensive everywhere; probably some spray</td>
+<td rowspan="4">Large branches in motion; whistling heard in telegraph wires; umbrellas used with difficulty.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_6.jpg"><img alt="Beaufort scale 6.jpg" data-file-height="386" data-file-width="400" height="116" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Beaufort_scale_6.jpg/120px-Beaufort_scale_6.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Beaufort_scale_6.jpg/180px-Beaufort_scale_6.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Beaufort_scale_6.jpg/240px-Beaufort_scale_6.jpg 2x" width="120"/></a></td>
+<td rowspan="4"><a class="image" href="/wiki/File:Gale_pennant.svg"><img alt="Gale pennant.svg" data-file-height="101" data-file-width="149" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/100px-Gale_pennant.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/150px-Gale_pennant.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/200px-Gale_pennant.svg.png 2x" width="100"/></a></td>
+</tr>
+<tr>
+<td>25–31 mph</td>
+</tr>
+<tr>
+<td>22–27 knots</td>
+<td rowspan="2">9–13 ft</td>
+</tr>
+<tr>
+<td>10.8–13.8 m/s</td>
+</tr>
+<tr>
+<th id="Beaufort_Number_7" rowspan="4" style="background-color: #FFFF00; font-size: large;">7</th>
+<td rowspan="4">High wind,<br/>
+moderate gale,<br/>
+near gale</td>
+<td>50–61 km/h</td>
+<td rowspan="2">4–5.5 m</td>
+<td rowspan="4">Sea heaps up and white foam from breaking waves begins to be blown in streaks along the direction of the wind; spindrift begins to be seen</td>
+<td rowspan="4">Whole trees in motion; inconvenience felt when walking against the wind.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_7.jpg"><img alt="Beaufort scale 7.jpg" data-file-height="386" data-file-width="400" height="116" src="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Beaufort_scale_7.jpg/120px-Beaufort_scale_7.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Beaufort_scale_7.jpg/180px-Beaufort_scale_7.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Beaufort_scale_7.jpg/240px-Beaufort_scale_7.jpg 2x" width="120"/></a></td>
+<td rowspan="4"><a class="image" href="/wiki/File:Gale_pennant.svg"><img alt="Gale pennant.svg" data-file-height="101" data-file-width="149" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/100px-Gale_pennant.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/150px-Gale_pennant.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/200px-Gale_pennant.svg.png 2x" width="100"/></a></td>
+</tr>
+<tr>
+<td>32–38 mph</td>
+</tr>
+<tr>
+<td>28–33 knots</td>
+<td rowspan="2">13–19 ft</td>
+</tr>
+<tr>
+<td>13.9–17.1 m/s</td>
+</tr>
+<tr>
+<th id="Beaufort_Number_8" rowspan="4" style="background-color: #FFCC00; font-size: large;">8</th>
+<td rowspan="4"><a href="/wiki/Gale" title="Gale">Gale</a>,<br/>
+fresh gale</td>
+<td>62–74 km/h</td>
+<td rowspan="2">5.5–7.5 m</td>
+<td rowspan="4">Moderately high waves of greater length; edges of crests break into spindrift; foam is blown in well-marked streaks along the direction of the wind</td>
+<td rowspan="4">Twigs break off trees; generally impedes progress.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_8.jpg"><img alt="Beaufort scale 8.jpg" data-file-height="394" data-file-width="400" height="118" src="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Beaufort_scale_8.jpg/120px-Beaufort_scale_8.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/0/00/Beaufort_scale_8.jpg/180px-Beaufort_scale_8.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/0/00/Beaufort_scale_8.jpg/240px-Beaufort_scale_8.jpg 2x" width="120"/></a></td>
+<td rowspan="4"><a class="image" href="/wiki/File:Gale_pennant.svg"><img alt="Gale pennant.svg" data-file-height="101" data-file-width="149" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/100px-Gale_pennant.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/150px-Gale_pennant.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/200px-Gale_pennant.svg.png 2x" width="100"/></a><br/>
+<a class="image" href="/wiki/File:Gale_pennant.svg"><img alt="Gale pennant.svg" data-file-height="101" data-file-width="149" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/100px-Gale_pennant.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/150px-Gale_pennant.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/200px-Gale_pennant.svg.png 2x" width="100"/></a></td>
+</tr>
+<tr>
+<td>39–46 mph</td>
+</tr>
+<tr>
+<td>34–40 knots</td>
+<td rowspan="2">18–25 ft</td>
+</tr>
+<tr>
+<td>17.2–20.7 m/s</td>
+</tr>
+<tr>
+<th id="Beaufort_Number_9" rowspan="4" style="background-color: #FF9900; font-size: large;">9</th>
+<td rowspan="4">Strong/severe gale</td>
+<td>75–88 km/h</td>
+<td rowspan="2">7–10 m</td>
+<td rowspan="4">High waves; dense streaks of foam along the direction of the wind; sea begins to roll; spray affects visibility</td>
+<td rowspan="4">Slight structural damage (chimney pots and slates removed).</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_9.jpg"><img alt="Beaufort scale 9.jpg" data-file-height="394" data-file-width="400" height="118" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Beaufort_scale_9.jpg/120px-Beaufort_scale_9.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Beaufort_scale_9.jpg/180px-Beaufort_scale_9.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Beaufort_scale_9.jpg/240px-Beaufort_scale_9.jpg 2x" width="120"/></a></td>
+<td rowspan="4"><a class="image" href="/wiki/File:Gale_pennant.svg"><img alt="Gale pennant.svg" data-file-height="101" data-file-width="149" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/100px-Gale_pennant.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/150px-Gale_pennant.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/200px-Gale_pennant.svg.png 2x" width="100"/></a><br/>
+<a class="image" href="/wiki/File:Gale_pennant.svg"><img alt="Gale pennant.svg" data-file-height="101" data-file-width="149" height="68" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/100px-Gale_pennant.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/150px-Gale_pennant.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/2/26/Gale_pennant.svg/200px-Gale_pennant.svg.png 2x" width="100"/></a></td>
+</tr>
+<tr>
+<td>47–54 mph</td>
+</tr>
+<tr>
+<td>41–47 knots</td>
+<td rowspan="2">23–32 ft</td>
+</tr>
+<tr>
+<td>20.8–24.4 m/s</td>
+</tr>
+<caption><span id="Storm-force"></span></caption>
+<tr>
+<th id="Beaufort_Number_10" rowspan="4" style="background-color: #FF6600; font-size: large;">10</th>
+<td rowspan="4"><a href="/wiki/Storm" title="Storm">Storm</a>,<sup class="reference" id="cite_ref-forcenamenote_7-0"><a href="#cite_note-forcenamenote-7">[7]</a></sup><br/>
+whole gale</td>
+<td>89–102 km/h</td>
+<td rowspan="2">9–12.5 m</td>
+<td rowspan="4">Very high waves with long overhanging crests; resulting foam in great patches is blown in dense white streaks along the direction of the wind; on the whole the surface of the sea takes on a white appearance; rolling of the sea becomes heavy; visibility affected</td>
+<td rowspan="4">Seldom experienced inland; trees uprooted; considerable structural damage.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_10.jpg"><img alt="Beaufort scale 10.jpg" data-file-height="419" data-file-width="400" height="126" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Beaufort_scale_10.jpg/120px-Beaufort_scale_10.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/86/Beaufort_scale_10.jpg/180px-Beaufort_scale_10.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/86/Beaufort_scale_10.jpg/240px-Beaufort_scale_10.jpg 2x" width="120"/></a></td>
+<td rowspan="4"><a class="image" href="/wiki/File:Storm_warning.svg"><img alt="Storm warning.svg" data-file-height="292" data-file-width="292" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/100px-Storm_warning.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/150px-Storm_warning.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/200px-Storm_warning.svg.png 2x" width="100"/></a></td>
+</tr>
+<tr>
+<td>55–63 mph</td>
+</tr>
+<tr>
+<td>48–55 knots</td>
+<td rowspan="2">29–41 ft</td>
+</tr>
+<tr>
+<td>24.5–28.4 m/s</td>
+</tr>
+<tr>
+<th id="Beaufort_Number_11" rowspan="4" style="background-color: #FF3300; font-size: large;">11</th>
+<td rowspan="4">Violent storm</td>
+<td>103–117 km/h</td>
+<td rowspan="2">11.5–16 m</td>
+<td rowspan="4">Exceptionally high waves; small- and medium-sized ships might be for a long time lost to view behind the waves; sea is covered with long white patches of foam; everywhere the edges of the wave crests are blown into foam; visibility affected</td>
+<td rowspan="4">Very rarely experienced; accompanied by widespread damage.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_11.jpg"><img alt="Beaufort scale 11.jpg" data-file-height="419" data-file-width="400" height="126" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Beaufort_scale_11.jpg/120px-Beaufort_scale_11.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/16/Beaufort_scale_11.jpg/180px-Beaufort_scale_11.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/16/Beaufort_scale_11.jpg/240px-Beaufort_scale_11.jpg 2x" width="120"/></a></td>
+<td rowspan="4"><a class="image" href="/wiki/File:Storm_warning.svg"><img alt="Storm warning.svg" data-file-height="292" data-file-width="292" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/100px-Storm_warning.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/150px-Storm_warning.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/200px-Storm_warning.svg.png 2x" width="100"/></a></td>
+</tr>
+<tr>
+<td>64–72 mph</td>
+</tr>
+<tr>
+<td>56–63 knots</td>
+<td rowspan="2">37–52 ft</td>
+</tr>
+<tr>
+<td>28.5–32.6 m/s</td>
+</tr>
+<caption><span id="Hurricane_force"></span></caption>
+<tr>
+<th id="Beaufort_Number_12" rowspan="4" style="background-color: #FF0000; font-size: large;">12</th>
+<td rowspan="4"><a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">Hurricane</a> force <sup class="reference" id="cite_ref-forcenamenote_7-1"><a href="#cite_note-forcenamenote-7">[7]</a></sup></td>
+<td>≥ 118 km/h</td>
+<td rowspan="2">≥ 14 m</td>
+<td rowspan="4">The air is filled with foam and spray; sea is completely white with driving spray; visibility very seriously affected</td>
+<td rowspan="4">Devastation.</td>
+<td rowspan="4"><a class="image" href="/wiki/File:Beaufort_scale_12.jpg"><img alt="Beaufort scale 12.jpg" data-file-height="400" data-file-width="400" height="120" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Beaufort_scale_12.jpg/120px-Beaufort_scale_12.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Beaufort_scale_12.jpg/180px-Beaufort_scale_12.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/ce/Beaufort_scale_12.jpg/240px-Beaufort_scale_12.jpg 2x" width="120"/></a></td>
+<td rowspan="4"><a class="image" href="/wiki/File:Storm_warning.svg"><img alt="Storm warning.svg" data-file-height="292" data-file-width="292" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/100px-Storm_warning.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/150px-Storm_warning.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/200px-Storm_warning.svg.png 2x" width="100"/></a><br/>
+<br/>
+<a class="image" href="/wiki/File:Storm_warning.svg"><img alt="Storm warning.svg" data-file-height="292" data-file-width="292" height="100" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/100px-Storm_warning.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/150px-Storm_warning.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/72/Storm_warning.svg/200px-Storm_warning.svg.png 2x" width="100"/></a></td>
+</tr>
+<tr>
+<td>≥ 73 mph</td>
+</tr>
+<tr>
+<td>≥ 64 knots</td>
+<td rowspan="2">≥ 46 ft</td>
+</tr>
+<tr>
+<td>≥ 32.7 m/s</td>
+</tr>
+<tr>
+<th colspan="8">References: Met Office,<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Royal Meteorological Society,<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> <i>Encyclopædia Britannica</i><sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup></th>
+</tr>
+</table>
+<p>The wind speeds in different units are not mathematically equivalent; e.g. 12–19 km/h is not equivalent to 8–12 mph, and both are not equivalent to 7–10 knots. The reason is that the Beaufort scale is not an exact nor an objective scale. It was based on visual and subjective observation of a ship and of the sea. The corresponding integral wind speeds were determined later, but the values in different units were never made equivalent.</p>
+<p>The scale is used in the <a href="/wiki/Shipping_Forecast" title="Shipping Forecast">Shipping Forecasts</a> broadcast on <a href="/wiki/BBC_Radio_4" title="BBC Radio 4">BBC Radio 4</a> in the United Kingdom, and in the Sea Area Forecast from <a href="/wiki/Met_%C3%89ireann" title="Met Éireann">Met Éireann</a>, the Irish Meteorological Service. Met Éireann issues a "Small Craft Warning" if winds of Beaufort force 6 (mean wind speed exceeding 22 knots) are expected up to 10 nautical miles offshore. Other warnings are issued by Met Éireann for Irish coastal waters, which are regarded as extending 30 miles out from the coastline, and the Irish Sea or part thereof: "Gale Warnings" are issued if winds of Beaufort force 8 are expected; "Strong Gale Warnings" are issued if winds of Beaufort force 9 or frequent gusts of at least 52 knots are expected.; "Storm Force Warnings" are issued if Beaufort force 10 or frequent gusts of at least 61 knots are expected; "Violent Storm Force Warnings" are issued if Beaufort force 11 or frequent gusts of at least 69 knots are expected; "Hurricane Force Warnings" are issued if winds of greater than 64 knots are expected.</p>
+<p>This scale is also widely used in the Netherlands, Germany,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> Greece, China, Taiwan, Hong Kong, Malta and Macau, although with some differences between them. Taiwan uses the Beaufort scale with the extension to 17 noted above. China also switched to this extended version without prior notice on the morning of 15 May 2006,<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> and the extended scale was immediately put to use for <a href="/wiki/Typhoon_Chanchu" title="Typhoon Chanchu">Typhoon Chanchu</a>. <a href="/wiki/Hong_Kong" title="Hong Kong">Hong Kong</a> and <a href="/wiki/Macau" title="Macau">Macau</a> retain force 12 as the maximum.</p>
+<p>In the United States, winds of force 6 or 7 result in the issuance of a <a href="/wiki/Small_craft_advisory" title="Small craft advisory">small craft advisory</a>, with force 8 or 9 winds bringing about a <a href="/wiki/Gale_warning" title="Gale warning">gale warning</a>, force 10 or 11 a <a href="/wiki/Storm_warning" title="Storm warning">storm warning</a> ("a <a class="mw-redirect" href="/wiki/Tropical_storm_warning" title="Tropical storm warning">tropical storm warning</a>" being issued instead of the latter two if the winds relate to a <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a>), and force 12 a <a href="/wiki/Storm_warning" title="Storm warning">hurricane-force wind warning</a> (or <a class="mw-redirect" href="/wiki/Hurricane_warning" title="Hurricane warning">hurricane warning</a> if related to a tropical cyclone). A set of red warning flags (daylight) and red warning lights (night time) is displayed at shore establishments which coincide with the various levels of warning.</p>
+<p>In Canada, maritime winds forecast to be in the range of 6 to 7 are designated as "strong"; 8 to 9 "gale force"; 10 to 11 "storm force"; 12 "hurricane force". Appropriate wind warnings are issued by Environment Canada's Meteorological Service of Canada: strong wind warning, gale (force wind) warning, storm (force wind) warning and hurricane-force wind warning. These designations were standardized nationally in 2008, whereas "light wind" can refer to 0 to 12 or 0 to 15 knots and "moderate wind" 12 to 19 or 16 to 19 knots, depending on regional custom, definition or practice. Prior to 2008, a "strong wind warning" would have been referred to as a "small craft warning" by Environment Canada, similar to US terminology. (Canada and the USA have the Great Lakes in common.)</p>
+<center>
+<table class="wikitable">
+<caption><a class="mw-selflink selflink">Beaufort Wind Scale</a></caption>
+<tr style="text-align: center;">
+<th id="Beaufort_Number_0" style="background-color: #FFFFFF;"><span title="Calm: &lt;1 mph (&lt;0.3 m/s)">0</span></th>
+<th id="Beaufort_Number_1" style="background-color: #CCFFFF;"><span title="Light Air: 1–3 mph (0.3–1.5 m/s)">1</span></th>
+<th id="Beaufort_Number_2" style="background-color: #99FFCC;"><span title="Light Breeze: 4–7 mph (1.6–3.3 m/s)">2</span></th>
+<th id="Beaufort_Number_3" style="background-color: #99FF99;"><span title="Gentle Breeze: 8–12 mph (3.4–5.5 m/s)">3</span></th>
+<th id="Beaufort_Number_4" style="background-color: #99FF66;"><span title="Moderate Breeze: 13–18 mph (5.5–7.9 m/s)">4</span></th>
+<th id="Beaufort_Number_5" style="background-color: #99FF00;"><span title="Fresh Breeze: 19–24 mph (8.0–10.7 m/s)">5</span></th>
+<th id="Beaufort_Number_6" style="background-color: #CCFF00;"><span title="Strong Breeze: 25–31 mph (10.8–13.8 m/s)">6</span></th>
+<th id="Beaufort_Number_7" style="background-color: #FFFF00;"><span title="Near Gale: 32–38 mph (13.9–17.1 m/s)">7</span></th>
+<th id="Beaufort_Number_8" style="background-color: #FFCC00;"><span title="Gale: 39–46 mph (17.2–20.7 m/s)">8</span></th>
+<th id="Beaufort_Number_9" style="background-color: #FF9900;"><span title="Strong Gale: 47-54 mph (20.8–24.4 m/s)">9</span></th>
+<th id="Beaufort_Number_10" style="background-color: #FF6600;"><span title="Storm: 55–63 mph (24.5–28.4 m/s)">10</span></th>
+<th id="Beaufort_Number_11" style="background-color: #FF3300;"><span title="Violent Storm: 64–72 mph (28.5–32.6 m/s)">11</span></th>
+<th id="Beaufort_Number_12" style="background-color: #FF0000;"><span title="Hurricane Force: ≥73 mph (≥32.7 m/s)">12</span></th>
+</tr>
+<tr style="text-align: center;">
+<td><small>Calm</small></td>
+<td><small>Light Air</small></td>
+<td><small>Light Breeze</small></td>
+<td><small>Gentle Breeze</small></td>
+<td><small>Moderate Breeze</small></td>
+<td><small>Fresh Breeze</small></td>
+<td><small>Strong Breeze</small></td>
+<td><small>Near Gale</small></td>
+<td><small><a href="/wiki/Gale" title="Gale">Gale</a></small></td>
+<td><small>Strong Gale</small></td>
+<td><small><a href="/wiki/Storm" title="Storm">Storm</a></small></td>
+<td><small>Violent Storm</small></td>
+<td><small><a class="mw-redirect" href="/wiki/Hurricane" title="Hurricane">Hurricane</a> Force</small></td>
+</tr>
+<tr style="text-align: center;">
+<td colspan="6"><small>Light Winds</small></td>
+<td colspan="2"><small>High Winds</small></td>
+<td colspan="2"><small>Gale-force</small></td>
+<td colspan="2"><small>Storm-force</small></td>
+<td><small>Hurricane-force</small></td>
+</tr>
+<tr style="text-align: center;">
+<td><span style="font-size:75%; line-height: 1.31em;">&lt;1 mph<br/>
+&lt;1 <a href="/wiki/Knot_(unit)" title="Knot (unit)">knot</a><br/>
+&lt;0.3 <a href="/wiki/Metre_per_second" title="Metre per second">m/s</a></span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">1–3 mph<br/>
+1–3 knots<br/>
+0.3–1.5 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">4–7 mph<br/>
+4–6 knots<br/>
+1.6–3.3 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">8–12 mph<br/>
+7–10 knots<br/>
+3.4–5.5 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">13–18 mph<br/>
+11–16 knots<br/>
+5.5–7.9 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">18–24 mph<br/>
+17–21 knots<br/>
+8.0–10.7 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">25–31 mph<br/>
+22–27 knots<br/>
+10.8–13.8 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">31–38 mph<br/>
+28–33 knots<br/>
+13.9–17.1 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">39–46 mph<br/>
+34–40 knots<br/>
+17.2–20.7 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">47-54 mph<br/>
+41–47 knots<br/>
+20.8–24.4 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">55–63 mph<br/>
+48–55 knots<br/>
+24.5–28.4 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">64–72 mph<br/>
+56–63 knots<br/>
+28.5–32.6 m/s</span></td>
+<td><span style="font-size:75%; line-height: 1.31em;">≥73 mph<br/>
+≥63 knots<br/>
+≥32.7 m/s</span></td>
+</tr>
+</table>
+</center>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beaufort_scale&amp;action=edit&amp;section=3" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><i><a href="/wiki/Bowditch%27s_American_Practical_Navigator" title="Bowditch's American Practical Navigator">Bowditch's American Practical Navigator</a></i></li>
+<li><a href="/wiki/CLIWOC" title="CLIWOC">CLIWOC</a></li>
+<li><a class="mw-redirect" href="/wiki/Enhanced_Fujita_Scale" title="Enhanced Fujita Scale">Enhanced Fujita Scale</a></li>
+<li><a class="mw-redirect" href="/wiki/Douglas_Sea_Scale" title="Douglas Sea Scale">Douglas Sea Scale</a></li>
+<li><a href="/wiki/Fujita_scale" title="Fujita scale">Fujita scale</a></li>
+<li><a href="/wiki/Saffir%E2%80%93Simpson_scale" title="Saffir–Simpson scale">Saffir–Simpson scale</a></li>
+<li><a href="/wiki/Sea_state" title="Sea state">Sea state</a></li>
+<li><a href="/wiki/Squall" title="Squall">Squall</a></li>
+<li><a href="/wiki/TORRO_scale" title="TORRO scale">TORRO scale</a></li>
+<li><a href="/wiki/Tropical_cyclone" title="Tropical cyclone">Tropical cyclone</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beaufort_scale&amp;action=edit&amp;section=4" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Huler, Scott (2004). <i>Defining the Wind: The Beaufort Scale, and How a 19th-Century Admiral Turned Science into Poetry</i>. Crown. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/1-4000-4884-2" title="Special:BookSources/1-4000-4884-2">1-4000-4884-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.aufirst=Scott&amp;rft.aulast=Huler&amp;rft.btitle=Defining+the+Wind%3A+The+Beaufort+Scale%2C+and+How+a+19th-Century+Admiral+Turned+Science+into+Poetry&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=1-4000-4884-2&amp;rft.pub=Crown&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+</ul>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-met_office-1"><span class="mw-cite-backlink">^ <a href="#cite_ref-met_office_1-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-met_office_1-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.metoffice.gov.uk/media/pdf/4/4/Fact_Sheet_No._6_-_Beaufort_Scale.pdf" rel="nofollow">"National Meteorological Library and Archive Fact sheet 6 — The Beaufort Scale"</a> <span style="font-size:85%;">(PDF)</span>. <a href="/wiki/Met_Office" title="Met Office">Met Office</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-05-13</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.btitle=National+Meteorological+Library+and+Archive+Fact+sheet+6+%E2%80%94+The+Beaufort+Scale&amp;rft.genre=unknown&amp;rft.pub=Met+Office&amp;rft_id=http%3A%2F%2Fwww.metoffice.gov.uk%2Fmedia%2Fpdf%2F4%2F4%2FFact_Sheet_No._6_-_Beaufort_Scale.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text"><cite class="citation book">Oliver, John E. (2005). <i>Encyclopedia of world climatology</i>. Springer.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.aufirst=John+E.&amp;rft.aulast=Oliver&amp;rft.btitle=Encyclopedia+of+world+climatology&amp;rft.date=2005&amp;rft.genre=book&amp;rft.pub=Springer&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text">Walter J. Saucier (1955). <a class="external text" href="https://books.google.com/books?id=CM99-uKpR00C&amp;pg=PA407&amp;lpg=PA407&amp;dq=daily+swan+island+rainfall+data&amp;source=web&amp;ots=OvGwgh67t9&amp;sig=lwTKWaNSmgGqjFEC6rTIzfynYco&amp;hl=en&amp;sa=X&amp;oi=book_result&amp;resnum=8&amp;ct=result#PPA415,M1" rel="nofollow">Principles of Meteorological Analysis.</a> Retrieved on 2009-01-09.</span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><a class="external free" href="http://library.wmo.int/pmb_ged/wmo_558_en-v1.pdf" rel="nofollow">http://library.wmo.int/pmb_ged/wmo_558_en-v1.pdf</a></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation book">Tom Beer (1997). <a class="external text" href="https://books.google.com/books?id=pgZtaB-qOmYC&amp;pg=PA224&amp;dq=%22Beaufort+Scale%22+0.836" rel="nofollow"><i>Environmental Oceanography</i></a>. CRC Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0-8493-8425-7" title="Special:BookSources/0-8493-8425-7">0-8493-8425-7</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.au=Tom+Beer&amp;rft.btitle=Environmental+Oceanography&amp;rft.date=1997&amp;rft.genre=book&amp;rft.isbn=0-8493-8425-7&amp;rft.pub=CRC+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2Fbooks%3Fid%3DpgZtaB-qOmYC%26pg%3DPA224%26dq%3D%2522Beaufort%2BScale%2522%2B0.836&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Maiden, Terence. <a class="external text" href="https://web.archive.org/web/20120205020044/http://www.torro.org.uk/TORRO/severeweather/Tscaleorigin.php" rel="nofollow">"T-Scale: Origins and Scientific Basis"</a>. TORRO. Archived from <a class="external text" href="http://www.torro.org.uk/TORRO/severeweather/Tscaleorigin.php" rel="nofollow">the original</a> on 5 February 2012<span class="reference-accessdate">. Retrieved <span class="nowrap">4 January</span> 2012</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.aufirst=Terence&amp;rft.aulast=Maiden&amp;rft.btitle=T-Scale%3A+Origins+and+Scientific+Basis&amp;rft.genre=unknown&amp;rft.pub=TORRO&amp;rft_id=http%3A%2F%2Fwww.torro.org.uk%2FTORRO%2Fsevereweather%2FTscaleorigin.php&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-forcenamenote-7"><span class="mw-cite-backlink">^ <a href="#cite_ref-forcenamenote_7-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-forcenamenote_7-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text">The names "storm" and "hurricane" on the Beaufort scale refer only to wind strength, and do not necessarily mean that other severe weather (for instance, a <a href="/wiki/Thunderstorm" title="Thunderstorm">thunderstorm</a> or <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a>) is present. To avoid confusion, strong wind warnings will often speak of e.g. "hurricane-force winds".</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.metoffice.gov.uk/guide/weather/marine/beaufort-scale" rel="nofollow">"Beaufort wind force scale"</a>. Met Office<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.btitle=Beaufort+wind+force+scale&amp;rft.genre=unknown&amp;rft.pub=Met+Office&amp;rft_id=http%3A%2F%2Fwww.metoffice.gov.uk%2Fguide%2Fweather%2Fmarine%2Fbeaufort-scale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.rmets.org/weather-and-climate/observing/beaufort-scale" rel="nofollow">"Beaufort Scale"</a>. Royal Meteorological Society<span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.btitle=Beaufort+Scale&amp;rft.genre=unknown&amp;rft.pub=Royal+Meteorological+Society&amp;rft_id=http%3A%2F%2Fwww.rmets.org%2Fweather-and-climate%2Fobserving%2Fbeaufort-scale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.britannica.com/science/Beaufort-scale" rel="nofollow">"Beaufort Scale"</a>. <i>Encyclopædia Britannica</i><span class="reference-accessdate">. Retrieved <span class="nowrap">November 27,</span> 2015</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.atitle=Beaufort+Scale&amp;rft.genre=unknown&amp;rft.jtitle=Encyclop%C3%A6dia+Britannica&amp;rft_id=http%3A%2F%2Fwww.britannica.com%2Fscience%2FBeaufort-scale&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20131212205023/http://www.deutscher-wetterdienst.de/lexikon/index.htm?ID=B&amp;DAT=Beaufort-Skala" rel="nofollow">"Wetterlexikon - Beaufort-Skala"</a> (in German). <a href="/wiki/Deutscher_Wetterdienst" title="Deutscher Wetterdienst">Deutscher Wetterdienst</a>. Archived from <a class="external text" href="http://www.deutscher-wetterdienst.de/lexikon/index.htm?ID=B&amp;DAT=Beaufort-Skala" rel="nofollow">the original</a> on 12 December 2013<span class="reference-accessdate">. Retrieved <span class="nowrap">2014-02-14</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.btitle=Wetterlexikon+-+Beaufort-Skala&amp;rft.genre=unknown&amp;rft.pub=Deutscher+Wetterdienst&amp;rft_id=http%3A%2F%2Fwww.deutscher-wetterdienst.de%2Flexikon%2Findex.htm%3FID%3DB%26DAT%3DBeaufort-Skala&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://news.sina.com.cn/o/2006-05-16/06518935033s.shtml" rel="nofollow">"昨日实行新标准“珍珠”属强台风_新闻中心_新浪网"</a>. <i>news.sina.com.cn</i>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ABeaufort+scale&amp;rft.atitle=%E6%98%A8%E6%97%A5%E5%AE%9E%E8%A1%8C%E6%96%B0%E6%A0%87%E5%87%86%E2%80%9C%E7%8F%8D%E7%8F%A0%E2%80%9D%E5%B1%9E%E5%BC%BA%E5%8F%B0%E9%A3%8E_%E6%96%B0%E9%97%BB%E4%B8%AD%E5%BF%83_%E6%96%B0%E6%B5%AA%E7%BD%91&amp;rft.genre=unknown&amp;rft.jtitle=news.sina.com.cn&amp;rft_id=http%3A%2F%2Fnews.sina.com.cn%2Fo%2F2006-05-16%2F06518935033s.shtml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Beaufort_scale&amp;action=edit&amp;section=5" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="1376" data-file-width="1024" height="40" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/30px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/45px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/59px-Commons-logo.svg.png 2x" width="30"/></td>
+<td class="mbox-text plainlist">Wikimedia Commons has media related to <i><b><a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Beaufort_Scale" title="commons:Category:Beaufort Scale">Beaufort Scale</a></b></i>.</td>
+</tr>
+</table>
+<table class="mbox-small plainlinks sistersitebox" role="presentation" style="background-color:#f9f9f9;border:1px solid #aaa;color:#000">
+<tr>
+<td class="mbox-image"><img alt="" class="noviewer" data-file-height="430" data-file-width="410" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/38px-Wikisource-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/57px-Wikisource-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Wikisource-logo.svg/76px-Wikisource-logo.svg.png 2x" width="38"/></td>
+<td class="mbox-text plainlist"><a href="/wiki/Wikisource" title="Wikisource">Wikisource</a> has the text of the <a href="/wiki/Encyclop%C3%A6dia_Britannica_Eleventh_Edition" title="Encyclopædia Britannica Eleventh Edition">1911 <i>Encyclopædia Britannica</i></a> article <i><b><a class="extiw" href="https://en.wikisource.org/wiki/1911_Encyclop%C3%A6dia_Britannica/Beaufort_Scale" title="wikisource:1911 Encyclopædia Britannica/Beaufort Scale">Beaufort Scale</a></b></i>.</td>
+</tr>
+</table>
+<ul>
+<li><a class="external text" href="https://www.youtube.com/watch?v=-tdSVqOybqs" rel="nofollow">Film of Wind Scale</a></li>
+<li><a class="external text" href="https://web.archive.org/web/20120710140044/http://www.knmi.nl/~koek/Publicaties/Hisklim13.pdf" rel="nofollow">Historical Wind Speed Equivalents Of The Beaufort Scale</a></li>
+<li><a class="external text" href="http://www.howtoons.com/wp-content/uploads/2009/05/beaufortscale.png" rel="nofollow">Howtoons Poster</a> showing effects on land/sea effects at each step.</li>
+<li><a class="external text" href="https://web.archive.org/web/20160306040923/http://oceanworld.tamu.edu/resources/ocng_textbook/contents.html" rel="nofollow"><i>Introduction to Physical Oceanography</i>, Open Source Textbook, oceanworld.tamu.edu</a>, cites the original definition formula in <a class="external text" href="http://oceanworld.tamu.edu/resources/ocng_textbook/chapter04/chapter04_04.htm" rel="nofollow">chapter 4</a>. Possibly available from University of Colorado <a class="external autonumber" href="http://www.colorado.edu/oclab/sites/default/files/attached-files/stewart_textbook.pdf" rel="nofollow">[1]</a>.</li>
+<li><a class="external text" href="https://web.archive.org/web/20090811210607/http://www.mii.connect.ie/history/beaufort/beaufort.html" rel="nofollow">Ireland's Beaufort was Windscale Inventor</a>—by Dr <a href="/wiki/John_de_Courcy_Ireland" title="John de Courcy Ireland">John de Courcy Ireland</a></li>
+<li><a class="external text" href="http://www.oceanweather.com/data/" rel="nofollow">OceanWeather.com</a> gives current graphics for wind, waves and temperature.</li>
+<li><a class="external text" href="http://planetcalc.com/384/" rel="nofollow">Online calculator: Beaufort scale</a></li>
+<li><a class="external text" href="http://www.islandnet.com/%7Esee/weather/history/beaufort.htm" rel="nofollow">The Weather Legacy of Francis Beaufort</a>—The history of the Beaufort Scale</li>
+<li><a class="external text" href="http://www.npr.org/templates/story/story.php?storyId=4794209" rel="nofollow">Radio interview</a> with Scott Huler</li>
+<li><a class="external text" href="http://www.metoffice.gov.uk/weather/marine/guide/beaufortscale.html" rel="nofollow">UK Meteorological Office: The Beaufort Scale</a></li>
+<li><a class="external text" href="http://www.economics.noaa.gov/?goal=weather&amp;file=events/storm/" rel="nofollow">US Economic Costs of High Winds</a> at NOAA Economics</li>
+</ul>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/Integrated_Authority_File" title="Integrated Authority File">GND</a>: <span class="uid"><a class="external text" href="http://d-nb.info/gnd/4348932-1" rel="nofollow">4348932-1</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1323
+Cached time: 20171004145924
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.276 seconds
+Real time usage: 0.374 seconds
+Preprocessor visited node count: 1312/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 30297/2097152 bytes
+Template argument size: 1978/2097152 bytes
+Highest expansion depth: 12/40
+Expensive parser function count: 4/500
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 4.76 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  292.658      1 -total
+ 20.74%   60.687      1 Template:Reflist
+ 17.48%   51.155      3 Template:Cite_book
+ 10.71%   31.335      1 Template:IPAc-en
+ 10.37%   30.344      7 Template:Cite_web
+ 10.17%   29.765      1 Template:Citation_needed
+  9.94%   29.102      1 Template:Redirect
+  9.81%   28.701      1 Template:Commons_category
+  9.15%   26.776      1 Template:Fix
+  5.37%   15.713      1 Template:Authority_control
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:155110-0!canonical and timestamp 20171004145924 and revision id 803311431
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Beaufort_scale&amp;oldid=803311431">https://en.wikipedia.org/w/index.php?title=Beaufort_scale&amp;oldid=803311431</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Hazard_scales" title="Category:Hazard scales">Hazard scales</a></li><li><a href="/wiki/Category:Wind" title="Category:Wind">Wind</a></li><li><a href="/wiki/Category:Marine_meteorology_and_sailing" title="Category:Marine meteorology and sailing">Marine meteorology and sailing</a></li><li><a href="/wiki/Category:Scales" title="Category:Scales">Scales</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_German-language_sources_(de)" title="Category:CS1 German-language sources (de)">CS1 German-language sources (de)</a></li><li><a href="/wiki/Category:Use_British_English_from_July_2012" title="Category:Use British English from July 2012">Use British English from July 2012</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_July_2011" title="Category:Use dmy dates from July 2011">Use dmy dates from July 2011</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_January_2008" title="Category:Articles with unsourced statements from January 2008">Articles with unsourced statements from January 2008</a></li><li><a href="/wiki/Category:Wikipedia_articles_with_GND_identifiers" title="Category:Wikipedia articles with GND identifiers">Wikipedia articles with GND identifiers</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Beaufort+scale" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Beaufort+scale" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Beaufort_scale" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Beaufort_scale" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Beaufort_scale">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Beaufort_scale&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Beaufort_scale&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Beaufort_scale" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Beaufort_scale" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Beaufort_scale&amp;oldid=803311431" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Beaufort_scale&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q170464" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Beaufort_scale&amp;id=803311431" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Beaufort+scale">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Beaufort+scale&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DBeaufort%2Bscale%26returnto%3DBeaufort%2Bscale%26oldid%3D803311431%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Beaufort_scale&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Beaufort_Scale" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Beaufortskaal" hreflang="af" lang="af" title="Beaufortskaal – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%B3%D9%84%D9%85_%D8%A8%D9%88%D9%81%D9%88%D8%B1%D8%AA" hreflang="ar" lang="ar" title="سلم بوفورت – Arabic">العربية</a></li><li class="interlanguage-link interwiki-az"><a class="interlanguage-link-target" href="https://az.wikipedia.org/wiki/Bofort_%C5%9Fkalas%C4%B1" hreflang="az" lang="az" title="Bofort şkalası – Azerbaijani">Azərbaycanca</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A8%D0%BA%D0%B0%D0%BB%D0%B0_%D0%91%D0%B0%D1%84%D0%BE%D1%80%D1%82%D0%B0" hreflang="be" lang="be" title="Шкала Бафорта – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-be-x-old"><a class="interlanguage-link-target" href="https://be-x-old.wikipedia.org/wiki/%D0%A8%D0%BA%D0%B0%D0%BB%D0%B0_%D0%91%D0%BE%D1%84%D0%B0%D1%80%D1%82%D0%B0" hreflang="be-x-old" lang="be-x-old" title="Шкала Бофарта – Belarusian (Taraškievica orthography)">Беларуская (тарашкевіца)‎</a></li><li class="interlanguage-link interwiki-bg"><a class="interlanguage-link-target" href="https://bg.wikipedia.org/wiki/%D0%A1%D0%BA%D0%B0%D0%BB%D0%B0_%D0%BD%D0%B0_%D0%91%D0%BE%D1%84%D0%BE%D1%80%D1%82" hreflang="bg" lang="bg" title="Скала на Бофорт – Bulgarian">Български</a></li><li class="interlanguage-link interwiki-bs"><a class="interlanguage-link-target" href="https://bs.wikipedia.org/wiki/Beaufortova_skala" hreflang="bs" lang="bs" title="Beaufortova skala – Bosnian">Bosanski</a></li><li class="interlanguage-link interwiki-br"><a class="interlanguage-link-target" href="https://br.wikipedia.org/wiki/Skeuliad_Beaufort" hreflang="br" lang="br" title="Skeuliad Beaufort – Breton">Brezhoneg</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Escala_de_Beaufort" hreflang="ca" lang="ca" title="Escala de Beaufort – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/Beaufortova_stupnice" hreflang="cs" lang="cs" title="Beaufortova stupnice – Czech">Čeština</a></li><li class="interlanguage-link interwiki-da"><a class="interlanguage-link-target" href="https://da.wikipedia.org/wiki/Beaufort-skalaen" hreflang="da" lang="da" title="Beaufort-skalaen – Danish">Dansk</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Beaufortskala" hreflang="de" lang="de" title="Beaufortskala – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Beauforti_skaala" hreflang="et" lang="et" title="Beauforti skaala – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%9A%CE%BB%CE%AF%CE%BC%CE%B1%CE%BA%CE%B1_%CE%9C%CF%80%CE%BF%CF%86%CF%8C%CF%81" hreflang="el" lang="el" title="Κλίμακα Μποφόρ – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Escala_de_Beaufort" hreflang="es" lang="es" title="Escala de Beaufort – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Boforta_skalo" hreflang="eo" lang="eo" title="Boforta skalo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Beaufort_eskala" hreflang="eu" lang="eu" title="Beaufort eskala – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D9%85%D9%82%DB%8C%D8%A7%D8%B3_%D8%A8%D9%88%D9%81%D9%88%D8%B1%D8%AA" hreflang="fa" lang="fa" title="مقیاس بوفورت – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fo"><a class="interlanguage-link-target" href="https://fo.wikipedia.org/wiki/Beaufort-talvan" hreflang="fo" lang="fo" title="Beaufort-talvan – Faroese">Føroyskt</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/%C3%89chelle_de_Beaufort" hreflang="fr" lang="fr" title="Échelle de Beaufort – French">Français</a></li><li class="interlanguage-link interwiki-fy"><a class="interlanguage-link-target" href="https://fy.wikipedia.org/wiki/Skaal_fan_Beaufort" hreflang="fy" lang="fy" title="Skaal fan Beaufort – Western Frisian">Frysk</a></li><li class="interlanguage-link interwiki-ga"><a class="interlanguage-link-target" href="https://ga.wikipedia.org/wiki/Sc%C3%A1la_Beaufort" hreflang="ga" lang="ga" title="Scála Beaufort – Irish">Gaeilge</a></li><li class="interlanguage-link interwiki-gl"><a class="interlanguage-link-target" href="https://gl.wikipedia.org/wiki/Escala_de_Beaufort" hreflang="gl" lang="gl" title="Escala de Beaufort – Galician">Galego</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EB%B3%B4%ED%8D%BC%ED%8A%B8_%ED%92%8D%EB%A0%A5_%EA%B3%84%EA%B8%89" hreflang="ko" lang="ko" title="보퍼트 풍력 계급 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hi"><a class="interlanguage-link-target" href="https://hi.wikipedia.org/wiki/%E0%A4%AC%E0%A5%8B%E0%A4%AB%E0%A4%B0%E0%A5%8D%E0%A4%9F_%E0%A4%AE%E0%A4%BE%E0%A4%AA%E0%A4%95%E0%A5%8D%E0%A4%B0%E0%A4%AE" hreflang="hi" lang="hi" title="बोफर्ट मापक्रम – Hindi">हिन्दी</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Beaufortova_ljestvica" hreflang="hr" lang="hr" title="Beaufortova ljestvica – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Skala_Beaufort" hreflang="id" lang="id" title="Skala Beaufort – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-is"><a class="interlanguage-link-target" href="https://is.wikipedia.org/wiki/Beaufort-kvar%C3%B0inn" hreflang="is" lang="is" title="Beaufort-kvarðinn – Icelandic">Íslenska</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Scala_di_Beaufort" hreflang="it" lang="it" title="Scala di Beaufort – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A1%D7%95%D7%9C%D7%9D_%D7%91%D7%95%D7%A4%D7%95%D7%A8%D7%98" hreflang="he" lang="he" title="סולם בופורט – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%91%D0%BE%D1%84%D0%BE%D1%80%D1%82_%D1%88%D0%BA%D0%B0%D0%BB%D0%B0%D1%81%D1%8B" hreflang="kk" lang="kk" title="Бофорт шкаласы – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-sw"><a class="interlanguage-link-target" href="https://sw.wikipedia.org/wiki/Kipimo_cha_Beaufort" hreflang="sw" lang="sw" title="Kipimo cha Beaufort – Swahili">Kiswahili</a></li><li class="interlanguage-link interwiki-ku"><a class="interlanguage-link-target" href="https://ku.wikipedia.org/wiki/Penjeya_Beaufort%C3%AA" hreflang="ku" lang="ku" title="Penjeya Beaufortê – Kurdish">Kurdî</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/Boforto_skal%C4%97" hreflang="lt" lang="lt" title="Boforto skalė – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/Beaufort-sk%C3%A1la" hreflang="hu" lang="hu" title="Beaufort-skála – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%AC%E0%B5%8D%E0%B4%AF%E0%B5%82%E0%B4%AB%E0%B5%8B%E0%B5%BC%E0%B4%9F%E0%B5%8D%E0%B4%9F%E0%B5%8D_%E0%B4%B8%E0%B5%8D%E0%B4%95%E0%B5%86%E0%B4%AF%E0%B4%BF%E0%B5%BD" hreflang="ml" lang="ml" title="ബ്യൂഫോർട്ട് സ്കെയിൽ – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Schaal_van_Beaufort" hreflang="nl" lang="nl" title="Schaal van Beaufort – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E3%83%93%E3%83%A5%E3%83%BC%E3%83%95%E3%82%A9%E3%83%BC%E3%83%88%E9%A2%A8%E5%8A%9B%E9%9A%8E%E7%B4%9A" hreflang="ja" lang="ja" title="ビューフォート風力階級 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Beauforts_skala" hreflang="no" lang="no" title="Beauforts skala – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Beaufortskalaen" hreflang="nn" lang="nn" title="Beaufortskalaen – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-uz"><a class="interlanguage-link-target" href="https://uz.wikipedia.org/wiki/Bofort_shkalasi" hreflang="uz" lang="uz" title="Bofort shkalasi – Uzbek">Oʻzbekcha/ўзбекча</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Skala_Beauforta" hreflang="pl" lang="pl" title="Skala Beauforta – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Escala_de_Beaufort" hreflang="pt" lang="pt" title="Escala de Beaufort – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Scara_Beaufort" hreflang="ro" lang="ro" title="Scara Beaufort – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A8%D0%BA%D0%B0%D0%BB%D0%B0_%D0%91%D0%BE%D1%84%D0%BE%D1%80%D1%82%D0%B0" hreflang="ru" lang="ru" title="Шкала Бофорта – Russian">Русский</a></li><li class="interlanguage-link interwiki-sco"><a class="interlanguage-link-target" href="https://sco.wikipedia.org/wiki/Beaufort_scale" hreflang="sco" lang="sco" title="Beaufort scale – Scots">Scots</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Beaufort_scale" hreflang="simple" lang="simple" title="Beaufort scale – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Beaufortova_stupnica_sily_vetra" hreflang="sk" lang="sk" title="Beaufortova stupnica sily vetra – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Beaufortova_lestvica" hreflang="sl" lang="sl" title="Beaufortova lestvica – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%91%D0%BE%D1%84%D0%BE%D1%80%D0%BE%D0%B2%D0%B0_%D1%81%D0%BA%D0%B0%D0%BB%D0%B0" hreflang="sr" lang="sr" title="Бофорова скала – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Beaufortova_skala" hreflang="sh" lang="sh" title="Beaufortova skala – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-fi"><a class="interlanguage-link-target" href="https://fi.wikipedia.org/wiki/Boforiasteikko" hreflang="fi" lang="fi" title="Boforiasteikko – Finnish">Suomi</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/Beauforts_skala" hreflang="sv" lang="sv" title="Beauforts skala – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%AA%E0%AF%8B%E0%AE%83%E0%AE%AA%E0%AE%BE%E0%AE%B0%E0%AF%8D%E0%AE%9F%E0%AF%8D%E0%AE%9F%E0%AF%81_%E0%AE%95%E0%AE%BE%E0%AE%B1%E0%AF%8D%E0%AE%B1%E0%AF%81%E0%AE%B5%E0%AF%80%E0%AE%9A%E0%AF%8D%E0%AE%9A%E0%AF%81_%E0%AE%85%E0%AE%B3%E0%AE%B5%E0%AF%80%E0%AE%9F%E0%AF%81" hreflang="ta" lang="ta" title="போஃபார்ட்டு காற்றுவீச்சு அளவீடு – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Beaufort_r%C3%BCzg%C3%A2r_%C5%9Fiddeti_skalas%C4%B1" hreflang="tr" lang="tr" title="Beaufort rüzgâr şiddeti skalası – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A8%D0%BA%D0%B0%D0%BB%D0%B0_%D0%91%D0%BE%D1%84%D0%BE%D1%80%D1%82%D0%B0" hreflang="uk" lang="uk" title="Шкала Бофорта – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/Thang_s%E1%BB%A9c_gi%C3%B3_Beaufort" hreflang="vi" lang="vi" title="Thang sức gió Beaufort – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-vls"><a class="interlanguage-link-target" href="https://vls.wikipedia.org/wiki/Beaufortschoale" hreflang="vls" lang="vls" title="Beaufortschoale – West Flemish">West-Vlams</a></li><li class="interlanguage-link interwiki-zh-yue"><a class="interlanguage-link-target" href="https://zh-yue.wikipedia.org/wiki/%E8%92%B2%E7%A6%8F%E6%B0%8F%E9%A2%A8%E7%B4%9A" hreflang="zh-yue" lang="zh-yue" title="蒲福氏風級 – Cantonese">粵語</a></li><li class="interlanguage-link interwiki-zea"><a class="interlanguage-link-target" href="https://zea.wikipedia.org/wiki/Schaele_van_Beaufort" hreflang="zea" lang="zea" title="Schaele van Beaufort – Zeelandic">Zeêuws</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E8%92%B2%E7%A6%8F%E6%B0%8F%E9%A2%A8%E7%B4%9A" hreflang="zh" lang="zh" title="蒲福氏風級 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q170464#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 1 October 2017, at 19:01.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Beaufort_scale&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.276","walltime":"0.374","ppvisitednodes":{"value":1312,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":30297,"limit":2097152},"templateargumentsize":{"value":1978,"limit":2097152},"expansiondepth":{"value":12,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  292.658      1 -total"," 20.74%   60.687      1 Template:Reflist"," 17.48%   51.155      3 Template:Cite_book"," 10.71%   31.335      1 Template:IPAc-en"," 10.37%   30.344      7 Template:Cite_web"," 10.17%   29.765      1 Template:Citation_needed","  9.94%   29.102      1 Template:Redirect","  9.81%   28.701      1 Template:Commons_category","  9.15%   26.776      1 Template:Fix","  5.37%   15.713      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.116","limit":"10.000"},"limitreport-memusage":{"value":4988996,"limit":52428800}},"cachereport":{"origin":"mw1323","timestamp":"20171004145924","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":76,"wgHostname":"mw1185"});});</script>
+</body>
+</html>

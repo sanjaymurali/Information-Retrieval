@@ -1,0 +1,992 @@
+https://en.wikipedia.org/wiki/Sea_surface_temperature
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Sea surface temperature - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Sea_surface_temperature","wgTitle":"Sea surface temperature","wgCurRevisionId":800096271,"wgRevisionId":800096271,"wgArticleId":899880,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["CS1 maint: Uses authors parameter","CS1 maint: Multiple names: authors list","Good articles","Wikipedia articles incorporating text from NOAA","Articles containing video clips","Aquatic ecology","Basic meteorological concepts and phenomena","Marine meteorology and sailing","Oceanography","Thermodynamic cycles"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Sea_surface_temperature","wgRelevantArticleId":899880,"wgRequestId":"WdQ66QpAEKsAAF5-Ze8AAABX","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q1507383","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.tmh.thumbnail.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","mw.MediaWikiPlayer.loader","mw.PopUpMediaTransform","mw.TMHGalleryHook.js","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.tmh.thumbnail.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/en/0/05/Global_Sea_Surface_Temperature.jpg" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Sea_surface_temperature" rel="alternate"/>
+<link href="/w/index.php?title=Sea_surface_temperature&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Sea_surface_temperature&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Sea_surface_temperature" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Sea_surface_temperature rootpage-Sea_surface_temperature vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+<div class="mw-indicator" id="mw-indicator-good-star"><a href="/wiki/Wikipedia:Good_articles" title="This is a good article. Click here for more information."><img alt="This is a good article. Click here for more information." data-file-height="185" data-file-width="180" height="20" src="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/19px-Symbol_support_vote.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/29px-Symbol_support_vote.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/9/94/Symbol_support_vote.svg/39px-Symbol_support_vote.svg.png 2x" width="19"/></a></div>
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Sea surface temperature</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Global_Sea_Surface_Temperature.jpg"><img alt="" class="thumbimage" data-file-height="750" data-file-width="989" height="167" src="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Global_Sea_Surface_Temperature.jpg/220px-Global_Sea_Surface_Temperature.jpg" srcset="//upload.wikimedia.org/wikipedia/en/thumb/0/05/Global_Sea_Surface_Temperature.jpg/330px-Global_Sea_Surface_Temperature.jpg 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/0/05/Global_Sea_Surface_Temperature.jpg/440px-Global_Sea_Surface_Temperature.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Global_Sea_Surface_Temperature.jpg" title="Enlarge"></a></div>
+This graph shows how the average surface temperature of the world's oceans has changed since 1880. This graph uses the 1971 to 2000 average as a baseline for depicting change. Choosing a different baseline period would not change the shape of the data over time. The shaded band shows the range of uncertainty in the data, based on the number of measurements collected and the precision of the methods used. Sea surface temperature increased over the 20th century and continues to rise. From 1901 through 2012, temperatures rose at an average rate of 0.13°F (0.07°C) per decade. Sea surface temperatures have been higher during the past three decades than at any other time since reliable observations began in 1880</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:SST_20131220_blended_Global.png"><img alt="" class="thumbimage" data-file-height="377" data-file-width="800" height="104" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/SST_20131220_blended_Global.png/220px-SST_20131220_blended_Global.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/40/SST_20131220_blended_Global.png/330px-SST_20131220_blended_Global.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/40/SST_20131220_blended_Global.png/440px-SST_20131220_blended_Global.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:SST_20131220_blended_Global.png" title="Enlarge"></a></div>
+This is a daily, global Sea Surface Temperature (SST) data set produced on December 20th, 2013 at 1-km resolution (also known as ultra-high resolution) by the JPL ROMS (Regional Ocean Modeling System) group.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Weeklysst.gif"><img alt="" class="thumbimage" data-file-height="510" data-file-width="800" height="140" src="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Weeklysst.gif/220px-Weeklysst.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Weeklysst.gif/330px-Weeklysst.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/1/1e/Weeklysst.gif/440px-Weeklysst.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Weeklysst.gif" title="Enlarge"></a></div>
+Weekly average <b>sea surface temperature</b> for the <a href="/wiki/World_Ocean" title="World Ocean">World Ocean</a> during the first week of February 2011, during a period of <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o-Southern_Oscillation#Effects_of_ENSO.27s_cool_phase_.28La_Ni.C3.B1a.29" title="El Niño-Southern Oscillation">La Niña</a>.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;">
+<div class="PopUpMediaTransform" id="mwe_player_0" style="width:220px;" videopayload='&lt;div class="mediaContainer" style="width:854px"&gt;&lt;video id="mwe_player_1" poster="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ECCO2_Sea_Surface_Temperature_and_Flows.ogv/854px--ECCO2_Sea_Surface_Temperature_and_Flows.ogv.jpg" controls="" preload="none" autoplay="" style="width:854px;height:480px" class="kskin" data-durationhint="53.333333333333" data-startoffset="0" data-mwtitle="ECCO2_Sea_Surface_Temperature_and_Flows.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/ECCO2_Sea_Surface_Temperature_and_Flows.ogv/ECCO2_Sea_Surface_Temperature_and_Flows.ogv.480p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="SD WebM (480P)" data-shorttitle="WebM 480P" data-transcodekey="480p.webm" data-width="854" data-height="480" data-bandwidth="964088" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/ECCO2_Sea_Surface_Temperature_and_Flows.ogv/ECCO2_Sea_Surface_Temperature_and_Flows.ogv.720p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="HD WebM (720P)" data-shorttitle="WebM 720P" data-transcodekey="720p.webm" data-width="1280" data-height="720" data-bandwidth="2213776" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/f/f4/ECCO2_Sea_Surface_Temperature_and_Flows.ogv" type="video/ogg; codecs=&amp;quot;theora&amp;quot;" data-title="Original Ogg file, 1,280 × 720 (3.93 Mbps)" data-shorttitle="Ogg source" data-width="1280" data-height="720" data-bandwidth="3932419" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/ECCO2_Sea_Surface_Temperature_and_Flows.ogv/ECCO2_Sea_Surface_Temperature_and_Flows.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="284" data-height="160" data-bandwidth="130584" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/ECCO2_Sea_Surface_Temperature_and_Flows.ogv/ECCO2_Sea_Surface_Temperature_and_Flows.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="426" data-height="240" data-bandwidth="259096" data-framerate="30"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/f/f4/ECCO2_Sea_Surface_Temperature_and_Flows.ogv/ECCO2_Sea_Surface_Temperature_and_Flows.ogv.360p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="WebM (360P)" data-shorttitle="WebM 360P" data-transcodekey="360p.webm" data-width="640" data-height="360" data-bandwidth="518096" data-framerate="30"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:ECCO2 Sea Surface Temperature and Flows.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/f4/ECCO2_Sea_Surface_Temperature_and_Flows.ogv/220px--ECCO2_Sea_Surface_Temperature_and_Flows.ogv.jpg" style="width:220px;height:124px"/><a href="//upload.wikimedia.org/wikipedia/commons/f/f4/ECCO2_Sea_Surface_Temperature_and_Flows.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:ECCO2_Sea_Surface_Temperature_and_Flows.ogv" title="Enlarge"></a></div>
+Sea surface temperature and flows.</div>
+</div>
+</div>
+<p><b>Sea surface temperature</b> (SST) is the water <a href="/wiki/Temperature" title="Temperature">temperature</a> close to the <a href="/wiki/Ocean" title="Ocean">ocean</a>'s surface. The exact meaning of <i>surface</i> varies according to the measurement method used, but it is between 1 millimetre (0.04 in) and 20 metres (70 ft) below the <a href="/wiki/Sea" title="Sea">sea</a> surface. <a href="/wiki/Air_mass" title="Air mass">Air masses</a> in the <a href="/wiki/Atmosphere_of_Earth" title="Atmosphere of Earth">Earth's atmosphere</a> are highly modified by sea surface temperatures within a short distance of the shore. Localized areas of heavy <a href="/wiki/Snow" title="Snow">snow</a> can form in <a href="/wiki/Rainband" title="Rainband">bands</a> downwind of warm water bodies within an otherwise cold air mass. Warm sea surface temperatures are known to be a cause of <a href="/wiki/Tropical_cyclogenesis" title="Tropical cyclogenesis">tropical cyclogenesis</a> over the <a href="/wiki/Earth" title="Earth">Earth</a>'s oceans. Tropical cyclones can also cause a cool wake, due to turbulent mixing of the upper 30 metres (100 ft) of the ocean. SST changes diurnally, like the air above it, but to a lesser degree. There is less SST variation on breezy days than on calm days. In addition, <a href="/wiki/Ocean_current" title="Ocean current">ocean currents</a> such as the <a class="mw-redirect" href="/wiki/Atlantic_Multidecadal_Oscillation" title="Atlantic Multidecadal Oscillation">Atlantic Multidecadal Oscillation</a> (AMO), can effect SST's on multi-decadal time scales,<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> a major impact results from the global <a class="mw-redirect" href="/wiki/Thermohaline" title="Thermohaline">thermohaline</a> circulation, which affects average SST significantly throughout most of the world's oceans.</p>
+<p>Coastal SSTs can cause offshore winds to generate <a href="/wiki/Upwelling" title="Upwelling">upwelling</a>, which can significantly cool or warm nearby landmasses, but shallower waters over a <a href="/wiki/Continental_shelf" title="Continental shelf">continental shelf</a> are often warmer. Onshore winds can cause a considerable warm-up even in areas where upwelling is fairly constant, such as the northwest coast of <a href="/wiki/South_America" title="South America">South America</a>. Its values are important within <a href="/wiki/Numerical_weather_prediction" title="Numerical weather prediction">numerical weather prediction</a> as the SST influences the atmosphere above, such as in the formation of <a href="/wiki/Sea_breeze" title="Sea breeze">sea breezes</a> and <a class="mw-redirect" href="/wiki/Advection_fog#Types" title="Advection fog">sea fog</a>. It is also used to calibrate measurements from <a href="/wiki/Weather_satellite" title="Weather satellite">weather satellites</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Measurement"><span class="tocnumber">1</span> <span class="toctext">Measurement</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Thermometers"><span class="tocnumber">1.1</span> <span class="toctext">Thermometers</span></a></li>
+<li class="toclevel-2 tocsection-3"><a href="#Weather_satellites"><span class="tocnumber">1.2</span> <span class="toctext">Weather satellites</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-4"><a href="#Local_variation"><span class="tocnumber">2</span> <span class="toctext">Local variation</span></a>
+<ul>
+<li class="toclevel-2 tocsection-5"><a href="#Atlantic_Multidecadal_Oscillation"><span class="tocnumber">2.1</span> <span class="toctext">Atlantic Multidecadal Oscillation</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-6"><a href="#Regional_variation"><span class="tocnumber">3</span> <span class="toctext">Regional variation</span></a></li>
+<li class="toclevel-1 tocsection-7"><a href="#Importance_to_the_Earth.27s_atmosphere"><span class="tocnumber">4</span> <span class="toctext">Importance to the Earth's atmosphere</span></a>
+<ul>
+<li class="toclevel-2 tocsection-8"><a href="#Tropical_cyclones"><span class="tocnumber">4.1</span> <span class="toctext">Tropical cyclones</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-9"><a href="#See_also"><span class="tocnumber">5</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-10"><a href="#References"><span class="tocnumber">6</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-11"><a href="#External_links"><span class="tocnumber">7</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Measurement">Measurement</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=1" title="Edit section: Measurement">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:MODIS_and_AIRS_SST_comp_fig2.i.jpg"><img alt="" class="thumbimage" data-file-height="360" data-file-width="526" height="151" src="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MODIS_and_AIRS_SST_comp_fig2.i.jpg/220px-MODIS_and_AIRS_SST_comp_fig2.i.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MODIS_and_AIRS_SST_comp_fig2.i.jpg/330px-MODIS_and_AIRS_SST_comp_fig2.i.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/c/c1/MODIS_and_AIRS_SST_comp_fig2.i.jpg/440px-MODIS_and_AIRS_SST_comp_fig2.i.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:MODIS_and_AIRS_SST_comp_fig2.i.jpg" title="Enlarge"></a></div>
+Temperature profile of the surface layer of the ocean (a) at night and (b) during the day</div>
+</div>
+</div>
+<p>There are a variety of techniques for measuring this parameter that can potentially yield different results because different things are actually being measured. Away from the immediate sea surface, general temperature measurements are accompanied by a reference to the specific depth of measurement. This is because of significant differences encountered between measurements made at different depths, especially during the daytime when low wind speed and high sunshine conditions may lead to the formation of a warm layer at the ocean's surface and strong vertical temperature gradients (a diurnal <a href="/wiki/Thermocline" title="Thermocline">thermocline</a>).<sup class="reference" id="cite_ref-space_2-0"><a href="#cite_note-space-2">[2]</a></sup> Sea surface temperature measurements are confined to the top portion of the ocean, known as the near-surface layer.<sup class="reference" id="cite_ref-3"><a href="#cite_note-3">[3]</a></sup></p>
+<h3><span class="mw-headline" id="Thermometers">Thermometers</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=2" title="Edit section: Thermometers">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>SST was one of the first oceanographic variables to be measured. <a href="/wiki/Benjamin_Franklin" title="Benjamin Franklin">Benjamin Franklin</a> suspended a <a class="mw-redirect" href="/wiki/Mercury_thermometer" title="Mercury thermometer">mercury thermometer</a> from a ship while travelling between the <a href="/wiki/United_States" title="United States">United States</a> and <a href="/wiki/Europe" title="Europe">Europe</a> in his survey of the <a class="mw-redirect" href="/wiki/Gulf_stream" title="Gulf stream">Gulf stream</a> in the late eighteenth century. SST was later measured by dipping a <a href="/wiki/Thermometer" title="Thermometer">thermometer</a> into a bucket of water that was manually drawn from the sea surface. The first automated technique for determining SST was accomplished by measuring the temperature of water in the intake port of large ships, which was underway by 1963. These observations have a warm bias of around 0.6 °C (1 °F) due to the heat of the engine room.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup> This bias has led to changes in the perception of <a href="/wiki/Global_warming" title="Global warming">global warming</a> since 2000.<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup> Fixed <a href="/wiki/Weather_buoy" title="Weather buoy">weather buoys</a> measure the water temperature at a depth of 3 metres (9.8 ft). Measurements of SST have had inconsistencies over the last 130 years due to the way they were taken. In the nineteenth century, measurements were taken in a bucket off of a ship. However, there was a slight variation in temperature because of the differences in buckets. Samples were collected in either a wood or an uninsulated canvas bucket, but the canvas bucket cooled quicker than the wood bucket. The sudden change in temperature between 1940 and 1941 was the result of an undocumented change in procedure. The samples were taken near the engine intake because it was too dangerous to use lights to take measurements over the side of the ship at night.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Many different drifting buoys exist around the world that vary in design, and the location of reliable temperature sensors varies. These measurements are beamed to satellites for automated and immediate data distribution.<sup class="reference" id="cite_ref-buoy_7-0"><a href="#cite_note-buoy-7">[7]</a></sup> A large network of coastal buoys in U.S. waters is maintained by the <a href="/wiki/National_Data_Buoy_Center" title="National Data Buoy Center">National Data Buoy Center</a> (NDBC).<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Between 1985 and 1994, an extensive array of moored and drifting buoys was deployed across the equatorial Pacific Ocean designed to help monitor and predict the <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o-Southern_Oscillation#Effects_of_ENSO.27s_warm_phase_.28El_Ni.C3.B1o.29" title="El Niño-Southern Oscillation">El Niño</a> phenomenon.<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup></p>
+<h3><span class="mw-headline" id="Weather_satellites">Weather satellites</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=3" title="Edit section: Weather satellites">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Weather_satellite" title="Weather satellite">Weather satellite</a></div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:MODIS_sst.png"><img alt="" class="thumbimage" data-file-height="1229" data-file-width="2205" height="123" src="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MODIS_sst.png/220px-MODIS_sst.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MODIS_sst.png/330px-MODIS_sst.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/f/fd/MODIS_sst.png/440px-MODIS_sst.png 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:MODIS_sst.png" title="Enlarge"></a></div>
+2003–2011 SST based on <a class="mw-redirect" href="/wiki/Moderate-Resolution_Imaging_Spectroradiometer" title="Moderate-Resolution Imaging Spectroradiometer">MODIS</a> Aqua data.</div>
+</div>
+</div>
+<p>Weather satellites have been available to determine sea surface temperature information since 1967, with the first global composites created during 1970.<sup class="reference" id="cite_ref-10"><a href="#cite_note-10">[10]</a></sup> Since 1982,<sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> <a href="/wiki/Satellite" title="Satellite">satellites</a> have been increasingly utilized to measure SST and have allowed its <a href="/wiki/Spatial_variability" title="Spatial variability">spatial</a> and <a href="/wiki/Time" title="Time">temporal</a> variation to be viewed more fully. Satellite measurements of SST are in reasonable agreement with <a href="/wiki/In_situ" title="In situ">in situ</a> temperature measurements.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> The satellite measurement is made by sensing the ocean <a href="/wiki/Radiation" title="Radiation">radiation</a> in two or more wavelengths within the <a href="/wiki/Infrared" title="Infrared">infrared</a> part of the <a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">electromagnetic spectrum</a> or other parts of the spectrum which can then be empirically related to SST.<sup class="reference" id="cite_ref-John_13-0"><a href="#cite_note-John-13">[13]</a></sup> These wavelengths are chosen because they are:</p>
+<ol>
+<li>within the peak of the <a class="mw-redirect" href="/wiki/Blackbody_radiation" title="Blackbody radiation">blackbody radiation</a> expected from the Earth,<sup class="reference" id="cite_ref-14"><a href="#cite_note-14">[14]</a></sup> and</li>
+<li>able to transmit adequately well through the <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">atmosphere</a><sup class="reference" id="cite_ref-15"><a href="#cite_note-15">[15]</a></sup></li>
+</ol>
+<p>The satellite-measured SST provides both a <a class="mw-redirect" href="/wiki/Synoptic_scale" title="Synoptic scale">synoptic view</a> of the ocean and a high frequency of repeat views,<sup class="reference" id="cite_ref-16"><a href="#cite_note-16">[16]</a></sup> allowing the examination of basin-wide upper <a href="/wiki/Ocean" title="Ocean">ocean</a> dynamics not possible with ships or buoys. <span class="plainlinks"><a class="external text" href="http://www.nasa.gov/" rel="nofollow">NASA's</a></span> (National Aeronautic and Space Administration) <span class="plainlinks"><a class="external text" href="http://modis.gsfc.nasa.gov/" rel="nofollow">Moderate Resolution Imaging Spectroradiometer (MODIS)</a></span> SST satellites have been providing global SST data since 2000, available with a one-day lag. NOAA's <span class="plainlinks"><a class="external text" href="http://www.goes.noaa.gov/" rel="nofollow">GOES (Geostationary Orbiting Earth Satellites)</a></span> satellites are <a href="/wiki/Geostationary_orbit" title="Geostationary orbit">geo-stationary</a> above the Western Hemisphere which enables to them to deliver SST data on an hourly basis with only a few hours of lag time.</p>
+<p>There are several difficulties with satellite-based absolute SST measurements. First, in infrared remote sensing methodology the radiation emanates from the <a href="/wiki/Sea_surface_microlayer" title="Sea surface microlayer">top "skin" of the ocean</a>, approximately the top 0.01 <a href="/wiki/Millimetre" title="Millimetre">mm</a> or less, which may not represent the <a href="/wiki/Bulk_temperature" title="Bulk temperature">bulk temperature</a> of the upper meter of ocean due primarily to effects of solar surface heating during the daytime, reflected radiation, as well as sensible heat loss and surface evaporation. All these factors make it somewhat difficult to compare satellite data to measurements from buoys or shipboard methods, complicating ground truth efforts.<sup class="reference" id="cite_ref-17"><a href="#cite_note-17">[17]</a></sup> Secondly, the satellite cannot look through clouds, creating a cool bias in satellite-derived SSTs within cloudy areas.<sup class="reference" id="cite_ref-space_2-1"><a href="#cite_note-space-2">[2]</a></sup> However, passive microwave techniques can accurately measure SST and penetrate cloud cover.<sup class="reference" id="cite_ref-John_13-1"><a href="#cite_note-John-13">[13]</a></sup> Within atmospheric sounder channels on <a href="/wiki/Weather_satellite" title="Weather satellite">weather satellites</a>, which peak just above the ocean's surface, knowledge of the sea surface temperature is important to their calibration.<sup class="reference" id="cite_ref-space_2-2"><a href="#cite_note-space-2">[2]</a></sup></p>
+<h2><span class="mw-headline" id="Local_variation">Local variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=4" title="Edit section: Local variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></div>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:204px;max-width:204px">
+<div class="tsingle" style="margin:1px;width:202px;max-width:202px">
+<div class="thumbimage">
+<div class="PopUpMediaTransform" id="mwe_player_2" style="width:200px;" videopayload='&lt;div class="mediaContainer" style="width:472px"&gt;&lt;video id="mwe_player_3" poster="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/MOD11C1_M_LSTDA.ogv/472px--MOD11C1_M_LSTDA.ogv.jpg" controls="" preload="none" autoplay="" style="width:472px;height:316px" class="kskin" data-durationhint="41.75" data-startoffset="0" data-mwtitle="MOD11C1_M_LSTDA.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/4/43/MOD11C1_M_LSTDA.ogv" type="video/ogg; codecs=&amp;quot;theora&amp;quot;" data-title="Original Ogg file, 472 × 316 (199 kbps)" data-shorttitle="Ogg source" data-width="472" data-height="316" data-bandwidth="199343" data-framerate="4"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/43/MOD11C1_M_LSTDA.ogv/MOD11C1_M_LSTDA.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="238" data-height="160" data-bandwidth="115448" data-framerate="4"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/4/43/MOD11C1_M_LSTDA.ogv/MOD11C1_M_LSTDA.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="358" data-height="240" data-bandwidth="236992" data-framerate="4"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:MOD11C1 M LSTDA.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/43/MOD11C1_M_LSTDA.ogv/200px--MOD11C1_M_LSTDA.ogv.jpg" style="width:200px;height:134px"/><a href="//upload.wikimedia.org/wikipedia/commons/4/43/MOD11C1_M_LSTDA.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+</div>
+<div class="thumbcaption" style="clear:left">Average Monthly Sea surface temperature from July 2002 to December 2013. Source: <a class="external autonumber" href="http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=MYD28M" rel="nofollow">[1]</a>. (<i>click for more detail</i>)</div>
+</div>
+<div class="tsingle" style="margin:1px;width:202px;max-width:202px">
+<div class="thumbimage">
+<div class="PopUpMediaTransform" id="mwe_player_4" style="width:200px;" videopayload='&lt;div class="mediaContainer" style="width:472px"&gt;&lt;video id="mwe_player_5" poster="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/AMSRE_SSTAn_M.ogv/472px--AMSRE_SSTAn_M.ogv.jpg" controls="" preload="none" autoplay="" style="width:472px;height:316px" class="kskin" data-durationhint="28" data-startoffset="0" data-mwtitle="AMSRE_SSTAn_M.ogv" data-mwprovider="wikimediacommons"&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/3/32/AMSRE_SSTAn_M.ogv" type="video/ogg; codecs=&amp;quot;theora&amp;quot;" data-title="Original Ogg file, 472 × 316 (312 kbps)" data-shorttitle="Ogg source" data-width="472" data-height="316" data-bandwidth="311589" data-framerate="4"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/AMSRE_SSTAn_M.ogv/AMSRE_SSTAn_M.ogv.160p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Low bandwidth WebM (160P)" data-shorttitle="WebM 160P" data-transcodekey="160p.webm" data-width="238" data-height="160" data-bandwidth="129184" data-framerate="4"/&gt;&lt;source src="//upload.wikimedia.org/wikipedia/commons/transcoded/3/32/AMSRE_SSTAn_M.ogv/AMSRE_SSTAn_M.ogv.240p.webm" type="video/webm; codecs=&amp;quot;vp8, vorbis&amp;quot;" data-title="Small WebM (240P)" data-shorttitle="WebM 240P" data-transcodekey="240p.webm" data-width="358" data-height="240" data-bandwidth="255800" data-framerate="4"/&gt;&lt;/video&gt;&lt;/div&gt;'><img alt="File:AMSRE SSTAn M.ogv" src="//upload.wikimedia.org/wikipedia/commons/thumb/3/32/AMSRE_SSTAn_M.ogv/200px--AMSRE_SSTAn_M.ogv.jpg" style="width:200px;height:134px"/><a href="//upload.wikimedia.org/wikipedia/commons/3/32/AMSRE_SSTAn_M.ogv" target="new" title="Play media"><span class="play-btn-large"><span class="mw-tmh-playtext">Play media</span></span></a></div>
+</div>
+<div class="thumbcaption" style="clear:left">Sea surface temperature anomalies for a given month compared to the long-term average temperature of that month from 1985 through 1997. Source: <a class="external autonumber" href="http://earthobservatory.nasa.gov/GlobalMaps/view.php?d1=AMSRE_SSTAn_M" rel="nofollow">[2]</a>. (<i>click for more detail</i>)</div>
+</div>
+</div>
+</div>
+<p>The SST has a <a href="/wiki/Diurnal_cycle" title="Diurnal cycle">diurnal range</a>, just like the Earth's atmosphere above, though to a lesser degree due to its greater specific heat.<sup class="reference" id="cite_ref-18"><a href="#cite_note-18">[18]</a></sup> On calm days, the temperature can vary by 6 °C (10 °F).<sup class="reference" id="cite_ref-space_2-3"><a href="#cite_note-space-2">[2]</a></sup> The temperature of the ocean at depth lags the Earth's atmosphere temperature by 15 days per 10 metres (33 ft), which means for locations like the <a href="/wiki/Aral_Sea" title="Aral Sea">Aral Sea</a>, temperatures near its bottom reach a maximum in December and a minimum in May and June.<sup class="reference" id="cite_ref-19"><a href="#cite_note-19">[19]</a></sup> Near the coastline, offshore winds move the warm waters near the surface offshore, and replace them with cooler water from below in the process known as <a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a>. This pattern increases nutrients for marine life in the region.<sup class="reference" id="cite_ref-20"><a href="#cite_note-20">[20]</a></sup> Offshore <a href="/wiki/River_delta" title="River delta">river deltas</a>, freshwater flows over the top of the denser seawater, which allows it to heat faster due to limited vertical mixing.<sup class="reference" id="cite_ref-21"><a href="#cite_note-21">[21]</a></sup> Remotely sensed SST can be used to detect the surface temperature signature due to <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclones</a>. In general, an SST cooling is observed after the passing of a hurricane primarily as the result of mixed layer deepening and surface heat losses.<sup class="reference" id="cite_ref-NASA_Cooling_22-0"><a href="#cite_note-NASA_Cooling-22">[22]</a></sup> In the wake of several day long <a href="/wiki/Mineral_dust#Saharan_dust" title="Mineral dust">Saharan dust</a> outbreaks across the adjacent northern Atlantic Ocean, sea surface temperatures are reduced 0.2 C to 0.4 C (0.3 to 0.7 F).<sup class="reference" id="cite_ref-23"><a href="#cite_note-23">[23]</a></sup> Other sources of short-term SST fluctuation include <a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">extratropical cyclones</a>, rapid influxes of <a href="/wiki/Glacier" title="Glacier">glacial</a> fresh water<sup class="reference" id="cite_ref-24"><a href="#cite_note-24">[24]</a></sup> and concentrated <a href="/wiki/Phytoplankton" title="Phytoplankton">phytoplankton</a> blooms<sup class="reference" id="cite_ref-25"><a href="#cite_note-25">[25]</a></sup> due to seasonal cycles or agricultural run-off.<sup class="reference" id="cite_ref-26"><a href="#cite_note-26">[26]</a></sup></p>
+<h3><span class="mw-headline" id="Atlantic_Multidecadal_Oscillation">Atlantic Multidecadal Oscillation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=5" title="Edit section: Atlantic Multidecadal Oscillation">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The <a class="mw-redirect" href="/wiki/Atlantic_Multidecadal_Oscillation" title="Atlantic Multidecadal Oscillation">Atlantic Multidecadal Oscillation</a> (AMO) is important for how external forcings are linked with North Atlantic SSTs.<sup class="reference" id="cite_ref-27"><a href="#cite_note-27">[27]</a></sup></p>
+<h2><span class="mw-headline" id="Regional_variation">Regional variation</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=6" title="Edit section: Regional variation">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:1997_El_Nino_TOPEX.jpg"><img alt="" class="thumbimage" data-file-height="2548" data-file-width="2550" height="200" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/1997_El_Nino_TOPEX.jpg/200px-1997_El_Nino_TOPEX.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/74/1997_El_Nino_TOPEX.jpg/300px-1997_El_Nino_TOPEX.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/74/1997_El_Nino_TOPEX.jpg/400px-1997_El_Nino_TOPEX.jpg 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:1997_El_Nino_TOPEX.jpg" title="Enlarge"></a></div>
+The 1997 El Niño observed by <a href="/wiki/TOPEX/Poseidon" title="TOPEX/Poseidon">TOPEX/Poseidon</a>. The white areas off the tropical coasts of South and North America indicate the pool of warm water.<sup class="reference" id="cite_ref-28"><a href="#cite_note-28">[28]</a></sup></div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a class="mw-redirect" href="/wiki/El_Ni%C3%B1o-Southern_Oscillation" title="El Niño-Southern Oscillation">El Niño-Southern Oscillation</a></div>
+<p>El Niño is defined by prolonged differences in Pacific Ocean surface temperatures when compared with the average value. The accepted definition is a warming or cooling of at least 0.5 °C (0.9 °F) averaged over the east-central tropical Pacific Ocean. Typically, this anomaly happens at irregular intervals of 2–7 years and lasts nine months to two years.<sup class="reference" id="cite_ref-29"><a href="#cite_note-29">[29]</a></sup> The average period length is 5 years. When this warming or cooling occurs for only seven to nine months, it is classified as El Niño/La Niña "conditions"; when it occurs for more than that period, it is classified as El Niño/La Niña "episodes".<sup class="reference" id="cite_ref-30"><a href="#cite_note-30">[30]</a></sup></p>
+<p>The sign of an El Niño in the sea surface temperature pattern is when warm water spreads from the west Pacific and the <a href="/wiki/Indian_Ocean" title="Indian Ocean">Indian Ocean</a> to the east Pacific. It takes the rain with it, causing extensive drought in the western Pacific and rainfall in the normally dry eastern Pacific. El Niño's warm rush of nutrient-poor tropical water, heated by its eastward passage in the Equatorial Current, replaces the cold, nutrient-rich surface water of the <a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt Current</a>. When El Niño conditions last for many months, extensive ocean warming and the reduction in Easterly Trade winds limits upwelling of cold nutrient-rich deep water and its economic impact to local fishing for an international market can be serious.<sup class="reference" id="cite_ref-deadfish_31-0"><a href="#cite_note-deadfish-31">[31]</a></sup></p>
+<h2><span id="Importance_to_the_Earth's_atmosphere"></span><span class="mw-headline" id="Importance_to_the_Earth.27s_atmosphere">Importance to the Earth's atmosphere</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=7" title="Edit section: Importance to the Earth's atmosphere">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Snow_Clouds_in_Korea.jpg"><img alt="" class="thumbimage" data-file-height="2880" data-file-width="3840" height="165" src="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Snow_Clouds_in_Korea.jpg/220px-Snow_Clouds_in_Korea.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/8/84/Snow_Clouds_in_Korea.jpg/330px-Snow_Clouds_in_Korea.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/8/84/Snow_Clouds_in_Korea.jpg/440px-Snow_Clouds_in_Korea.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Snow_Clouds_in_Korea.jpg" title="Enlarge"></a></div>
+Sea-effect snow bands near the <a href="/wiki/Korean_Peninsula" title="Korean Peninsula">Korean Peninsula</a></div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">See also: <a href="/wiki/Air_mass" title="Air mass">Air mass</a>, <a href="/wiki/Numerical_weather_prediction" title="Numerical weather prediction">Numerical weather prediction</a>, and <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">Precipitation (meteorology)</a></div>
+<p>Sea surface temperature affects the behavior of the <a class="mw-redirect" href="/wiki/Earth%27s_atmosphere" title="Earth's atmosphere">Earth's atmosphere</a> above, so their initialization into <a href="/wiki/Atmospheric_model" title="Atmospheric model">atmospheric models</a> is important. While sea surface temperature is important for <a href="/wiki/Tropical_cyclogenesis" title="Tropical cyclogenesis">tropical cyclogenesis</a>, it is also important in determining the formation of sea fog and sea breezes.<sup class="reference" id="cite_ref-space_2-4"><a href="#cite_note-space-2">[2]</a></sup> Heat from underlying warmer waters can significantly modify an air mass over distances as short as 35 kilometres (22 mi) to 40 kilometres (25 mi).<sup class="reference" id="cite_ref-32"><a href="#cite_note-32">[32]</a></sup> For example, southwest of Northern Hemisphere <a href="/wiki/Extratropical_cyclone" title="Extratropical cyclone">extratropical cyclones</a>, curved cyclonic flow bringing cold air across relatively warm water bodies can lead to narrow <a href="/wiki/Lake-effect_snow" title="Lake-effect snow">lake-effect snow</a> (or sea effect) bands. Those bands bring strong localized <a class="mw-redirect" href="/wiki/Precipitation_(meteorology)" title="Precipitation (meteorology)">precipitation</a>, often in the form of <a href="/wiki/Snow" title="Snow">snow</a>, since large water bodies such as lakes efficiently store heat that results in significant temperature differences—larger than 13 °C (23 °F)—between the water surface and the air above.<sup class="reference" id="cite_ref-33"><a href="#cite_note-33">[33]</a></sup> Because of this temperature difference, warmth and moisture are transported upward, condensing into vertically oriented clouds which produce snow showers. The temperature decrease with height and cloud depth are directly affected by both the water temperature and the large-scale environment. The stronger the temperature decrease with height, the taller the clouds get, and the greater the precipitation rate becomes.<sup class="reference" id="cite_ref-34"><a href="#cite_note-34">[34]</a></sup></p>
+<h3><span class="mw-headline" id="Tropical_cyclones">Tropical cyclones</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=8" title="Edit section: Tropical cyclones">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:WorldwideTCpeaks.gif"><img alt="" class="thumbimage" data-file-height="221" data-file-width="354" height="137" src="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/WorldwideTCpeaks.gif/220px-WorldwideTCpeaks.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/2/22/WorldwideTCpeaks.gif/330px-WorldwideTCpeaks.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/2/22/WorldwideTCpeaks.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:WorldwideTCpeaks.gif" title="Enlarge"></a></div>
+Seasonal peaks of tropical cyclone activity worldwide</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:202px;"><a class="image" href="/wiki/File:Mean_sst_equatorial_pacific.gif"><img alt="" class="thumbimage" data-file-height="645" data-file-width="432" height="299" src="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mean_sst_equatorial_pacific.gif/200px-Mean_sst_equatorial_pacific.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mean_sst_equatorial_pacific.gif/300px-Mean_sst_equatorial_pacific.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Mean_sst_equatorial_pacific.gif/400px-Mean_sst_equatorial_pacific.gif 2x" width="200"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Mean_sst_equatorial_pacific.gif" title="Enlarge"></a></div>
+Average equatorial Pacific temperatures</div>
+</div>
+</div>
+<div class="hatnote navigation-not-searchable" role="note">Main article: <a href="/wiki/Tropical_cyclogenesis" title="Tropical cyclogenesis">Tropical cyclogenesis</a></div>
+<p>Ocean temperature of at least 26.5<a class="mw-redirect" href="/wiki/Degrees_Celsius" title="Degrees Celsius">°C</a> (79.7<a class="mw-redirect" href="/wiki/Degrees_Fahrenheit" title="Degrees Fahrenheit">°F</a>) spanning through at minimum a 50-<a href="/wiki/Metre" title="Metre">metre</a> depth is one of the precursors needed to maintain a <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a> (a type of <a href="/wiki/Mesocyclone" title="Mesocyclone">mesocyclone</a>).<sup class="reference" id="cite_ref-A15_35-0"><a href="#cite_note-A15-35">[35]</a></sup><sup class="reference" id="cite_ref-SST_36-0"><a href="#cite_note-SST-36">[36]</a></sup> These warm waters are needed to maintain the <a href="/wiki/Tropical_cyclone#Mechanics" title="Tropical cyclone">warm core</a> that fuels tropical systems. This value is well above 16.1 °C (60.9 °F), the long term global average surface temperature of the oceans.<sup class="reference" id="cite_ref-SSTMEAN_37-0"><a href="#cite_note-SSTMEAN-37">[37]</a></sup> However, this requirement can be considered only a general baseline because it assumes that the ambient atmospheric environment surrounding an area of disturbed weather presents average conditions. Tropical cyclones have intensified when SSTs were slightly below this standard temperature.</p>
+<p>Tropical cyclones are known to form even when normal conditions are not met. For example, cooler air temperatures at a higher altitude (e.g., at the 500 <a class="mw-redirect" href="/wiki/HPa" title="HPa">hPa</a> level, or 5.9 km) can lead to tropical cyclogenesis at lower water temperatures, as a certain <a href="/wiki/Lapse_rate" title="Lapse rate">lapse rate</a> is required to force the atmosphere to be <a class="mw-redirect" href="/wiki/Baroclinic_instability" title="Baroclinic instability">unstable</a> enough for convection. In a moist atmosphere, this lapse rate is 6.5 °C/km, while in an atmosphere with less than 100% <a href="/wiki/Relative_humidity" title="Relative humidity">relative humidity</a>, the required lapse rate is 9.8 °C/km.<sup class="reference" id="cite_ref-TCS_EESC_38-0"><a href="#cite_note-TCS_EESC-38">[38]</a></sup></p>
+<p>At the 500 hPa level, the air temperature averages −7 °C (18 °F) within the tropics, but air in the tropics is normally dry at this height, giving the air room to <a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">wet-bulb</a>, or cool as it moistens, to a more favorable temperature that can then support convection. A wetbulb temperature at 500 hPa in a tropical atmosphere of −13.2 °C (8.2 °F) is required to initiate convection if the water temperature is 26.5 °C (79.7 °F), and this temperature requirement increases or decreases proportionally by 1 °C in the sea surface temperature for each 1 °C change at 500 hpa. Inside a <a href="/wiki/Cold-core_low" title="Cold-core low">cold cyclone</a>, 500 hPa temperatures can fall as low as −30 °C (−22 °F), which can initiate convection even in the driest atmospheres. This also explains why moisture in the mid-levels of the <a href="/wiki/Troposphere" title="Troposphere">troposphere</a>, roughly at the 500 hPa level, is normally a requirement for development. However, when dry air is found at the same height, temperatures at 500 hPa need to be even colder as dry atmospheres require a greater lapse rate for instability than moist atmospheres.<sup class="reference" id="cite_ref-39"><a href="#cite_note-39">[39]</a></sup><sup class="reference" id="cite_ref-LANDSEACLI_40-0"><a href="#cite_note-LANDSEACLI-40">[40]</a></sup> At heights near the <a href="/wiki/Tropopause" title="Tropopause">tropopause</a>, the 30-year average temperature (as measured in the period encompassing 1961 through 1990) was −77 °C (−132 °F).<sup class="reference" id="cite_ref-UAIRtropics_41-0"><a href="#cite_note-UAIRtropics-41">[41]</a></sup> A recent example of a <a href="/wiki/Tropical_cyclone" title="Tropical cyclone">tropical cyclone</a> that maintained itself over cooler waters was <a class="mw-redirect" href="/wiki/Hurricane_Epsilon_(2005)" title="Hurricane Epsilon (2005)">Epsilon</a> of the <a href="/wiki/2005_Atlantic_hurricane_season" title="2005 Atlantic hurricane season">2005 Atlantic hurricane season</a>.<sup class="reference" id="cite_ref-42"><a href="#cite_note-42">[42]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=9" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Ocean_heat_content" title="Ocean heat content">Ocean heat content</a></li>
+<li><a href="/wiki/The_Blob_(Pacific_Ocean)" title="The Blob (Pacific Ocean)">The Blob (Pacific Ocean)</a></li>
+<li>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Visualization_of_Global_Sea_Surface_Temperature_from_2005-2015.gif"><img alt="" class="thumbimage" data-file-height="576" data-file-width="931" height="136" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Visualization_of_Global_Sea_Surface_Temperature_from_2005-2015.gif/220px-Visualization_of_Global_Sea_Surface_Temperature_from_2005-2015.gif" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/49/Visualization_of_Global_Sea_Surface_Temperature_from_2005-2015.gif/330px-Visualization_of_Global_Sea_Surface_Temperature_from_2005-2015.gif 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/4/49/Visualization_of_Global_Sea_Surface_Temperature_from_2005-2015.gif/440px-Visualization_of_Global_Sea_Surface_Temperature_from_2005-2015.gif 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Visualization_of_Global_Sea_Surface_Temperature_from_2005-2015.gif" title="Enlarge"></a></div>
+Global Sea Surface Temperature variation (2005–2015)</div>
+</div>
+</div>
+<a class="mw-redirect" href="/wiki/Current_sea_level_rise" title="Current sea level rise">Current sea level rise</a> can occur during an increase of global or regional average SST</li>
+<li><a href="/wiki/Halocline" title="Halocline">Halocline</a> refers to a salinity difference often altered by temperature-dependent factors</li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop Current</a>, with plots of sea temperature in the <a href="/wiki/Gulf_of_Mexico" title="Gulf of Mexico">Gulf of Mexico</a></li>
+<li><a class="mw-redirect" href="/wiki/Pacific_Decadal_Oscillation" title="Pacific Decadal Oscillation">Pacific Decadal Oscillation</a> (PDO)</li>
+<li><a href="/wiki/Plankton" title="Plankton">Plankton</a>, which blooms at rates dependent on sea surface temperature</li>
+<li><a href="/wiki/Salinity" title="Salinity">Salinity</a>, which affects sea surface evaporation and thus temperature</li>
+<li><a href="/wiki/Ghrsst-pp" title="Ghrsst-pp">Ghrsst-pp</a> the Group for High Resolution SST</li>
+<li><a href="/wiki/Satellite_temperature_measurements" title="Satellite temperature measurements">Satellite temperature measurements</a></li>
+<li><a href="/wiki/Instrumental_temperature_record" title="Instrumental temperature record">Instrumental temperature record</a></li>
+<li><a href="/wiki/Geologic_temperature_record" title="Geologic temperature record">Geologic temperature record</a></li>
+<li><a href="/wiki/Global_warming" title="Global warming">Global warming</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=10" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text"><cite class="citation journal">Gerard D. McCarthy, Ivan D. Haigh, Joël J.M. Hirschi, Jeremy P. Grist &amp; David A. Smeed (27 May 2015). <a class="external text" href="http://phys.org/news/2015-05-global-climate-verge-multi-decadal.html" rel="nofollow">"Ocean impact on decadal Atlantic climate variability revealed by sea-level observations"</a>. <i>Nature</i>. <b>521</b>: 508–510. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2015Natur.521..508M" rel="nofollow">2015Natur.521..508M</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/26017453" rel="nofollow">26017453</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature14491" rel="nofollow">10.1038/nature14491</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Ocean+impact+on+decadal+Atlantic+climate+variability+revealed+by+sea-level+observations&amp;rft.date=2015-05-27&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.pages=508-510&amp;rft.volume=521&amp;rft_id=http%3A%2F%2Fphys.org%2Fnews%2F2015-05-global-climate-verge-multi-decadal.html&amp;rft_id=info%3Abibcode%2F2015Natur.521..508M&amp;rft_id=info%3Adoi%2F10.1038%2Fnature14491&amp;rft_id=info%3Apmid%2F26017453&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-space-2"><span class="mw-cite-backlink">^ <a href="#cite_ref-space_2-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-space_2-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-space_2-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-space_2-3"><sup><i><b>d</b></i></sup></a> <a href="#cite_ref-space_2-4"><sup><i><b>e</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">Vittorio Barale (2010). <a class="external text" href="https://books.google.com/?id=hH2NkL_318wC&amp;pg=PA263&amp;dq=sea+surface+temperature+forecasting+numerical+weather+prediction+book#v=onepage&amp;q=sea%20surface%20temperature%20forecasting%20numerical%20weather%20prediction%20book&amp;f=false" rel="nofollow"><i>Oceanography from Space: Revisited</i></a>. Springer. p. 263. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-90-481-8680-8" title="Special:BookSources/978-90-481-8680-8">978-90-481-8680-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Vittorio+Barale&amp;rft.btitle=Oceanography+from+Space%3A+Revisited&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-90-481-8680-8&amp;rft.pages=263&amp;rft.pub=Springer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DhH2NkL_318wC%26pg%3DPA263%26dq%3Dsea%2Bsurface%2Btemperature%2Bforecasting%2Bnumerical%2Bweather%2Bprediction%2Bbook%23v%3Donepage%26q%3Dsea%2520surface%2520temperature%2520forecasting%2520numerical%2520weather%2520prediction%2520book%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-3"><span class="mw-cite-backlink"><b><a href="#cite_ref-3">^</a></b></span> <span class="reference-text"><cite class="citation book">Alexander Soloviev; Roger Lukas (2006). <a class="external text" href="https://books.google.com/?id=tZary8a4HMwC&amp;dq=ocean+layers+book&amp;printsec=frontcover#v=onepage&amp;q=ocean%20layers%20book&amp;f=false" rel="nofollow"><i>The near-surface layer of the ocean: structure, dynamics and applications</i></a>. シュプリンガー・ジャパン株式会社. p. xi. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-4020-4052-8" title="Special:BookSources/978-1-4020-4052-8">978-1-4020-4052-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-02-10</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Alexander+Soloviev&amp;rft.au=Roger+Lukas&amp;rft.btitle=The+near-surface+layer+of+the+ocean%3A+structure%2C+dynamics+and+applications&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-1-4020-4052-8&amp;rft.pages=xi&amp;rft.pub=%E3%82%B7%E3%83%A5%E3%83%97%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DtZary8a4HMwC%26dq%3Docean%2Blayers%2Bbook%26printsec%3Dfrontcover%23v%3Donepage%26q%3Docean%2520layers%2520book%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation book">William J. Emery; Richard E. Thomson (2001). <a class="external text" href="https://books.google.com/?id=A6ew-bJDIDIC&amp;pg=PA24&amp;dq=measurement+of+sea+surface+temperature+bucket+of+water+book#v=onepage&amp;q=measurement%20of%20sea%20surface%20temperature%20bucket%20of%20water%20book&amp;f=false" rel="nofollow"><i>Data analysis methods in physical oceanography</i></a>. Gulf Professional Publishing. pp. 24–25. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-444-50757-0" title="Special:BookSources/978-0-444-50757-0">978-0-444-50757-0</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Richard+E.+Thomson&amp;rft.au=William+J.+Emery&amp;rft.btitle=Data+analysis+methods+in+physical+oceanography&amp;rft.date=2001&amp;rft.genre=book&amp;rft.isbn=978-0-444-50757-0&amp;rft.pages=24-25&amp;rft.pub=Gulf+Professional+Publishing&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DA6ew-bJDIDIC%26pg%3DPA24%26dq%3Dmeasurement%2Bof%2Bsea%2Bsurface%2Btemperature%2Bbucket%2Bof%2Bwater%2Bbook%23v%3Donepage%26q%3Dmeasurement%2520of%2520sea%2520surface%2520temperature%2520bucket%2520of%2520water%2520book%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><cite class="citation journal">Michael Marshall (2010-11-16). <a class="external text" href="https://www.newscientist.com/article/dn19772-ships-and-buoys-made-global-warming-look-slower-.html" rel="nofollow">"Ships and buoys made global warming look slower"</a>. <i>New Scientist</i><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-29</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Ships+and+buoys+made+global+warming+look+slower&amp;rft.au=Michael+Marshall&amp;rft.date=2010-11-16&amp;rft.genre=article&amp;rft.jtitle=New+Scientist&amp;rft_id=https%3A%2F%2Fwww.newscientist.com%2Farticle%2Fdn19772-ships-and-buoys-made-global-warming-look-slower-.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation book">Burroughs, William James (2007). <i>Climate change : a multidisciplinary approach</i> (2. ed.). Cambridge [u.a.]: Cambridge Univ. Press. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/9780521690331" title="Special:BookSources/9780521690331">9780521690331</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.aufirst=William+James&amp;rft.aulast=Burroughs&amp;rft.btitle=Climate+change+%3A+a+multidisciplinary+approach&amp;rft.date=2007&amp;rft.edition=2.&amp;rft.genre=book&amp;rft.isbn=9780521690331&amp;rft.place=Cambridge+%5Bu.a.%5D&amp;rft.pub=Cambridge+Univ.+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-buoy-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-buoy_7-0">^</a></b></span> <span class="reference-text"><cite class="citation book">Vittorio Barale (2010). <a class="external text" href="https://books.google.com/?id=hH2NkL_318wC&amp;pg=PA263&amp;dq=sea+surface+temperature+forecasting+numerical+weather+prediction+book#v=onepage&amp;q=sea%20surface%20temperature%20forecasting%20numerical%20weather%20prediction%20book&amp;f=false" rel="nofollow"><i>Oceanography from Space: Revisited</i></a>. Springer. pp. 237–238. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-90-481-8680-8" title="Special:BookSources/978-90-481-8680-8">978-90-481-8680-8</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Vittorio+Barale&amp;rft.btitle=Oceanography+from+Space%3A+Revisited&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-90-481-8680-8&amp;rft.pages=237-238&amp;rft.pub=Springer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DhH2NkL_318wC%26pg%3DPA263%26dq%3Dsea%2Bsurface%2Btemperature%2Bforecasting%2Bnumerical%2Bweather%2Bprediction%2Bbook%23v%3Donepage%26q%3Dsea%2520surface%2520temperature%2520forecasting%2520numerical%2520weather%2520prediction%2520book%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation book">Lance F. Bosart, William A. Sprigg, National Research Council (1998). <i>The meteorological buoy and coastal marine automated network for the United States</i>. National Academies Press. p. 11. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-309-06088-2" title="Special:BookSources/978-0-309-06088-2">978-0-309-06088-2</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Lance+F.+Bosart%2C+William+A.+Sprigg%2C+National+Research+Council&amp;rft.btitle=The+meteorological+buoy+and+coastal+marine+automated+network+for+the+United+States&amp;rft.date=1998&amp;rft.genre=book&amp;rft.isbn=978-0-309-06088-2&amp;rft.pages=11&amp;rft.pub=National+Academies+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text"><cite class="citation book">K. A. Browning; Robert J. Gurney (1999). <a class="external text" href="https://books.google.com/?id=DO5K1NK_ZewC&amp;pg=PA62&amp;dq=1990+TOGA+ocean+buoy+network+Pacific+ocean+book#v=onepage&amp;q&amp;f=false" rel="nofollow"><i>Global energy and water cycles</i></a>. <a href="/wiki/Cambridge_University_Press" title="Cambridge University Press">Cambridge University Press</a>. p. 62. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-521-56057-3" title="Special:BookSources/978-0-521-56057-3">978-0-521-56057-3</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=K.+A.+Browning&amp;rft.au=Robert+J.+Gurney&amp;rft.btitle=Global+energy+and+water+cycles&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=978-0-521-56057-3&amp;rft.pages=62&amp;rft.pub=Cambridge+University+Press&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DDO5K1NK_ZewC%26pg%3DPA62%26dq%3D1990%2BTOGA%2Bocean%2Bbuoy%2Bnetwork%2BPacific%2Bocean%2Bbook%23v%3Donepage%26q%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-10"><span class="mw-cite-backlink"><b><a href="#cite_ref-10">^</a></b></span> <span class="reference-text"><cite class="citation journal">P. Krishna Rao, W. L. Smith, and R. Koffler (January 1972). <a class="external text" href="http://docs.lib.noaa.gov/rescue/mwr/100/mwr-100-01-0010.pdf" rel="nofollow">"Global Sea-Surface Temperature Distribution Determined From an Environmental Satellite"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Monthly_Weather_Review" title="Monthly Weather Review">Monthly Weather Review</a></i>. <b>100</b> (1): 10–14. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1972MWRv..100...10K" rel="nofollow">1972MWRv..100...10K</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F1520-0493%281972%29100%3C0010%3AGSTDDF%3E2.3.CO%3B2" rel="nofollow">10.1175/1520-0493(1972)100&lt;0010:GSTDDF&gt;2.3.CO;2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Global+Sea-Surface+Temperature+Distribution+Determined+From+an+Environmental+Satellite&amp;rft.au=P.++Krishna+Rao%2C++W.++L.++Smith%2C+and+R.++Koffler&amp;rft.date=1972-01&amp;rft.genre=article&amp;rft.issue=1&amp;rft.jtitle=Monthly+Weather+Review&amp;rft.pages=10-14&amp;rft.volume=100&amp;rft_id=http%3A%2F%2Fdocs.lib.noaa.gov%2Frescue%2Fmwr%2F100%2Fmwr-100-01-0010.pdf&amp;rft_id=info%3Abibcode%2F1972MWRv..100...10K&amp;rft_id=info%3Adoi%2F10.1175%2F1520-0493%281972%29100%3C0010%3AGSTDDF%3E2.3.CO%3B2&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><cite class="citation book">National Research Council (U.S.). NII 2000 Steering Committee (1997). <a class="external text" href="https://books.google.com/?id=qzYrAAAAYAAJ&amp;pg=PA2&amp;dq=automated+sea+surface+temperature+measurement+ship+book#v=onepage&amp;q&amp;f=false" rel="nofollow"><i>The unpredictable certainty: information infrastructure through 2000; white papers</i></a>. National Academies. p. 2<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=National+Research+Council+%28U.S.%29.+NII+2000+Steering+Committee&amp;rft.btitle=The+unpredictable+certainty%3A+information+infrastructure+through+2000%3B+white+papers&amp;rft.date=1997&amp;rft.genre=book&amp;rft.pages=2&amp;rft.pub=National+Academies&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DqzYrAAAAYAAJ%26pg%3DPA2%26dq%3Dautomated%2Bsea%2Bsurface%2Btemperature%2Bmeasurement%2Bship%2Bbook%23v%3Donepage%26q%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><cite class="citation journal">W. J. Emery; D. J. Baldwin; Peter Schlüssel &amp; R. W. Reynolds (2001-02-15). <a class="external text" href="http://ecco2.jpl.nasa.gov/data2/data/sst/Liming/LLi_output/References/SST_IR_insitu_a.pdf" rel="nofollow">"Accuracy of in situ sea surface temperatures used to calibrate infrared satellite measurements"</a> <span style="font-size:85%;">(PDF)</span>. <i><a href="/wiki/Journal_of_Geophysical_Research" title="Journal of Geophysical Research">Journal of Geophysical Research</a></i>. <b>106</b> (C2): 2387. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2001JGR...106.2387E" rel="nofollow">2001JGR...106.2387E</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1029%2F2000JC000246" rel="nofollow">10.1029/2000JC000246</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Accuracy+of+in+situ+sea+surface+temperatures+used+to+calibrate+infrared+satellite+measurements&amp;rft.au=D.+J.+Baldwin&amp;rft.au=Peter+Schl%C3%BCssel&amp;rft.au=R.+W.+Reynolds&amp;rft.au=W.+J.+Emery&amp;rft.date=2001-02-15&amp;rft.genre=article&amp;rft.issue=C2&amp;rft.jtitle=Journal+of+Geophysical+Research&amp;rft.pages=2387&amp;rft.volume=106&amp;rft_id=http%3A%2F%2Fecco2.jpl.nasa.gov%2Fdata2%2Fdata%2Fsst%2FLiming%2FLLi_output%2FReferences%2FSST_IR_insitu_a.pdf&amp;rft_id=info%3Abibcode%2F2001JGR...106.2387E&amp;rft_id=info%3Adoi%2F10.1029%2F2000JC000246&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-John-13"><span class="mw-cite-backlink">^ <a href="#cite_ref-John_13-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-John_13-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation web">John Maurer (October 2002). <a class="external text" href="http://www2.hawaii.edu/~jmaurer/sst/" rel="nofollow">"Infrared and microwave remote sensing of sea surface temperature (SST)"</a>. <a class="mw-redirect" href="/wiki/University_of_Hawai%27i" title="University of Hawai'i">University of Hawai'i</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=John+Maurer&amp;rft.btitle=Infrared+and+microwave+remote+sensing+of+sea+surface+temperature+%28SST%29&amp;rft.date=2002-10&amp;rft.genre=unknown&amp;rft.pub=University+of+Hawai%27i&amp;rft_id=http%3A%2F%2Fwww2.hawaii.edu%2F~jmaurer%2Fsst%2F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-14"><span class="mw-cite-backlink"><b><a href="#cite_ref-14">^</a></b></span> <span class="reference-text"><cite class="citation journal">C. M. Kishtawal (2005-08-06). <a class="external text" href="http://www.wamis.org/agm/pubs/agm8/Paper-4.pdf" rel="nofollow">"Meteorological Satellites"</a> <span style="font-size:85%;">(PDF)</span>. <i>Satellite Remote Sensing and GIS Applications in Agricultural Meteorology</i>: 73<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Meteorological+Satellites&amp;rft.au=C.+M.+Kishtawal&amp;rft.date=2005-08-06&amp;rft.genre=article&amp;rft.jtitle=Satellite+Remote+Sensing+and+GIS+Applications+in+Agricultural+Meteorology&amp;rft.pages=73&amp;rft_id=http%3A%2F%2Fwww.wamis.org%2Fagm%2Fpubs%2Fagm8%2FPaper-4.pdf&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-15"><span class="mw-cite-backlink"><b><a href="#cite_ref-15">^</a></b></span> <span class="reference-text"><cite class="citation journal">Robert Harwood (1971-09-16). "Mapping the Atmosphere From Space". <i>New Scientist</i>. <b>51</b> (769): 623.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Mapping+the+Atmosphere+From+Space&amp;rft.au=Robert+Harwood&amp;rft.date=1971-09-16&amp;rft.genre=article&amp;rft.issue=769&amp;rft.jtitle=New+Scientist&amp;rft.pages=623&amp;rft.volume=51&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-16"><span class="mw-cite-backlink"><b><a href="#cite_ref-16">^</a></b></span> <span class="reference-text"><cite class="citation book">David E. Alexander; Rhodes Whitmore Fairbridge (1999). <a class="external text" href="https://books.google.com/?id=Y0iX2z48qkUC&amp;pg=PA509&amp;lpg=PA509&amp;dq=infrared+wavelengths+satellite+chosen+temperature+book#v=onepage&amp;q=infrared%20wavelengths%20satellite%20chosen%20temperature%20book&amp;f=false" rel="nofollow"><i>Encyclopedia of environmental science</i></a>. Springer. p. 510. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-412-74050-3" title="Special:BookSources/978-0-412-74050-3">978-0-412-74050-3</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=David+E.+Alexander&amp;rft.au=Rhodes+Whitmore+Fairbridge&amp;rft.btitle=Encyclopedia+of+environmental+science&amp;rft.date=1999&amp;rft.genre=book&amp;rft.isbn=978-0-412-74050-3&amp;rft.pages=510&amp;rft.pub=Springer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DY0iX2z48qkUC%26pg%3DPA509%26lpg%3DPA509%26dq%3Dinfrared%2Bwavelengths%2Bsatellite%2Bchosen%2Btemperature%2Bbook%23v%3Donepage%26q%3Dinfrared%2520wavelengths%2520satellite%2520chosen%2520temperature%2520book%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-17"><span class="mw-cite-backlink"><b><a href="#cite_ref-17">^</a></b></span> <span class="reference-text"><cite class="citation book">Ian Stuart Robinson (2004). <a class="external text" href="https://books.google.com/?id=jk1fIo51uwMC&amp;pg=PA278&amp;dq=measurement+of+sea+surface+temperature+book#v=onepage&amp;q=measurement%20of%20sea%20surface%20temperature%20book&amp;f=false" rel="nofollow"><i>Measuring the oceans from space: the principles and methods of satellite oceanography</i></a>. Springer. p. 279. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-540-42647-9" title="Special:BookSources/978-3-540-42647-9">978-3-540-42647-9</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Ian+Stuart+Robinson&amp;rft.btitle=Measuring+the+oceans+from+space%3A+the+principles+and+methods+of+satellite+oceanography&amp;rft.date=2004&amp;rft.genre=book&amp;rft.isbn=978-3-540-42647-9&amp;rft.pages=279&amp;rft.pub=Springer&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3Djk1fIo51uwMC%26pg%3DPA278%26dq%3Dmeasurement%2Bof%2Bsea%2Bsurface%2Btemperature%2Bbook%23v%3Donepage%26q%3Dmeasurement%2520of%2520sea%2520surface%2520temperature%2520book%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-18"><span class="mw-cite-backlink"><b><a href="#cite_ref-18">^</a></b></span> <span class="reference-text"><cite class="citation book">John Siegenthaler (2003). <a class="external text" href="https://books.google.com/?id=WdPg_1aTtr8C&amp;pg=PA84&amp;lpg=PA84&amp;dq=water+higher+specific+heat+than+air+book#v=onepage&amp;q=water%20higher%20specific%20heat%20than%20air%20book&amp;f=false" rel="nofollow"><i>Modern hydronic heating for residential and light commercial buildings</i></a>. Cengage Learning. p. 84. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-7668-1637-4" title="Special:BookSources/978-0-7668-1637-4">978-0-7668-1637-4</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=John+Siegenthaler&amp;rft.btitle=Modern+hydronic+heating+for+residential+and+light+commercial+buildings&amp;rft.date=2003&amp;rft.genre=book&amp;rft.isbn=978-0-7668-1637-4&amp;rft.pages=84&amp;rft.pub=Cengage+Learning&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DWdPg_1aTtr8C%26pg%3DPA84%26lpg%3DPA84%26dq%3Dwater%2Bhigher%2Bspecific%2Bheat%2Bthan%2Bair%2Bbook%23v%3Donepage%26q%3Dwater%2520higher%2520specific%2520heat%2520than%2520air%2520book%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-19"><span class="mw-cite-backlink"><b><a href="#cite_ref-19">^</a></b></span> <span class="reference-text"><cite class="citation book">Peter O. Zavialov (2005). <a class="external text" href="https://books.google.com/?id=Z-LxfJVFclgC&amp;pg=PA27&amp;dq=sea+surface+temperature+notation+depth+book#v=onepage&amp;q=sea%20surface%20temperature%20notation%20depth%20book&amp;f=false" rel="nofollow"><i>Physical oceanography of the dying Aral Sea</i></a>. シュプリンガー・ジャパン株式会社. p. 27. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-540-22891-2" title="Special:BookSources/978-3-540-22891-2">978-3-540-22891-2</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Peter+O.+Zavialov&amp;rft.btitle=Physical+oceanography+of+the+dying+Aral+Sea&amp;rft.date=2005&amp;rft.genre=book&amp;rft.isbn=978-3-540-22891-2&amp;rft.pages=27&amp;rft.pub=%E3%82%B7%E3%83%A5%E3%83%97%E3%83%AA%E3%83%B3%E3%82%AC%E3%83%BC%E3%83%BB%E3%82%B8%E3%83%A3%E3%83%91%E3%83%B3%E6%A0%AA%E5%BC%8F%E4%BC%9A%E7%A4%BE&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DZ-LxfJVFclgC%26pg%3DPA27%26dq%3Dsea%2Bsurface%2Btemperature%2Bnotation%2Bdepth%2Bbook%23v%3Donepage%26q%3Dsea%2520surface%2520temperature%2520notation%2520depth%2520book%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-20"><span class="mw-cite-backlink"><b><a href="#cite_ref-20">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="https://web.archive.org/web/20080424113710/http://www.bnsc.gov.uk/content.aspx?nid=5989" rel="nofollow">"Envisat watches for La Niña"</a>. BNSC via the Internet Wayback Machine. 2008-04-24. Archived from <a class="external text" href="http://www.bnsc.gov.uk/content.aspx?nid=5989" rel="nofollow">the original</a> on 2008-04-24<span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.btitle=Envisat+watches+for+La+Ni%C3%B1a&amp;rft.date=2008-04-24&amp;rft.genre=unknown&amp;rft.pub=BNSC+via+the+Internet+Wayback+Machine&amp;rft_id=http%3A%2F%2Fwww.bnsc.gov.uk%2Fcontent.aspx%3Fnid%3D5989&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-21"><span class="mw-cite-backlink"><b><a href="#cite_ref-21">^</a></b></span> <span class="reference-text"><cite class="citation book">Rainer Feistel; Günther Nausch; Norbert Wasmund (2008). <a class="external text" href="https://books.google.com/?id=OeZ4e5MwRigC&amp;pg=PA258&amp;dq=upwelling+offshore+wind+sea+surface+temperature+book#v=onepage&amp;q=upwelling%20offshore%20wind%20sea%20surface%20temperature%20book&amp;f=false" rel="nofollow"><i>State and evolution of the Baltic Sea, 1952–2005: a detailed 50-year survey of meteorology and climate, physics, chemistry, biology, and marine environment</i></a>. John Wiley and Sons. p. 258. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-471-97968-5" title="Special:BookSources/978-0-471-97968-5">978-0-471-97968-5</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-09</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=G%C3%BCnther+Nausch&amp;rft.au=Norbert+Wasmund&amp;rft.au=Rainer+Feistel&amp;rft.btitle=State+and+evolution+of+the+Baltic+Sea%2C+1952%E2%80%932005%3A+a+detailed+50-year+survey+of+meteorology+and+climate%2C+physics%2C+chemistry%2C+biology%2C+and+marine+environment&amp;rft.date=2008&amp;rft.genre=book&amp;rft.isbn=978-0-471-97968-5&amp;rft.pages=258&amp;rft.pub=John+Wiley+and+Sons&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DOeZ4e5MwRigC%26pg%3DPA258%26dq%3Dupwelling%2Boffshore%2Bwind%2Bsea%2Bsurface%2Btemperature%2Bbook%23v%3Donepage%26q%3Dupwelling%2520offshore%2520wind%2520sea%2520surface%2520temperature%2520book%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-NASA_Cooling-22"><span class="mw-cite-backlink"><b><a href="#cite_ref-NASA_Cooling_22-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Earth Observatory (2005). <a class="external text" href="https://web.archive.org/web/20060930235454/http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=17164" rel="nofollow">"Passing of Hurricanes Cools Entire Gulf"</a>. <a href="/wiki/NASA" title="NASA">National Aeronautics and Space Administration</a>. Archived from <a class="external text" href="http://earthobservatory.nasa.gov/Newsroom/NewImages/images.php3?img_id=17164" rel="nofollow">the original</a> on 2006-09-30<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-04-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Earth+Observatory&amp;rft.btitle=Passing+of+Hurricanes+Cools+Entire+Gulf&amp;rft.date=2005&amp;rft.genre=unknown&amp;rft.pub=National+Aeronautics+and+Space+Administration&amp;rft_id=http%3A%2F%2Fearthobservatory.nasa.gov%2FNewsroom%2FNewImages%2Fimages.php3%3Fimg_id%3D17164&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-23"><span class="mw-cite-backlink"><b><a href="#cite_ref-23">^</a></b></span> <span class="reference-text"><cite class="citation book">Nidia Martínez Avellaneda (2010). <a class="external text" href="https://books.google.com/?id=b09YTtIW3f4C&amp;pg=PA72&amp;dq=NASA+MODIS+sea+surface+temperature+data+lag+time#v=onepage&amp;q&amp;f=false" rel="nofollow"><i>The Impact of Saharan Dust on the North Atlantic Circulation</i></a>. GRIN Verlag. p. 72. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-3-640-55639-7" title="Special:BookSources/978-3-640-55639-7">978-3-640-55639-7</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Nidia+Mart%C3%ADnez+Avellaneda&amp;rft.btitle=The+Impact+of+Saharan+Dust+on+the+North+Atlantic+Circulation&amp;rft.date=2010&amp;rft.genre=book&amp;rft.isbn=978-3-640-55639-7&amp;rft.pages=72&amp;rft.pub=GRIN+Verlag&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3Db09YTtIW3f4C%26pg%3DPA72%26dq%3DNASA%2BMODIS%2Bsea%2Bsurface%2Btemperature%2Bdata%2Blag%2Btime%23v%3Donepage%26q%26f%3Dfalse&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-24"><span class="mw-cite-backlink"><b><a href="#cite_ref-24">^</a></b></span> <span class="reference-text"><cite class="citation journal">Boyle, Edward A.; Lloyd Keigwin (5 November 1987). <a class="external text" href="http://www.whoi.edu/cms/files/Boyle(1987)Nature330_35_52423.pdf" rel="nofollow">"North Atlantic thermohaline circulation during the past 20,000 years linked to high-latitude surface temperature"</a> <span style="font-size:85%;">(PDF)</span>. <i>Nature</i>. <b>330</b> (6143): 35–40. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1987Natur.330...35B" rel="nofollow">1987Natur.330...35B</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2F330035a0" rel="nofollow">10.1038/330035a0</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=North+Atlantic+thermohaline+circulation+during+the+past+20%2C000+years+linked+to+high-latitude+surface+temperature&amp;rft.au=Lloyd+Keigwin&amp;rft.aufirst=Edward+A.&amp;rft.aulast=Boyle&amp;rft.date=1987-11-05&amp;rft.genre=article&amp;rft.issue=6143&amp;rft.jtitle=Nature&amp;rft.pages=35-40&amp;rft.volume=330&amp;rft_id=http%3A%2F%2Fwww.whoi.edu%2Fcms%2Ffiles%2FBoyle%281987%29Nature330_35_52423.pdf&amp;rft_id=info%3Abibcode%2F1987Natur.330...35B&amp;rft_id=info%3Adoi%2F10.1038%2F330035a0&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-25"><span class="mw-cite-backlink"><b><a href="#cite_ref-25">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beaugrand, Grégory; Keith M. Brander; J. Alistair Lindley; Sami Souissi; Philip C. Reid (11 December 2003). <a class="external text" href="http://www.nature.com/nature/journal/v426/n6967/abs/nature02164.html" rel="nofollow">"Plankton effect on cod recruitment in the North Sea"</a>. <i>Nature</i>. <b>426</b> (6967): 661–664. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2003Natur.426..661B" rel="nofollow">2003Natur.426..661B</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/14668864" rel="nofollow">14668864</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature02164" rel="nofollow">10.1038/nature02164</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Plankton+effect+on+cod+recruitment+in+the+North+Sea&amp;rft.au=J.+Alistair+Lindley&amp;rft.au=Keith+M.+Brander&amp;rft.au=Philip+C.+Reid&amp;rft.au=Sami+Souissi&amp;rft.aufirst=Gr%C3%A9gory&amp;rft.aulast=Beaugrand&amp;rft.date=2003-12-11&amp;rft.genre=article&amp;rft.issue=6967&amp;rft.jtitle=Nature&amp;rft.pages=661-664&amp;rft.volume=426&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv426%2Fn6967%2Fabs%2Fnature02164.html&amp;rft_id=info%3Abibcode%2F2003Natur.426..661B&amp;rft_id=info%3Adoi%2F10.1038%2Fnature02164&amp;rft_id=info%3Apmid%2F14668864&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-26"><span class="mw-cite-backlink"><b><a href="#cite_ref-26">^</a></b></span> <span class="reference-text"><cite class="citation journal">Beman, J. Michael; Kevin R. Arrigo; Pamela A. Matson (10 March 2005). <a class="external text" href="http://www.nature.com/nature/journal/v434/n7030/abs/nature03370.html" rel="nofollow">"Agricultural runoff fuels large phytoplankton blooms in vulnerable areas of the ocean"</a>. <i>Nature</i>. <b>434</b> (7030): 211–214. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005Natur.434..211M" rel="nofollow">2005Natur.434..211M</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/15758999" rel="nofollow">15758999</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fnature03370" rel="nofollow">10.1038/nature03370</a><span class="reference-accessdate">. Retrieved <span class="nowrap">10 February</span> 2011</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Agricultural+runoff+fuels+large+phytoplankton+blooms+in+vulnerable+areas+of+the+ocean&amp;rft.au=Kevin+R.+Arrigo&amp;rft.au=Pamela+A.+Matson&amp;rft.aufirst=J.+Michael&amp;rft.aulast=Beman&amp;rft.date=2005-03-10&amp;rft.genre=article&amp;rft.issue=7030&amp;rft.jtitle=Nature&amp;rft.pages=211-214&amp;rft.volume=434&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fnature%2Fjournal%2Fv434%2Fn7030%2Fabs%2Fnature03370.html&amp;rft_id=info%3Abibcode%2F2005Natur.434..211M&amp;rft_id=info%3Adoi%2F10.1038%2Fnature03370&amp;rft_id=info%3Apmid%2F15758999&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-27"><span class="mw-cite-backlink"><b><a href="#cite_ref-27">^</a></b></span> <span class="reference-text"><cite class="citation journal">Mads Faurschou Knudsen, Bo Holm Jacobsen, Marit-Solveig Seidenkrantz &amp; Jesper Olsen (25 February 2014). <a class="external text" href="http://www.nature.com/ncomms/2014/140225/ncomms4323/full/ncomms4323.html" rel="nofollow">"Evidence for external forcing of the Atlantic Multidecadal Oscillation since termination of the Little Ice Age"</a>. <i>Nature</i>. <b>5</b>. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2014NatCo...5E3323K" rel="nofollow">2014NatCo...5E3323K</a>. <a href="/wiki/PubMed_Central" title="PubMed Central">PMC</a> <span class="plainlinks"><a class="external text" href="//www.ncbi.nlm.nih.gov/pmc/articles/PMC3948066" rel="nofollow">3948066</a> <img alt="Freely accessible" data-file-height="813" data-file-width="512" height="14" src="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/9px-Lock-green.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/14px-Lock-green.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/6/65/Lock-green.svg/18px-Lock-green.svg.png 2x" title="Freely accessible" width="9"/></span>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/24567051" rel="nofollow">24567051</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1038%2Fncomms4323" rel="nofollow">10.1038/ncomms4323</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Evidence+for+external+forcing+of+the+Atlantic+Multidecadal+Oscillation+since+termination+of+the+Little+Ice+Age&amp;rft.date=2014-02-25&amp;rft.genre=article&amp;rft.jtitle=Nature&amp;rft.volume=5&amp;rft_id=%2F%2Fwww.ncbi.nlm.nih.gov%2Fpmc%2Farticles%2FPMC3948066&amp;rft_id=http%3A%2F%2Fwww.nature.com%2Fncomms%2F2014%2F140225%2Fncomms4323%2Ffull%2Fncomms4323.html&amp;rft_id=info%3Abibcode%2F2014NatCo...5E3323K&amp;rft_id=info%3Adoi%2F10.1038%2Fncomms4323&amp;rft_id=info%3Apmid%2F24567051&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Uses authors parameter (<a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">link</a>)</span></span></li>
+<li id="cite_note-28"><span class="mw-cite-backlink"><b><a href="#cite_ref-28">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="external text" href="http://www.jpl.nasa.gov/news/releases/97/elninoup.html" rel="nofollow">"Independent NASA Satellite Measurements Confirm El Niño is Back and Strong"</a>. NASA/JPL.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.btitle=Independent+NASA+Satellite+Measurements+Confirm+El+Ni%C3%B1o+is+Back+and+Strong&amp;rft.genre=unknown&amp;rft.pub=NASA%2FJPL&amp;rft_id=http%3A%2F%2Fwww.jpl.nasa.gov%2Fnews%2Freleases%2F97%2Felninoup.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-29"><span class="mw-cite-backlink"><b><a href="#cite_ref-29">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/Climate_Prediction_Center" title="Climate Prediction Center">Climate Prediction Center</a> (2005-12-19). <a class="external text" href="http://www.cpc.noaa.gov/products/analysis_monitoring/ensostuff/ensofaq.shtml#HOWOFTEN" rel="nofollow">"ENSO FAQ: How often do El Niño and La Niña typically occur?"</a>. <a href="/wiki/National_Centers_for_Environmental_Prediction" title="National Centers for Environmental Prediction">National Centers for Environmental Prediction</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Climate+Prediction+Center&amp;rft.btitle=ENSO+FAQ%3A+How+often+do+El+Ni%C3%B1o+and+La+Ni%C3%B1a+typically+occur%3F&amp;rft.date=2005-12-19&amp;rft.genre=unknown&amp;rft.pub=National+Centers+for+Environmental+Prediction&amp;rft_id=http%3A%2F%2Fwww.cpc.noaa.gov%2Fproducts%2Fanalysis_monitoring%2Fensostuff%2Fensofaq.shtml%23HOWOFTEN&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-30"><span class="mw-cite-backlink"><b><a href="#cite_ref-30">^</a></b></span> <span class="reference-text"><cite class="citation web"><a href="/wiki/National_Climatic_Data_Center" title="National Climatic Data Center">National Climatic Data Center</a> (June 2009). <a class="external text" href="http://www.ncdc.noaa.gov/oa/climate/research/enso/?year=2009&amp;month=6&amp;submitted=true" rel="nofollow">"El Niño / Southern Oscillation (ENSO) June 2009"</a>. National Oceanic and Atmospheric Administration<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-26</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=National+Climatic+Data+Center&amp;rft.btitle=El+Ni%C3%B1o+%2F+Southern+Oscillation+%28ENSO%29+June+2009&amp;rft.date=2009-06&amp;rft.genre=unknown&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration&amp;rft_id=http%3A%2F%2Fwww.ncdc.noaa.gov%2Foa%2Fclimate%2Fresearch%2Fenso%2F%3Fyear%3D2009%26month%3D6%26submitted%3Dtrue&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-deadfish-31"><span class="mw-cite-backlink"><b><a href="#cite_ref-deadfish_31-0">^</a></b></span> <span class="reference-text"><cite class="citation web">WW2010 (1998-04-28). <a class="external text" href="http://ww2010.atmos.uiuc.edu/(Gh)/guides/mtr/eln/home.rxml" rel="nofollow">"El Niño"</a>. University of Illinois at Urbana-Champaign<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-17</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=WW2010&amp;rft.btitle=El+Ni%C3%B1o&amp;rft.date=1998-04-28&amp;rft.genre=unknown&amp;rft.pub=University+of+Illinois+at+Urbana-Champaign&amp;rft_id=http%3A%2F%2Fww2010.atmos.uiuc.edu%2F%28Gh%29%2Fguides%2Fmtr%2Feln%2Fhome.rxml&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-32"><span class="mw-cite-backlink"><b><a href="#cite_ref-32">^</a></b></span> <span class="reference-text"><cite class="citation journal">Jun Inoue, Masayuki Kawashima, Yasushi Fujiyoshi and Masaaki Wakatsuchi (October 2005). <a class="external text" href="http://www.springerlink.com/content/fm26377722407422/" rel="nofollow">"Aircraft Observations of Air-mass Modification Over the Sea of Okhotsk during Sea-ice Growth"</a>. <i>Boundary-Layer Meteorology</i>. <b>117</b> (1): 111–129. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2005BoLMe.117..111I" rel="nofollow">2005BoLMe.117..111I</a>. <a href="/wiki/International_Standard_Serial_Number" title="International Standard Serial Number">ISSN</a> <a class="external text" href="//www.worldcat.org/issn/0006-8314" rel="nofollow">0006-8314</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1007%2Fs10546-004-3407-y" rel="nofollow">10.1007/s10546-004-3407-y</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Aircraft+Observations+of+Air-mass+Modification+Over+the+Sea+of+Okhotsk+during+Sea-ice+Growth&amp;rft.au=Jun+Inoue%2C+Masayuki+Kawashima%2C+Yasushi+Fujiyoshi+and+Masaaki+Wakatsuchi&amp;rft.date=2005-10&amp;rft.genre=article&amp;rft.issn=0006-8314&amp;rft.issue=1&amp;rft.jtitle=Boundary-Layer+Meteorology&amp;rft.pages=111-129&amp;rft.volume=117&amp;rft_id=http%3A%2F%2Fwww.springerlink.com%2Fcontent%2Ffm26377722407422%2F&amp;rft_id=info%3Abibcode%2F2005BoLMe.117..111I&amp;rft_id=info%3Adoi%2F10.1007%2Fs10546-004-3407-y&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span><span class="citation-comment" style="display:none; color:#33aa33; margin-left:0.3em">CS1 maint: Multiple names: authors list (<a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">link</a>)</span></span></li>
+<li id="cite_note-33"><span class="mw-cite-backlink"><b><a href="#cite_ref-33">^</a></b></span> <span class="reference-text"><cite class="citation news">B. Geerts (1998). <a class="external text" href="http://www-das.uwyo.edu/~geerts/cwx/notes/chap10/lake_effect_snow.html" rel="nofollow">"Lake Effect Snow."</a>. <a href="/wiki/University_of_Wyoming" title="University of Wyoming">University of Wyoming</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2008-12-24</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Lake+Effect+Snow.&amp;rft.au=B.+Geerts&amp;rft.date=1998&amp;rft.genre=article&amp;rft_id=http%3A%2F%2Fwww-das.uwyo.edu%2F~geerts%2Fcwx%2Fnotes%2Fchap10%2Flake_effect_snow.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-34"><span class="mw-cite-backlink"><b><a href="#cite_ref-34">^</a></b></span> <span class="reference-text"><cite class="citation web">Greg Byrd (1998-06-03). <a class="external text" href="https://web.archive.org/web/20090617013142/http://www.comet.ucar.edu/class/smfaculty/byrd/sld010.htm" rel="nofollow">"Lake Effect Snow"</a>. <a href="/wiki/University_Corporation_for_Atmospheric_Research" title="University Corporation for Atmospheric Research">University Corporation for Atmospheric Research</a>. Archived from <a class="external text" href="http://www.comet.ucar.edu/class/smfaculty/byrd/sld010.htm" rel="nofollow">the original</a> on 2009-06-17<span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-12</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Greg+Byrd&amp;rft.btitle=Lake+Effect+Snow&amp;rft.date=1998-06-03&amp;rft.genre=unknown&amp;rft.pub=University+Corporation+for+Atmospheric+Research&amp;rft_id=http%3A%2F%2Fwww.comet.ucar.edu%2Fclass%2Fsmfaculty%2Fbyrd%2Fsld010.htm&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-A15-35"><span class="mw-cite-backlink"><b><a href="#cite_ref-A15_35-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="mw-redirect" href="/wiki/Chris_Landsea" title="Chris Landsea">Chris Landsea</a> (2011). <a class="external text" href="http://www.aoml.noaa.gov/hrd/tcfaq/A15.html" rel="nofollow">"Subject: A15) How do tropical cyclones form?"</a>. <a href="/wiki/Hurricane_Research_Division" title="Hurricane Research Division">Hurricane Research Division</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2011-01-27</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Chris+Landsea&amp;rft.btitle=Subject%3A+A15%29+How+do+tropical+cyclones+form%3F&amp;rft.date=2011&amp;rft.genre=unknown&amp;rft.pub=Hurricane+Research+Division&amp;rft_id=http%3A%2F%2Fwww.aoml.noaa.gov%2Fhrd%2Ftcfaq%2FA15.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-SST-36"><span class="mw-cite-backlink"><b><a href="#cite_ref-SST_36-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Webster, PJ. <a class="external text" href="http://go.galegroup.com/ps/i.do?id=GALE%7CA136847986&amp;v=2.1&amp;u=mnastbens&amp;it=r&amp;p=PROF&amp;sw=w&amp;asid=335992f2037df3339c5901f7981d2045" rel="nofollow">"Changes in tropical cyclone number, duration, and intensity in a warming environment"</a>. Gale Group.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.aufirst=PJ&amp;rft.aulast=Webster&amp;rft.btitle=Changes+in+tropical+cyclone+number%2C+duration%2C+and+intensity+in+a+warming+environment&amp;rft.genre=unknown&amp;rft.pub=Gale+Group&amp;rft_id=http%3A%2F%2Fgo.galegroup.com%2Fps%2Fi.do%3Fid%3DGALE%257CA136847986%26v%3D2.1%26u%3Dmnastbens%26it%3Dr%26p%3DPROF%26sw%3Dw%26asid%3D335992f2037df3339c5901f7981d2045&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-SSTMEAN-37"><span class="mw-cite-backlink"><b><a href="#cite_ref-SSTMEAN_37-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Matt Menne (March 15, 2000). <a class="external text" href="http://www.ncdc.noaa.gov/cmb-faq/anomalies.php#mean" rel="nofollow">"Global Long-term Mean Land and Sea Surface Temperatures"</a>. <a href="/wiki/National_Climatic_Data_Center" title="National Climatic Data Center">National Climatic Data Center</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2006-10-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Matt+Menne&amp;rft.btitle=Global+Long-term+Mean+Land+and+Sea+Surface+Temperatures&amp;rft.date=2000-03-15&amp;rft.genre=unknown&amp;rft.pub=National+Climatic+Data+Center&amp;rft_id=http%3A%2F%2Fwww.ncdc.noaa.gov%2Fcmb-faq%2Fanomalies.php%23mean&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-TCS_EESC-38"><span class="mw-cite-backlink"><b><a href="#cite_ref-TCS_EESC_38-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Kushnir, Yochanan (2000). <a class="external text" href="http://eesc.columbia.edu/courses/ees/climate/lectures/atm_phys.html" rel="nofollow">"The Climate System"</a>. <a href="/wiki/Columbia_University" title="Columbia University">Columbia University</a><span class="reference-accessdate">. Retrieved <span class="nowrap">24 September</span> 2010</span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.aufirst=Yochanan&amp;rft.aulast=Kushnir&amp;rft.btitle=The+Climate+System&amp;rft.date=2000&amp;rft.genre=unknown&amp;rft.pub=Columbia+University&amp;rft_id=http%3A%2F%2Feesc.columbia.edu%2Fcourses%2Fees%2Fclimate%2Flectures%2Fatm_phys.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-39"><span class="mw-cite-backlink"><b><a href="#cite_ref-39">^</a></b></span> <span class="reference-text"><cite class="citation book">John M. Wallace &amp; Peter V. Hobbs (1977). <i>Atmospheric Science: An Introductory Survey</i>. Academic Press, Inc. pp. 76–77.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=John+M.+Wallace&amp;rft.au=Peter+V.+Hobbs&amp;rft.btitle=Atmospheric+Science%3A+An+Introductory+Survey&amp;rft.date=1977&amp;rft.genre=book&amp;rft.pages=76-77&amp;rft.pub=Academic+Press%2C+Inc&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-LANDSEACLI-40"><span class="mw-cite-backlink"><b><a href="#cite_ref-LANDSEACLI_40-0">^</a></b></span> <span class="reference-text"><cite class="citation web"><a class="mw-redirect" href="/wiki/Chris_Landsea" title="Chris Landsea">Chris Landsea</a> (2000). <a class="external text" href="http://www.aoml.noaa.gov/hrd/Landsea/climvari/index.html" rel="nofollow">"Climate Variability of Tropical Cyclones: Past, Present and Future"</a>. <i>Storms</i>. <a href="/wiki/Atlantic_Oceanographic_and_Meteorological_Laboratory" title="Atlantic Oceanographic and Meteorological Laboratory">Atlantic Oceanographic and Meteorological Laboratory</a>. pp. 220–41<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-10-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=Climate+Variability+of+Tropical+Cyclones%3A+Past%2C+Present+and+Future&amp;rft.au=Chris+Landsea&amp;rft.date=2000&amp;rft.genre=unknown&amp;rft.jtitle=Storms&amp;rft.pages=220-41&amp;rft_id=http%3A%2F%2Fwww.aoml.noaa.gov%2Fhrd%2FLandsea%2Fclimvari%2Findex.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-UAIRtropics-41"><span class="mw-cite-backlink"><b><a href="#cite_ref-UAIRtropics_41-0">^</a></b></span> <span class="reference-text"><cite class="citation web">Dian J. Gaffen-Seidel, Rebecca J. Ross and James K. Angell (November 2000). <a class="external text" href="https://web.archive.org/web/20060508184913/http://www.aero.jussieu.fr/~sparc/SPARC2000_new/OralSess2/D_Gaffen/GaffenHtml/Abs_Gaffen.html" rel="nofollow">"Climatological characteristics of the tropical tropopause as revealed by radiosondes"</a>. <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration Air Resources Laboratory</a>. Archived from <a class="external text" href="http://www.aero.jussieu.fr/~sparc/SPARC2000_new/OralSess2/D_Gaffen/GaffenHtml/Abs_Gaffen.html" rel="nofollow">the original</a> on May 8, 2006<span class="reference-accessdate">. Retrieved <span class="nowrap">2006-10-19</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Dian+J.+Gaffen-Seidel%2C+Rebecca+J.+Ross+and+James+K.+Angell&amp;rft.btitle=Climatological+characteristics+of+the+tropical+tropopause+as+revealed+by+radiosondes&amp;rft.date=2000-11&amp;rft.genre=unknown&amp;rft.pub=National+Oceanic+and+Atmospheric+Administration+Air+Resources+Laboratory&amp;rft_id=http%3A%2F%2Fwww.aero.jussieu.fr%2F~sparc%2FSPARC2000_new%2FOralSess2%2FD_Gaffen%2FGaffenHtml%2FAbs_Gaffen.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-42"><span class="mw-cite-backlink"><b><a href="#cite_ref-42">^</a></b></span> <span class="reference-text"><cite class="citation web">Lixion Avila (2005-12-03). <a class="external text" href="http://www.nhc.noaa.gov/archive/2005/dis/al292005.discus.018.shtml?" rel="nofollow">"Hurricane Epsilon Discussion Eighteen"</a>. National Hurricane Center<span class="reference-accessdate">. Retrieved <span class="nowrap">2010-12-14</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.au=Lixion+Avila&amp;rft.btitle=Hurricane+Epsilon+Discussion+Eighteen&amp;rft.date=2005-12-03&amp;rft.genre=unknown&amp;rft.pub=National+Hurricane+Center&amp;rft_id=http%3A%2F%2Fwww.nhc.noaa.gov%2Farchive%2F2005%2Fdis%2Fal292005.discus.018.shtml%3F&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+</ol>
+</div>
+<ul>
+<li><cite class="citation journal">Dash P.; Ignatov A.; Kihai Y.; Sapper J. (2010). "The SST Quality Monitor (SQUAM)". <i>Journal of Atmospheric and Oceanic Technology</i>. <b>27</b> (11): 1899–1917. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2010JAtOT..27.1899D" rel="nofollow">2010JAtOT..27.1899D</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1175%2F2010JTECHO756.1" rel="nofollow">10.1175/2010JTECHO756.1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3ASea+surface+temperature&amp;rft.atitle=The+SST+Quality+Monitor+%28SQUAM%29&amp;rft.au=Dash+P.&amp;rft.au=Ignatov+A.&amp;rft.au=Kihai+Y.&amp;rft.au=Sapper+J.&amp;rft.date=2010&amp;rft.genre=article&amp;rft.issue=11&amp;rft.jtitle=Journal+of+Atmospheric+and+Oceanic+Technology&amp;rft.pages=1899-1917&amp;rft.volume=27&amp;rft_id=info%3Abibcode%2F2010JAtOT..27.1899D&amp;rft_id=info%3Adoi%2F10.1175%2F2010JTECHO756.1&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Sea_surface_temperature&amp;action=edit&amp;section=11" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="https://earth.nullschool.net/#current/ocean/surface/currents/overlay=sea_surface_temp/winkel3" rel="nofollow">Current sea surface temperatures</a></li>
+<li><a class="external text" href="http://www.jcommops.org/dbcp/" rel="nofollow">Data Buoy Cooperation Panel</a></li>
+<li><a class="external text" href="http://www.star.nesdis.noaa.gov/sod/sst/squam" rel="nofollow">SQUAM</a>, SST Quality Monitor (A near real-time Global QC Tool for monitoring time-series stability &amp; cross-platform consistency of satellite SST)</li>
+<li><a class="external text" href="http://www.star.nesdis.noaa.gov/sod/sst/iquam" rel="nofollow">iQuam</a>, in situ SST Quality Monitor (A near real-time quality control &amp; monitoring system for in situ SST measured by ships and buoys)</li>
+<li><a class="external text" href="http://www.star.nesdis.noaa.gov/sod/sst/micros" rel="nofollow">MICROS</a>, Monitoring of IR Clear-sky Radiances over Oceans for SST</li>
+</ul>
+<p><img alt="" data-file-height="196" data-file-width="196" height="12" src="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/12px-PD-icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/18px-PD-icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/6/62/PD-icon.svg/24px-PD-icon.svg.png 2x" width="12"/> This article incorporates <a class="external text" href="http://www.ngdc.noaa.gov/ngdcinfo/privacy.html" rel="nofollow">public domain material</a> from websites or documents of the <a href="/wiki/National_Oceanic_and_Atmospheric_Administration" title="National Oceanic and Atmospheric Administration">National Oceanic and Atmospheric Administration</a>.</p>
+<div aria-labelledby="Meteorological_data_and_variables" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Meteorological_variables" title="Template:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Meteorological_variables" title="Template talk:Meteorological variables"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Meteorological_variables&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Meteorological_data_and_variables" style="font-size:114%;margin:0 4em">Meteorological data and variables</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">General</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Adiabatic_process" title="Adiabatic process">Adiabatic processes</a></li>
+<li><a href="/wiki/Advection" title="Advection">Advection</a></li>
+<li><a href="/wiki/Buoyancy" title="Buoyancy">Buoyancy</a></li>
+<li><a href="/wiki/Lapse_rate" title="Lapse rate">Lapse rate</a></li>
+<li><a href="/wiki/Lightning" title="Lightning">Lightning</a></li>
+<li><a class="mw-redirect" href="/wiki/Solar_radiation" title="Solar radiation">Surface solar radiation</a></li>
+<li><a href="/wiki/Surface_weather_analysis" title="Surface weather analysis">Surface weather analysis</a></li>
+<li><a href="/wiki/Visibility" title="Visibility">Visibility</a></li>
+<li><a href="/wiki/Vorticity" title="Vorticity">Vorticity</a></li>
+<li><a href="/wiki/Wind" title="Wind">Wind</a></li>
+<li><a href="/wiki/Wind_shear" title="Wind shear">Wind shear</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Condensation" title="Condensation">Condensation</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Cloud" title="Cloud">Cloud</a></li>
+<li><a href="/wiki/Cloud_condensation_nuclei" title="Cloud condensation nuclei">Cloud condensation nuclei (CCN)</a></li>
+<li><a href="/wiki/Fog" title="Fog">Fog</a></li>
+<li><a href="/wiki/Convective_condensation_level" title="Convective condensation level">Convective condensation level (CCL)</a></li>
+<li><a href="/wiki/Lifted_condensation_level" title="Lifted condensation level">Lifted condensation level (LCL)</a></li>
+<li><a href="/wiki/Precipitation" title="Precipitation">Precipitation</a></li>
+<li><a href="/wiki/Water_vapor" title="Water vapor">Water vapor</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Atmospheric_convection" title="Atmospheric convection">Convection</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convective_available_potential_energy" title="Convective available potential energy">Convective available potential energy (CAPE)</a></li>
+<li><a href="/wiki/Convective_inhibition" title="Convective inhibition">Convective inhibition (CIN)</a></li>
+<li><a href="/wiki/Convective_instability" title="Convective instability">Convective instability</a></li>
+<li><a href="/wiki/Convective_momentum_transport" title="Convective momentum transport">Convective momentum transport</a></li>
+<li><a href="/wiki/Convective_temperature" title="Convective temperature">Convective temperature (<i>T</i><sub>c</sub>)</a></li>
+<li><a href="/wiki/Equilibrium_level" title="Equilibrium level">Equilibrium level (EL)</a></li>
+<li><a href="/wiki/Free_convective_layer" title="Free convective layer">Free convective layer (FCL)</a></li>
+<li><a class="mw-redirect" href="/wiki/Helicity_(fluid_mechanics)#Meteorology" title="Helicity (fluid mechanics)">Helicity</a></li>
+<li><a href="/wiki/K-index_(meteorology)" title="K-index (meteorology)">K Index</a></li>
+<li><a href="/wiki/Level_of_free_convection" title="Level of free convection">Level of free convection (LFC)</a></li>
+<li><a href="/wiki/Lifted_index" title="Lifted index">Lifted index (LI)</a></li>
+<li><a href="/wiki/Maximum_parcel_level" title="Maximum parcel level">Maximum parcel level (MPL)</a></li>
+<li><a href="/wiki/Bulk_Richardson_number" title="Bulk Richardson number">Bulk Richardson number (BRN)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Temperature" title="Temperature">Temperature</a></th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Dew_point" title="Dew point">Dew point (<i>T</i><sub>d</sub>)</a></li>
+<li><a href="/wiki/Dew_point_depression" title="Dew point depression">Dew point depression</a></li>
+<li><a href="/wiki/Dry-bulb_temperature" title="Dry-bulb temperature">Dry-bulb temperature</a></li>
+<li><a href="/wiki/Equivalent_temperature" title="Equivalent temperature">Equivalent temperature (<i>T</i><sub>e</sub>)</a></li>
+<li><a href="/wiki/Forest_fire_weather_index" title="Forest fire weather index">Forest fire weather index</a></li>
+<li><a href="/wiki/Haines_Index" title="Haines Index">Haines Index</a></li>
+<li><a href="/wiki/Heat_index" title="Heat index">Heat index</a></li>
+<li><a href="/wiki/Humidex" title="Humidex">Humidex</a></li>
+<li><a href="/wiki/Humidity" title="Humidity">Humidity</a></li>
+<li><a href="/wiki/Relative_humidity" title="Relative humidity">Relative humidity (RH)</a></li>
+<li><a href="/wiki/Mixing_ratio" title="Mixing ratio">Mixing ratio</a></li>
+<li><a href="/wiki/Potential_temperature" title="Potential temperature">Potential temperature (<i>θ</i>)</a></li>
+<li><a href="/wiki/Equivalent_potential_temperature" title="Equivalent potential temperature">Equivalent potential temperature (<i>θ</i><sub>e</sub>)</a></li>
+<li><a class="mw-selflink selflink">Sea surface temperature (SST)</a></li>
+<li><a href="/wiki/Thermodynamic_temperature" title="Thermodynamic temperature">Thermodynamic temperature</a></li>
+<li><a href="/wiki/Vapor_pressure" title="Vapor pressure">Vapor pressure</a></li>
+<li><a href="/wiki/Virtual_temperature" title="Virtual temperature">Virtual temperature</a></li>
+<li><a href="/wiki/Wet-bulb_temperature" title="Wet-bulb temperature">Wet-bulb temperature</a></li>
+<li><a href="/wiki/Wet-bulb_potential_temperature" title="Wet-bulb potential temperature">Wet-bulb potential temperature</a></li>
+<li><a href="/wiki/Wind_chill" title="Wind chill">Wind chill</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Pressure" title="Pressure">Pressure</a></th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_pressure" title="Atmospheric pressure">Atmospheric pressure</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a class="mw-redirect" href="/wiki/Barotropic" title="Barotropic">Barotropicity</a></li>
+<li><a href="/wiki/Pressure_gradient" title="Pressure gradient">Pressure gradient</a></li>
+<li><a href="/wiki/Pressure-gradient_force" title="Pressure-gradient force">Pressure-gradient force (PGF)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Earth-based_meteorological_observation_systems_and_weather_stations" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible collapsed navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Earth-based_meteorological_observation" title="Template:Earth-based meteorological observation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Earth-based_meteorological_observation" title="Template talk:Earth-based meteorological observation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Earth-based_meteorological_observation&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Earth-based_meteorological_observation_systems_and_weather_stations" style="font-size:114%;margin:0 4em">Earth-based meteorological observation systems and <a href="/wiki/Weather_station" title="Weather station">weather stations</a></div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="General" style="font-size:114%;margin:0 4em">General</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Aircraft_report" title="Aircraft report">Aircraft report (AIREP)</a></li>
+<li><a href="/wiki/Automated_airport_weather_station" title="Automated airport weather station">Automated airport weather station</a></li>
+<li><a href="/wiki/Automatic_weather_station" title="Automatic weather station">Automatic weather station (AWS)</a></li>
+<li><a href="/wiki/BUFR" title="BUFR">Binary Universal Form for the Representation of meteorological data (BUFR)</a></li>
+<li><a href="/wiki/Dropsonde" title="Dropsonde">Dropsonde</a></li>
+<li><a class="mw-redirect" href="/wiki/Hurricane_Hunters" title="Hurricane Hunters">Hurricane Hunters</a></li>
+<li><a href="/wiki/Mesonet" title="Mesonet">Mesonet</a></li>
+<li><a href="/wiki/METAR" title="METAR">Meteorological Aerodrome Report (METAR)</a></li>
+<li><a href="/wiki/Pilot_report" title="Pilot report">Pilot report (PIREP)</a></li>
+<li><a href="/wiki/Weather_ship" title="Weather ship">Weather ship</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd hlist" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks collapsible expanded navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-title" colspan="2" scope="col" style=";">
+<div id="By_region" style="font-size:114%;margin:0 4em">By region</div>
+</th>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Worldwide</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Aircraft_Communications_Addressing_and_Reporting_System" title="Aircraft Communications Addressing and Reporting System">Aircraft Communication Addressing and Reporting System (ACARS)</a></li>
+<li><a href="/wiki/Aircraft_Meteorological_Data_Relay" title="Aircraft Meteorological Data Relay">Aircraft Meteorological Data Relay (AMDAR)</a></li>
+<li><a href="/wiki/Argo_(oceanography)" title="Argo (oceanography)">Argo</a></li>
+<li><a href="/wiki/Automated_Meteorological_Data_Acquisition_System" title="Automated Meteorological Data Acquisition System">Automated Meteorological Data Acquisition System (AMeDAS)</a></li>
+<li><a href="/wiki/Deep-ocean_Assessment_and_Reporting_of_Tsunamis" title="Deep-ocean Assessment and Reporting of Tsunamis">Deep-ocean Assessment and Reporting of Tsunamis (DART)</a></li>
+<li><a href="/wiki/FluxNet" title="FluxNet">FluxNet Project (FluxNet)</a></li>
+<li><a href="/wiki/Global_Atmosphere_Watch" title="Global Atmosphere Watch">Global Atmosphere Watch (GAW)</a></li>
+<li><a href="/wiki/Global_Sea_Level_Observing_System" title="Global Sea Level Observing System">Global Sea Level Observing System (GLOSS)</a></li>
+<li><a href="/wiki/Prediction_and_Research_Moored_Array_in_the_Atlantic" title="Prediction and Research Moored Array in the Atlantic">Prediction and Research Moored Array in the Atlantic (PIRATA)</a></li>
+<li><a href="/wiki/Research_Moored_Array_for_African-Asian-Australian_Monsoon_Analysis_and_Prediction" title="Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction">Research Moored Array for African-Asian-Australian Monsoon Analysis and Prediction (RAMA)</a></li>
+<li><a href="/wiki/Tropical_Atmosphere_Ocean_project" title="Tropical Atmosphere Ocean project">Tropical Atmosphere Ocean project (TAO/TRITON)</a></li>
+<li><a href="/wiki/Voluntary_observing_ship_program" title="Voluntary observing ship program">Voluntary observing ship program</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">United States</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Citizen_Weather_Observer_Program" title="Citizen Weather Observer Program">Citizen Weather Observer Program (CWOP)</a></li>
+<li><a href="/wiki/Coastal-Marine_Automated_Network" title="Coastal-Marine Automated Network">Coastal-Marine Automated Network (C-MAN)</a></li>
+<li><a href="/wiki/NEXRAD" title="NEXRAD">NEXRAD radar</a></li>
+<li><a href="/wiki/SNOTEL" title="SNOTEL">Snow Telemetry (SNOTEL)</a></li>
+<li><a href="/wiki/Remote_Automated_Weather_Station" title="Remote Automated Weather Station">Remote Automated Weather Station (RAWS)</a></li>
+<li><a href="/wiki/Road_Weather_Information_System" title="Road Weather Information System">Road Weather Information System (RWIS)</a></li>
+<li><a href="/wiki/TAMDAR" title="TAMDAR">Tropospheric Airborne Meteorological Data Reporting (TAMDAR)</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</table>
+</div>
+<div aria-labelledby="Physical_oceanography" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="3" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Physical_oceanography" title="Template:Physical oceanography"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Physical_oceanography" title="Template talk:Physical oceanography"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Physical_oceanography&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Physical_oceanography" style="font-size:114%;margin:0 4em"><a href="/wiki/Physical_oceanography" title="Physical oceanography">Physical oceanography</a></div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Wind_wave" title="Wind wave">Waves</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Airy_wave_theory" title="Airy wave theory">Airy wave theory</a></li>
+<li><a href="/wiki/Ballantine_scale" title="Ballantine scale">Ballantine scale</a></li>
+<li><a href="/wiki/Modulational_instability" title="Modulational instability">Benjamin–Feir instability</a></li>
+<li><a href="/wiki/Boussinesq_approximation_(water_waves)" title="Boussinesq approximation (water waves)">Boussinesq approximation</a></li>
+<li><a href="/wiki/Breaking_wave" title="Breaking wave">Breaking wave</a></li>
+<li><a href="/wiki/Clapotis" title="Clapotis">Clapotis</a></li>
+<li><a href="/wiki/Cnoidal_wave" title="Cnoidal wave">Cnoidal wave</a></li>
+<li><a href="/wiki/Cross_sea" title="Cross sea">Cross sea</a></li>
+<li><a href="/wiki/Dispersion_(water_waves)" title="Dispersion (water waves)">Dispersion</a></li>
+<li><a href="/wiki/Edge_wave" title="Edge wave">Edge wave</a></li>
+<li><a href="/wiki/Equatorial_wave" title="Equatorial wave">Equatorial waves</a></li>
+<li><a href="/wiki/Fetch_(geography)" title="Fetch (geography)">Fetch</a></li>
+<li><a href="/wiki/Gravity_wave" title="Gravity wave">Gravity wave</a></li>
+<li><a href="/wiki/Green%27s_law" title="Green's law">Green's law</a></li>
+<li><a href="/wiki/Infragravity_wave" title="Infragravity wave">Infragravity wave</a></li>
+<li><a href="/wiki/Internal_wave" title="Internal wave">Internal wave</a></li>
+<li><a href="/wiki/Iribarren_number" title="Iribarren number">Iribarren number</a></li>
+<li><a href="/wiki/Kelvin_wave" title="Kelvin wave">Kelvin wave</a></li>
+<li><a href="/wiki/Kinematic_wave" title="Kinematic wave">Kinematic wave</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Luke%27s_variational_principle" title="Luke's variational principle">Luke's variational principle</a></li>
+<li><a href="/wiki/Mild-slope_equation" title="Mild-slope equation">Mild-slope equation</a></li>
+<li><a href="/wiki/Radiation_stress" title="Radiation stress">Radiation stress</a></li>
+<li><a href="/wiki/Rogue_wave" title="Rogue wave">Rogue wave</a></li>
+<li><a href="/wiki/Rossby_wave" title="Rossby wave">Rossby wave</a></li>
+<li><a href="/wiki/Rossby-gravity_waves" title="Rossby-gravity waves">Rossby-gravity waves</a></li>
+<li><a href="/wiki/Sea_state" title="Sea state">Sea state</a></li>
+<li><a href="/wiki/Seiche" title="Seiche">Seiche</a></li>
+<li><a href="/wiki/Significant_wave_height" title="Significant wave height">Significant wave height</a></li>
+<li><a href="/wiki/Soliton" title="Soliton">Soliton</a></li>
+<li><a href="/wiki/Stokes_boundary_layer" title="Stokes boundary layer">Stokes boundary layer</a></li>
+<li><a href="/wiki/Stokes_drift" title="Stokes drift">Stokes drift</a></li>
+<li><a href="/wiki/Stokes_wave" title="Stokes wave">Stokes wave</a></li>
+<li><a href="/wiki/Swell_(ocean)" title="Swell (ocean)">Swell</a></li>
+<li><a href="/wiki/Trochoidal_wave" title="Trochoidal wave">Trochoidal wave</a></li>
+<li><a href="/wiki/Tsunami" title="Tsunami">Tsunami</a>
+<ul>
+<li><a href="/wiki/Megatsunami" title="Megatsunami">megatsunami</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Undertow_(water_waves)" title="Undertow (water waves)">Undertow</a></li>
+<li><a href="/wiki/Ursell_number" title="Ursell number">Ursell number</a></li>
+<li><a href="/wiki/Wave_action_(continuum_mechanics)" title="Wave action (continuum mechanics)">Wave action</a></li>
+<li><a href="/wiki/Wave_base" title="Wave base">Wave base</a></li>
+<li><a href="/wiki/Wave_height" title="Wave height">Wave height</a></li>
+<li><a href="/wiki/Wave_power" title="Wave power">Wave power</a></li>
+<li><a href="/wiki/Wave_radar" title="Wave radar">Wave radar</a></li>
+<li><a href="/wiki/Wave_setup" title="Wave setup">Wave setup</a></li>
+<li><a href="/wiki/Wave_shoaling" title="Wave shoaling">Wave shoaling</a></li>
+<li><a href="/wiki/Wave_turbulence" title="Wave turbulence">Wave turbulence</a></li>
+<li><a href="/wiki/Wave%E2%80%93current_interaction" title="Wave–current interaction">Wave–current interaction</a></li>
+<li><a href="/wiki/Waves_and_shallow_water" title="Waves and shallow water">Waves and shallow water</a>
+<ul>
+<li><a class="mw-redirect" href="/wiki/One-dimensional_Saint-Venant_equations" title="One-dimensional Saint-Venant equations">one-dimensional Saint-Venant equations</a></li>
+<li><a href="/wiki/Shallow_water_equations" title="Shallow water equations">shallow water equations</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Wind_wave" title="Wind wave">Wind wave</a>
+<ul>
+<li><a href="/wiki/Wind_wave_model" title="Wind wave model">model</a></li>
+</ul>
+</li>
+</ul>
+</div>
+</td>
+<td class="navbox-image" rowspan="10" style="width:1px;padding:0px 0px 0px 2px">
+<div><a class="image" href="/wiki/File:Upwelling.svg" title="Upwelling"><img alt="Upwelling" data-file-height="242" data-file-width="365" height="93" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/140px-Upwelling.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/210px-Upwelling.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Upwelling.svg/280px-Upwelling.svg.png 2x" width="140"/></a><br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<br/>
+<a class="image" href="/wiki/File:Antarctic_bottom_water.svg" title="Antarctic bottom water"><img alt="Antarctic bottom water" data-file-height="470" data-file-width="745" height="88" src="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/140px-Antarctic_bottom_water.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/210px-Antarctic_bottom_water.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Antarctic_bottom_water.svg/280px-Antarctic_bottom_water.svg.png 2x" width="140"/></a></div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ocean_current" title="Ocean current">Circulation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Atmospheric_circulation" title="Atmospheric circulation">Atmospheric circulation</a></li>
+<li><a href="/wiki/Baroclinity" title="Baroclinity">Baroclinity</a></li>
+<li><a href="/wiki/Boundary_current" title="Boundary current">Boundary current</a></li>
+<li><a href="/wiki/Coriolis_force" title="Coriolis force">Coriolis force</a></li>
+<li><a href="/wiki/Coriolis%E2%80%93Stokes_force" title="Coriolis–Stokes force">Coriolis–Stokes force</a></li>
+<li><a href="/wiki/Craik%E2%80%93Leibovich_vortex_force" title="Craik–Leibovich vortex force">Craik–Leibovich vortex force</a></li>
+<li><a href="/wiki/Downwelling" title="Downwelling">Downwelling</a></li>
+<li><a href="/wiki/Eddy_(fluid_dynamics)" title="Eddy (fluid dynamics)">Eddy</a></li>
+<li><a href="/wiki/Ekman_layer" title="Ekman layer">Ekman layer</a></li>
+<li><a href="/wiki/Ekman_spiral" title="Ekman spiral">Ekman spiral</a></li>
+<li><a href="/wiki/Ekman_transport" title="Ekman transport">Ekman transport</a></li>
+<li><a href="/wiki/El_Ni%C3%B1o%E2%80%93Southern_Oscillation" title="El Niño–Southern Oscillation">El Niño–Southern Oscillation</a></li>
+<li><a href="/wiki/General_circulation_model" title="General circulation model">General circulation model</a></li>
+<li><a href="/wiki/Geostrophic_current" title="Geostrophic current">Geostrophic current</a></li>
+<li><a href="/wiki/Global_Ocean_Data_Analysis_Project" title="Global Ocean Data Analysis Project">Global Ocean Data Analysis Project</a></li>
+<li><a href="/wiki/Gulf_Stream" title="Gulf Stream">Gulf Stream</a></li>
+<li><a href="/wiki/Halothermal_circulation" title="Halothermal circulation">Halothermal circulation</a></li>
+<li><a href="/wiki/Humboldt_Current" title="Humboldt Current">Humboldt Current</a></li>
+<li><a href="/wiki/Hydrothermal_circulation" title="Hydrothermal circulation">Hydrothermal circulation</a></li>
+<li><a href="/wiki/Langmuir_circulation" title="Langmuir circulation">Langmuir circulation</a></li>
+<li><a href="/wiki/Longshore_drift" title="Longshore drift">Longshore drift</a></li>
+<li><a href="/wiki/Loop_Current" title="Loop Current">Loop Current</a></li>
+<li><a href="/wiki/Modular_Ocean_Model" title="Modular Ocean Model">Modular Ocean Model</a></li>
+<li><a href="/wiki/Ocean_dynamics" title="Ocean dynamics">Ocean dynamics</a></li>
+<li><a href="/wiki/Ocean_gyre" title="Ocean gyre">Ocean gyre</a></li>
+<li><a href="/wiki/Princeton_Ocean_Model" title="Princeton Ocean Model">Princeton Ocean Model</a></li>
+<li><a href="/wiki/Rip_current" title="Rip current">Rip current</a></li>
+<li><a href="/wiki/Subsurface_currents" title="Subsurface currents">Subsurface currents</a></li>
+<li><a href="/wiki/Sverdrup_balance" title="Sverdrup balance">Sverdrup balance</a></li>
+<li><a href="/wiki/Thermohaline_circulation" title="Thermohaline circulation">Thermohaline circulation</a>
+<ul>
+<li><a href="/wiki/Shutdown_of_thermohaline_circulation" title="Shutdown of thermohaline circulation">shutdown</a></li>
+</ul>
+</li>
+<li><a href="/wiki/Upwelling" title="Upwelling">Upwelling</a></li>
+<li><a href="/wiki/Whirlpool" title="Whirlpool">Whirlpool</a></li>
+<li><a href="/wiki/World_Ocean_Circulation_Experiment" title="World Ocean Circulation Experiment">World Ocean Circulation Experiment</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Tide" title="Tide">Tides</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Amphidromic_point" title="Amphidromic point">Amphidromic point</a></li>
+<li><a href="/wiki/Earth_tide" title="Earth tide">Earth tide</a></li>
+<li><a href="/wiki/Head_of_tide" title="Head of tide">Head of tide</a></li>
+<li><a href="/wiki/Internal_tide" title="Internal tide">Internal tide</a></li>
+<li><a href="/wiki/Lunitidal_interval" title="Lunitidal interval">Lunitidal interval</a></li>
+<li><a href="/wiki/Perigean_spring_tide" title="Perigean spring tide">Perigean spring tide</a></li>
+<li><a href="/wiki/Rip_tide" title="Rip tide">Rip tide</a></li>
+<li><a href="/wiki/Rule_of_twelfths" title="Rule of twelfths">Rule of twelfths</a></li>
+<li><a href="/wiki/Slack_water" title="Slack water">Slack water</a></li>
+<li><a href="/wiki/Tidal_bore" title="Tidal bore">Tidal bore</a></li>
+<li><a href="/wiki/Tidal_force" title="Tidal force">Tidal force</a></li>
+<li><a href="/wiki/Tidal_power" title="Tidal power">Tidal power</a></li>
+<li><a href="/wiki/Tidal_race" title="Tidal race">Tidal race</a></li>
+<li><a href="/wiki/Tidal_range" title="Tidal range">Tidal range</a></li>
+<li><a href="/wiki/Tidal_resonance" title="Tidal resonance">Tidal resonance</a></li>
+<li><a href="/wiki/Tide_gauge" title="Tide gauge">Tide gauge</a></li>
+<li><a href="/wiki/Tideline" title="Tideline">Tideline</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Landform" title="Landform">Landforms</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Abyssal_fan" title="Abyssal fan">Abyssal fan</a></li>
+<li><a href="/wiki/Abyssal_plain" title="Abyssal plain">Abyssal plain</a></li>
+<li><a href="/wiki/Atoll" title="Atoll">Atoll</a></li>
+<li><a href="/wiki/Bathymetric_chart" title="Bathymetric chart">Bathymetric chart</a></li>
+<li><a href="/wiki/Coastal_geography" title="Coastal geography">Coastal geography</a></li>
+<li><a href="/wiki/Cold_seep" title="Cold seep">Cold seep</a></li>
+<li><a href="/wiki/Continental_margin" title="Continental margin">Continental margin</a></li>
+<li><a href="/wiki/Continental_rise" title="Continental rise">Continental rise</a></li>
+<li><a href="/wiki/Continental_shelf" title="Continental shelf">Continental shelf</a></li>
+<li><a href="/wiki/Contourite" title="Contourite">Contourite</a></li>
+<li><a href="/wiki/Guyot" title="Guyot">Guyot</a></li>
+<li><a href="/wiki/Hydrography" title="Hydrography">Hydrography</a></li>
+<li><a href="/wiki/Oceanic_basin" title="Oceanic basin">Oceanic basin</a></li>
+<li><a href="/wiki/Oceanic_plateau" title="Oceanic plateau">Oceanic plateau</a></li>
+<li><a href="/wiki/Oceanic_trench" title="Oceanic trench">Oceanic trench</a></li>
+<li><a href="/wiki/Passive_margin" title="Passive margin">Passive margin</a></li>
+<li><a href="/wiki/Seabed" title="Seabed">Seabed</a></li>
+<li><a href="/wiki/Seamount" title="Seamount">Seamount</a></li>
+<li><a href="/wiki/Submarine_canyon" title="Submarine canyon">Submarine canyon</a></li>
+<li><a href="/wiki/Submarine_volcano" title="Submarine volcano">Submarine volcano</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Plate_tectonics" title="Plate tectonics">Plate<br/>
+tectonics</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Convergent_boundary" title="Convergent boundary">Convergent boundary</a></li>
+<li><a href="/wiki/Divergent_boundary" title="Divergent boundary">Divergent boundary</a></li>
+<li><a href="/wiki/Fracture_zone" title="Fracture zone">Fracture zone</a></li>
+<li><a href="/wiki/Hydrothermal_vent" title="Hydrothermal vent">Hydrothermal vent</a></li>
+<li><a href="/wiki/Marine_geology" title="Marine geology">Marine geology</a></li>
+<li><a href="/wiki/Mid-ocean_ridge" title="Mid-ocean ridge">Mid-ocean ridge</a></li>
+<li><a href="/wiki/Mohorovi%C4%8Di%C4%87_discontinuity" title="Mohorovičić discontinuity">Mohorovičić discontinuity</a></li>
+<li><a href="/wiki/Vine%E2%80%93Matthews%E2%80%93Morley_hypothesis" title="Vine–Matthews–Morley hypothesis">Vine–Matthews–Morley hypothesis</a></li>
+<li><a href="/wiki/Oceanic_crust" title="Oceanic crust">Oceanic crust</a></li>
+<li><a href="/wiki/Outer_trench_swell" title="Outer trench swell">Outer trench swell</a></li>
+<li><a href="/wiki/Ridge_push" title="Ridge push">Ridge push</a></li>
+<li><a href="/wiki/Seafloor_spreading" title="Seafloor spreading">Seafloor spreading</a></li>
+<li><a href="/wiki/Slab_pull" title="Slab pull">Slab pull</a></li>
+<li><a href="/wiki/Slab_suction" title="Slab suction">Slab suction</a></li>
+<li><a href="/wiki/Slab_window" title="Slab window">Slab window</a></li>
+<li><a href="/wiki/Subduction" title="Subduction">Subduction</a></li>
+<li><a href="/wiki/Transform_fault" title="Transform fault">Transform fault</a></li>
+<li><a href="/wiki/Volcanic_arc" title="Volcanic arc">Volcanic arc</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Ocean zones</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Benthic_zone" title="Benthic zone">Benthic</a></li>
+<li><a href="/wiki/Deep_ocean_water" title="Deep ocean water">Deep ocean water</a></li>
+<li><a href="/wiki/Deep_sea" title="Deep sea">Deep sea</a></li>
+<li><a href="/wiki/Littoral_zone" title="Littoral zone">Littoral</a></li>
+<li><a href="/wiki/Mesopelagic_zone" title="Mesopelagic zone">Mesopelagic</a></li>
+<li><a href="/wiki/Oceanic_zone" title="Oceanic zone">Oceanic</a></li>
+<li><a href="/wiki/Pelagic_zone" title="Pelagic zone">Pelagic</a></li>
+<li><a href="/wiki/Photic_zone" title="Photic zone">Photic</a></li>
+<li><a href="/wiki/Surf_zone" title="Surf zone">Surf</a></li>
+<li><a href="/wiki/Swash" title="Swash">Swash</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Sea_level" title="Sea level">Sea level</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep-ocean_Assessment_and_Reporting_of_Tsunamis" title="Deep-ocean Assessment and Reporting of Tsunamis">Deep-ocean Assessment and Reporting of Tsunamis</a></li>
+<li><a href="/wiki/Future_sea_level" title="Future sea level">Future sea level</a></li>
+<li><a href="/wiki/Global_Sea_Level_Observing_System" title="Global Sea Level Observing System">Global Sea Level Observing System</a></li>
+<li><a href="/wiki/North_West_Shelf_Operational_Oceanographic_System" title="North West Shelf Operational Oceanographic System">North West Shelf Operational Oceanographic System</a></li>
+<li><a href="/wiki/Sea-level_curve" title="Sea-level curve">Sea-level curve</a></li>
+<li><a href="/wiki/Sea_level_rise" title="Sea level rise">Sea level rise</a></li>
+<li><a href="/wiki/World_Geodetic_System" title="World Geodetic System">World Geodetic System</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Acoustical_oceanography" title="Acoustical oceanography">Acoustics</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Deep_scattering_layer" title="Deep scattering layer">Deep scattering layer</a></li>
+<li><a href="/wiki/Hydroacoustics" title="Hydroacoustics">Hydroacoustics</a></li>
+<li><a href="/wiki/Ocean_acoustic_tomography" title="Ocean acoustic tomography">Ocean acoustic tomography</a></li>
+<li><a href="/wiki/Sofar_bomb" title="Sofar bomb">Sofar bomb</a></li>
+<li><a href="/wiki/SOFAR_channel" title="SOFAR channel">SOFAR channel</a></li>
+<li><a href="/wiki/Underwater_acoustics" title="Underwater acoustics">Underwater acoustics</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Satellites</th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Jason-1" title="Jason-1">Jason-1</a></li>
+<li><a href="/wiki/Ocean_Surface_Topography_Mission" title="Ocean Surface Topography Mission">Jason-2 (Ocean Surface Topography Mission)</a></li>
+<li><a href="/wiki/Jason-3" title="Jason-3">Jason-3</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related</th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Argo_(oceanography)" title="Argo (oceanography)">Argo</a></li>
+<li><a href="/wiki/Benthic_lander" title="Benthic lander">Benthic lander</a></li>
+<li><a href="/wiki/Color_of_water" title="Color of water">Color of water</a></li>
+<li><a href="/wiki/DSV_Alvin" title="DSV Alvin">DSV <i>Alvin</i></a></li>
+<li><a class="mw-redirect" href="/wiki/Marginal_sea" title="Marginal sea">Marginal sea</a></li>
+<li><a href="/wiki/Marine_energy" title="Marine energy">Marine energy</a></li>
+<li><a href="/wiki/Marine_pollution" title="Marine pollution">Marine pollution</a></li>
+<li><a href="/wiki/Mooring_(oceanography)" title="Mooring (oceanography)">Mooring</a></li>
+<li><a href="/wiki/National_Oceanographic_Data_Center" title="National Oceanographic Data Center">National Oceanographic Data Center</a></li>
+<li><a href="/wiki/Ocean" title="Ocean">Ocean</a></li>
+<li><a href="/wiki/Ocean_exploration" title="Ocean exploration">Ocean exploration</a></li>
+<li><a href="/wiki/Ocean_observations" title="Ocean observations">Ocean observations</a></li>
+<li><a href="/wiki/Ocean_reanalysis" title="Ocean reanalysis">Ocean reanalysis</a></li>
+<li><a href="/wiki/Ocean_surface_topography" title="Ocean surface topography">Ocean surface topography</a></li>
+<li><a href="/wiki/Ocean_thermal_energy_conversion" title="Ocean thermal energy conversion">Ocean thermal energy conversion</a></li>
+<li><a href="/wiki/Oceanography" title="Oceanography">Oceanography</a></li>
+<li><a href="/wiki/Pelagic_sediment" title="Pelagic sediment">Pelagic sediment</a></li>
+<li><a href="/wiki/Sea_surface_microlayer" title="Sea surface microlayer">Sea surface microlayer</a></li>
+<li><a class="mw-selflink selflink">Sea surface temperature</a></li>
+<li><a href="/wiki/Seawater" title="Seawater">Seawater</a></li>
+<li><a href="/wiki/Science_On_a_Sphere" title="Science On a Sphere">Science On a Sphere</a></li>
+<li><a href="/wiki/Thermocline" title="Thermocline">Thermocline</a></li>
+<li><a href="/wiki/Underwater_glider" title="Underwater glider">Underwater glider</a></li>
+<li><a href="/wiki/Water_column" title="Water column">Water column</a></li>
+<li><a href="/wiki/World_Ocean_Atlas" title="World Ocean Atlas">World Ocean Atlas</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="3" style="font-weight:bold;">
+<div>
+<ul>
+<li><img alt="Category" data-file-height="31" data-file-width="36" height="14" src="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/16px-Folder_Hexagonal_Icon.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/24px-Folder_Hexagonal_Icon.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/48/Folder_Hexagonal_Icon.svg/32px-Folder_Hexagonal_Icon.svg.png 2x" title="Category" width="16"/> <a href="/wiki/Category:Physical_oceanography" title="Category:Physical oceanography">Category</a></li>
+<li><img alt="Commons page" data-file-height="1376" data-file-width="1024" height="16" src="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/12px-Commons-logo.svg.png" srcset="//upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/18px-Commons-logo.svg.png 1.5x, //upload.wikimedia.org/wikipedia/en/thumb/4/4a/Commons-logo.svg/24px-Commons-logo.svg.png 2x" title="Commons page" width="12"/> <a class="extiw" href="https://commons.wikimedia.org/wiki/Category:Physical_oceanography" title="commons:Category:Physical oceanography">Commons</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1270
+Cached time: 20171003140305
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.504 seconds
+Real time usage: 0.591 seconds
+Preprocessor visited node count: 2795/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 161941/2097152 bytes
+Template argument size: 3245/2097152 bytes
+Highest expansion depth: 8/40
+Expensive parser function count: 0/500
+Lua time usage: 0.240/10.000 seconds
+Lua memory usage: 6.78 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  451.667      1 -total
+ 52.95%  239.168      1 Template:Reflist
+ 16.73%   75.570     12 Template:Cite_journal
+ 13.05%   58.931     15 Template:Cite_book
+ 12.52%   56.563     13 Template:Convert
+ 11.33%   51.196     15 Template:Cite_web
+  8.53%   38.506      1 Template:Good_article
+  8.05%   36.338      1 Template:Top_icon
+  6.50%   29.374      1 Template:Category_handler
+  6.11%   27.611      1 Template:Earth-based_meteorological_observation
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:899880-0!canonical and timestamp 20171003140305 and revision id 800096271
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Sea_surface_temperature&amp;oldid=800096271">https://en.wikipedia.org/w/index.php?title=Sea_surface_temperature&amp;oldid=800096271</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Aquatic_ecology" title="Category:Aquatic ecology">Aquatic ecology</a></li><li><a href="/wiki/Category:Basic_meteorological_concepts_and_phenomena" title="Category:Basic meteorological concepts and phenomena">Basic meteorological concepts and phenomena</a></li><li><a href="/wiki/Category:Marine_meteorology_and_sailing" title="Category:Marine meteorology and sailing">Marine meteorology and sailing</a></li><li><a href="/wiki/Category:Oceanography" title="Category:Oceanography">Oceanography</a></li><li><a href="/wiki/Category:Thermodynamic_cycles" title="Category:Thermodynamic cycles">Thermodynamic cycles</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:CS1_maint:_Uses_authors_parameter" title="Category:CS1 maint: Uses authors parameter">CS1 maint: Uses authors parameter</a></li><li><a href="/wiki/Category:CS1_maint:_Multiple_names:_authors_list" title="Category:CS1 maint: Multiple names: authors list">CS1 maint: Multiple names: authors list</a></li><li><a href="/wiki/Category:Good_articles" title="Category:Good articles">Good articles</a></li><li><a href="/wiki/Category:Wikipedia_articles_incorporating_text_from_NOAA" title="Category:Wikipedia articles incorporating text from NOAA">Wikipedia articles incorporating text from NOAA</a></li><li><a href="/wiki/Category:Articles_containing_video_clips" title="Category:Articles containing video clips">Articles containing video clips</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Sea+surface+temperature" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Sea+surface+temperature" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Sea_surface_temperature" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Sea_surface_temperature" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Sea_surface_temperature">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Sea_surface_temperature&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Sea_surface_temperature&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Sea_surface_temperature" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Sea_surface_temperature" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Sea_surface_temperature&amp;oldid=800096271" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Sea_surface_temperature&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1507383" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Sea_surface_temperature&amp;id=800096271" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Sea+surface+temperature">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Sea+surface+temperature&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DSea%2Bsurface%2Btemperature%26returnto%3DSea%2Bsurface%2Btemperature%26oldid%3D800096271%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Sea_surface_temperature&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-wikibase-otherprojects-label" class="portal" id="p-wikibase-otherprojects" role="navigation">
+<h3 id="p-wikibase-otherprojects-label">In other projects</h3>
+<div class="body">
+<ul>
+<li class="wb-otherproject-link wb-otherproject-commons"><a href="https://commons.wikimedia.org/wiki/Category:Sea_surface_temperature_maps" hreflang="en">Wikimedia Commons</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%AF%D8%B1%D8%AC%D8%A9_%D8%AD%D8%B1%D8%A7%D8%B1%D8%A9_%D8%B3%D8%B7%D8%AD_%D8%A7%D9%84%D8%A8%D8%AD%D8%B1" hreflang="ar" lang="ar" title="درجة حرارة سطح البحر – Arabic">العربية</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/Oberfl%C3%A4chentemperatur" hreflang="de" lang="de" title="Oberflächentemperatur – German">Deutsch</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%81%CE%BC%CE%BF%CE%BA%CF%81%CE%B1%CF%83%CE%AF%CE%B1_%CE%B8%CE%B1%CE%BB%CE%AC%CF%83%CF%83%CE%B7%CF%82" hreflang="el" lang="el" title="Θερμοκρασία θαλάσσης – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Temperatura_de_la_superficie_del_mar" hreflang="es" lang="es" title="Temperatura de la superficie del mar – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Marsurfaca_temperaturo" hreflang="eo" lang="eo" title="Marsurfaca temperaturo – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AF%D9%85%D8%A7%DB%8C_%D8%B3%D8%B7%D8%AD_%D8%AF%D8%B1%DB%8C%D8%A7" hreflang="fa" lang="fa" title="دمای سطح دریا – Persian">فارسی</a></li><li class="interlanguage-link interwiki-fr"><a class="interlanguage-link-target" href="https://fr.wikipedia.org/wiki/Temp%C3%A9rature_de_surface_de_la_mer" hreflang="fr" lang="fr" title="Température de surface de la mer – French">Français</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Temperatura_superficiale_marina" hreflang="it" lang="it" title="Temperatura superficiale marina – Italian">Italiano</a></li><li class="interlanguage-link interwiki-lb"><a class="interlanguage-link-target" href="https://lb.wikipedia.org/wiki/Uewerfl%C3%A4chentemperatur" hreflang="lb" lang="lb" title="Uewerflächentemperatur – Luxembourgish">Lëtzebuergesch</a></li><li class="interlanguage-link interwiki-ml"><a class="interlanguage-link-target" href="https://ml.wikipedia.org/wiki/%E0%B4%B8%E0%B4%AE%E0%B5%81%E0%B4%A6%E0%B5%8D%E0%B4%B0%E0%B5%8B%E0%B4%AA%E0%B4%B0%E0%B4%BF%E0%B4%A4%E0%B4%B2_%E0%B4%A4%E0%B4%BE%E0%B4%AA%E0%B4%A8%E0%B4%BF%E0%B4%B2" hreflang="ml" lang="ml" title="സമുദ്രോപരിതല താപനില – Malayalam">മലയാളം</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Zeewateroppervlaktetemperatuur" hreflang="nl" lang="nl" title="Zeewateroppervlaktetemperatuur – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E6%B5%B7%E6%B0%B4%E6%B8%A9" hreflang="ja" lang="ja" title="海水温 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Havoverflatetemperatur" hreflang="no" lang="no" title="Havoverflatetemperatur – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Havoverflatetemperatur" hreflang="nn" lang="nn" title="Havoverflatetemperatur – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Temperatura_powierzchni_oceanu" hreflang="pl" lang="pl" title="Temperatura powierzchni oceanu – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Temperatura_da_superf%C3%ADcie_do_mar" hreflang="pt" lang="pt" title="Temperatura da superfície do mar – Portuguese">Português</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Sea_surface_temperature" hreflang="simple" lang="simple" title="Sea surface temperature – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/Povrchov%C3%A1_teplota" hreflang="sk" lang="sk" title="Povrchová teplota – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E6%B5%B7%E9%9D%A2%E6%B8%A9%E5%BA%A6" hreflang="zh" lang="zh" title="海面温度 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q1507383#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 11 September 2017, at 13:59.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Sea_surface_temperature&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.504","walltime":"0.591","ppvisitednodes":{"value":2795,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":161941,"limit":2097152},"templateargumentsize":{"value":3245,"limit":2097152},"expansiondepth":{"value":8,"limit":40},"expensivefunctioncount":{"value":0,"limit":500},"entityaccesscount":{"value":0,"limit":400},"timingprofile":["100.00%  451.667      1 -total"," 52.95%  239.168      1 Template:Reflist"," 16.73%   75.570     12 Template:Cite_journal"," 13.05%   58.931     15 Template:Cite_book"," 12.52%   56.563     13 Template:Convert"," 11.33%   51.196     15 Template:Cite_web","  8.53%   38.506      1 Template:Good_article","  8.05%   36.338      1 Template:Top_icon","  6.50%   29.374      1 Template:Category_handler","  6.11%   27.611      1 Template:Earth-based_meteorological_observation"]},"scribunto":{"limitreport-timeusage":{"value":"0.240","limit":"10.000"},"limitreport-memusage":{"value":7111617,"limit":52428800}},"cachereport":{"origin":"mw1270","timestamp":"20171003140305","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":81,"wgHostname":"mw1216"});});</script>
+</body>
+</html>

@@ -1,0 +1,1538 @@
+https://en.wikipedia.org/wiki/Thermal_radiation
+<!DOCTYPE html>
+
+<html class="client-nojs" dir="ltr" lang="en">
+<head>
+<meta charset="UTF-8"/>
+<title>Thermal radiation - Wikipedia</title>
+<script>document.documentElement.className = document.documentElement.className.replace( /(^|\s)client-nojs(\s|$)/, "$1client-js$2" );</script>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgCanonicalNamespace":"","wgCanonicalSpecialPageName":false,"wgNamespaceNumber":0,"wgPageName":"Thermal_radiation","wgTitle":"Thermal radiation","wgCurRevisionId":800465547,"wgRevisionId":800465547,"wgArticleId":185239,"wgIsArticle":true,"wgIsRedirect":false,"wgAction":"view","wgUserName":null,"wgUserGroups":["*"],"wgCategories":["Articles lacking in-text citations from October 2007","All articles lacking in-text citations","All articles with unsourced statements","Articles with unsourced statements from March 2017","Use dmy dates from December 2010","Electromagnetic radiation","Heat transfer","Thermodynamics"],"wgBreakFrames":false,"wgPageContentLanguage":"en","wgPageContentModel":"wikitext","wgSeparatorTransformTable":["",""],"wgDigitTransformTable":["",""],"wgDefaultDateFormat":"dmy","wgMonthNames":["","January","February","March","April","May","June","July","August","September","October","November","December"],"wgMonthNamesShort":["","Jan","Feb","Mar","Apr","May","Jun","Jul","Aug","Sep","Oct","Nov","Dec"],"wgRelevantPageName":"Thermal_radiation","wgRelevantArticleId":185239,"wgRequestId":"Wc2qmgpAICkAAF6A1-AAAAAT","wgIsProbablyEditable":true,"wgRelevantPageIsProbablyEditable":true,"wgRestrictionEdit":[],"wgRestrictionMove":[],"wgFlaggedRevsParams":{"tags":{}},"wgStableRevisionId":null,"wgWikiEditorEnabledModules":{"toolbar":true,"preview":false,"publish":false},"wgBetaFeaturesFeatures":[],"wgMediaViewerOnClick":true,"wgMediaViewerEnabledByDefault":false,"wgPopupsShouldSendModuleToUser":false,"wgPopupsConflictsWithNavPopupGadget":false,"wgVisualEditor":{"pageLanguageCode":"en","pageLanguageDir":"ltr","pageVariantFallbacks":"en","usePageImages":true,"usePageDescriptions":true},"wgPreferredVariant":"en","wgMFExpandAllSectionsUserOption":false,"wgMFDisplayWikibaseDescriptions":{"search":true,"nearby":true,"watchlist":true,"tagline":false},"wgRelatedArticles":null,"wgRelatedArticlesUseCirrusSearch":true,"wgRelatedArticlesOnlyUseCirrusSearch":false,"wgULSCurrentAutonym":"English","wgNoticeProject":"wikipedia","wgCentralNoticeCookiesToDelete":[],"wgCentralNoticeCategoriesUsingLegacy":["Fundraising","fundraising"],"wgCategoryTreePageCategoryOptions":"{\"mode\":0,\"hideprefix\":20,\"showcount\":true,\"namespaces\":false}","wgWikibaseItemId":"Q192593","wgCentralAuthMobileDomain":false,"wgVisualEditorToolbarScrollOffset":0,"wgVisualEditorUnsupportedEditParams":["undo","undoafter","veswitched"],"wgEditSubmitButtonLabelPublish":false});mw.loader.state({"ext.gadget.charinsert-styles":"ready","ext.globalCssJs.user.styles":"ready","ext.globalCssJs.site.styles":"ready","site.styles":"ready","noscript":"ready","user.styles":"ready","user":"ready","user.options":"ready","user.tokens":"loading","ext.cite.styles":"ready","ext.math.styles":"ready","wikibase.client.init":"ready","ext.visualEditor.desktopArticleTarget.noscript":"ready","ext.uls.interlanguage":"ready","ext.wikimediaBadges":"ready","mediawiki.legacy.shared":"ready","mediawiki.legacy.commonPrint":"ready","mediawiki.sectionAnchor":"ready","mediawiki.skinning.interface":"ready","skins.vector.styles":"ready","ext.globalCssJs.user":"ready","ext.globalCssJs.site":"ready"});mw.loader.implement("user.tokens@1dqfd7l",function ( $, jQuery, require, module ) {
+mw.user.tokens.set({"editToken":"+\\","patrolToken":"+\\","watchToken":"+\\","csrfToken":"+\\"});/*@nomin*/
+
+});mw.loader.load(["ext.cite.a11y","ext.math.scripts","site","mediawiki.page.startup","mediawiki.user","mediawiki.hidpi","mediawiki.page.ready","mediawiki.toc","mediawiki.searchSuggest","ext.gadget.teahouse","ext.gadget.ReferenceTooltips","ext.gadget.watchlist-notice","ext.gadget.DRN-wizard","ext.gadget.charinsert","ext.gadget.refToolbar","ext.gadget.extra-toolbar-buttons","ext.gadget.switcher","ext.centralauth.centralautologin","mmv.head","mmv.bootstrap.autostart","ext.visualEditor.desktopArticleTarget.init","ext.visualEditor.targetLoader","ext.eventLogging.subscriber","ext.wikimediaEvents","ext.navigationTiming","ext.uls.eventlogger","ext.uls.init","ext.uls.interface","ext.centralNotice.geoIP","ext.centralNotice.startUp","skins.vector.js"]);});</script>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.cite.styles%7Cext.math.styles%7Cext.uls.interlanguage%7Cext.visualEditor.desktopArticleTarget.noscript%7Cext.wikimediaBadges%7Cmediawiki.legacy.commonPrint%2Cshared%7Cmediawiki.sectionAnchor%7Cmediawiki.skinning.interface%7Cskins.vector.styles%7Cwikibase.client.init&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<script async="" src="/w/load.php?debug=false&amp;lang=en&amp;modules=startup&amp;only=scripts&amp;skin=vector"></script>
+<meta content="" name="ResourceLoaderDynamicStyles"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=ext.gadget.charinsert-styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<link href="/w/load.php?debug=false&amp;lang=en&amp;modules=site.styles&amp;only=styles&amp;skin=vector" rel="stylesheet"/>
+<meta content="MediaWiki 1.31.0-wmf.1" name="generator"/>
+<meta content="origin-when-cross-origin" name="referrer"/>
+<meta content="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wiens_law.svg/1200px-Wiens_law.svg.png" property="og:image"/>
+<link href="android-app://org.wikipedia/http/en.m.wikipedia.org/wiki/Thermal_radiation" rel="alternate"/>
+<link href="/w/index.php?title=Thermal_radiation&amp;action=edit" rel="alternate" title="Edit this page" type="application/x-wiki"/>
+<link href="/w/index.php?title=Thermal_radiation&amp;action=edit" rel="edit" title="Edit this page"/>
+<link href="/static/apple-touch/wikipedia.png" rel="apple-touch-icon"/>
+<link href="/static/favicon/wikipedia.ico" rel="shortcut icon"/>
+<link href="/w/opensearch_desc.php" rel="search" title="Wikipedia (en)" type="application/opensearchdescription+xml"/>
+<link href="//en.wikipedia.org/w/api.php?action=rsd" rel="EditURI" type="application/rsd+xml"/>
+<link href="//creativecommons.org/licenses/by-sa/3.0/" rel="license"/>
+<link href="https://en.wikipedia.org/wiki/Thermal_radiation" rel="canonical"/>
+<link href="//login.wikimedia.org" rel="dns-prefetch"/>
+<link href="//meta.wikimedia.org" rel="dns-prefetch"/>
+<!--[if lt IE 9]><script src="/resources/lib/html5shiv/html5shiv.min.js"></script><![endif]-->
+</head>
+<body class="mediawiki ltr sitedir-ltr mw-hide-empty-elt ns-0 ns-subject page-Thermal_radiation rootpage-Thermal_radiation vector-nav-directionality skin-vector action-view"> <div class="noprint" id="mw-page-base"></div>
+<div class="noprint" id="mw-head-base"></div>
+<div class="mw-body" id="content" role="main">
+<a id="top"></a>
+<div class="mw-body-content" id="siteNotice"><!-- CentralNotice --></div>
+<div class="mw-indicators mw-body-content">
+</div>
+<h1 class="firstHeading" id="firstHeading" lang="en">Thermal radiation</h1>
+<div class="mw-body-content" id="bodyContent">
+<div class="noprint" id="siteSub">From Wikipedia, the free encyclopedia</div>
+<div id="contentSub"></div>
+<div class="mw-jump" id="jump-to-nav">
+					Jump to:					<a href="#mw-head">navigation</a>, 					<a href="#p-search">search</a>
+</div>
+<div class="mw-content-ltr" dir="ltr" id="mw-content-text" lang="en"><div class="mw-parser-output"><div class="hatnote navigation-not-searchable" role="note">This article is about any type of electromagnetic radiation from an object related to its temperature. For infrared light, see <a href="/wiki/Infrared" title="Infrared">Infrared</a>.</div>
+<div class="hatnote navigation-not-searchable" role="note">"Heat radiation" redirects here. It is not to be confused with <a class="mw-disambig" href="/wiki/Heat-Ray_(disambiguation)" title="Heat-Ray (disambiguation)">Heat-Ray (disambiguation)</a>.</div>
+<table class="plainlinks metadata ambox ambox-style ambox-More_footnotes" role="presentation">
+<tr>
+<td class="mbox-image">
+<div style="width:52px"><img alt="" data-file-height="48" data-file-width="48" height="40" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/40px-Text_document_with_red_question_mark.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/60px-Text_document_with_red_question_mark.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Text_document_with_red_question_mark.svg/80px-Text_document_with_red_question_mark.svg.png 2x" width="40"/></div>
+</td>
+<td class="mbox-text"><span class="mbox-text-span">This article includes a <a href="/wiki/Wikipedia:Citing_sources" title="Wikipedia:Citing sources">list of references</a>, but <b>its sources remain unclear</b> because it has <b>insufficient <a href="/wiki/Wikipedia:Citing_sources#Inline_citations" title="Wikipedia:Citing sources">inline citations</a></b>. <span class="hide-when-compact">Please help to <a href="/wiki/Wikipedia:WikiProject_Fact_and_Reference_Check" title="Wikipedia:WikiProject Fact and Reference Check">improve</a> this article by <a href="/wiki/Wikipedia:When_to_cite" title="Wikipedia:When to cite">introducing</a> more precise citations.</span> <small><i>(October 2007)</i></small> <small class="hide-when-compact"><i>(<a href="/wiki/Help:Maintenance_template_removal" title="Help:Maintenance template removal">Learn how and when to remove this template message</a>)</i></small></span></td>
+</tr>
+</table>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Wiens_law.svg"><img alt="" class="thumbimage" data-file-height="600" data-file-width="720" height="250" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wiens_law.svg/300px-Wiens_law.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wiens_law.svg/450px-Wiens_law.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a2/Wiens_law.svg/600px-Wiens_law.svg.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Wiens_law.svg" title="Enlarge"></a></div>
+The peak wavelength and total radiated amount vary with temperature according to <a href="/wiki/Wien%27s_displacement_law" title="Wien's displacement law">Wien's displacement law</a>. Although this shows relatively high temperatures, the same relationships hold true for any temperature down to absolute zero. Visible light is between 380 and 750 nm.</div>
+</div>
+</div>
+<div class="thumb tright">
+<div class="thumbinner" style="width:222px;"><a class="image" href="/wiki/File:Hot_metalwork.jpg"><img alt="" class="thumbimage" data-file-height="1163" data-file-width="1600" height="160" src="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hot_metalwork.jpg/220px-Hot_metalwork.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hot_metalwork.jpg/330px-Hot_metalwork.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/a/a9/Hot_metalwork.jpg/440px-Hot_metalwork.jpg 2x" width="220"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Hot_metalwork.jpg" title="Enlarge"></a></div>
+Thermal radiation in visible light can be seen on this hot metalwork. Its emission in the <a href="/wiki/Infrared" title="Infrared">infrared</a> is invisible to the human eye and the camera the image was taken with, but an <a class="mw-redirect" href="/wiki/Infrared_camera" title="Infrared camera">infrared camera</a> could show it (See <a href="/wiki/Thermography" title="Thermography">Thermography</a>).</div>
+</div>
+</div>
+<p><b>Thermal radiation</b> is <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic radiation</a> generated by the <a class="mw-redirect" href="/wiki/Thermal_motion" title="Thermal motion">thermal motion</a> of <a class="mw-redirect" href="/wiki/Charged_particles" title="Charged particles">charged particles</a> in <a href="/wiki/Matter" title="Matter">matter</a>. All matter with a <a href="/wiki/Temperature" title="Temperature">temperature</a> greater than <a href="/wiki/Absolute_zero" title="Absolute zero">absolute zero</a> emits thermal radiation. When the temperature of a body is greater than absolute zero, inter-atomic collisions cause the <a href="/wiki/Kinetic_energy" title="Kinetic energy">kinetic energy</a> of the atoms or molecules to change. This results in charge-acceleration and/or dipole oscillation which produces electromagnetic radiation, and the wide spectrum of radiation reflects the wide spectrum of energies and accelerations that occur even at a single temperature.</p>
+<p>Examples of thermal radiation include the <a class="mw-redirect" href="/wiki/Visible_light" title="Visible light">visible light</a> and <a class="mw-redirect" href="/wiki/Infrared_light" title="Infrared light">infrared light</a> emitted by an <a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">incandescent light bulb</a>, the infrared radiation emitted by animals that is detectable with an <a class="mw-redirect" href="/wiki/Infrared_camera" title="Infrared camera">infrared camera</a>, and the <a class="mw-redirect" href="/wiki/Cosmic_microwave_background_radiation" title="Cosmic microwave background radiation">cosmic microwave background radiation</a>. Thermal radiation is different from <a class="mw-redirect" href="/wiki/Thermal_convection" title="Thermal convection">thermal convection</a> and <a href="/wiki/Thermal_conduction" title="Thermal conduction">thermal conduction</a>—a person near a raging bonfire feels <a href="/wiki/Radiant_heating" title="Radiant heating">radiant heating</a> from the fire, even if the surrounding air is very cold.</p>
+<p><a href="/wiki/Sunlight" title="Sunlight">Sunlight</a> is part of thermal radiation generated by the hot <a href="/wiki/Plasma_(physics)" title="Plasma (physics)">plasma</a> of the <a href="/wiki/Sun" title="Sun">Sun</a>. The <a href="/wiki/Earth" title="Earth">Earth</a> also emits thermal radiation, but at a much lower <a href="/wiki/Intensity_(physics)" title="Intensity (physics)">intensity</a> and different <a href="/wiki/Electromagnetic_spectrum" title="Electromagnetic spectrum">spectral distribution</a> (infrared rather than <a class="mw-redirect" href="/wiki/Visible_light" title="Visible light">visible</a>) because it is cooler. The Earth's absorption of solar radiation, followed by its outgoing thermal radiation are the two most important processes that determine the temperature and climate of the Earth.</p>
+<p>If a radiation-emitting object meets the physical characteristics of a <a href="/wiki/Black_body" title="Black body">black body</a> in <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">thermodynamic equilibrium</a>, the radiation is called blackbody radiation.<sup class="reference" id="cite_ref-1"><a href="#cite_note-1">[1]</a></sup> <a href="/wiki/Planck%27s_law" title="Planck's law">Planck's law</a> describes the spectrum of blackbody radiation, which depends only on the object's temperature. <a href="/wiki/Wien%27s_displacement_law" title="Wien's displacement law">Wien's displacement law</a> determines the most likely frequency of the emitted radiation, and the <a href="/wiki/Stefan%E2%80%93Boltzmann_law" title="Stefan–Boltzmann law">Stefan–Boltzmann law</a> gives the radiant intensity.<sup class="reference" id="cite_ref-2"><a href="#cite_note-2">[2]</a></sup></p>
+<p>Thermal radiation is one of the fundamental mechanisms of <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a>.</p>
+<p></p>
+<div class="toc" id="toc">
+<div class="toctitle">
+<h2>Contents</h2>
+</div>
+<ul>
+<li class="toclevel-1 tocsection-1"><a href="#Overview"><span class="tocnumber">1</span> <span class="toctext">Overview</span></a>
+<ul>
+<li class="toclevel-2 tocsection-2"><a href="#Surface_effects"><span class="tocnumber">1.1</span> <span class="toctext">Surface effects</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-3"><a href="#Properties"><span class="tocnumber">2</span> <span class="toctext">Properties</span></a>
+<ul>
+<li class="toclevel-2 tocsection-4"><a href="#Near-field_and_far-field"><span class="tocnumber">2.1</span> <span class="toctext">Near-field and far-field</span></a></li>
+<li class="toclevel-2 tocsection-5"><a href="#Subjective_color_to_the_eye_of_a_black_body_thermal_radiator"><span class="tocnumber">2.2</span> <span class="toctext">Subjective color to the eye of a black body thermal radiator</span></a></li>
+<li class="toclevel-2 tocsection-6"><a href="#Selected_radiant_heat_fluxes"><span class="tocnumber">2.3</span> <span class="toctext">Selected radiant heat fluxes</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-7"><a href="#Interchange_of_energy"><span class="tocnumber">3</span> <span class="toctext">Interchange of energy</span></a></li>
+<li class="toclevel-1 tocsection-8"><a href="#Radiative_power"><span class="tocnumber">4</span> <span class="toctext">Radiative power</span></a>
+<ul>
+<li class="toclevel-2 tocsection-9"><a href="#Constants"><span class="tocnumber">4.1</span> <span class="toctext">Constants</span></a></li>
+<li class="toclevel-2 tocsection-10"><a href="#Variables"><span class="tocnumber">4.2</span> <span class="toctext">Variables</span></a></li>
+</ul>
+</li>
+<li class="toclevel-1 tocsection-11"><a href="#Radiative_heat_transfer"><span class="tocnumber">5</span> <span class="toctext">Radiative heat transfer</span></a></li>
+<li class="toclevel-1 tocsection-12"><a href="#See_also"><span class="tocnumber">6</span> <span class="toctext">See also</span></a></li>
+<li class="toclevel-1 tocsection-13"><a href="#References"><span class="tocnumber">7</span> <span class="toctext">References</span></a></li>
+<li class="toclevel-1 tocsection-14"><a href="#Further_reading"><span class="tocnumber">8</span> <span class="toctext">Further reading</span></a></li>
+<li class="toclevel-1 tocsection-15"><a href="#External_links"><span class="tocnumber">9</span> <span class="toctext">External links</span></a></li>
+</ul>
+</div>
+<p></p>
+<h2><span class="mw-headline" id="Overview">Overview</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=1" title="Edit section: Overview">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>Thermal radiation is the emission of <a class="mw-redirect" href="/wiki/Electromagnetic_waves" title="Electromagnetic waves">electromagnetic waves</a> from all matter that has a <a href="/wiki/Temperature" title="Temperature">temperature</a> greater than <a href="/wiki/Absolute_zero" title="Absolute zero">absolute zero</a>.<sup class="reference" id="cite_ref-blundell_3-0"><a href="#cite_note-blundell-3">[3]</a></sup> It represents a conversion of <a href="/wiki/Thermal_energy" title="Thermal energy">thermal energy</a> into <a class="mw-redirect" href="/wiki/Electromagnetic_energy" title="Electromagnetic energy">electromagnetic energy</a>. Thermal energy consists of the kinetic energy of random movements of atoms and molecules in matter. All matter with a temperature by definition is composed of particles which have kinetic energy, and which interact with each other. These atoms and molecules are composed of charged particles, i.e., <a href="/wiki/Proton" title="Proton">protons</a> and <a href="/wiki/Electron" title="Electron">electrons</a>, and kinetic interactions among matter particles result in charge-acceleration and <a class="new" href="/w/index.php?title=Dipole-oscillation&amp;action=edit&amp;redlink=1" title="Dipole-oscillation (page does not exist)">dipole-oscillation</a>. This results in the electrodynamic generation of coupled electric and magnetic fields, resulting in the emission of <a href="/wiki/Photon" title="Photon">photons</a>, radiating energy away from the body through its surface boundary. Electromagnetic radiation, including light, does not require the presence of matter to propagate and travels in the <a href="/wiki/Vacuum" title="Vacuum">vacuum</a> of space infinitely far if unobstructed.</p>
+<p>The characteristics of thermal radiation depend on various properties of the surface it is emanating from, including its temperature, its spectral <a href="/wiki/Absorptance" title="Absorptance">absorptivity</a> and spectral emissive power, as expressed by <a href="/wiki/Kirchhoff%27s_law_of_thermal_radiation" title="Kirchhoff's law of thermal radiation">Kirchhoff's law</a>.<sup class="reference" id="cite_ref-blundell_3-1"><a href="#cite_note-blundell-3">[3]</a></sup> The radiation is not monochromatic, i.e., it does not consist of just a single frequency, but comprises a continuous dispersion of photon energies, its characteristic spectrum. If the radiating body and its surface are in <a href="/wiki/Thermodynamic_equilibrium" title="Thermodynamic equilibrium">thermodynamic equilibrium</a> and the surface has perfect absorptivity at all wavelengths, it is characterized as a <a href="/wiki/Black_body" title="Black body">black body</a>. A black body is also a perfect emitter. The radiation of such perfect emitters is called <a href="/wiki/Black-body_radiation" title="Black-body radiation">black-body radiation</a>. The ratio of any body's emission relative to that of a black body is the body's <a href="/wiki/Emissivity" title="Emissivity">emissivity</a>, so that a black body has an emissivity of unity.</p>
+<p>Absorptivity, <a class="mw-redirect" href="/wiki/Reflectivity" title="Reflectivity">reflectivity</a>, and emissivity of all bodies are dependent on the wavelength of the radiation. The temperature determines the wavelength distribution of the electromagnetic radiation. For example, fresh snow, which is highly reflective to visible light (reflectivity about 0.90), appears white due to reflecting sunlight with a peak wavelength of about 0.5 micrometers. Its emissivity at a temperature of about −5 °C (23 °F), peak wavelength of about 12 micrometers, is 0.99.</p>
+<p>The distribution of power that a black body emits with varying frequency is described by <a href="/wiki/Planck%27s_law" title="Planck's law">Planck's law</a>. At any given temperature, there is a frequency <i>f<sub>max</sub></i> at which the power emitted is a maximum. Wien's displacement law, and the fact that the frequency is inversely proportional to the wavelength, indicates that the peak frequency <i>f<sub>max</sub></i> is proportional to the absolute temperature <i>T</i> of the black body. The photosphere of the sun, at a temperature of approximately 6000 K, emits radiation principally in the (humanly) visible portion of the electromagnetic spectrum. Earth's atmosphere is partly transparent to visible light, and the light reaching the surface is absorbed or reflected. Earth's surface emits the absorbed radiation, approximating the behavior of a black body at 300 K with spectral peak at <i>f<sub>max</sub></i>. At these lower frequencies, the atmosphere is largely opaque and radiation from Earth's surface is absorbed or scattered by the atmosphere. Though some radiation escapes into space, most is absorbed and then re-emitted by atmospheric gases. It is this spectral selectivity of the atmosphere that is responsible for the planetary <a href="/wiki/Greenhouse_effect" title="Greenhouse effect">greenhouse effect</a>, contributing to <a href="/wiki/Global_warming" title="Global warming">global warming</a> and <a href="/wiki/Climate_change" title="Climate change">climate change</a> in general (but also critically contributing to climate stability when the composition and properties of the atmosphere are not changing).</p>
+<p>The <a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">incandescent light bulb</a> has a spectrum overlapping the black body spectra of the sun and the earth. Some of the photons emitted by a tungsten light bulb filament at <a href="/wiki/Color_temperature" title="Color temperature">3000 K</a> are in the visible spectrum. Most of the energy is associated with photons of longer wavelengths; these do not help a person see, but still transfer heat to the environment, as can be deduced empirically by observing an incandescent light bulb. Whenever EM radiation is emitted and then absorbed, heat is transferred. This principle is used in <a href="/wiki/Microwave_oven" title="Microwave oven">microwave ovens</a>, <a href="/wiki/Laser_cutting" title="Laser cutting">laser cutting</a>, and <a class="mw-redirect" href="/wiki/Electrolysis_(cosmetology)" title="Electrolysis (cosmetology)">RF hair removal</a>.</p>
+<p>Unlike conductive and convective forms of heat transfer, thermal radiation can be concentrated in a tiny spot by using reflecting mirrors. <a class="mw-redirect" href="/wiki/Concentrating_solar_power" title="Concentrating solar power">Concentrating solar power</a> takes advantage of this fact. In many such systems, mirrors are employed to concentrate sunlight into a smaller area. Instead of mirrors, <a href="/wiki/Fresnel_lens#Generating_solar_power" title="Fresnel lens">Fresnel lenses</a> can also be used to concentrate heat flux. (In principle, any kind of lens can be used, but only the Fresnel lens design is practical for very large lenses.) Either method can be used to quickly vaporize water into steam using sunlight. For example, the sunlight reflected from mirrors heats the <a class="mw-redirect" href="/wiki/PS10_Solar_Power_Plant" title="PS10 Solar Power Plant">PS10 Solar Power Plant</a>, and during the day it can heat water to 285 °C (558.15 K) or 545 °F.</p>
+<h3><span class="mw-headline" id="Surface_effects">Surface effects</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=2" title="Edit section: Surface effects">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Lighter colors and also whites and metallic substances absorb less illuminating light, and thus heat up less; but otherwise color makes small difference as regards heat transfer between an object at everyday temperatures and its surroundings, since the dominant emitted wavelengths are nowhere near the visible spectrum, but rather in the far infrared. Emissivities at those wavelengths have little to do with visual emissivities (visible colors); in the far infra-red, most objects have high emissivities. Thus, except in sunlight, the color of clothing makes little difference as regards warmth; likewise, paint color of houses makes little difference to warmth except when the painted part is sunlit.</p>
+<p>The main exception to this is shiny metal surfaces, which have low emissivities both in the visible wavelengths and in the far infrared. Such surfaces can be used to reduce heat transfer in both directions; an example of this is the <a href="/wiki/Multi-layer_insulation" title="Multi-layer insulation">multi-layer insulation</a> used to insulate spacecraft.</p>
+<p><a class="mw-redirect" href="/wiki/Low-emissivity" title="Low-emissivity">Low-emissivity</a> windows in houses are a more complicated technology, since they must have low emissivity at thermal wavelengths while remaining transparent to visible light.</p>
+<p>Nanostructures with spectrally selective thermal emittance properties offer numerous technological applications for energy generation and efficiency, e.g., for cooling photovoltaic cells and buildings. These applications require high emittance in the frequency range corresponding to the atmospheric transparency window in 8 to 13 micron wavelength range. A selective emitter radiating strongly in this range is thus exposed to the clear sky, enabling the use of the outer space as a very low temperature heat sink.</p>
+<p>Personalized cooling technology is another example of an application where optical spectral selectivity can be beneficial. Conventional personal cooling is typically achieved through heat conduction and convection. However, the human body is a very efficient emitter of IR radiation, which provides additional cooling mechanism. Most conventional fabrics are opaque to IR radiation and block thermal emission from the body to the environment. Fabrics for personalized cooling applications have been proposed that enable IR transmission to directly pass through clothing, while being opaque at visible wavelengths. Fabrics that are transparent in the infrared can radiate body heat at rates that will significantly reduce the burden on power-hungry air-conditioning systems.</p>
+<h2><span class="mw-headline" id="Properties">Properties</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=3" title="Edit section: Properties">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>There are four main properties that characterize thermal radiation (in the limit of the far field):</p>
+<ul>
+<li>Thermal radiation emitted by a body at any temperature consists of a wide range of frequencies. The frequency distribution is given by <a class="mw-redirect" href="/wiki/Planck%27s_law_of_black-body_radiation" title="Planck's law of black-body radiation">Planck's law of black-body radiation</a> for an idealized emitter as shown in the diagram at top.</li>
+<li>The dominant frequency (or color) range of the emitted radiation shifts to higher frequencies as the temperature of the emitter increases. For example, a <i>red hot</i> object radiates mainly in the long wavelengths (red and orange) of the visible band. If it is heated further, it also begins to emit discernible amounts of green and blue light, and the spread of frequencies in the entire visible range cause it to appear white to the human eye; it is <i>white hot</i>. Even at a white-hot temperature of 2000 K, 99% of the energy of the radiation is still in the infrared. This is determined by <a href="/wiki/Wien%27s_displacement_law" title="Wien's displacement law">Wien's displacement law</a>. In the diagram the peak value for each curve moves to the left as the temperature increases.</li>
+<li>The total amount of radiation of all frequencies increases steeply as the temperature rises; it grows as <i>T</i><sup>4</sup>, where <i>T</i> is the absolute temperature of the body. An object at the temperature of a kitchen oven, about twice the room temperature on the absolute temperature scale (600 K vs. 300 K) radiates 16 times as much power per unit area. An object at the temperature of the filament in an <a href="/wiki/Incandescent_light_bulb" title="Incandescent light bulb">incandescent light bulb</a>—roughly 3000 K, or 10 times room temperature—radiates 10,000 times as much energy per unit area. The total radiative intensity of a black body rises as the fourth power of the absolute temperature, as expressed by the <a href="/wiki/Stefan%E2%80%93Boltzmann_law" title="Stefan–Boltzmann law">Stefan–Boltzmann law</a>. In the plot, the area under each curve grows rapidly as the temperature increases.</li>
+<li>The rate of electromagnetic radiation emitted at a given frequency is proportional to the amount of absorption that it would experience by the source. Thus, a surface that absorbs more red light thermally radiates more red light. This principle applies to all properties of the wave, including <a href="/wiki/Wavelength" title="Wavelength">wavelength</a> (color), direction, <a href="/wiki/Polarization_(waves)" title="Polarization (waves)">polarization</a>, and even <a href="/wiki/Coherence_(physics)" title="Coherence (physics)">coherence</a>, so that it is quite possible to have thermal radiation which is polarized, coherent, and directional, though polarized and coherent forms are fairly rare in nature far from sources (in terms of wavelength). See section below for more on this qualification.</li>
+</ul>
+<h3><span class="mw-headline" id="Near-field_and_far-field">Near-field and far-field</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=4" title="Edit section: Near-field and far-field">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The general properties of thermal radiation as described by the Planck's law apply if the linear dimension of all parts considered, as well as radii of curvature of all surfaces are large compared with the wavelength of the ray considered' (typically from 8-25 micrometres for the emitter at 300 K). Indeed, thermal radiation as discussed above takes only radiating waves (far-field, or <a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">electromagnetic radiation</a>) into account. A more sophisticated framework involving electromagnetic theory must be used for smaller distances from the thermal source or surface (<a class="new" href="/w/index.php?title=Near-field_thermal_radiation&amp;action=edit&amp;redlink=1" title="Near-field thermal radiation (page does not exist)">near-field thermal radiation</a>). For example, although <a href="/wiki/Near_and_far_field" title="Near and far field">far-field</a> thermal radiation at distances from surfaces of more than one wavelength is generally not coherent to any extent, near-field thermal radiation (i.e., radiation at distances of a fraction of various radiation wavelengths) may exhibit a degree of both temporal and spatial coherence.<sup class="reference" id="cite_ref-4"><a href="#cite_note-4">[4]</a></sup></p>
+<p>Planck's law of thermal radiation has been challenged in recent decades by predictions and successful demonstrations of the radiative heat transfer between objects separated by nanoscale gaps that deviate significantly from the law predictions. This deviation is especially strong (up to several orders in magnitude) when the emitter and absorber support surface polariton modes that can couple through the gap separating cold and hot objects. However, to take advantage of the surface-polariton-mediated near-field radiative heat transfer, the two objects need to be separated by ultra-narrow gaps on the order of microns or even nanometers. This limitation significantly complicates practical device designs.</p>
+<p>Another way to modify the object thermal emission spectrum is by reducing the dimensionality of the emitter itself. This approach builds upon the concept of confining electrons in quantum wells, wires and dots, and tailors thermal emission by engineering confined photon states in two- and three-dimensional potential traps, including wells, wires, and dots. Such spatial confinement concentrates photon states and enhances thermal emission at select frequencies. To achieve the required level of photon confinement, the dimensions of the radiating objects should be on the order of or below the thermal wavelength predicted by Planck's law. Most importantly, the emission spectrum of thermal wells, wires and dots deviates from Planck's law predictions not only in the near field, but also in the far field, which significantly expands the range of their applications.</p>
+<h3><span class="mw-headline" id="Subjective_color_to_the_eye_of_a_black_body_thermal_radiator">Subjective color to the eye of a black body thermal radiator</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=5" title="Edit section: Subjective color to the eye of a black body thermal radiator">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<table class="wikitable">
+<tr>
+<th>°C (°F)</th>
+<th>Subjective color<sup class="reference" id="cite_ref-5"><a href="#cite_note-5">[5]</a></sup></th>
+</tr>
+<tr>
+<td>480 °C (896 °F)</td>
+<td>faint red glow</td>
+</tr>
+<tr>
+<td>580 °C (1,076 °F)</td>
+<td>dark red</td>
+</tr>
+<tr>
+<td>730 °C (1,350 °F)</td>
+<td>bright red, slightly orange</td>
+</tr>
+<tr>
+<td>930 °C (1,710 °F)</td>
+<td>bright orange</td>
+</tr>
+<tr>
+<td>1,100 °C (2,010 °F)</td>
+<td>pale yellowish orange</td>
+</tr>
+<tr>
+<td>1,300 °C (2,370 °F)</td>
+<td>yellowish white</td>
+</tr>
+<tr>
+<td>&gt; 1,400 °C (2,550 °F)</td>
+<td>white (yellowish if seen from a distance through atmosphere)</td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Selected_radiant_heat_fluxes">Selected radiant heat fluxes</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=6" title="Edit section: Selected radiant heat fluxes">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>The time to a damage from exposure to radiative heat is a function of the rate of delivery of the heat.<sup class="reference" id="cite_ref-6"><a href="#cite_note-6">[6]</a></sup> Radiative heat flux and effects:<sup class="reference" id="cite_ref-7"><a href="#cite_note-7">[7]</a></sup> (1 W/cm<sup>2</sup> = 10 kW/m<sup>2</sup>)</p>
+<table class="wikitable">
+<tr>
+<th>kW/m<sup>2</sup></th>
+<th>Effect</th>
+</tr>
+<tr>
+<td>170</td>
+<td>Maximum flux measured in a post-<a href="/wiki/Flashover" title="Flashover">flashover</a> compartment</td>
+</tr>
+<tr>
+<td>80</td>
+<td>Thermal Protective Performance test for <a href="/wiki/Personal_protective_equipment" title="Personal protective equipment">personal protective equipment</a></td>
+</tr>
+<tr>
+<td>52</td>
+<td><a href="/wiki/Fiberboard" title="Fiberboard">Fiberboard</a> ignites at 5 seconds</td>
+</tr>
+<tr>
+<td>29</td>
+<td><a href="/wiki/Wood" title="Wood">Wood</a> ignites, given time</td>
+</tr>
+<tr>
+<td>20</td>
+<td>Typical beginning of <a href="/wiki/Flashover" title="Flashover">flashover</a> at floor level of a residential room</td>
+</tr>
+<tr>
+<td>16</td>
+<td><a href="/wiki/Human_skin" title="Human skin">Human skin</a>: sudden pain and second-degree <a href="/wiki/Burn" title="Burn">burn</a> <a href="/wiki/Blister" title="Blister">blisters</a> after 5 seconds</td>
+</tr>
+<tr>
+<td>12.5</td>
+<td><a href="/wiki/Wood" title="Wood">Wood</a> produces ignitable volatiles by <a href="/wiki/Pyrolysis" title="Pyrolysis">pyrolysis</a></td>
+</tr>
+<tr>
+<td>10.4</td>
+<td>Human skin: Pain after 3 seconds, second-degree burn blisters after 9 seconds</td>
+</tr>
+<tr>
+<td>6.4</td>
+<td>Human skin: second-degree burn blisters after 18 seconds</td>
+</tr>
+<tr>
+<td>4.5</td>
+<td>Human skin: second-degree burn blisters after 30 seconds</td>
+</tr>
+<tr>
+<td>2.5</td>
+<td>Human skin: burns after prolonged exposure, radiant flux exposure typically encountered during <a href="/wiki/Firefighting" title="Firefighting">firefighting</a></td>
+</tr>
+<tr>
+<td>1.4</td>
+<td><a href="/wiki/Sunlight" title="Sunlight">Sunlight</a>, <a href="/wiki/Sunburn" title="Sunburn">sunburns</a> potentially within 30 minutes</td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Interchange_of_energy">Interchange of energy</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=7" title="Edit section: Interchange of energy">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:172px;"><a class="image" href="/wiki/File:Radiant_heat_panel_nrc_ottawa.jpg"><img alt="" class="thumbimage" data-file-height="3544" data-file-width="2323" height="259" src="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Radiant_heat_panel_nrc_ottawa.jpg/170px-Radiant_heat_panel_nrc_ottawa.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Radiant_heat_panel_nrc_ottawa.jpg/255px-Radiant_heat_panel_nrc_ottawa.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/d/d4/Radiant_heat_panel_nrc_ottawa.jpg/340px-Radiant_heat_panel_nrc_ottawa.jpg 2x" width="170"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Radiant_heat_panel_nrc_ottawa.jpg" title="Enlarge"></a></div>
+Radiant heat panel for testing precisely quantified energy exposures at <a href="/wiki/National_Research_Council_(Canada)" title="National Research Council (Canada)">National Research Council</a>, near <a href="/wiki/Ottawa" title="Ottawa">Ottawa</a>, <a href="/wiki/Ontario" title="Ontario">Ontario</a>, Canada</div>
+</div>
+</div>
+<p>Thermal radiation is one of the principal mechanisms of <a href="/wiki/Heat_transfer" title="Heat transfer">heat transfer</a>. It entails the emission of a spectrum of electromagnetic radiation due to an object's temperature. Other mechanisms are <a href="/wiki/Convection" title="Convection">convection</a> and <a class="mw-redirect" href="/wiki/Heat_conduction" title="Heat conduction">conduction</a>. The interplay of energy exchange by thermal radiation is characterized by the following equation:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>+</mo>
+<mi>ρ<!-- ρ --></mi>
+<mo>+</mo>
+<mi>τ<!-- τ --></mi>
+<mo>=</mo>
+<mn>1.</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha +\rho +\tau =1.\,}</annotation>
+</semantics>
+</math></span><img alt="\alpha +\rho +\tau =1.\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/61c4a5e42e3cfa2c20d33c8fa23ee82f4c6ae0ec" style="vertical-align: -0.838ex; width:14.951ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>Here, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha \,}</annotation>
+</semantics>
+</math></span><img alt="\alpha \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/652e1fd9c3a2ca00e1a517783cdbb0e18e4181f8" style="vertical-align: -0.338ex; width:1.885ex; height:1.676ex;"/></span> represents the spectral absorption component, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ρ<!-- ρ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \rho \,}</annotation>
+</semantics>
+</math></span><img alt="\rho \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a1d651c28959a0f15127c097ff4488b123d9e708" style="vertical-align: -0.838ex; width:1.599ex; height:2.176ex;"/></span> spectral reflection component and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>τ<!-- τ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \tau \,}</annotation>
+</semantics>
+</math></span><img alt="\tau \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8661cd2a09f95bb46a58ad86eebc9c7d81a31bea" style="vertical-align: -0.338ex; width:1.599ex; height:1.676ex;"/></span> the spectral transmission component. These elements are a function of the wavelength (<span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>λ<!-- λ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lambda \,}</annotation>
+</semantics>
+</math></span><img alt="\lambda \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/988b7b8a22b11081bc97378c30391f573535c21c" style="vertical-align: -0.338ex; width:1.753ex; height:2.176ex;"/></span>) of the electromagnetic radiation. The spectral absorption is equal to the <a href="/wiki/Emissivity" title="Emissivity">emissivity</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϵ<!-- ϵ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \epsilon \,}</annotation>
+</semantics>
+</math></span><img alt="\epsilon \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/587ec0778f84a86a9567b2e296aec908d895ff21" style="vertical-align: -0.338ex; width:1.342ex; height:1.676ex;"/></span>; this relation is known as <a href="/wiki/Kirchhoff%27s_law_of_thermal_radiation" title="Kirchhoff's law of thermal radiation">Kirchhoff's law of thermal radiation</a>. An object is called a black body if, for all frequencies, the following formula applies:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>α<!-- α --></mi>
+<mo>=</mo>
+<mi>ϵ<!-- ϵ --></mi>
+<mo>=</mo>
+<mn>1.</mn>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \alpha =\epsilon =1.\,}</annotation>
+</semantics>
+</math></span><img alt="\alpha =\epsilon =1.\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/d8d0ee88b060a992903ca46e50c4d325778fe5e2" style="vertical-align: -0.338ex; width:10.888ex; height:2.176ex;"/></span></dd>
+</dl>
+<p>In a practical situation and room-temperature setting, humans lose considerable energy due to thermal radiation. The energy lost by emitting <a href="/wiki/Infrared" title="Infrared">infrared</a> radiation is partially regained by absorbing the heat flow due to conduction from surrounding objects, and the remainder resulting from generated heat through metabolism. Human skin has an emissivity of very close to 1.0.<sup class="reference" id="cite_ref-8"><a href="#cite_note-8">[8]</a></sup> Using the formulas below shows a human, having roughly <span class="nowrap">2 square meter</span> in surface area, and a temperature of about 307 <a href="/wiki/Kelvin" title="Kelvin">K</a>, continuously radiates approximately 1000 watts. If people are indoors, surrounded by surfaces at 296 K, they receive back about 900 watts from the wall, ceiling, and other surroundings, so the net loss is only about 100 watts. These heat transfer estimates are highly dependent on extrinsic variables, such as wearing clothes, i.e. decreasing total thermal circuit conductivity, therefore reducing total output heat flux. Only truly <i>gray</i> systems (relative equivalent emissivity/absorptivity and no directional transmissivity dependence in <i>all</i> control volume bodies considered) can achieve reasonable steady-state heat flux estimates through the Stefan-Boltzmann law. Encountering this "ideally calculable" situation is almost impossible (although common engineering procedures surrender the dependency of these unknown variables and "assume" this to be the case). Optimistically, these "gray" approximations will get close to real solutions, as most divergence from Stefan-Boltzmann solutions is very small (especially in most <a href="/wiki/Standard_conditions_for_temperature_and_pressure" title="Standard conditions for temperature and pressure">STP</a> lab controlled environments).</p>
+<p>If objects appear white (reflective in the <a class="mw-redirect" href="/wiki/Visual_spectrum" title="Visual spectrum">visual spectrum</a>), they are not necessarily equally reflective (and thus non-emissive) in the thermal infrared. Most household radiators are painted white but this is sensible given that they are not hot enough to radiate any significant amount of heat, and are not designed as thermal radiators at all - they are actually convectors, and painting them matt black would make little difference to their efficacy. Acrylic and urethane based white paints have 93% blackbody radiation efficiency at room temperature<sup class="reference" id="cite_ref-9"><a href="#cite_note-9">[9]</a></sup> (meaning the term "black body" does not always correspond to the visually perceived color of an object). These materials that do not follow the "black color = high emissivity/absorptivity" caveat will most likely have functional spectral emissivity/absorptivity dependence.</p>
+<p>Calculation of radiative heat transfer between groups of object, including a 'cavity' or 'surroundings' requires solution of a set of <a href="/wiki/Simultaneous_equations" title="Simultaneous equations">simultaneous equations</a> using the <a class="mw-redirect" href="/wiki/Radiosity_(heat_transfer)" title="Radiosity (heat transfer)">radiosity</a> method. In these calculations, the geometrical configuration of the problem is distilled to a set of numbers called <a href="/wiki/View_factor" title="View factor">view factors</a>, which give the proportion of radiation leaving any given surface that hits another specific surface. These calculations are important in the fields of <a href="/wiki/Solar_thermal_energy" title="Solar thermal energy">solar thermal energy</a>, <a href="/wiki/Boiler" title="Boiler">boiler</a> and <a href="/wiki/Furnace" title="Furnace">furnace</a> design and <a href="/wiki/Ray_tracing_(graphics)" title="Ray tracing (graphics)">raytraced computer graphics</a>.</p>
+<div class="thumb tmulti tright">
+<div class="thumbinner" style="width:204px;max-width:204px">
+<div class="tsingle" style="margin:1px;width:202px;max-width:202px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Human-Infrared.jpg"><img alt="" data-file-height="214" data-file-width="355" height="121" src="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Human-Infrared.jpg/200px-Human-Infrared.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/4/44/Human-Infrared.jpg/300px-Human-Infrared.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/4/44/Human-Infrared.jpg 2x" width="200"/></a></div>
+</div>
+<div class="tsingle" style="margin:1px;width:162px;max-width:162px">
+<div class="thumbimage"><a class="image" href="/wiki/File:Human-Visible.jpg"><img alt="" data-file-height="211" data-file-width="289" height="117" src="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Human-Visible.jpg/160px-Human-Visible.jpg" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/9/9b/Human-Visible.jpg/240px-Human-Visible.jpg 1.5x, //upload.wikimedia.org/wikipedia/commons/9/9b/Human-Visible.jpg 2x" width="160"/></a></div>
+</div>
+<div class="thumbcaption" style="clear:left;text-align:left;background-color:transparent">A comparison of a thermal image (top) and an ordinary photograph (bottom) shows that a trash bag is transparent but glass (the man's spectacles) is opaque in long-wavelength infrared.</div>
+</div>
+</div>
+<p>A selective surface can be used when energy is being extracted from the sun. For instance, when a green house is made, most of the roof and walls are made out of glass. Glass is transparent in the visible (approximately 0.4 µm&lt;λ&lt;0.8 µm) and <a class="mw-redirect" href="/wiki/Near-infrared" title="Near-infrared">near-infrared</a> wavelengths, but opaque to mid- to far-wavelength infrared (approximately λ&gt;3 µm).<sup class="reference" id="cite_ref-ReferenceA_10-0"><a href="#cite_note-ReferenceA-10">[10]</a></sup><sup class="reference" id="cite_ref-11"><a href="#cite_note-11">[11]</a></sup> Therefore, glass lets in radiation in the visible range, allowing us to be able to see through it, but does not let out radiation that is emitted from objects at or close to room temperature. This traps what we feel as heat. This is known as the greenhouse effect and can be observed by getting into a car that has been sitting in the sun<sup class="noprint Inline-Template Template-Fact" style="white-space:nowrap;">[<i><a href="/wiki/Wikipedia:Citation_needed" title="Wikipedia:Citation needed"><span title="This claim needs references to reliable sources. (March 2017)">citation needed</span></a></i>]</sup>. Selective surfaces can also be used on solar collectors. We can find out how much help a selective surface coating is by looking at the equilibrium temperature of a plate that is being heated through solar radiation. If the plate is receiving a solar irradiation of 1350 W/m² (minimum is 1325 W/m² on July 4 and maximum is 1418 W/m² on January 3) from the sun the temperature of the plate where the radiation leaving is equal to the radiation being received by the plate is 393 K (248 °F). If the plate has a selective surface with an emissivity of 0.9 and a cut off wavelength of 2.0 µm, the equilibrium temperature is approximately 1250 K (1790 °F). The calculations were made neglecting convective heat transfer and neglecting the solar irradiation absorbed in the clouds/atmosphere for simplicity, the theory is still the same for an actual problem.</p>
+<p>To reduce the heat transfer from a surface, such as a glass window, a clear reflective film with a low emissivity coating can be placed on the interior of the surface. “Low-emittance (low-E) coatings are microscopically thin, virtually invisible, metal or metallic oxide layers deposited on a window or skylight glazing surface primarily to reduce the U-factor by suppressing radiative heat flow”.<sup class="reference" id="cite_ref-12"><a href="#cite_note-12">[12]</a></sup> By adding this coating we are limiting the amount of radiation that leaves the window thus increasing the amount of heat that is retained inside the window.</p>
+<h2><span class="mw-headline" id="Radiative_power">Radiative power</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=8" title="Edit section: Radiative power">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="thumb tright">
+<div class="thumbinner" style="width:302px;"><a class="image" href="/wiki/File:Emissive_Power.svg"><img alt="" class="thumbimage" data-file-height="474" data-file-width="676" height="210" src="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Emissive_Power.svg/300px-Emissive_Power.svg.png" srcset="//upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Emissive_Power.svg/450px-Emissive_Power.svg.png 1.5x, //upload.wikimedia.org/wikipedia/commons/thumb/b/b0/Emissive_Power.svg/600px-Emissive_Power.svg.png 2x" width="300"/></a>
+<div class="thumbcaption">
+<div class="magnify"><a class="internal" href="/wiki/File:Emissive_Power.svg" title="Enlarge"></a></div>
+Power emitted by a black body plotted against the temperature according to the Stefan–Boltzmann law.</div>
+</div>
+</div>
+<p>Thermal radiation power of a black body per unit area of radiating surface per unit of <a href="/wiki/Solid_angle" title="Solid angle">solid angle</a> and per unit <a href="/wiki/Frequency" title="Frequency">frequency</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.243ex; height:1.676ex;"/></span> is given by <a href="/wiki/Planck%27s_law" title="Planck's law">Planck's law</a> as:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>u</mi>
+<mo stretchy="false">(</mo>
+<mi>ν<!-- ν --></mi>
+<mo>,</mo>
+<mi>T</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mrow>
+<mn>2</mn>
+<mi>h</mi>
+<msup>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>3</mn>
+</mrow>
+</msup>
+</mrow>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mi>T</mi>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle u(\nu ,T)={\frac {2h\nu ^{3}}{c^{2}}}\cdot {\frac {1}{e^{h\nu /k_{B}T}-1}}}</annotation>
+</semantics>
+</math></span><img alt="u(\nu ,T)={\frac  {2h\nu ^{3}}{c^{2}}}\cdot {\frac  1{e^{{h\nu /k_{B}T}}-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/1820de2c381eabed581f8acbcee60f7f66d60ace" style="vertical-align: -2.338ex; width:29.65ex; height:6.176ex;"/></span></dd>
+</dl>
+<p>or in terms of wavelength</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>u</mi>
+<mo stretchy="false">(</mo>
+<mi>λ<!-- λ --></mi>
+<mo>,</mo>
+<mi>T</mi>
+<mo stretchy="false">)</mo>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>β<!-- β --></mi>
+<msup>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>5</mn>
+</mrow>
+</msup>
+</mfrac>
+</mrow>
+<mo>⋅<!-- ⋅ --></mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msup>
+<mi>e</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>h</mi>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mo>/</mo>
+</mrow>
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mi>T</mi>
+<mi>λ<!-- λ --></mi>
+</mrow>
+</msup>
+<mo>−<!-- − --></mo>
+<mn>1</mn>
+</mrow>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle u(\lambda ,T)={\frac {\beta }{\lambda ^{5}}}\cdot {\frac {1}{e^{hc/k_{B}T\lambda }-1}}}</annotation>
+</semantics>
+</math></span><img alt="u(\lambda ,T)={\frac  {\beta }{\lambda ^{5}}}\cdot {\frac  1{e^{{hc/k_{B}T\lambda }}-1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/b71c797a1c27c80c3da171749991300fd979d951" style="vertical-align: -2.338ex; width:28.155ex; height:6.009ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>β<!-- β --></mi>
+<mo>=</mo>
+<mn>2</mn>
+<mi>h</mi>
+<msup>
+<mi>c</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \beta =2hc^{2}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \beta =2hc^{2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5dac6149e7030b072c12a55618f506037a6a5e48" style="vertical-align: -0.671ex; width:9.053ex; height:3.009ex;"/></span> is a constant.</p>
+<p>This formula mathematically follows from calculation of spectral distribution of energy in <a href="/wiki/Quantization_(physics)" title="Quantization (physics)">quantized</a> electromagnetic field which is in complete <a href="/wiki/Thermal_equilibrium" title="Thermal equilibrium">thermal equilibrium</a> with the radiating object. The equation is derived as an infinite sum over all possible frequencies. The energy, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>E</mi>
+<mo>=</mo>
+<mi>h</mi>
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E=h\nu }</annotation>
+</semantics>
+</math></span><img alt="E=h\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c6c0386dc6d9530519404f95570fcc8548ed2326" style="vertical-align: -0.338ex; width:7.487ex; height:2.176ex;"/></span>, of each photon is multiplied by the number of states available at that frequency, and the probability that each of those states will be occupied.</p>
+<p>Integrating the above equation over <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ν<!-- ν --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \nu }</annotation>
+</semantics>
+</math></span><img alt="\nu " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c15bbbb971240cf328aba572178f091684585468" style="vertical-align: -0.338ex; width:1.243ex; height:1.676ex;"/></span> the power output given by the <a href="/wiki/Stefan%E2%80%93Boltzmann_law" title="Stefan–Boltzmann law">Stefan–Boltzmann law</a> is obtained, as:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mi>σ<!-- σ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P=\sigma \cdot A\cdot T^{4}}</annotation>
+</semantics>
+</math></span><img alt="P=\sigma \cdot A\cdot T^{4}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2d506b0ebddf1ba6599a67390ff8d626d09606db" style="vertical-align: -0.338ex; width:14.13ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>where the <a class="mw-redirect" href="/wiki/Constant_of_proportionality" title="Constant of proportionality">constant of proportionality</a> <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>σ<!-- σ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma }</annotation>
+</semantics>
+</math></span><img alt="\sigma " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36" style="vertical-align: -0.338ex; width:1.34ex; height:1.676ex;"/></span> is the <a href="/wiki/Stefan%E2%80%93Boltzmann_constant" title="Stefan–Boltzmann constant">Stefan–Boltzmann constant</a> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+</semantics>
+</math></span><img alt="A" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" style="vertical-align: -0.338ex; width:1.754ex; height:2.343ex;"/></span> is the radiating surface area.</p>
+<p>The wavelength <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>λ<!-- λ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lambda \,}</annotation>
+</semantics>
+</math></span><img alt="\lambda \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/988b7b8a22b11081bc97378c30391f573535c21c" style="vertical-align: -0.338ex; width:1.753ex; height:2.176ex;"/></span>, for which the emission intensity is highest, is given by <a href="/wiki/Wien%27s_displacement_law" title="Wien's displacement law">Wien's displacement law</a> as:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>λ<!-- λ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mtext>max</mtext>
+</mrow>
+</msub>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mfrac>
+<mi>b</mi>
+<mi>T</mi>
+</mfrac>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \lambda _{\text{max}}={\frac {b}{T}}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle \lambda _{\text{max}}={\frac {b}{T}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cf5c9c4bae9e811fd33cdcc49fc06a464d47f4d8" style="vertical-align: -1.838ex; width:10.271ex; height:5.343ex;"/></span></dd>
+</dl>
+<p>For surfaces which are not black bodies, one has to consider the (generally frequency dependent) emissivity factor <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϵ<!-- ϵ --></mi>
+<mo stretchy="false">(</mo>
+<mi>ν<!-- ν --></mi>
+<mo stretchy="false">)</mo>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \epsilon (\nu )}</annotation>
+</semantics>
+</math></span><img alt="\epsilon (\nu )" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/20a01b9dad7a79e1c5438527ae3df2a1fe395a0d" style="vertical-align: -0.838ex; width:4.027ex; height:2.843ex;"/></span>. This factor has to be multiplied with the radiation spectrum formula before integration. If it is taken as a constant, the resulting formula for the power output can be written in a way that contains <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>ϵ<!-- ϵ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \epsilon }</annotation>
+</semantics>
+</math></span><img alt="\epsilon " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/c3837cad72483d97bcdde49c85d3b7b859fb3fd2" style="vertical-align: -0.338ex; width:0.955ex; height:1.676ex;"/></span> as a factor:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>P</mi>
+<mo>=</mo>
+<mi>ϵ<!-- ϵ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>σ<!-- σ --></mi>
+<mo>⋅<!-- ⋅ --></mo>
+<mi>A</mi>
+<mo>⋅<!-- ⋅ --></mo>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle P=\epsilon \cdot \sigma \cdot A\cdot T^{4}}</annotation>
+</semantics>
+</math></span><img alt="P=\epsilon \cdot \sigma \cdot A\cdot T^{4}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/dc5ba88162cd8c860f9982a73c3959b2f7ebf381" style="vertical-align: -0.338ex; width:16.774ex; height:2.676ex;"/></span></dd>
+</dl>
+<p>This type of theoretical model, with frequency-independent emissivity lower than that of a perfect black body, is often known as a <i>grey body</i>. For frequency-dependent emissivity, the solution for the integrated power depends on the functional form of the dependence, though in general there is no simple expression for it. Practically speaking, if the emissivity of the body is roughly constant around the peak emission wavelength, the gray body model tends to work fairly well since the weight of the curve around the peak emission tends to dominate the integral.</p>
+<h3><span class="mw-headline" id="Constants">Constants</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=9" title="Edit section: Constants">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Definitions of constants used in the above equations:</p>
+<table class="wikitable">
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>h</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle h\,}</annotation>
+</semantics>
+</math></span><img alt="h\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/cecd947e6666832fcc39909b00dbde70caa9cf8c" style="vertical-align: -0.338ex; width:1.737ex; height:2.176ex;"/></span></td>
+<td><a class="mw-redirect" href="/wiki/Planck%27s_constant" title="Planck's constant">Planck's constant</a></td>
+<td>6.626 069 3(11)×10<sup>−34</sup> J·s = 4.135 667 43(35)×10<sup>−15</sup> eV·s</td>
+</tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>b</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle b\,}</annotation>
+</semantics>
+</math></span><img alt="b\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b1bcf19f4ec75b1d2cc0be001e58a314fb0a940" style="vertical-align: -0.338ex; width:1.395ex; height:2.176ex;"/></span></td>
+<td><a href="/wiki/Wien%27s_displacement_law" title="Wien's displacement law">Wien's displacement constant</a></td>
+<td>2.897 768 5(51)×10<sup>−3</sup> m·K</td>
+</tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>k</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>B</mi>
+</mrow>
+</msub>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle k_{B}\,}</annotation>
+</semantics>
+</math></span><img alt="k_{B}\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/0cd643a7f8b267149fdbb5e47dd02914548b672f" style="vertical-align: -0.671ex; width:3.096ex; height:2.509ex;"/></span></td>
+<td><a href="/wiki/Boltzmann_constant" title="Boltzmann constant">Boltzmann constant</a></td>
+<td>1.380 650 5(24)×10<sup>−23</sup> J·K<sup>−1</sup> = 8.617 343 (15)×10<sup>−5</sup> eV·K<sup>−1</sup></td>
+</tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>σ<!-- σ --></mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma \,}</annotation>
+</semantics>
+</math></span><img alt="\sigma \," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/df7f4b8e7c7fc824dd8c82008b7cceac27f60bcb" style="vertical-align: -0.338ex; width:1.727ex; height:1.676ex;"/></span></td>
+<td><a href="/wiki/Stefan%E2%80%93Boltzmann_constant" title="Stefan–Boltzmann constant">Stefan–Boltzmann constant</a></td>
+<td>5.670 373 (21)×10<sup>−8</sup> W·m<sup>−2</sup>·K<sup>−4</sup></td>
+</tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>c</mi>
+<mspace width="thinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle c\,}</annotation>
+</semantics>
+</math></span><img alt="c\," aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/8573e7d95140b0d4068258d8162e189563baee6b" style="vertical-align: -0.338ex; width:1.404ex; height:1.676ex;"/></span></td>
+<td><a href="/wiki/Speed_of_light" title="Speed of light">Speed of light</a></td>
+<td>299 792 458 m·s<sup>−1</sup></td>
+</tr>
+</table>
+<h3><span class="mw-headline" id="Variables">Variables</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=10" title="Edit section: Variables">edit</a><span class="mw-editsection-bracket">]</span></span></h3>
+<p>Definitions of variables, with example values:</p>
+<table class="wikitable">
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/></span></td>
+<td>Absolute <a href="/wiki/Temperature" title="Temperature">temperature</a></td>
+<td>For units used above, must be in <a href="/wiki/Kelvin" title="Kelvin">kelvins</a> (e.g. average surface temperature on Earth = 288 K)</td>
+</tr>
+<tr>
+<td><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+</semantics>
+</math></span><img alt="A" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" style="vertical-align: -0.338ex; width:1.754ex; height:2.343ex;"/></span></td>
+<td>Surface <a href="/wiki/Area" title="Area">area</a></td>
+<td><i>A</i><sub>cuboid</sub> = 2<i>ab</i> + 2<i>bc</i> + 2<i>ac</i>;<br/>
+<i>A</i><sub>cylinder</sub> = 2<i>π·r</i>(<i>h</i> + <i>r</i>);<br/>
+<i>A</i><sub>sphere</sub> = 4<i>π·r</i><sup>2</sup></td>
+</tr>
+</table>
+<h2><span class="mw-headline" id="Radiative_heat_transfer">Radiative heat transfer</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=11" title="Edit section: Radiative heat transfer">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<p>The <i>net</i> radiative heat transfer from one surface to another is the radiation leaving the first surface for the other minus that arriving from the second surface.</p>
+<ul>
+<li>For black bodies, the rate of energy transfer from surface 1 to surface 2 is:</li>
+</ul>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>Q</mi>
+<mo>˙<!-- ˙ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\dot {Q}}_{1\rightarrow 2}=A_{1}E_{b1}F_{1\rightarrow 2}-A_{2}E_{b2}F_{2\rightarrow 1}}</annotation>
+</semantics>
+</math></span><img alt="{\dot  {Q}}_{{1\rightarrow 2}}=A_{{1}}E_{{b1}}F_{{1\rightarrow 2}}-A_{{2}}E_{{b2}}F_{{2\rightarrow 1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/273a16259f32e1da306719e1222c169fd9a2c730" style="vertical-align: -0.838ex; width:34.074ex; height:3.343ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>A</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A}</annotation>
+</semantics>
+</math></span><img alt="A" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7daff47fa58cdfd29dc333def748ff5fa4c923e3" style="vertical-align: -0.338ex; width:1.754ex; height:2.343ex;"/></span> is surface area, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{b}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E_{b}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/69d2e3ccd9bce33b1ae1562c2e7e831eb8f55bf3" style="vertical-align: -0.671ex; width:2.671ex; height:2.509ex;"/></span> is <a href="/wiki/Energy_flux" title="Energy flux">energy flux</a> (the rate of emission per unit surface area) and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle F_{1\rightarrow 2}}</annotation>
+</semantics>
+</math></span><img alt="F_{{1\rightarrow 2}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2ef6c5d8cbda8359fdff44afcad899480f5285f5" style="vertical-align: -0.671ex; width:5.047ex; height:2.509ex;"/></span> is the <a href="/wiki/View_factor" title="View factor">view factor</a> from surface 1 to surface 2. Applying both the <a href="/wiki/View_factor#Reciprocity" title="View factor">reciprocity rule</a> for view factors, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle A_{1}F_{1\rightarrow 2}=A_{2}F_{2\rightarrow 1}}</annotation>
+</semantics>
+</math></span><img alt="A_{{1}}F_{{1\rightarrow 2}}=A_{{2}}F_{{2\rightarrow 1}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/6f101c105fd6ae94565900cc4d53a0eda3c9887a" style="vertical-align: -0.671ex; width:18.832ex; height:2.676ex;"/></span>, and the <a href="/wiki/Stefan%E2%80%93Boltzmann_law" title="Stefan–Boltzmann law">Stefan–Boltzmann law</a>, <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>E</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mi>b</mi>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>σ<!-- σ --></mi>
+<msup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msup>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle E_{b}=\sigma T^{4}}</annotation>
+</semantics>
+</math></span><img alt="{\displaystyle E_{b}=\sigma T^{4}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/a5ce5a53779c77876e4eead5be989c3a390bc179" style="vertical-align: -0.671ex; width:9.912ex; height:3.009ex;"/></span>, yields:</p>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>Q</mi>
+<mo>˙<!-- ˙ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+<mo>=</mo>
+<mi>σ<!-- σ --></mi>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo stretchy="false">)</mo>
+<mspace width="negativethinmathspace"></mspace>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\dot {Q}}_{1\rightarrow 2}=\sigma A_{1}F_{1\rightarrow 2}(T_{1}^{4}-T_{2}^{4})\!}</annotation>
+</semantics>
+</math></span><img alt="{\dot  {Q}}_{{1\rightarrow 2}}=\sigma A_{{1}}F_{{1\rightarrow 2}}(T_{1}^{4}-T_{2}^{4})\!" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/7999de353ba11a76376e51be52a24e4ae92d0c18" style="vertical-align: -1.005ex; margin-right: -0.166ex; width:27.746ex; height:3.509ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>σ<!-- σ --></mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \sigma }</annotation>
+</semantics>
+</math></span><img alt="\sigma " aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/59f59b7c3e6fdb1d0365a494b81fb9a696138c36" style="vertical-align: -0.338ex; width:1.34ex; height:1.676ex;"/></span> is the <a href="/wiki/Stefan%E2%80%93Boltzmann_constant" title="Stefan–Boltzmann constant">Stefan–Boltzmann constant</a> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mi>T</mi>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle T}</annotation>
+</semantics>
+</math></span><img alt="T" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/ec7200acd984a1d3a3d7dc455e262fbe54f7f6e0" style="vertical-align: -0.338ex; width:1.647ex; height:2.176ex;"/></span> is temperature.<sup class="reference" id="cite_ref-ReferenceA_10-1"><a href="#cite_note-ReferenceA-10">[10]</a></sup> A negative value for <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>Q</mi>
+<mo>˙<!-- ˙ --></mo>
+</mover>
+</mrow>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\dot {Q}}}</annotation>
+</semantics>
+</math></span><img alt="{\dot {Q}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/14ef647ca15bb236a9473fcbe17f16fe87c95ab4" style="vertical-align: -0.671ex; width:1.849ex; height:3.176ex;"/></span> indicates that net radiation heat transfer is from surface 2 to surface 1.</p>
+<ul>
+<li>For two grey-body surfaces forming an enclosure, the heat transfer rate is:</li>
+</ul>
+<dl>
+<dd><span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mrow class="MJX-TeXAtom-ORD">
+<mrow class="MJX-TeXAtom-ORD">
+<mover>
+<mi>Q</mi>
+<mo>˙<!-- ˙ --></mo>
+</mover>
+</mrow>
+</mrow>
+<mo>=</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<mi>σ<!-- σ --></mi>
+<mo stretchy="false">(</mo>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo>−<!-- − --></mo>
+<msubsup>
+<mi>T</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>4</mn>
+</mrow>
+</msubsup>
+<mo stretchy="false">)</mo>
+</mrow>
+<mrow>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>ϵ<!-- ϵ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>ϵ<!-- ϵ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mn>1</mn>
+<mrow>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+<msub>
+<mi>F</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+<mo stretchy="false">→<!-- → --></mo>
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+<mo>+</mo>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<mfrac>
+<mrow>
+<mn>1</mn>
+<mo>−<!-- − --></mo>
+<msub>
+<mi>ϵ<!-- ϵ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+<mrow>
+<msub>
+<mi>A</mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+<msub>
+<mi>ϵ<!-- ϵ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mrow>
+</mfrac>
+</mstyle>
+</mrow>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle {\dot {Q}}={\dfrac {\sigma (T_{1}^{4}-T_{2}^{4})}{{\dfrac {1-\epsilon _{1}}{A_{1}\epsilon _{1}}}+{\dfrac {1}{A_{1}F_{1\rightarrow 2}}}+{\dfrac {1-\epsilon _{2}}{A_{2}\epsilon _{2}}}}}}</annotation>
+</semantics>
+</math></span><img alt="{\dot  {Q}}={\dfrac  {\sigma (T_{1}^{4}-T_{2}^{4})}{{\dfrac  {1-\epsilon _{1}}{A_{1}\epsilon _{1}}}+{\dfrac  {1}{A_{1}F_{{1\rightarrow 2}}}}+{\dfrac  {1-\epsilon _{2}}{A_{2}\epsilon _{2}}}}}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/4b617b05d6953b0493088b50e66af28622500f27" style="vertical-align: -5.505ex; width:33.946ex; height:9.676ex;"/></span></dd>
+</dl>
+<p>where <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ϵ<!-- ϵ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>1</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \epsilon _{1}}</annotation>
+</semantics>
+</math></span><img alt="\epsilon _{1}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/f7fcacdbda3738e37cc1f739c4c5739b3482732e" style="vertical-align: -0.671ex; width:2.016ex; height:2.009ex;"/></span> and <span class="mwe-math-element"><span class="mwe-math-mathml-inline mwe-math-mathml-a11y" style="display: none;"><math xmlns="http://www.w3.org/1998/Math/MathML">
+<semantics>
+<mrow class="MJX-TeXAtom-ORD">
+<mstyle displaystyle="true" scriptlevel="0">
+<msub>
+<mi>ϵ<!-- ϵ --></mi>
+<mrow class="MJX-TeXAtom-ORD">
+<mn>2</mn>
+</mrow>
+</msub>
+</mstyle>
+</mrow>
+<annotation encoding="application/x-tex">{\displaystyle \epsilon _{2}}</annotation>
+</semantics>
+</math></span><img alt="\epsilon _{2}" aria-hidden="true" class="mwe-math-fallback-image-inline" src="https://wikimedia.org/api/rest_v1/media/math/render/svg/5c7ce0a2b401d02627ae392bfb876b6e765fec7b" style="vertical-align: -0.671ex; width:2.016ex; height:2.009ex;"/></span> are the emissivities of the surfaces.<sup class="reference" id="cite_ref-ReferenceA_10-2"><a href="#cite_note-ReferenceA-10">[10]</a></sup></p>
+<p>Formulas for radiative heat transfer can be derived for more particular or more elaborate physical arrangements, such as between parallel plates, concentric spheres and the internal surfaces of a cylinder.<sup class="reference" id="cite_ref-ReferenceA_10-3"><a href="#cite_note-ReferenceA-10">[10]</a></sup></p>
+<h2><span class="mw-headline" id="See_also">See also</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=12" title="Edit section: See also">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a href="/wiki/Incandescence" title="Incandescence">Incandescence</a></li>
+<li><a href="/wiki/Infrared_photography" title="Infrared photography">Infrared photography</a></li>
+<li><a href="/wiki/Interior_radiation_control_coating" title="Interior radiation control coating">Interior radiation control coating</a></li>
+<li><a class="mw-redirect" href="/wiki/Planck_radiation" title="Planck radiation">Planck radiation</a></li>
+<li><a href="/wiki/Sakuma%E2%80%93Hattori_equation" title="Sakuma–Hattori equation">Sakuma–Hattori equation</a></li>
+<li><a href="/wiki/Thermal_dose_unit" title="Thermal dose unit">Thermal dose unit</a></li>
+<li><a href="/wiki/View_factor" title="View factor">View factor</a></li>
+</ul>
+<h2><span class="mw-headline" id="References">References</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=13" title="Edit section: References">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<div class="reflist columns references-column-width" style="-moz-column-width: 30em; -webkit-column-width: 30em; column-width: 30em; list-style-type: decimal;">
+<ol class="references">
+<li id="cite_note-1"><span class="mw-cite-backlink"><b><a href="#cite_ref-1">^</a></b></span> <span class="reference-text">K. Huang, <i>Statistical Mechanics</i> (2003), p.278</span></li>
+<li id="cite_note-2"><span class="mw-cite-backlink"><b><a href="#cite_ref-2">^</a></b></span> <span class="reference-text">K. Huang, <i>Statistical Mechanics</i> (2003), p.280</span></li>
+<li id="cite_note-blundell-3"><span class="mw-cite-backlink">^ <a href="#cite_ref-blundell_3-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-blundell_3-1"><sup><i><b>b</b></i></sup></a></span> <span class="reference-text"><cite class="citation book">S. Blundell, K. Blundell (2006). <i>Concepts in Thermal Physics</i>. Oxford University Press. p. 247. <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-0-19-856769-1" title="Special:BookSources/978-0-19-856769-1">978-0-19-856769-1</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+radiation&amp;rft.au=S.+Blundell%2C+K.+Blundell&amp;rft.btitle=Concepts+in+Thermal+Physics&amp;rft.date=2006&amp;rft.genre=book&amp;rft.isbn=978-0-19-856769-1&amp;rft.pages=247&amp;rft.pub=Oxford+University+Press&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-4"><span class="mw-cite-backlink"><b><a href="#cite_ref-4">^</a></b></span> <span class="reference-text"><cite class="citation journal">Greffet, Jean-Jacques; Henkel, Carsten (2007). "Coherent thermal radiation". <i>Contemporary Physics</i>. <b>48</b> (4): 183–194. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/2007ConPh..48..183G" rel="nofollow">2007ConPh..48..183G</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1080%2F00107510701690380" rel="nofollow">10.1080/00107510701690380</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+radiation&amp;rft.atitle=Coherent+thermal+radiation&amp;rft.au=Henkel%2C+Carsten&amp;rft.aufirst=Jean-Jacques&amp;rft.aulast=Greffet&amp;rft.date=2007&amp;rft.genre=article&amp;rft.issue=4&amp;rft.jtitle=Contemporary+Physics&amp;rft.pages=183-194&amp;rft.volume=48&amp;rft_id=info%3Abibcode%2F2007ConPh..48..183G&amp;rft_id=info%3Adoi%2F10.1080%2F00107510701690380&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-5"><span class="mw-cite-backlink"><b><a href="#cite_ref-5">^</a></b></span> <span class="reference-text"><a class="external text" href="http://web.archive.org/web/20110721181740/http://cc.oulu.fi/~kempmp/colours.html" rel="nofollow">The Physics of Coloured Fireworks</a></span></li>
+<li id="cite_note-6"><span class="mw-cite-backlink"><b><a href="#cite_ref-6">^</a></b></span> <span class="reference-text"><cite class="citation web">Furtak, M.; Silecky, L. (2012). <a class="external text" href="http://www.arcblasts.com/faq/threshold-incident-energy-second-degree-burn.html" rel="nofollow">"Evaluation of Onset to Second Degree Burn Energy in Arc Flash, IAEI"</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+radiation&amp;rft.au=Silecky%2C+L.&amp;rft.aufirst=M.&amp;rft.aulast=Furtak&amp;rft.btitle=Evaluation+of+Onset+to+Second+Degree+Burn+Energy+in+Arc+Flash%2C+IAEI&amp;rft.date=2012&amp;rft.genre=unknown&amp;rft_id=http%3A%2F%2Fwww.arcblasts.com%2Ffaq%2Fthreshold-incident-energy-second-degree-burn.html&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-7"><span class="mw-cite-backlink"><b><a href="#cite_ref-7">^</a></b></span> <span class="reference-text">John J. Lentini - Scientific Protocols for Fire Investigation, CRC 2006, <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/0849320828" title="Special:BookSources/0849320828">0849320828</a>, table from NFPA 921, Guide for Fire and Explosion Investigations</span></li>
+<li id="cite_note-8"><span class="mw-cite-backlink"><b><a href="#cite_ref-8">^</a></b></span> <span class="reference-text"><cite class="citation journal">R. Bowling Barnes (24 May 1963). "Thermography of the Human Body Infrared-radiant energy provides new concepts and instrumentation for medical diagnosis". <i>Science</i>. <b>140</b> (3569): 870–877. <a href="/wiki/Bibcode" title="Bibcode">Bibcode</a>:<a class="external text" href="http://adsabs.harvard.edu/abs/1963Sci...140..870B" rel="nofollow">1963Sci...140..870B</a>. <a class="mw-redirect" href="/wiki/PubMed_Identifier" title="PubMed Identifier">PMID</a> <a class="external text" href="//www.ncbi.nlm.nih.gov/pubmed/13969373" rel="nofollow">13969373</a>. <a href="/wiki/Digital_object_identifier" title="Digital object identifier">doi</a>:<a class="external text" href="//doi.org/10.1126%2Fscience.140.3569.870" rel="nofollow">10.1126/science.140.3569.870</a>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+radiation&amp;rft.atitle=Thermography+of+the+Human+Body+Infrared-radiant+energy+provides+new+concepts+and+instrumentation+for+medical+diagnosis&amp;rft.au=R.+Bowling+Barnes&amp;rft.date=1963-05-24&amp;rft.genre=article&amp;rft.issue=3569&amp;rft.jtitle=Science&amp;rft.pages=870-877&amp;rft.volume=140&amp;rft_id=info%3Abibcode%2F1963Sci...140..870B&amp;rft_id=info%3Adoi%2F10.1126%2Fscience.140.3569.870&amp;rft_id=info%3Apmid%2F13969373&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Ajournal"><span style="display:none;"> </span></span></span></li>
+<li id="cite_note-9"><span class="mw-cite-backlink"><b><a href="#cite_ref-9">^</a></b></span> <span class="reference-text">S. Tanemura, M. Tazawa, P. Jing, T. Miki, K. Yoshimura, K. Igarashi, M. Ohishi, K. Shimono, M. Adachi, Optical Properties and Radiative Cooling Power of White Paints,<a class="external autonumber" href="http://wire0.ises.org/wire/doclibs/SWC1999.nsf/id/D33990A41EA63969C1256920003D6148/$File/038.pdf" rel="nofollow">[1]</a> ISES 1999 Solar World Congress</span></li>
+<li id="cite_note-ReferenceA-10"><span class="mw-cite-backlink">^ <a href="#cite_ref-ReferenceA_10-0"><sup><i><b>a</b></i></sup></a> <a href="#cite_ref-ReferenceA_10-1"><sup><i><b>b</b></i></sup></a> <a href="#cite_ref-ReferenceA_10-2"><sup><i><b>c</b></i></sup></a> <a href="#cite_ref-ReferenceA_10-3"><sup><i><b>d</b></i></sup></a></span> <span class="reference-text">Heat and Mass Transfer, Yunus A. Cengel and Afshin J. Ghajar, 4th Edition</span></li>
+<li id="cite_note-11"><span class="mw-cite-backlink"><b><a href="#cite_ref-11">^</a></b></span> <span class="reference-text"><a href="/wiki/Infrared#Different_regions_in_the_infrared" title="Infrared">Infrared#Different regions in the infrared</a> Short-wavelength infrared is 1.4-3µm, mid-wavelength infrared is 3-8µm</span></li>
+<li id="cite_note-12"><span class="mw-cite-backlink"><b><a href="#cite_ref-12">^</a></b></span> <span class="reference-text"><a class="external text" href="http://www.efficientwindows.org/lowe.cfm" rel="nofollow">The Efficient Windows Collaborative: Window Technologies</a></span></li>
+</ol>
+</div>
+<h2><span class="mw-headline" id="Further_reading">Further reading</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=14" title="Edit section: Further reading">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><cite class="citation book">Siegel, John R. Howell, Robert; Howell. John R. (November 2001). <a class="external text" href="https://books.google.com/?id=O389yQ0-fecC&amp;pg=PA1&amp;dq=Thermal+radiation" rel="nofollow"><i>Thermal radiation heat transfer</i></a>. New York: Taylor &amp; Francis, Inc. pp. (xix – xxvi <i>list of symbols for thermal radiation formulas</i>). <a href="/wiki/International_Standard_Book_Number" title="International Standard Book Number">ISBN</a> <a href="/wiki/Special:BookSources/978-1-56032-839-1" title="Special:BookSources/978-1-56032-839-1">978-1-56032-839-1</a><span class="reference-accessdate">. Retrieved <span class="nowrap">2009-07-23</span></span>.</cite><span class="Z3988" title="ctx_ver=Z39.88-2004&amp;rfr_id=info%3Asid%2Fen.wikipedia.org%3AThermal+radiation&amp;rft.au=Howell.+John+R.&amp;rft.aufirst=Robert&amp;rft.aulast=Siegel%2C+John+R.+Howell&amp;rft.btitle=Thermal+radiation+heat+transfer&amp;rft.date=2001-11&amp;rft.genre=book&amp;rft.isbn=978-1-56032-839-1&amp;rft.pages=%28xix+-+xxvi+%27%27list+of+symbols+for+thermal+radiation+formulas%27%27%29&amp;rft.place=New+York&amp;rft.pub=Taylor+%26+Francis%2C+Inc.&amp;rft_id=https%3A%2F%2Fbooks.google.com%2F%3Fid%3DO389yQ0-fecC%26pg%3DPA1%26dq%3DThermal%2Bradiation&amp;rft_val_fmt=info%3Aofi%2Ffmt%3Akev%3Amtx%3Abook"><span style="display:none;"> </span></span></li>
+<li><a href="/wiki/Ephraim_M._Sparrow" title="Ephraim M. Sparrow">E.M. Sparrow</a> and <a href="/wiki/Robert_D._Cess" title="Robert D. Cess">R.D. Cess</a>. Radiation Heat Transfer. Hemisphere Publishing Corporation, 1978.</li>
+</ul>
+<h2><span class="mw-headline" id="External_links">External links</span><span class="mw-editsection"><span class="mw-editsection-bracket">[</span><a href="/w/index.php?title=Thermal_radiation&amp;action=edit&amp;section=15" title="Edit section: External links">edit</a><span class="mw-editsection-bracket">]</span></span></h2>
+<ul>
+<li><a class="external text" href="http://www.spectralcalc.com/blackbody_calculator/blackbody.php" rel="nofollow">Black Body Emission Calculator</a></li>
+<li><a class="external text" href="http://www.veliyaththermostatics.com/resources.php" rel="nofollow">Heat transfer</a></li>
+<li><a class="external text" href="http://www.du.edu/~etuttle/weather/atmrad.htm" rel="nofollow">Atmospheric Radiation</a></li>
+<li><a class="external text" href="http://www.hartscientific.com/publications/pdfs/3187781_A_w.pdf" rel="nofollow">Infrared Temperature Calibration 101</a></li>
+</ul>
+<div aria-labelledby="Radiation_.28physics_and_health.29" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks collapsible autocollapse navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-title" colspan="2" scope="col">
+<div class="plainlinks hlist navbar mini">
+<ul>
+<li class="nv-view"><a href="/wiki/Template:Radiation" title="Template:Radiation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="View this template">v</abbr></a></li>
+<li class="nv-talk"><a href="/wiki/Template_talk:Radiation" title="Template talk:Radiation"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Discuss this template">t</abbr></a></li>
+<li class="nv-edit"><a class="external text" href="//en.wikipedia.org/w/index.php?title=Template:Radiation&amp;action=edit"><abbr style=";;background:none transparent;border:none;-moz-box-shadow:none;-webkit-box-shadow:none;box-shadow:none;" title="Edit this template">e</abbr></a></li>
+</ul>
+</div>
+<div id="Radiation_.28physics_and_health.29" style="font-size:114%;margin:0 4em"><a href="/wiki/Radiation" title="Radiation">Radiation</a> (physics and health)</div>
+</th>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Main articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em"></div>
+<table class="nowraplinks navbox-subgroup" style="border-spacing:0">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Non-ionizing_radiation" title="Non-ionizing radiation">Non-ionizing radiation</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Acoustic_radiation_force" title="Acoustic radiation force">Acoustic radiation force</a></li>
+<li><a href="/wiki/Infrared" title="Infrared">Infrared</a></li>
+<li><a href="/wiki/Light" title="Light">Light</a></li>
+<li><a href="/wiki/Microwave" title="Microwave">Microwave</a></li>
+<li><a href="/wiki/Radio_wave" title="Radio wave">Radio waves</a></li>
+<li><a href="/wiki/Ultraviolet" title="Ultraviolet">Ultraviolet</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Ionizing_radiation" title="Ionizing radiation">Ionizing radiation</a></th>
+<td class="navbox-list navbox-even" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Alpha_particle" title="Alpha particle">Alpha particle</a></li>
+<li><a href="/wiki/Background_radiation" title="Background radiation">Background radiation</a></li>
+<li><a href="/wiki/Beta_particle" title="Beta particle">Beta particle</a></li>
+<li><a href="/wiki/Cosmic_ray" title="Cosmic ray">Cosmic ray</a></li>
+<li><a href="/wiki/Gamma_ray" title="Gamma ray">Gamma ray</a></li>
+<li><a href="/wiki/Nuclear_fission" title="Nuclear fission">Nuclear fission</a></li>
+<li><a href="/wiki/Nuclear_fusion" title="Nuclear fusion">Nuclear fusion</a></li>
+<li><a href="/wiki/Radioactive_decay" title="Radioactive decay">Radioactive decay</a></li>
+<li><a href="/wiki/Nuclear_reactor" title="Nuclear reactor">Nuclear reactors</a></li>
+<li><a href="/wiki/Nuclear_weapon" title="Nuclear weapon">Nuclear weapons</a></li>
+<li><a href="/wiki/Particle_accelerator" title="Particle accelerator">Particle accelerators</a></li>
+<li><a href="/wiki/Radionuclide" title="Radionuclide">Radioactive materials</a></li>
+<li><a href="/wiki/X-ray" title="X-ray">X-ray</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-list navbox-odd" colspan="2" style="width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a class="mw-redirect" href="/wiki/Earth%27s_radiation_balance" title="Earth's radiation balance">Earth's radiation balance</a></li>
+<li><a href="/wiki/Electromagnetic_radiation" title="Electromagnetic radiation">Electromagnetic radiation</a></li>
+<li><a class="mw-selflink selflink">Thermal radiation</a></li>
+<li><a class="mw-redirect" href="/wiki/Gravitational_Radiation" title="Gravitational Radiation">Gravitational Radiation</a></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Radiation and health</th>
+<td class="navbox-list navbox-even hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Health_physics" title="Health physics">Health physics</a></li>
+<li><a href="/wiki/Dosimetry" title="Dosimetry">Dosimetry</a></li>
+<li><a href="/wiki/Electromagnetic_radiation_and_health" title="Electromagnetic radiation and health">Electromagnetic radiation and health</a></li>
+<li><a href="/wiki/Laser_safety" title="Laser safety">Laser safety</a></li>
+<li><a href="/wiki/Lasers_and_aviation_safety" title="Lasers and aviation safety">Lasers and aviation safety</a></li>
+<li><a class="mw-redirect" href="/wiki/Medical_radiography" title="Medical radiography">Medical radiography</a></li>
+<li><a href="/wiki/Mobile_phone_radiation_and_health" title="Mobile phone radiation and health">Mobile phone radiation and health</a></li>
+<li><a class="mw-redirect" href="/wiki/Radiation_poisoning" title="Radiation poisoning">Radiation poisoning</a></li>
+<li><a class="mw-redirect" href="/wiki/Radiation_Protection" title="Radiation Protection">Radiation Protection</a></li>
+<li><a href="/wiki/Radiation_therapy" title="Radiation therapy">Radiation therapy</a></li>
+<li><a href="/wiki/Radioactivity_in_the_life_sciences" title="Radioactivity in the life sciences">Radioactivity in the life sciences</a></li>
+<li><a href="/wiki/Radioactive_contamination" title="Radioactive contamination">Radioactive contamination</a></li>
+<li><a href="/wiki/Radiobiology" title="Radiobiology">Radiobiology</a></li>
+<li><a href="/wiki/Sievert" title="Sievert">Biological dose units and quantities</a></li>
+<li><a href="/wiki/Wireless_electronic_devices_and_health" title="Wireless electronic devices and health">Wireless electronic devices and health</a></li>
+<li><a href="/wiki/Heat_transfer" title="Heat transfer">Radiation Heat-transfer</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<th class="navbox-group" scope="row" style="width:1%">Related articles</th>
+<td class="navbox-list navbox-odd hlist" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><a href="/wiki/Half-life" title="Half-life">Half-life</a></li>
+<li><a href="/wiki/Nuclear_physics" title="Nuclear physics">Nuclear physics</a></li>
+<li><a href="/wiki/Radioactive_source" title="Radioactive source">Radioactive source</a></li>
+<li><a href="/wiki/Radiation_hardening" title="Radiation hardening">Radiation hardening</a></li>
+<li><a href="/wiki/List_of_civilian_radiation_accidents" title="List of civilian radiation accidents">List of civilian radiation accidents</a></li>
+<li><a href="/wiki/1996_San_Juan_de_Dios_radiotherapy_accident" title="1996 San Juan de Dios radiotherapy accident">1996 Costa Rica accident</a></li>
+<li><a href="/wiki/Goi%C3%A2nia_accident" title="Goiânia accident">1987 Goiânia accident</a></li>
+<li><a href="/wiki/1984_Moroccan_radiation_accident" title="1984 Moroccan radiation accident">1984 Moroccan accident</a></li>
+<li><a href="/wiki/1990_Clinic_of_Zaragoza_radiotherapy_accident" title="1990 Clinic of Zaragoza radiotherapy accident">1990 Zaragoza accident</a></li>
+</ul>
+</div>
+</td>
+</tr>
+<tr>
+<td class="navbox-abovebelow" colspan="2">
+<div>
+<div class="hatnote selfreference">See also: the categories <wbr/><a href="/wiki/Category:Radiation_effects" title="Category:Radiation effects">Radiation effects</a>, <wbr/><a href="/wiki/Category:Radioactivity" title="Category:Radioactivity">Radioactivity</a>, <wbr/><a href="/wiki/Category:Radiobiology" title="Category:Radiobiology">Radiobiology</a>, and <wbr/><a href="/wiki/Category:Radiation_protection" title="Category:Radiation protection">Radiation protection</a>.</div>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<div aria-label="Navbox" class="navbox" role="navigation" style="padding:3px">
+<table class="nowraplinks hlist navbox-inner" style="border-spacing:0;background:transparent;color:inherit">
+<tr>
+<th class="navbox-group" scope="row" style="width:1%"><a href="/wiki/Help:Authority_control" title="Help:Authority control">Authority control</a></th>
+<td class="navbox-list navbox-odd" style="text-align:left;border-left-width:2px;border-left-style:solid;width:100%;padding:0px">
+<div style="padding:0em 0.25em">
+<ul>
+<li><span class="nowrap"><a href="/wiki/National_Diet_Library" title="National Diet Library">NDL</a>: <span class="uid"><a class="external text" href="https://id.ndl.go.jp/auth/ndlna/00568821" rel="nofollow">00568821</a></span></span></li>
+</ul>
+</div>
+</td>
+</tr>
+</table>
+</div>
+<!-- 
+NewPP limit report
+Parsed by mw1271
+Cached time: 20170922183711
+Cache expiry: 1900800
+Dynamic content: false
+CPU time usage: 0.312 seconds
+Real time usage: 0.910 seconds
+Preprocessor visited node count: 1618/1000000
+Preprocessor generated node count: 0/1500000
+Post‐expand include size: 39171/2097152 bytes
+Template argument size: 1262/2097152 bytes
+Highest expansion depth: 16/40
+Expensive parser function count: 4/500
+Lua time usage: 0.116/10.000 seconds
+Lua memory usage: 5.22 MB/50 MB
+-->
+<!--
+Transclusion expansion time report (%,ms,calls,template)
+100.00%  293.315      1 -total
+ 27.52%   80.728      1 Template:Reflist
+ 12.51%   36.705      8 Template:Convert
+ 11.72%   34.366      1 Template:More_footnotes
+ 11.51%   33.752      2 Template:Cite_book
+  8.83%   25.905      1 Template:Radiation
+  8.79%   25.784      2 Template:Navbox
+  8.64%   25.343      1 Template:Ambox
+  8.40%   24.634      1 Template:About
+  7.93%   23.255      1 Template:Authority_control
+-->
+</div>
+<!-- Saved in parser cache with key enwiki:pcache:idhash:185239-0!canonical!math=5 and timestamp 20170922183710 and revision id 800465547
+ -->
+<noscript><img alt="" height="1" src="//en.wikipedia.org/wiki/Special:CentralAutoLogin/start?type=1x1" style="border: none; position: absolute;" title="" width="1"/></noscript></div> <div class="printfooter">
+						Retrieved from "<a dir="ltr" href="https://en.wikipedia.org/w/index.php?title=Thermal_radiation&amp;oldid=800465547">https://en.wikipedia.org/w/index.php?title=Thermal_radiation&amp;oldid=800465547</a>"					</div>
+<div class="catlinks" data-mw="interface" id="catlinks"><div class="mw-normal-catlinks" id="mw-normal-catlinks"><a href="/wiki/Help:Category" title="Help:Category">Categories</a>: <ul><li><a href="/wiki/Category:Electromagnetic_radiation" title="Category:Electromagnetic radiation">Electromagnetic radiation</a></li><li><a href="/wiki/Category:Heat_transfer" title="Category:Heat transfer">Heat transfer</a></li><li><a href="/wiki/Category:Thermodynamics" title="Category:Thermodynamics">Thermodynamics</a></li></ul></div><div class="mw-hidden-catlinks mw-hidden-cats-hidden" id="mw-hidden-catlinks">Hidden categories: <ul><li><a href="/wiki/Category:Articles_lacking_in-text_citations_from_October_2007" title="Category:Articles lacking in-text citations from October 2007">Articles lacking in-text citations from October 2007</a></li><li><a href="/wiki/Category:All_articles_lacking_in-text_citations" title="Category:All articles lacking in-text citations">All articles lacking in-text citations</a></li><li><a href="/wiki/Category:All_articles_with_unsourced_statements" title="Category:All articles with unsourced statements">All articles with unsourced statements</a></li><li><a href="/wiki/Category:Articles_with_unsourced_statements_from_March_2017" title="Category:Articles with unsourced statements from March 2017">Articles with unsourced statements from March 2017</a></li><li><a href="/wiki/Category:Use_dmy_dates_from_December_2010" title="Category:Use dmy dates from December 2010">Use dmy dates from December 2010</a></li></ul></div></div> <div class="visualClear"></div>
+</div>
+</div>
+<div id="mw-navigation">
+<h2>Navigation menu</h2>
+<div id="mw-head">
+<div aria-labelledby="p-personal-label" class="" id="p-personal" role="navigation">
+<h3 id="p-personal-label">Personal tools</h3>
+<ul>
+<li id="pt-anonuserpage">Not logged in</li><li id="pt-anontalk"><a accesskey="n" href="/wiki/Special:MyTalk" title="Discussion about edits from this IP address [n]">Talk</a></li><li id="pt-anoncontribs"><a accesskey="y" href="/wiki/Special:MyContributions" title="A list of edits made from this IP address [y]">Contributions</a></li><li id="pt-createaccount"><a href="/w/index.php?title=Special:CreateAccount&amp;returnto=Thermal+radiation" title="You are encouraged to create an account and log in; however, it is not mandatory">Create account</a></li><li id="pt-login"><a accesskey="o" href="/w/index.php?title=Special:UserLogin&amp;returnto=Thermal+radiation" title="You're encouraged to log in; however, it's not mandatory. [o]">Log in</a></li> </ul>
+</div>
+<div id="left-navigation">
+<div aria-labelledby="p-namespaces-label" class="vectorTabs" id="p-namespaces" role="navigation">
+<h3 id="p-namespaces-label">Namespaces</h3>
+<ul>
+<li class="selected" id="ca-nstab-main"><span><a accesskey="c" href="/wiki/Thermal_radiation" title="View the content page [c]">Article</a></span></li>
+<li id="ca-talk"><span><a accesskey="t" href="/wiki/Talk:Thermal_radiation" rel="discussion" title="Discussion about the content page [t]">Talk</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-variants-label" class="vectorMenu emptyPortlet" id="p-variants" role="navigation">
+<h3 id="p-variants-label">
+<span>Variants</span>
+</h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+</div>
+<div id="right-navigation">
+<div aria-labelledby="p-views-label" class="vectorTabs" id="p-views" role="navigation">
+<h3 id="p-views-label">Views</h3>
+<ul>
+<li class="collapsible selected" id="ca-view"><span><a href="/wiki/Thermal_radiation">Read</a></span></li>
+<li class="collapsible" id="ca-edit"><span><a accesskey="e" href="/w/index.php?title=Thermal_radiation&amp;action=edit" title="Edit this page [e]">Edit</a></span></li>
+<li class="collapsible" id="ca-history"><span><a accesskey="h" href="/w/index.php?title=Thermal_radiation&amp;action=history" title="Past revisions of this page [h]">View history</a></span></li>
+</ul>
+</div>
+<div aria-labelledby="p-cactions-label" class="vectorMenu emptyPortlet" id="p-cactions" role="navigation">
+<h3 id="p-cactions-label"><span>More</span></h3>
+<div class="menu">
+<ul>
+</ul>
+</div>
+</div>
+<div id="p-search" role="search">
+<h3>
+<label for="searchInput">Search</label>
+</h3>
+<form action="/w/index.php" id="searchform">
+<div id="simpleSearch">
+<input accesskey="f" id="searchInput" name="search" placeholder="Search Wikipedia" title="Search Wikipedia [f]" type="search"/><input name="title" type="hidden" value="Special:Search"/><input class="searchButton mw-fallbackSearchButton" id="mw-searchButton" name="fulltext" title="Search Wikipedia for this text" type="submit" value="Search"/><input class="searchButton" id="searchButton" name="go" title="Go to a page with this exact name if it exists" type="submit" value="Go"/> </div>
+</form>
+</div>
+</div>
+</div>
+<div id="mw-panel">
+<div id="p-logo" role="banner"><a class="mw-wiki-logo" href="/wiki/Main_Page" title="Visit the main page"></a></div>
+<div aria-labelledby="p-navigation-label" class="portal" id="p-navigation" role="navigation">
+<h3 id="p-navigation-label">Navigation</h3>
+<div class="body">
+<ul>
+<li id="n-mainpage-description"><a accesskey="z" href="/wiki/Main_Page" title="Visit the main page [z]">Main page</a></li><li id="n-contents"><a href="/wiki/Portal:Contents" title="Guides to browsing Wikipedia">Contents</a></li><li id="n-featuredcontent"><a href="/wiki/Portal:Featured_content" title="Featured content – the best of Wikipedia">Featured content</a></li><li id="n-currentevents"><a href="/wiki/Portal:Current_events" title="Find background information on current events">Current events</a></li><li id="n-randompage"><a accesskey="x" href="/wiki/Special:Random" title="Load a random article [x]">Random article</a></li><li id="n-sitesupport"><a href="https://donate.wikimedia.org/wiki/Special:FundraiserRedirector?utm_source=donate&amp;utm_medium=sidebar&amp;utm_campaign=C13_en.wikipedia.org&amp;uselang=en" title="Support us">Donate to Wikipedia</a></li><li id="n-shoplink"><a href="//shop.wikimedia.org" title="Visit the Wikipedia store">Wikipedia store</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-interaction-label" class="portal" id="p-interaction" role="navigation">
+<h3 id="p-interaction-label">Interaction</h3>
+<div class="body">
+<ul>
+<li id="n-help"><a href="/wiki/Help:Contents" title="Guidance on how to use and edit Wikipedia">Help</a></li><li id="n-aboutsite"><a href="/wiki/Wikipedia:About" title="Find out about Wikipedia">About Wikipedia</a></li><li id="n-portal"><a href="/wiki/Wikipedia:Community_portal" title="About the project, what you can do, where to find things">Community portal</a></li><li id="n-recentchanges"><a accesskey="r" href="/wiki/Special:RecentChanges" title="A list of recent changes in the wiki [r]">Recent changes</a></li><li id="n-contactpage"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us" title="How to contact Wikipedia">Contact page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-tb-label" class="portal" id="p-tb" role="navigation">
+<h3 id="p-tb-label">Tools</h3>
+<div class="body">
+<ul>
+<li id="t-whatlinkshere"><a accesskey="j" href="/wiki/Special:WhatLinksHere/Thermal_radiation" title="List of all English Wikipedia pages containing links to this page [j]">What links here</a></li><li id="t-recentchangeslinked"><a accesskey="k" href="/wiki/Special:RecentChangesLinked/Thermal_radiation" rel="nofollow" title="Recent changes in pages linked from this page [k]">Related changes</a></li><li id="t-upload"><a accesskey="u" href="/wiki/Wikipedia:File_Upload_Wizard" title="Upload files [u]">Upload file</a></li><li id="t-specialpages"><a accesskey="q" href="/wiki/Special:SpecialPages" title="A list of all special pages [q]">Special pages</a></li><li id="t-permalink"><a href="/w/index.php?title=Thermal_radiation&amp;oldid=800465547" title="Permanent link to this revision of the page">Permanent link</a></li><li id="t-info"><a href="/w/index.php?title=Thermal_radiation&amp;action=info" title="More information about this page">Page information</a></li><li id="t-wikibase"><a accesskey="g" href="https://www.wikidata.org/wiki/Special:EntityPage/Q192593" title="Link to connected data repository item [g]">Wikidata item</a></li><li id="t-cite"><a href="/w/index.php?title=Special:CiteThisPage&amp;page=Thermal_radiation&amp;id=800465547" title="Information on how to cite this page">Cite this page</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-coll-print_export-label" class="portal" id="p-coll-print_export" role="navigation">
+<h3 id="p-coll-print_export-label">Print/export</h3>
+<div class="body">
+<ul>
+<li id="coll-create_a_book"><a href="/w/index.php?title=Special:Book&amp;bookcmd=book_creator&amp;referer=Thermal+radiation">Create a book</a></li><li id="coll-download-as-rdf2latex"><a href="/w/index.php?title=Special:ElectronPdf&amp;page=Thermal+radiation&amp;action=show-selection-screen&amp;coll-download-url=%2Fw%2Findex.php%3Ftitle%3DSpecial%3ABook%26bookcmd%3Drender_article%26arttitle%3DThermal%2Bradiation%26returnto%3DThermal%2Bradiation%26oldid%3D800465547%26writer%3Drdf2latex">Download as PDF</a></li><li id="t-print"><a accesskey="p" href="/w/index.php?title=Thermal_radiation&amp;printable=yes" title="Printable version of this page [p]">Printable version</a></li> </ul>
+</div>
+</div>
+<div aria-labelledby="p-lang-label" class="portal" id="p-lang" role="navigation">
+<h3 id="p-lang-label">Languages</h3>
+<div class="body">
+<ul>
+<li class="interlanguage-link interwiki-af"><a class="interlanguage-link-target" href="https://af.wikipedia.org/wiki/Termiese_straling" hreflang="af" lang="af" title="Termiese straling – Afrikaans">Afrikaans</a></li><li class="interlanguage-link interwiki-ar"><a class="interlanguage-link-target" href="https://ar.wikipedia.org/wiki/%D8%A5%D8%B4%D8%B9%D8%A7%D8%B9_%D8%AD%D8%B1%D8%A7%D8%B1%D9%8A" hreflang="ar" lang="ar" title="إشعاع حراري – Arabic">العربية</a></li><li class="interlanguage-link interwiki-be"><a class="interlanguage-link-target" href="https://be.wikipedia.org/wiki/%D0%A6%D0%B5%D0%BF%D0%BB%D0%B0%D0%B2%D0%BE%D0%B5_%D0%B2%D1%8B%D0%BF%D1%80%D0%B0%D0%BC%D0%B5%D0%BD%D1%8C%D0%B2%D0%B0%D0%BD%D0%BD%D0%B5" hreflang="be" lang="be" title="Цеплавое выпраменьванне – Belarusian">Беларуская</a></li><li class="interlanguage-link interwiki-ca"><a class="interlanguage-link-target" href="https://ca.wikipedia.org/wiki/Radiaci%C3%B3_t%C3%A8rmica" hreflang="ca" lang="ca" title="Radiació tèrmica – Catalan">Català</a></li><li class="interlanguage-link interwiki-cs"><a class="interlanguage-link-target" href="https://cs.wikipedia.org/wiki/S%C3%A1l%C3%A1n%C3%AD" hreflang="cs" lang="cs" title="Sálání – Czech">Čeština</a></li><li class="interlanguage-link interwiki-de"><a class="interlanguage-link-target" href="https://de.wikipedia.org/wiki/W%C3%A4rmestrahlung" hreflang="de" lang="de" title="Wärmestrahlung – German">Deutsch</a></li><li class="interlanguage-link interwiki-et"><a class="interlanguage-link-target" href="https://et.wikipedia.org/wiki/Soojuskiirgus" hreflang="et" lang="et" title="Soojuskiirgus – Estonian">Eesti</a></li><li class="interlanguage-link interwiki-el"><a class="interlanguage-link-target" href="https://el.wikipedia.org/wiki/%CE%98%CE%B5%CF%81%CE%BC%CE%B9%CE%BA%CE%AE_%CE%B1%CE%BA%CF%84%CE%B9%CE%BD%CE%BF%CE%B2%CE%BF%CE%BB%CE%AF%CE%B1" hreflang="el" lang="el" title="Θερμική ακτινοβολία – Greek">Ελληνικά</a></li><li class="interlanguage-link interwiki-es"><a class="interlanguage-link-target" href="https://es.wikipedia.org/wiki/Radiaci%C3%B3n_t%C3%A9rmica" hreflang="es" lang="es" title="Radiación térmica – Spanish">Español</a></li><li class="interlanguage-link interwiki-eo"><a class="interlanguage-link-target" href="https://eo.wikipedia.org/wiki/Varmoradiado" hreflang="eo" lang="eo" title="Varmoradiado – Esperanto">Esperanto</a></li><li class="interlanguage-link interwiki-eu"><a class="interlanguage-link-target" href="https://eu.wikipedia.org/wiki/Erradiazio_termiko" hreflang="eu" lang="eu" title="Erradiazio termiko – Basque">Euskara</a></li><li class="interlanguage-link interwiki-fa"><a class="interlanguage-link-target" href="https://fa.wikipedia.org/wiki/%D8%AA%D8%A7%D8%A8%D8%B4_%DA%AF%D8%B1%D9%85%D8%A7%DB%8C%DB%8C" hreflang="fa" lang="fa" title="تابش گرمایی – Persian">فارسی</a></li><li class="interlanguage-link interwiki-ko"><a class="interlanguage-link-target" href="https://ko.wikipedia.org/wiki/%EC%97%B4%EB%B3%B5%EC%82%AC" hreflang="ko" lang="ko" title="열복사 – Korean">한국어</a></li><li class="interlanguage-link interwiki-hy"><a class="interlanguage-link-target" href="https://hy.wikipedia.org/wiki/%D5%8B%D5%A5%D6%80%D5%B4%D5%A1%D5%B5%D5%AB%D5%B6_%D5%B3%D5%A1%D5%BC%D5%A1%D5%A3%D5%A1%D5%B5%D5%A9%D5%B8%D6%82%D5%B4" hreflang="hy" lang="hy" title="Ջերմային ճառագայթում – Armenian">Հայերեն</a></li><li class="interlanguage-link interwiki-hr"><a class="interlanguage-link-target" href="https://hr.wikipedia.org/wiki/Toplinsko_zra%C4%8Denje" hreflang="hr" lang="hr" title="Toplinsko zračenje – Croatian">Hrvatski</a></li><li class="interlanguage-link interwiki-id"><a class="interlanguage-link-target" href="https://id.wikipedia.org/wiki/Radiasi_termal" hreflang="id" lang="id" title="Radiasi termal – Indonesian">Bahasa Indonesia</a></li><li class="interlanguage-link interwiki-it"><a class="interlanguage-link-target" href="https://it.wikipedia.org/wiki/Radiazione_termica" hreflang="it" lang="it" title="Radiazione termica – Italian">Italiano</a></li><li class="interlanguage-link interwiki-he"><a class="interlanguage-link-target" href="https://he.wikipedia.org/wiki/%D7%A7%D7%A8%D7%99%D7%A0%D7%94_%D7%AA%D7%A8%D7%9E%D7%99%D7%AA" hreflang="he" lang="he" title="קרינה תרמית – Hebrew">עברית</a></li><li class="interlanguage-link interwiki-kk"><a class="interlanguage-link-target" href="https://kk.wikipedia.org/wiki/%D0%96%D1%8B%D0%BB%D1%83%D0%BB%D1%8B%D2%9B_%D1%81%D3%99%D1%83%D0%BB%D0%B5%D0%BB%D0%B5%D0%BD%D1%83" hreflang="kk" lang="kk" title="Жылулық сәулелену – Kazakh">Қазақша</a></li><li class="interlanguage-link interwiki-lt"><a class="interlanguage-link-target" href="https://lt.wikipedia.org/wiki/%C5%A0iluminis_spinduliavimas" hreflang="lt" lang="lt" title="Šiluminis spinduliavimas – Lithuanian">Lietuvių</a></li><li class="interlanguage-link interwiki-hu"><a class="interlanguage-link-target" href="https://hu.wikipedia.org/wiki/H%C5%91m%C3%A9rs%C3%A9kleti_sug%C3%A1rz%C3%A1s" hreflang="hu" lang="hu" title="Hőmérsékleti sugárzás – Hungarian">Magyar</a></li><li class="interlanguage-link interwiki-mk"><a class="interlanguage-link-target" href="https://mk.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%B8%D0%BD%D1%81%D0%BA%D0%BE_%D0%B7%D1%80%D0%B0%D1%87%D0%B5%D1%9A%D0%B5" hreflang="mk" lang="mk" title="Топлинско зрачење – Macedonian">Македонски</a></li><li class="interlanguage-link interwiki-mr"><a class="interlanguage-link-target" href="https://mr.wikipedia.org/wiki/%E0%A4%89%E0%A4%B7%E0%A5%8D%E0%A4%A3%E0%A4%A4%E0%A4%BE_%E0%A4%AA%E0%A5%8D%E0%A4%B0%E0%A4%BE%E0%A4%B0%E0%A4%A3" hreflang="mr" lang="mr" title="उष्णता प्रारण – Marathi">मराठी</a></li><li class="interlanguage-link interwiki-ms"><a class="interlanguage-link-target" href="https://ms.wikipedia.org/wiki/Sinaran_terma" hreflang="ms" lang="ms" title="Sinaran terma – Malay">Bahasa Melayu</a></li><li class="interlanguage-link interwiki-nl"><a class="interlanguage-link-target" href="https://nl.wikipedia.org/wiki/Warmtestraling" hreflang="nl" lang="nl" title="Warmtestraling – Dutch">Nederlands</a></li><li class="interlanguage-link interwiki-ja"><a class="interlanguage-link-target" href="https://ja.wikipedia.org/wiki/%E7%86%B1%E6%94%BE%E5%B0%84" hreflang="ja" lang="ja" title="熱放射 – Japanese">日本語</a></li><li class="interlanguage-link interwiki-no"><a class="interlanguage-link-target" href="https://no.wikipedia.org/wiki/Varmestr%C3%A5ling" hreflang="no" lang="no" title="Varmestråling – Norwegian">Norsk</a></li><li class="interlanguage-link interwiki-nn"><a class="interlanguage-link-target" href="https://nn.wikipedia.org/wiki/Varmestr%C3%A5ling" hreflang="nn" lang="nn" title="Varmestråling – Norwegian Nynorsk">Norsk nynorsk</a></li><li class="interlanguage-link interwiki-pms"><a class="interlanguage-link-target" href="https://pms.wikipedia.org/wiki/Anrajament" hreflang="pms" lang="pms" title="Anrajament – Piedmontese">Piemontèis</a></li><li class="interlanguage-link interwiki-pl"><a class="interlanguage-link-target" href="https://pl.wikipedia.org/wiki/Promieniowanie_cieplne" hreflang="pl" lang="pl" title="Promieniowanie cieplne – Polish">Polski</a></li><li class="interlanguage-link interwiki-pt"><a class="interlanguage-link-target" href="https://pt.wikipedia.org/wiki/Irradia%C3%A7%C3%A3o_t%C3%A9rmica" hreflang="pt" lang="pt" title="Irradiação térmica – Portuguese">Português</a></li><li class="interlanguage-link interwiki-ro"><a class="interlanguage-link-target" href="https://ro.wikipedia.org/wiki/Radia%C8%9Bie_termic%C4%83" hreflang="ro" lang="ro" title="Radiație termică – Romanian">Română</a></li><li class="interlanguage-link interwiki-ru"><a class="interlanguage-link-target" href="https://ru.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%BE%D0%B5_%D0%B8%D0%B7%D0%BB%D1%83%D1%87%D0%B5%D0%BD%D0%B8%D0%B5" hreflang="ru" lang="ru" title="Тепловое излучение – Russian">Русский</a></li><li class="interlanguage-link interwiki-si"><a class="interlanguage-link-target" href="https://si.wikipedia.org/wiki/%E0%B6%AD%E0%B7%8F%E0%B6%B4_%E0%B7%80%E0%B7%92%E0%B6%9A%E0%B7%92%E0%B6%BB%E0%B6%AB%E0%B6%BA" hreflang="si" lang="si" title="තාප විකිරණය – Sinhala">සිංහල</a></li><li class="interlanguage-link interwiki-simple"><a class="interlanguage-link-target" href="https://simple.wikipedia.org/wiki/Thermal_radiation" hreflang="simple" lang="simple" title="Thermal radiation – Simple English">Simple English</a></li><li class="interlanguage-link interwiki-sk"><a class="interlanguage-link-target" href="https://sk.wikipedia.org/wiki/S%C3%A1lanie" hreflang="sk" lang="sk" title="Sálanie – Slovak">Slovenčina</a></li><li class="interlanguage-link interwiki-sl"><a class="interlanguage-link-target" href="https://sl.wikipedia.org/wiki/Toplotno_sevanje" hreflang="sl" lang="sl" title="Toplotno sevanje – Slovenian">Slovenščina</a></li><li class="interlanguage-link interwiki-sr"><a class="interlanguage-link-target" href="https://sr.wikipedia.org/wiki/%D0%A2%D0%BE%D0%BF%D0%BB%D0%BE%D1%82%D0%BD%D0%BE_%D0%B7%D1%80%D0%B0%D1%87%D0%B5%D1%9A%D0%B5" hreflang="sr" lang="sr" title="Топлотно зрачење – Serbian">Српски / srpski</a></li><li class="interlanguage-link interwiki-sh"><a class="interlanguage-link-target" href="https://sh.wikipedia.org/wiki/Termi%C4%8Dka_radijacija" hreflang="sh" lang="sh" title="Termička radijacija – Serbo-Croatian">Srpskohrvatski / српскохрватски</a></li><li class="interlanguage-link interwiki-sv"><a class="interlanguage-link-target" href="https://sv.wikipedia.org/wiki/V%C3%A4rmestr%C3%A5lning" hreflang="sv" lang="sv" title="Värmestrålning – Swedish">Svenska</a></li><li class="interlanguage-link interwiki-ta"><a class="interlanguage-link-target" href="https://ta.wikipedia.org/wiki/%E0%AE%B5%E0%AF%86%E0%AE%AA%E0%AF%8D%E0%AE%AA%E0%AE%95%E0%AF%8D_%E0%AE%95%E0%AE%A4%E0%AE%BF%E0%AE%B0%E0%AF%8D%E0%AE%B5%E0%AF%80%E0%AE%9A%E0%AE%B2%E0%AF%8D" hreflang="ta" lang="ta" title="வெப்பக் கதிர்வீசல் – Tamil">தமிழ்</a></li><li class="interlanguage-link interwiki-th"><a class="interlanguage-link-target" href="https://th.wikipedia.org/wiki/%E0%B8%81%E0%B8%B2%E0%B8%A3%E0%B9%81%E0%B8%9C%E0%B9%88%E0%B8%A3%E0%B8%B1%E0%B8%87%E0%B8%AA%E0%B8%B5%E0%B8%84%E0%B8%A7%E0%B8%B2%E0%B8%A1%E0%B8%A3%E0%B9%89%E0%B8%AD%E0%B8%99" hreflang="th" lang="th" title="การแผ่รังสีความร้อน – Thai">ไทย</a></li><li class="interlanguage-link interwiki-tr"><a class="interlanguage-link-target" href="https://tr.wikipedia.org/wiki/Is%C4%B1l_%C4%B1%C5%9F%C4%B1n%C4%B1m" hreflang="tr" lang="tr" title="Isıl ışınım – Turkish">Türkçe</a></li><li class="interlanguage-link interwiki-uk"><a class="interlanguage-link-target" href="https://uk.wikipedia.org/wiki/%D0%A2%D0%B5%D0%BF%D0%BB%D0%BE%D0%B2%D0%B5_%D0%B2%D0%B8%D0%BF%D1%80%D0%BE%D0%BC%D1%96%D0%BD%D1%8E%D0%B2%D0%B0%D0%BD%D0%BD%D1%8F" hreflang="uk" lang="uk" title="Теплове випромінювання – Ukrainian">Українська</a></li><li class="interlanguage-link interwiki-vi"><a class="interlanguage-link-target" href="https://vi.wikipedia.org/wiki/B%E1%BB%A9c_x%E1%BA%A1_nhi%E1%BB%87t" hreflang="vi" lang="vi" title="Bức xạ nhiệt – Vietnamese">Tiếng Việt</a></li><li class="interlanguage-link interwiki-zh"><a class="interlanguage-link-target" href="https://zh.wikipedia.org/wiki/%E7%86%B1%E8%BC%BB%E5%B0%84" hreflang="zh" lang="zh" title="熱輻射 – Chinese">中文</a></li> </ul>
+<div class="after-portlet after-portlet-lang"><span class="wb-langlinks-edit wb-langlinks-link"><a class="wbc-editpage" href="https://www.wikidata.org/wiki/Special:EntityPage/Q192593#sitelinks-wikipedia" title="Edit interlanguage links">Edit links</a></span></div> </div>
+</div>
+</div>
+</div>
+<div id="footer" role="contentinfo">
+<ul id="footer-info">
+<li id="footer-info-lastmod"> This page was last edited on 13 September 2017, at 18:31.</li>
+<li id="footer-info-copyright">Text is available under the <a href="//en.wikipedia.org/wiki/Wikipedia:Text_of_Creative_Commons_Attribution-ShareAlike_3.0_Unported_License" rel="license">Creative Commons Attribution-ShareAlike License</a><a href="//creativecommons.org/licenses/by-sa/3.0/" rel="license" style="display:none;"></a>;
+additional terms may apply.  By using this site, you agree to the <a href="//wikimediafoundation.org/wiki/Terms_of_Use">Terms of Use</a> and <a href="//wikimediafoundation.org/wiki/Privacy_policy">Privacy Policy</a>. Wikipedia® is a registered trademark of the <a href="//www.wikimediafoundation.org/">Wikimedia Foundation, Inc.</a>, a non-profit organization.</li>
+</ul>
+<ul id="footer-places">
+<li id="footer-places-privacy"><a class="extiw" href="https://wikimediafoundation.org/wiki/Privacy_policy" title="wmf:Privacy policy">Privacy policy</a></li>
+<li id="footer-places-about"><a href="/wiki/Wikipedia:About" title="Wikipedia:About">About Wikipedia</a></li>
+<li id="footer-places-disclaimer"><a href="/wiki/Wikipedia:General_disclaimer" title="Wikipedia:General disclaimer">Disclaimers</a></li>
+<li id="footer-places-contact"><a href="//en.wikipedia.org/wiki/Wikipedia:Contact_us">Contact Wikipedia</a></li>
+<li id="footer-places-developers"><a href="https://www.mediawiki.org/wiki/Special:MyLanguage/How_to_contribute">Developers</a></li>
+<li id="footer-places-cookiestatement"><a href="https://wikimediafoundation.org/wiki/Cookie_statement">Cookie statement</a></li>
+<li id="footer-places-mobileview"><a class="noprint stopMobileRedirectToggle" href="//en.m.wikipedia.org/w/index.php?title=Thermal_radiation&amp;mobileaction=toggle_view_mobile">Mobile view</a></li>
+</ul>
+<ul class="noprint" id="footer-icons">
+<li id="footer-copyrightico">
+<a href="https://wikimediafoundation.org/"><img alt="Wikimedia Foundation" height="31" src="/static/images/wikimedia-button.png" srcset="/static/images/wikimedia-button-1.5x.png 1.5x, /static/images/wikimedia-button-2x.png 2x" width="88"/></a> </li>
+<li id="footer-poweredbyico">
+<a href="//www.mediawiki.org/"><img alt="Powered by MediaWiki" height="31" src="/static/images/poweredby_mediawiki_88x31.png" srcset="/static/images/poweredby_mediawiki_132x47.png 1.5x, /static/images/poweredby_mediawiki_176x62.png 2x" width="88"/></a> </li>
+</ul>
+<div style="clear:both"></div>
+</div>
+<script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgPageParseReport":{"limitreport":{"cputime":"0.312","walltime":"0.910","ppvisitednodes":{"value":1618,"limit":1000000},"ppgeneratednodes":{"value":0,"limit":1500000},"postexpandincludesize":{"value":39171,"limit":2097152},"templateargumentsize":{"value":1262,"limit":2097152},"expansiondepth":{"value":16,"limit":40},"expensivefunctioncount":{"value":4,"limit":500},"entityaccesscount":{"value":1,"limit":400},"timingprofile":["100.00%  293.315      1 -total"," 27.52%   80.728      1 Template:Reflist"," 12.51%   36.705      8 Template:Convert"," 11.72%   34.366      1 Template:More_footnotes"," 11.51%   33.752      2 Template:Cite_book","  8.83%   25.905      1 Template:Radiation","  8.79%   25.784      2 Template:Navbox","  8.64%   25.343      1 Template:Ambox","  8.40%   24.634      1 Template:About","  7.93%   23.255      1 Template:Authority_control"]},"scribunto":{"limitreport-timeusage":{"value":"0.116","limit":"10.000"},"limitreport-memusage":{"value":5470987,"limit":52428800}},"cachereport":{"origin":"mw1271","timestamp":"20170922183711","ttl":1900800,"transientcontent":false}}});});</script><script>(window.RLQ=window.RLQ||[]).push(function(){mw.config.set({"wgBackendResponseTime":77,"wgHostname":"mw1320"});});</script>
+</body>
+</html>
